@@ -1,0 +1,10 @@
+{
+  "url": "https://registrar.ucsd.edu/catalog/11-12/front/JMuir.html",
+  "fetch_url": "https://registrar.ucsd.edu/catalog/11-12/front/JMuir.html",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:43:29Z",
+  "sha256": "ace33852965a216b241b4c9eeab68b4f5490440e5ea2d454bec260a02020df91",
+  "bytes": 14554,
+  "http_status": 200,
+  "final_url": "https://registrar.ucsd.edu/catalog/11-12/front/JMuir.html"
+}

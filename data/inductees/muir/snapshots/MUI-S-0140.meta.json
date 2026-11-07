@@ -1,0 +1,10 @@
+{
+  "url": "https://archive.org/stream/storyofmyboyhood00muirrich/storyofmyboyhood00muirrich_djvu.txt",
+  "fetch_url": "https://archive.org/stream/storyofmyboyhood00muirrich/storyofmyboyhood00muirrich_djvu.txt",
+  "method": "http",
+  "fetched_at": "2026-10-30T19:08:23Z",
+  "sha256": "7a16d4158f31921fb2e7ac60747d13c978bc7b467479a031050bb5fcd9dd6b56",
+  "bytes": 313414,
+  "http_status": 200,
+  "final_url": "https://archive.org/stream/storyofmyboyhood00muirrich/storyofmyboyhood00muirrich_djvu.txt"
+}

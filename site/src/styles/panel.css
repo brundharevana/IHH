@@ -1,0 +1,25 @@
+/* Panel opened ON a stage (src/ui/panel.js): the chapter room's exhibit panel and the journey
+   globe's stop card. Docked on the right of the stage at >= 900 px, a bottom sheet over the
+   stage below that. Page-specific contents are styled by their pages.
+   The panel is the top layer of the stage (z-index 5): above every stage overlay, including the
+   scanned room's loading view and Lite fallback card (z-index 4, ChapterRoom.astro), so details
+   opened from the exhibit list after a failed load are seen and usable (src/test/stacking.test.js). */
+#panel { position: absolute; z-index: 5; background: #fffdf9; color: var(--c-ink); box-shadow: 0 0 24px #0006; overflow-y: auto;
+  overscroll-behavior: contain; padding: 0 var(--space-4) var(--space-5); box-sizing: border-box; }
+#panel[hidden] { display: none; }
+#panel .panel-bar { position: sticky; top: 0; z-index: 1; display: flex; justify-content: flex-end; gap: var(--space-2);
+  margin: 0 calc(-1 * var(--space-4)) var(--space-3); padding: var(--space-2) var(--space-4); background: #fffdf9; border-bottom: 1px solid #e4ddd0; }
+#panel .btn { min-height: 44px; min-width: 44px; padding: var(--space-2) var(--space-4); font: inherit; color: var(--c-ink);
+  background: #fff; border: 1px solid var(--c-muted); border-radius: 6px; cursor: pointer; }
+#panel .panel-step { padding: var(--space-2) var(--space-3); font-size: 1.1rem; }
+#panel .panel-step:disabled { opacity: 0.45; cursor: default; }
+#panel h2 { font-family: var(--f-serif); margin-top: 0; }
+#panel h2:focus, #panel:focus { outline: none; }
+#panel h2:focus-visible { outline: 3px solid var(--c-focus); }
+#panel a { color: var(--c-accent); }
+@media (min-width: 900px) {
+  #panel { top: 0; right: 0; bottom: 0; width: min(420px, 42%); }
+}
+@media (max-width: 899px) {
+  #panel { left: 0; right: 0; bottom: 0; height: 58%; border-radius: 12px 12px 0 0; }
+}

@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Living Painted Portrait</title>
+<link rel="stylesheet" href="common.css">
+</head>
+<body>
+<main>
+  <p class="kicker">Prototype P1 · living painted portrait</p>
+  <h1>Albert Einstein</h1>
+  <p class="label" id="label">AI voice reading Einstein's own words, from his letter to President Franklin D. Roosevelt, 2 August 1939. The voice is synthetic, not Einstein's. Portrait: painted by our filter from a public-domain photograph; the motion is added.</p>
+  <figure>
+    <canvas id="c" role="img" aria-label="Painted portrait of Albert Einstein, older, with white hair and a dark coat. A slow parallax and light movement play while the quote is read."></canvas>
+    <img id="still" src="portrait.webp" alt="Painted portrait of Albert Einstein, older, with white hair and a dark coat." hidden>
+    <div class="caption" id="cap" aria-hidden="true"></div>
+  </figure>
+  <div class="controls">
+    <button id="play" type="button">Play voice</button>
+    <button id="motion" type="button" class="secondary" aria-pressed="false">Pause motion</button>
+  </div>
+  <audio id="a" src="einstein.mp3" preload="auto" crossorigin="anonymous">
+    <track kind="captions" src="einstein.vtt" srclang="en" label="English" default>
+  </audio>
+  <details>
+    <summary>Transcript and source</summary>
+    <p>"Some recent work by E. Fermi and L. Szilard, which has been communicated to me in manuscript, leads me to expect that the element uranium may be turned into a new and important source of energy in the immediate future."</p>
+    <p class="source">Albert Einstein to Franklin D. Roosevelt, 2 August 1939, first sentence. Original held by the Franklin D. Roosevelt Presidential Library. Wording checked 2026-10-09 against the German Historical Institute's transcription: <a href="https://germanhistorydocs.org/en/nazi-germany-1933-1945/letter-from-albert-einstein-to-us-president-roosevelt-on-the-prospect-of-an-atomic-bomb-august-2-1939">GHDI</a>. The letter was drafted with Leo Szilard. Voice: Kokoro-82M (Apache-2.0), voice bm_george. Portrait source: Library of Congress 2004671908.</p>
+  </details>
+  <p class="stats" id="stats" aria-hidden="true"></p>
+</main>
+<script type="module">
+import { reduceMotion, loadImage, loadTiming, makeGL, wireAudio, envAt, makeStats } from './common.js';
+
+const FS = `#version 300 es
+precision highp float;
+in vec2 vUv; out vec4 o;
+uniform sampler2D uImg, uDepth;
+uniform vec2 uOff; uniform float uBreath, uSweep, uEnv;
+void main(){
+  vec2 p = vUv;
+  // Relief lookup: a few fixed-point steps so near pixels (bright depth) move more than far ones.
+  for (int i = 0; i < 4; i++) { float d = texture(uDepth, p).r; p = vUv - uOff * (d - 0.3); }
+  float d = texture(uDepth, p).r;
+  // Breathing: shoulders and chest rise a few pixels; head barely moves.
+  float body = smoothstep(0.55, 0.95, vUv.y) * smoothstep(0.35, 0.7, d);
+  p.y += uBreath * body * 0.0045;
+  p = clamp(p, vec2(0.002), vec2(0.998));
+  vec3 c = texture(uImg, p).rgb;
+  // Light sweep: a warm diagonal band, only on the near subject.
+  float band = exp(-pow((vUv.x + vUv.y * 0.5 - uSweep) / 0.10, 2.0));
+  c += band * 0.06 * vec3(1.0, 0.93, 0.80) * smoothstep(0.3, 0.8, d);
+  // While the voice plays: a slight warm lift on the subject, driven by loudness.
+  c *= 1.0 + uEnv * 0.05 * smoothstep(0.4, 0.9, d);
+  o = vec4(c, 1.0);
+}`;
+
+const canvas = document.getElementById('c'), still = document.getElementById('still');
+const audio = document.getElementById('a'), cap = document.getElementById('cap');
+const motionBtn = document.getElementById('motion');
+wireAudio(audio, cap, document.getElementById('play'));
+const stats = makeStats(document.getElementById('stats'));
+
+const [img, depth, timing] = await Promise.all([loadImage('portrait.webp'), loadImage('depth.png'), loadTiming()]);
+const g = makeGL(canvas, FS, [['uImg', img], ['uDepth', depth]]);
+let ptr = [0, 0], motionOn = !reduceMotion.matches, t0 = performance.now(), raf = 0;
+
+function useStill(on) { still.hidden = !on; canvas.hidden = on; }
+if (!g) useStill(true);
+
+canvas.addEventListener('pointermove', (e) => {
+  const r = canvas.getBoundingClientRect();
+  ptr = [((e.clientX - r.left) / r.width - 0.5), ((e.clientY - r.top) / r.height - 0.5)];
+});
+canvas.addEventListener('pointerleave', () => { ptr = [0, 0]; });
+
+function frame(now) {
+  const a = performance.now();
+  const t = (now - t0) / 1000;
+  const off = [0.010 * Math.sin(t * 0.21) + ptr[0] * 0.025, 0.006 * Math.sin(t * 0.17 + 1.0) + ptr[1] * 0.02];
+  const breath = Math.sin(t * 2 * Math.PI / 4.2);           // about 14 breaths a minute
+  const sweep = -0.3 + ((t % 14) / 14) * 2.2;               // one pass every 14 s
+  const env = audio.paused ? 0 : envAt(timing, audio.currentTime);
+  g.draw({ uOff: off, uBreath: breath, uSweep: sweep, uEnv: env });
+  stats.frames++; stats.jsMs += performance.now() - a;
+  raf = requestAnimationFrame(frame);
+}
+function stillFrame() { g && g.draw({ uOff: [0, 0], uBreath: 0, uSweep: -1, uEnv: 0 }); }
+
+function setMotion(on) {
+  motionOn = on; cancelAnimationFrame(raf);
+  motionBtn.textContent = on ? 'Pause motion' : 'Play motion';
+  motionBtn.setAttribute('aria-pressed', String(!on));
+  if (!g) return;
+  if (reduceMotion.matches) { useStill(true); return; }
+  useStill(false);
+  if (on) raf = requestAnimationFrame(frame); else stillFrame();
+}
+motionBtn.addEventListener('click', () => setMotion(!motionOn));
+reduceMotion.addEventListener('change', () => setMotion(!reduceMotion.matches));
+// Under reduced motion the page shows the plain painted image; captions still work.
+setMotion(motionOn);
+</script>
+</body>
+</html>

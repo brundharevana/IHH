@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/521066039",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=521066039",
+  "method": "api",
+  "fetched_at": "2026-10-09T19:35:36Z",
+  "sha256": "1ad5e10119852276cdc6d37edb606d74f5036fa6f9a51fa8cf3b2f057c9c0ce9",
+  "bytes": 3797,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=521066039"
+}

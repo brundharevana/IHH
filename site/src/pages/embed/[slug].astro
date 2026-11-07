@@ -1,0 +1,90 @@
+---
+// WordPress embed teaser: /embed/<slug>/. Static and compact: the painted portrait (only when its
+// photo record is verified with a usable licence), the name, one verified line from the first
+// chapter with its source links, and a link to the full experience. No 3D, no audio, no autoplay.
+// Inside WordPress's iframe it sends the wp-embed messages {message:'height'} and {message:'link'}
+// with the secret from the URL hash (#?secret=...); outside WordPress it is a normal page and links.
+// Every link stays on this site: WordPress's iframe is sandboxed without popups and follows link
+// messages only to the iframe's own host.
+import '../../styles/tokens.css';
+import { embedView, embedSlugs } from '../../content/embed.js';
+
+export function getStaticPaths() {
+  return embedSlugs().map(slug => ({ params: { slug }, props: { slug } }));
+}
+const { slug } = Astro.props;
+const v = embedView(slug);
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>{v.name} | IHH: Voices of Arrival</title>
+</head>
+<body>
+  <main class="teaser">
+    {v.portrait && (
+      <figure class="face">
+        <img src={v.portrait.image} alt={v.portrait.alt} width="120" height="148" />
+      </figure>
+    )}
+    <div class="text">
+      <p class="kicker">IHH: Voices of Arrival</p>
+      <h1>{v.name}</h1>
+      <p class="line">{v.summary.text}</p>
+      <p class="src">
+        {`${v.summary.institutions.length === 1 ? 'Source' : 'Sources'}: ${v.summary.institutions.join('; ')}. `}
+        <a href={v.summary.sourcesHref} target="_top" data-link>See the sources for this line</a>
+      </p>
+      <p><a class="open" href={v.href} target="_top" data-link>Open the full experience</a></p>
+      {v.portrait && <p class="badge">{v.portrait.badge}</p>}
+    </div>
+  </main>
+
+  <!-- Inline classic script: the sandboxed iframe has no same-origin rights, so a module file would need CORS. -->
+  <script is:inline>
+    (function () {
+      // WordPress secrets are letters and digits; anything else is ignored and nothing is posted.
+      var found = /[?&]secret=([^&]*)/.exec(location.hash);
+      var secret = found && /^[A-Za-z0-9]{1,64}$/.test(found[1]) ? found[1] : null;
+      var framed = window.parent !== window;
+      function post(message) {
+        if (!framed || !secret) return;
+        message.secret = secret;
+        window.parent.postMessage(message, '*');
+      }
+      function sendHeight() {
+        post({ message: 'height', value: Math.min(1000, Math.ceil(document.body.getBoundingClientRect().height)) });
+      }
+      sendHeight();
+      window.addEventListener('load', sendHeight);
+      if (window.ResizeObserver) new ResizeObserver(sendHeight).observe(document.body);
+      Array.prototype.forEach.call(document.querySelectorAll('[data-link]'), function (a) {
+        a.addEventListener('click', function (e) {
+          if (!framed || !secret) return; // a normal link outside WordPress
+          e.preventDefault();
+          post({ message: 'link', value: a.href });
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
+
+<style is:global>
+  html, body { margin: 0; padding: 0; background: var(--c-bg); color: var(--c-ink); font-family: var(--f-sans); }
+  .teaser { display: flex; flex-wrap: wrap; gap: var(--space-4); padding: var(--space-4); box-sizing: border-box; }
+  .face { margin: 0; flex: 0 0 120px; }
+  .face img { display: block; width: 120px; height: auto; border-radius: 4px; }
+  .text { flex: 1 1 260px; min-width: 0; }
+  .kicker { margin: 0; font-size: 0.85rem; color: var(--c-muted); }
+  h1 { margin: var(--space-1) 0 var(--space-2); font-family: var(--f-serif); font-size: 1.6rem; line-height: 1.2; }
+  .line { margin: 0 0 var(--space-2); font-size: 1.05rem; line-height: 1.45; }
+  .src { margin: 0 0 var(--space-3); font-size: 0.85rem; color: var(--c-muted); }
+  .src a, .badge a { color: var(--c-accent); }
+  .open { display: inline-block; min-height: 44px; box-sizing: border-box; padding: 10px var(--space-4); line-height: 24px;
+    background: var(--c-accent); color: #fff; border-radius: 6px; text-decoration: none; font-weight: 700; }
+  .badge { margin: var(--space-2) 0 0; font-size: 0.8rem; color: var(--c-muted); line-height: 1.4; }
+</style>

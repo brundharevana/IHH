@@ -1,0 +1,10 @@
+{
+  "url": "https://blogs.loc.gov/kluge/2015/06/madeleine-albright-returns-to-the-library-of-congress-where-she-wrote-her-dissertation/",
+  "fetch_url": "https://blogs.loc.gov/kluge/2015/06/madeleine-albright-returns-to-the-library-of-congress-where-she-wrote-her-dissertation/",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:22:58Z",
+  "sha256": "60d43e7be522545cf6f5510ebeaaab19c99e279ff001ab2326b4f7742f07c985",
+  "bytes": 8023,
+  "http_status": 200,
+  "final_url": "https://blogs.loc.gov/kluge/2015/06/madeleine-albright-returns-to-the-library-of-congress-where-she-wrote-her-dissertation/"
+}

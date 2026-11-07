@@ -1,0 +1,81 @@
+{
+  "$comment": "Walkable bounds for free roam in naismith-presbyterian-dining-hall.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 5.0,
+  "walkable": {
+    "x_min": -5.65,
+    "x_max": 4.65,
+    "z_min": 0.35,
+    "z_max": 10.65
+  },
+  "obstacles": [
+    {
+      "name": "dining_table_and_chairs",
+      "x_min": -1.83,
+      "x_max": 2.33,
+      "z_min": -0.1,
+      "z_max": 3.68
+    },
+    {
+      "name": "table_second",
+      "x_min": -2.95,
+      "x_max": -0.95,
+      "z_min": 4.3,
+      "z_max": 6.3
+    },
+    {
+      "name": "sideboard",
+      "x_min": 1.85,
+      "x_max": 3.3,
+      "z_min": -0.15,
+      "z_max": 0.75
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": 7.9,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "Where the 1889 photograph was taken"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -2.2,
+      "z": 2.6,
+      "look_at": {
+        "x": -2.3,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "Before the shuttered window"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 2.4,
+      "z": 2.0,
+      "look_at": {
+        "x": 3.7,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "By the sideboard and the door"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 3.6,
+      "z": 9.0,
+      "look_at": {
+        "x": -1.0,
+        "y": 1.5,
+        "z": 1.0
+      },
+      "note": "In the room, looking across the table"
+    }
+  ]
+}

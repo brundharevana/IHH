@@ -1,0 +1,10 @@
+{
+  "url": "https://floridainvents.org/hedy-lamarr/",
+  "fetch_url": "https://floridainvents.org/hedy-lamarr/",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:51:59Z",
+  "sha256": "03842021318fc17e283e2c4a9ad9c56838255522061394bdf9105e200915ecdc",
+  "bytes": 3705,
+  "http_status": 200,
+  "final_url": "https://floridainvents.org/hedy-lamarr/"
+}

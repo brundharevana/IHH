@@ -1,0 +1,10 @@
+{
+  "url": "https://oac.cdlib.org/findaid/ark:/13030/kt709nf3b8/",
+  "fetch_url": "https://oac.cdlib.org/findaid/ark:/13030/kt709nf3b8/",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:41:28Z",
+  "sha256": "e4d4c2f2a044d9482bcb6b1c22b81fc9ec77f1600d15928ac521e4014e31b5fd",
+  "bytes": 9713,
+  "http_status": 200,
+  "final_url": "https://oac.cdlib.org/findaid/ark:/13030/kt709nf3b8/"
+}

@@ -1,0 +1,19 @@
+asset: 30e5ce8b-1cbb-4a98-b2f5-75d14b53a40d
+file_name: Portr_03143-A.tif
+title: Einstein, Albert (1879-1955), Winteler-Einstein, Maja (1881-1951)
+description_en: Einstein siblings as children
+description_de: Geschwister Einstein als Kinder
+eth_dating: 1885
+eth_photographer: Unbekannt
+eth_physical_description: Photography : paper print, mounted on cardboard
+eth_special_dimensions: 14,7 x 10,5 cm
+eth_signature: Portr 3143 A
+eth_doi_link: http://doi.org/10.3932/ethz-a-000045771
+eth_terms_of_use: Rechte: ETH-Bibliothek, ETH Zürich / Ullstein Bild / The Granger Collection
+eth_copyright_notice: ETH Library Zurich, Image Archive / Portr_03143-A
+eth_license: Public Domain Mark
+eth_availability: Free download and use
+eth_availability_description: Free use means: images can be freely used for private, scientific, and commercial purposes
+file_size: 25.17 MB
+changed_at: 2026-02-22 15:22:17
+_fetched_via: ba.e-pics.ethz.ch app (sharedien-adapter.loadMetadata) in a browser tab, 2026-10-29; field values copied verbatim

@@ -1,0 +1,269 @@
+title: Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil
+levelOfDescription: fileUnit
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: false
+physicalOccurrences[0].referenceUnits[0].city: Kansas City
+physicalOccurrences[0].referenceUnits[0].phone: 816-268-8000
+physicalOccurrences[0].referenceUnits[0].address1: 400 West Pershing Road
+physicalOccurrences[0].referenceUnits[0].postalCode: 64108
+physicalOccurrences[0].referenceUnits[0].name: National Archives at Kansas City
+physicalOccurrences[0].referenceUnits[0].state: MO
+physicalOccurrences[0].referenceUnits[0].fax: 816-268-8038
+physicalOccurrences[0].referenceUnits[0].email: kansascity.archives@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Loose Sheets
+physicalOccurrences[0].mediaOccurrences[0].physicalRestrictionNote: Because these records are stored offsite, researchers must request the records two business days in advance.
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at Kansas City
+dataControlGroup.groupId: RRFK
+dataControlGroup.groupCd: RRFK
+generalRecordsTypes[0]: Architectural and Engineering Drawings
+generalRecordsTypes[1]: Textual Records
+variantControlNumbers[0].note: This is the Patent Case File Number.
+variantControlNumbers[0].number: 2292387
+variantControlNumbers[0].type: Agency-Assigned Identifier
+digitalObjects[0].objectFilename: 302050_2292387_01.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_01.jpg
+digitalObjects[0].objectFileSize: 1234
+digitalObjects[0].objectId: 167820370
+digitalObjects[0].objectType: Image (JPG)
+digitalObjects[1].objectFilename: 302050_2292387_02.jpg
+digitalObjects[1].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_02.jpg
+digitalObjects[1].objectFileSize: 1234
+digitalObjects[1].objectId: 167820371
+digitalObjects[1].objectType: Image (JPG)
+digitalObjects[2].objectFilename: 302050_2292387_03.jpg
+digitalObjects[2].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_03.jpg
+digitalObjects[2].objectFileSize: 1234
+digitalObjects[2].objectId: 167820372
+digitalObjects[2].objectType: Image (JPG)
+digitalObjects[3].objectFilename: 302050_2292387_04.jpg
+digitalObjects[3].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_04.jpg
+digitalObjects[3].objectFileSize: 1234
+digitalObjects[3].objectId: 167820373
+digitalObjects[3].objectType: Image (JPG)
+digitalObjects[4].objectFilename: 302050_2292387_05.jpg
+digitalObjects[4].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_05.jpg
+digitalObjects[4].objectFileSize: 1234
+digitalObjects[4].objectId: 167820374
+digitalObjects[4].objectType: Image (JPG)
+digitalObjects[5].objectFilename: 302050_2292387_06.jpg
+digitalObjects[5].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_06.jpg
+digitalObjects[5].objectFileSize: 1234
+digitalObjects[5].objectId: 167820375
+digitalObjects[5].objectType: Image (JPG)
+digitalObjects[6].objectFilename: 302050_2292387_07.jpg
+digitalObjects[6].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_07.jpg
+digitalObjects[6].objectFileSize: 1234
+digitalObjects[6].objectId: 167820376
+digitalObjects[6].objectType: Image (JPG)
+digitalObjects[7].objectFilename: 302050_2292387_08.jpg
+digitalObjects[7].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_08.jpg
+digitalObjects[7].objectFileSize: 1234
+digitalObjects[7].objectId: 167820377
+digitalObjects[7].objectType: Image (JPG)
+digitalObjects[8].objectFilename: 302050_2292387_09.jpg
+digitalObjects[8].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_09.jpg
+digitalObjects[8].objectFileSize: 1234
+digitalObjects[8].objectId: 167820378
+digitalObjects[8].objectType: Image (JPG)
+digitalObjects[9].objectFilename: 302050_2292387_10.jpg
+digitalObjects[9].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_10.jpg
+digitalObjects[9].objectFileSize: 1234
+digitalObjects[9].objectId: 167820379
+digitalObjects[9].objectType: Image (JPG)
+digitalObjects[10].objectFilename: 302050_2292387_11.jpg
+digitalObjects[10].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_11.jpg
+digitalObjects[10].objectFileSize: 1234
+digitalObjects[10].objectId: 167820380
+digitalObjects[10].objectType: Image (JPG)
+digitalObjects[11].objectFilename: 302050_2292387_12.jpg
+digitalObjects[11].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_12.jpg
+digitalObjects[11].objectFileSize: 1234
+digitalObjects[11].objectId: 167820381
+digitalObjects[11].objectType: Image (JPG)
+digitalObjects[12].objectFilename: 302050_2292387_13.jpg
+digitalObjects[12].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_13.jpg
+digitalObjects[12].objectFileSize: 1234
+digitalObjects[12].objectId: 167820382
+digitalObjects[12].objectType: Image (JPG)
+digitalObjects[13].objectFilename: 302050_2292387_14.jpg
+digitalObjects[13].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_14.jpg
+digitalObjects[13].objectFileSize: 1234
+digitalObjects[13].objectId: 167820383
+digitalObjects[13].objectType: Image (JPG)
+digitalObjects[14].objectFilename: 302050_2292387_15.jpg
+digitalObjects[14].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_15.jpg
+digitalObjects[14].objectFileSize: 1234
+digitalObjects[14].objectId: 167820384
+digitalObjects[14].objectType: Image (JPG)
+digitalObjects[15].objectFilename: 302050_2292387_16.jpg
+digitalObjects[15].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_16.jpg
+digitalObjects[15].objectFileSize: 1234
+digitalObjects[15].objectId: 167820385
+digitalObjects[15].objectType: Image (JPG)
+digitalObjects[16].objectFilename: 302050_2292387_17.jpg
+digitalObjects[16].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_17.jpg
+digitalObjects[16].objectFileSize: 1234
+digitalObjects[16].objectId: 167820386
+digitalObjects[16].objectType: Image (JPG)
+digitalObjects[17].objectFilename: 302050_2292387_18.jpg
+digitalObjects[17].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_18.jpg
+digitalObjects[17].objectFileSize: 1234
+digitalObjects[17].objectId: 167820387
+digitalObjects[17].objectType: Image (JPG)
+digitalObjects[18].objectFilename: 302050_2292387_19.jpg
+digitalObjects[18].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_19.jpg
+digitalObjects[18].objectFileSize: 1234
+digitalObjects[18].objectId: 167820388
+digitalObjects[18].objectType: Image (JPG)
+digitalObjects[19].objectFilename: 302050_2292387_20.jpg
+digitalObjects[19].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_20.jpg
+digitalObjects[19].objectFileSize: 1234
+digitalObjects[19].objectId: 167820389
+digitalObjects[19].objectType: Image (JPG)
+digitalObjects[20].objectFilename: 302050_2292387_21.jpg
+digitalObjects[20].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_21.jpg
+digitalObjects[20].objectFileSize: 1234
+digitalObjects[20].objectId: 167820390
+digitalObjects[20].objectType: Image (JPG)
+digitalObjects[21].objectFilename: 302050_2292387_22.jpg
+digitalObjects[21].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_22.jpg
+digitalObjects[21].objectFileSize: 1234
+digitalObjects[21].objectId: 167820391
+digitalObjects[21].objectType: Image (JPG)
+digitalObjects[22].objectFilename: 302050_2292387_23.jpg
+digitalObjects[22].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_23.jpg
+digitalObjects[22].objectFileSize: 1234
+digitalObjects[22].objectId: 167820392
+digitalObjects[22].objectType: Image (JPG)
+digitalObjects[23].objectFilename: 302050_2292387_24.jpg
+digitalObjects[23].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_24.jpg
+digitalObjects[23].objectFileSize: 1234
+digitalObjects[23].objectId: 167820393
+digitalObjects[23].objectType: Image (JPG)
+digitalObjects[24].objectFilename: 302050_2292387_25.jpg
+digitalObjects[24].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_25.jpg
+digitalObjects[24].objectFileSize: 1234
+digitalObjects[24].objectId: 167820394
+digitalObjects[24].objectType: Image (JPG)
+digitalObjects[25].objectFilename: 302050_2292387_26.jpg
+digitalObjects[25].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_26.jpg
+digitalObjects[25].objectFileSize: 1234
+digitalObjects[25].objectId: 167820395
+digitalObjects[25].objectType: Image (JPG)
+digitalObjects[26].objectFilename: 302050_2292387_27.jpg
+digitalObjects[26].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_27.jpg
+digitalObjects[26].objectFileSize: 1234
+digitalObjects[26].objectId: 167820396
+digitalObjects[26].objectType: Image (JPG)
+digitalObjects[27].objectFilename: 302050_2292387_28.jpg
+digitalObjects[27].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_28.jpg
+digitalObjects[27].objectFileSize: 1234
+digitalObjects[27].objectId: 167820397
+digitalObjects[27].objectType: Image (JPG)
+digitalObjects[28].objectFilename: 302050_2292387_29.jpg
+digitalObjects[28].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_29.jpg
+digitalObjects[28].objectFileSize: 1234
+digitalObjects[28].objectId: 167820398
+digitalObjects[28].objectType: Image (JPG)
+digitalObjects[29].objectFilename: 302050_2292387_30.jpg
+digitalObjects[29].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_30.jpg
+digitalObjects[29].objectFileSize: 1234
+digitalObjects[29].objectId: 167820399
+digitalObjects[29].objectType: Image (JPG)
+digitalObjects[30].objectFilename: 302050_2292387_31.jpg
+digitalObjects[30].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_31.jpg
+digitalObjects[30].objectFileSize: 1234
+digitalObjects[30].objectId: 167820400
+digitalObjects[30].objectType: Image (JPG)
+digitalObjects[31].objectFilename: 302050_2292387_32.jpg
+digitalObjects[31].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_32.jpg
+digitalObjects[31].objectFileSize: 1234
+digitalObjects[31].objectId: 167820401
+digitalObjects[31].objectType: Image (JPG)
+digitalObjects[32].objectFilename: 302050_2292387_33.jpg
+digitalObjects[32].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_33.jpg
+digitalObjects[32].objectFileSize: 1234
+digitalObjects[32].objectId: 167820402
+digitalObjects[32].objectType: Image (JPG)
+digitalObjects[33].objectFilename: 302050_2292387_34.jpg
+digitalObjects[33].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_34.jpg
+digitalObjects[33].objectFileSize: 1234
+digitalObjects[33].objectId: 167820403
+digitalObjects[33].objectType: Image (JPG)
+digitalObjects[34].objectFilename: 302050_2292387_35.jpg
+digitalObjects[34].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_35.jpg
+digitalObjects[34].objectFileSize: 1234
+digitalObjects[34].objectId: 167820404
+digitalObjects[34].objectType: Image (JPG)
+digitalObjects[35].objectFilename: 302050_2292387_36.jpg
+digitalObjects[35].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_36.jpg
+digitalObjects[35].objectFileSize: 1234
+digitalObjects[35].objectId: 167820405
+digitalObjects[35].objectType: Image (JPG)
+digitalObjects[36].objectFilename: 302050_2292387_37.jpg
+digitalObjects[36].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_37.jpg
+digitalObjects[36].objectFileSize: 1234
+digitalObjects[36].objectId: 167820406
+digitalObjects[36].objectType: Image (JPG)
+digitalObjects[37].objectFilename: 302050_2292387_38.jpg
+digitalObjects[37].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_38.jpg
+digitalObjects[37].objectFileSize: 1234
+digitalObjects[37].objectId: 167820407
+digitalObjects[37].objectType: Image (JPG)
+digitalObjects[38].objectFilename: 302050_2292387_39.jpg
+digitalObjects[38].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_39.jpg
+digitalObjects[38].objectFileSize: 1234
+digitalObjects[38].objectId: 167820408
+digitalObjects[38].objectType: Image (JPG)
+digitalObjects[39].objectFilename: 302050_2292387_40.jpg
+digitalObjects[39].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_40.jpg
+digitalObjects[39].objectFileSize: 1234
+digitalObjects[39].objectId: 167820409
+digitalObjects[39].objectType: Image (JPG)
+digitalObjects[40].objectFilename: 302050_2292387_41.jpg
+digitalObjects[40].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_41.jpg
+digitalObjects[40].objectFileSize: 1234
+digitalObjects[40].objectId: 167820410
+digitalObjects[40].objectType: Image (JPG)
+digitalObjects[41].objectFilename: 302050_2292387_42.jpg
+digitalObjects[41].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_42.jpg
+digitalObjects[41].objectFileSize: 1234
+digitalObjects[41].objectId: 167820411
+digitalObjects[41].objectType: Image (JPG)
+digitalObjects[42].objectFilename: 302050_2292387.pdf
+digitalObjects[42].objectUrl: https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387.pdf
+digitalObjects[42].objectFileSize: 1234
+digitalObjects[42].objectId: 167820369
+digitalObjects[42].objectType: Portable Document File (PDF)
+ancestors[0].inclusiveStartDate.year: 1836
+ancestors[0].inclusiveStartDate.logicalDate: 1836-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 241
+ancestors[0].inclusiveEndDate.year: 1978
+ancestors[0].inclusiveEndDate.logicalDate: 1978-12-31
+ancestors[0].title: Records of the Patent and Trademark Office
+ancestors[0].naId: 568
+ancestors[1].inclusiveStartDate.month: 1
+ancestors[1].inclusiveStartDate.year: 1836
+ancestors[1].inclusiveStartDate.day: 1
+ancestors[1].inclusiveStartDate.logicalDate: 1836-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of Commerce. Patent and Trademark Office. (1975 - )
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 1975
+ancestors[1].creators[0].establishDate.logicalDate: 1975-01-01
+ancestors[1].creators[0].naId: 10480388
+ancestors[1].inclusiveEndDate.month: 12
+ancestors[1].inclusiveEndDate.year: 2000
+ancestors[1].inclusiveEndDate.day: 31
+ancestors[1].inclusiveEndDate.logicalDate: 2000-12-31
+ancestors[1].title: Utility Patent Case Files
+ancestors[1].naId: 302050
+naId: 167820368

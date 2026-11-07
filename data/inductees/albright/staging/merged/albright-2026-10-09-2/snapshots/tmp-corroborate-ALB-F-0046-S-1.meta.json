@@ -1,0 +1,10 @@
+{
+  "url": "https://readmypins.state.gov/about-the-secretary",
+  "fetch_url": "https://readmypins.state.gov/about-the-secretary",
+  "method": "http",
+  "fetched_at": "2026-10-09T20:17:22Z",
+  "sha256": "1ad2d820d1836ff4a2bbbbc5db988508c06ae3f6a6d62b61f267bddf2e8cdaf0",
+  "bytes": 3626,
+  "http_status": 200,
+  "final_url": "https://readmypins.state.gov/about-the-secretary"
+}

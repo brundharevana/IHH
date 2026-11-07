@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/today-in-history/march-02/",
+  "fetch_url": "https://www.loc.gov/item/today-in-history/march-02/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:33Z",
+  "sha256": "c0f23e59be5b98de9e1c3ea22ce0a3a3a978a4987d334d6995350078e25b7753",
+  "bytes": 10775,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/today-in-history/march-02/?fo=json"
+}

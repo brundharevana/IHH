@@ -1,0 +1,13 @@
+# SHA-256 of lowercased name and email tokens that must never appear in an export
+# (tools/tests/test_export_privacy.py). Hashes only: the names are not written here.
+# Add one: python3 -c "import hashlib,sys;print(hashlib.sha256(sys.argv[1].lower().encode()).hexdigest())" TOKEN
+06772ef13b5f7ae62694442bc60b71d1f5789fb06b0ac125fe0500b0d57359cf
+2f449634a3389022c2db106f8d88f45ac774eeabfa7feac1d6b323c5f3b2a9bd
+3adf752f67fac6316e89e8e7d5a44ee27c19059ff23feb17847557454fbe589b
+55808110dbdbf225ceb67a0d51d2f9c11a501b8fa9976ac7f462fb149cb41fb8
+7ebe6a8ef12e9ff7be88a6bd2d9d40a2a6faf8f5a61488c7548bd798fe824631
+83b73376d0baa9be9541e4bf588bc484a858f7f8700b3dabf5bfe6198ef1006b
+85cb3daccfa01916075afc3c0213f6eb1c9f22f7616e31c147442c3fede450ad
+aa160ed5f15ad07282640c021545fe4c90de73583e352a1de44df40d0ae0cf8f
+c3e7d7bfa58bb92f1cf068105519b6c3eb46a5ac9979d2e5a14d25434b995846
+df6749a1b8f140d990a07bdfd41863abd97e88d3cf4e68bcb9ad1ecd7e7a2adf

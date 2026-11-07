@@ -1,0 +1,10 @@
+{
+  "url": "https://guides.loc.gov/p-and-p-rights-and-restrictions/rights",
+  "fetch_url": "https://guides.loc.gov/p-and-p-rights-and-restrictions/rights",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:23:52Z",
+  "sha256": "b5670ebcaba72f9de7158473e4016b705854e28af31b7dbaa448d593cc36cb26",
+  "bytes": 2001,
+  "http_status": 200,
+  "final_url": "https://guides.loc.gov/p-and-p-rights-and-restrictions/rights"
+}

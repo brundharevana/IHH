@@ -1,0 +1,10 @@
+{
+  "url": "https://springfield.edu/about/birthplace-of-basketball",
+  "fetch_url": "https://springfield.edu/about/birthplace-of-basketball",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:15:06Z",
+  "sha256": "4f324baf9de96be7c15da798cb0221ffca912d2dac1b7763ff4fa733e4f219b0",
+  "bytes": 15308,
+  "http_status": 200,
+  "final_url": "https://springfield.edu/about/birthplace-of-basketball"
+}

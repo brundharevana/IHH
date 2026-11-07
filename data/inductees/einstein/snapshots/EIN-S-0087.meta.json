@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn92070146/1931-01-01/ed-1/?sp=1&st=text",
+  "fetch_url": "https://www.loc.gov/resource/sn92070146/1931-01-01/ed-1/?sp=1&st=text&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-10T21:43:49Z",
+  "sha256": "5ecd1652cff1509ae2457d78d092124ef217234bf1077ce808afa713506310e7",
+  "bytes": 44869,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn92070146/1931-01-01/ed-1/?sp=1&st=text&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1931010101/1209.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1931010101/1209.xml"
+}

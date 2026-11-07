@@ -1,0 +1,54 @@
+title: Lamarr, Hedy
+dataControlGroup.groupId: ou=NWCS-S,ou=groups
+dataControlGroup.groupCd: RDSS
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+levelOfDescription: fileUnit
+recordType: description
+localIdentifier: 208-WP-16V
+useRestriction.note: Copyright restrictions may apply to the use of any items credited to a private photographer or company. Such items comprise more than half the series.
+useRestriction.specificUseRestrictions[0]: Copyright
+useRestriction.status: Restricted - Possibly
+ancestors[0].inclusiveStartDate.year: 1926
+ancestors[0].inclusiveStartDate.logicalDate: 1926-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 208
+ancestors[0].inclusiveEndDate.year: 1951
+ancestors[0].inclusiveEndDate.logicalDate: 1951-12-31
+ancestors[0].title: Records of the Office of War Information
+ancestors[0].naId: 535
+ancestors[1].inclusiveStartDate.year: 1942
+ancestors[1].inclusiveStartDate.logicalDate: 1942-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Office for Emergency Management. Office of War Information. Overseas Operations Branch. New York Office. News and Features Bureau. 12/17/1942-9/15/1945
+ancestors[1].creators[0].abolishDate.month: 9
+ancestors[1].creators[0].abolishDate.year: 1945
+ancestors[1].creators[0].abolishDate.day: 15
+ancestors[1].creators[0].abolishDate.logicalDate: 1945-09-15
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 12
+ancestors[1].creators[0].establishDate.year: 1942
+ancestors[1].creators[0].establishDate.day: 17
+ancestors[1].creators[0].establishDate.logicalDate: 1942-12-17
+ancestors[1].creators[0].naId: 10454759
+ancestors[1].inclusiveEndDate.year: 1945
+ancestors[1].inclusiveEndDate.logicalDate: 1945-12-31
+ancestors[1].title: Photographs of Wartime Personalities
+ancestors[1].naId: 535965
+naId: 178991813
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-0561
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Still Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3621
+physicalOccurrences[0].referenceUnits[0].email: stillpix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Photographic Materials
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Photographic Print
+physicalOccurrences[0].mediaOccurrences[0].containerId: Box 16, Folder V
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted

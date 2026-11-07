@@ -1,0 +1,120 @@
+_version_: 1878547596913410048
+access_restricted: false
+aka[0]: http://memory.loc.gov/ammem/today/mar02.html
+aka[1]: http://www.loc.gov/item/today-in-history/march-02/
+aka[2]: http://www.loc.gov/item/today-in-history/march-02/mount-rainier-national-park/
+articles[0]: Mount Rainier Becomes National Park
+
+On March 2, 1899, President William McKinley signed legislation creating Mount Rainier National Park in central Washington. The 365-square-mile area of pristine forests and spectacular alpine scenery was the fifth national park designated by Congress. Called Tacoma (or Tahoma) by generations of Northwest Native Americans, Mount Rainier was named after Admiral Peter Rainier in 1792 by English explorer George Vancouver, who sighted the enormous 14,410-foot volcanic peak while exploring Puget Sound.
+
+…[I]f in the making of the West Nature had what we call parks in mind, —places for rest, inspiration, and prayers, —this Rainier region must surely be one of them.
+
+Our National Parks, by John Muir. Boston and New York: Houghton, Mifflin and Company, 1901. p30. Selected Digitized Books. General Collections
+
+View of new Tacoma and Mount Rainier, Puget Sound, Washington Territory. E.S. Glover, artist; Portland, Or., 1878; San Francisco: A.L. Bancroft & Company, Lith. Panoramic Maps. Geography & Map Division
+
+Group of men and women climbing Paradise Glacier in Mt. Rainier National Park, Washington. Curtis & Miller, photographer; [between 1911 and 1920]. National Photo Company Collection. Prints & Photographs Division
+
+Nearly a century later, famed naturalist John Muir visited the Rainier region and later recommended that it be designated as a national park. Muir was particularly impressed with the magnificent wildflowers that blanket the mountain during the warm months of the year. In his 1898 essay “The Wild Parks and Forest Reservations of the West,” reprinted in his 1901 book Our National Parks, Muir wrote:
+
+…above the forests there is a zone of the loveliest flowers, fifty miles in circuit and nearly two miles wide, so closely planted and luxuriant that it seems as if Nature, glad to make an open space between woods so dense and ice so deep, were economizing the precious ground, and trying to see how many of her darlings she can get together in one mountain wreath, —daisies, anemones, geraniums, columbines, erythroniums, larkspurs, etc., among which we wade knee-deep and waist-deep, the bright corollas in myriads touching petal to petal.
+
+Our National Parks, by John Muir. Boston and New York: Houghton, Mifflin and Company, 1901. p30-31.
+
+While the legislation to establish Mount Rainier National Park was praised by many, it was not without its critics. Some charged the act was merely a congressional ruse to aid the Northern Pacific Railroad. To learn more about the relationship between railroads and America’s National Parks, see Railroads in the National Parks.
+
+Ice cavern in Paradise Glacier, Mt. Rainier National Park. [between 1900 and 1935]. Wittemann Collection. Prints & Photographs Division
+
+Learn More
+
+To find out more about the Native peoples who lived in the region around Mount Rainier (or Tahoma) when the park was created, explore the photographs in the collection American Indians of the Pacific NorthwestExternal, or see the National Park Service descriptions of archaeological finds at Mount Rainier.
+
+For more materials on naturalist John Muir, search on Muir in Pioneering the Upper Midwest: Books from Michigan, Minnesota, and Wisconsin, ca. 1820 to 1910, Selected Digitized Books, and the archived collection The Evolution of the Conservation Movement, 1850-1920.
+
+To learn about other important events in the movement to conserve and protect America’s natural heritage, see the chronology in the archived collection The Evolution of the Conservation Movement, 1850-1920.
+
+Search Today in History for other features related to national parks and conservation. Search on names of the national parks or figures associated with the conservation movement such as John Muir and Theodore Roosevelt.
+Search the journals listed in the collection Making of AmericaExternal on the phrase John Muir to find many more of Muir’s articles on the wild lands of North America.
+dates[0].1899-03-02: https://www.loc.gov/search/?dates=1899-03-02/1899-03-02&fo=json
+description[0]: Mount Rainier Becomes National Park
+digitized: true
+display_offsite: true
+extract_timestamp: 2026-10-09T05:04:21.712Z
+extract_urls[0]: http://www.loc.gov/item/today-in-history/march-02/#today-in-history
+format[0].web page: https://www.loc.gov/search/?fa=original_format:web+page&fo=json
+group[0]: today-in-history
+hassegments: false
+id: http://www.loc.gov/item/today-in-history/march-02/
+image_url[0]: https://www.loc.gov/static/managed-content/uploads/sites/10/1899/03/mount-rainier.jpg#h=341&w=500
+index: 1
+item.aka[0]: https://memory.loc.gov/ammem/today/mar02.html
+item.aka[1]: https://www.loc.gov/item/today-in-history/march-02/
+item.aka[2]: https://www.loc.gov/item/today-in-history/march-02/mount-rainier-national-park/
+item.articles[0]: Mount Rainier Becomes National Park
+
+On March 2, 1899, President William McKinley signed legislation creating Mount Rainier National Park in central Washington. The 365-square-mile area of pristine forests and spectacular alpine scenery was the fifth national park designated by Congress. Called Tacoma (or Tahoma) by generations of Northwest Native Americans, Mount Rainier was named after Admiral Peter Rainier in 1792 by English explorer George Vancouver, who sighted the enormous 14,410-foot volcanic peak while exploring Puget Sound.
+
+…[I]f in the making of the West Nature had what we call parks in mind, —places for rest, inspiration, and prayers, —this Rainier region must surely be one of them.
+
+Our National Parks, by John Muir. Boston and New York: Houghton, Mifflin and Company, 1901. p30. Selected Digitized Books. General Collections
+
+View of new Tacoma and Mount Rainier, Puget Sound, Washington Territory. E.S. Glover, artist; Portland, Or., 1878; San Francisco: A.L. Bancroft & Company, Lith. Panoramic Maps. Geography & Map Division
+
+Group of men and women climbing Paradise Glacier in Mt. Rainier National Park, Washington. Curtis & Miller, photographer; [between 1911 and 1920]. National Photo Company Collection. Prints & Photographs Division
+
+Nearly a century later, famed naturalist John Muir visited the Rainier region and later recommended that it be designated as a national park. Muir was particularly impressed with the magnificent wildflowers that blanket the mountain during the warm months of the year. In his 1898 essay “The Wild Parks and Forest Reservations of the West,” reprinted in his 1901 book Our National Parks, Muir wrote:
+
+…above the forests there is a zone of the loveliest flowers, fifty miles in circuit and nearly two miles wide, so closely planted and luxuriant that it seems as if Nature, glad to make an open space between woods so dense and ice so deep, were economizing the precious ground, and trying to see how many of her darlings she can get together in one mountain wreath, —daisies, anemones, geraniums, columbines, erythroniums, larkspurs, etc., among which we wade knee-deep and waist-deep, the bright corollas in myriads touching petal to petal.
+
+Our National Parks, by John Muir. Boston and New York: Houghton, Mifflin and Company, 1901. p30-31.
+
+While the legislation to establish Mount Rainier National Park was praised by many, it was not without its critics. Some charged the act was merely a congressional ruse to aid the Northern Pacific Railroad. To learn more about the relationship between railroads and America’s National Parks, see Railroads in the National Parks.
+
+Ice cavern in Paradise Glacier, Mt. Rainier National Park. [between 1900 and 1935]. Wittemann Collection. Prints & Photographs Division
+
+Learn More
+
+To find out more about the Native peoples who lived in the region around Mount Rainier (or Tahoma) when the park was created, explore the photographs in the collection American Indians of the Pacific NorthwestExternal, or see the National Park Service descriptions of archaeological finds at Mount Rainier.
+
+For more materials on naturalist John Muir, search on Muir in Pioneering the Upper Midwest: Books from Michigan, Minnesota, and Wisconsin, ca. 1820 to 1910, Selected Digitized Books, and the archived collection The Evolution of the Conservation Movement, 1850-1920.
+
+To learn about other important events in the movement to conserve and protect America’s natural heritage, see the chronology in the archived collection The Evolution of the Conservation Movement, 1850-1920.
+
+Search Today in History for other features related to national parks and conservation. Search on names of the national parks or figures associated with the conservation movement such as John Muir and Theodore Roosevelt.
+Search the journals listed in the collection Making of AmericaExternal on the phrase John Muir to find many more of Muir’s articles on the wild lands of North America.
+item.tag_line[0]: President William McKinley signed legislation creating Mount Rainier National Park in Washington.'
+item.toc[0].slug: mount-rainier-national-park
+item.toc[0].title: Mount Rainier Becomes National Park
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+mime_type[0]: text/html
+mime_type[1]: image/jpeg
+online_format[0]: web page
+online_format[1]: image
+original_format[0]: web page
+partof[0].count: 31
+partof[0].title: march
+partof[0].url: https://www.loc.gov/search/?fa=partof:march&fo=json
+partof[1].count: 368
+partof[1].title: today in history
+partof[1].url: https://www.loc.gov/collections/today-in-history/?fo=json
+partof[2].count: 418988
+partof[2].title: american memory
+partof[2].url: https://www.loc.gov/search/?fa=partof:american+memory&fo=json
+profile: today-in-history
+score: 14.524273
+shard: 01
+shelf_id: 2027-03-02
+short_title: March 2
+site[0]: ammem
+source_modified: 2000-01-01T12:00:00Z
+tag_line[0]: President William McKinley signed legislation creating Mount Rainier National Park in Washington.'
+timestamp: 2026-10-09T05:09:55.119Z
+title: Today in History - March 2
+toc[0].slug: mount-rainier-national-park
+toc[0].title: Mount Rainier Becomes National Park
+type[0]: article
+url: https://www.loc.gov/item/today-in-history/march-02/
+cite_this.apa: () Today in History - March 2. [Image] Retrieved from the Library of Congress, https://www.loc.gov/item/today-in-history/march-02/.
+cite_this.chicago: Today in History - March 2. Image. https://www.loc.gov/item/today-in-history/march-02/.
+cite_this.mla: Today in History - March 2. Image. Retrieved from the Library of Congress, <www.loc.gov/item/today-in-history/march-02/>.

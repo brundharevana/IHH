@@ -1,0 +1,17 @@
+# John Muir: date conflicts and rulings
+
+Rule (owner decision 2026-10-16): a primary record decides. Where none is found after a hard search,
+the detail is not shown on the site (the site uses a range or leaves it out) and the conflict stays
+in this log. Research: 2026-10-16 (search log MUI-Q entries of run `muir-conflicts-2026-10-16`).
+Quotes are as transcribed or OCRed by the holder.
+
+| Detail | Versions | Ruling | Deciding record | Facts |
+|---|---|---|---|---|
+| University of Wisconsin enrolment | 1860 (NPS timeline) vs January 1861 (Pacific) / February 1861 (Sierra Club) | **early 1861** (January to March; month not shown) | Ann Gilrye Muir to John Muir, 30 March 1861 (University of the Pacific, John Muir Papers): "We received your letter dated 20 and was surprised to know you were back in at the university" (https://scholarlycommons.pacific.edu/jmcl/18422); Muir's own letters of October to December 1860 are written from Madison in passing and from Prairie du Chien (https://scholarlycommons.pacific.edu/jmcl/17976, /18443, /18229); UW *Catalogue* for 1861-62 lists "John Muir,....Midland." under Undergraduates, First Year (read from the page image; the OCR is unusable; https://search.library.wisc.edu/digital/ASGABOQKEDZABL87). The 1860-61 catalogue is behind a bot check and was not read. | MUI-F-0138 (1861) stands; the NPS 1860 date is not used |
+| Departure from Scotland | February 1849 (Sierra Club) vs spring 1849 (Pacific) | **spring: the ship sailed 4 March 1849** (month shown only once a person confirms the manifest reading) | *New York Herald*, 11 April 1849, p. 4, Maritime Intelligence, Arrived: "Ship Warren, Lawton, Glasgow, March 4 ... The W has 74 steerage passengers" (OCR garbled; LoC Chronicling America, https://www.loc.gov/resource/sn83030313/1849-04-11/ed-1/?sp=4); *New-York Daily Tribune*, 11 April 1849, p. 4: "Ship Warren, Lawton, G w, March 4 mdse"; passenger manifest of the Warren, arrived New York 10 April 1849, lines 36-39 "Daniel Muir 45 ... Sarah do 13 ... John do 11 ... David do 8" (NARA M237 roll 78, Internet Archive copy, image n305, https://archive.org/details/passengerlistsoo0078unix; handwritten, read by eye by the research agent, needs a person's confirmation) | MUI-F-0110 (February) set to conflicting: not shown |
+| Age at emigration | ten (NHL nomination) vs eleven (NPS) | **ten** (his true age) | Born 21 April 1838 (MUI-F-0092, verified); the Warren sailed 4 March and arrived 10 April 1849, before his eleventh birthday. The manifest's "11" (above) is the age as entered, not his age. | MUI-F-0097 (ten-year-old, NHL) stands; NPS "eleven" not used |
+| Griswold botany lesson | 1861 (Sierra Club) vs June 1862 (NHL nomination) | **omitted** (no primary record dates it) | Searched the Pacific transcriptions of 1860-1864 letters for Griswold and botany: Muir to his sisters, [May 1861]: "I like pretty flowers but I haven't time to study much about them" (https://scholarlycommons.pacific.edu/jmcl/18020) leans to 1862 but does not date the lesson; the UW catalogues list Milton S. Griswold as a student 1859-60 through 1862-63; the only dated account is *The Story of My Boyhood and Youth* (1913), not primary | no fact carries a year; site leaves the year out |
+
+None of these records is staged as a source yet: the Pacific letters are on pacific.edu (registered,
+institutional) and could be staged by a person; the manifest and the UW catalogue entries are image
+readings, which are not facts until a person transcribes them.

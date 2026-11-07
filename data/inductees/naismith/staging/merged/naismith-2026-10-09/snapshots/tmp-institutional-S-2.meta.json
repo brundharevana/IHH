@@ -1,0 +1,10 @@
+{
+  "url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/mcgill",
+  "fetch_url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/mcgill",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:14:57Z",
+  "sha256": "1ab3ffd6a3e8b5d4b5f8faef6c36af5af9c272ba8c00c416deecfae875dd260a",
+  "bytes": 4369,
+  "http_status": 200,
+  "final_url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/mcgill"
+}

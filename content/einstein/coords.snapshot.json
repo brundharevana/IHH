@@ -1,0 +1,39 @@
+{
+  "entities": {
+    "Q3012": {
+      "qid": "Q3012",
+      "lat": 48.398611,
+      "lon": 9.991111,
+      "retrieved_at": "2026-10-11T06:38:40Z",
+      "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q3012&property=P625&format=json"
+    },
+    "Q131626": {
+      "qid": "Q131626",
+      "lat": 38.888889,
+      "lon": -77.026,
+      "retrieved_at": "2026-10-11T06:38:40Z",
+      "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q131626&property=P625&format=json"
+    },
+    "Q16552": {
+      "qid": "Q16552",
+      "lat": 32.715,
+      "lon": -117.1625,
+      "retrieved_at": "2026-10-11T06:38:40Z",
+      "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q16552&property=P625&format=json"
+    },
+    "Q43282043": {
+      "qid": "Q43282043",
+      "lat": 40.3443,
+      "lon": -74.6663,
+      "retrieved_at": "2026-10-11T06:38:41Z",
+      "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q43282043&property=P625&format=json"
+    },
+    "Q138518": {
+      "qid": "Q138518",
+      "lat": 40.352222,
+      "lon": -74.656944,
+      "retrieved_at": "2026-10-11T06:38:41Z",
+      "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q138518&property=P625&format=json"
+    }
+  }
+}

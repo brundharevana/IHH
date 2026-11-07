@@ -1,0 +1,840 @@
+_version_: 1811488924830269440
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045293/1930-03-03/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045293/1930-03-03/ed-1/
+batch[0]: whi_italico_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/wisconsin/
+composite_location[2]: 2/united states/wisconsin/milwaukee/
+composite_location[3]: 3/united states/wisconsin/milwaukee/milwaukee/
+contributor_names[0]: Wisconsin Historical Society
+contributors[0].wisconsin historical society: https://www.loc.gov/search/?fa=contributor:wisconsin+historical+society&fo=json
+created_published[0]: Milwaukee, Wis., March 3, 1930
+date: 1930-03-03
+date_issued: 1930-03-03
+dates[0].1930-03-03: https://www.loc.gov/search/?dates=1930-03-03/1930-03-03&fo=json
+dates_of_publication: 1911-1938
+description[0]: Milwaukee, Wis.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2024-09-29T00:15:48.962Z
+extract_urls[0]: file:/service/ndnp//whi/batch_whi_italico_ver01/data/sn83045293/00542869288/1930030301/1930030301_1.xml#ndnp/whi
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/whi
+group[1]: wisconsin-historical-society-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn83045293/1930-03-03/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_italico_ver01:data:sn83045293:00542869288:1930030301:0427/full/pct:3.125/0/default.jpg#h=306&w=229
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_italico_ver01:data:sn83045293:00542869288:1930030301:0427/full/pct:6.25/0/default.jpg#h=612&w=459
+index: 10
+item.batch[0]: whi_italico_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Wisconsin Historical Society
+item.created_published[0]: Milwaukee, Wis., March 3, 1930
+item.date: 1911
+item.date_issued: 1930-03-03
+item.dates[0]: 1930-03-03
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045293
+item.location[0]: Wisconsin--Milwaukee
+item.location[1]: Milwaukee (Wis.)
+item.medium: 16 pages
+item.newspaper_title[0]: The Milwaukee leader
+item.notes[0]: Daily (except Sunday)
+item.notes[1]: Vol. 1, no. 1 (Dec. 7, 1911)-v. 27, no. 113 (Apr. 19, 1938).
+item.notes[2]: Barred from the mails Oct. 3-5, 1917. Cf. Gregory, Amer. newspapers.
+item.notes[3]: Also issued on microfilm from UMI.
+item.notes[4]: New Milwaukee leader (Milwaukee, Wis. : 1938) (DLC)sn 86072091
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//whi/batch_whi_italico_ver01/data/sn83045293/00542869288/1930030301/1930030301_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045293/marcxml
+item.place_of_publication: Milwaukee, Wis.
+item.raw_lccn: sn 83045293
+item.reel_numbers[0]: 00542869288
+item.source_group: ndnp/whi
+item.subjects[0]: Socialism--Wisconsin--Milwaukee--Newspapers
+item.subjects[1]: Milwaukee (Wis.)--Newspapers
+item.subjects[2]: Socialism
+item.subjects[3]: Wisconsin--Milwaukee.--https://id.oclc.org/worldcat/entity/E39PBJj8J7dbWccgBFPVchw3cP
+item.subjects[4]: United States--Wisconsin--Milwaukee--Milwaukee
+item.title: The Milwaukee leader (Milwaukee, Wis.), March 3, 1930, (Home Edition)
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn83045293
+location[0]: wisconsin
+location[1]: united states
+location[2]: milwaukee
+location_city[0]: milwaukee
+location_country[0]: united states
+location_county[0]: milwaukee
+location_state[0]: wisconsin
+locations[0].milwaukee: https://www.loc.gov/search/?fa=location:milwaukee&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].wisconsin: https://www.loc.gov/search/?fa=location:wisconsin&fo=json
+locations_city[0].milwaukee: https://www.loc.gov/search/?fa=location_city:milwaukee&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].milwaukee: https://www.loc.gov/search/?fa=location_county:milwaukee&fo=json
+locations_state[0].wisconsin: https://www.loc.gov/search/?fa=location_state:wisconsin&fo=json
+medium: 16 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Milwaukee leader
+notes[0]: Daily (except Sunday)
+notes[1]: Vol. 1, no. 1 (Dec. 7, 1911)-v. 27, no. 113 (Apr. 19, 1938).
+notes[2]: Barred from the mails Oct. 3-5, 1917. Cf. Gregory, Amer. newspapers.
+notes[3]: Also issued on microfilm from UMI.
+notes[4]: New Milwaukee leader (Milwaukee, Wis. : 1938) (DLC)sn 86072091
+number[0]: sn83045293
+number[1]: 00542869288
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn83045293
+number_reel[0]: 00542869288
+numeric_shelf_id: 193003031
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//whi/batch_whi_italico_ver01/data/sn83045293/00542869288/1930030301/1930030301_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045293/marcxml
+partof[0].count: 6667
+partof[0].title: the milwaukee leader (milwaukee, wis.) 1911-1938
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+milwaukee+leader+%28milwaukee,+wis.%29+1911-1938&fo=json
+partof[1].count: 3210982
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232494
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the milwaukee leader (milwaukee, wis.) 1911-1938
+place_of_publication: Milwaukee, Wis.
+publication_frequency[0]: daily
+raw_lccn: sn 83045293
+reel_numbers[0]: 00542869288
+resources[0].files: 16
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_italico_ver01:data:sn83045293:00542869288:1930030301:0427/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045293/1930-03-03/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.331948
+shard: 06
+shelf_id: sn83045293, 1930-03-03, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/whi
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: milwaukee (wis.)
+subject[1]: wisconsin
+subject[2]: https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp
+subject[3]: newspapers
+subject[4]: milwaukee
+subject[5]: socialism
+subject[6]: united states
+subject_headings[0]: Socialism--Wisconsin--Milwaukee--Newspapers
+subject_headings[1]: Milwaukee (Wis.)--Newspapers
+subject_headings[2]: Socialism
+subject_headings[3]: Wisconsin--Milwaukee.--https://id.oclc.org/worldcat/entity/E39PBJj8J7dbWccgBFPVchw3cP
+subject_headings[4]: United States--Wisconsin--Milwaukee--Milwaukee
+subjects[0].https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp: https://www.loc.gov/search/?fa=subject:https://id.oclc.org/worldcat/entity/e39pbjj8j7dbwccgbfpvchw3cp&fo=json
+subjects[1].milwaukee: https://www.loc.gov/search/?fa=subject:milwaukee&fo=json
+subjects[2].milwaukee (wis.): https://www.loc.gov/search/?fa=subject:milwaukee+%28wis.%29&fo=json
+subjects[3].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[4].socialism: https://www.loc.gov/search/?fa=subject:socialism&fo=json
+subjects[5].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[6].wisconsin: https://www.loc.gov/search/?fa=subject:wisconsin&fo=json
+timestamp: 2024-09-29T00:40:42.505Z
+title: The Milwaukee leader (Milwaukee, Wis.), March 3, 1930, (Home Edition)
+type[0]: issue
+url: https://www.loc.gov/item/sn83045293/1930-03-03/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_italico_ver01/data/sn83045293/00542869288/1930030301/0436.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045293/1930-03-03/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_italico_ver01:data:sn83045293:00542869288:1930030301:0427/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/whi/batch_whi_italico_ver01/data/sn83045293/00542869288/1930030301/0436.pdf
+resources[0].segment_count: 16
+resources[0].url: https://www.loc.gov/resource/sn83045293/1930-03-03/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1930, March 3) The Milwaukee leader. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045293/1930-03-03/ed-1/.
+cite_this.chicago: The Milwaukee leader. (Milwaukee, WI), Mar. 3 1930. https://www.loc.gov/item/sn83045293/1930-03-03/ed-1/.
+cite_this.mla: The Milwaukee leader. (Milwaukee, WI) 3 Mar. 1930, p. 10. Retrieved from the Library of Congress, www.loc.gov/item/sn83045293/1930-03-03/ed-1/.
+
+segment_id: /service/ndnp/whi/batch_whi_italico_ver01/data/sn83045293/00542869288/1930030301/0436.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/whi/batch_whi_italico_ver01/data/sn83045293/00542869288/1930030301/0436.xml&format=alto_xml&full_text=1
+full_text:
+Page Ten
+Victory Over Michigan Tonight Will Give Purdue Flag
+4* 4* "F 4*
+Babe Ruth to Join Yankees in First Spring Practice Today
+CONFIDENT PAY
+DISPUTE WILL
+BE SETTLED
+ST. PETERSBURGH, Fla.—Babe
+Ruth will join the New York
+Yankees at the opening of the
+spring practice today and will be in
+right field when
+the re Salar sea
+son opens with
+all his salary
+Hl troubles forgiven
+and forgotten.
+While he still
+maintains his
+V stand as the most
+“Wi prominent hold-
+W' out many base-
+ball seasons, the
+i homo run king
+told the United
+|wM|3Pwl|» Press he was con
+fident all the dis
+ficulties concern-
+a*aff Aimi ing his 1930 con
+tract would be
+straightened out long before April
+16.
+Longs for Uniform.
+“I like the game too much to
+leave it,” the Babe said. “It’s a
+matter of business for me to get
+what I think I am worth to the
+Yankees, but I’ve given my best to
+the game and to my present ball
+club and I feel sure I will be with
+them when the season starts.”
+Looking fit from his life in the
+open, during which he has devoted
+most of his time to golf and swim
+ming, Ruth said he would report to
+his new chief, Bob Shawkey, and
+take part in the regular training
+practice.
+“It will be good to get a uniform
+on again,” he declared with genuine
+enthusiasm. “After all there’s no
+game like baseball. I have been
+part of it for so long that I’m not
+going to consider quitting now,
+while I’ve still got a lot of it in my
+system.”
+Up to Yankees.
+In discussing his salary and his
+insistence upon $85,000 a year, the
+famous slugger gave no indication
+that he would accept a compromise
+proposition, beyond saying that
+“some people seem to think a lot
+more about money than I do.”
+Ruth said he had no idea when
+he would meet Col. Ruppert for a
+final show-down on his contract.
+“The next move is strictly up to
+Barrow and Ruppert,” he pointed
+out. “They sent me a contract
+which did not call for the money I
+am asking, and I’ve sent it back.
+It’s up to them to take the next
+step. I’ve always found Jake to be
+fair, and I’m sure he will be this
+time.”
+Likes Shawkey as Pilot.
+The Babe expressed enthusiasm
+over the fact that Bob Shawkey, a
+former Yankee pitcher, would man
+age the club this year. He said
+nothing of his own ambitions to
+pilot the Yankees, but declared him
+self heartily in favor of the selec
+tion of “Bob the Gob” as successor
+to the late Miller Huggins.
+“There was a great little guy,”
+said Ruth, referring to Huggins.
+“Most of the credit for our success
+when we were knocking them over
+from 1921 to 1928 belongs to Hug
+gins. I think Shawkey learned a
+lot from Hug and should make a
+good manager. He can have my
+best, if we come to terms.”
+Ruth admitted th&t his club’s
+prospects were not as bright this
+season as In former years but said
+he was confident that the Yankees
+could come through creditably with
+everyone pulling for Shawkey.
+Smallpox May
+Delay Hagen’s Golf
+Tour of Australia
+SYDNEY, Australia Walter
+Hagen’s Australian golf tour may
+be delayed by Joe Kirkwood’s de
+tention on the steamer Aorangi.
+Hagen and 30 other passengers
+were allowed to land yesterday but
+the Australian pro is among the
+228 passengers confined to the ship.
+The steamer may be held in quar
+antine until March 10 because of
+the discovery of smallpox among
+the crew.
+Hilltop Cagers
+Leave for lowa
+Heartened considerably by the
+thumping they handed the Michigan
+State cagers Saturady night, the
+Marquette university basketball
+team will leave tonight for lowa
+City where it meets the University
+of lowa in a return game tomorrow
+night. The game will close the cage
+schedules for both schools.
+Sprinters Plentiful
+In Big 10 Meet
+MINNEAPOLIS, Minn. Sprint
+stars will be plentiful when the
+cream of Western conference track
+and field men gather here Friday
+and Saturday for the annual indoor
+meet. Heading the list will be
+George Simpson of Ohio State, Eddie
+Tolan, Michigan’s negro speedboy,
+and Capt. Root of Chicago. To push
+these men will be Ford of North
+western, Conway of lowa, and Hass
+of Minnesota.
+Coen and Tilden
+Beat English Duo
+MDNTE CARLO —Junior Coen of
+Kansas City and William Tilden II
+of Philadelphia won the Butler
+trophy doubles championship here
+yesterday. They defeated the Eng
+lish team of Austin and Kingsley in
+the finals. 6-2, 1-6, 9-7. 6-?
+NED BRANT AT CARTER
+BOF NGD-BUT SALLY, AS MAW NG SURE THAT THE Pt ETA DANCE 12 WWS WWAT 00 YOU SUPPOSE
+EMONI9S,G&N WAIT NO LONGER ^^!>Wa^Si<ereALL team MUST leave UNDER WAY, THE THREE GATE-CASHING Gee it now tmcge ptosm f
+SjOfSS AT TE N- T M |r T r Y, THERE WILL be BUSHMEN PREPARE FOR THE UNOFFICIAL MERGER A
+D MRIIIr ILL START HMO CUTTING IN EXCEPT WW 7 tyWM6WW| A THE GANG ANO WALK BACK/
+winos 'M g^ggL^ IN w
+MOUCS SINCE I 8 3 T. 6 ON YOUR ^,(S^
+T j MwiV 'wl A* B A SOLUTION y V}
+O wSIBP^
+m J ><w _—J L—=«i _
+Speaking
+of
+Sport
+BY FRANK GETTY.
+United Prem Sports Editor.
+NEW YORK—“Go invent a new
+game that can be played by 18 men
+indoors, at night, and in the win
+ter,” were the instructions James
+Naismith, young instructor of
+physical education at the Spring
+field Y. M. C. A. college of Spring
+field, Mass., received in December,
+1891.
+Whereupon Naismitt>, now pro
+fessor of physical education at the
+University of Kansas, Lawrence,
+invented the game of basketball.
+Inventing a new indoor team
+game back in 1891 was pioneering
+work. Ice hockey was the only in
+door game of importance, and in
+door ice rinks were not common.
+So it is not surprising that basket
+ball enjoyed a phenomenal growth
+almost from its outset.
+
+Two peach baskets hung at op
+posite ends of the room were the
+goals. A soccer ball was used. As
+there were 18 in the class, nine
+men made up each team. The
+court measured 35 feet by 45 feet,
+about half the size of the present
+standard court. The game was
+governed by 13 rules worked out by
+the inventor.
+The essential features of the
+game today were embodied in those
+13 rules. A player could not run
+with the ball. Personal contact
+was illegal. A horizontal hoop was
+the goal. Dr. Naismith rea
+soned that all the men liked Rugby,
+but that it was Impractical for in-,
+door playing because it was too
+rough. It was rough because of
+the tackling and the tackling exist
+ed because running with the ball
+was allowed. Therefore, running
+and tackling were eliminated.
+v
+The center tip, much debated this
+season, but not yet abolished, also
+was the original means of putting
+the ball in play. Dr. Naismith is
+a strong supporter of the center tip
+today, believing that to abolish it
+would be to remove one of the most
+spectacular features of the game.
+Any other method would slow up
+the game, he says.
+The principal changes in basket
+ball today as compared with the
+original peach basket game, accord
+ing to the inventor, are those of
+skill on the part of the players and
+coaches. Early games were unpol
+ished affairs, he recalls. The pres
+ent day dribble is new, but its fore
+runner, rolling the ball upon the
+floor, was used in the original
+game.
+Dr. Naismith, who has been at
+the University of Kansas since
+1898, was born in Almonte, On
+tario, Nov. 6, 1861. He received'! his
+A.B. degree from McGill university
+at Montreal in 1887 and later at
+tended the Presbyterian Theologi
+cal college at Montreal. In 1891 he
+became instructor in physical edu
+cation at Springfield. Two years
+later he entered the Gross Medical
+college at Denver, which, now is af
+filiated with the University of Colo
+rado, and received a degree of doc
+tor of medicine. He came to the
+University of Kansas in 1898 where
+he has remained since.
+Basketball still is the inventor’s
+principal hobby. The discussion in
+sporting circles throughout the
+middle west this winter regarding
+the abolition of the center tip has
+aroused his Interest considerably.
+“I’ve kept figures on the tip-off,”
+said Dr. Naismith, “and I have
+become assured that there is no ad
+vantage, unfair, or otherwise, giv
+en either to tall or short men by
+its use.” Some had held the tip-off
+gives an advantage to tall men over
+short players.
+“Fifty per cent of the times, the
+other team gets the ball when its
+opposing jumper tips the ball,” the
+inventor said.
+Three Former lowa
+Stars in Majors
+IOWA CITY, la.—Three members
+of the University of lowa baseball
+team last spring are receiving trials
+with major league clubs this year.
+Mace Brown, pitcher, and Willis
+Glassgow, shortstop, are with the
+St. Louis Cardinals while Virgil
+David, southpaw twirler, is with the
+Cincinnati Reds. Another Hawkeye
+star of two years ago, Francis Mul
+roney, is receiving a tryout with
+the Boston Red Sox. He is a pitcher.
+M. A. C BOXING TRYOUTS.
+The Milwaukee Athletic club will
+hold amateur boxing tryouts tomor
+row night. Applicants are request
+ed to be on hand at 7 :30-
+GAULKE IS HIGH
+IN MONTHLY
+SKAT MEET
+Charles Gaulke cantered down
+the “home stretch” in a compara
+tively nonchalant maimer to re
+ceive the first award at the month
+ly skat tournament ul the Old Wis
+consin Skat club in the Milwaukee
+Auditorium yesterday. His score
+of 24-1-23, 534 points, was three
+more net games than his nearest
+competitor, S. Widerski of West
+Allis, was able to garner. Com
+plete scores follow:
+Fred Jaeger, 735-19; Edward Mueller,
+diamond solo 7-72, 292; S. Wideraki, 23-
+3-20, 577; John Meyer, 707-16; Joe
+Fischer, high play 168, 637; Fred Graf
+fenberger, club tourne 7-64, 172.
+Second series—Henry Paaech, 19-1-18,
+600; Herman Schindler, 658-13; F. W.
+Stanchfield, diamond solo 7-72, 58 minus;
+Henry Raasch, 19-1-18, 541; Otto Best,
+653-17; R. E. Wiganowsky, high play
+160, 505; F. Beckmann, hearts tourne
+7-48, 4GI.
+Third series—H. C. Buchta, 19-1-18,
+481; P. C. Matschke, 651-18; W. C. Bre
+kow, heart solo 6-70, 254; ArtSohmiede
+mann, 19-1-18, 443; F. F. Stroede, 640-
+16; C. Rutzen, high play 144. 438; Alex
+Yahr, spade toiirne 6, 476.
+Fourth series—N. Trommel, 20-2-18,
+49; B. D. Wallschlaeger, 630-12; Joseph
+Duschinski, West Allis, club solo 5-72,
+440; L. Gottschalk, 21-3-18, 542; Henry
+Kops, 622-13; M. C. Ueberall, high play
+140, 618; John Holzman, heart tourne
+6-42, 276.
+Mike Schulist, who has discontin
+ued his business at North and Hum
+boldt ave., where he has conducted
+a case for 25 years, extends an in
+vitation to all skat players for a
+blowout tonight at the regular Mon
+day skat tournament. He has pre
+pared an elaborate buffet lunch for
+a farewell night.
+The scores of the Milwaukee Mod
+ern Skat league, which has con
+cluded one-half of its 10 weeks’ ses
+sions, are as follows:
+Teams—Eighta, 12,954; Tens, 11,595;
+Jacks, 10,929; Kings, 10,849; Aces, 10,-
+533; Queena, 10,483; Sevens,, 9,588;
+Nines, 9,979.
+Individual scores—Emil Bruder, 8,825;
+Emil Gaudian, 3,417; Otto Aeohauer,
+3,409; George Nemetz, 3,212; B. D. Wall
+schlaeger, 3,167; Charles Nuerenberg,
+3,136; Ed. J. Fischer, 3,127; Mike Ern
+ster, 2,962; Albert Tesch, 2,932; Mike
+Schulist, 2,893; Fred Graffenberger,
+2,886; Paul Wendt, 2,861; Joe Ernster,
+2,850; Ernst Kretzschmar, 2,843; E. M,
+George, 2,840; Alvin Hempel, Jr., 2,748;
+Fred Ries, 2,739; Herman O. Kent, 2,70 i;
+M. Boskin, 2,593; C. Brecker, 2,587;
+Frank Schoner, 2,586; Charles Gaulke,
+2,534; F. C. Graf. 2,512; Bob Ohe, 2,505;
+John Mikula, 2,501; Herman Schindler,
+2,384; Emil Erdman, 2,365; Dr. W. J.
+Scollard, 2,222; William Krueger, 2,217;
+Paul W. Hilgendorf, 1,842; Arnold
+Pieper, 1,420.
+Seventy players took part in the week
+ly sheephead tournament of the Juneau
+club at South Side Armory hall. Prizes
+were awarded to the following:
+Adrian Choinski, 48-16; August Roh
+loff. 48-14; William Ledig, 40-18; Fred
+Paepke, 40-15; Herman Klusman, 40-13;
+Fred Miller, 38-14; John Grundmann,
+36-14; George Koch, 86-12; Walter Kos
+sow, 34-10; Leon Anadell, West Allis,
+34-10; John Bujny, 34-10; Harry Peksa,
+34-10; Math Poetzl, 32-16; Al. Epp, 32-
+15.
+How Manager of
+Yankees Practices
+W*' ■<l
+•■s
+
+lo* 's*^*
+wir WS'
+111
+Big Boss Bob Shawkey of the
+New York Yankees whiles away
+the hours between the practice
+sessions of his sterling athletes
+by putting in a little practice
+himself—-on the golf links at St
+Petersburg, Fla
+THE MILWAUKEE LEADER, MONDAY, MARCH 3, 1930
+RITTICISMS
+BY WILLIAM PITT
+Bob Shawkey insists good curves are determined by the position
+of the axis of a ball’s rotation. Just another way of saying if the big
+bum don’t murder it, it’s a strike.
+
+Watch the White Sox dumb, says a Chicago newspaper headline.
+What do they want us to do —suffer eyestrain?
+4
+The statement that Georges Car- (Ml
+pentier, faded Orchid of France,
+started fighting as a flyweight and
+ended up in the heavyweight divi- ZTSk
+sion is not true. Georges ended up J
+in the movies. fePLjjr I'
+
+We hope President Hoover doesn’t read the story that Babe Ruth
+wants a bigger salary that he gets. The country would go to the dogs
+if we had a hold-out president
+
+T fO, Ij(uj7 This is the dull time of the sport
+wh ®n there is nothing doing
+but boxin basketball, hockey, in
+d°or tennis, handball, bowling, in
+door track, squash tennis, indoor
+y' swimming, curling, southern golf
+1 tourneys, soccer football, billiards
+I and wrestling.
+
+Art Shires, baseball’s best talkie, quits the ring 10,000 frog skins
+to the good. Which proves that neither the pen nor the sword can
+compare to a strong pair of tonsils.
+
+When Art entered the ring game pugilism enjoyed its best bull
+market
+
+The Yanks have added 14 players. To win the pennant they’ll have
+to take 14 away from the Athlettics.
+
+Manager Bob Shawkey, a reformed pitcher, had better study as
+tronomy. He has too many stars who don’t shine.
+FIELDS SOUGHT
+FOR GO WITH
+M'LARNIN
+CHICAGO Now that Jackie
+Fields, welterweight titleholder,
+has a logical championship oppo
+nent, Matchmaker Nate Lewis of
+the Chicago Stadium today prom
+ised that he will give the middle
+west a 147-pound championship
+fight just as soon as Fields Is will
+ing to meet Jimmy McLarnln, the
+Vancouver Irishman.
+McLarnin provided himself the
+outstanding welterweight contend
+er when he beat Sammy Mandell,
+the lightweight champion, in 10
+rounds here Saturday night. Be
+fore that fight Mandell and McLar
+nin were considered the two men
+who have a chance to beat Fields.
+Jimmy won the battle by out
+punching the lightweight champion.
+Mandell put up a great fight. He
+took one of Jimmy’s punches on
+the jaw as the second round closed
+and he fought on instinct then for
+three rounds.
+The fight brought out a curious
+opinion among fans here. They
+seem to think that McLarnin would
+be a less formidable opponent
+against Fields than Mandell. They
+think that Mandell’s boxing ability
+would bother Fields but that Jackie
+could stay away from Jimmy’s
+punches.
+7th Annual Muny
+Swimming Meet
+Booked March 14
+The seventh annual municipal
+championship indoor swimming meet
+will be held at the Highland ave.
+natatorium March 14. Swimmers
+will be divided into three classes:
+Seniors—open class any age; Jun
+iors—those under 19; Cadet—those
+under 17. Entries close March 11.
+Big Ten Standings
+W. L. Pct. Pts. OP
+PurAu* 8 0 1.000 807 187
+Wisconsin 6 2 .750 189 lea
+Indiana 3 .886 257 210
+Michigan 8 3 .606 227 182
+Illinois 7 4 .685 262 334
+Northwestern 6 C .500 349 334
+Minnesota 2 8' .300 217 339
+Ohio State 1 8 .111 183 265
+Chicago 1 9 .100 308 318
+REMAINING GAMES.
+TONIGHT.
+Purdue at Michigan.
+Ohio State at Wisconsin.
+Minnesota at Indiana.
+WEDNESDAY.
+Illinois at Chicago.
+SATURDAY.
+Chicago at Purdue.
+Indiana at Wisconsin.
+MARCH 10
+Indiana at Minnesota.
+A Story of College Athletics
+SPORT
+FOX RIVER BALL
+LOOP CUT TO
+SIX TEAMS
+APPLETON, Wis. Marinette
+and Fond du Lac will not enter
+teams in the Fox River Valley Base
+ball league this year, it became
+known today following a meeting
+of league officials here.
+A six-club federation, composed
+of teams from Wisconsin Rapids,
+Appleton, Neenah-Menasha, Kau
+kauna, Green Bay and Kimberly-
+Little Chute was formed at the pre
+season meeting.
+The circuit’s spring season will
+open May 11 with Kimberly-Little
+Chute at Green Bay; Neenah-Mena
+sha at Appleton, and Wisconsin
+Rapids at Kaukauna. Final games
+will be played Sept. 7.
+STATE K. P. PIN
+TOURNEY OPENS
+APRIL 5
+The Wisconsin Pythian Bowling
+Assn, will hold its annual bowling
+tournament at Watertown, starting
+April 5, under teh auspices of Lin
+coln Lodge No. 20 of that city.
+The tournament will be ander the
+management of Fred Maerzke and
+Harry O’Brien. They anticipate an
+entry of about 200 teams.
+All Pythians of Wisconsin are in
+vited to attend. Entries close
+March 25.
+The tournament is sanctioned by
+the American Bowling Congress.
+Entry Blanks are being sent to all
+the Pythian lodges in the state.
+4
+Goo ds £sta* e
+rtf rs*
+ere^^ Aer O s
+i
+1 ^"Vw*' 6
+„TW L<J er
+follow 1
+BY 808 ZUPPKE
+Famous Football Coach
+MUNY INDOOR
+TRACK MEET
+MARCH 22
+The sixth annual municipal cham
+pionship indoor track meet will be
+held March 22 at the Marquette
+university gymnasium, under the
+auspices of the school board exten
+sion department with the co-opera
+tion of Marquette university. As in
+past years athletes will be divided
+into three classes:
+Senior—Any age.
+Junior—Under 19 years.
+Cadet—Under 17 years.
+Medals to Winners.
+Athletes may compete with a club
+or unattached, but their preference
+must be so stated on the entry
+blank.
+No entry fee is required and the
+school board extension department
+will award to the first three place
+winners in the Senior und Junior
+classes gold, silver and bronze
+medals, while the Cadets will re
+ceive ribbons.
+Entries Close March 18.
+The following events will appear
+on the program:
+SENIORS.
+40-yard, 440-yard, 880-yard, one mile,
+two miles, 45-yard low hurdlee, 45-yard
+high hurdles, shot put (16-pound), high
+jump.
+JUNIORS.
+40-yard, 440-yard, one mile, 48-yard
+low hurdles, shot put (12-pound), high
+jump.
+SADETB.
+40-yard, 220-yard, 880-yard, high
+jump.l
+Entries close March 18.
+BADGERS CAN
+ONLY TIE FOR
+TITLE
+CHICAGO—The Western confer,
+ence basketball championship for
+1930 may be decided tonight when
+the league-leading Boilermakers of
+Purdue clash with Michigan at Ann
+Arbor.
+A victory will cinch the flag for
+Purdue and would mark the second
+consecutive major conference title
+won by the Boilermakers. Coach
+Jimmy Phelan brought the institu
+tion its first Big Ten gridiron cham
+pionship last fall before he resigned
+to become head tutor at the Univer
+sity of Washington.
+Chance for Badgers.
+Even if dexeated Purdue could
+still win undisputed possession of
+the crown by trimming Chicago Sat
+urday. If both the Wolverines and
+Maroons upset the dope and defeat
+the Boilermakers, Wisconsin could
+gain half a share of the cham
+pionship by defeating Ohio State
+and Indiana in its remaining games.
+Eight games remain on the con
+ference schedule. Ohio State and
+Wisconsin and Minnesota and In
+diana clash tonight in addition to
+the Boilermakers and Wolverines.
+Wednesday, Illinois and Chicago
+clash while Saturday Chicago meets
+Purdue and Indiana tackles Wiscon
+sin. The season closes a week from
+tonight when Indiana meets Minne
+sota.
+Cards Need Win
+Over Ohio Tonight
+MADISON, Wis.—A team next to
+the top and one next to the bottom
+in Big Ten basketball standings
+will meet hero tonight when Ohio
+and Wisconsin clash.
+s If Coach Walter E. Meanwell’s
+Badgers are to retain undisputed
+possession of second place in the
+conference rankings, victory tonighi
+is necessary.
+The Ohio quintet has won only a
+single conference victory to date out
+of nine starts, but Wisconsin’s two
+defeats have been surprise affair;
+suffered in games with Northwest
+ern and Chicago where the Badgers
+were credited before Ifand with hav
+ing a wide margin of advantage.
+SMOKE
+TAMPANOLA
+10c and 15c
+439 National Ave. Hanover 9801
+Page Ten

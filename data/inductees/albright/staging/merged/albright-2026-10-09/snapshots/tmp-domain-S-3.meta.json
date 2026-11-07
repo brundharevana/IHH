@@ -1,0 +1,10 @@
+{
+  "url": "https://www.truman.gov/node/6106",
+  "fetch_url": "https://www.truman.gov/node/6106",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:29:01Z",
+  "sha256": "183c5fcbaea331ae84f5aaff393e4c66bb9c16beba1f4fe54b327211b208230f",
+  "bytes": 5304,
+  "http_status": 200,
+  "final_url": "https://www.truman.gov/node/6106"
+}

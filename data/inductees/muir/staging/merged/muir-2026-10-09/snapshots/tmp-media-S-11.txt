@@ -1,0 +1,167 @@
+_version_: 1731657295291482112
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2002719850/
+aka[1]: http://www.loc.gov/item/2002719850/
+aka[2]: http://www.loc.gov/pictures/item/2002719850/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/2002719850/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/2002719850/
+aka[5]: http://www.loc.gov/resource/cph.3b53078/
+aka[6]: https://hdl.loc.gov/loc.pnp/cph.3b53078
+aka[7]: http://lccn.loc.gov/2002719850
+call_number: BIOG FILE - Muir, John, 1838-1914 [item] [P&P]
+created: 2016-04-21T02:55:28Z
+created_published[0]: c1909.
+created_published_date: c1909.
+date: 1909-01-01
+dates[0].1909: https://www.loc.gov/search/?dates=1909/1909&fo=json
+description[0]: 1 photographic print.
+digital_id[0]: cph 3b53078 //hdl.loc.gov/loc.pnp/cph.3b53078
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-08-25T05:50:49.651Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/2002719850/#cph
+extract_urls[1]: http://lccn.loc.gov/2002719850#catalog-split-02
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+group[0]: cph
+group[1]: catalog-split-02
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-02
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2002719850/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078_150px.jpg#h=150&w=106
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078t.gif#h=150&w=106
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078r.jpg#h=640&w=451
+index: 1
+item.call_number: BIOG FILE - Muir, John, 1838-1914 [item] [P&P]
+item.control_number: 2002719850
+item.created: 2016-04-21T02:55:28Z
+item.created_published: c1909.
+item.created_published_date: c1909.
+item.date: c1909.
+item.digital_id[0]: cph 3b53078 //hdl.loc.gov/loc.pnp/cph.3b53078
+item.display_offsite: true
+item.format[0]: still image
+item.id: 2002719850
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2002719850/
+item.marc: https://www.loc.gov/pictures/item/2002719850/marc/
+item.medium[0]: 1 photographic print.
+item.medium_brief: 1 photographic print.
+item.mediums[0]: 1 photographic print.
+item.modified: 2016-04-21T02:55:28Z
+item.notes[0]: H128083 U.S. Copyright Office
+item.notes[1]: Photoprint by J. Edward Greene, Pasadena, California.
+item.notes[2]: This record contains unverified, old data from caption card.
+item.number_former_id[0]: https://www.loc.gov/item/2002719850
+item.number_former_id[1]: https://www.loc.gov/item/12904155
+item.other_control_numbers[0]: 12904155
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-USZC4-1576 (color film copy transparency)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3b53078
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078r.jpg
+item.sort_date: 1909
+item.source_created: 2002-08-23T00:00:00Z
+item.source_modified: 2004-01-20T15:04:38Z
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078_150px.jpg
+item.title: [John Muir, half-length portrait, facing left]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2002719850
+link: https://www.loc.gov/pictures/item/2002719850/
+marc: https://www.loc.gov/pictures/item/2002719850/marc/
+medium[0]: 1 photographic print.
+medium_brief: 1 photographic print.
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-21T02:55:28Z
+notes[0]: H128083 U.S. Copyright Office
+notes[1]: Photoprint by J. Edward Greene, Pasadena, California.
+notes[2]: This record contains unverified, old data from caption card.
+number[0]: 2004-01-20t15:04:38
+number[1]: 2002719850
+number[2]: http://www.loc.gov/item/2002719850
+number[3]: http://www.loc.gov/item/12904155
+number_former_id[0]: http://www.loc.gov/item/12904155
+number_former_id[1]: http://www.loc.gov/item/2002719850
+number_lccn[0]: 2002719850
+number_source_modified[0]: 2004-01-20t15:04:38
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 12904155
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2002719850/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2002719850/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2002719850/dc
+partof[0].count: 110701
+partof[0].title: miscellaneous items in high demand
+partof[0].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=2002719850&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-USZC4-1576 (color film copy transparency)
+resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3b53078
+resources[0].caption: color film copy transparency
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3b53078/
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.46323
+shard: 00
+shelf_id: BIOG FILE - Muir, John, 1838-1914 [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1909
+source_created: 2002-08-23T00:00:00Z
+source_modified: 2004-01-20T15:04:38Z
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078_150px.jpg
+timestamp: 2022-05-01T20:31:27.075Z
+title: [John Muir, half-length portrait, facing left]
+unrestricted: true
+url: https://www.loc.gov/item/2002719850/
+resources[0].caption: color film copy transparency
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 4991378
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3b50000/3b53000/3b53000/3b53078u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 150
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 3932
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078_150px.jpg
+resources[0].files[0][1].width: 106
+resources[0].files[0][2].height: 150
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 13208
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078t.gif
+resources[0].files[0][2].width: 106
+resources[0].files[0][3].height: 640
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 36269
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078r.jpg
+resources[0].files[0][3].width: 451
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53000/3b53078_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3b53078/
+cite_this.apa: (ca. 1909) John Muir, half-length portrait, facing left. , ca. 1909. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2002719850/.
+cite_this.chicago: John Muir, half-length portrait, facing left. , ca. 1909. Photograph. https://www.loc.gov/item/2002719850/.
+cite_this.mla: John Muir, half-length portrait, facing left. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2002719850/>.

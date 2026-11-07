@@ -1,0 +1,10 @@
+{
+  "url": "https://portal.torcherbaria.org/portal/collections/individual/index.php?occid=23990867",
+  "fetch_url": "https://portal.torcherbaria.org/portal/collections/individual/index.php?occid=23990867",
+  "method": "api",
+  "fetched_at": "2026-10-20T20:54:50Z",
+  "sha256": "bca2894ed54ae7be07997b190462fbc6421036b6f84be2b3fe6cc59e797d1dc0",
+  "bytes": 951,
+  "http_status": 200,
+  "final_url": "https://portal.torcherbaria.org/portal/collections/individual/index.php?occid=23990867"
+}

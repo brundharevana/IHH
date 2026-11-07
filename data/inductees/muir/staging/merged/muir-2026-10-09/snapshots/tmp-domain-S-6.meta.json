@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-and-president-roosevelt.htm",
+  "fetch_url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-and-president-roosevelt.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:37:20Z",
+  "sha256": "04cc2c99dfe764cf2c915768d8543bde8ea53651b12165f054bf0b2f68b8ed06",
+  "bytes": 7635,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-and-president-roosevelt.htm"
+}

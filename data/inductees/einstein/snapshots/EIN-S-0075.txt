@@ -1,0 +1,1000 @@
+_version_: 1747168148913651712
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045774/1921-04-26/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045774/1921-04-26/ed-1/
+batch[0]: dlc_bindweed_ver02
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/new york/
+composite_location[2]: 2/united states/new york/new york/
+composite_location[3]: 3/united states/new york/new york/new york/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json&st=text
+created_published[0]: New York, N.Y., April 26, 1921
+date: 1921-04-26
+date_issued: 1921-04-26
+dates[0].1921-04-26: https://www.loc.gov/search/?dates=1921-04-26/1921-04-26&fo=json&st=text
+dates_of_publication: 1920-1924
+description[0]: New York, N.Y.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2020-09-15T06:50:45.707Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744158/1921042601/1921042601_1.xml#ndnp/dlc-2014_2016
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2014_2016
+group[1]: library-of-congress-washington-dc-awardee-5
+hassegments: true
+id: http://www.loc.gov/item/sn83045774/1921-04-26/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bindweed_ver02:data:sn83045774:00271744158:1921042601:0841/full/pct:6.25/0/default.jpg#h=509&w=412
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bindweed_ver02:data:sn83045774:00271744158:1921042601:0841/full/pct:12.5/0/default.jpg#h=1018&w=825
+index: 6
+item.batch[0]: dlc_bindweed_ver02
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: New York, N.Y., April 26, 1921
+item.date: 1920
+item.date_issued: 1921-04-26
+item.dates[0]: 1921-04-26
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045774
+item.location[0]: New York (N.Y.)
+item.location[1]: New York County (N.Y.)
+item.location[2]: New York (State)--New York
+item.location[3]: New York (State)--New York County
+item.medium: 22 pages
+item.newspaper_title[0]: The New York herald.
+item.notes[0]: Daily
+item.notes[1]: Vol. 86, no. 32 (Oct. 1, 1920) ; v. 85, no. 33 (Oct. 2, 1920)-v. 88, no. 201 (Mar. 18, 1924).
+item.notes[2]: Available on microfilm from Library of Congress, Photoduplication Service, and New York Public Library.
+item.notes[3]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[4]: New-York tribune (New York, N.Y. : 1866 : Daily) 1941-0646 (DLC)sn 83030214 (OCoLC)9405688
+item.notes[5]: New York herald, New York tribune (DLC)sn 83030215 (OCoLC)9405828
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744158/1921042601/1921042601_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045774/marcxml
+item.other_title[0]: Combined New York morning newspapers
+item.other_title[1]: Combined New York Sunday newspapers
+item.place_of_publication: New York, N.Y.
+item.raw_lccn: sn 83045774
+item.reel_numbers[0]: 00271744158
+item.source_group: ndnp/dlc-2014_2016
+item.subjects[0]: New York (N.Y.)--Newspapers
+item.subjects[1]: New York County (N.Y.)--Newspapers
+item.subjects[2]: New York (State)--New York
+item.subjects[3]: New York (State)--New York County
+item.subjects[4]: United States--New York--New York--New York
+item.title: The New York herald (New York, N.Y.), April 26, 1921
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn83045774
+location[0]: new york city
+location[1]: new york
+location[2]: united states
+location[3]: new york county
+location_city[0]: new york
+location_country[0]: united states
+location_county[0]: new york
+location_state[0]: new york
+locations[0].new york: https://www.loc.gov/search/?fa=location:new+york&fo=json&st=text
+locations[1].new york city: https://www.loc.gov/search/?fa=location:new+york+city&fo=json&st=text
+locations[2].new york county: https://www.loc.gov/search/?fa=location:new+york+county&fo=json&st=text
+locations[3].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].new york: https://www.loc.gov/search/?fa=location_city:new+york&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].new york: https://www.loc.gov/search/?fa=location_county:new+york&fo=json&st=text
+locations_state[0].new york: https://www.loc.gov/search/?fa=location_state:new+york&fo=json&st=text
+medium: 22 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The New York herald.
+notes[0]: Daily
+notes[1]: Vol. 86, no. 32 (Oct. 1, 1920) ; v. 85, no. 33 (Oct. 2, 1920)-v. 88, no. 201 (Mar. 18, 1924).
+notes[2]: Available on microfilm from Library of Congress, Photoduplication Service, and New York Public Library.
+notes[3]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[4]: New-York tribune (New York, N.Y. : 1866 : Daily) 1941-0646 (DLC)sn 83030214 (OCoLC)9405688
+notes[5]: New York herald, New York tribune (DLC)sn 83030215 (OCoLC)9405828
+number[0]: sn83045774
+number[1]: 00271744158
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn83045774
+number_reel[0]: 00271744158
+numeric_shelf_id: 192104261
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744158/1921042601/1921042601_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045774/marcxml
+other_title[0]: Combined New York morning newspapers
+other_title[1]: Combined New York Sunday newspapers
+partof[0].count: 819
+partof[0].title: the new york herald (new york, n.y.) 1920-1924
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+new+york+herald+%28new+york,+n.y.%29+1920-1924&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the new york herald (new york, n.y.) 1920-1924
+place_of_publication: New York, N.Y.
+publication_frequency[0]: daily
+raw_lccn: sn 83045774
+reel_numbers[0]: 00271744158
+resources[0].files: 22
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bindweed_ver02:data:sn83045774:00271744158:1921042601:0841/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045774/1921-04-26/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.797172
+shard: 03
+shelf_id: sn83045774, 1921-04-26, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2014_2016
+subject[0]: newspapers
+subject[1]: new york county (n.y.)
+subject[2]: new york
+subject[3]: new york (state)
+subject[4]: new york county
+subject[5]: united states
+subject[6]: new york (n.y.)
+subject_headings[0]: New York (N.Y.)--Newspapers
+subject_headings[1]: New York County (N.Y.)--Newspapers
+subject_headings[2]: New York (State)--New York
+subject_headings[3]: New York (State)--New York County
+subject_headings[4]: United States--New York--New York--New York
+subjects[0].new york: https://www.loc.gov/search/?fa=subject:new+york&fo=json&st=text
+subjects[1].new york (n.y.): https://www.loc.gov/search/?fa=subject:new+york+%28n.y.%29&fo=json&st=text
+subjects[2].new york (state): https://www.loc.gov/search/?fa=subject:new+york+%28state%29&fo=json&st=text
+subjects[3].new york county: https://www.loc.gov/search/?fa=subject:new+york+county&fo=json&st=text
+subjects[4].new york county (n.y.): https://www.loc.gov/search/?fa=subject:new+york+county+%28n.y.%29&fo=json&st=text
+subjects[5].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[6].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2022-10-20T01:28:56.409Z
+title: The New York herald (New York, N.Y.), April 26, 1921
+type[0]: issue
+url: https://www.loc.gov/item/sn83045774/1921-04-26/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744158/1921042601/0846.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045774/1921-04-26/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bindweed_ver02:data:sn83045774:00271744158:1921042601:0841/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744158/1921042601/0846.pdf
+resources[0].segment_count: 22
+resources[0].url: https://www.loc.gov/resource/sn83045774/1921-04-26/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1921, April 26) The New York herald. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045774/1921-04-26/ed-1/.
+cite_this.chicago: The New York herald. (New York, NY), Apr. 26 1921. https://www.loc.gov/item/sn83045774/1921-04-26/ed-1/.
+cite_this.mla: The New York herald. (New York, NY) 26 Apr. 1921, p. 6. Retrieved from the Library of Congress, www.loc.gov/item/sn83045774/1921-04-26/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744158/1921042601/0846.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744158/1921042601/0846.xml&format=alto_xml&full_text=1
+full_text:
+FORSAKEN FIANCE
+WISHES BRIDE JOY
+<Sweetest Ever' Is Note of Con
+gratulation Received by Mrs.
+Kate Stevens Fagan.
+PLANNING A TRIP SOUTH
+Young Bridegroom Still Is Un
+decided About Going
+Back to College.
+A most Interesting- document received
+yesterday by Mrs. Kate Stevens Fagan,
+youthful bride of Riohard Pagan, the
+Dartmouth College student with whom
+she eloped, was not a certified copy of
+her father's will, but a letter of congrai-
+ulation from the man?said to be an At
+lantic City physician?to whom she was
+reported to have been engaged.
+"When the missive arrived the couple i
+?were leaving their hotel for a shopping
+tour, preparatory to a trip South.
+"Oh, look, Dick!" she exclaimed.
+"Isn't Oils Just the sweetest ever?" i
+Dick looked and nodded.
+"1 guests better get started," he
+?aid.
+Nothing was heard from any one of
+the dozen or more lawyers Mrs. Fagan's
+father, the late Calvin Stevens, was in
+the habit of employing from time to
+time concerning a will. Mr. Stevens died
+last March, apparently without making:
+provision for the distribution of his es
+tate, valued at least at a million and a
+half, and possibly as much as $16,000,-
+000. Mrs. Fagan will get her share In
+any event and she is not worrying any
+way b^Muise her grandfather provided
+for her before he died, several years ago.
+The plans of the youner Fagans are
+not worked out yet. "Dick," as his
+classmates at Dartmouth call him,
+?tarted out to become a mining engineer,
+but his marriage was not calculated
+upon when he began. He is Inclined
+now to think a practical mining man is
+perhaps the thing after all?particularly
+If he is equipped with a young and beau
+tiful wife. Consequently Fngan pro
+poses to find a Job after the Interrupted
+honeymoon is finished and after a trip
+to Virginia and Texas.
+Mr. Fapan let It be known that ho
+and his bride may just pack up and take
+a train to Colorado, where he could en
+ter the Colorado School of Mines to fin- j
+ish his coure<\
+WAITING IN SHACK FOR
+TUNNEL TO EVICT THEM
+Molenaors Defy Order of
+Contractor to Move.
+Martin Molenaor and his son. Wilfred,
+who claim title to $160,000,000 worth of
+real estate in the Dyckman and upper
+Harlem sections as the heirs of William
+Molenaor, who died in 1812, expected a
+tunnel to be driven yesterday under the
+frame shack in which they have been
+living on a vacant lot near 194th street
+and Broadway. Nothing happened, how-
+ever, and last night the Molenaors re
+mained in possession of the fifty foot
+st ilp which is all they have of the large
+estates they say are theirs.
+Title to this strip is claimed by Will
+lam Norton, a contractor, who has be
+gun excavating for a small building
+which he says he Intends to erect there.
+Wilfred declared he would not offer
+physical resistance if Norton's men be
+gan work again, but would take the
+matter into the courts. The case has
+been before the courts many times, but
+each time the decision has been against
+the Molenaor family.
+BROOKLYN BANDITS
+GET LONG SENTENCES
+One Receives 20 Year Term
+and Another 18 Years.
+Eleven flays agr> four bandits robbed
+Henry C. Hansen's Jewelry store at 776
+Flatbush avenue, Brooklyn, of $5,000
+ir Jewelry and then assaulted the pro
+prietor i?n<l his assistant. Yesterday all
+four were sent to Sing Sing prison for
+long terms by County Judge Martin in
+Brooklyn.
+Sam Jonas, 19, of 3810 Fifteenth ave
+?iuc, Brooklyn, who planned the holdup
+and assaulted Hansen, was given twenty
+years.
+"You're lucky you are not here for
+murder." remarked Judge Martin.
+Thomas Rooney, 26, of 85 Bowery,
+who said when arrested that he entered
+the Jewelry* store to "get money," was
+sentenced to eighteen years.
+Lawrence Llppi, 19. of 28S Dahill
+road, Brooklyn, was sentenced to from
+ten to twenty years and Barney Llfkln,
+17. of S712 Fifteenth avenue, to from
+five to ten years.
+MOTHER-IN-LAW FIGHTS
+SON-IN-LAW IN COURT
+Action Centres Around Dece
+dent Wife's $17,000 Estate.
+Aim. Catherine Greer of 7* Jefferson
+?treet, Brooklyn, declared In an affi
+davit filed yesterday In the Surrogate's
+Court, Brooklyn, that she and other
+members of her family were excluded
+from Emanuel G. Psakl's home when his
+wife, Evangeline, Mrs. Greer's daugh
+ter, died on March 6 laat. District At
+torney Lewis Is Investigating Che cir
+cumstances of Mrs. Psaki'a death. She
+died at 7008 Bay Parkway, Brooklyn,
+after an operation.
+Her mother's affidavit was filed with
+her application to Surrogate Wlngute
+for letters of administration for the
+daughter's estate, amounting to about
+$17,000. Mr. Psakl, the husband, op
+posed his mother-in-law's application,
+saying he had not renounced his right
+to such letters.
+ETHER SCARE TOWARR ANTED.
+Expert Finds Only Fifteen Chil
+dren A flfeoted In We??lell.
+Rpecial De?j?i!rfc to Thk New Yen* Hrr*r.n.
+Boston1, April 25.?Declaring that the
+good namo of the town of Westfleld, of
+pure food fame, had been damaged by
+widespread publicity attending the
+charge* that parents there were giving
+ether to their children. Dr. Hermann CI.
+Lythgoe. director of the division of food
+and drugs of the State Department of
+Health, to-day made public the results
+of hl? investigation.
+While finding that ether has been given
+to several children. Dr. Lythgoe con
+demns the Attitude of the looal health
+authorities by saying they "unfortu
+nately chose the unsatlefactory proced
+ure of publicity first. Investigation after
+ward."
+Dr. Lythgoe state* that the evidence
+hardty constitutes a public health prob
+lem.
+IMHRMI.i; MCK\*K NOW $2.
+The cost of matrimony took another
+leap yesterday when the law signed by
+Gov. Miller Saturday Increasing tho fee
+for marring* licenses from fl to $2 went
+jtito efTect. Those who Intended to make
+the plunge went right ahead, however.
+"Icrks nt the mitriisge license bureau
+t k?U,
+TO DISCUSS NEED OF
+PILCHER OFFICE PROBE
+Hewitt to Talk It Over With
+Governor on Thursday.
+special Vtsyatih to Tun New Yobk Hkuald.
+Sew York Herald Barrau,
+Albany, April SS. I
+Gov. Miller will discuss with Senator
+Hewitt, chairman of the Senate Finance
+Committee, on Thursday the question
+of investigating the office of State
+A-chltect Lewis F. Pllcher. denator
+James E. Towner of Dutchess county In
+the closing days of the Legislature in
+troduced a resolution calling for such
+an investigation, but it was killed In the
+Assembly Rules Committee.
+Senator Towner charges there ib need
+ier waste In the architect's office.
+Dnrlng the debate Senator Hewitt prom
+ised to discuss the matter with the Gov
+ernor, who, he said, would be able to
+decide In half an hour whether an in
+vestigation under the Moreland act was
+warranted.
+Representatives of the State Archi
+tect's office have declared since that be
+cause of the smoke that has been caused
+bv the Towner resolution an Investiga
+tion would be welcomed to clear it away.
+HAD $40,000 BOOZE
+Strong on Kig-hteousness in
+Home Town but Keeps
+Cellar Full.
+Special Despatch to The New York Hbuui.
+New Ynrk Tlerald Burenti,
+Washington, D. C., April 85,
+A United States Senator who voted
+for the Eighteenth Amendment to the
+Constitution slocked his cellar with
+$40,000 worth of liquor to provide
+against the long dry spell, according to
+ti letter received to-day by Representa
+tive John Philip Hill of Maryland,
+author of the bill to repeal the Volstead
+law. The letter is signed J. C. Cole
+man, real estate dealer, 217 West
+125th street. New York, who says he
+knows the Senator, but does not reveal
+his name. The letter reads:
+"I am glad that you introduced a
+hill to repeal the Volstead act. I trUSt
+there are enough other red blood Ameri
+cans In Congress to put the bill through.
+"Why should the rich man have Ills
+cellar filled with good liquor to last him
+and his friends the balance of their
+lifetime and the poor man not get a
+glass of good beer after a hard day's
+work
+"I am acquainted with a United
+States Senator who voted for the Eigh
+teenth Amendment and who In his own
+town is held up a?< a shining light for
+all that Is good and righteous, but this
+same man stocked his cellar with $40,
+000 worth of liquor Just before prohibi
+tion went Into effect at the old prices.
+"Can you think he or his friends are
+going dry? I am an American. My
+ancestors date buck to the signing of
+the Declaration of Independence. Every
+one of my father's and mother's family
+nerved lr, the civil war and my father
+died from injuries received in that war.
+"I served In the Spanish-American
+war and In the chemical warfare ser
+vice during the world war, and I stand
+for all laws and rights of the American
+Constitution, but I also believe In all
+men having an equal right."
+STATE BONUS MONEY
+TO BE PAID AT ONCE
+Commission Will Not Wait for
+$25,000,000 Bond Issue.
+Special Despatch to The New York I1eui.d.
+New York Herald Rurnati. I
+Albany, April 25.
+The State Soldier Bonus Commission
+which Is to distribute the $45,000,000
+authorized by the people at the last elec
+tion to the 400,000 eligible world war
+veterans in this State organized here to
+night. Gov. Miller signed the bill creat
+ing the commission Saturday. It is com
+posed of J. Leslie Kincaid, adjutant
+general; James A. Wendell, Comptroller,
+and Charles D. Newton, Attorney-Gen
+eral.
+The commission expects to be ready
+to r<*celve applications for the bonus by
+June 1. Application blanks, which al
+ready have been prepared, were ap
+proved. In the distribution of the blanks
+the commission will call to its aid the 1
+services of American legion posts, the
+Red Cross, women's auxiliaries of war
+organizations and other such bodies, it j
+is believed that a big saving will be ef- j
+fected In this way.
+The commission will distribute the j
+money immediately, not waiting for the 1
+issuance of the $25,000,000 in bonds
+which are to be floated by the Comp
+troller to provide funds. Adjutant-Gen
+eral Klncald said there is ample money
+In the treasury to take care of the first
+bateh of applications. The Comptroller
+could then wait to issue the bonds at the
+best market value.
+One hundred and fifty thousand dol
+lars was appropriated for the commis
+sion, which will soon announce its office
+force. Headquarters will he established
+in this city, probably In the offices of
+tlie Military Training Commission, which
+goes out of existence July 1.
+WHITMAN TAKES UP
+CRAIG'S COAL PROBE
+Comptroller Angry When Ho
+Gets Snbprpna to Inform
+Grand Jury Abont [t.
+MUST PRODUCE RECORDS
+Question of Authority and In
+terference With a Charter
+Fnnction Kaised.
+Former Gov. Charles 3. Whitman,
+special assistant to the District Attor
+ney. ordered a Grand Jury Investigation
+yesterday Into the Board of Education j
+coal contracts for 1920 and 1921, there-
+by drawing: upon his head the Ire of 1
+Comptroller Charles L. Craig, who al- j
+ready In conducting such an investiga-
+tlon and has held up payment of $1,200,
+000 upon the contracts.
+The first notice the Comptroller had
+of Mr. Whitman's Interest in the matter
+was when he received a subpoena duces
+tftcuni from the former Governor, asking
+him to appear at a John Doe hearing
+and take with him all the information
+1 he had bearing upon the contracts.
+When Mr. Craig read the subpoena, he
+I said, among other things .that Air.
+Whitman was exceeding his authority,
+was interfering with tho Comptroller's
+performance of his duty and that he
+didn't know anything about the coai
+contracts anyway until he read about
+the Comptroller's investigation in the
+newspapers,
+Mr. Craig, nevertheless, accompanied
+by a considerable retinue of clerks bear-
+ing armfuls of contracts, records and
+other documentary evidence, will appear i
+i before the Grand Jury this morning, he
+i announced last night.
+"The Charter Imposes upon the Comp
+1 troller," Mr. Craig's announcement con
+tlnued, "the duty of examining under
+oath any person or persons who seek the
+payment of money out of the public i
+treasury In regard to matters concerning
+which the Comptroller has any question
+or doubt It does not seem to me that
+the Penal Law contemplates that this
+duty, which was Imposed upon the Comp
+troller under the legislation passed at
+the Instance of Samuel J. Tllden in 1873
+as the result of the transactions of the j
+so-called Tweed ring, shall be Interfered
+with or obstructed by a general or spe
+cial or extraordinary grand Jury of any
+kind, or of the District Attorney or any
+of his deputies or appointees.
+"Up to the present time, it does not
+seem to me that the results attained by I
+Gov. Whlman as a Special Assistant Dis
+trict Attorney justify any such inter
+ference in the work of the Department
+of Finance. Any information tfiat Gov.
+Whitman might obtain In a grand Jury
+proceeding wi>uld be of no aid whatever
+to tho Comptroller In the performance
+of his dutlen In the disbursement of pub
+lic funds. On the otilier hand, when the
+Comptroller's examinations are finished
+they are public property and are avail
+able for any proper purpose."
+CIVIL SERVICE REFORM
+BLOCKED, IS CHARGE
+Legislature Accused of Break'
+ing Down Safeguards.
+Special Despatch to Tiib New Yobk Hbuai.d.
+New York Herald Bureau,
+Albany, April 35. f
+Amandments passed by the Leglsla
+ture in Its last hours open the way for
+complete reorganization of the State's
+labor department and provide for tile
+creating of new bureaus without civil
+service restrictions. Advocates of clvii
+service reform chargo that the Legis
+lature has taken a long step backward
+In breaking down civil service safe
+guards. That is denied by State offi
+cials, who say It Is necessary to have
+certain latitude In organizing the new
+departments.
+The bill amending the labor bureau
+law gives to the Commissioner power to
+tiansfer officers and employees from
+their positions to other positions In the
+department or abolish or consolidate
+st.ch positions and remove any officer
+and employee from the department. The
+employees are frightened by the pros
+pect that their Jobs are In danger.
+Officials who are reorganizing the de
+partment say it would be Impossible to
+get rid of useless Jobs without such au
+thority. The only exceptions made Is
+t!mt soldiers who were honorably dis
+charged cannot be removed.
+APPEAL IN PHONE CASE.
+City to I'rKi for Injunction
+Avnlimt Increase.
+John P. O'Brien, Corporation Coun
+sei, announced yesterday that he will
+appeal at once to tho Appellate Division
+from the decision of Justice Lehman of
+the Supreme Court, denying the city's
+si-plication for ?n injunction agalnnt
+j the Public Service Commission's order
+permitting an increase in telephone rates
+for local service In New York city.
+The Corporation Counsel said that the
+public did not have ample opportunity
+to be heard before the commission, anil
+that he expects the higher court's deci
+sion to have an Important bearing upon
+J th? extent to whlffi the commission must
+hear evidence before acting.
+Clemons
+CttabHthtJ /8p8
+39? BROADWAY
+Spring Suits for
+Large Size Men
+*46
+Probably no other New York Store
+gives the care and preparation we do
+to clothes for large men If you are
+a person of girth or of height, don't
+have your Suits made to order It
+simply isn't necessary any more!
+LAUGHING JACKASS AT ZOO
+SCORNS DAYLIGHT SAVING
+Gift From Martin Johnson Is a Bird in More Ways
+Than One?Starts His Noise Making Early
+to Disgust of Many.
+Denial was made yesterilay at the
+Central Park Zoo that any steps will be
+taken to punlali the Zoo's newest and
+loudest mouthed Inhabitant, the laugh
+ing Jacktisa, because he Is falling to com
+ply with the Hoard of Aldermen's day
+light saving schedule.
+Despite his name the laughing jack
+ass is a bird, and in more ways than
+one. Ho has been called other things.
+Every day about an hour before sunrise
+he gives vent to a noise like an alarm
+clock, venting Its spleen, plus a bolier
+factory and three New York newsboys.
+Listen to what Martin Johnson, fel
+low voyager with Jack I?ndon on the
+cruise of the Snark, and donor of the
+bird, says about his present, which came
+from Australia:
+"The laughing Jackass starts laughing
+about an hour before sunrise and
+sounds as though a troop of fiends
+were shouting, whooping and laughing
+in w ild chorus. It laughs again In the
+evening as the sun sets, but not so long
+or so loudly. It is the largest of the
+kingfisher family, and eats reptiles,
+bugs, insects and crabs, as well as fish.
+In captivity It eats raw meat mixed
+with carrots and other vegetables."
+After listening to the description no
+body asked Mr. Johnson why he gave
+the laughing jackass to the city.
+HARTFORD DEFIES LAW
+ON DAYLIGHT SAVING
+Legislature May Declare City
+Is in Rebellion.
+Upecxal Despatch to Tub Nbw Vouk Hbrald.
+Hartford, Conn., April 25.?With the
+exception of a few business houses and
+banks, daylight saving by "common eon
+tent" went into effect to-day in this city
+and in numerous other communities of
+the State In spite of a law passed by
+the State Legislature prohibiting an ad
+vance of time by local ordinance. Many
+business concerns in the State which
+6id not advance the clock circumvented
+the State law by opening their factories 1
+and places of business one hour earlier
+than usual
+Much interest is attached to the con- 1
+venlng of the Legislature to-morrow,
+?Then it is expected to have before it a
+resolution declaring the city of Hart
+ford in rebellion because Mayor Brainard
+!saued a statement suggesting the ob
+servance of daylight saving. Represen
+tative A. R. Wadsworth is sponsor of
+the resolution on which the Legislature
+is expected to act.
+In New Haven standard time pre
+vailed for the most part officially and in
+general practice. All classes at Yale
+University were advanced an hour.
+U. S. AGENTS DECEIVED
+AS TO OIL CONCESSIONS
+British Ownership in Costa
+Rica Concealed.
+Special Despatch to Tub New York Hkuai.u.
+New Vork Heruld llurmu,
+Wu?hinj;t<iii, I>. April 25. j
+Constant efforts have been inad" to
+deceive the representatives of the United
+States Government by officials of the
+(Company which ha? obtained the Amory
+oil concession in Costa Rica as to *he
+ownership of the concern. The fact that j
+British interests actually control it has j
+become known only recently, and the In- j
+formation came to thia Government by
+indirect channels.
+These fa^ts are explained in a report j
+which the State Department has pro- j
+pared and which was submitted to-day I
+to the Senate Foreign Relations Com-
+mittee by President Harding In answer
+to the committee's request.
+According to information contained in
+the report the real ownership of the con
+cession given by the unrecognized Tinoco
+Government was disclosed in an address
+to the shareholders of the British con
+trolled oil fields limited, by its president,
+D. Elliott Alves.
+HOUSE GETS BUDGET
+BILL WILSON VETOED
+Representatives Plan to Pass
+Measure Next Week.
+Special Ifctpatch to Tin Nitw Yoeic Unui.n,
+New York Hrrnld Kuriitu,
+Washington, D. C., April 25. J
+The bill establishing a budget system
+In the executive departments was again
+reported to the House to-day In virtually
+the same form In which It was vetoed
+I by former President Wilson.
+Included Is the provision giving to
+?Congress the right to remove th& Comp
+troller-General, who will be the new
+auditing officer of the Government. It
+was this section which caused Mr. Wil
+son to veto the bill on the ground that
+it was a Congressional Infringement of
+the rights of the Executive to appoint
+and remove men In this branch of the
+I Government.
+Hepublioan House leaders have re
+ceived assurances tlmt the section is not
+objectionable to President Harding.
+This officer can be removed only by lm
+peacliment or by a concurrent resolu
+tlon charging Inefficiency, neglect of
+duty, felony or moral turpitude, which
+must be preceded by a hearing. Plans
+I aro to pass the bill through the House
+i next week.
+1 "RELATIVITY" BEATS HARDING.
+President Confenicfi He lall* to
+(iriup Klnwtcfn Theory,
+Washington. April 25.?The theory of
+relativity of matter, which got into
+Senate debate recently, with assertions
+by Senators Boise Penrose, John Sharp
+Williams and others that they didn't
+understand It also has vanquished Presi
+dent Harding.
+Its originator, Dr. Albert Einstein,
+called on Jlr. Harding to-day with a
+delegation from the National Academy
+of Sciences. As the group posed before
+a camera the President confessed that
+lie too failed to grasp the relativity Idea.
+TENANT (JETS TAX BOAKI) JOH.
+.Special Despatch to The New York Hkp-u.d.
+N>w York Herald Bnrrnn. I
+Albany, April !i5. f
+Horace G. Tenant, a well known Scho
+harie county Republican, was appointed
+to-day as secretary to the new State
+Tax Commission. He has been con
+nected with the tax department for sev
+eral years and for twelve years pre
+vious was a second deputy In the office
+of the Secretary of State. The salary
+In his new position Is >4,000 a year.
+Temperamental Zip's Effort to
+Crab Special Performance
+Proves a Fizzle.
+BELLEVUE'S TURN NEXT
+Patients To-morrow Will Wit
+ness Performance Post
+poned by Rain.
+Probably none of the 7,000 wounded
+and disabled ex-service men rrom the
+1 ospltals and vocational training: schools
+about the city who were guests of the
+singling Bros. Barnum Bailey
+Circus management at a special per
+formance in Madison Square Garden
+yesterday morning attached any special
+significance to the absence of the entire
+congress of human oddities from th?
+sideshow. It would not naturally occur
+to a former soldier or sailor that Zip,
+or any one else# for that matter, would j
+deliberately try'to crab the p&rty and, j
+for a time, persistent denial <vos made
+by Dexter Fellowes, publicist, that such j
+was the regrettable fact.
+Eventually, however, Mr. Fellowes j
+came to see that. In Justice to every one.
+the situation was one which demanded j
+the fullest explanation. It appears, ao-
+cording to Mr. Fellowes, that the circus I
+management has been negotiating re-
+cently for an unusually rare animal sel
+i'Om seen In captivity (ho declined to
+be more specific upon this point) and
+that the performance for the wounded
+has been postponed several times In hope
+of the arrival of the creature. When it
+became definitely known that the nego- j
+tiatlons had fallen through the date j
+was fixed for yesterday.
+A notice was posted in the dressing
+rooms notifying performers that no one
+was obligated to appear, but every man
+and woman volunteered to do so and
+c'id. Mr. Fellowes says he had no Idea
+liow Zip learned the date for yesterday's
+??iffalr had been changed once or twice
+because of the expected arrival from
+Labrador, but that he did and that
+immediately there was trouble.
+"If you don't think," said the tem
+peramental Zip with a toss of his head,
+"that this show Is good enough for
+anybody without waiting for anything,
+why you can count nie out."
+"Me, too," exchoed Clico, the wild
+man, who Mr. Fellowes says Is com
+pletely under Zip's Influence.
+Although all the other strange people
+announced that they would be only too
+glad to drop around to the Garden for
+the special performance yesterday after
+noon, Mr. Fellowes wouldn't have It.
+He wanted to teach Zip and Clico a
+lesson, he said, so he decided to do
+away with the whole works?until the
+'regular matine*, of course. Mr. Fel
+lowes says he has it from Wee Wee,
+the midget, and George Auger, the
+giant, and others that Zip really feels
+badly about it now.
+It was the third year that the circus
+has entertained the disabled service
+men. The Knights of Columbus brought
+them from the hospitals and schools In
+motor buses and then sent them home
+again after everything was over. The
+arrangements were all made by the
+Federal Board for Vocational Educa
+tion. Another special perfornyince will
+be given at Bellevue Hospital to-mor
+row forenoon. It was to have taJcen
+place last Thursday, but was ]>o8tponed
+because of rain.
+BankersTrust
+Company
+Member Federal Reserve System Member New Y ork Clearing Association
+Downtown Office Fifth Avenue Office 57th Street Office Paris
+16 Wall Street at 42nd Street at Madison Avenue 16 Place Vendome
+SEWARD PROSSER, President
+Stephen Baker
+Pres't Bank of the Manhattan Co.
+Samuel O. Bayne
+Pres't Seaboard National ltauk
+Nicholas Biddle
+Astor Estate
+Cornelius N. Bliss, Jr.
+Bliss, Fabyan Co.
+Edwin M. Bulkley
+Spencer Trask Co.
+F. N. B. Close
+Vic*-President
+Thomas Cochran
+J. P. Morgan Co.
+T. De Witt Cuyler
+Chairman of the Board
+Commercial Trust Co.,
+Philadelphia
+Henry P. Davison
+J. P. Morgan Co.
+John I. Downey
+Building Construction
+Directors
+Pierre S. du Pont
+hairmnn of the Board
+K. I. du Pont de Nemours Co.
+President, General Motors Corp.
+Allen B. Forbes
+Harris, Forbes Si Co.
+Walter E. Frew
+Pres't Corn Exchange Bank
+M. Fricdsam
+ft. Altaian Co.
+Fred'k T. Haskell
+Vice-Prcs't Illinois Trust
+Savings Bank, Chicago
+Horace Havemeyer
+Pres't Havemeyers Elder, fnc.
+Fred I. Kent
+Vice-President
+Ranald H. Macdonald
+Real Estate
+Edgar L. Marston
+Blair Co., Inc.
+H. C. McEldowney
+Pres't Union Trust Co.,
+Pittsburgh
+Paul Moore
+Taylor, Bates Co.
+Daniel E. Pomeroy
+Vice-President
+William H. Porter
+J. P. Morgan ft Co.
+Herbert L. Pratt
+Vice-President Standard Oil Co.
+Seward Prosser
+President
+Daniel O. Reid
+Charles L. Tiffany
+Tiffany St Co.
+Herbert K. Twitchell
+Chairman of the Board.
+Chemical National Bank
+Owen D. Young
+Vice-Pres't General Electric Co.
+Investment Quality
+Without Quantity
+The man with $1,000 or $1,200 or any
+moderate sum does not have to take a mort
+gage on a cheap property, or be relegated
+to ventures in oils or mines.
+He can get a piece of a $100,000 mort
+gage on a choice parcel of New York real
+estate, with principal and interest guaran
+teed. He can get the same quality of mort
+gage as the millionaire.
+That is why 6,745 people last year, in
+vesting less than $2,000 apiece, put $12,163,
+000 into such investments sold by us.
+It is why 60,000 such people will be do
+ing it when once they realize that it can ba
+done and that it is the safest thing for them
+to do with their money.
+Title Guarantee Trust Co.
+176 Broadway, New York City
+175 Remsen Street. Brooklyn
+A LAPEL that is perfect?a swing to
+the coat that is permanently graceful?
+a rounded athletic chest that is good to see
+trousers that hang precisely right?
+In short?the Best?
+At the least for which the best can
+be sold?$80.
+Master-Tailored
+BusinessSuits
+Eighty Dollars
+Tailor to The cFour Thousand
+T45FIFTH AVENUE
+When you wire for electricity
+remember that cellar
+space is of value when
+properly lighted. Pro
+vide enough outlets to
+make all of the hereto
+fore dark corners and
+waste space serviceable.
+Telephone our Sales Department, Stuyvesant 4980,
+or consult your local Electrical Contractor for de
+tailed suggestions and estimates of cost.
+t?he United Electric
+Lightand Power Co.
+l^O East itjth St., New York.
+89th Street 81 Broadway 146th Street Broadway
+For the ROD and GUN FAN
+Where Fish
+Are Running
+Game regulations
+and other interest
+ing information for
+the huntsman?
+Reports of
+Weather
+Conditions
+Sailing
+News
+Tides
+On Sport Pages DAILY in
+THE NEW YORK HERALD
+Say "HERALD" to Your Newsdealer Each Morning

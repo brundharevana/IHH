@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/135813661",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=135813661",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:20:19Z",
+  "sha256": "224c44afe54a327d08b731945c95a40bba5b6f2bf3506de734eb013ecae2f2c0",
+  "bytes": 3479,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=135813661"
+}

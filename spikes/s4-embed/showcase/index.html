@@ -1,0 +1,389 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spike S4 viewer (illustrative reconstruction, spike)</title>
+<meta name="description" content="Throwaway spike page: an HTML-first article with an optional three.js box, a 2D fallback, feature probes and oEmbed discovery.">
+<link rel="alternate" type="application/json+oembed" href="http://127.0.0.1:8704/s4-embed/showcase/oembed.json" title="Spike S4 viewer (oEmbed)">
+<style>
+:root{--bg:#f6f4ef;--fg:#1c2128;--muted:#4d5663;--line:#c9c4b8;--card:#fff;--accent:#0b5cad;--ok:#0a6b3a;--bad:#a4262c;color-scheme:light dark}
+@media (prefers-color-scheme:dark){:root{--bg:#14181d;--fg:#e8ebef;--muted:#aab2bd;--line:#3a424d;--card:#1c2229;--accent:#7cb7ff;--ok:#5fd08f;--bad:#ff8a8f}}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+#page{max-width:980px;margin:0 auto;padding:12px 16px}
+.eyebrow{margin:0;font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
+h1{font-size:1.5rem;line-height:1.2;margin:.2rem 0 .4rem}
+h2{font-size:1.1rem;margin:1rem 0 .4rem}
+p{margin:.4rem 0}
+#viewer{position:relative;aspect-ratio:16/9;background:#10151b;border:1px solid var(--line);border-radius:6px;overflow:hidden;view-transition-name:face-view}
+#viewer>img,#viewer>canvas{position:absolute;inset:0;width:100%;height:100%;display:block;object-fit:cover}
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin:.6rem 0}
+button,.btnlink{font:inherit;min-height:40px;padding:6px 12px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg);cursor:pointer}
+button[aria-pressed="true"]{border-color:var(--accent);outline:1px solid var(--accent)}
+button:disabled{opacity:.5;cursor:not-allowed}
+a{color:var(--accent)}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+#status{font-size:.9rem;color:var(--muted);margin:.2rem 0}
+#faces{margin:0;padding-left:1.2rem;columns:2;column-gap:1.5rem;font-size:.9rem}
+#faces li[aria-current="true"]{font-weight:700}
+table{border-collapse:collapse;width:100%;font-size:.78rem}
+th,td{border-bottom:1px solid var(--line);padding:2px 6px;text-align:left;vertical-align:top;word-break:break-word}
+td.ok{color:var(--ok)} td.bad{color:var(--bad)}
+[hidden]{display:none!important}
+.dbg{display:none}
+.dbg.on{display:flex}
+#last{font:11px/1.3 ui-monospace,Menlo,monospace;white-space:pre-wrap;word-break:break-word;color:var(--muted);margin:.3rem 0}
+.compact #faces-sec,.compact #probes-sec{display:none}
+.hpx{overflow:hidden}
+</style>
+<script>
+/* Early flags + failure simulation. Runs before anything can create a WebGL context. */
+(function(){
+  var q = new URLSearchParams(location.search + '&' + location.hash.replace(/^#\??/, '')), nw = q.get('nowebgl') || '';
+  window.__nowebgl = nw;
+  // Report uncaught errors to the parent so a host page (or the spike harness) can see failures inside opaque-origin frames.
+  window.addEventListener('error', function (e) { try { if (window.parent !== window) window.parent.postMessage({ type: 'ihh-error', message: String(e.message), line: e.lineno, col: e.colno, src: String(e.filename || '').slice(-40) }, '*'); } catch (x) {} });
+  window.addEventListener('unhandledrejection', function (e) { try { if (window.parent !== window) window.parent.postMessage({ type: 'ihh-error', message: 'unhandledrejection: ' + String(e.reason && (e.reason.name + ': ' + e.reason.message) || e.reason) }, '*'); } catch (x) {} });
+  if (nw) {
+    var orig = HTMLCanvasElement.prototype.getContext;
+    HTMLCanvasElement.prototype.getContext = function (type) {
+      // nowebgl=1: every WebGL request fails (probe fails). nowebgl=2: only the renderer canvas (#gl) fails; the probe passes.
+      if (/webgl/i.test(type) && (nw === '1' || this.id === 'gl')) return null;
+      return orig.apply(this, arguments);
+    };
+  }
+})();
+</script>
+</head>
+<body>
+<div id="page">
+  <header>
+    <p class="eyebrow">Illustrative reconstruction (spike)</p>
+    <h1>Spike object viewer</h1>
+    <p>This page is the content layer. The poster, headings, face list and links below work with scripts switched off; the box above is an optional enhancement.</p>
+  </header>
+  <main>
+    <section aria-labelledby="viewer-h">
+      <h2 id="viewer-h">Interactive view</h2>
+      <div id="viewer" data-mode="poster">
+        <img id="poster" src="poster.webp" width="960" height="540" fetchpriority="high" alt="Placeholder poster: a plain blue gradient with a drawing of a box and the words Spike S4 viewer.">
+      </div>
+      <div class="controls" role="group" aria-label="Viewer controls">
+        <button type="button" id="btn-prev">Previous face</button>
+        <button type="button" id="btn-next">Next face</button>
+        <button type="button" id="btn-spin" aria-pressed="true">Pause rotation</button>
+        <button type="button" id="btn-lite" aria-pressed="false">Lite mode</button>
+        <button type="button" id="btn-fs">Fullscreen</button>
+        <a class="btnlink" id="open-full" href="http://127.0.0.1:8704/s4-embed/showcase/index.html" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;text-decoration:none">Open full page</a>
+      </div>
+      <p id="status" role="status">Loading the interactive view...</p>
+      <noscript><p>Scripts are off. You are seeing the poster and the text; nothing is missing from the face list below.</p></noscript>
+      <div class="controls dbg" id="dbg" role="group" aria-label="Debug controls">
+        <a class="btnlink" id="dbg-blank" href="http://127.0.0.1:8704/s4-embed/showcase/index.html?from=blank" target="_blank">plain link _blank</a>
+        <a class="btnlink" id="dbg-top" href="http://127.0.0.1:8704/s4-embed/showcase/index.html?from=top" target="_top">plain link _top</a>
+        <button type="button" id="dbg-lose">Lose GL context</button>
+        <button type="button" id="dbg-vt">Run view transition</button>
+      </div>
+      <pre id="last" aria-live="off"></pre>
+    </section>
+    <section id="faces-sec" aria-labelledby="faces-h">
+      <h2 id="faces-h">The six faces</h2>
+      <ol id="faces">
+        <li>Right: placeholder caption for the right face.</li>
+        <li>Left: placeholder caption for the left face.</li>
+        <li>Top: placeholder caption for the top face.</li>
+        <li>Bottom: placeholder caption for the bottom face.</li>
+        <li>Front: placeholder caption for the front face.</li>
+        <li>Back: placeholder caption for the back face.</li>
+      </ol>
+    </section>
+    <section id="probes-sec" aria-labelledby="probes-h">
+      <h2 id="probes-h">Feature probes</h2>
+      <table id="probes"><caption class="eyebrow" style="text-align:left">Results of probes run inside this document</caption>
+        <thead><tr><th scope="col">Probe</th><th scope="col">Result</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </section>
+  </main>
+</div>
+<script>
+(function () {
+  'use strict';
+  var CDN = 'https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.module.min.js';
+  var FULL_URL = document.getElementById('open-full').href; // canonical URL from the anchor, not location.href (a blob: or srcdoc URL would be useless to the host)
+  var q = new URLSearchParams(location.search + '&' + location.hash.replace(/^#\??/, ''));
+  var F = {
+    nowebgl: window.__nowebgl || '', rm: q.get('rm') === '1', lite: q.get('lite') === '1',
+    wpmsg: q.get('wpmsg') !== '0', h: parseInt(q.get('h') || '0', 10) || 0, compact: q.get('compact') === '1',
+    dbg: q.get('dbg') === '1', nocdn: q.get('nocdn') === '1', hold: q.get('hold') === '1', minimap: q.get('minimap') === '1'
+  };
+  var EMBEDDED = window.parent !== window;
+  var SANDBOXED = window.origin === 'null';
+  var sm = location.hash.match(/secret=([A-Za-z0-9]+)/);
+  var S = { mode: 'poster', reason: '', face: 0, spinning: true, lite: false, secret: sm ? sm[1] : null, lastH: -1, heightMsgs: 0,
+            three: null, renderer: null, mesh: null, targets: [], target: null, faceCanvases: [], liteStore: 'unknown', renderMs: [], probes: {}, perf: {}, raf: 0 };
+  var $ = function (id) { return document.getElementById(id); };
+  var viewer = $('viewer');
+  var FACES = [
+    { name: 'Right', color: '#cfe3f5' }, { name: 'Left', color: '#f5e1cf' }, { name: 'Top', color: '#dcf0d5' },
+    { name: 'Bottom', color: '#ecd5f0' }, { name: 'Front', color: '#f5f0c4' }, { name: 'Back', color: '#d0d6dc' }
+  ];
+  if (F.compact) document.documentElement.classList.add('compact');
+  if (F.dbg) $('dbg').classList.add('on');
+  if (F.h) { $('page').style.height = F.h + 'px'; $('page').classList.add('hpx'); }
+  var reduced = F.rm || (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches);
+
+  /* ---------- messaging ---------- */
+  function post(msg) { if (!EMBEDDED) return; try { window.parent.postMessage(msg, '*'); } catch (e) {} }
+  function report(o) { o.t = Math.round(performance.now()); post(Object.assign({ type: 'ihh-result' }, o)); $('last').textContent = JSON.stringify(o); return o; }
+  function reportHeight(reason, force) {
+    var h = Math.ceil($('page').getBoundingClientRect().height);
+    if (!force && h === S.lastH) return;
+    S.lastH = h; S.heightMsgs++;
+    post({ type: 'ihh-embed-height', height: h, reason: reason, t: Math.round(performance.now()) });
+    if (S.secret && F.wpmsg) post({ message: 'height', value: h, secret: S.secret });
+  }
+
+  /* ---------- face art (shared by the 3D texture and the 2D view) ---------- */
+  function drawFace(ctx, i, s) {
+    var f = FACES[i];
+    ctx.fillStyle = f.color; ctx.fillRect(0, 0, s, s);
+    ctx.strokeStyle = '#1c2128'; ctx.lineWidth = s / 64; ctx.strokeRect(s / 32, s / 32, s - s / 16, s - s / 16);
+    ctx.strokeStyle = 'rgba(28,33,40,.18)'; ctx.lineWidth = 2;
+    for (var k = -s; k < s; k += s / 16) { ctx.beginPath(); ctx.moveTo(k, s); ctx.lineTo(k + s, 0); ctx.stroke(); }
+    ctx.fillStyle = '#1c2128'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+    ctx.font = 'bold ' + (s * 0.42) + 'px system-ui, sans-serif'; ctx.fillText(String(i + 1), s / 2, s * 0.42);
+    ctx.font = 'bold ' + (s * 0.1) + 'px system-ui, sans-serif'; ctx.fillText(f.name + ' face', s / 2, s * 0.72);
+    ctx.font = (s * 0.055) + 'px system-ui, sans-serif'; ctx.fillText('illustrative reconstruction (spike)', s / 2, s * 0.86);
+    ctx.fillStyle = '#a4262c'; ctx.beginPath(); ctx.moveTo(s / 2, s * 0.06); ctx.lineTo(s / 2 - s * .04, s * .13); ctx.lineTo(s / 2 + s * .04, s * .13); ctx.fill();
+  }
+  function faceCanvas(i) {
+    if (!S.faceCanvases[i]) { var c = document.createElement('canvas'); c.width = c.height = 512; drawFace(c.getContext('2d'), i, 512); S.faceCanvases[i] = c; }
+    return S.faceCanvases[i];
+  }
+  function labelText() { return 'Spike object, face ' + (S.face + 1) + ' of 6: ' + FACES[S.face].name + ' face.'; }
+  function syncFaceList() {
+    var li = $('faces').children;
+    for (var i = 0; i < li.length; i++) { if (i === S.face) li[i].setAttribute('aria-current', 'true'); else li[i].removeAttribute('aria-current'); }
+    var c = viewer.querySelector('canvas'); if (c) c.setAttribute('aria-label', labelText());
+  }
+
+  /* ---------- view transitions (same-document) ---------- */
+  async function vt(update, force) {
+    if (!document.startViewTransition || (reduced && !force)) { update(); return { supported: !!document.startViewTransition, skipped: reduced ? 'reduced-motion' : 'unsupported' }; }
+    var t0 = performance.now(), r = { supported: true, visibility: document.visibilityState };
+    try {
+      var tr = document.startViewTransition(update);
+      await tr.ready; r.readyMs = Math.round(performance.now() - t0);
+      r.pseudoAnimations = document.getAnimations().filter(function (a) { return a.effect && a.effect.pseudoElement && String(a.effect.pseudoElement).indexOf('::view-transition') === 0; }).length;
+      await tr.finished; r.finishedMs = Math.round(performance.now() - t0);
+    } catch (e) { r.error = e.name + ': ' + e.message; }
+    return r;
+  }
+
+  /* ---------- 2D view ---------- */
+  function mount2D() {
+    if (!S.c2d) { var c = document.createElement('canvas'); c.id = 'view2d'; c.width = 960; c.height = 540; c.setAttribute('role', 'img'); S.c2d = c; }
+    var gl = viewer.querySelector('#gl'); if (gl) gl.remove();
+    $('poster').hidden = true;
+    if (!S.c2d.parentNode) viewer.appendChild(S.c2d);
+    draw2D(); syncFaceList();
+  }
+  function draw2D() {
+    var ctx = S.c2d.getContext('2d'); ctx.fillStyle = '#10151b'; ctx.fillRect(0, 0, 960, 540);
+    ctx.drawImage(faceCanvas(S.face), 224, 14, 512, 512);
+    S.c2d.setAttribute('aria-label', labelText());
+  }
+  function setStatus() {
+    var m = S.mode === '3d' ? '3D view (WebGL2, three.js r186).' : S.mode === '2d' ? '2D view. Reason: ' + S.reason + '.' : 'Poster only.';
+    $('status').textContent = 'Mode: ' + m + (reduced ? ' Reduced motion: rotation starts paused.' : '');
+    viewer.dataset.mode = S.mode; viewer.dataset.reason = S.reason;
+    var lite = $('btn-lite'); lite.setAttribute('aria-pressed', S.lite ? 'true' : 'false');
+    $('btn-spin').disabled = S.mode !== '3d';
+  }
+  function to2D(reason) {
+    if (S.raf) { cancelAnimationFrame(S.raf); S.raf = 0; }
+    S.mode = '2d'; S.reason = reason; mount2D(); setStatus(); reportHeight('mode-2d');
+    report({ cmd: 'mode', mode: '2d', reason: reason });
+  }
+
+  /* ---------- 3D view ---------- */
+  function kick() { if (!S.raf && S.renderer) S.raf = requestAnimationFrame(tick); }
+  var last = 0;
+  function tick(now) {
+    S.raf = 0; if (S.mode !== '3d') return;
+    var dt = Math.min((now - last) / 1000, 0.1); last = now;
+    var busy = false;
+    if (S.spinning && !reduced) { S.mesh.rotation.y += dt * 0.8; S.mesh.rotation.x += dt * 0.25; busy = true; }
+    else if (S.target) { S.mesh.quaternion.slerp(S.target, 1 - Math.pow(0.0005, dt)); busy = S.mesh.quaternion.angleTo(S.target) > 0.002; if (!busy) S.mesh.quaternion.copy(S.target); }
+    var t0 = performance.now(); S.renderer.render(S.scene, S.camera); S.renderMs.push(performance.now() - t0); if (S.renderMs.length > 300) S.renderMs.shift();
+    if (busy) S.raf = requestAnimationFrame(tick);
+  }
+  function resize3D() {
+    if (!S.renderer) return; var w = viewer.clientWidth, h = viewer.clientHeight; if (!w || !h) return;
+    S.renderer.setSize(w, h, false); S.camera.aspect = w / h; S.camera.updateProjectionMatrix(); S.renderer.render(S.scene, S.camera);
+  }
+  async function start3D() {
+    var T = S.three, t0 = performance.now();
+    if (!T) {
+      try {
+        if (F.nocdn) throw new Error('simulated CDN failure (?nocdn=1)');
+        if (F.minimap) { var im = document.createElement('script'); im.type = 'importmap'; im.textContent = JSON.stringify({ imports: { 'https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.core.js': 'https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.core.min.js' } }); document.head.appendChild(im); }
+        T = S.three = await import(CDN); S.perf.cdnImportMs = Math.round(performance.now() - t0);
+        rec('cdnImport (jsdelivr three@0.186.1)', true, 'ok in ' + S.perf.cdnImportMs + ' ms, revision ' + T.REVISION);
+      } catch (e) { rec('cdnImport (jsdelivr three@0.186.1)', false, e.name + ': ' + e.message); return to2D('three.js did not load (' + e.message + ')'); }
+    }
+    try {
+      var canvas = document.createElement('canvas'); canvas.id = 'gl'; canvas.setAttribute('role', 'img'); canvas.setAttribute('aria-label', labelText());
+      var r = new T.WebGLRenderer({ canvas: canvas, antialias: true, powerPreference: 'low-power' });
+      r.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+      var scene = new T.Scene(), cam = new T.PerspectiveCamera(35, 16 / 9, 0.1, 50); cam.position.set(0, 0, 6.2);
+      var mats = FACES.map(function (f, i) { var tx = new T.CanvasTexture(faceCanvas(i)); tx.colorSpace = T.SRGBColorSpace; return new T.MeshBasicMaterial({ map: tx }); });
+      var mesh = new T.Mesh(new T.BoxGeometry(2, 2, 2), mats); scene.add(mesh);
+      var qf = function (x, y) { return new T.Quaternion().setFromEuler(new T.Euler(x, y, 0)); }, P = Math.PI / 2;
+      S.targets = [qf(0, -P), qf(0, P), qf(P, 0), qf(-P, 0), qf(0, 0), qf(0, 2 * P)]; // +x,-x,+y,-y,+z,-z toward the camera
+      Object.assign(S, { renderer: r, scene: scene, camera: cam, mesh: mesh, target: null });
+      canvas.addEventListener('webglcontextlost', function (ev) { ev.preventDefault(); S.renderer = null; to2D('WebGL context lost'); });
+      S.spinning = !reduced; $('btn-spin').textContent = S.spinning ? 'Pause rotation' : 'Start rotation'; $('btn-spin').setAttribute('aria-pressed', S.spinning ? 'true' : 'false');
+      $('poster').hidden = true; var old = viewer.querySelector('#view2d'); if (old) old.remove(); viewer.appendChild(canvas);
+      S.mode = '3d'; S.reason = ''; mesh.quaternion.copy(S.targets[S.face]);
+      resize3D(); S.perf.firstRenderMs = Math.round(performance.now()); // direct render, independent of rAF
+      setStatus(); syncFaceList(); last = performance.now(); kick();
+      report({ cmd: 'mode', mode: '3d', firstRenderMs: S.perf.firstRenderMs, cdnImportMs: S.perf.cdnImportMs });
+      reportHeight('mode-3d');
+    } catch (e) { rec('rendererInit', false, e.name + ': ' + e.message); to2D('renderer init failed (' + e.message + ')'); }
+  }
+
+  /* ---------- controls ---------- */
+  function setFace(i) {
+    S.face = ((i % 6) + 6) % 6; syncFaceList();
+    if (S.mode === '3d' && reduced) { S.spinning = false; S.target = S.targets[S.face]; S.mesh.quaternion.copy(S.target); S.renderer.render(S.scene, S.camera); $('btn-spin').textContent = 'Start rotation'; $('btn-spin').setAttribute('aria-pressed', 'false'); }
+    else if (S.mode === '3d') { S.spinning = false; $('btn-spin').textContent = 'Start rotation'; $('btn-spin').setAttribute('aria-pressed', 'false'); S.target = S.targets[S.face]; kick(); }
+    else if (S.mode === '2d') { return vt(function () { draw2D(); }); }
+  }
+  $('btn-prev').addEventListener('click', function () { setFace(S.face - 1); });
+  $('btn-next').addEventListener('click', function () { setFace(S.face + 1); });
+  $('btn-spin').addEventListener('click', function () {
+    S.spinning = !S.spinning; S.target = null;
+    this.textContent = S.spinning ? 'Pause rotation' : 'Start rotation'; this.setAttribute('aria-pressed', S.spinning ? 'true' : 'false'); if (reduced && S.spinning) reduced = false; kick();
+  });
+  function storeLite() { try { localStorage.setItem('ihh-lite', S.lite ? '1' : '0'); S.liteStore = 'localStorage'; } catch (e) { S.liteStore = 'memory only (' + e.name + ')'; } rec('lite persistence', S.liteStore === 'localStorage', S.liteStore); }
+  function loadLite() { try { var v = localStorage.getItem('ihh-lite'); S.liteStore = 'localStorage'; return v === '1'; } catch (e) { S.liteStore = 'memory only (' + e.name + ')'; return false; } }
+  function setLite(on) { S.lite = !!on; storeLite(); if (S.lite) to2D('manual Lite mode'); else start3D(); }
+  $('btn-lite').addEventListener('click', function () { setLite(!S.lite); });
+  async function doFullscreen() {
+    var r = { cmd: 'fullscreen', fullscreenEnabled: document.fullscreenEnabled, sandboxed: SANDBOXED, framed: EMBEDDED };
+    var pend = setTimeout(function () { report({ cmd: 'fullscreen-pending', note: 'requestFullscreen() promise not settled after 1500 ms', fullscreenElement: document.fullscreenElement && document.fullscreenElement.id, enabled: document.fullscreenEnabled }); }, 1500);
+    try { await viewer.requestFullscreen(); clearTimeout(pend); r.ok = true; r.element = document.fullscreenElement && document.fullscreenElement.id; r.inner = innerWidth + 'x' + innerHeight; setTimeout(function () { try { document.exitFullscreen(); } catch (e) {} }, 2500); }
+    catch (e) { clearTimeout(pend); r.ok = false; r.error = e.name + ': ' + e.message; }
+    return report(r);
+  }
+  $('btn-fs').addEventListener('click', doFullscreen);
+  $('open-full').addEventListener('click', function (e) {
+    var posted = false;
+    if (EMBEDDED && S.secret) { post({ message: 'link', value: FULL_URL, secret: S.secret }); posted = true; } // wp-embed.js 'link' message
+    if (SANDBOXED) e.preventDefault(); // target=_blank is blocked without allow-popups; ask the host instead
+    report({ cmd: 'open-full', sandboxed: SANDBOXED, linkMessagePosted: posted, defaultPrevented: e.defaultPrevented });
+  });
+  $('dbg-lose').addEventListener('click', function () { cmd({ cmd: 'ctxloss' }); });
+  $('dbg-vt').addEventListener('click', function () { cmd({ cmd: 'vt' }); });
+  ['dbg-blank', 'dbg-top'].forEach(function (id) { $(id).addEventListener('click', function () { report({ cmd: id, sandboxed: SANDBOXED }); }); });
+  document.addEventListener('focusin', function (e) { post({ type: 'ihh-focus', event: 'focusin', id: e.target.id || e.target.tagName, t: Math.round(performance.now()) }); });
+  document.addEventListener('focusout', function (e) { post({ type: 'ihh-focus', event: 'focusout', id: e.target.id || e.target.tagName, t: Math.round(performance.now()) }); });
+
+  /* ---------- feature probes ---------- */
+  function rec(k, ok, d) {
+    S.probes[k] = { ok: ok, detail: String(d) };
+    var tb = document.querySelector('#probes tbody'), tr = tb.querySelector('tr[data-k="' + k.replace(/"/g, '') + '"]');
+    if (!tr) { tr = document.createElement('tr'); tr.dataset.k = k.replace(/"/g, ''); tr.innerHTML = '<th scope="row"></th><td></td>'; tb.appendChild(tr); }
+    tr.firstChild.textContent = k; tr.lastChild.textContent = (ok ? 'PASS ' : 'FAIL ') + d; tr.lastChild.className = ok ? 'ok' : 'bad';
+  }
+  async function tryit(k, fn) { try { rec(k, true, await fn()); } catch (e) { rec(k, false, (e && e.name || 'Error') + ': ' + (e && e.message || e)); } }
+  function loadImg(cors) { return new Promise(function (res, rej) { var im = new Image(); if (cors) im.crossOrigin = 'anonymous'; im.onload = function () { res(im); }; im.onerror = function () { rej(new Error('image load error' + (cors ? ' (CORS-mode request)' : ''))); }; im.src = 'poster.webp?p=' + Date.now(); }); }
+  async function runProbes() {
+    rec('window.origin / framed / sandboxed', true, window.origin + ' / ' + EMBEDDED + ' / ' + SANDBOXED);
+    rec('referrer / ancestorOrigins', true, (document.referrer || '(empty)') + ' / ' + (location.ancestorOrigins ? Array.prototype.join.call(location.ancestorOrigins, ',') || '(none)' : 'n/a'));
+    rec('visibilityState / dpr / secure context', true, document.visibilityState + ' / ' + (window.devicePixelRatio || 1) + ' / ' + isSecureContext);
+    await tryit('WebGL2 context', async function () { var c = document.createElement('canvas'), gl = c.getContext('webgl2'); if (!gl) throw new Error('getContext returned null'); var x = gl.getExtension('WEBGL_debug_renderer_info'), r = x ? gl.getParameter(x.UNMASKED_RENDERER_WEBGL) : gl.getParameter(gl.RENDERER); var l = gl.getExtension('WEBGL_lose_context'); if (l) l.loseContext(); return r; });
+    await tryit('WebGL2 failIfMajorPerformanceCaveat', async function () { var gl = document.createElement('canvas').getContext('webgl2', { failIfMajorPerformanceCaveat: true }); if (!gl) throw new Error('null: software or unavailable'); var l = gl.getExtension('WEBGL_lose_context'); if (l) l.loseContext(); return 'hardware path'; });
+    rec('prefers-reduced-motion', true, String(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) + (F.rm ? ' (forced by ?rm=1)' : ''));
+    await tryit('localStorage', function () { localStorage.setItem('ihh-s4', '1'); var v = localStorage.getItem('ihh-s4'); localStorage.removeItem('ihh-s4'); return 'read/write ok (' + v + ')'; });
+    await tryit('sessionStorage', function () { sessionStorage.setItem('ihh-s4', '1'); var v = sessionStorage.getItem('ihh-s4'); sessionStorage.removeItem('ihh-s4'); return 'read/write ok (' + v + ')'; });
+    await tryit('document.cookie', function () { return 'read ok (length ' + document.cookie.length + ')'; });
+    await tryit('indexedDB', function () { return new Promise(function (res, rej) { var r = indexedDB.open('ihh-s4', 1); r.onsuccess = function () { r.result.close(); indexedDB.deleteDatabase('ihh-s4'); res('open ok'); }; r.onerror = function () { rej(r.error || new Error('error event')); }; r.onblocked = function () { rej(new Error('blocked')); }; setTimeout(function () { rej(new Error('timeout 3s')); }, 3000); }); });
+    await tryit('CacheStorage (caches)', async function () { await caches.open('ihh-s4'); await caches.delete('ihh-s4'); return 'open ok'; });
+    await tryit('serviceWorker register', async function () { var has = 'serviceWorker' in navigator; var sw = navigator.serviceWorker; if (!sw) throw new Error("navigator.serviceWorker undefined ('in' says " + has + ')'); var reg = await sw.register('sw.js', { scope: './' }); await reg.unregister(); return "'in' says " + has + '; register ok then unregistered'; });
+    rec('fullscreenEnabled', !!document.fullscreenEnabled, String(document.fullscreenEnabled));
+    rec('document.startViewTransition', typeof document.startViewTransition === 'function', typeof document.startViewTransition);
+    await tryit('blob: Worker', function () { return new Promise(function (res, rej) { var u = URL.createObjectURL(new Blob(['postMessage(1)'], { type: 'text/javascript' })), w = new Worker(u); w.onmessage = function () { w.terminate(); URL.revokeObjectURL(u); res('ok'); }; w.onerror = function (e) { rej(new Error(e.message || 'worker error')); }; setTimeout(function () { rej(new Error('timeout 3s')); }, 3000); }); });
+    await tryit('external classic <script src>', function () { return new Promise(function (res, rej) { var s = document.createElement('script'); s.src = 'ext-classic.js?p=' + Date.now(); s.onload = function () { res(window.__extClassic || 'loaded, marker missing'); }; s.onerror = function () { rej(new Error('script load error')); }; document.head.appendChild(s); }); });
+    await tryit('external ES module import()', async function () { return (await import('./ext-module.js?p=' + Date.now())).marker; });
+    await tryit('fetch("oembed.json")', async function () { var r = await fetch('oembed.json?p=' + Date.now()), j = await r.json(); return r.status + ' type=' + j.type; });
+    await tryit('<img crossorigin=anonymous> (texture path)', async function () { var im = await loadImg(true); return im.naturalWidth + 'x' + im.naturalHeight; });
+    await tryit('WebGL texImage2D from <img> w/o CORS', async function () { var im = await loadImg(false), c = document.createElement('canvas'), gl = c.getContext('webgl2'); if (!gl) throw new Error('no webgl2'); var t = gl.createTexture(); gl.bindTexture(gl.TEXTURE_2D, t); gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, im); var err = gl.getError(); var l = gl.getExtension('WEBGL_lose_context'); if (l) l.loseContext(); return 'upload ok, gl.getError=' + err; });
+    await tryit('public CORS fetch (jsdelivr package.json)', async function () { var r = await fetch('https://cdn.jsdelivr.net/npm/three@0.186.1/package.json'); var j = await r.json(); return r.status + ' name=' + j.name; });
+    await tryit('public non-CORS fetch (example.com)', async function () { var r = await fetch('https://example.com/'); return 'status ' + r.status; });
+    await tryit('public CORS <img crossorigin> + texImage2D', async function () { var im = await new Promise(function (res, rej) { var i = new Image(); i.crossOrigin = 'anonymous'; i.onload = function () { res(i); }; i.onerror = function () { rej(new Error('image load error (CORS-mode)')); }; i.src = 'https://cdn.jsdelivr.net/gh/mrdoob/three.js@dev/examples/textures/uv_grid_opengl.jpg'; }); var c = document.createElement('canvas'), gl = c.getContext('webgl2'); if (!gl) throw new Error('no webgl2'); gl.bindTexture(gl.TEXTURE_2D, gl.createTexture()); gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, im); var ge = gl.getError(), l = gl.getExtension('WEBGL_lose_context'); if (l) l.loseContext(); return im.naturalWidth + 'x' + im.naturalHeight + ' uploaded, getError=' + ge; });
+    await tryit('public <img> without crossorigin + texImage2D', async function () { var im = await new Promise(function (res, rej) { var i = new Image(); i.onload = function () { res(i); }; i.onerror = function () { rej(new Error('image load error')); }; i.src = 'https://cdn.jsdelivr.net/gh/mrdoob/three.js@dev/examples/textures/uv_grid_opengl.jpg?nocors=' + Date.now(); }); var c = document.createElement('canvas'), gl = c.getContext('webgl2'); if (!gl) throw new Error('no webgl2'); gl.bindTexture(gl.TEXTURE_2D, gl.createTexture()); gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, im); var ge = gl.getError(), l = gl.getExtension('WEBGL_lose_context'); if (l) l.loseContext(); return 'uploaded, getError=' + ge; });
+    S.probesDone = true; post({ type: 'ihh-probe', results: S.probes, t: Math.round(performance.now()), secret: S.secret, query: location.search });
+  }
+
+  /* ---------- perf collection ---------- */
+  var lcp = null, fcp = null;
+  try { new PerformanceObserver(function (l) { var e = l.getEntries(); lcp = e[e.length - 1]; }).observe({ type: 'largest-contentful-paint', buffered: true }); } catch (e) {}
+  try { new PerformanceObserver(function (l) { l.getEntries().forEach(function (e) { if (e.name === 'first-contentful-paint') fcp = e.startTime; }); }).observe({ type: 'paint', buffered: true }); } catch (e) {}
+  function perf() {
+    var nav = performance.getEntriesByType('navigation')[0] || {}, res = performance.getEntriesByType('resource').map(function (r) { return { n: r.name.replace(/^https?:\/\//, '').slice(0, 70), type: r.initiatorType, start: Math.round(r.startTime), dur: Math.round(r.duration), transfer: r.transferSize, enc: r.encodedBodySize, dec: r.decodedBodySize }; });
+    var ms = S.renderMs.slice(), avg = ms.length ? ms.reduce(function (a, b) { return a + b; }, 0) / ms.length : null;
+    return { cmd: 'perf', mode: S.mode, nav: { responseEnd: Math.round(nav.responseEnd), dcl: Math.round(nav.domContentLoadedEventEnd), load: Math.round(nav.loadEventEnd) }, fcp: fcp && Math.round(fcp),
+      lcp: lcp && { t: Math.round(lcp.startTime), el: lcp.element && (lcp.element.id || lcp.element.tagName), size: lcp.size, url: lcp.url && lcp.url.slice(-40) },
+      cdnImportMs: S.perf.cdnImportMs, firstRenderMs: S.perf.firstRenderMs, renderCpuAvgMs: avg && +avg.toFixed(3), renderSamples: ms.length, heightMsgs: S.heightMsgs, resources: res,
+      heapMB: performance.memory ? +(performance.memory.usedJSHeapSize / 1048576).toFixed(1) : null, glInfo: S.renderer ? { geometries: S.renderer.info.memory.geometries, textures: S.renderer.info.memory.textures, calls: S.renderer.info.render.calls, frames: S.renderer.info.render.frame } : null };
+  }
+  function measureFps(ms) { return new Promise(function (res) { var n = 0, t0 = performance.now(); (function f(t) { n++; if (t - t0 < ms) requestAnimationFrame(f); else res({ cmd: 'fps', frames: n, ms: Math.round(t - t0), fps: +(n * 1000 / (t - t0)).toFixed(1), mode: S.mode, spinning: S.spinning, visibility: document.visibilityState }); })(t0); }); }
+
+  /* ---------- parent commands (spike-only test channel) ---------- */
+  async function cmd(d) {
+    var r;
+    switch (d.cmd) {
+      case 'probes': post({ type: 'ihh-probe', results: S.probes, secret: S.secret, query: location.search }); return;
+      case 'perf': r = perf(); break;
+      case 'fps': r = await measureFps((d.args && d.args.ms) || 2000); break;
+      case 'vt': r = Object.assign({ cmd: 'vt', mode: S.mode }, await vt(function () { if (S.mode === '2d') { S.face = (S.face + 1) % 6; draw2D(); syncFaceList(); } else { document.documentElement.classList.toggle('vt-flip'); } }, true)); break;
+      case 'ctxloss': { var gl = S.renderer && S.renderer.getContext(), x = gl && gl.getExtension('WEBGL_lose_context'); if (x) { x.loseContext(); r = { cmd: 'ctxloss', requested: true }; } else r = { cmd: 'ctxloss', requested: false, why: 'no 3D context' }; break; }
+      case 'lite': setLite(d.args && d.args.on); r = { cmd: 'lite', on: S.lite }; break;
+      case 'face': setFace(d.args && d.args.i || 0); r = { cmd: 'face', face: S.face, label: labelText() }; break;
+      case 'height': reportHeight('cmd', true); return;
+      case 'fullscreen': await doFullscreen(); return;
+      case 'a11y': r = { cmd: 'a11y', mode: S.mode, canvasLabel: (viewer.querySelector('canvas') || {}).getAttribute && viewer.querySelector('canvas').getAttribute('aria-label'), canvasRole: viewer.querySelector('canvas') && viewer.querySelector('canvas').getAttribute('role'), faces: $('faces').innerText, current: $('faces').querySelector('[aria-current]') && $('faces').querySelector('[aria-current]').textContent, status: $('status').textContent, posterHidden: $('poster').hidden }; break;
+      case 'metrics': r = { cmd: 'metrics', docH: Math.ceil($('page').getBoundingClientRect().height), scrollH: document.documentElement.scrollHeight, innerW: innerWidth, innerH: innerHeight, scrollY: Math.round(window.scrollY), lastReported: S.lastH }; break;
+      default: r = { cmd: d.cmd, error: 'unknown command' };
+    }
+    report(r);
+  }
+  window.addEventListener('message', function (e) {
+    var d = e.data; if (!d || e.source !== window.parent) return;
+    if (d.message === 'ready' && d.secret) { S.secret = d.secret; reportHeight('ready', true); return; }
+    if (d.type === 'ihh-cmd') cmd(d);
+  });
+  window.__s4 = { S: S, cmd: cmd, perf: perf, F: F };
+
+  /* ---------- boot ---------- */
+  function boot() {
+    S.lite = F.lite || loadLite(); setStatus();
+    var ro = typeof ResizeObserver === 'function' ? new ResizeObserver(function () { resize3D(); setTimeout(function () { reportHeight('resize-observer'); }, 0); }) : null;
+    if (ro) { ro.observe($('page')); ro.observe(viewer); }
+    window.addEventListener('resize', function () { reportHeight('window-resize'); });
+    window.addEventListener('load', function () { reportHeight('load', true); });
+    if (EMBEDDED) setInterval(function () { reportHeight('poll'); }, 1000); // fallback: resize events and ResizeObserver do not fire while the frame gets no rendering updates
+    var gl2 = false; try { var c = document.createElement('canvas'); gl2 = !!c.getContext('webgl2'); var l = gl2 && c.getContext('webgl2').getExtension('WEBGL_lose_context'); if (l) l.loseContext(); } catch (e) {}
+    if (F.hold) { $('status').textContent = 'Mode: poster only (?hold=1, no enhancement started).'; } else if (S.lite) to2D('manual Lite mode'); else if (!gl2) to2D('no WebGL2 context'); else start3D();
+    syncFaceList(); reportHeight('boot', true);
+    runProbes().then(function () { setTimeout(function () { reportHeight('probes-done'); post(Object.assign({ type: 'ihh-perf' }, perf())); }, 600); });
+  }
+  boot();
+})();
+</script>
+</body>
+</html>

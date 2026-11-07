@@ -1,0 +1,817 @@
+_version_: 1773652209045602304
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn84026749/1937-10-06/ed-1/
+aka[1]: http://www.loc.gov/resource/sn84026749/1937-10-06/ed-1/
+batch[0]: dlc_hawthorne_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json
+created_published[0]: Washington [D.C.], October 6, 1937
+date: 1937-10-06
+date_issued: 1937-10-06
+dates[0].1937-10-06: https://www.loc.gov/search/?dates=1937-10-06/1937-10-06&fo=json
+dates_of_publication: 1902-1939
+description[0]: Washington [D.C.]
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-08-07T20:32:07.145Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_hawthorne_ver01/data/sn84026749/00205698231/1937100601/1937100601_1.xml#ndnp/dlc-2020_now
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2020_now
+group[1]: library-of-congress-washington-dc-awardee-8
+hassegments: true
+id: http://www.loc.gov/item/sn84026749/1937-10-06/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawthorne_ver01:data:sn84026749:00205698231:1937100601:0281/full/pct:3.125/0/default.jpg#h=269&w=211
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawthorne_ver01:data:sn84026749:00205698231:1937100601:0281/full/pct:6.25/0/default.jpg#h=538&w=423
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawthorne_ver01:data:sn84026749:00205698231:1937100601:0281/full/pct:12.5/0/default.jpg#h=1077&w=846
+index: 7
+item.batch[0]: dlc_hawthorne_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington [D.C.], October 6, 1937
+item.date: 1902
+item.date_issued: 1937-10-06
+item.dates[0]: 1937-10-06
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn84026749
+item.location[0]: Washington (D.C.)
+item.medium: 32 pages
+item.newspaper_title[0]: The Washington times
+item.notes[0]: Daily (except Sunday), -Nov. 18, 1922; Apr. 16, 1923-Jan. 31, 1939
+item.notes[1]: No. 3094 (Dec. 1, 1902)-no. 17956 (Jan. 31, 1939)
+item.notes[2]: Extra edition issued Nov. 7, 1918 for the end of World War I.
+item.notes[3]: On Sunday published as: Washington times-herald, Nov. 19, 1922-Apr. 15, 1923.
+item.notes[4]: Also issued on microfilm from the Library of Congress, Photoduplication Service.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling American online collection.
+item.notes[6]: Washington herald (Washington, D.C.) 1941-0662 (DLC)sn 83045433 (OCoLC)9470809
+item.notes[7]: Times herald (Washington, D.C.) (DLC)sn 85040694 (OCoLC)12270503
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_hawthorne_ver01/data/sn84026749/00205698231/1937100601/1937100601_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn84026749/marcxml
+item.other_title[0]: Washington times herald
+item.place_of_publication: Washington [D.C.]
+item.raw_lccn: sn 84026749
+item.reel_numbers[0]: 00205698231
+item.source_group: ndnp/dlc-2020_now
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: The Washington times (Washington [D.C.]), October 6, 1937
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn84026749
+location[0]: washington d.c.
+location[1]: united states
+location[2]: district of columbia
+location[3]: washington
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+medium: 32 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Washington times
+notes[0]: Daily (except Sunday), -Nov. 18, 1922; Apr. 16, 1923-Jan. 31, 1939
+notes[1]: No. 3094 (Dec. 1, 1902)-no. 17956 (Jan. 31, 1939)
+notes[2]: Extra edition issued Nov. 7, 1918 for the end of World War I.
+notes[3]: On Sunday published as: Washington times-herald, Nov. 19, 1922-Apr. 15, 1923.
+notes[4]: Also issued on microfilm from the Library of Congress, Photoduplication Service.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling American online collection.
+notes[6]: Washington herald (Washington, D.C.) 1941-0662 (DLC)sn 83045433 (OCoLC)9470809
+notes[7]: Times herald (Washington, D.C.) (DLC)sn 85040694 (OCoLC)12270503
+number[0]: 00205698231
+number[1]: 1
+number[2]: sn84026749
+number_edition[0]: 1
+number_lccn[0]: sn84026749
+number_reel[0]: 00205698231
+numeric_shelf_id: 193710061
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_hawthorne_ver01/data/sn84026749/00205698231/1937100601/1937100601_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn84026749/marcxml
+other_title[0]: Washington times herald
+partof[0].count: 12344
+partof[0].title: the washington times (washington [d.c.]) 1902-1939
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+washington+times+%28washington+%5Bd.c.%5D%29+1902-1939&fo=json
+partof[1].count: 3210965
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232477
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the washington times (washington [d.c.]) 1902-1939
+place_of_publication: Washington [D.C.]
+publication_frequency[0]: daily
+raw_lccn: sn 84026749
+reel_numbers[0]: 00205698231
+resources[0].files: 32
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawthorne_ver01:data:sn84026749:00205698231:1937100601:0281/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn84026749/1937-10-06/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn84026749, 1937-10-06, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2020_now
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: united states
+subject[1]: newspapers
+subject[2]: washington
+subject[3]: district of columbia
+subject[4]: washington (d.c.)
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+timestamp: 2023-08-08T09:21:55.372Z
+title: The Washington times (Washington [D.C.]), October 6, 1937
+type[0]: issue
+url: https://www.loc.gov/item/sn84026749/1937-10-06/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_hawthorne_ver01/data/sn84026749/00205698231/1937100601/0287.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn84026749/1937-10-06/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawthorne_ver01:data:sn84026749:00205698231:1937100601:0281/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_hawthorne_ver01/data/sn84026749/00205698231/1937100601/0287.pdf
+resources[0].segment_count: 32
+resources[0].url: https://www.loc.gov/resource/sn84026749/1937-10-06/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1937, October 6) The Washington times. Retrieved from the Library of Congress, https://www.loc.gov/item/sn84026749/1937-10-06/ed-1/.
+cite_this.chicago: The Washington times. (Washington, DC), Oct. 6 1937. https://www.loc.gov/item/sn84026749/1937-10-06/ed-1/.
+cite_this.mla: The Washington times. (Washington, DC) 6 Oct. 1937, p. 7. Retrieved from the Library of Congress, www.loc.gov/item/sn84026749/1937-10-06/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_hawthorne_ver01/data/sn84026749/00205698231/1937100601/0287.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_hawthorne_ver01/data/sn84026749/00205698231/1937100601/0287.xml&format=alto_xml&full_text=1
+full_text:
+VDGOVERNMENT W
+w IW WORKERS Ip
+By J. EARLE MOSER
+Jacob Baker, provisional president of the C. I. O.’s United
+Federal Workers of America, once again has disclaimed his
+organization’s intention to sponsor strikes against the Govern
+ment, but in so doing made several statements open to question.
+Before the Civil Service Assem-’
+bly in Ottawa yesterday, the pipe
+smoking former WPA official de-
+dared in brief
+(1) that the
+strike issue in
+the Federal
+service nev e r
+existed, (2)
+that the press
+has fostered a
+general “bias
+against union
+ism” and is “at
+temp ting to
+discredit unions
+among Govern
+ment employes
+by insinuating
+mo t i ves and
+tactics to them
+Jarob Baker
+that do not exist,” and (3) that
+efforts are being made in some
+quarters to extend the President’s
+ban on Federal strikes to non-
+Federal workers.
+Misinterpreted
+On the latter topic he declared:
+“If this precedent is actually
+established and realized im
+mediately the employes of the
+various Government corpora
+tions lose the right to strike.”
+Past history indicates the U. F.
+W. A. leader in error on his first
+two points, and on the third he
+either misinterpreted what con
+stitutes a Government corpora
+tion or else believes strikes should
+be feasible in such austere quar
+ters as Reconstruction Finance
+Corporation or Home Owners
+Loan Corporation which
+would really start something, as
+the sports fans say.
+Existed Since 1932
+As to the strike issue, it has ex
+isted ever since the New Deal’s be
+ginning, when militant young
+students of social economics
+poured from college by the hun
+dreds into Washington to accept
+emergency jobs Spurned by
+N. F. F. E. because they lacked
+permanent status, these elements
+flocked into the A. F. G. E.
+They picketed NRA during the
+Donovan fracas and would have
+attempted a strike but for vigorous
+objection by E. Claude Babcock,
+then A. F. G. E. president.
+A Delicate Position
+After squabbles with a conser
+vative majority, the “militant”
+group as a matter of history be
+came the nucleus of the U. F. W.
+A. Many of them still advo
+cate striking—certainly picketing
+—despite the ban on such, and
+Baker has found himself in an
+ultra-delicate position between the
+disappointed boiling of his con
+stituents and an ironclad adminis
+trative rule brought about by
+those constituents and their fol
+lowers.
+Given Full Sway
+Baker’s attack on the press was
+probably directed elsewhere than
+In Washington, for Federal unions
+have been given full sway as to
+impartial publicity in the Capi
+tal. Once regarded by clerks
+in general as “rackets,** the
+unions have achieved through pub
+licity a generally accepted status
+as constructive organizations.
+A Big Chuckle
+Interior: Employes are chuck
+ling over the manner in which
+other agencies and departments
+J'-
+MJ
+W LB
+Harriet Seed
+are “perking
+up” in social
+activity since
+Interior went
+overboard and
+took the lead
+Credit goes
+greatly to
+anonym o u s
+and enthusias
+tic press agent
+Prime
+mover at Sep
+tember field
+day was Ed
+Kelly, C. Mar
+shall Finnan’s
+administrati v e
+assistant, aided by such folk as
+brunette Harriet Reed, J. J.
+Hengstler. Lou Frick, Mrs.
+Frances Brady, Ferdinand Kaug
+holz, T. W. Ballard, Mary E.
+Scott, John Hendrickson, Nancy
+Pooler, Kenfield Bailey. Nelson
+Loomis and Mrs. Kathryn Kauf
+holz.
+Fusioneers Appeal
+The Fusioneers, nonpartisan
+organization of New York, have
+opened an office at 1406 G St.
+N. W., Room 305. and are ap
+pealing to all native Gothamites
+to cast their ballots for main
+tenance of good government and
+Mayor LaGuardia, regardless of
+party affiliation registration
+train leaves Washington at 1:20
+p. m. Saturday Fusioneers are
+selling tickets, $6.85, at their new
+headquarters.
+And to No Avail
+One Year Ago: Scribner’s Maga
+zine editorial backed drive for
+merit system constitutional amend
+ment advocated by National Civil
+Service Reform League to no
+avail, eventually.
+No Klan Involved
+Morgan Baker, Social Security
+informational assistant at Birming
+ham, former Federal personnel
+commentator here, was appointed
+through good offices of the then
+Senator Hugo Black Treasury
+f Tslepksms Dhttiet 7000 1
+Local No 262, N. F. F. E.. will ban
+quet its collectors at 6:30 p. m.
+today at the Y. W. C. A., Seven
+teenth and K. Treasury Secre
+tary Morgenthau has awarded gold
+life saving medals to five Coast
+Guardsmen for saving 21 of the
+crew of a vessel distressed by a
+gale on the West coast.
+Still Certifying
+Maritime Commission: Work of
+certifying 900-odd former Shipping
+Board and Emergency Fleet Cor
+poration employes to the Civil
+Service Commission still going on
+will take a number of weeks
+before the job is finished, office
+of Personnel Director E. W. An
+derson informs No hirings
+planned, at least in near future
+Pretty Frances B. Spring, An
+derson’s assistant, left Saturday
+for three weeks of vacation in
+Kansas City, Mo.
+Raps Age Barriers
+A. F. G. E. Notes: Executive
+council of the American Federa
+tion of Labor in Denver has de
+clared itself interested in the Sen
+ate bill, now tied in House Civil
+Service Committee, to eliminate
+Civil Service Commission’s regula
+tion making age a barrier to Gov
+emment employment Council
+desires to squelch the tendency to
+hire only younger workers in pri
+vate industry, recognizing that in
+dustry follows Uncle Sam’s lead
+Charles Stengle, A. F. G. E.
+president, has been appointed to
+the legislative committee at the
+Denver convention, Treasurer Cus
+ter to education. Vice President
+Perry Myers to laws and Secretary
+“Bunnie” Heffner to State organi
+zations Custer, however, hadn’t
+left for Denver yesterday and ma7
+not get there, being tied up at his
+desk with Civil Service Commis
+sion’s budgetary plans.
+Jessie Hits Agair.
+That reinstatement victory over
+at Railroad Retireemnt this week
+(five adjudicators canned for ”in-
+Jessica Bock
+efficiency” are
+g i ven another
+chance) was
+largely due to
+the persistence
+of big-eyed Jes
+sica Buck
+Jessie, as her
+friends call her,
+is a big-wig in
+the RRB’s U. F.
+W. A. local and
+likewise quite
+influential at U.
+F. W. A. na
+tional office...
+She’s not very
+popular with
+colleagues in rival organizations,
+whom she terms “company union
+ists” in chilling tones, but her
+batting average in attaining objec
+tives is high...We nominate Jes
+sie as the person most responsible
+for WPA’s replacement division,
+which, while it lists 3,000 job-hunt
+ing New Dealers still, has placed
+hundreds in needed work.
+New State Volume
+State Department has pub
+lished “International Transfers
+of Territory In Europe,” showing
+the changes in the continent’s
+boundaries caused by the World
+War and Balkan wars of 1912 and
+1913... Very interesting and use
+ful to Government agencies and
+the public in regard to immigra
+tion. naturalization and passport
+problems... Sophia Sauserman,
+assistant geographer at State,
+prepared the volume.
+The Last Campfire
+National Park Service yesterday
+announced its last “campfire pro
+gram” of the ’37 season—and for
+got to tell where Inquiry, how
+ever, reveals it occurs Friday, 7 to
+10 p. m., at Pierce Mill, grove No.
+2 High spot will be showing
+of the movie, “Boulder Dam,” a
+revelation in the wonders of na
+ture Sunday N. P. S. will spon
+sor an autumn visit to the Leiter
+estate in Virginia Special-bus,
+50-cent fare, leaves 1416 F St. N.
+W., at 2 p m„ while private autos
+should drive through Cherrydale,
+turn right on Highway No. 9
+(Glebe Road) and drive toward
+Great Falls, Va., to a sign reading
+"Nature Outing Here,” on the
+right of the road Incidentally,
+Chain Bridge is closed, so don’t
+try that route
+Two Are Restored
+Absentee voters’ registration
+trains leave Friday at 4:55 p. m.
+and Saturday at 1:55 p. m. for
+New York Tickets, $6.75, avail
+able at Voters’ Bureau. 10 a. m.
+to 7 p. m„ 1406 G St. N. W.
+United Civil Service Employes
+headquarters finds bulk of its
+work in requests for reinstate
+ments Two successful cases
+recorded recently.
+SSB Folk Dance
+Social Security Local No. 10,
+probably the peppiest socially of
+all U. P. W. A. units, announces a
+gala costume ball for Halloween
+Eve, October 30... Dancing will
+continue from 10 p. m. until 60
+minutes after the witching hour in
+the Willard’s grand ballroom, hold
+ing 1,500 Large attendance
+hoped for. guests can come In cos
+tume or not, as they choose, and
+Johnny Slaughter’s ensemble will
+render the rhythm.
+LaMarr Now
+I r
+mg
+Hi: wßa
+HEDY KEISLER, European
+actress who created a sensa
+tion by appearing nude in the
+motion picture “Ecstasy,” has
+changed her name in Holly
+wood. Henceforth she is to be
+known as Hedy LaMarr.
+LABOR-CAPITAL
+PEACE IS URGED
+WELLESLEY HILLS, Mass.,
+Oct. 6 (I.N.S.).—Employers will
+most satisfactorily further their
+relations with trade unions if they
+cease to think in terms of legal
+restraints which they may exer
+cise against them, Edwin S.
+Smith, member of the National
+Labor Relations Board, told the
+twenty fourth annual National
+Business Conference at Babson’s
+Institute today.
+He said successful dealing with
+trade unions depends on the
+growth of mutual confidence be
+tween the employer and his work
+ers’ representatives.
+Smith said it had been com
+monly asserted that the board’s
+partiality toward labor is shown
+by the fact that in only a com
+paratively few decisions does the
+board find in the employer’s
+favor.
+“The statment is true,” he
+said, “but the inference of par
+tiality drawn from it is com
+pletely misleading. It overlooks
+the fact that each case decided
+by the board has passed through
+a highly selective sifting process
+before it is brought to our atten
+tion in final form for adjudica
+tion.”
+Wandering Girl, 7,
+Back With Mother
+DETROIT, Oct. 6 (I.N.S.)—Mar
+garet Dorothy Dickens, 7, who
+journeyed here alone from San
+Diego, Cal., only to be stopped
+at the Canadian border when she
+forgot the name of an aunt in
+Oshawa, Ontario, was back with
+her mother today.
+The mother, Mrs. Gladys Freder
+icks, 26. former circus performer
+from San Diego, arrived here with
+two other children. Canadian im
+migration officials refused to allow
+her to enter because she did not
+have enough money to assure she
+would not become a government
+ward.
+The Weather
+District of Columbia—Fair to
+night; Thursday partly cloudy and
+colder; moderate to fresh south
+west, shifting to west winds.
+Maryland—Partly cloudy tonight
+and Thursday; slightly colder
+Thursday and in north portion to
+night.
+Virginia—Partly cloudy, slightly
+colder in northwest portion to
+night; Thursday partly cloudy, fol
+lowed by rain in extreme south
+west portion in afternoon or at
+night, slightly colder in north por
+tion Thursday.
+TIDE TABLE
+High tides today at 8:54 a. m.
+and 9:16 p. m.
+Low tides today at 3:36 a. m.
+and 3:42 p. m.
+High tides tomorrow at 9:31 a.
+m. and 9:53 p. m.
+Low tides tomorrow at 4:17 a.
+m. and 4:19 p. m.
+SUN AND MOON
+The sun rose today at 6:08 a.
+m. and sets at 5:54 p. m.
+The sun rises tomorrow at 6:09
+a. m. and sets at 5:54 p. m.
+The moon rose today at 7:58 a.
+m. and 6ets at 6:09 p. m.
+The moon rises tomorrow at
+8:58 a. m. and sets at 6:45 p. m.
+TEMPERATURES
+4 p. m 70 4 a. m 69
+8 p. m 70 8 a. m 66
+Midnight 70 Noon 74
+DEPARTURES
+Accumulated excess of tempera
+ture since January 1, 1937, 519.
+Deficiency of temperature since
+October 1, 1937, 10.
+Accumulated excess of precipi
+tation since January 1, 1937, 8.50.
+Excess of precipitation since Oc
+tober 1, 1937, 1.24.
+TEMPIKiimM
+Rain-
+High Low fall
+Asheville, n. C 72 62
+Atlanta. Ga 82 66
+Atlantic City. N. J.... 72 66 0 78
+Boston. Mass 74 62 0 02
+Chicago. 11l 82 58 0.01
+Cheyenne. Wyo 60 34 0.02
+Denver. Colo 62 40
+Des Moines. 10wa.... 80 44
+Detroit. Mich 78 66 ft. 10
+El Paso, Tex 88 60
+Los Angeles. Cal 72 58
+Miami. Fla 90 78
+New York. N. Y 70 64 0 40
+Omaha, Neb 72 42
+Pittsburgh. Pa 74 62 0 20
+Portland. Me 68 58 0 10
+Portland, Ore 62 48
+San Antonio. Tex 94 74
+San Francisco. Ca1.... 70 54
+Santa Fe. N. M 70 42
+WASHINGTON, D. C.. 72 O.TI
+THE WASHINGTON TIMES, WEDNESDAY, OCTOBER 6, 1937
+DEMOCRAT BLOC
+PLANS FIGHT FOR
+NEW WADE BILL
+Measure Is Substitute
+For New Deal Idea
+By WILLIAM S. NEAL
+(Copyright, 1937, by International
+N.w, Service)
+Anticipating a special session of
+Congress, a group of 30 Demo
+cratic Congressmen have agreed
+upon the basic form of a new wage
+hour bill as a substitute for the
+Administration's Black-Connery
+bill.
+The new bloc, it was disclosed to
+day, regards enactment of national
+minimum wages and maximum
+hours legislation in the next ses
+sion of Congress, either special or
+regular as inevitable.
+May Split Party
+The substitute plan, which may
+split Democratci ranks in the
+House, is based upon expansion of
+power and authority of the Fed
+eral Trade Commission.
+The plan is:
+1. Amendment of section 5 of
+anti-trust act, to permit Federal
+Trade Commission to declare as
+an unfair trade practice pay
+ment of subnormal wages, exces
+sive hours or use of child labor.
+2. Upon declaration by com
+mission affecting an industry,
+shipment of goods into a State
+having labor standards above
+that of the industry held to be
+guilty of unfair trade practice
+is prohibited.
+Representative Arthur Lamneck
+(D.) of Ohio will introduce the
+new bill on the first day of the
+new session.
+During the six weeks since Con
+gress adjourned, the Democratic
+group, chiefly through exchang
+ing ideas by correspondence, has
+united on the new substitute plan.
+FIGHT IN HOUSE
+Since the Black-Connery wage
+hours bill passed the Senate, the
+battle in the new session will cen
+ter in the House.
+“It is our belief that 90 per
+cent of Southern Democrats and
+a large group from other sec
+tions, particularly the middle
+and far west, will support the
+substitute program,” said Lam
+neck.
+“Enactment of legislation Is
+inevitable. The Black-Connery
+bill is regarded by excellent
+lawyers as unconstiutional. But
+it also would have a bad effect
+ou the country.
+“The new bill does not fix
+wages and hours. It will strike
+i at the ‘sweat shop,’ encourage
+action by State legislatures to
+aid the group for which aid is
+sought, will not interfere with
+collective bargaining and is
+flexible.”
+Expert legal advisers, Lamneck
+said, are putting the finishing
+touches on the bill. Copies will be
+sent to all of the 435 members of
+the House and an active drive will
+be opened to win support.
+CIRCUS OBLIGES
+HILLSBORO. Ohio, Oct. 6
+(I.N.S.).—Ten-year-old Teddy Luk
+ens had a problem—and a big one
+—on his hands, when an ailing
+camel, given him by a visiting cir
+cus, took a turn for the worse end
+died. Unable to dispose of the
+body, Teddy wired circus officials
+to come and take their camel
+back. They did.
+ADVERTISEMENT
+What Causes Your
+BACKACHE
+Why Do You Have To Get Up
+Often At Night?
+You can go a long way toward help
+ing nature to purify the blood If you
+flush from the millions of delicate fil
+tering tubes of the kidneys the excess
+acid and poisons that are overtaxing
+them —your physician will tell you that.
+When your back aches or you are
+nervous and irritable—when you have
+to get up at night and flow is difficult
+and sometimes burns it may be well to I
+look to the kidneys.
+One grand safe effective yet harmless
+diuretic is GOLD MEDAL Haarlem Oil
+Capsules—right from Haarlem in Hol
+land —Get a 2 cent box and take as
+directed—refuse substitutes.
+SCHOOLS AND COLLEGES
+Accountancy
+Pace Courses: B. C. S. and
+M. C. S. Degrees. C. P. A.
+Day and Even
+ing Classes; Coeducational
+Send for 3lot Year Book
+BENJAMIN FRANKLIN UNIVERSITY
+TRANSPORTATION BLDG. MET. 29 If
+I NATIONAL
+SCHOOL OF LAW
+Registration Now Open
+School of Economics
+and Government
+hflrttu'i Os do.
+Opm for rectatntloa 8 m. to T p m.
+818 13th STREET N. W.
+Tetepbom National MIT
+imrmmvnMkm
+I TJ [tm real mosertii are Is demand
+Iv) Boyd Gr.dn.te. win prli. port-
+WJFj tion,. Beginner,' and Review
+rour.es. Day-Evenln* Be»ion>.
+V Port tion, for graduate*. Inquire
+BOYD 5CH00L..7.7,1
+CandlewMc and
+Chenille Spreads
+Some Samples! Some irregulars! But
+Every One a Knockout Value At
+We weren't a bit surprised, when the last lot was a complete W jja im.
+sellout before noon. We expected it the values offered were Jgm f Jllll HI
+so outstanding, we knew Washington women would recognize JM|| WPv I
+their true worth at first glance. And we were right—the spreads -gnPfgmß Jk Jj|
+were a walkout. But a telephone conversation to the mill, luckily
+brings us 500 more of the same, high grade spreads so we Ji sMßlf JH
+say. be here bright and early tomorrow—don't miss out on the W MM
+biggest merchandise thrill
+Goldenberg’s—Main Floor Bl
+The New 79c to 1.35 Ringless Silk Hosiery
+Slilß LOOk 3 And 4 Thread Sheer Chiffons
+Mill mends but imperfections are
+mu so trifling you'll scarcely notice
+rfllinilaLlOnS ’if .jgßthem. We suggest buying m half
+vHIIMHHMiiM mmmw .'W Jf? dozen lots, for when these are f
+i sold, there’ll be no more at this mi
+Prevent “Riding Up” Price. All colors, sizes ay 2 to
+and allow utmost free- v.—- Mljmd/J
+dom of movement. Goldenberg’s-Main Floor
+I 8 Women's $1 Tuck-Stitch Pajamas
+Pastel Tone Cottons, Ideal for Now
+P giving pajamas. Tearose and F
+I ‘4lk, blue. Long sleeves, high or low
+necks. Attractive trimmings in
+79c "Modern Boy" Shirts and Blouses
+Mothers, Here's a Bet You Can't Overlook
+s Every shirt is vat dyed and fast
+color. Plenty of white of course
+Hyk dn cellophane packages), also M
+Vv,\\ As' H dusty tones, deeptones and pat- W
+terns. Sizes 8 to to 14Vi
+3.50 48c to 69c Gold Seal Congoleum
+Thanks to accurate design- 4l*o Other Famous Makes, Fine Qualities
+tion that will not ride up on TF3j» Stone, tile and marble patterns
+the figure. Precision Back A m| cut from full and part rolls. _
+Foundations incorporate an 11 Excellent patterns for every M F
+entirely new idea in corset IIIW I BJ I j Li 1.1 ml
+design-the patented sliding h, jl« |gfl room in the house. Please
+back which lengthens from Q fl p»n bring your room measurements.
+3to 4 inches—allowing ut- H‘, f lu!|W| VM
+most freedom of movement. fBSEmHBI fhfaj W j Goldenberg’s—Downstairs TO,
+I j jTf HKMKiiMi f u jumjß
+Repeat Sale! 49c Drapery Damask
+rassmt ß i|iri| In Luxurious, Fall, Decorators' Colors
+(lC ■L mi *”l fNB ru gt, blue, green, brown, beige JM
+to Zr c° r mKpk -Jm and wine. Colors that har- MU
+*l. w*o* tO A Rv- ‘MmJtWNFFi monize with practically every M MM C
+lO* 1 sf\o WmMSSßmaMammM* room scheme. Effective pat
+i si WfcT, k terns and tracings that will I
+kl ifO®i -voot make up and drape beauti
+fully. 50 inches wide. Yd.
+Goldenberg's—Third Floor
+■■mihNo Parking Worries Here: 10c First 2 Hours, 10c Each Additional HouranMMi
+F T«UpAon« Dlitftei 7000
+7

@@ -1,0 +1,11 @@
+{
+  "url": "https://catalog.archives.gov/id/74395327",
+  "fetch_url": "https://catalog.archives.gov/proxy/contributions/targetNaId/74395327",
+  "method": "api",
+  "fetched_at": "2026-10-20T20:50:41Z",
+  "sha256": "6c1746d2f0d798191c1ec368bcb33b0853371c7bbab8273a31be329cafc4a9d4",
+  "bytes": 12281,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/contributions/targetNaId/74395327",
+  "record_url": "https://catalog.archives.gov/proxy/records/search?naId=74395327"
+}

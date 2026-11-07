@@ -1,0 +1,272 @@
+{
+ "result": {
+  "id": "lowpoly",
+  "tokenCount": 69,
+  "authoredTokens": 34,
+  "timings": {
+   "buildMs": 240.8,
+   "propsNetworkMs": 67.8,
+   "firstSampleMs": 178.4,
+   "captureAccumMs": 178.4,
+   "samples": 1,
+   "resolveEquirectMs": 39,
+   "resolveFlatMs": 4.3,
+   "pixelsReadyMs": 475.8,
+   "encodeEquirectWebpMs": 1423.6,
+   "encodeFlatWebpMs": 207.4,
+   "totalMs": 6976.8
+  },
+  "sizes": {
+   "equirectWebp70KiB": 164.4,
+   "flatWebp80KiB": 46.6,
+   "equirectJpeg70KiB": 353.8,
+   "equirectWebp50KiB": 136.3,
+   "equirectWebpLosslessKiB": 1013.1,
+   "equirectPngKiB": 2033.8
+  },
+  "stats": {
+   "meshes": 168,
+   "triangles": 8790
+  },
+  "outline": null,
+  "propTriangles": {
+   "chalkboard-standing": {
+    "before": 2372,
+    "after": 488
+   },
+   "basket-north": {
+    "before": 22276,
+    "after": 112
+   }
+  },
+  "notes": [],
+  "assets": [
+   {
+    "id": "standing_chalkboard_01",
+    "provider": "Poly Haven",
+    "licence": "CC0-1.0",
+    "pageUrl": "https://polyhaven.com/a/standing_chalkboard_01",
+    "declaredBytes": 2617256
+   },
+   {
+    "id": "wicker_basket_01",
+    "provider": "Poly Haven",
+    "licence": "CC0-1.0",
+    "pageUrl": "https://polyhaven.com/a/wicker_basket_01",
+    "declaredBytes": 2730151
+   }
+  ],
+  "seams": {
+   "real": {
+    "seamPairs": 13142,
+    "dLseam": 1.079,
+    "dLctrl": 1.031,
+    "dLratio": 1.046,
+    "p95seam": 4.3,
+    "p95ctrl": 4.1,
+    "inkDensityNear": 0.4243,
+    "inkDensityFar": 0.4266,
+    "inkRatio": 0.995,
+    "inkPixelsNear": 31906,
+    "seamPixelCount": 13142
+   },
+   "null": {
+    "dLratio": {
+     "mean": 0.876,
+     "sd": 0.174,
+     "min": 0.662,
+     "max": 1.211,
+     "z": 0.98
+    },
+    "inkRatio": {
+     "mean": 1.01,
+     "sd": 0.019,
+     "min": 0.993,
+     "max": 1.043,
+     "z": -0.77
+    },
+    "p95seam": {
+     "mean": 4.357,
+     "sd": 0.754,
+     "min": 3.3,
+     "max": 5.2,
+     "z": -0.08
+    }
+   }
+  },
+  "analysisSeamMs": 4471.4,
+  "legibilityFlat": {
+   "blocks": 144,
+   "block": [
+    160,
+    40
+   ],
+   "whiteBare": {
+    "min": 1.53,
+    "p5": 1.64,
+    "median": 3.33,
+    "passAA": 0.125,
+    "pass3": 0.569
+   },
+   "inkBare": {
+    "min": 1.05,
+    "p5": 1.13,
+    "median": 1.17,
+    "passAA": 0.146,
+    "pass3": 0.243
+   },
+   "whiteOnScrim": {
+    "min": 9.42,
+    "p5": 9.75,
+    "median": 12.68,
+    "passAA": 1,
+    "pass3": 1
+   },
+   "worstWhite": {
+    "c": 1.527490998238936,
+    "x": 0,
+    "y": 0,
+    "scrim": 9.415536840131605
+   },
+   "worstInk": {
+    "c": 1.0510835518226265,
+    "x": 320,
+    "y": 0
+   }
+  },
+  "legibilityEquirect": {
+   "blocks": 850,
+   "block": [
+    160,
+    40
+   ],
+   "whiteBare": {
+    "min": 1.12,
+    "p5": 1.46,
+    "median": 2.67,
+    "passAA": 0.288,
+    "pass3": 0.479
+   },
+   "inkBare": {
+    "min": 1.01,
+    "p5": 1.05,
+    "median": 1.46,
+    "passAA": 0.224,
+    "pass3": 0.433
+   },
+   "whiteOnScrim": {
+    "min": 8.14,
+    "p5": 9.19,
+    "median": 11.75,
+    "passAA": 1,
+    "pass3": 1
+   },
+   "worstWhite": {
+    "c": 1.1208896771053898,
+    "x": 2720,
+    "y": 1200,
+    "scrim": 8.143235636041668
+   },
+   "worstInk": {
+    "c": 1.0085950141635012,
+    "x": 3520,
+    "y": 840
+   }
+  },
+  "photoPatch": {
+   "centerPx": [
+    306,
+    433
+   ],
+   "meanRGB": [
+    103,
+    97,
+    88
+   ],
+   "distinctColours": 997,
+   "widthPx": 146
+  },
+  "equirectMeanLuma": 106.5,
+  "distinctColours6bit": 1665,
+  "viewed": {
+   "wide": {
+    "resampleOnly": {
+     "meanAbs": 1.191,
+     "psnr": 34.04
+    },
+    "withWebp70": {
+     "meanAbs": 2.627,
+     "psnr": 32.66
+    }
+   },
+   "zoom": {
+    "resampleOnly": {
+     "meanAbs": 1.359,
+     "psnr": 35.88
+    },
+    "withWebp70": {
+     "meanAbs": 2.828,
+     "psnr": 33.75
+    }
+   }
+  },
+  "viewedMs": 402.4,
+  "run": 2
+ },
+ "runs": [
+  {
+   "id": "lowpoly",
+   "timings": {
+    "buildMs": 265.8,
+    "propsNetworkMs": 59.4,
+    "firstSampleMs": 229.6,
+    "captureAccumMs": 229.6,
+    "samples": 1,
+    "resolveEquirectMs": 39,
+    "resolveFlatMs": 4.9,
+    "pixelsReadyMs": 561,
+    "encodeEquirectWebpMs": 1364.8,
+    "encodeFlatWebpMs": 190.1,
+    "totalMs": 4989.4
+   },
+   "sizes": {
+    "equirectWebp70KiB": 164.4,
+    "flatWebp80KiB": 46.6,
+    "equirectJpeg70KiB": 353.8,
+    "equirectWebp50KiB": 136.3,
+    "equirectWebpLosslessKiB": 1013.1,
+    "equirectPngKiB": 2033.8
+   }
+  },
+  {
+   "id": "lowpoly",
+   "timings": {
+    "buildMs": 240.8,
+    "propsNetworkMs": 67.8,
+    "firstSampleMs": 178.4,
+    "captureAccumMs": 178.4,
+    "samples": 1,
+    "resolveEquirectMs": 39,
+    "resolveFlatMs": 4.3,
+    "pixelsReadyMs": 475.8,
+    "encodeEquirectWebpMs": 1423.6,
+    "encodeFlatWebpMs": 207.4,
+    "totalMs": 6976.8
+   },
+   "sizes": {
+    "equirectWebp70KiB": 164.4,
+    "flatWebp80KiB": 46.6,
+    "equirectJpeg70KiB": 353.8,
+    "equirectWebp50KiB": 136.3,
+    "equirectWebpLosslessKiB": 1013.1,
+    "equirectPngKiB": 2033.8
+   }
+  }
+ ],
+ "gpu": {
+  "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)",
+  "version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+  "maxTexture": 16384
+ },
+ "three": "186"
+}

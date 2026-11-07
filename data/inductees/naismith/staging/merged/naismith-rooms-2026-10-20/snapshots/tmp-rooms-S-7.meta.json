@@ -1,0 +1,10 @@
+{
+  "url": "https://npgallery.nps.gov/NRHP/AssetDetail/NRIS/75000708",
+  "fetch_url": "https://npgallery.nps.gov/NRHP/AssetDetail/NRIS/75000708",
+  "method": "http",
+  "fetched_at": "2026-10-20T22:38:56Z",
+  "sha256": "5e2825f60fffaa84b7e9b1811024ca3cb503caf129e7560d6435f02c1371f32e",
+  "bytes": 2144,
+  "http_status": 200,
+  "final_url": "https://npgallery.nps.gov/NRHP/AssetDetail/NRIS/75000708"
+}

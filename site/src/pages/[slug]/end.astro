@@ -1,0 +1,75 @@
+---
+// Ending: /<slug>/end/. The visitor chooses: the quiz, another inductee, or the entrance. Other
+// inductees are listed by their pipeline names; one without its own pages yet is marked
+// "Coming soon" and has no link.
+import Base from '../../layouts/Base.astro';
+import { listInductees, loadInductee, loadQuiz } from '../../content/load.js';
+import { otherInductees } from '../../content/journey.js';
+
+export function getStaticPaths() {
+  return listInductees().map(slug => ({ params: { slug }, props: { slug } }));
+}
+const { slug } = Astro.props;
+const inductee = loadInductee(slug);
+const quizCount = (loadQuiz(slug) || []).length;
+const others = otherInductees(slug);
+---
+<Base title={`${inductee.name}: what next`} description={`Choose what to do after visiting ${inductee.name}.`}>
+  <div class="ending">
+    <p class="kicker">{inductee.name}</p>
+    <h1>What next?</h1>
+    <div class="choices">
+      {quizCount > 0 && (
+        <section class="choice" aria-labelledby="quiz-heading">
+          <h2 id="quiz-heading">Test what you saw</h2>
+          <p>{`${quizCount} short ${quizCount === 1 ? 'question' : 'questions'}. Each answer shows its sources.`}</p>
+          <a class="choice-link" href={`/${slug}/quiz/`}>Take the quiz</a>
+        </section>
+      )}
+      <section class="choice" aria-labelledby="others-heading">
+        <h2 id="others-heading">Other inductees</h2>
+        <ul class="others" aria-labelledby="others-heading">
+          {others.map(o => (
+            <li data-inductee={o.slug}>
+              {o.href ? <a href={o.href}>{o.name}</a> : <><span class="name">{o.name}</span> <span class="soon">Coming soon</span></>}
+            </li>
+          ))}
+        </ul>
+      </section>
+      <section class="choice" aria-labelledby="back-heading">
+        <h2 id="back-heading">Back to the start</h2>
+        <a class="choice-link" href="/">Return to the entrance</a>
+        <a class="choice-link" href={`/${slug}/`}>Back to the journey map</a>
+      </section>
+    </div>
+  </div>
+</Base>
+
+<script>
+  // Arriving at the end of the story (?story=1): the page came in with the story's fade (Base.astro);
+  // the story is over, so the parameter and the fade opt-in go (after the fade has started).
+  // Without cross-document View Transitions the page fades itself in from the story's dark ground.
+  import { readStory, withoutStory, storyTransitions, fadeIn } from '../../ui/story.js';
+  if (readStory(location.href)) {
+    fadeIn();
+    try { history.replaceState(history.state, '', withoutStory(location.href)); } catch { /* sandboxed */ }
+    const off = () => storyTransitions(false);
+    // pagereveal may already have fired before this module ran: the timer covers that.
+    if ('onpagereveal' in window) { addEventListener('pagereveal', off, { once: true }); setTimeout(off, 600); } else off();
+  }
+</script>
+
+<style is:global>
+  .ending { padding: var(--space-4); max-width: 1000px; margin: 0 auto; }
+  .ending .kicker { margin: 0; color: var(--c-muted); }
+  .ending h1 { font-family: var(--f-serif); margin: var(--space-2) 0 var(--space-5); }
+  .ending .choices { display: grid; gap: var(--space-4); grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+  .ending .choice { background: #fffdf9; border-top: 4px solid var(--c-accent); padding: var(--space-4); border-radius: 6px; }
+  .ending .choice h2 { font-size: 1.15rem; margin: 0 0 var(--space-3); }
+  .ending .choice-link { display: block; min-height: 24px; padding: var(--space-2) 0; color: var(--c-accent); font-weight: bold; }
+  .ending .others { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--space-2); }
+  .ending .others li { display: flex; flex-wrap: wrap; justify-content: space-between; gap: var(--space-2); padding: var(--space-2) 0;
+    border-bottom: 1px solid #e2dbcf; }
+  .ending .others a { color: var(--c-accent); min-height: 24px; }
+  .ending .soon { font-size: 0.875rem; color: var(--c-muted); }
+</style>

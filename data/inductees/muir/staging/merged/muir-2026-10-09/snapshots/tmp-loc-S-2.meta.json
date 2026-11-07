@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/rc01000874/",
+  "fetch_url": "https://www.loc.gov/item/rc01000874/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:30Z",
+  "sha256": "4f2cdd4931649be830e767a02c2e7facdaa7000b336b080c2b0ab86a993d3bf1",
+  "bytes": 558600,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/rc01000874/?fo=json"
+}

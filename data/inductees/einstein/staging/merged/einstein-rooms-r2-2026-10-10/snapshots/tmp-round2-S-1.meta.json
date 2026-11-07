@@ -1,0 +1,10 @@
+{
+  "url": "https://www.archives.gov/exhibits/panoramic_photography/images/president_harding_nas.html",
+  "fetch_url": "https://www.archives.gov/exhibits/panoramic_photography/images/president_harding_nas.html",
+  "method": "http",
+  "fetched_at": "2026-10-10T21:20:39Z",
+  "sha256": "75e498d2889381e73e23fe01d9fee6538e66f649cbf61a58cd3571c68dcee3d9",
+  "bytes": 388,
+  "http_status": 200,
+  "final_url": "https://www.archives.gov/exhibits/panoramic_photography/images/president_harding_nas.html"
+}

@@ -1,0 +1,53 @@
+title: John Muir
+scopeAndContentNote: Original Caption: Muir, John, 1838-1914
+levelOfDescription: item
+recordType: description
+useRestriction.note: This image may be subject to copyright or other intellectual property restrictions.
+useRestriction.specificUseRestrictions[0]: Copyright
+useRestriction.status: Restricted - Possibly
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-0561
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Still Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3621
+physicalOccurrences[0].referenceUnits[0].email: stillpix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Photographic Materials
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Photographic Print
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Still Pictures
+dataControlGroup.groupId: RRAM–S
+dataControlGroup.groupCd: RRAM–S
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+localIdentifier: 79-SM-763-10
+variantControlNumbers[0].type: Declassification Project Number
+ancestors[0].inclusiveStartDate.year: 1785
+ancestors[0].inclusiveStartDate.logicalDate: 1785-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 79
+ancestors[0].inclusiveEndDate.year: 2006
+ancestors[0].inclusiveEndDate.logicalDate: 2006-12-31
+ancestors[0].title: Records of the National Park Service
+ancestors[0].naId: 408
+ancestors[1].inclusiveStartDate.year: 1945
+ancestors[1].inclusiveStartDate.logicalDate: 1945-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of the Interior. National Park Service. (03/02/1934 - )
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 3
+ancestors[1].creators[0].establishDate.year: 1934
+ancestors[1].creators[0].establishDate.day: 2
+ancestors[1].creators[0].establishDate.logicalDate: 1934-03-02
+ancestors[1].creators[0].naId: 10511720
+ancestors[1].inclusiveEndDate.year: 1954
+ancestors[1].inclusiveEndDate.logicalDate: 1954-12-31
+ancestors[1].title: The Stephen T. Mather Collection of Photographs
+ancestors[1].naId: 520198
+naId: 219777099

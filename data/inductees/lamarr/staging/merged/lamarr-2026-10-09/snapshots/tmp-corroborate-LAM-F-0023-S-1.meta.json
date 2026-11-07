@@ -1,0 +1,10 @@
+{
+  "url": "https://www.invent.org/blog/inventors/hedy-lamarr",
+  "fetch_url": "https://www.invent.org/blog/inventors/hedy-lamarr",
+  "method": "http",
+  "fetched_at": "2026-10-09T20:03:49Z",
+  "sha256": "c445f0d27a462860c3030f77b14f79301191bdd995c3d59da5e732ea0aac8751",
+  "bytes": 6312,
+  "http_status": 200,
+  "final_url": "https://www.invent.org/blog/inventors/hedy-lamarr"
+}

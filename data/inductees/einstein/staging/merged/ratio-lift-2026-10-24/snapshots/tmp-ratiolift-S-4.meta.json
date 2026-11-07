@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn83045499/1933-03-30/ed-1/?sp=1",
+  "fetch_url": "https://www.loc.gov/resource/sn83045499/1933-03-30/ed-1/?sp=1&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-24T06:16:08Z",
+  "sha256": "42a0ea6a05da687233ae39649765fefd99ec215b502c02e7101363915719e54d",
+  "bytes": 30135,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn83045499/1933-03-30/ed-1/?sp=1&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_commonraven_ver01/data/sn83045499/00514159658/1933033001/0598.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/ak/batch_ak_commonraven_ver01/data/sn83045499/00514159658/1933033001/0598.xml"
+}

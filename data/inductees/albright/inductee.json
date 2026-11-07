@@ -1,0 +1,106 @@
+{
+  "slug": "albright",
+  "code": "ALB",
+  "name": "Madeleine Albright",
+  "aliases": [
+    "Albright, Madeleine Korbel",
+    "Korbel, Madeleine",
+    "Korbel, Marie Jana",
+    "Madeleine Jana Korbel Albright",
+    "Marie Jana Korbel",
+    "Madeleine Korbel Albright"
+  ],
+  "authority": {
+    "loc_naf": "https://id.loc.gov/authorities/names/n83125999",
+    "wikidata": "Q174438"
+  },
+  "birth_year": 1937,
+  "death_year": null,
+  "ihh_url": "https://immigranthallofhonor.org/inductees/inductee-madeleine-albright/",
+  "runs": [
+    {
+      "run_id": "albright-2026-10-09",
+      "date": "2026-10-09",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-09: 80 facts, 66 sources, 24 media, 153 searches merged from baseline.jsonl, baseline.searches.jsonl, domain.jsonl, domain.searches.jsonl, identify.jsonl, identify.searches.jsonl, institutional.jsonl, institutional.searches.jsonl, loc.jsonl, loc.searches.jsonl, media.jsonl, media.searches.jsonl, nara.jsonl, nara.searches.jsonl, smithsonian.jsonl, smithsonian.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "albright-2026-10-09-2",
+      "date": "2026-10-09",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-09: 80 facts, 46 sources, 24 media, 83 searches merged from baseline.jsonl, baseline.searches.jsonl, domain.jsonl, domain.searches.jsonl, identify.searches.jsonl, institutional.jsonl, institutional.searches.jsonl, loc.jsonl, loc.searches.jsonl, media.jsonl, media.searches.jsonl, nara.jsonl, nara.searches.jsonl, smithsonian.jsonl, smithsonian.searches.jsonl; 0 duplicates refused\nmerge_staging 2026-10-09: 0 facts, 2 sources, 0 media, 43 searches merged from corroborate-ALB-F-0012.searches.jsonl, corroborate-ALB-F-0013.searches.jsonl, corroborate-ALB-F-0025.searches.jsonl, corroborate-ALB-F-0046.jsonl, corroborate-ALB-F-0046.searches.jsonl, corroborate-ALB-F-0048.searches.jsonl, corroborate-ALB-F-0049.searches.jsonl, corroborate-ALB-F-0064.jsonl, corroborate-ALB-F-0064.searches.jsonl, corroborate-ALB-F-0065.jsonl, corroborate-ALB-F-0065.searches.jsonl, corroborate-ALB-F-0066.searches.jsonl, corroborate-ALB-F-0067.jsonl, corroborate-ALB-F-0067.searches.jsonl, corroborate-ALB-F-0073.searches.jsonl, corroborate-ALB-F-0074.jsonl, corroborate-ALB-F-0074.searches.jsonl, corroborate-ALB-F-0075.searches.jsonl, corroborate-ALB-F-0086.searches.jsonl, corroborate-ALB-F-0154.searches.jsonl, corroborate-ALB-F-0160.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "albright-recover-2026-10-10",
+      "date": "2026-10-10",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-10: 14 facts, 0 sources, 0 media, 0 searches merged from recover.jsonl; 0 duplicates refused\nmerge_staging 2026-10-10: 1 facts, 1 sources, 0 media, 7 searches merged from recover-2.jsonl, recover-2.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "albright-tour-2026-10-15",
+      "date": "2026-10-15",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-15: 20 facts, 9 sources, 5 media, 35 searches merged from tour.jsonl, tour.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "albright-artifacts-2026-10-20",
+      "date": "2026-10-20",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-20: 1 facts, 4 sources, 8 media, 10 searches merged from art.searches.jsonl, artifacts.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "albright-rooms-2026-10-20",
+      "date": "2026-10-20",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-20: 2 facts, 7 sources, 7 media, 14 searches merged from rooms.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "albright-rooms-repair-2026-10-20",
+      "date": "2026-10-20",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-20: 1 facts, 0 sources, 0 media, 1 searches merged from rooms-repair.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "albright-euro-2026-10-22",
+      "date": "2026-10-22",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-22: 0 facts, 1 sources, 1 media, 5 searches merged from euro-2026-10-22.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "albright-pins-2026-10-22",
+      "date": "2026-10-22",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-22: 1 facts, 2 sources, 2 media, 6 searches merged from pins.jsonl, pins.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "albright-loc-2026-10-22",
+      "date": "2026-10-22",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-22: 0 facts, 10 sources, 10 media, 14 searches merged from locrooms.jsonl, locrooms.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "ratio-lift-2026-10-24",
+      "date": "2026-10-24",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-24: 3 facts, 6 sources, 8 media, 15 searches merged from ratiolift.jsonl, ratiolift.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "round7-2026-10-27",
+      "date": "2026-10-27",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-27: 0 facts, 1 sources, 1 media, 1 searches merged from round7.jsonl, round7.searches.jsonl; 0 duplicates refused; candidates also carried run ids round7-research-2026-10-26"
+    },
+    {
+      "run_id": "round9-2026-10-29",
+      "date": "2026-10-29",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-29: 1 facts, 1 sources, 1 media, 6 searches merged from round9.jsonl, round9.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "round9-records-2026-10-30",
+      "date": "2026-10-30",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-30: 0 facts, 5 sources, 5 media, 21 searches merged from round9r.jsonl, round9r.searches.jsonl; 1 duplicates refused"
+    }
+  ]
+}

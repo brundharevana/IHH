@@ -1,0 +1,91 @@
+title: Photographs Relating to Secretary Madeleine K. Albright
+scopeAndContentNote: This series consists of photographs relating to the official activities of U.S. Secretary of State Madeleine K. Albright. Photos in this series include views of Albright in various capacities as Secretary of State including, but not limited to, the travels of the Secretary around the world; meetings with foreign heads of state as well as foreign ministers; the United Nations General Assembly; Secretary Albright with staff; and carrying out other official duties. The images in this series were taken by the Secretary's Official Photographer, Michael Gross.
+levelOfDescription: series
+creators[0].creatorType: Most Recent
+creators[0].heading: Department of State. Bureau of Public Affairs. Office of Press Relations. (1981 - )
+creators[0].authorityType: organization
+creators[0].establishDate.year: 1981
+creators[0].establishDate.logicalDate: 1981-01-01
+creators[0].naId: 18537978
+fileUnitCount: 631
+coverageEndDate.year: 2001
+coverageEndDate.logicalDate: 2001-12-31
+physicalOccurrences[0].extent: 18 linear feet, 2 linear inches
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-0561
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Still Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3621
+physicalOccurrences[0].referenceUnits[0].email: stillpix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].mediaOccurrenceNote: The piece count is an estimation. Prints range in size from 4"x5" to 12"x17".
+physicalOccurrences[0].mediaOccurrences[0].pieceCount: 28000
+physicalOccurrences[0].mediaOccurrences[0].process: Photographic: Subtractive Color-Chromogenic
+physicalOccurrences[0].mediaOccurrences[0].color: Color
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Photographic Materials
+physicalOccurrences[0].mediaOccurrences[0].physicalRestrictionNote: This material is located in cold vault storage and will require a minimal two and a half hour acclimation period. For additional information, speak to the reference consultant when submitting your pull request.
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Photographic Print
+physicalOccurrences[0].mediaOccurrences[0].containerId: Boxes 1-42
+physicalOccurrences[0].mediaOccurrences[0].dimension: Varied
+physicalOccurrences[0].mediaOccurrences[1].mediaOccurrenceNote: The piece count is an estimation.
+physicalOccurrences[0].mediaOccurrences[1].pieceCount: 24000
+physicalOccurrences[0].mediaOccurrences[1].process: Photographic: Subtractive Color-Chromogenic (Kodachrome)
+physicalOccurrences[0].mediaOccurrences[1].color: Color
+physicalOccurrences[0].mediaOccurrences[1].generalMediaTypes[0]: Photographic Materials
+physicalOccurrences[0].mediaOccurrences[1].physicalRestrictionNote: This material is located in cold vault storage; it will take at least 2-1/2 hours to acclimate the material and deliver it to the research room.
+physicalOccurrences[0].mediaOccurrences[1].specificMediaType: Negative
+physicalOccurrences[0].mediaOccurrences[1].containerId: Boxes 1-42
+physicalOccurrences[0].mediaOccurrences[1].dimension: Film: 35 mm
+physicalOccurrences[0].holdingsMeasurements[0].count: 1
+physicalOccurrences[0].holdingsMeasurements[0].type: Legal Archives Box, Oversize
+physicalOccurrences[0].holdingsMeasurements[1].count: 1
+physicalOccurrences[0].holdingsMeasurements[1].type: Letter Archives Box, Narrow 2.5 inch
+physicalOccurrences[0].holdingsMeasurements[2].count: 38
+physicalOccurrences[0].holdingsMeasurements[2].type: Letter Archives Box, Standard
+physicalOccurrences[0].holdingsMeasurements[3].count: 2
+physicalOccurrences[0].holdingsMeasurements[3].type: Legal Archives Box, Standard
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+arrangement: Arranged chronologically by event date. Undated and miscellaneous materials at the end of the series are unarranged.
+coverageStartDate.year: 1993
+coverageStartDate.logicalDate: 1993-01-01
+dataControlGroup.groupName: National Archives at College Park – Still Pictures
+dataControlGroup.groupId: RRAM–S
+dataControlGroup.groupCd: RRAM–S
+dateNote: The bulk of the images in this series are of Madeleine Albright's time as U.S. Secretary of State (1997-2001), however some images were taken while she was the United States Ambassador to the United Nations (1993-1997).
+ancestors[0].inclusiveStartDate.year: 1763
+ancestors[0].inclusiveStartDate.logicalDate: 1763-01-01
+ancestors[0].distance: 1
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 59
+ancestors[0].inclusiveEndDate.year: 2002
+ancestors[0].inclusiveEndDate.logicalDate: 2002-12-31
+ancestors[0].title: General Records of the Department of State
+ancestors[0].naId: 388
+naId: 75495855
+accessionNumbers[0]: LTI-0059-2015-0099
+inclusiveStartDate.year: 1997
+inclusiveStartDate.logicalDate: 1997-01-01
+recordType: description
+inclusiveEndDate.year: 2001
+inclusiveEndDate.logicalDate: 2001-12-31
+subjects[0].heading: Albright, Madeleine Korbel, 1937-
+subjects[0].authorityType: person
+subjects[0].birthDate.year: 1937
+subjects[0].birthDate.logicalDate: 1937-01-01
+subjects[0].naId: 10568445
+subjects[1].heading: International relations
+subjects[1].authorityType: topicalSubject
+subjects[1].naId: 10636478
+useRestriction.status: Unrestricted
+findingAids[0].note: The finding aid can be found in the research room.
+findingAids[0].findingAidType: Folder List
+audiovisual: false
+accessRestriction.status: Unrestricted
+recordsCenterTransferNumbers[0]: PT-059-2014-0284
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+dispositionAuthorityNumbers[0]: DAL-0059-2011-0168-0007
+localIdentifier: 59-PA
+functionAndUse: The records were created to serve as a visual representation of Madeleine K. Albright's time as Secretary of State.
+numberingNote: Requests for items in boxes 1-19 must include the record group number, series designator, NARA assigned roll number, and item number. (Example=59-PA-R3-12). Starting with box 20, requests must include the record group number, series designator, NARA-assigned folder number, and item number. (Example=59-PA-313-57). Sheets of negatives should add the frame number to this citation for a particular frame. (Example=59-PA-313-57-8).

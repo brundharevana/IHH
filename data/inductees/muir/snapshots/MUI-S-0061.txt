@@ -1,0 +1,14 @@
+title: File:John Muir 1964 Issue-5c.jpg
+DateTime: 2010-03-31 22:51:14
+ObjectName: John Muir 1964 Issue-5c
+CommonsMetadataExtension: 1.2
+Categories: John Muir|PD US Government|Conservation in the United States|People of the United States on stamps|Rudy Wendelin|California on stamps|Images with extracted images|Commemorative stamps of the United States|History of the United States on stamps|CC-PD-Mark|1964 stamps of the United States|National parks of the United States on stamps|People on stamps of the United States|Trees on stamps
+ImageDescription: John_Muir_1964_Issue-5c.jpg
+DateTimeOriginal: 1964
+Credit: US Post Office
+Artist: US Post Office
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

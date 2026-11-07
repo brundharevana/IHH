@@ -1,0 +1,742 @@
+_version_: 1746930545037672448
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82016014/1908-06-09/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82016014/1908-06-09/ed-1/
+batch[0]: khi_forbes_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/kansas/
+composite_location[2]: 2/united states/kansas/shawnee/
+composite_location[3]: 3/united states/kansas/shawnee/topeka/
+contributor_names[0]: Kansas State Historical Society; Topeka, KS
+contributors[0].kansas state historical society; topeka, ks: https://www.loc.gov/search/?fa=contributor:kansas+state+historical+society%3B+topeka,+ks&fo=json&st=text
+created_published[0]: Topeka, Kansas, June 9, 1908
+date: 1908-06-09
+date_issued: 1908-06-09
+dates[0].1908-06-09: https://www.loc.gov/search/?dates=1908-06-09/1908-06-09&fo=json&st=text
+dates_of_publication: 1892-1980
+description[0]: Topeka, Kansas
+digitized: true
+digitized_label: Present
+display_offsite: true
+essay_contributor[0]: Kansas State Historical Society
+extract_timestamp: 2021-06-18T01:52:10.610Z
+extract_urls[0]: file:/service/ndnp//khi/batch_khi_forbes_ver01/data/sn82016014/00295870862/1908060901/1908060901_1.xml#ndnp/khi
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/khi
+group[1]: kansas-state-historical-society-topeka-ks-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn82016014/1908-06-09/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_forbes_ver01:data:sn82016014:00295870862:1908060901:0719/full/pct:6.25/0/default.jpg#h=403&w=334
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_forbes_ver01:data:sn82016014:00295870862:1908060901:0719/full/pct:12.5/0/default.jpg#h=806&w=669
+index: 7
+item.batch[0]: khi_forbes_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Kansas State Historical Society; Topeka, KS
+item.created_published[0]: Topeka, Kansas, June 9, 1908
+item.date: 1892
+item.date_issued: 1908-06-09
+item.dates[0]: 1908-06-09
+item.digitized_label: Present
+item.essay_contributor[0]: Kansas State Historical Society
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn82016014
+item.location[0]: Topeka (Kan.)
+item.location[1]: Shawnee County (Kan.)
+item.location[2]: Kansas--Shawnee County
+item.location[3]: Kansas--Topeka
+item.medium: 10 pages
+item.newspaper_title[0]: The Topeka state journal.
+item.notes[0]: Daily, Dec. 5, 1935-1980
+item.notes[1]: Vol. XX, no. 218 (September 10, 1892)-v. 103, no. 171 (Aug. 21, 1980)
+item.notes[2]: Published on Sunday with: Topeka daily capital, as: Topeka Sunday capital-journal, Sept. 7, 1958-Sept. 1, 1980; published on Saturday with: Topeka daily capital, as: Topeka Saturday capital-journal, May 7, 1977-Sept. 1, 1980.
+item.notes[3]: Fiftieth anniversary edition published, Oct. 30, 1935.
+item.notes[4]: Title from masthead, newspapers.com, viewed June 25, 2020
+item.notes[5]: Also on microfilm: Micro Photo Division, Bell & Howell Co.
+item.notes[6]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[7]: Weekly edition: Topeka State journal (Topeka, Kan. : Weekly), Sept. 15, 1892-.
+item.notes[8]: Merged with: The Topeka daily capital, to form: Topeka capital-journal (Topeka, Kan. : Morning ed.), and: Topeka capital-journal (Topeka, Kan. : Evening ed.).
+item.notes[9]: Topeka daily capital 2640-8368 (DLC)sn 82015487 (OCoLC)8817493
+item.notes[10]: Topeka capital-journal (Topeka, Kan. : Morning ed.) 1067-1994 (DLC)sn 82014720 (OCoLC)8787195
+item.notes[11]: Topeka capital-journal (Topeka, Kan. : Evening ed.) (DLC)sn 85067244 (OCoLC)12833181
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//khi/batch_khi_forbes_ver01/data/sn82016014/00295870862/1908060901/1908060901_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82016014/marcxml
+item.other_title[0]: Topeka Sunday capital-journal
+item.other_title[1]: Topeka Saturday capital-journal
+item.place_of_publication: Topeka, Kansas
+item.raw_lccn: sn 82016014
+item.reel_numbers[0]: 00295870862
+item.source_group: ndnp/khi
+item.subjects[0]: Topeka (Kan.)--Newspapers
+item.subjects[1]: Shawnee County (Kan.)--Newspapers
+item.subjects[2]: Kansas--Shawnee County
+item.subjects[3]: Kansas--Topeka
+item.subjects[4]: United States--Kansas--Shawnee--Topeka
+item.title: The Topeka state journal (Topeka, Kansas), June 9, 1908, (LAST EDITION)
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn82016014
+location[0]: shawnee county
+location[1]: topeka
+location[2]: united states
+location[3]: shawnee
+location[4]: kansas
+location_city[0]: topeka
+location_country[0]: united states
+location_county[0]: shawnee
+location_state[0]: kansas
+locations[0].kansas: https://www.loc.gov/search/?fa=location:kansas&fo=json&st=text
+locations[1].shawnee: https://www.loc.gov/search/?fa=location:shawnee&fo=json&st=text
+locations[2].shawnee county: https://www.loc.gov/search/?fa=location:shawnee+county&fo=json&st=text
+locations[3].topeka: https://www.loc.gov/search/?fa=location:topeka&fo=json&st=text
+locations[4].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].topeka: https://www.loc.gov/search/?fa=location_city:topeka&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].shawnee: https://www.loc.gov/search/?fa=location_county:shawnee&fo=json&st=text
+locations_state[0].kansas: https://www.loc.gov/search/?fa=location_state:kansas&fo=json&st=text
+medium: 10 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Topeka state journal.
+notes[0]: Daily, Dec. 5, 1935-1980
+notes[1]: Vol. XX, no. 218 (September 10, 1892)-v. 103, no. 171 (Aug. 21, 1980)
+notes[2]: Published on Sunday with: Topeka daily capital, as: Topeka Sunday capital-journal, Sept. 7, 1958-Sept. 1, 1980; published on Saturday with: Topeka daily capital, as: Topeka Saturday capital-journal, May 7, 1977-Sept. 1, 1980.
+notes[3]: Fiftieth anniversary edition published, Oct. 30, 1935.
+notes[4]: Title from masthead, newspapers.com, viewed June 25, 2020
+notes[5]: Also on microfilm: Micro Photo Division, Bell & Howell Co.
+notes[6]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[7]: Weekly edition: Topeka State journal (Topeka, Kan. : Weekly), Sept. 15, 1892-.
+notes[8]: Merged with: The Topeka daily capital, to form: Topeka capital-journal (Topeka, Kan. : Morning ed.), and: Topeka capital-journal (Topeka, Kan. : Evening ed.).
+notes[9]: Topeka daily capital 2640-8368 (DLC)sn 82015487 (OCoLC)8817493
+notes[10]: Topeka capital-journal (Topeka, Kan. : Morning ed.) 1067-1994 (DLC)sn 82014720 (OCoLC)8787195
+notes[11]: Topeka capital-journal (Topeka, Kan. : Evening ed.) (DLC)sn 85067244 (OCoLC)12833181
+number[0]: sn82016014
+number[1]: 00295870862
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn82016014
+number_reel[0]: 00295870862
+numeric_shelf_id: 190806091
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//khi/batch_khi_forbes_ver01/data/sn82016014/00295870862/1908060901/1908060901_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82016014/marcxml
+other_title[0]: Topeka Sunday capital-journal
+other_title[1]: Topeka Saturday capital-journal
+partof[0].count: 9129
+partof[0].title: the topeka state journal (topeka, kansas) 1892-1980
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+topeka+state+journal+%28topeka,+kansas%29+1892-1980&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the topeka state journal (topeka, kansas) 1892-1980
+place_of_publication: Topeka, Kansas
+publication_frequency[0]: daily
+raw_lccn: sn 82016014
+reel_numbers[0]: 00295870862
+resources[0].files: 10
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_forbes_ver01:data:sn82016014:00295870862:1908060901:0719/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82016014/1908-06-09/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.3352585
+shard: 07
+shelf_id: sn82016014, 1908-06-09, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/khi
+subject[0]: shawnee county
+subject[1]: topeka
+subject[2]: united states
+subject[3]: topeka (kan.)
+subject[4]: newspapers
+subject[5]: kansas
+subject[6]: shawnee
+subject[7]: shawnee county (kan.)
+subject_headings[0]: Topeka (Kan.)--Newspapers
+subject_headings[1]: Shawnee County (Kan.)--Newspapers
+subject_headings[2]: Kansas--Shawnee County
+subject_headings[3]: Kansas--Topeka
+subject_headings[4]: United States--Kansas--Shawnee--Topeka
+subjects[0].kansas: https://www.loc.gov/search/?fa=subject:kansas&fo=json&st=text
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[2].shawnee: https://www.loc.gov/search/?fa=subject:shawnee&fo=json&st=text
+subjects[3].shawnee county: https://www.loc.gov/search/?fa=subject:shawnee+county&fo=json&st=text
+subjects[4].shawnee county (kan.): https://www.loc.gov/search/?fa=subject:shawnee+county+%28kan.%29&fo=json&st=text
+subjects[5].topeka: https://www.loc.gov/search/?fa=subject:topeka&fo=json&st=text
+subjects[6].topeka (kan.): https://www.loc.gov/search/?fa=subject:topeka+%28kan.%29&fo=json&st=text
+subjects[7].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2022-10-17T10:33:12.973Z
+title: The Topeka state journal (Topeka, Kansas), June 9, 1908, (LAST EDITION)
+type[0]: issue
+url: https://www.loc.gov/item/sn82016014/1908-06-09/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/khi/batch_khi_forbes_ver01/data/sn82016014/00295870862/1908060901/0725.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82016014/1908-06-09/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_forbes_ver01:data:sn82016014:00295870862:1908060901:0719/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/khi/batch_khi_forbes_ver01/data/sn82016014/00295870862/1908060901/0725.pdf
+resources[0].segment_count: 10
+resources[0].url: https://www.loc.gov/resource/sn82016014/1908-06-09/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1908, June 9) The Topeka state journal. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82016014/1908-06-09/ed-1/.
+cite_this.chicago: The Topeka state journal. (Topeka, KS), Jun. 9 1908. https://www.loc.gov/item/sn82016014/1908-06-09/ed-1/.
+cite_this.mla: The Topeka state journal. (Topeka, KS) 9 Jun. 1908, p. 7. Retrieved from the Library of Congress, www.loc.gov/item/sn82016014/1908-06-09/ed-1/.
+
+segment_id: /service/ndnp/khi/batch_khi_forbes_ver01/data/sn82016014/00295870862/1908060901/0725.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/khi/batch_khi_forbes_ver01/data/sn82016014/00295870862/1908060901/0725.xml&format=alto_xml&full_text=1
+full_text:
+THE TOPEKA DAILY STATE JOUEIf Alt TUESDAY EVECTIITQ, JXJIIC 9, 1903.
+AT MARTIN'S HILL
+Today'sFine Tiew of the River
+Flood From There.
+if.
+r f
+fill
+College P
+Strafh and
+Dry
+Why not decide today to see College Place? You must act at once if you
+want to get in on our money saving, money making proposition. The wise people
+of Topeka are buying these lots almost as fast as we can do the business. We have
+some of the choicest lots left which you can get if you act quickly. Choice lots on
+Boswell street, just one block from the car line. You can buy
+Any
+61
+sor
+75
+down and 75c weekly thereafter until paid. No interest ever. No payments
+when sick or injured. No taxes until 1910. You never have to pay more than 75c
+weekly, but if you want to pay $25 or more down, you get a discount of 10 per
+cent. Remember, the prices on these lots are lower than anywhere else in the
+neighborhood, and the lots are high and dry. Come and See.
+Buy where you can enjoy your home every
+day of the year and every year o! your life, in
+spite of high water. Salesmen on the ground
+all day and every day.
+SNELL WINS
+Doom 5 Oxford Building, 608 Kansas Ave.
+Second Floor, Over SmoKe House.
+BUSS
+1 it-''. V kt-. 1 W M a m E
+mm J i
+0
+3
+Waters Appear Peaceful Like a
+take.'
+WIDTH OF T WO MILES.
+Covers the Farms Around the
+Village of Menokeu.
+Little Debris Carried Down by
+Swollen Waters."
+OFF T0WE0DING.
+George Gould Leaves for Europe
+to Attend Sister's Marriage.
+was time to stop on behalf of the "Wa
+bash. The Wabash is a fine property
+with great earning possibilities and it
+will not be permitted to become fur
+ther involved."
+She Will Have His Blessing and
+Family's Consent.
+BUSINESS OUTLOOK.
+Is Discussed by the Magnate
+Before Starting.
+Says Ills Properties Are in a
+Comfortable Position.
+New Tork, June 9 Before sailing for
+Europe on the steamer Kron Prinzess
+Cecilia today George J. Gould said he
+felt that in going away he is leaving
+his properties in a comfortable posi
+tion. He expressed himself as "mod
+erately optimistic" on the general bus
+iness outlook. In this connection he
+referred to the earnings of the Western
+Union Telegraph company, which he
+aid he looked upon as the best criter
+ion of general business and said they
+are showing a smaller ratio of decrease
+by comparison with last year. He said
+political agitation against the railways
+in the south had made a difference of
+between $4,000,000 and $5,000,000 in the
+net earnings of the Missouri Pacific
+and added:
+"The stockholders may figure out for
+themselves what this means."
+Referring to the troubles of the
+Wheeling Lake Erie and the Wabash-Pittsburg
+Terminal, Mr. Gould
+said:
+"The receivership for the Wheeling
+Lake Erie was inevitable after the
+Wabash-Pittsburg Terminal had de
+faulted. The Wabash-Pittsburg Ter
+minal company unfortunately was over
+capitalized. We probably could have
+carried it through, but I thought it
+jf The Shawnee
+g State Bank
+0
+0 is located temporarily O
+jH at the Prudential
+O Trust Company, Sev- O
+enth street and Kan- 5
+fsas avenues.
+K. U. COMMENCEMENT.
+Governor Johnson of Minnesota Will
+Speak Tomorrow.
+Lawrence, Kan., June 9. The bac
+calaureate service, the first of the
+main events of commencement at the
+University of Kansas, was given in
+Robinson auditorium beginning at 8
+o'clock. The Rev. Edgar Young Mul
+lins, president of the Baptist Theo
+logical seminary at Louisville. Ky,
+was the baccalaureate speaker and the
+subject of the sermon was "The Great
+est Teacher and His Authority." The
+Anna Gould.
+Asked if he had abandoned any part
+of his transcontinental railroad idea,
+Mr. Gould said:
+"Every youngster has to have the
+measles and the whooping cough and
+I do not know that they are any the
+worse afterwards."
+Mr. Gould said the Wheeling Lake
+Erie receivership marked the end of
+the readjustments that were necessary
+to be made in his properties. Mr. Gould
+is quoted as having said:
+"I expect to attend the wedding of
+my sister, Anna Gould, to Prince Helie
+De Sagan. The marriage is to take
+piace with my consent and blessing
+and with the full consent of all the
+Gould family."
+WAR ON BILL BOARDS.
+Has Broken Out Aprain in Chicago City
+Council.
+Chicago, June 9. Restrictions of bill
+boards portending their eventual eradi
+cation in residence districts was indi
+cated at a meeting of the city council
+last night.
+A draft of an ordinance was present
+ed that a bill board shall be a nuisance
+if located any place where two-thirds
+of th2 buildings within a block on hnth
+sides of the street ars used for resi
+dence purposes. The city code gives
+the chief of police and other city offi
+cials summary power to suppress nuis
+ances. A penalty of a fine carrying
+from 125 to $200 for each day of viola
+tion la provided.
+Oxford Bargains
+This
+Important Sale
+Of men's and women's stylish low
+cut footwear includes broken lines
+and several purchases made for
+less than regular. Correct for dress
+or street, including patents in lace
+or button, tan calf and golden
+brown, vici and velour.
+Men's $3.50 and $3.00 tan, patent,
+vici and velour Oxfords, six
+styles and all djo 1 e
+sizes pi.lJ
+Men's $5.00 Patent, vici and velour
+Oxfords, five styles do AC
+and all sizes ipO.'rO
+Men's $3.00 and $2.50 patent, vici
+and calf lace Shoes, d1 qp
+nearly all sizes pA0
+Men's $1.50 Work Shoes, lace,
+buckle and congress, flfl
+heavy soles ipl.Vvf
+Ladies' $1.50 Canvass Oxfords.
+Some are slightly 7C
+soiled JC
+Ladies' $2.00 vici kid Oxfords
+turn soles and patent J 25
+Ladies'' $2.50 Patent "and Vici Kid
+Oxfords turn or welt djl QQ
+soles, Blucher styles. P
+Ladies' $3.00 Tan Calf and Golden
+Brown Oxfords, welt CO
+or turn soles .PJ
+Ladies' $4.00 and $3.50 Patent Ox-
+pps1: ........$2.95
+Misses' and Children's $1-76 Vici
+Patent tip 451 1 K
+Oxfords.. ipl.lO
+Rubber Boots all sizes hip and
+knee.
+JCHN L ELLET HENRY C
+SHOE CO.
+515 Kansas Avenue
+sermon was a theological effort on the
+teachings of Christ. Two thousand
+persons attended the service.- The
+seniors, in caps and gowns, assem
+bled at Snow hall and'marchd to the
+auditorium and to their seats. Chan
+cellor Strong, also in cap and gown,
+presided.
+The annual athletic conference was
+held Monday and Dean Skilton of the
+school of fine arts gave an organ
+recital in Fraser hall.
+Robinson gymnasium and auditor
+ium was formally dedicated Monday
+afternoon as a part of the commence
+ment ceremonies now in progress. .Dr.
+James Naismith, for ten years athletic
+director of the University of Kansas,
+and known to the athletic world as
+the inventor of the game of basketnan,
+delivered the principal address.
+Chancellor Strong unveiled two
+bronze tablets.
+The Robinson gymnasium stands on
+the old homestead of ex-Governor
+Robinson. Last night William Albert
+Noyes of the University of Illinois, de
+livered the annual Sigma Chi address
+on "A Scientific Revolution." The an
+nual banquet of the school of phar.
+macy was held at the. Eldridge house.
+Governor John A. Johnson of Min.
+nesota will deliver the commencement
+address Wednesday. A movement has
+been started by the Lawrence Com
+mercial club to have the Lawrence
+stores decorated with the red and blue
+in honor of the university. School
+work will end Thursday.
+A feature of commencement day is
+a 1,000-plate dinner in the gymnasium
+building at 1 o'clock.
+ROW OVER BONNETS.
+It was almost impossible to get a
+good vieiv of the flood of 1903 On ac
+count of the mist and fog which en
+shrouded the flooded district. It was
+only after the waters had receded con
+siderably that a view of the Kaw val
+ley could be obtained from the state
+house, the top of the federal building;
+or any other-point of observation. To
+day, however, when the river her is
+almost at Its maximum height the at
+mospheric conditions are good and the
+view unobstructed for miles up and
+down the Kaw.
+From the state house dome today
+with the aid of field glasses one could
+see distinctly up the river beyond
+Rossvllle.
+Probably the very best view of the
+flooded Kaw valley In this vicinity is
+from Martin's Hill on top of which is
+Cedarcrest,- Frank ..P. MacLennan's
+country home, .y..
+Many sightseers visited the hill yes
+terday and today and witnessed the
+wonderful view of the flooded Kaw.
+The aspect of the present flood is
+entirely different from that of 1903
+chiefly perhaps on account of the
+weather. For with sunshine and a blue
+sky it seems imposible for the valley
+of the Kaw to be other than beautiful.
+Even under the conditions now exist
+ing the view from Martin's Hall is
+grand, but five years ago, wrapped in
+mist and gloom, it was sinister and
+terrible.
+The first comment of a spectator of
+both floods was on this marked dif
+ference.
+The stench from the river five years
+ago was sickening:- the stream was a
+raging torrent filled with every sort of
+debris and the drift wood was often
+a precarious raft for living freight, the
+domestic animals which .-had taken
+refuge on it. Today from Martin's
+Hill the Kaw was not unlike a great
+peaceful lake, dotted with boat houses,
+the farm buildings, which appeared to
+be floating on its surface.
+Under that smiling sky and with the
+peaceful and beautiful view to the
+south it is impossible to think of the
+great expanse of water as a frightful
+agent of destruction. The sight seer
+expecting to be horrified is disap
+pointed.
+In width the river lacks something
+of the Kaw in the first week of June
+1903. Opposite Martin's Hill it is only
+about two miles wide. The water is
+well up around Menoken, the Upde
+grafT farm is today like an embowered
+-island, and all up and down the val
+ley occasional fields of wheat and oats
+are out of the water, although entire
+ly surrounded. Beyond the northern
+boundary of the swollen stream there
+are many scattered ponds dotting the
+farms at the foot of the bluffs. Five
+years ago this land was entirely cov
+ered, with only the buildings and the
+highest trees emerging. The river
+stretched from bluff to bluff.
+Silver Lake is plainly seen with the
+naked eye today. The river at this
+point is broken out of its banks and
+overflows the old river bed connecting
+with the lake.
+HER TRINKET RETURNED.
+Threatens to Dlsrnpt the Dunkard
+Cliurch Organization.
+Des Moines, June 9. Unless men high
+in the councils of the German Baptist
+Brethren (Dunkards) and in a position
+to observe and understand the trend of
+sentiment in the church body are mis
+taken a schism of no little import
+threatens to break in the conference
+now in progress at the fair grounds.
+While there are mutterlngs against
+several of the iron clad rules of the
+sect the attention of the church and
+the heated discussion will center in the
+growing inclination of the girls to fore
+sake the conventional bonnet which the
+Dunkard women are required to wear
+for the more ornate hat of the lay wo
+man. The elders do not publicly admit that
+the discussion borders on general un
+rest or that it threatens the peace of
+the conierence. sut they do admit
+that church heads in certain Ohio com
+munities, who are said to have relaxed
+their supervision of the girls in their
+charge may be reprimanded. It is said
+formal charges may be preferred
+against two churches in Ohio that may
+end in their withdrawal from the moth
+or church or in their expulsion there
+from unless their pledge is given to
+carry out the laws oi the organization
+to the letter.
+Fifty thousand dollars was raised for
+missions.
+Woodmen Won't Lose a Cent.
+Mason City. Ia., June 9. "The
+Modern Woodmen of America will not
+lose a. nennv." said Head Banker C. H.
+Mclnder of this city, in speaking of
+the claims for 3&u,uuo ne nas filled
+against the Crocker estate at Chariton.
+Our June Sale Started Yesterday
+There are great savings to be made in every depart-
+menton goods offered this week at Special Prices.
+Tomorrow we of fcr 75c and 98c Embroidery
+Flomicings 24 and 27 inches wide, for
+39c yd.
+This lot of wide Swiss Embroidery comeB to you fresh and
+white with all its beauty and value, at half price and less.
+Let us remind you they are jaat what are being used for the
+latest style waists," white dreaa flounces, and children's dresses.
+The material is fine, and the pattern designs are all new
+and very handsome in faot, the best Embroideries that ever
+went over our counters for anything like thirtynine cents yard
+THE-
+National Hotel Barber Shop
+And Turkish Bath Rooms
+ARE NOW OPE.N
+Everything New and Up-to-Date that can be found
+in a Modern Barber Shop and Bath Room
+Only Experienced Barbers are Employed
+Massaging of all kinds given to both Gentlemen
+and Ladies. Also Singeing, Shampooing and Oil
+Scalp Massaging.
+After It Had Been Mysteriously Miss-
+ing For 27 Years.
+V'.m Tnrli Tuna 9. Mrj. Antont
+Tr-.,,.-rH. n VDn orlr la riitmlnvln? to her
+X m i o l, v. f q
+friends a necklace and a cross or
+goldi and relating the story of a ro
+mantic restoration of the trinket af
+it Ko Keen lnst to tier for 27 vears.
+One day last week a woman called
+upon a daughter-in-law oi Mrs. j? uerst
+and asked her if she remembered los
+i o nsxviai'o nnd cross many years
+ago. The younger Mrs. Fuerst said
+she remembered mat ner nuaua.nu o
+mother had sustained such a loss
+rr.v. ..onxor nrndiirnd the necklace
+and asked that it be restored to its
+owner. She then toia Mrs. rucm .n.i
+a friend had given her the necklace
+and cross ten years ago. The friend
+she said, was on: ner aeam u n.
+time Her -promise to restore the
+trinket made to the dying woman was
+not kept, the stranger said, only be
+cause she had oeen unauro w
+WRlc'ently while at the grave of the
+woman who had enjoined her to re
+store it, the stranger recalled the
+l:v.h .niprpn inm i.iui
+promise.
+tion with a grave digger and mention
+ed the name oi mra. r uc.
+The grave digger knew a family OI
+r. v.wturVi the iuforma-
+inai iiamo n--
+tion he gave the rightful owner was
+The elder Mrs. Fuerst identified her
+nroDerty. She recalled that she lost
+it in 1881. She had advertised for its
+return and it is believed that it was
+through seeing the advertisement that
+the finder learned who the owner was.
+A DINNER "TO 0. It- KEENE.
+His Friends Propose Toasts and Con
+gratulate Him on Ills Success.
+New York, June 9.-A dinner was
+given to James R. Keene, vice presi
+dent of the Jockey club, last night at
+the home of Hamilton Busby Among
+the guests were General Benjamin F.
+Tracy and Hastings Arnold.
+In proposing a toast to Mr. Keene
+Mr Busby congratulated him on his
+Turkish, Russian and Electric Baths
+Special Attendants always at your service. Chiro
+pody and Manicuring both for Ladies and Gentle
+men. Lady Attendants for all Ladies' Work. La
+dies' hours every week day morning from 8 a. m. till
+12 m. Try us and we are sure to please you.
+The National Hotel Barber Shop
+And Turkish Bath Rooms
+The National Hotel Co. Props.
+I
+Real Estate Bargains
+PAYMENT PLAN
+One of our best, 7 rooms, two
+east front lotsv barn in good repair;
+can be sold for less than house
+would cost to build; price SI, 250,
+and the terms, $100 cash, balance
+monthly. Located in Oakland near
+car line.
+AND ANOTHER
+In same neighborhood has 8 rooms;
+3 lots, shade, fine water; the price
+the same, so are the terms.
+Near Rock Island on Harrison, a
+5 room, one lot, house, $1,100; $100
+cash, balance monthly.
+Lafayette and 10th J rooms, 3.
+lots; price $860, $50 cash, balance
+monthly.
+A new 3 room house, east shops;
+you will surely like It, besides there
+is a 4 room and a 5 room house
+same neighborhood.
+WE HAVE OTHERS
+SHAWNEE AGENCY
+534 Kansas Ave.
+Ind. Phone 505
+BITTERS
+Hundreds
+of times dur
+ing the past
+K. 4 vMIN hfl!)
+STOMACH tPprovefts V!
+perior merit in
+cases or
+Nausea,
+Poor Appetite,
+Blllnosness,
+Indigestion,
+Dyspepsia,
+Female Ills
+and Malaria,
+Fever and
+Acne.
+MARINE LLO
+Every lady in Topeka is most cordial
+ly invited to attend a Demonstration of
+the Famous Marinello Goods and 8yo
+tem Of Treatment For Skin And Scalp
+by Isabelle S. Paul of Chicago, Expert
+Marinello Dermatologist, at the
+Antiseptic Massage Parlors
+107 East 7th St., Central Bank Bldg.
+Wednesday, June 10
+A souvenir jar of cream to every caller.
+NORA V. SINELL, Dept. Mgr.
+success in Wall street and on the turf.
+"In the field of breeding and devel
+oping the horse he has shown a mas
+ter," said Mr. Busby. "His triumph
+include Dominio, Commando, Sysonby,
+Colin and Celt, each monarch of his
+day and class, and each giving evidence
+ol a steady advancement of type. 1
+give you a toast to a sportsman whose
+methods are clean, whose courage is
+strong and whose star is progress."
+Mr. Keene declared that his friends
+were rather overdoing the praise and
+that luck had a great deal to do with
+his success.
+General Tracy Interrupted, declaring
+that there was more science than luck.
+Mr. Keene said that Colin was sound,
+but that neither Colin or Celt would
+race until the Coney Island meeting.
+C. P. Bonds at a Premium.
+London, June 9. The new Union
+Pacific bonds, the prospectus of which
+was Issued today were held on the
+stock exchange here today at a pre
+mium ranging from to 1 per cent.1"
+They closed at premium of
+Wanted At once good young man,
+1 8 or over,- to carry excellent State
+Journal route. Apply at this office.
+DISINFECTANTS
+OF ALL KINDS
+Marshall Bros.
+2nd Kansas Avenue
+5th Kansas A vena

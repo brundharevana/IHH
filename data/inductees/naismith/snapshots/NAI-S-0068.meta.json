@@ -1,0 +1,10 @@
+{
+  "url": "https://www.history.com/articles/how-a-canadian-invented-basketball",
+  "fetch_url": "https://www.history.com/articles/how-a-canadian-invented-basketball",
+  "method": "http",
+  "fetched_at": "2026-10-10T22:41:12Z",
+  "sha256": "af7c49b8b348192dbe6017371e344f995b9def031da00a25430683df303127e4",
+  "bytes": 14170,
+  "http_status": 200,
+  "final_url": "https://www.history.com/articles/how-a-canadian-invented-basketball"
+}

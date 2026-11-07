@@ -1,0 +1,379 @@
+_version_: 1840707130325204992
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn92051392/1923-08-03/ed-1/
+aka[1]: http://www.loc.gov/resource/sn92051392/1923-08-03/ed-1/
+batch[0]: ct_hashbrown_ver01
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/connecticut/
+composite_location[2]: 2/united states/connecticut/hartford/
+composite_location[3]: 3/united states/connecticut/hartford/hartford/
+contributor_names[0]: Connecticut State Library, Hartford, CT
+contributors[0].connecticut state library, hartford, ct: https://www.loc.gov/search/?fa=contributor:connecticut+state+library,+hartford,+ct&fo=json
+created_published[0]: Hartford, Conn., August 3, 1923
+date: 1923-08-03
+date_issued: 1923-08-03
+dates[0].1923-08-03: https://www.loc.gov/search/?dates=1923-08-03/1923-08-03&fo=json
+dates_of_publication: 1920-1923
+description[0]: Hartford, Conn.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-08-17T12:32:43.239Z
+extract_urls[0]: file:/service/ndnp//ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996493/1923080301/1923080301_1.xml#ndnp/ct
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ct
+group[1]: connecticut-state-library-hartford-ct-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn92051392/1923-08-03/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051392:00516996493:1923080301:1521/full/pct:6.25/0/default.jpg#h=297&w=221
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051392:00516996493:1923080301:1521/full/pct:12.5/0/default.jpg#h=594&w=443
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051392:00516996493:1923080301:1521/full/pct:25/0/default.jpg#h=1188&w=887
+index: 4
+item.batch[0]: ct_hashbrown_ver01
+item.contributor_names[0]: Connecticut State Library, Hartford, CT
+item.created_published[0]: Hartford, Conn., August 3, 1923
+item.date: 1920
+item.date_issued: 1923-08-03
+item.dates[0]: 1923-08-03
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn92051392
+item.location[0]: Connecticut
+item.location[1]: Hartford (Conn.)
+item.location[2]: Hartford County (Conn.)
+item.location[3]: Connecticut--Hartford
+item.location[4]: Connecticut--Hartford County
+item.medium: 16 pages
+item.newspaper_title[0]: Connecticut Hebrew record
+item.notes[0]: Weekly
+item.notes[1]: Vol. 1, no. 1 (Feb. 6, 1920)-v. 8, no. 2 (Aug. 10, 1923).
+item.notes[2]: Also issued on microfilm from Connecticut State Library, Hartford, CT.
+item.notes[3]: Jewish advocate (Boston, Mass.) 1077-2995 (DLC)sn 89070090 (OCoLC)16645134
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996493/1923080301/1923080301_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn92051392/marcxml
+item.other_title[0]: Hebrew Record
+item.place_of_publication: Hartford, Conn.
+item.raw_lccn: sn 92051392
+item.reel_numbers[0]: 00516996493
+item.source_group: ndnp/ct
+item.subjects[0]: Jewish newspapers--Connecticut
+item.subjects[1]: Hartford (Conn.)--Newspapers
+item.subjects[2]: Hartford County (Conn.)--Newspapers
+item.subjects[3]: Jewish newspapers
+item.subjects[4]: Connecticut
+item.subjects[5]: Connecticut--Hartford
+item.subjects[6]: Connecticut--Hartford County
+item.subjects[7]: United States--Connecticut--Hartford--Hartford
+item.title: Connecticut Hebrew record (Hartford, Conn.), August 3, 1923
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn92051392
+location[0]: united states
+location[1]: hartford county
+location[2]: hartford
+location[3]: connecticut
+location_city[0]: hartford
+location_country[0]: united states
+location_county[0]: hartford
+location_state[0]: connecticut
+locations[0].connecticut: https://www.loc.gov/search/?fa=location:connecticut&fo=json
+locations[1].hartford: https://www.loc.gov/search/?fa=location:hartford&fo=json
+locations[2].hartford county: https://www.loc.gov/search/?fa=location:hartford+county&fo=json
+locations[3].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].hartford: https://www.loc.gov/search/?fa=location_city:hartford&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].hartford: https://www.loc.gov/search/?fa=location_county:hartford&fo=json
+locations_state[0].connecticut: https://www.loc.gov/search/?fa=location_state:connecticut&fo=json
+medium: 16 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Connecticut Hebrew record
+notes[0]: Weekly
+notes[1]: Vol. 1, no. 1 (Feb. 6, 1920)-v. 8, no. 2 (Aug. 10, 1923).
+notes[2]: Also issued on microfilm from Connecticut State Library, Hartford, CT.
+notes[3]: Jewish advocate (Boston, Mass.) 1077-2995 (DLC)sn 89070090 (OCoLC)16645134
+number[0]: sn92051392
+number[1]: 1
+number[2]: 00516996493
+number_edition[0]: 1
+number_lccn[0]: sn92051392
+number_reel[0]: 00516996493
+numeric_shelf_id: 192308031
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996493/1923080301/1923080301_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn92051392/marcxml
+other_title[0]: Hebrew Record
+partof[0].count: 185
+partof[0].title: connecticut hebrew record (hartford, conn.) 1920-1923
+partof[0].url: https://www.loc.gov/search/?fa=partof:connecticut+hebrew+record+%28hartford,+conn.%29+1920-1923&fo=json
+partof[1].count: 3210990
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232495
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: connecticut hebrew record (hartford, conn.) 1920-1923
+place_of_publication: Hartford, Conn.
+publication_frequency[0]: weekly
+raw_lccn: sn 92051392
+reel_numbers[0]: 00516996493
+resources[0].files: 16
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051392:00516996493:1923080301:1521/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn92051392/1923-08-03/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.336405
+shard: 07
+shelf_id: sn92051392, 1923-08-03, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ct
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: hartford county
+subject[1]: hartford
+subject[2]: hartford county (conn.)
+subject[3]: united states
+subject[4]: jewish
+subject[5]: connecticut
+subject[6]: jewish newspapers
+subject[7]: hartford (conn.)
+subject[8]: newspapers
+subject_ethnicity[0]: jewish
+subject_headings[0]: Jewish newspapers--Connecticut
+subject_headings[1]: Hartford (Conn.)--Newspapers
+subject_headings[2]: Hartford County (Conn.)--Newspapers
+subject_headings[3]: Jewish newspapers
+subject_headings[4]: Connecticut
+subject_headings[5]: Connecticut--Hartford
+subject_headings[6]: Connecticut--Hartford County
+subject_headings[7]: United States--Connecticut--Hartford--Hartford
+subjects[0].connecticut: https://www.loc.gov/search/?fa=subject:connecticut&fo=json
+subjects[1].hartford: https://www.loc.gov/search/?fa=subject:hartford&fo=json
+subjects[2].hartford (conn.): https://www.loc.gov/search/?fa=subject:hartford+%28conn.%29&fo=json
+subjects[3].hartford county: https://www.loc.gov/search/?fa=subject:hartford+county&fo=json
+subjects[4].hartford county (conn.): https://www.loc.gov/search/?fa=subject:hartford+county+%28conn.%29&fo=json
+subjects[5].jewish: https://www.loc.gov/search/?fa=subject:jewish&fo=json
+subjects[6].jewish newspapers: https://www.loc.gov/search/?fa=subject:jewish+newspapers&fo=json
+subjects[7].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[8].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects_ethnicity[0].jewish: https://www.loc.gov/search/?fa=subject_ethnicity:jewish&fo=json
+timestamp: 2025-08-17T12:51:51.176Z
+title: Connecticut Hebrew record (Hartford, Conn.), August 3, 1923
+type[0]: issue
+url: https://www.loc.gov/item/sn92051392/1923-08-03/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996493/1923080301/1524.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn92051392/1923-08-03/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051392:00516996493:1923080301:1521/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996493/1923080301/1524.pdf
+resources[0].segment_count: 16
+resources[0].url: https://www.loc.gov/resource/sn92051392/1923-08-03/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1923, August 3) Connecticut Hebrew record. Retrieved from the Library of Congress, https://www.loc.gov/item/sn92051392/1923-08-03/ed-1/.
+cite_this.chicago: Connecticut Hebrew record. (Hartford, CT), Aug. 3 1923. https://www.loc.gov/item/sn92051392/1923-08-03/ed-1/.
+cite_this.mla: Connecticut Hebrew record. (Hartford, CT) 3 Aug. 1923, p. 4. Retrieved from the Library of Congress, www.loc.gov/item/sn92051392/1923-08-03/ed-1/.
+
+segment_id: /service/ndnp/ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996493/1923080301/1524.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996493/1923080301/1524.xml&format=alto_xml&full_text=1
+full_text:
+4
+My Impressions of Palestine
+No one who has come into contact
+with the Jews of Palestine can fail to
+be inspired by their extraordinary will
+to work and their determination, which
+no obstacle can withstand. Before that
+strength and spirit there can be no
+question of the success of the coloniza
+tion work.
+The Jews of Palestine fall into two
+clashes, the urban workers and the vil
+lage colonizers. Among the achieve
+ments of the former the city of Tel Aviv
+made a singularly profound impression
+upon me. The rapidity and energy which
+has marked the growth of this town has
+been so remarkable that Jews refer to it
+with affectionate irony as “Our Chicago.’’
+A remarkable tribute to the real power
+of Palestine is the fact that those Jew
+ish elements which have been resident in
+the country for decades stand distinctly
+higher, both in the matter of culture and
+in their display of energy, than those ele
+ments which have only recently arrived.
+And among the Jewish “sights” of
+Palestine none struck me more pleasantly
+than did the school of arts and crafts,
+Zezalel, and the Jewish workingmen’s
+groups. It was amazing to see the work
+that had been accomplished by young
+workers who when they entered the
+country could have been classified ac
+curately as “unskilled labor.”
+I noted that beside wood, other build
+ing material is being produced in the
+country. But my pleasure was tempered
+somewhat when I learned of the fact
+that the American Jews who lend money
+for building purposes exact a high rate
+of interest.
+To me there was something wonderful
+in the spirit of self-sacrifice displayed
+by our workers on the land. One who
+has actually seen these men at work
+must bow before their unbreakable will
+and before the determination which they
+show in the face of their difficulties—
+from debts to malaria. In comparison
+with these two veils, the Arab question
+becomes as nothing.
+And in regard to the last I must re
+mark that I have myself seen more than
+once instances of friendly relations be
+tween Jewish and Arab workers. I be
+lieve that most of the difficulty comes
+from the intellectuals—and, at that, not
+from the Arab intellectuals alone.
+The story of the struggle against
+malaria constitutes a chapter by itself.
+This is an evil which affects not only the
+rural but also the urban population.
+During my visit to Spain some time
+Connecticut Hebrew Record
+By Albert Einstein
+ago we submitted to the Spanish Jews
+a proposition that they send, at their
+expense, a specialist on the subject of
+malaria to Palestine, and that this spe
+cialist should carry on his work in con
+nection with the work of the University
+in Jerusalem.
+The malaria evil is still so strong that
+one may say that it weakens our colon
+ization work in Palestine by something
+like a third.
+But the debt question is particularly
+depressing. Take for instance the work
+ers of the colony of Deganiah. These
+splendid people groan under the weight
+of their debts, and must live in the direst
+need in order not to contract new ones.
+One man, even with moderate means,
+could, if he were large-hearted enough,
+relieve this group of its heart-breaking
+burden.
+'rhe spirit which reigns among the
+land and building workers is admirable.
+They take boundless pride in their work,
+and have a feeling of profound love for
+the country and for the little locality in
+which they work.
+In the matter of architectural taste, as
+displayed in the buildings in the towns
+and on the land, there has been not a
+little to regret. But in this regard the
+engineer, Kaufman, has done a great
+deal to bring good taste and beauty into
+the buildings of Palestine.
+To the government considerable credit
+must be accorded for its construction of
+roads and paths, for its fight against
+malaria and in general for its sanitary
+work as a whole. Here the government
+has no light task before it. One can
+hardly find another country which, being
+so small, is so complicated by virtue of
+the divisions among its own population
+as well as by virtue of the interest taken
+in it by the outside world.
+The greatest need of Palestine today
+is for skilled labor. No academic forces
+are needed now. It is hoped that the
+completion of the technikum will do a
+great deal toward meeting the need of
+the country for trained workmen.
+I am convinced that the work in Pal
+estine will succeed in the sense that we
+shall create in that country a unified
+community which shall be a moral and
+spiritual center for the Jewries of the
+world.
+Here, and not in its economic achieve
+ments, lies, in my opinion, the signifi
+cance of this work. Naturally we cannot
+neglect the question of our economic
+position in Palestine, but we must at no
+time forget that all this is but a means
+to an end.
+To me it seems of secondary import
+ance that Palestine shall become econom
+ically independent with the greatest pos
+sible speed. I believe that it is of in
+finitely greater importance that Pales
+tine shall become a powerful moral and
+spiritual center for the whole of the
+Jewish people.
+In this direction the rebirth of the
+Hebrew language must be regarded as
+a splendid achievement. Now must fol
+low institutions for the development of
+art and science.
+From this point of view we must re
+gard as of primary importance the
+founding of the University, which, thanks
+largely to the enthusiastic devotion of
+the Jewish doctors of America, can begin
+its work in Jerusalem. The University
+already possesses a journal of science
+which is produced with the earnest col
+laboration of Jewish scientists in many
+fields and in many countries.
+Palestine will not solve the Jewish
+problem, but the revival of Palestine will
+mean -the liberation and the revival of
+the soul of the Jewish people. I count
+it among my treasured experiences that
+I should have been able to see the coun
+try during this period of rebirth and re
+inspiration.
+New B’nai Brith Districts in Pales
+tine and Poland
+Chicago (J. T. A.) —B’nai Brith Lodges
+in Poland which prior to the war were
+under the jurisdiction of Austrian and
+German districts, have now become part
+of the new District Grand Lodge No. 13.
+Authorization for the formation of the
+new district Grand Lodge has recently
+been given by the Executive Committee
+of the Order.
+The Executive Committee also has un
+der advisement the formation of an ad
+ditional district in the Near East to in
+clude B’nai Brith Lodges located in Pal
+estine, Syria and Egypt.
+Swedish King and Einstein Enjoy
+Chat
+Gottenberg, Sweden (J. T. A.) —Pro-
+fessor Einstein delivered an address here
+before a scientific body on his theory of
+relativity. Among those present was
+King Gustaf. Following the lecture the
+Swedish monarch engaged in a long chat
+with the Jewish scientist.

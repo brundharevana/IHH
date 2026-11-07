@@ -1,0 +1,10 @@
+{
+  "url": "https://history.aip.org/exhibits/einstein/inbrief.htm",
+  "fetch_url": "https://history.aip.org/exhibits/einstein/inbrief.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T23:00:52Z",
+  "sha256": "4aff5bc5182b771df2551ee1737bddee01cf48e2d1ad93d65d8bbfb50b120180",
+  "bytes": 6554,
+  "http_status": 200,
+  "final_url": "https://history.aip.org/exhibits/einstein/inbrief.htm"
+}

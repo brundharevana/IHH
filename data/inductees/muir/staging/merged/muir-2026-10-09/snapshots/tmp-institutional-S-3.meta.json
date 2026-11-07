@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/thri/johnmuir.htm",
+  "fetch_url": "https://www.nps.gov/thri/johnmuir.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:32:07Z",
+  "sha256": "c1592177a3eb5f64bf564cf30305ce5cac1bcf5e219252bc995f7939cab32637",
+  "bytes": 13366,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/thri/johnmuir.htm"
+}

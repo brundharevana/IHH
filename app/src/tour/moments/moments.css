@@ -1,0 +1,70 @@
+/* Moments That Made Them (Moments.jsx): Tapestry glass on the dark field; tokens only. */
+.mom-root {
+  position: fixed; inset: 0; z-index: 60; overflow: hidden auto;
+  background: radial-gradient(120% 90% at 50% 40%, var(--charcoal) 0%, var(--bg) 70%);
+  color: var(--text); font-family: var(--font-ui);
+  animation: fade-in .5s var(--ease-out);
+}
+.mom-root.is-reduced { animation: none; }
+.mom-index { position: relative; min-height: 100%; box-sizing: border-box; padding: 28px var(--gutter) 32px; display: flex; flex-direction: column; }
+.mom-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap; }
+.mom-title { margin: 6px 0 0; font-family: var(--font-display); font-weight: 400; font-size: 34px; line-height: 1.15; color: var(--title); letter-spacing: -.01em; max-width: 22ch; }
+.mom-tools { display: flex; gap: 8px; align-items: center; }
+.mom-tools .btn-glass:disabled { opacity: .4; cursor: default; }
+.mom-kinds { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; }
+.mom-tag {
+  display: inline-block; font-size: 10px; font-weight: 500; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--accent-soft); border: 1px solid var(--hairline); border-radius: var(--r-pill);
+  padding: 4px 10px; background: rgba(0,0,0,.25); white-space: nowrap;
+}
+button.mom-tag { cursor: pointer; }
+.mom-tag.is-on { border-color: var(--accent); box-shadow: var(--accent-glow); color: var(--ui-text); }
+.mom-year { font-size: 11px; color: var(--subtitle); letter-spacing: .04em; white-space: nowrap; }
+
+/* floating moments */
+.mom-field { position: relative; flex: 1; min-height: 380px; list-style: none; margin: 8px 0 0; padding: 0; }
+.mom-float {
+  position: absolute; transform: translate(-50%, -50%); width: 190px;
+  transition: left .9s var(--ease-panel), top .9s var(--ease-panel), opacity .4s ease;
+  animation: mom-drift 9s ease-in-out infinite alternate;
+}
+.mom-float:nth-child(2n) { animation-duration: 11s; animation-delay: -3s; }
+.mom-float:nth-child(3n) { animation-duration: 13s; animation-delay: -6s; }
+.mom-field.is-timeline .mom-float { animation: none; width: 150px; }
+@keyframes mom-drift { from { margin-top: -6px; } to { margin-top: 6px; } }
+.mom-float-btn {
+  box-sizing: border-box; min-width: 0; display: grid; justify-items: center; gap: 6px; width: 100%; text-align: center;
+  padding: 8px; color: var(--ui-text); border-radius: var(--r-card); text-decoration: none;
+  transition: transform .4s var(--ease-out);
+}
+.mom-float-btn:hover { transform: translateY(-3px); }
+.mom-float-btn:hover .mom-thumb { box-shadow: var(--accent-glow), 0 18px 50px rgba(0,0,0,.6); border-color: var(--accent); }
+.mom-float-title { font-family: var(--font-display); font-size: 16px; line-height: 1.25; color: var(--title); }
+.mom-float-title, .mom-float-who { display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; }
+.mom-float-title { -webkit-line-clamp: 3; }
+.mom-float-who { -webkit-line-clamp: 2; font-size: 11px; color: var(--subtitle); }
+.mom-float-meta { display: flex; gap: 8px; align-items: center; justify-content: center; flex-wrap: wrap; }
+.mom-thumb {
+  box-sizing: border-box; max-width: 100%; width: 150px; height: 120px;
+  display: grid; place-items: center; object-fit: cover; border-radius: 6px;
+  border: 1px solid var(--hairline); box-shadow: 0 16px 44px rgba(0,0,0,.55);
+  background: var(--bg-card); transition: box-shadow .4s ease, border-color .4s ease;
+}
+.mom-thumb-icon { color: var(--accent-soft); }
+.mom-thumb-wrap { display: grid; justify-items: center; gap: 4px; max-width: 100%; }
+.mom-thumb-cap { max-width: 150px; font-size: 11px; line-height: 1.3; color: var(--subtitle); }
+.mom-thumb-cap.is-other { color: var(--ui-text); font-style: italic; }
+
+@media (max-width: 720px) {
+  .mom-title { font-size: 26px; }
+  .mom-field { min-height: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+  .mom-float, .mom-field.is-timeline .mom-float { position: static; transform: none; width: auto; animation: none; }
+  .mom-thumb { width: 100%; height: 110px; }
+  .mom-thumb-wrap, .mom-thumb-cap { width: 100%; max-width: 100%; }
+  .mom-field .mom-tag { white-space: normal; letter-spacing: .08em; text-align: center; max-width: 100%; box-sizing: border-box; }
+  .mom-float-meta { width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mom-float { animation: none; transition: none; }
+  .mom-root { animation: none; }
+}

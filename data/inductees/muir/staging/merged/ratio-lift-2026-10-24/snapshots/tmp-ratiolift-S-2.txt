@@ -1,0 +1,1261 @@
+_version_: 1844506007204528128
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn85066387/1903-05-18/ed-1/
+aka[1]: http://www.loc.gov/resource/sn85066387/1903-05-18/ed-1/
+batch[0]: curiv_etna_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/california/
+composite_location[2]: 2/united states/california/san francisco/
+composite_location[3]: 3/united states/california/san francisco/san francisco/
+contributor_names[0]: University of California, Riverside; Riverside, CA
+contributors[0].university of california, riverside; riverside, ca: https://www.loc.gov/search/?fa=contributor:university+of+california,+riverside%3B+riverside,+ca&fo=json
+created_published[0]: San Francisco [Calif.], May 18, 1903
+date: 1903-05-18
+date_issued: 1903-05-18
+dates[0].1903-05-18: https://www.loc.gov/search/?dates=1903-05-18/1903-05-18&fo=json
+dates_of_publication: 1895-1913
+description[0]: San Francisco [Calif.]
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-09-02T13:55:03.231Z
+extract_urls[0]: file:/service/ndnp//curiv/batch_curiv_etna_ver01/data/00100480402/1903051801/1903051801_1.xml#ndnp/curiv
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/curiv
+group[1]: university-of-california-riverside-riverside-ca-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn85066387/1903-05-18/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_etna_ver01:data:00100480402:1903051801:0347/full/pct:3.125/0/default.jpg#h=268&w=202
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_etna_ver01:data:00100480402:1903051801:0347/full/pct:6.25/0/default.jpg#h=537&w=404
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_etna_ver01:data:00100480402:1903051801:0347/full/pct:12.5/0/default.jpg#h=1075&w=808
+index: 2
+item.batch[0]: curiv_etna_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: University of California, Riverside; Riverside, CA
+item.created_published[0]: San Francisco [Calif.], May 18, 1903
+item.date: 1895
+item.date_issued: 1903-05-18
+item.dates[0]: 1903-05-18
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn85066387
+item.location[0]: San Francisco (Calif.)
+item.location[1]: San Francisco Bay Area (Calif.)
+item.location[2]: California--San Francisco
+item.location[3]: California--San Francisco Bay Area
+item.medium: 10 pages
+item.newspaper_title[0]: The San Francisco call
+item.notes[0]: Daily
+item.notes[1]: Vol. 77, no. 85 (Mar. 5, 1895)-v. 115, no. 7 (Dec. 8, 1913).
+item.notes[2]: "San Francisco" appears above, and later across, masthead ornament.
+item.notes[3]: Publishers: Charles M. Shortridge, <1896>; John D. Spreckles, <1899>.
+item.notes[4]: Also issued online.
+item.notes[5]: Master negatives are available for duplication from: California Newspaper Microfilm Archive; for further information consult the CNMA at: http://cbsr.ucr.edu.
+item.notes[6]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[7]: Issued with a joint ed. of the San Francisco chronicle and the San Francisco examiner on the day after the San Francisco earthquake, Apr. 19, 1906.
+item.notes[8]: San Francisco evening post (DLC)sn 94052992 (OCoLC)31898483
+item.notes[9]: San Francisco call and post (DLC)sn 86064451 (OCoLC)13146198
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//curiv/batch_curiv_etna_ver01/data/00100480402/1903051801/1903051801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn85066387/marcxml
+item.other_title[0]: Sometimes published as: Call
+item.other_title[1]: Sunday issues published as: Sunday call
+item.other_title[2]: Joint issue published as: Call-chronicle-examiner
+item.place_of_publication: San Francisco [Calif.]
+item.raw_lccn: sn 85066387
+item.reel_numbers[0]: 00100480402
+item.source_group: ndnp/curiv
+item.subjects[0]: San Francisco (Calif.)--Newspapers
+item.subjects[1]: San Francisco Bay Area (Calif.)--Newspapers
+item.subjects[2]: California--San Francisco
+item.subjects[3]: California--San Francisco Bay Area
+item.subjects[4]: United States--California--San Francisco--San Francisco
+item.title: The San Francisco call (San Francisco [Calif.]), May 18, 1903
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn85066387
+location[0]: san francisco bay area
+location[1]: california
+location[2]: united states
+location[3]: san francisco
+location_city[0]: san francisco
+location_country[0]: united states
+location_county[0]: san francisco
+location_state[0]: california
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].san francisco: https://www.loc.gov/search/?fa=location:san+francisco&fo=json
+locations[2].san francisco bay area: https://www.loc.gov/search/?fa=location:san+francisco+bay+area&fo=json
+locations[3].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].san francisco: https://www.loc.gov/search/?fa=location_city:san+francisco&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].san francisco: https://www.loc.gov/search/?fa=location_county:san+francisco&fo=json
+locations_state[0].california: https://www.loc.gov/search/?fa=location_state:california&fo=json
+medium: 10 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The San Francisco call
+notes[0]: Daily
+notes[1]: Vol. 77, no. 85 (Mar. 5, 1895)-v. 115, no. 7 (Dec. 8, 1913).
+notes[2]: "San Francisco" appears above, and later across, masthead ornament.
+notes[3]: Publishers: Charles M. Shortridge, <1896>; John D. Spreckles, <1899>.
+notes[4]: Also issued online.
+notes[5]: Master negatives are available for duplication from: California Newspaper Microfilm Archive; for further information consult the CNMA at: http://cbsr.ucr.edu.
+notes[6]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[7]: Issued with a joint ed. of the San Francisco chronicle and the San Francisco examiner on the day after the San Francisco earthquake, Apr. 19, 1906.
+notes[8]: San Francisco evening post (DLC)sn 94052992 (OCoLC)31898483
+notes[9]: San Francisco call and post (DLC)sn 86064451 (OCoLC)13146198
+number[0]: sn85066387
+number[1]: 1
+number[2]: 00100480402
+number_edition[0]: 1
+number_lccn[0]: sn85066387
+number_reel[0]: 00100480402
+numeric_shelf_id: 190305181
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//curiv/batch_curiv_etna_ver01/data/00100480402/1903051801/1903051801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn85066387/marcxml
+other_title[0]: Sometimes published as: Call
+other_title[1]: Sunday issues published as: Sunday call
+other_title[2]: Joint issue published as: Call-chronicle-examiner
+partof[0].count: 6829
+partof[0].title: the san francisco call (san francisco [calif.]) 1895-1913
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+san+francisco+call+%28san+francisco+%5Bcalif.%5D%29+1895-1913&fo=json
+partof[1].count: 3210990
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232495
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the san francisco call (san francisco [calif.]) 1895-1913
+place_of_publication: San Francisco [Calif.]
+publication_frequency[0]: daily
+raw_lccn: sn 85066387
+reel_numbers[0]: 00100480402
+resources[0].files: 10
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_etna_ver01:data:00100480402:1903051801:0347/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn85066387/1903-05-18/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.851683
+shard: 07
+shelf_id: sn85066387, 1903-05-18, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/curiv
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: newspapers
+subject[1]: san francisco
+subject[2]: california
+subject[3]: san francisco (calif.)
+subject[4]: united states
+subject[5]: san francisco bay area
+subject[6]: san francisco bay area (calif.)
+subject_headings[0]: San Francisco (Calif.)--Newspapers
+subject_headings[1]: San Francisco Bay Area (Calif.)--Newspapers
+subject_headings[2]: California--San Francisco
+subject_headings[3]: California--San Francisco Bay Area
+subject_headings[4]: United States--California--San Francisco--San Francisco
+subjects[0].california: https://www.loc.gov/search/?fa=subject:california&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].san francisco: https://www.loc.gov/search/?fa=subject:san+francisco&fo=json
+subjects[3].san francisco (calif.): https://www.loc.gov/search/?fa=subject:san+francisco+%28calif.%29&fo=json
+subjects[4].san francisco bay area: https://www.loc.gov/search/?fa=subject:san+francisco+bay+area&fo=json
+subjects[5].san francisco bay area (calif.): https://www.loc.gov/search/?fa=subject:san+francisco+bay+area+%28calif.%29&fo=json
+subjects[6].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+timestamp: 2025-09-28T11:13:18.247Z
+title: The San Francisco call (San Francisco [Calif.]), May 18, 1903
+type[0]: issue
+url: https://www.loc.gov/item/sn85066387/1903-05-18/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_etna_ver01/data/00100480402/1903051801/0348.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn85066387/1903-05-18/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_etna_ver01:data:00100480402:1903051801:0347/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/curiv/batch_curiv_etna_ver01/data/00100480402/1903051801/0348.pdf
+resources[0].segment_count: 10
+resources[0].url: https://www.loc.gov/resource/sn85066387/1903-05-18/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1903, May 18) The San Francisco call. Retrieved from the Library of Congress, https://www.loc.gov/item/sn85066387/1903-05-18/ed-1/.
+cite_this.chicago: The San Francisco call. (San Francisco, CA), May. 18 1903. https://www.loc.gov/item/sn85066387/1903-05-18/ed-1/.
+cite_this.mla: The San Francisco call. (San Francisco, CA) 18 May. 1903, p. 2. Retrieved from the Library of Congress, www.loc.gov/item/sn85066387/1903-05-18/ed-1/.
+
+segment_id: /service/ndnp/curiv/batch_curiv_etna_ver01/data/00100480402/1903051801/0348.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_etna_ver01/data/00100480402/1903051801/0348.xml&format=alto_xml&full_text=1
+full_text:
+That, brings, our. patrons to the picture
+framing department. Cose attention paid
+to appropriate framing -by competent
+clerk» Sajibora."Vall Co. .711 SLarket'st.
+Satisfaction the Magnet
+To-morrow morning- the President will
+taks ..the Raymond- limited, stage at i
+As the President recrossed the bridge
+three cheers were given him. Then ho
+passed under the arch and rode.' unac
+companied by any one. d«wn the street
+of Yosemite village. A small boy said
+"Hello. Teddy!" The President stopped
+his horse and a frown darkened his face
+He rode up to the boy, the dignity of the
+President gone and in its place the face
+and severity of the father and parent.
+He gave that youngster a short lecture
+en manners that lie will never forget.
+Several times he stopped to greet some
+one or answer a salutation and then dis
+appeared In the pine-lined road that
+leads down to the camping-place, for the
+night. About two miles below town he
+v.as met by a party consisting of Gover
+nor Parde*. Judge Henshaw and
+Yosemite Commissioners Givens and
+Henshaw. It was a purely informal and
+unexpected meeting and much enjoyed by
+all.
+A former member of the Seventh In
+fantry named McPhcrson. who was close
+to the Rough Riders in CuBa,' was warm
+ly greeted and for a moment the- beauties
+of Yos«mlte^werc lost sight of and the
+stormy days of the charge up the hills
+near Santiago were recalled and dls
+russcd. He shook hands with all and
+warmly Rreetetl 'them. He felt perfectly
+at home and the people telt that- they
+wr-re Erecting an old friend. Cameras and
+kodaks were snapping on all sides.
+"I have a half dozen myself."
+Its tiny hand and with a merry twinkle
+said:
+Continued From Page 1, Column 7.
+PRESIDENT
+ROOSEVELT
+STATE TOUR
+TO-DAY.
+Lettve Raymond... .OjOO p. m.
+
+TUESDAY, MAY 10. j
+Arrive Reno, Nev. .7«30 a. m.
+(Via Virginia and Truckee R.. R.)
+Leave .Reno. .-.ruaiiH^m.
+Arrive Carson. .8i55 a. n».
+Leave Carson. .0>55 n. m.
+Arrive Reno. llttO a. mi
+Leave Reno. ,ia«10 p. m.
+(Via Southern Pacific.)
+Arrive Co I fax. .Afternoon
+Leave Colfax after twentjr
+mtnute stop.
+Arrive Sacramento. «6t45 p.m.
+»j
+WEDNESDAY^ MAY/ 20.
+Leave Sacramento. 12iU0 a. m.
+Arrive Reddlnff. .8:30 'a.' m.
+Leave RfdUlnff .8: iO a. m.
+Arrive SlBBon J :I5 p.m.
+Leave Slaaon. ltSO p. m.
+Arrive Anhlnnd, Or. .7:00 p. m.
+tho President lying upon the ground for
+some. t me and sleeping. Hot coffee was
+made, the other part of the lunch having
+f" n re f P"« d ln th0 morning. From that
+time until they reached the floor of the
+thiv* &i V Iappy Isles aa noted «bove!
+VeTnarFalli b lh the Nevad and the
+There was no order to-day. Sometimes
+in e fr^ Sl M nt Was ln the rear ai o^ers
+u T He was like schoolboy-happy.
+He told Ranger Lcldlg that he soon will
+P»lirJ be e r, Cook than the -chef: of the
+Palace Hotel. At meals he helped him
+fnl I !f 7' hen hls 8addle needcd rec'inch-
+8 u d ,1 ot cal1 a ran er but attended
+tp It himself. When some people on horses
+started, to follow his party from the
+Happy isle*. he rode aside and asked them
+to ride on In front. X
+nw°. not J lke to lead a procession,"
+said he to them.
+and several employes of business houses
+who have disappeared, leaving behind
+them small defalcations and unpaid bills.
+Mullen, who is an expert accountant,
+had evidently studied out his system of
+robbing the Tax Collector's offlee. He
+had covered hlB peculations by destroying
+the stubs of the tax receipts and In the
+balance sheets had substituted the sums
+he had taken. Most of the stealing had
+been done last November. The amounts
+taken at -times range from a' few dollars
+up to nearly $250.
+.For over ten years Mullen has been
+employed at times about the Court
+house. He has experted the city and
+county books a number 1 of times. He has
+always been prominent in political and
+fraternal affairs.
+SAN JO8E T\A.X COLLECTOR'S
+CLERK WHO TOOK CITY
+funds. ?:rf/*
+Chief Executive Wires His Willing
+ness to Become Enrolled in
+That Organization.
+H. H. Llllenthat, president of the Cali
+fornia State Horticultural Society, has re
+ceived a dispatch from President Roose
+velt in which the chief executive ex
+presses his willingness to become an hon
+orary member of the society. The mes
+sage is as follows:
+RAYMOND. May 15, 1803— Mr. H. H.
+Lillenthal, President of the California State
+Horticultural Alliance: Yours of the 13th
+inst.. with inclosure, has been received, and
+in the President's behalf I beg to thank you
+and the members of your society for the com
+pliment paid him by the recent action ot your
+worthy organization. Very truly yours,
+WILLIAM LOEB JR.,
+Secretary to the President.
+PRESIDENT NOW A MEMBER
+OF HORTICULTURAL SOCIETY
+Then he walked' back to the hitching
+tack near the hotel. and commenced tho
+trip of the day. 'They arrived in the Lit
+tle Yosemite at noon and lunched there.'
+Four photographs were made of the
+President on the overhanging rock by his
+personal photographer. In two of these
+he is alone and in the others he is stand
+ing with Muir.
+.Last night :they camped about a mile
+back from the rim of the Yosemite, re
+tiring at about 10 o'clock. A real but
+short Sierran snowstorm was on for a
+short time during the evening, but IV did
+not annoy the President. He shaved him
+self., by tho light of the 'great campflre
+while the snowflakes were,_ falling. Break
+fast in camp was over at 6:15 o'clock this
+morning, and then he and Muir walked
+over to Glacier Point. There they _ re
+mained nearly, an- hour.
+'From the supernal heights of Glacier
+Point, nearly a mile above the floor of
+Yosemite, the President saw the wonders
+of. the valley. And'to the. east and west
+and north he saw the great granite gorges
+of the high; Sierras, snow-mantled and
+glistening In, the rays of the early morn-
+Ing sun. The late Professor Whitney
+said that this was the greatest view on
+earth.
+Then they left the road and followed an
+old Indian trail leading to Glacier Point.
+During most of the day the two rangers
+headed the party, followed by thb PresI-.
+dent and Mulr. At different .times they
+got' into as much ns seven feet of snow,
+but these were only patches. They had
+more trouble with the muddy meadows
+than with the snow. One of the. pleasant
+events of the day was their seeing seven
+teen'deer. Chough there are bear in these
+parts they dld^not see any.
+SHAVING IN SNOW.
+For the past ten months San Jose has
+been- awlde open town. Every kind of
+gambling has been permitted.; Never
+before has there been as much gambling
+going on. The Pastors' Union' has .made
+a protest, but no attention has been paid
+to it. This gambling is said to be the
+direct cause of the downfall of "Mullen
+o'clock, lunch at Wawona.and arrive at
+Raymond In the evening, where his spe
+cial train awaits him. For tWo days and
+two nights he has been lost to" the world
+and Its curious gaping crowd In the al
+most trackless wilds, of the high Sierras,
+accompanied by John'-Muir and. Forest
+Rangers Leidig and Leonard. Muir knows
+all about the animals and the mountains,
+and the President can ask questions!
+When he reached the Mariposa grove
+of big trees P'riday eveningthe President
+was a tired, worried- man. 'This evening
+he is bright, alert, the Roosevelt of old.
+Human-like he lay upon the soil under
+the great sequoias and rested. "I will
+see you gentlemen Monday," said he, and
+then, after posing, at the foot of the griz
+zly giant for a phdtograph, he went; to the
+camp of the rangers near by.
+At an early hour yesterday morning
+they were up and on their way to Yo
+semite. Tlifey avoided, however, all roads
+except at Wawona, where they were
+compelled to crosa the south fork of the
+Merced on the bridge. The people at the
+hotel expected them to come from Big
+Trees so as to pass In front of the hotel.
+But the rangers knew the' country, and
+they- hugged, the river bank 60 closely
+that they passed to the east of the hotel
+without being seen/though within a hun
+dred yards of the place.
+Tax. Collector January will not prose
+cute unless he is compelled by law to do
+so- He is willing to stand the financial
+loss in order to make the blow lighter to
+the family of Mullen. .The latter has al
+ways borne a good reputation and has a
+host of friends in the city. It is believed,
+however, that the Grand Jury will take
+the matter up and Indict Mullen. This is
+the rumor on the street to-day. Another
+story going around is that the Grand Jury
+will at once take steps to put a stop to
+the gambling that Is running wide open
+In the city.
+Special Dispatch to The Call
+SAN JOSE, May 17.— The taking of
+$3100 of the coulity tax money and
+squandering it. over gaming tables
+by Deputy A. J. Mullen of the Tax
+Collector's office is the absorbing
+topic in the city to-day. Now that
+he has confessed his crime, stories of Mul
+len's methods are coming to light.
+Tax Collector January is Inclined to be
+lenient with Mullen on account of the lat
+ter having a wife and two children. As
+soon as the defalcation w,is established
+by the books being experted by J. A.'
+Lotz January paid $3100 Into the county
+treasury. Last night Mullen went down
+to January's house "and confessed that he
+had robbed his employer. He offered to
+make the money good and said he had
+hopes of raising the amount io. San Frftn
+clscd. He" left for Saii Fraiiclsco this
+morning.
+PHOENIX. Ariz.. May U.-In a rock
+tunnel fifteen miles east of Florence, P. S.
+Bagwell and Miguel Para were blown to
+pieces by an premature blast. Fragments
+of the two bodies were so Intermingled
+that recognition was impossible.
+The tunnel is being driven by a rock
+crew in the employ of tho Phoenix and
+Eastern Railroad now building between
+here and Benson. Bagwell was foreman
+of the crew. A round of shots had been
+placed and the supposition is that In
+tamping, they were fired by a spark from
+a steel rod striking the flint rock. A num
+ber of men in the tunnel had been or
+dered out but a few minutes before the
+accident.
+TUNNEL EXPLOSION ENDS
+LIVES OF TWO MEN
+Members of Bock Cre-w in Arizona
+Victims of a Premature
+Blast.
+«six>n after the McKinley administration came
+into power tbe First Assistant Post:aast«:r
+<j*n*ml tent h'.t clerk down to me with u
+voucher for a lump sum for traveling expenses,
+accompanied by an allowance of their pay
+ment from the funds cf the Washington of
+fice. Such a demand was Irregular on it* face.
+But thf official became very angry at the idea
+of a m«-re c«ushier attempting to make any
+t« Mm and refused to amend ana
+itemize *ii» voucher.
+SCOFFS AT PRECEDENT.
+Thr pofimai-ter explained to him that I had
+only atked for what u'fife requested by the au
+ditor and according to precedent. The po&t
+m»*tfr upon his return stated the official had
+said k hn-re, now, this I* a new aJnil.
+lstrailon »nd a new crowd and we Intend to
+make our own precedents." The auditor of
+the I'Ofeiofflce Drpartmcr.t finally sent word
+throujrh the postmaster that on account of the
+terling fhown in the matter if I would inciose
+the voucher In my next account its informality
+would b» overlooked.
+An tnFi>ectIori cf the Washington accounts
+mill fhov.- many similar subsequent payment*
+of travtllng and other expenses on account ot
+dcptrtmental officials without the usual tie
+pkrttrjental cliecks.
+Tlio Washington offlee was surprised one day
+to receHe from the salary and allowance dl
+¦vision of th« First AssUtant Postmaster Gen
+eral'* office a printed circular etating It was
+intending to require all employes at postofQc*s
+to give a blanket bond direct to the depart
+ment. >ald bend to be furnished by a single
+rrccgnlred bonding company, irrespective of
+the fart whether such employes could furnisli
+good personal bond* or might desire to avuii
+themselves of competition ta premiums between
+oth»?r bonding rompaniee. A similar blank*'.
+bond waf, I believe, to be required of the let
+ter carriers.
+The .jX'StmaEter had a conference with
+Ceorge Reavers, then chief or the ealary and
+Ilowance division, and reported that Mr.
+Jteavfrre had «a«d: "Senator Platt of New
+York would appreciate th« fact If he would
+•elect the Senator's company." Tbe original
+rireulsr was subsequently modified by allow
+ing employes to select their own bond or bond
+ing cosnpanie*.
+VOUCHEES EASILY OBTAINED.
+Considerable -feeling was manifested towarj
+me in the office of the First Assistant Post
+master General because I would not pay vouch
+ers for serviceg or supiMes unon personal re
+quest or by directlcn over the telephone, i
+Holt Lfvlnjreton presented vouchers for pay
+ment one afternoon, amounting to. several hun
+dred dollars, for i>ostal furniture. I refused
+lo pay until the allowance was received. I
+inforrred that it would be sent down by
+private messenger as soon aa it was signed
+by the First Assistant I'oEtma*ter General. X
+•gain refusfd. Mr. Livingston departed quit
+angry and «*ome time afterward returned with
+tttions wi* turned down by Ills superior o/fl
+cers. i**ter voucher* were pret-ented to me ior
+a file rate, su.-compar.ied by an allowance for
+paynitnt out of the funds of the Washington
+offlc* i.-iade by Shepherd and signed by tac
+Virrl Assistant 1'ostir.acter General. I direct
+ed the contractor to obtain a. certincate ot d»
+livny of the coodp. Mr. Shepherd refused to
+Acknowledge the receipt of the goods, fearing
+expot-ure during tbe audit of the vouchers, ani
+I retc*ed to t*y for the cate until tome out
+vat willing to father the same.
+For upward of nineteen years, the letter
+recites, the conduct of affairs between the
+Washington city Postofflce and the Post
+office Department was regular; then came
+the first break, the precursor of a system
+of allowances to the Washington Post
+office on account of departmental expend
+iture*, which afterward led to irregulari
+tif-*. abuses and extravagance. Tulloch
+continues:
+Mr. i^hepherd. then chief of ihe salary and
+allowance diviaicn of th* postofflce, dfsired a
+file cajf- tor the us« of hie oltice. His reyu!-
+CITES SPECIFIC INCIDENTS.
+WASHINGTON. May 17.— The fun text
+of the formal parses or irregularities in
+the admlnist ration of postal uffairs pre
+ferred by Seymour \V. Tulloch. formerly
+cashier of the Washington PostofQce. was
+made public to-day by Tulloch. The
+charges are embodied In a letter to Post
+'miiftor General Payne In response to the
+latier's request to be supplied with infor
+mation that would substantiate published
+statements by Tulloch. Some of the mat
+ters complained of will be investigated
+Immediately by the Inspectors.
+Tulloch in his letter says he is at the
+service of the Postmaster General in ren
+dering further assistance that may be de
+sired. Tulloch says that In all the in
+stances of irregularity and favoritism the
+proper allowance records, vouchers, etc.,
+were xnoet carefully executed and kept aa
+a rule, and little information can be as
+certained by their Investigation; that the
+:cal facts behind the allowances of vouch
+ers are not cf record and are known to
+few— "those interested, who will not, and
+others clerks— who dare not, talk."
+Asserts That Department Accounts
+Are So Arranged as to Cover
+Up JIucli of the Crook
+edness.
+Cites Instances of Alleged
+Irregularities by Postal
+Officials.
+CAMPS AT BRIDAL VEiL FALLS
+Tulloch says that th« classification act
+of March 2. 18£9, was Ignored by First
+Assistant Postmaster General Heath and
+that sundry persons designated finance
+clerks, auditors, etc.. were paid illegally
+from $200 to $300 each per annum over
+their lawful salary. With only one or two
+exceptions the appointments as cleaners,
+charwomen, laborers, etc., he says, were
+evasions of the civil service and the par
+ties did not perform the duties implied In
+their official designations— often no service
+whatever.
+Tulloch goes deeply into the charges of
+favoritism In appointments, citing .many
+Instances in substantiation of his accusa
+tions.
+Residents of 'Wasnlnston remember well re
+ceiving a* few years isince an official letter
+from tjie postmaster _*t "Washington r-*om
+nunding and seemingly requiring the pur
+chase of an expensive house to house collec
+tion and delivery mail box to be attached ta
+their front doors. Many persons bought th<se
+boxen. This box wa» the property of Indi
+viduals or an individual company. It wac al
+ways euppoeed that certain departmental of
+ficials took more than a passing Interest in It,
+in connection with curtain other prominent
+personage*.
+Tulloch Fays that the Prfstoffice Inspec
+tor in cnarge. William B. Smith of this
+city, made an lnspect!oiH*>f the' Washing
+ton postofllce and during that inspectlbn
+received word from an official' of the First
+Assistant Postmaster General' that he
+would better be careful or he might lose
+his own head. Contlnulnjj^-the statement
+says:
+Extensive purchase s of furniture for
+Porto Rico, amounting to more than $1300,
+and involving some washstands at' very
+high prices, Tulloch says, were made by
+order of the First Assistant Postmaster
+General on April 25 and May 22, 1S39, from
+George W. Cobb Jr., .72 Nassau street.
+New York City.
+HIGH-PRICED WASESTANDS.
+Tulloch says payments were authorized
+to I-iivlngston amounting to about $2500 on
+May 5. June 3 and June 19, 1893. That of
+June 19 was for $1755, for Porto Rico, and
+TVis rendered in a lump sum. An intimate
+friend of Heath's, XI. D. Helm, was tile
+vice president of the company. It is said
+the company shipped $5000 to $10,000 worth
+of supplies to Cuba on orders from Rath
+bone and Neely and fitted up the Ameri
+can Hotel at the Paris Exposition. Liv
+ingston also was in charge of the Wash
+ington office of the Keyless Lock Com
+pany.
+the allowance properly executed and still tlamp
+from the copying press. It was for a ebipmeiit
+of furniturr, as I remember, to Cuba or Portj
+Hieo. No one had certified as to the receipt vl
+the (toods and I called the attention of Mr.
+Livingston to the emission. He explained that
+it would b» all right and thai he needed tiie
+inoni?y. I declined to pay unlesa tome respon
+sible official xvouid ockncwledgp the receipt of
+th« BoodF. whereupon Mr. Livingston bfcam*
+confidential and told me his company did not
+have much capital; that work had not ypt
+even been btyun upon the furniture, but that
+"George" had agreed to give, him the money
+In advance. It is needless to add no payment
+was made.
+Mrs. Patterson and Cronk disappeared
+in different directions. Cronk left Omaha
+for Chicago this morning, while Mrs. Pat
+terson took a train fur the same city to
+nifcht.
+Cronk is one of the leading business
+men of the Stat<\ Mrs. V^atterson is a
+member of the famous Virginia family
+of l.athrops. She obtained a divorce
+from her husband in Omaha last fall after
+a sensational trial. She and her former
+hu&baud were at the top of the social lad
+der in Richmond Eociety.
+Meantime the train pulled out, leaving
+the combatants and Cronk surrounded by
+a crowd on the platform. Mrs. Cronk
+was overcome and almost collapsed when
+the excitement passed. She was placed
+in a carriage by her husband and sent to
+a local hotel and afterward to her home
+in Omaha.
+When the train drew In at the North
+western station in Council Bluffs Mrs.
+Patterson stood cm the platform and
+started to board the train just us Mrs.
+Cronk left the Pullman. Without wast
+ing words Mrs. Cronk, it is said, attacked
+Mrs. Patterson, at the same time accus
+ing the Virginian of trying to steal her
+husband from her. The war of words
+and lists lasted only a moment, when
+friends intervened.
+Mrs. Cronk is said to have been jealous
+of her husband's aliened attentions to the
+grass- widow for several months and to
+have suspected that Cronk was Infat
+uated with Mrs. Patterson. Lost night
+Cronk started for Virginia. Mr3. Cronk
+accompanied him to the station from their
+home In Omaha and then insisted on go
+ing as fur as this city, just across the
+river.
+Siccl.il DifDatcii to T)i- Call
+COUNCIL. BLUFFS. Iowa. May 1'.—
+Furious at the alleged attentions of her
+husband, George U._ Cronk, the promi
+nent locJscrean. to lirs. Cora Lathrop
+l'uttcrson. divorced wife of the son of a
+millionaire tobacco manufacturer of
+Ulchmbnd, Va., Mrs. Cronk Ia3t night
+came to Mows with ilrs. Patterson at the
+Northwestern station In this city in the
+presence of a large crowd. The encoun
+ter did not last long, but was exciting
+while it continued.
+SACRAMENTO, May 17.— MonsJsrnor
+Dimomede Falconio, apostolic legato to
+'he Catholic church in the United States,
+la the 'guest of 'the Right" Rev." Bishop
+Thomas Grace, of the dioceso of Sacra
+mento, and will remain until 1 o'clock to
+morrow, when he will take the Flier for
+the East.
+The :visit' of the apostolic legate .has
+been made one- of the -most memorable
+events in local Catholic church circles for
+many years,- At 9 o'clock this morning
+special mass was held at the Cathedral
+for the Italian residents. The mass was
+said by the Rev. Father Gualco of Chlco,
+and Monsignor Falconio preached a ser
+mon In the Italian language. After the
+service the Monsignor personally greeted
+the Italian parishioners.
+A pontifical mass was -celebrated by
+Bishop Grace at 10:30 o'clock, and the
+great Cathedral was j! filled to the very
+doors. Monsignor Falconio was present
+and blessed the sanctuary lamp.- Among
+those present was the Right Rev. Bishop
+O'Dea of Nisqually, Washington. In the
+afternoon Monsignor Falconio visited the
+schools of the Christian Brothers and Sis
+ters of Mercy and addressed the pupils.
+To-night at 7:30 o'clock Monsignor Fal
+conio participated in the vesper service.
+The Monsignor spoke in warm terms not
+only of the condition of the Catholic
+churches of Sacramento, but the good
+feeling that evidently existed between
+them and the people of other creeds.
+Special Dispatch to The Call.
+Tulloch Makes Public
+His Charges Filed
+WithPavna
+Italian Parishioners in the
+Capital Personally
+Greeted.
+Husband.
+Accuses Virginia Belle -of
+Attenrot to Win Her
+Clerk Mullen Strives to Raise Money to Cover His
+Embezzlement and the Scandal May Result in
+the Stopping of the Open Gambling in Progress
+Mrs. George B. Cronk of
+Omaha Figures in
+Sensation.
+Monsignor, Falconio
+Visits the Bishop of
+Sacramento.
+SAYS FRAUD
+IS CONCEALED
+IN RECORDS
+JEALOUS WIFE
+ATTACKS RIVAL
+THEFTS FROM CITY TAX FUNDS
+CAUSE AMAZEMENT IN SAN JOSE
+CLERGY HONOR
+NOTED PRELATE
+THE SAN FRAX CISCO CALL, 3JO^DAY, MAY 18, 1903.
+2
+ADVERTISEMENTS.
+Open Sores
+can be cleaned out, the suppura-
+tion stopped, and a cure effected
+by the use of
+Only morbid matter is destroyed
+by this marvelous germicide, which
+allows Nature to build up healthy
+tissue. Absolutely harmless.
+Used and indorsed by leading
+physicians everywhere.
+Wheirnot at your druggist's, sent
+prepaid on receipt of 25 cents for
+tria>bottlc.
+1 The genuine bears my signature
+on every bottle- Address
+FBKK D—tM H»w U Tnt Dltw—
+Ga n t\ M Ammcnfticn. Hununi. and
+RRHllB Sporting Goods. Urge.i
+i tin 'tuck. lowest price*, henj
+6 BlMH B for c-stalogue.
+T^y Market st. and 511
+Keamy ,t.
+
+RADWAV'S READY RELIEF lias stood
+ucrttcled befpre the public for M) years aa a
+Pain Ilemedy. It instantly relieve* and quickly
+curea til Cold*, bore Throats. Influenza. Bron-
+him. Pneumonia, nbeumatistn. Neuralgia,,
+Htacscbe, Tooth&i-b* and ell pain, internally
+i~* *1<»*-^- and all Bawd I'aiTis. All tirutsliU-
+ADVERTISEMENTS.
+Catarrh
+Snviies Consumption
+It weakens the delicate luriK tissues, de-
+ranges the digestive organs, and breaks
+down the general health.
+It often causes headache and dizzi-
+ness, impairs the taste, smell and hear-
+ing, and affects the voice.
+Being a constitutional disease it rs-
+quircs a constitutional remedy.
+Hood's Sarsaparilla
+Radically and permanently cures ca-
+tarrh of the nose, throat, stomach,
+bowels and more delicate organs, and
+builds up the whole system.
+No substitute for Hood's acts like
+Hood's. Be sure to get Hood's.
+Testimonials of remarkable cures mailed on
+request. C. I. HOOD CO., Lowell, Mass.
+®\M, VIGOR, VITALITY (or MEM.
+MORMON BISHOP'S PILLS
+have been in use over fifty
+years by the leaders of the
+Mormon cnureh and their
+followers. Positively cure th«
+worst cases in old and young
+arising; from effects of self-
+abuse.' dissipation, excesses or
+cigarette smoking. Cure Lost
+Manhood. Impotency, Lost
+Power. Night Losses, Insom-
+nia, fains In Back. Evil Desires. Lame Back
+Nervous Debility. Headache. Unfltness to Mar-
+ty. Loss of bemen, Varicocele or Con-
+uipatlon. Stop Ner \J vous Twitching of
+Kyelids. Effects are r m Kir tK Immediate. Im-
+part vicor and tote V* 1 »ncy to tvery tune,
+tion. Don't eet despondent, a cure Is at hand.
+Restore small, undeveloped organs. Stimulate
+the brain and nerve centers; 50c a box; 6 for
+12 50 by mall. "A written guarantee to cure or
+money refunded with 6 boxes. Circulars free.
+Address BISHOP REMEDY CO.. 40 Ellis sL.
+Ban Francltco. Cal. GRANT DRUG CO., 38
+and 40 Third st.
+S visit DR. JORDAN'S grcat4
+i MUSEUM OF ANATOMY*
+f £9 W51 HASH! CT. lit. 6is7tt.8.r.C»l 4
+KJf The Largest Anatomic*! Museum In tbe
+W flSgfifrJ diieise p««l«l»«ly «-nro* uy the oldest JT
+O fSJQI Specialist on tbe Com;. Est 35 yen j. 0
+4 fl§g J OR. JORDAN-DISEASES OF MEN 4
+ffESsAl Consultation free and strictly private.
+A I jSwf M Trtutnicu perjonally or by letter. A B
+\m tfSlW Ptrttivt Curt in erery case undertaken. T
+iS// !|g Write for Book. PIIILOAUPHY of A
+V I V HAHRMGK, MAILED FitEE. A W
+-i A IL »alsaWe book (or mm)
+V I>B. JOBDAN 1051 .Market St.. S. F. V
+Wja WJBjHw Al w8^__Z^w1 Es v?3
+ta D a &S3 WSKM SES tXHS El H fi3^«l
+vV, RAILWAY TRAVEL.
+Tourist Cars to^ Chicago
+;i Rock Island tourist sleeping cars run through to
+f. Chicago and to hundreds of places besides Chicago j
+Omaha, Kansas City, Des Moines, St. Paul, Minne-
+apolis, St. Louis, Memphis, etc. Connecting cars,
+Chicago to Boston/
+H Most complete system of tourist car^ across the .<^5&g»f jeffcr j; rv
+I continent. Choice of routrs "Southern." via El Paso; TJtTfisSVTnBf cJrRr
+"Scenic." via Salt Lako City and Colorado Springs. llflTH^S S ififl
+Six personally conducted excursions e»ery week. rV-yA'-HWAUiJifl S
+Folder e'mnz lull information mai'.fd on request. Kd^>*rrTP^]
+Tickets at Southern Paciiic ticket cficss. fi|»Ci *uiil sZS
+F. \V. THOMrsov. G. W. A., 1
+633 Market St., San Francisco, Cal. aSF «ffl
+GOLDEK STATS LIMITED lMTes B»a Tnmetoco Sundays and Wednesdays.
+California
+LimiteOo..
+To CHICAGO Da,r y
+a An Ideal Train
+For Those Who
+SANTA FE THAINS.
+l<e>,T t Market -atr»et Vtrry ,I>«pot.
+I Local I Um'd I Local I OVrl'd
+i I Dally I Dally Dally Dal;y
+Lv San Fran... 8:00 a 0:30 a 4:00 p S:00 p
+Ar Stockton 11:10 a 12:08 p 7:10 p 11:13 p
+"Merced 1:20 p 1:40 p 1:28 a.
+Fresno 3:20 p 3:00 p 3:15 a
+"Hanford (5:00 p 3:51 p 7:50 a
+Visalla 10:25 p 4:45 p B:0O a
+Bakersnetd.. 7:10 p 5:50 p 7:33*
+Kn.isas City 2:35 a 7:20 a
+Chicago 2:15 p 8:47 p
+a for morning; p for afternoon.
+8:00 a. m. Dally I* BakersOeld I^ocal. etop-
+pins at all points in San Joaquln Valley. Cor.
+responding train arrives at "i :5O a. m. daily.
+9:30 a. m. Dally. Is the CAXZroaSTA
+LIMITED, carrying P*lac« Sleeping 1 Cars
+and Dining Cars through to Chicago. Cbair
+Car runs to Cakersfleld for accommodation of
+local first-clasa passengers. No second-c!a«»
+tickets are honored on this train. Correspond.
+Ing train arrives at 11:10 p. rn. dally.
+4:00 p. m. Is Stoekton Local. Corresponding
+train arrives at 11:10 a. m. dally.
+8:00 p. m. Is the Overland Express, with
+through Palace and Tourist Sleepers and Frea
+Reclining Chair Cars to Chicago; also Palace
+Sleeper, which cuts out at Fresno. Correspond-
+ing train arrives a{ 6:0O n- m. dally.
+Personally conducted parties for Kansas
+City. Chlcasro and East leave San Francisco
+every Monday, Thursday and Saturday at S
+p. m.
+Offices— »41 Market street and In Ferry De-
+pot. San Francisco; 1112 Broadway, OakUnJ.
+CALIFORNIA NORTHWESTERN RY. CO.
+LiESSBB
+SAN fRJNClSCO ANU NORTH PACIFIC
+BAXX.WAT OOKPAH
+Tltaroa T-ptry, goot ft M»rk«t St.
+sav TSAjrczaco to saw "*a»axx*'
+WEEK DAVS— 7:30. S:VU. »:W. 11 :w a. m-i
+12:35. 2:30, 8:40, 3:10. 0:30. o:30 and 1J;3>
+p. m.
+Batureays—Extra trip at 1:30 p. m.
+SUNDAYS 7:ao. 8:00. 9:30. 11:00 a. m.; 1:39.
+2:30, 1:40. 5:10. fl:S0. ll:S5O p. rn.
+SAB" SATASXi TO SAJX VZ A3TCZSCO.
+WEEK DAYS— «:05. «:60. 7:34. 7:50. »:2v.
+11:W a. m.: 12:50. t2:00. 8:40. ft:0O 5:20. «:2»
+p. in Saturdays Extra trip at 1:45 p. m.
+SCKDATfi-4J:^». 7:35. U:20. ll:15 a. ttui 1:45.
+1:40. 4. SO. 3:00. B:20. 8:10. «;23 p. zn. t£x>
+ccpt Satunlwys.
+Leave I In Effect I Arrive
+Ean Fran. May 3. 1003. San Fran.
+Week I £un- I Dtstlna- I Bun- I Week
+Days. 1 days. I tion. I daya. Days.
+7:30 a 7:45 a 7:43 a
+7:30a 8:00a 8:40a 8:40a
+8:00 a »:30a Igtado. 10:20 a 10 20 a
+2:20 p 2:30 p «:00p 6:20
+B:10p 5:10 p «-20p 7:23 p j
+7-30 a 7-$0a 7:43 a 7:45 a
+liooi Siooa Norato. 10:20 a 10:20 a
+2:30 p 8:30 a Pttalutna S 2O p S p
+6:10 p 2:30 p and 7:23 p 7:23 p
+5:10 p Santa Rosa.
+7 30 o T^sTa 10:20 a 10:20 a
+slooS Siooa" Fulton. 7:23 P «:20 P
+2:30 p 2:30 p 7:
+Windsor.
+7:80 a 7^0 a Hcaldsburg. 10:20 a 10:20 a
+J^yttoUt
+2:30 p 2:30 p Oyservll!*. 7:»p 7:25
+ClQTerdala.
+7:30 al 7:80 al Hopland 110:20 allO:2O a
+2:30 p| 2:SO p| and Uklah. I 7:25 p( 'i :25 p
+7:3Cal 7:30 al Wllllta. 7:25 pi 7:23 p
+ft-nn** «-ooal "1 110:20 a|lo:2O a
+2l3Opl GaeroevHl*. I 7:25 p| 0:20 p
+8:00 al S:00a| Sonoma. I *2'| i^
+5:10 p| B:10p| Oleo EH«n- |e:00p|g;20p
+7-30 al 7-JU)a| 110:20 a|10:20 a
+2:30 pj 2:8O pj EebastopaL I 7 :23 p| 0:20 p
+6TAOSS connect at Eanta Boaa tor Waits
+EvUphur Springs: at Fulton for Altruri* an4
+Mark West Springs: at Lytton for Lytton
+Bprin«s: at Geyservlll* for Skaggs Springs; at
+Cloverdile for the Geysers, Boon.vlll. aad
+OMtenwood; at Hopland tor Duncan Springs.
+HUMTnd Springa; K.ls^yvllU. Carlsbad
+soda Bay. Lakeport and Bartlstt
+tlllllV- atUkiah for Vichy Springs. aar»t 3 g A
+Borings" Blue Lakes. Laurel Dell Laks. Witter
+fiSrlSfs Upper Lake. Pomo. Potter Valley.
+John Da/B. Riverside. Li.rley*. Bucknells.
+Banh«d>in HeUhta. Hullvllle. Orr-a Hot
+iwtngs Halfway House. ComDtche. Camp
+Steve's Hopkins. Mendocino City. Fort Bragg,
+wtstport. Uaal: at Wllllta for Fort Bra**.
+Westpor£ Sb«rwood. Cahto. Covelo^ Layton.
+viile Bell'a 5prtn«f. Harris. Ol-
+Mna.' Dyer. Garbervlllt. Pepperwood. Scotia I
+mn saturday*to Monday round-trip tickets at r«- i
+"on Sundays Round trip tickets to all polau
+beyond San Rafael at half rates.
+Ticket office. 650 Market street. Carooicla
+building,
+H. C. WHITING. R. X. RTA.V.
+Gep. Manager. Gen. Pasa. Agt.
+HTO SAN RAFAEL.
+SAN QUENTIN,
+MILL VALLEY,
+CAZADERO, ETC, I
+via Sausalito Ferry'
+wfk DAYS (Holidays e.Tcepud) 8:t». I
+?•7V«i 8-45 12:20. U:48, a:li.
+7 :45 a. m. train wttk daya do«a not run ta
+M BUNDAY8 AND LEGAL HOLIDATS—/.
+t8t*tn* "T tll:30 m.. t!2:30. ri:»a
+l:iiS. n»:50. 5. 7:30, 11:45 p. m.
+Trains marked(') run to S*n Qucstlo. T-- 5
+marlted it) to Fairfax, except tt:15 p. m. .M-
+urdayii. On Saturdays to* 3:13 p. tnia
+'"rROM^AN^AFAEL TO SAN FRANCISCO
+—Week daya— 6:25. ja:2S. 7:40, 8:15. rj:^*
+hToS m*. 12:30. 2:20. t3:43. 4:50. i^2
+8: 8UNDA^S%?15. 7:S3. JS:1Q. 0:40, 1105A
+:ll:45 a n,.. 12:Mt 2:30. t3:23. 4:$. fg Jj
+6-63 7:33. 10:23 P. m.
+Trains marked start frcm San Qu«nt!n
+FROM MILL VALLEY TO SAX KHaV
+ClSCO-WMk daya-^:45. «:40. 7:43. I
+8:43 U:10 a. m.. 12:40. 2:43. 5:13. 3:10. flt^
+7:33. 10.. 11:10 a.
+12-.05. 1:05. 2:40, 3:10. 4:55. C:05., 7:10. loTJJ
+THROUGH TRAINS.
+7:45 a. «a., week days— Ca:ad»ro and W4/
+stations.
+6:15 p. m.. week days (Saturdaya exc«ptadj—
+Tomalea and way staUona.
+3 :15 o. in.. Saturday* Casadero and way
+atationx.
+Eundays and Legal Holidays 3 a. m.. Caaa-
+«ero anJ way stations.
+Sundays and Legal Holiday*— 10 a. ta.. Pcta-
+Beyea and. way rtations.
+TICKET OFFICE— ICC Market st.
+FEKTIY— Foot Of M»rk»*
+SOUTHERN PACIFIC
+Train* l«»ve snd mr« duo to arrive at
+SAN FKANCIaC.O.
+(Mam Lin*, foot of VUrHet Street.)
+i.«at« FmoM Ana 8. 1903. A»»rr7
+700a BentcJa, Solsaa, Blmlra and 3scr»>
+mento 7.2Sr
+7.00x V»cst1118. Wlatert. Romier 7^25r
+7J0* Msrtinez, 8ia Ramon. Valleja,
+Xspa, Csliatot*. b»at» Rosa...... 8-ZSr
+7-30* Xlles. Latbrop. Stocktoa 7.25*
+8.00a D»Tt». Wocxllaad. KatKhts Landtas.
+MsrrsrMle. OroTjiie. (connect*
+stM»ryiTtIle for Grldiey, Bljji
+•ndCaieo) 7^5»
+8C0k Atlantic Exprew—Osdea snd East. 10.25*
+8.00a Port Costs. Martinez, AntlocX
+Trier. Stockton. Saertmeota.
+Los Bsbos. Mendot*. HaaJord.
+Vlulla. rorterrma m4.2l*
+800 a Port tk>sta, Martines. L« t&rop. Mo-
+desto. Merced. Fretao, Ooaaea
+Junction. Bakertfleld 8.239
+I 30a SbatU Express Darl*. TTllUsms
+(for Bartlett Epriap). Willowy
+trnito. Bed Blu3. Portland 7-BI»
+8-30a lailes. Saa Jose, Ll*erraore, Stock*
+ton,Ione.Sacramento.PlacerTtU«,
+MsryiTllle. Chlco. Bed BlaS..... 429*
+0.50a Oakdale. Chlaeae. Jamestown. 9o-
+norm, Tuolumne and Angels rllI 4 2Si>
+9. CO a Martinez and Waj Stations......... S Sir
+1000a Vallejo_ 122i»
+<10. CO a CreaeentCltr ExpreM. Eastboand.
+—Port Cost*. Tracy, Latbron.
+Stockton. Ucrced, Raymond.
+Tresno, Bakers9eld. Loa An^ele*
+aad New Orleans. fWestboonit
+srrlTes as Pacific Coast Express,
+Tla Cossc Lice) 41.ZOT
+IOCOa Tbe Orerland limited Offden.
+Denver. Omaha. Cblcajo. 6 25*
+1200m Hiyward, Ni:c» an<i Way Stations. 3-25r
+tVOOr Sacramento Rhrer Steamers til. CO*
+iZOr Benlcia. Winters. Sacramento,
+Woodland. WlUlama. Coluaa,WU-
+lows, Knlgrnts Landing. Marja-
+Ttlle. OroTlll* T3 55a
+S 80f Raywsrd, Ntlea snd Wa7 Stations.. 7 55*
+400r 5Urtlnex.S»uK»uioa.Va:ieJo.Xapa,
+CalUtoga, Sant* Rots. 9 25*
+OOr Martinez, Trscy.Lacbrop.Slockton. 10 25 a
+4 00f Niles. Llrennore. Stockton. LoUl.. 4.2Sr
+430r liay ward. Nile*. IrTtngton. Saa f +8.55a
+Joie. Livennora f til.55*
+600r Tbe Owl Limited— Fretno,Tnlare.
+Ba!ier»a«!d,Lo«Aai{alei: connec-
+tion. Saugus for Sant* Barbara,
+carries Golden Sut« Limited
+Sleeper Sandsys snd Wednes*
+d«js until April SO.
+BCOr Port Costa, Tracy. Stockton. Lo«
+Banos 12-25*
+tS30i» yiles. Ssn Jos« Local 7.25*
+SCOp Hayward.NUet aad 6»a Jose, 102i*
+•XO* Orlsnul MaU Ofctea, D«nr«r.
+Otnaoa. IL Lonia. Chicago* (N«
+4aj cwwa*s> rva oa thX» trala
+ketw««a Im Franciico tn4
+Reno.) <2S*
+gT-OCr Bnaiet Ltane4 Oearea rt» Coait
+Lin* E»itt>oaBd>.— Nsw Tork.
+Kew Orleana. Los Angelea.
+Vresno. Beronda, Raroaond. Uar-
+ttnes. Arrl*es rl» Saa Jo»^aia
+Valley Weitboand) »TSa
+TJBOt Ban Pablo. Port Cost*. Msrtlnea
+and Way Stations. _ 11 2^»
+J7.C0* VaUejo 7. 65
+7.00* Sacramento. Tracts*. Beno and
+Intermediate Station* SSa
+t-OSr Oregon California Ez?r«a»— Sae>
+ramento, MarysvtlSa. Reddlnc
+Portland. Puget Sound and Ea*s. 8 53»
+J9.10P Hsywsrd, KUes and Saa Jose (San-
+day only) t11 69*
+11.25* Port Costa. Tracy. Latbrop. Mo-
+desto. M erc*d.B*rmond. Fresno, 12 25*
+Hanford. Vlsalla. Bakersnoht 6.2S»
+COAST LINE (Sam**
+(Foot of Market Street.)
+{7-45* Santa Criu Excursion (Sunday
+only) ta.OS*
+t-15* Bswark. Centerrllla. San Josa,
+Fsltos. Boalaer Creek, Santa
+Crns aad War Stations..., *M»
+tSMS* Kewtrk. OntervUlo. San Joia.
+N«v Almadsn.Los G»io»,Fettoa.
+Boulder Creek. Santa Crtu and
+Principal Way Stations 1040*
+4.18r Kewark. San Jose. Los Oatos (on
+8atarday and Sunday rnna
+tbxoogb to Santa Cras. connects
+•t Felton for Boulder CreetL.
+Monday only from Santa Cmx).. fg.W fc
+OAKLAND HARBOR FERRY.
+Trom tSAN yBAli CISCO, foot of Market St. (SUp©
+t-.OO 11:00 aJ*. 1.00 3 00 5.15 p.m.
+ftom OAKLAND, Foot of Broadway t«:00 tS:Ot
+t»:<a 10:00 a.m. 1200 2 00 4.03 rn.
+COAST LINE <Bro«d Uaa(»).
+(Third and Townsend Streets.)
+8.10a San Jose and Way SUtlona. 7J0»
+7.00* San Josa and Way Stations...... 8 30»
+/7 00a KewAlaiaden /4.10*
+t7.1SA Monterey and Santa Crtu Excur-
+sion (Sandsy only) tS.XS*
+1410* Coast Line Limited— Stops oaly S«s
+Jo««, Otlroy, Bolllster, Pajaro,
+CajtroTllle. Salinas. San Ardo,
+Paso Robles, Santa Marscirfta,
+Eaa Lull Oblspo. Ouadalop%
+Bart, Lompoc Santa Barbara*
+San BuesaTsatara. Saata Paul*.
+Saagus. Los Angeles. (Connso>
+tion from Saata Crus aad Mon-
+terey) 10.431'
+010 CO a Pacific Coast Express (leaT-s t!a
+Saa Joaquln valley Eastbouad
+aa Crescent City Express).— N«w>
+Orleana. Los Angeles. Santa Bar-
+bara. Pacific Grora. Dal MonM.
+(Arrtrca Tla Coast Lisa West-
+bound).. 1407
+•-80a Saa Jose, Tres Plnos. Ctpltola,
+8antaCr?z.Pac!fle OroTa.Sallnaa,
+Saa Lnts Oblapo and Principal
+Intermedlats Stations M 4.10*
+10.30a San Josa and Way Stations. 1.20*
+11.30 a Ban Josa, Lot Q a tot and Way Star
+Uons B.3OT
+•1.30* Saa Josa and Wsy Stations.. x 7.00V
+2 00* San Josa and Way Stations ....110.00a
+f3. 00* A>el Monte Express— Santa Oara,
+Saa Jose. Gtlroy. Bnllitter. Santa
+Crua. Del Monte. Monterey. Pa*
+clfl c O roTe, Salinas and Principal
+Stations 12-1i>
+tiOr Barllngams. Saa Mateo, Redwood.
+Menlo Park. Palo Alto Mayfleld.
+llouctaln View. Lawrence. Santa
+Clara aad San Jose 8.5Ba
+t4.S0r ffaa Josa. Gliroy and Way S wt!oait10-4aA
+t500* Ban Joss. Los Oatos and Principal
+Way Station t t900A
+45-30* SanJoteandPrlnclpaliyayBtatlons tS-OOa
+tS 15* San Mateo. Belmonc.Beresford.8an
+Carlos. Redwood. Fair Oaka.
+_ __ Menlo Park. Palo Alto t8-4«a
+|^0f Saa Josa and Way Stations. g.3##
+7-flO* Sunset Limited. Eastboand.— Saa
+Lnts Oblipo. Santa Barbara. Lot
+Antales, Deaslnir. El Paso, JTew
+Orleans. New Tork. (Westbound
+•«m *T"esTla8anJc»<joJtjValley)... w8Wa
+II^Sp Saa Jose and Way Stations t>45>
+f *2 r Mor la it- P for Afwraoo*.
+X Saturday and Sunday or.ly
+I Slops at all stattoaa oa Sunday
+t Sunday axcepteJ. t SonJay ooly
+Saturday only
+'Connects at Oostiea Jo. wtth trains for Hanfw*
+vlsalla. At rresao, tar TUall* *U Sau«&
+•Via Coast Line.
+/Tuesday and Friday.
+ArrtTe Tla Nllaa.
+Dally except Saturday
+Via San Joaqntn Valley.
+T Stops Saau Clara aoatii bonud tmtf Com sea
+txeept Baadat. Xor aU aolau K arrow Oaao
+MOUNT TAMALPAIS RAILWAY
+Leave. Via Sausalito Ferry Arrive
+San Fran. Foot of Market St. Saa Fran.
+-'.IT. i:M f -runtwmnTKs- Ulr'.".'ZZ
+2.15 Op*** 11 t— <a<L 300 ...^_a
+UliAIAA UUY— Inn Tmra 9:M rTirnit Jaa Jrudsa lift
+TOUT 1 626 Marjcet St.. (North Shore Railroad)
+•THUS JandSAUSAtTw Ferry. Foot Markets
+WEEK^GAll
+16 Pa£es. SI per Year

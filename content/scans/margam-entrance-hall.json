@@ -1,0 +1,129 @@
+{
+  "id": "margam-entrance-hall",
+  "title": "Margam Castle - Entrance Hall",
+  "place": "The Entrance Hall, Margam Castle, Port Talbot, Wales",
+  "publisher": "Greenhatch-Group (surveyed by Greenhatch Group Ltd for Swansea University)",
+  "sketchfab_url": "https://sketchfab.com/3d-models/margam-castle-entrance-hall-07507e2498d94a58819e2e461b170866",
+  "uid": "07507e2498d94a58819e2e461b170866",
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "credit": "This work is based on \"Margam Castle - Entrance Hall\" (https://sketchfab.com/3d-models/margam-castle-entrance-hall-07507e2498d94a58819e2e461b170866) by Greenhatch-Group (https://sketchfab.com/Greenhatch-Group) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Changes: reoriented and recentred; mesh simplified for the web and recompressed (meshopt); textures resized, colour- and exposure-corrected and recompressed (KTX2); rendered unlit.",
+  "credit_source": "license.txt inside the owner's Sketchfab download (zip pinned by source_sha256): credit wording copied verbatim and re-checked against the zip at every build",
+  "changes": "Changes: reoriented and recentred; mesh simplified for the web and recompressed (meshopt); textures resized, colour- and exposure-corrected and recompressed (KTX2); rendered unlit.",
+  "label": "3D scan of The Entrance Hall, Margam Castle, Port Talbot, Wales (Greenhatch-Group, CC BY 4.0).",
+  "source_file": "margam_castle_-_entrance_hall.zip",
+  "source_sha256": "c3288e534149126e6c88b5578f7f22e87cc74db8ead3830f4c5d2a97aac804ca",
+  "source": {
+    "format": "glTF (Sketchfab-16.16.0)",
+    "textures": 20,
+    "texture_px": 8192,
+    "tris": 999999,
+    "source_tris_capped": true
+  },
+  "transform": {
+    "up": "y",
+    "scale": 1.0,
+    "scale_note": "survey (terrestrial laser scanning) units are metres",
+    "floor_y": 0,
+    "levelled_by_deg": 0.16,
+    "ceiling_m": 9.6,
+    "extent_m": [
+      7.19,
+      10.133
+    ],
+    "root_matrix": [
+      0.999996334,
+      0.002707635,
+      9.09e-07,
+      0.0,
+      -0.002707635,
+      0.999996109,
+      0.000671323,
+      0.0,
+      9.09e-07,
+      -0.000671323,
+      0.999999775,
+      0.0,
+      -0.007296786,
+      4.854697261,
+      0.151303825,
+      1.0
+    ]
+  },
+  "colour": {
+    "method": "partial grey-world white balance (strength 0.2) then gamma on sRGB values toward median luminance 0.42 (gamma clamped to [0.75, 1.15])",
+    "gains_rgb": [
+      0.9791,
+      1.0019,
+      1.0555
+    ],
+    "gamma": 1.15,
+    "median_luminance_before": 0.506,
+    "median_luminance_after": 0.4568
+  },
+  "budgets": {
+    "phone": 5000000,
+    "desktop": 10000000
+  },
+  "tooling": {
+    "gltfpack": "1.3",
+    "basisu": "2.50.0"
+  },
+  "inventory_reviewed": {
+    "source_sha256": "c3288e534149126e6c88b5578f7f22e87cc74db8ead3830f4c5d2a97aac804ca",
+    "date": "2026-10-13",
+    "count": 4,
+    "artworks_sha256": "5ccb8808474c5e0168560b570e4d0483674ca34acb25d0d8fb26038ab6aa7169",
+    "evidence": "docs/research/direction/B11-artwork-clearance.md"
+  },
+  "artworks": [
+    {
+      "label": "Heraldic stained-glass windows",
+      "location": "the two large windows",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": null,
+      "status": "blocked",
+      "evidence_url": "https://britishlistedbuildings.co.uk/300014170-margam-castle-margam",
+      "note": "Cadw listing 14170 records stained glass with figures and heraldic emblems; no maker or date found."
+    },
+    {
+      "label": "Two framed purple-toned prints of a landscape and a house",
+      "location": "walls either side of the fireplace",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": null,
+      "status": "blocked",
+      "evidence_url": null,
+      "note": "Unidentified."
+    },
+    {
+      "label": "Two brass interpretation plaques with text",
+      "location": "walls",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": null,
+      "status": "blocked",
+      "evidence_url": null,
+      "note": "Non-art risk: modern text plaques."
+    },
+    {
+      "label": "Green emergency-exit sign",
+      "location": "by the main door",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": null,
+      "status": "blocked",
+      "evidence_url": null,
+      "note": "Non-art risk: modern signage."
+    }
+  ],
+  "stations": [],
+  "crops": [],
+  "usable": false,
+  "unusable_reason": "Its heraldic stained-glass windows, the room's main feature, have no identified maker or date (the Cadw listing describes the glass but names neither), and the framed prints are unidentified. Masking the windows would leave a bare hall; the source is also outside the plan's approved accounts (Skokloster, Hallwyl, Riksantikvarieambetet)."
+}

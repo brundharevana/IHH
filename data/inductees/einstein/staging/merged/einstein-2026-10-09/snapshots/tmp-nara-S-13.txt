@@ -1,0 +1,143 @@
+title: Letter from Albert Einstein, Chairman of the Emergency Committee of Atomic Scientists
+scopeAndContentNote: In this letter, Albert Einstein wrote on behalf of the Emergency Committee of Atomic Scientists regarding questions, topics, and warnings concerning the use of nuclear or atomic resources as a means for diplomatic or military solutions. Einstein also wrote and included in the correspondence a statement from the Emergency Committee of Atomic Scientists that details the events that the committee deemed pitfalls within the international community regarding the development, use, and defense for and against atomic war.
+levelOfDescription: item
+recordType: description
+subjects[0].heading: International relations
+subjects[0].authorityType: topicalSubject
+subjects[0].naId: 10636478
+subjects[1].heading: Deterrence (Strategy)
+subjects[1].authorityType: topicalSubject
+subjects[1].naId: 10640520
+subjects[2].heading: Nuclear energy
+subjects[2].authorityType: topicalSubject
+subjects[2].naId: 10641714
+subjects[3].heading: Nuclear warfare
+subjects[3].authorityType: topicalSubject
+subjects[3].naId: 10642745
+subjects[4].heading: Peace-building
+subjects[4].authorityType: topicalSubject
+subjects[4].naId: 10676668
+subjects[5].heading: International relations
+subjects[5].authorityType: topicalSubject
+subjects[5].naId: 10636478
+subjects[6].heading: Nuclear energy
+subjects[6].authorityType: topicalSubject
+subjects[6].naId: 10641714
+subjects[7].heading: Nuclear warfare
+subjects[7].authorityType: topicalSubject
+subjects[7].naId: 10642745
+subjects[8].heading: Peaceful uses of nuclear energy
+subjects[8].authorityType: topicalSubject
+subjects[8].naId: 10643520
+subjects[9].heading: Atomic bomb
+subjects[9].authorityType: topicalSubject
+subjects[9].naId: 10637988
+subjects[10].heading: Diplomacy
+subjects[10].authorityType: topicalSubject
+subjects[10].naId: 10638058
+useRestriction.status: Unrestricted
+audiovisual: False
+coverageEndDate.month: 10
+coverageEndDate.year: 1947
+coverageEndDate.day: 11
+coverageEndDate.logicalDate: 1947-10-11
+physicalOccurrences[0].extent: 6 pages
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-3510
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Textual Reference
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-1752
+physicalOccurrences[0].referenceUnits[0].email: Archives2reference@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Loose Sheets
+physicalOccurrences[0].mediaOccurrences[0].physicalRestrictionNote: This item is specially protected and is not available to researchers.
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].mediaOccurrences[0].containerId: 2A
+physicalOccurrences[0].copyStatus: Preservation
+accessRestriction.status: Unrestricted
+coverageStartDate.month: 6
+coverageStartDate.year: 1947
+coverageStartDate.day: 30
+coverageStartDate.logicalDate: 1947-06-30
+dataControlGroup.groupName: National Archives at College Park – Textual Reference
+dataControlGroup.groupId: RRAR
+dataControlGroup.groupCd: RRAR
+generalRecordsTypes[0]: Textual Records
+productionDates[0].month: 10
+productionDates[0].year: 1947
+productionDates[0].day: 11
+productionDates[0].logicalDate: 1947-10-11
+variantControlNumbers[0].number: HD1-64708974
+variantControlNumbers[0].type: HMS Record Entry ID
+variantControlNumbers[1].number: UD 3422
+variantControlNumbers[1].type: Former HMS/MLR Entry Number
+variantControlNumbers[2].note: This is the NARA internal exhibits tracking number.
+variantControlNumbers[2].number: 27281
+variantControlNumbers[2].type: Other Identifier
+variantControlNumbers[3].number: A2 Vault Holdings
+variantControlNumbers[3].type: Search Identifier
+contributors[0].heading: Einstein, Albert, 1879-1955
+contributors[0].deathDate.year: 1955
+contributors[0].deathDate.logicalDate: 1955-12-31
+contributors[0].contributorType: Author
+contributors[0].authorityType: person
+contributors[0].birthDate.year: 1879
+contributors[0].birthDate.logicalDate: 1879-01-01
+contributors[0].naId: 10582637
+digitalObjects[0].objectFilename: 27281-2013-001-ac.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialive/52/8734/7873452/content/arcmedia/dc-metro/rg-084/2646961/27281-2013-001-ac.jpg
+digitalObjects[0].objectFileSize: 9304698
+digitalObjects[0].objectId: 16357278
+digitalObjects[0].objectType: Image (JPG)
+digitalObjects[1].objectFilename: 27281-2013-002-ac.jpg
+digitalObjects[1].objectUrl: https://catalog.archives.gov/medialive/52/8734/7873452/content/arcmedia/dc-metro/rg-084/2646961/27281-2013-002-ac.jpg
+digitalObjects[1].objectFileSize: 7568114
+digitalObjects[1].objectId: 16357279
+digitalObjects[1].objectType: Image (JPG)
+ancestors[0].inclusiveStartDate.year: 1788
+ancestors[0].inclusiveStartDate.logicalDate: 1788-01-01
+ancestors[0].distance: 3
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 84
+ancestors[0].inclusiveEndDate.dateQualifier: ca.
+ancestors[0].inclusiveEndDate.year: 1991
+ancestors[0].inclusiveEndDate.logicalDate: 1991-12-31
+ancestors[0].title: Records of the Foreign Service Posts of the Department of State
+ancestors[0].naId: 413
+ancestors[1].inclusiveStartDate.dateQualifier: ca.
+ancestors[1].inclusiveStartDate.year: 1946
+ancestors[1].inclusiveStartDate.logicalDate: 1946-01-01
+ancestors[1].distance: 2
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of State. U.S. Mission to the United Nations. (04/28/1947 - )
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 4
+ancestors[1].creators[0].establishDate.year: 1947
+ancestors[1].creators[0].establishDate.day: 28
+ancestors[1].creators[0].establishDate.logicalDate: 1947-04-28
+ancestors[1].creators[0].naId: 10488701
+ancestors[1].creators[1].creatorType: Predecessor
+ancestors[1].creators[1].heading: Department of State. Office of Special Political Affairs. Division of International Organization Affairs. (12/20/1944 - 01/21/1948)
+ancestors[1].creators[1].abolishDate.month: 1
+ancestors[1].creators[1].abolishDate.year: 1948
+ancestors[1].creators[1].abolishDate.day: 21
+ancestors[1].creators[1].abolishDate.logicalDate: 1948-01-21
+ancestors[1].creators[1].authorityType: organization
+ancestors[1].creators[1].establishDate.month: 12
+ancestors[1].creators[1].establishDate.year: 1944
+ancestors[1].creators[1].establishDate.day: 20
+ancestors[1].creators[1].establishDate.logicalDate: 1944-12-20
+ancestors[1].creators[1].naId: 10462054
+ancestors[1].inclusiveEndDate.dateQualifier: ca.
+ancestors[1].inclusiveEndDate.year: 1968
+ancestors[1].inclusiveEndDate.logicalDate: 1968-12-31
+ancestors[1].title: Central Subject Files
+ancestors[1].naId: 719150
+ancestors[2].distance: 1
+ancestors[2].levelOfDescription: fileUnit
+ancestors[2].title: Atomic Energy, 1947
+ancestors[2].naId: 2646961
+naId: 7873452

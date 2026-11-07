@@ -1,0 +1,90 @@
+{
+ "toon": {
+  "nearPixels": 142439,
+  "farPixels": 6954235,
+  "meanNear": 0.869,
+  "meanFar": 0.705,
+  "ratio": 1.23,
+  "p99Near": 27.5,
+  "p99Far": 20.3,
+  "fracOver24Near": 0.0124,
+  "fracOver24Far": 0.0084
+ },
+ "lowpoly": {
+  "nearPixels": 142439,
+  "farPixels": 6954235,
+  "meanNear": 0.481,
+  "meanFar": 0.356,
+  "ratio": 1.35,
+  "p99Near": 10.2,
+  "p99Far": 8.3,
+  "fracOver24Near": 0.0066,
+  "fracOver24Far": 0.004
+ },
+ "ref": {
+  "nearPixels": 142439,
+  "farPixels": 6954235,
+  "meanNear": 0.609,
+  "meanFar": 0.472,
+  "ratio": 1.29,
+  "p99Near": 15.3,
+  "p99Far": 10.2,
+  "fracOver24Near": 0.0065,
+  "fracOver24Far": 0.0046
+ },
+ "clay": {
+  "nearPixels": 142439,
+  "farPixels": 6954235,
+  "meanNear": 0.357,
+  "meanFar": 0.256,
+  "ratio": 1.4,
+  "p99Near": 9.9,
+  "p99Far": 5.8,
+  "fracOver24Near": 0.0042,
+  "fracOver24Far": 0.0022
+ },
+ "duotone": {
+  "nearPixels": 142439,
+  "farPixels": 6954235,
+  "meanNear": 0.289,
+  "meanFar": 0.246,
+  "ratio": 1.17,
+  "p99Near": 0.1,
+  "p99Far": 0.2,
+  "fracOver24Near": 0.0057,
+  "fracOver24Far": 0.0046
+ },
+ "toonSobelClamped": {
+  "nearPixels": 142439,
+  "farPixels": 6954235,
+  "meanNear": 3.473,
+  "meanFar": 2.77,
+  "ratio": 1.25,
+  "p99Near": 130.7,
+  "p99Far": 112.7,
+  "fracOver24Near": 0.0329,
+  "fracOver24Far": 0.0255
+ },
+ "toonSobelUnclamped": {
+  "nearPixels": 142439,
+  "farPixels": 6954235,
+  "meanNear": 3.102,
+  "meanFar": 2.77,
+  "ratio": 1.12,
+  "p99Near": 118.7,
+  "p99Far": 112.7,
+  "fracOver24Near": 0.03,
+  "fracOver24Far": 0.0255
+ },
+ "toonNoOutline": {
+  "nearPixels": 142439,
+  "farPixels": 6954235,
+  "meanNear": 0.493,
+  "meanFar": 0.389,
+  "ratio": 1.27,
+  "p99Near": 12,
+  "p99Far": 9.5,
+  "fracOver24Near": 0.0065,
+  "fracOver24Far": 0.0043
+ }
+}

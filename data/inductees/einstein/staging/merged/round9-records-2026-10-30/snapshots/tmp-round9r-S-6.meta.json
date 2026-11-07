@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn92070146/1940-10-01/ed-1/?sp=1",
+  "fetch_url": "https://www.loc.gov/resource/sn92070146/1940-10-01/ed-1/?sp=1&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T19:05:12Z",
+  "sha256": "361dd40ed7e2af38c0c43554079c33968768f78085c0e6b248601c685c117678",
+  "bytes": 34725,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn92070146/1940-10-01/ed-1/?sp=1&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188898/1940100101/0375.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188898/1940100101/0375.xml"
+}

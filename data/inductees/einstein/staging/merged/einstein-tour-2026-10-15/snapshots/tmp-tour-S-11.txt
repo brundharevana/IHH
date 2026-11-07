@@ -1,0 +1,882 @@
+_version_: 1773628170467016704
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn84026749/1933-10-17/ed-1/
+aka[1]: http://www.loc.gov/resource/sn84026749/1933-10-17/ed-1/
+batch[0]: dlc_deanwood_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json&st=text
+created_published[0]: Washington [D.C.], October 17, 1933
+date: 1933-10-17
+date_issued: 1933-10-17
+dates[0].1933-10-17: https://www.loc.gov/search/?dates=1933-10-17/1933-10-17&fo=json&st=text
+dates_of_publication: 1902-1939
+description[0]: Washington [D.C.]
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-08-07T20:30:44.798Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101701/1933101701_1.xml#ndnp/dlc-2020_now
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2020_now
+group[1]: library-of-congress-washington-dc-awardee-8
+hassegments: true
+id: http://www.loc.gov/item/sn84026749/1933-10-17/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:0020569657A:1933101701:1195/full/pct:3.125/0/default.jpg#h=302&w=238
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:0020569657A:1933101701:1195/full/pct:6.25/0/default.jpg#h=604&w=477
+index: 1
+item.batch[0]: dlc_deanwood_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington [D.C.], October 17, 1933
+item.date: 1902
+item.date_issued: 1933-10-17
+item.dates[0]: 1933-10-17
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn84026749
+item.location[0]: Washington (D.C.)
+item.medium: 26 pages
+item.newspaper_title[0]: The Washington times
+item.notes[0]: Daily (except Sunday), -Nov. 18, 1922; Apr. 16, 1923-Jan. 31, 1939
+item.notes[1]: No. 3094 (Dec. 1, 1902)-no. 17956 (Jan. 31, 1939)
+item.notes[2]: Extra edition issued Nov. 7, 1918 for the end of World War I.
+item.notes[3]: On Sunday published as: Washington times-herald, Nov. 19, 1922-Apr. 15, 1923.
+item.notes[4]: Also issued on microfilm from the Library of Congress, Photoduplication Service.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling American online collection.
+item.notes[6]: Washington herald (Washington, D.C.) 1941-0662 (DLC)sn 83045433 (OCoLC)9470809
+item.notes[7]: Times herald (Washington, D.C.) (DLC)sn 85040694 (OCoLC)12270503
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101701/1933101701_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn84026749/marcxml
+item.other_title[0]: Washington times herald
+item.place_of_publication: Washington [D.C.]
+item.raw_lccn: sn 84026749
+item.reel_numbers[0]: 0020569657a
+item.source_group: ndnp/dlc-2020_now
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: The Washington times (Washington [D.C.]), October 17, 1933
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn84026749
+location[0]: washington d.c.
+location[1]: united states
+location[2]: washington
+location[3]: district of columbia
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json&st=text
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json&st=text
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json&st=text
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json&st=text
+medium: 26 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Washington times
+notes[0]: Daily (except Sunday), -Nov. 18, 1922; Apr. 16, 1923-Jan. 31, 1939
+notes[1]: No. 3094 (Dec. 1, 1902)-no. 17956 (Jan. 31, 1939)
+notes[2]: Extra edition issued Nov. 7, 1918 for the end of World War I.
+notes[3]: On Sunday published as: Washington times-herald, Nov. 19, 1922-Apr. 15, 1923.
+notes[4]: Also issued on microfilm from the Library of Congress, Photoduplication Service.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling American online collection.
+notes[6]: Washington herald (Washington, D.C.) 1941-0662 (DLC)sn 83045433 (OCoLC)9470809
+notes[7]: Times herald (Washington, D.C.) (DLC)sn 85040694 (OCoLC)12270503
+number[0]: sn84026749
+number[1]: 0020569657a
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn84026749
+number_reel[0]: 0020569657a
+numeric_shelf_id: 193310171
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101701/1933101701_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn84026749/marcxml
+other_title[0]: Washington times herald
+partof[0].count: 12344
+partof[0].title: the washington times (washington [d.c.]) 1902-1939
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+washington+times+%28washington+%5Bd.c.%5D%29+1902-1939&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the washington times (washington [d.c.]) 1902-1939
+place_of_publication: Washington [D.C.]
+publication_frequency[0]: daily
+raw_lccn: sn 84026749
+reel_numbers[0]: 0020569657a
+resources[0].files: 26
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:0020569657A:1933101701:1195/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn84026749/1933-10-17/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn84026749, 1933-10-17, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2020_now
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: united states
+subject[1]: washington (d.c.)
+subject[2]: washington
+subject[3]: district of columbia
+subject[4]: newspapers
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json&st=text
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json&st=text
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json&st=text
+timestamp: 2023-08-08T03:00:02.565Z
+title: The Washington times (Washington [D.C.]), October 17, 1933
+type[0]: issue
+url: https://www.loc.gov/item/sn84026749/1933-10-17/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101701/1195.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn84026749/1933-10-17/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:0020569657A:1933101701:1195/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101701/1195.pdf
+resources[0].segment_count: 26
+resources[0].url: https://www.loc.gov/resource/sn84026749/1933-10-17/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1933, October 17) The Washington times. Retrieved from the Library of Congress, https://www.loc.gov/item/sn84026749/1933-10-17/ed-1/.
+cite_this.chicago: The Washington times. (Washington, DC), Oct. 17 1933. https://www.loc.gov/item/sn84026749/1933-10-17/ed-1/.
+cite_this.mla: The Washington times. (Washington, DC) 17 Oct. 1933, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn84026749/1933-10-17/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101701/1195.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101701/1195.xml&format=alto_xml&full_text=1
+full_text:
+CHASE PAYS WIGGIN SIOO,OOO A YEAR FOR LIFE
+WEATHER
+WEATHER
+Fair and cooler tonight; Wedneiday partly
+eloudy; moderate weit winds.
+Temperature yesterday—Highest, 76; lowest,
+43. (1932 —Highest, 68; lowest, 57.)
+Humidity yesterday—Highest, 93; lowest, 55.
+Full weather report on Page 24.
+Tns Washington Times Is the jnly afternoon paper In
+this city publishing the news dispatches of Inter
+national News Service and Universal Service.
+ARMS EQUALITY OR NO PARLEY. SAYS BERLIN
+Missing Papers Block Ship Lobby Probe
+ON LETTER
+DENIED
+Ex-Secretary Cannot Recall
+Asking SIOO,OOO Fee
+From Ship Official
+on Page 6)
+By International News Service
+Missing papers and uncer
+tain memories of witnesses to
+day handicapped a Senate in
+vestigation into the SIOO,OOO
+lobbyist fee sought by the
+American Farm Bureau Fed
+eration from the American
+Steamship Owners Association.
+M. s. Winder, of Chicago, ex
+secretary of the federation, told
+the investigating committee his
+files now contain only two or
+three letters bearing on the sen
+sational SIOO,OOO offer, explain
+ing:
+“We destroy alt papers
+they are two years old. O 8t x
+correspondence with shipping
+interests was closed in May,
+1931.”
+REPUDIATES SIGNATURE
+Winder repudiated the signa
+ture on a 20 page letter to H. B.
+Walker, president of the Ship
+Owners Association, outlining in
+great detail the federation’s suc
+cess in lobbying for electric,
+cement, fertiliser and automobile
+Interests. He asserted:
+“I’m not trying to stall, but
+.the signature obviously isn’t
+mine. I do not recall the letter,
+though it probably was regularly
+authorized.”
+S. E. Van Patten, former man
+ager of the sales and educational
+program of the federation, ad
+mitted that he helped prepare the
+letter.
+Senator McCarran (D.) of Ne
+vada asked:
+“Did Winder approve and
+Sign it?”
+“Oh, »es; he helped prepare
+It and he signed it.”
+Most Powerful Lobby
+Van Patten denied he wrote the
+assertion contained in the letter
+that the federation had “the big
+gest and most powerful lobby in
+Washington.”
+The letter, first produced dur
+ing the committee’s inquiry into
+the Black Diamond Steamship
+lines, was written late in 1930,
+The hearing was enlivened by a
+tilt btween Senator White (R.)
+of Maine, and Senator Black (D.)
+(Continued on Page 2, Col. 3)
+Injured Back Better,
+Mrs. Moody Walks
+SAN FRANCISCO, Oct. 17
+(I.N.S.).—Still resting quietly at
+her husband’s fashionable apart
+ment here, Mrs. Helen Wills
+Moody today was able to walk
+■without undue strain on her in
+jured back, which kept the famed
+tennis star confined in a hos
+pital for several weeks. Mrs.
+Moody wrenched her back early
+this year and the injury became
+so aggravated during her match
+■with Helen Jacobs for the na
+tional tennis singles champion
+ship at Forest Hills that the
+former tennis queen was compelled
+to default.
+Jean Harlow Better;
+Quits Hospital Soon
+HOLLYWOOD, Oct. 17 (1.N.5.).
+Jean Harlow, platinum blonde
+film star, will leave the hospital
+November 1. And she’ll take a
+honeymoon trip to Hawaii with
+her new husband. Harold G.
+Besson, film cameraman. Those
+were her plans today as hospital
+attendants announced she was
+making rapid recovery from an
+emergency operation for appendi
+citis.
+I Tom Thorp, Gridiron Official, Explains Football Rule Violations in Sport Section Today
+WAS HTNGId N TI ME S
+W» oo ou» um
+Dr. Einstein
+Slips Into
+New York
+NEW YORK, Oct. 17 (1.N.5.).
+Prof. Albert Einstein stepped on
+these shores for the third time to
+day, but he arrived silently, al
+most mysteriously, ’without fan
+fare, without parades and ticker
+tapes.
+Instead, he and his crowd-fear
+ing wife were whisked from their
+liner to a tug, landed at the bat
+tery and rushed away to the
+privacy of a hotel, even the name
+of which was not revealed.
+No interviews, no greetings.
+Only smiles from the professor
+and started little glances from
+1 Mrs. Einstein for the crowds that
+lined the rail of the Westemland
+to see them disembark.
+Accompanying the Einsteins
+were Prof. Walther Mayer, Ein
+stein’s assistant, and Eileen Du
+kas, Mrs. Einstein’s secretary.
+When the Westernland reached
+her pier, there were three persons
+j riting there for the Einsteins.
+Dr. Paul Schwartz, former Ger
+man consul, and two cousins,
+Norman and Morton Muller. They
+had not been Informed of the
+change in plans.
+jl Within a few days Einstein will
+go to Princeton University to as
+sume the professorship of mathe
+matics at the Institute for Ad
+vanced Study.
+2 GIRLS TO TFY
+FOO AIO MARK
+NEW YORK, Oct. 17 (I.N.S.L
+Two plucky girl fliers, Viola
+Gentry and Mary Sansom, will
+take their big monoplane “Out
+door Girl” aloft here tomorrow or
+Thursday in an attempt for a
+new refueling endurance record.
+Miss Gentry said today:
+“I spent a year in the hos
+pital for this record and I’m
+anxious to make it.”
+She will always have. a stiff
+right arm and a scarred forehead
+as reminders of her 1929 attempt
+for a record flight. She was in
+jured and Jack Ashcroft, co-pilot,
+was killed when their plane
+crashed.
+Miss Sansom, slender Hartford,
+Conn., blonde, is holder of a
+woman’s loop record and is a
+transport pilot with 468 hours in
+the air.
+The girls plan to take three
+hour turns at the wheel. They
+said they would drink two bot
+tles of beer daily.
+The present endurance record
+for women is 8 days 4 hours and
+20 minutes, made last year.
+Macon at Coast Base
+Waiting for Orders
+SUNNYVALE, Cal., Oct. 17 (I.
+N.S.).—Commander A. H. Dresel,
+of the U. S. Navy’s dirigible
+Macon, awaited orders here today
+at the $5,000,000 Sunnyvale air
+base, new home of the aircraft,
+which completed a 3,000-mile trip
+Sunday from Lakehurst, N. J.
+Suburban Home
+FOR RENT
+$35
+n*r« is a moderately
+priced home for the
+family with children.
+Kocated in the Takoma
+Park section con-'
+venient to schools,
+stores and transporta
+tion. it contains six
+rooms and bath, with a
+detached garage. See
+added facts of interest
+in today’s—
+Want Ads
+NO. 16,293
+9 HOSPITALS
+PLAN GROUP
+WORK DEC. I
+Joseph H. Himes Announces
+Inauguration of Care to
+Help “Average Man”
+Group Hospitalization in
+Washington will become a
+reality by December 1, it was
+predicted today by Joseph H.
+Himes, capitalist, chairman of
+the movement.
+Nine hospitals in the District
+have formally indorsed the plan,
+which was proposed at a meeting
+of representative business men
+here last July, he announced to
+day.
+The hospitals are the Central
+Dispensary and Emergency Hos
+pital, Columbia Hospital for
+Women, Episcopal Eye, Ear and
+Throat Hospital, Garfield Me
+morial Hospital, National Homeo
+pathic Hospital, Providence Hos
+pital. George Washington Univer
+sity Hospital, Georgetown Hospi
+tal and S’ jley Memorial Hospital.
+Mixed Committee
+A committee of nine members
+will be appointed immediately to
+incorporate the plan and start
+operation, he announced. The\
+committee will include at least
+one member closely associated
+with the hospitals, one with the
+employer group, at least one out
+standing physician and surgeon in
+Washington, and the remainder
+representative business men of the
+Capital. He said:
+“I will announce the com
+mittee before the end of the
+week:”
+Group hospitalization, as ex-.
+plained by Mr. Himes, is for the 1
+“average working man.” It will
+afford employed persons, who
+subscribe a sum tentatively set
+at $9 a year, three weeks of hos
+pital care in any one of the nine
+hospitals which have indorsed the
+plan.
+What You Can Get
+Additional hospital care in ex
+cess to the stiuplated three weeks,
+will be furnished to the subscrib
+er at a discount of 25 per cent
+from the regular charges, he de
+clared. When admitted to a hos
+pital, the subscriber will be en
+titled to occupy semiprivate
+room, receive the general care of
+nurses, use of the operating room,
+surgical dressings, ordinary medi
+cations, routine laboratory ex
+aminations and board.
+E. J. Henryson, secretary to the
+health division of the Community
+Chest, has been tentatively select
+ed as secretary by Mr. Himes for
+the hospitalization plan.
+Employers throughout the city
+will be approached on the plan as
+soon as the committee is named.
+Himes said.
+Khaki Shirts' Head
+Faces Fraud Hearing
+PHILADELPHIA, Oct. 17 (I.N.
+S.).—“Mugged” and fingerprinted
+by police, Art J. Smith, com
+mander in chief of the beleaguered
+Khaki Shirts of America, was to
+be given a hearing before a mag
+istrate on a fraudulent conver
+sion charge today. Smith was
+surrendered to police yesterday
+by his attorney and was served
+with a warrant charging that he
+removed furniture not his prop
+erty from the Khaki Shirt head
+quarters.
+Bombing and Strike
+Shuts Havana Store
+HAVANA, Oct. 17 (I.N.S.).—A
+bomb explosion and a strike
+among employes closed the Wool
+worth store in Havana today.
+Government officials declared
+the incidents were perpetrated by
+oppositionists and aimed at em
+barrassing the de factor admin- i
+istration. I
+-<1 m Second Clan Matter
+totftce of Washington, D. C.
+MACON OVER FRISCO
+IF'" /W
+M
+MMotf*
+fill ?fi W
+UP v l
+IBfh 1 HF
+t!
+IIWMmbWI f
+U
+MACON OVER SAN FRANCISCO
+THE NEW Navy dirigible, Macon, is shown flying
+over San Francisco en route to Sunnyvale, Cal., her
+base. Photo by International News Photographic
+Service.
+11. 5. FARM UNIT
+biking wheat
+Br International News Service
+The Farm Credit Administra
+tion, through the Farmers Na
+tional Grain Corporation, is en
+gaged in buying “a substantial
+amount” of wheat, both cash and
+futures, in the grain exchanges of
+the country, it was announced to
+day.
+The purchases are being made
+for the Federal Emergency Relief
+Corporation, and will be converted
+into flour for the needy.
+The exact amount of the Gov
+ernment purchases was not made
+known.
+Dollar Fluctuates
+On London Exchange
+LONDON, Oct. 17 (1.N.5.).
+Continuing to fluctuate, the
+American dollar opened at $4.56
+to the pound sterling on the
+London exchange today after
+closing at $4.52. Shortly after 11
+a. m.. the dollar hit $4.53 to the
+I pound. The pound opened at
+1 80 1 francs on Paris.
+TUESDAY, OCTOBER 17, 1933
+GRAIN END ARGO
+SEEN WIDENED
+BISMARCK, N. D., Oct. 17
+(I.N.S.).—An embargo proclaimed
+by Gov. William Langer prohi
+biting the shipment of wheat
+from North Dakota indefinitely
+was filed today with the Secre
+tary of State.
+The* embargo will go into effect
+at midnight tomorrow in Amer
+ica’s largest wheat producing
+State. Governors of other spring
+wheat producing States will be
+asked to join in the movement.
+Governor Langer announced.
+The governor announced that
+he had issued the proclamation
+to restore to the farmers “a buy
+ing power with which to main
+tain livelihood” in the face of
+falling grain prices.
+He took action after discussing
+the move with Secretary of Agri
+culture Henry A. Wallace. If
+necessary the governor can sum
+mon the State militia to enforce
+the embargo.
+w"ek U D> y THREE CENTS
+WIGGIN GETS
+SIOO,OOOO
+A YEAR
+Big Annuity for Life Is Price
+of His “Advice” to Chase,
+Probers Are Told
+By International News Service
+A life payment of SIOO,OOO
+a year is being made to Albert
+H. Wiggin, former chairman
+of the Chase National Bank,
+by that institution, it was re
+vealed today at the Senate
+banking inquiry.
+With Wiggin on the witness
+stand, Ferdinand Pecora, special
+Senate counsel, produced a reso
+lution adopted by the bank’s board
+of directors, authorizing the an
+nuity in Dectmber, 1932.
+The directors voted the retired
+pay to Wiggin to “discharge in
+some measure the obligations of
+the bank io him and in anticipa
+tion-h»<wtf( always he ft|-enareri to
+assist uswfth his'advice?’
+Payments Made
+Pecora asked Wiggin whether he
+had received the salary up to date.
+Wiggin nodded affirmatively.
+“Have you extended any ad
+vice to officers of the bank since
+this resolution was adopted?”
+“I wasn’t consulted.”
+Asked whether he had rendered
+any service, Wiggin said:
+“I have helped to retain de
+positors, and officers of the
+bank have consulted me fre
+quently about credit.”
+Pecora pointed out it was to
+the retired banker’s interest to
+retain depositors, because of his
+stock holdings in the bank. Wig
+gin admitted this.
+Companies Separated
+A little earlier Wiggin revealed
+the bank directors, under Win
+throp W. Aldrich, had divorced
+the bank from the investment
+banking business in March, 1933,
+without consulting him. It was
+apparent Wiggin and Aldrich were
+divided upon this issue.
+Pecora pressed the retired
+banker for an explanation of his
+huge salary. Wiggin told of going
+to Europe for the bank to see
+“about the German loan.” He
+went once at the “time of the
+Hoover moratorium in July, 1930,”
+and several times since.
+Wiggin said American banks
+held between $400,000,000 and
+$500,000,000 of the German loan
+at the time of the moratorium.
+The debt originally totalled about
+$800,000,000.
+“How much does the Chase
+Bank hold?”
+“It held $25,000,000 origi
+nally, but, when it merged with
+the Equitable Trust, the Equit
+able had $64,000,000 of it. Now
+(Continued on Page 2, Col. 4)
+American Follower
+Os Gandhi Vanishes
+LONDON. Oct. 17 (1.N.5.).—
+Indian followers of Mahatma
+Gandhi, leader of the untouch
+ables, were mystified today by the
+“disappearance” of Nila Cram
+Cook, Gandhi’s American-born
+convert, a Bombay dispatch to the
+London Daily Herald stated. The
+dispatch said she was last seen in
+Delhi, barefoot and with shaven
+head. It was believed she was
+making a voluntary penitential
+tour of India.
+Pay Rolls on Coast
+Show Notable Rise
+SAN FRANCISCO, Oct. 17 (I.N.
+S.).—Marked increases in state
+wide employment and payrolls
+were noted today by Frank C.
+MacDonald, State Labor Com
+missioner. In the past month,
+employment increased 35.8 per
+cent over September, 1932, Mac-
+Donald said.
+Nazis Jailed
+For Hitting
+American
+BERLIN, Oct. 17 (I.N.S.).—Two
+assailants of Roland Velz, Amer
+ican citizen who was assaulted by
+Nazi storm troopers, were sent
+enced today to six months in jail.
+The sentence of each stated that
+they “acted with justifiable indig
+nation against an unknown per
+son, only later revealed to be an
+American."
+Shortly after the sentences were
+announced, Premier Hermann
+Wilhelm Goering of Prussia is
+sued orders to all authorities to
+pursue all cases of molestation of
+foreigners with utmost energy and
+to protect foreigners in every way.
+When police interference
+against foreigners is necessary,
+the case should be handled with
+special caution and politeness, he
+ruled, and advised the authorities
+to collaborate with Storm Troop
+leaders to avoid incidents. He
+said:
+“It is the self-understood duty
+of every genuine National So
+cialist to safeguard the rights
+of hospitality.”
+MY 5 RED
+FOR PAYING
+Suit for $12,352 was instituted
+by the District government today
+against the Mt. Vernon, -Alexan
+dria and Washington Railway
+Company, in District Supreme
+Court, for paving work which the
+municipality performed during
+the last few years.
+Through Corporation Counsel
+William W. Bride and his assis
+tant, Francis H. Stephens, the
+court was informed that under
+provisions of a law the munici
+pality may pave streets occupied
+by car tracks when necessary
+and issue certificates of indebted
+ness against the transit corpora
+tion.
+The suit related that streets
+in the vicinity of Fourteenth
+and Water Streets Southwest
+and the Highway Bridge ap
+proach, occupied by the defend
+ant’s car tracks, were paved with
+in the last few years.
+The railway corporation no
+longer operates street cars with
+in the District, its terminal and
+tracks having been swallowed up
+in the Federal building program.
+Chevrolet Power
+Plant Is Dynamited
+FLINT, Mich., Oct. 17 (1.N.5.).
+An attempt to dynamite No. 6
+power plant of the Chevrolet Mo
+tor Car Company here was under
+investigation by police today. Two
+sticks of dynamite exploded in the
+transformer room of the plant
+yesterday, company officials ad
+mitted. The explosion caused lit
+tle damage.
+Vatican City Blast
+Brings Arrest of 3
+VATICAN CITY, Oct. 17
+(I.N.S.).—Three persons were ar
+rested today in connection with
+explosion of a bomb in an ante
+room of St. Peter’s Cathedral in
+June. The bomb exploded while
+a large number of pilgrims were
+visiting the historic edifice.
+Several were injured.
+C. S. Powers Weds
+Helen Eller in N. Y.
+NEW YORK, Oct. 17.—Claude
+Street Powers, 25, of 4910 Fourth
+St. N. W., Washington, obtained
+a license here and was married to
+Helen Eller, 28, of Alexandria,
+Va„ at the Little Church Around
+the Corner, it was learned today.
+Powers gave his occupation as
+a receiving clerk. He was bom
+in Luenberg, Va. Miss Eller is
+a nurse.
+WARRANT?FOR HOARDERS
+SAN FRANCISCO, Oct. 17
+(I.N.S.).—While Federal authori
+ties here today awaited word from
+Attorney General Homer S. Cum
+mings as to procedure in gold
+hoarding charges against Mrs. E.
+L. Martin, wife of a wealthy vine
+yardist, 10 new Federal warrants
+were issued charging Bay region
+persons with hoarding $70,000.
+FINAL
+IfßiTmir
+DUCE ACTS
+TO BLOCK
+WEAPON
+RACE
+Nations Look to Mussolini and
+4-Power-Pact in Crisis As
+U. S. Holds Aloof
+By Internntlonal News Service
+Germany stood pat today on
+her withdrawal from the
+Geneva disarmament confer
+ence and the League of Na
+tions while the nations of
+Europe, the United States re
+maining outside the political
+discussions, consulted on their
+future course.
+Reliable information from Ber
+lin said the Hitler government
+would not resume disarmament
+discussions unless its demand for
+arms equality was guaranteed in
+advance, and gave no encourage
+ment to .those -.who believe Ger
+many may return to tWfe league.
+Delegates remaining at Geneva
+looked to Premier Mussolini, of
+Italy, to break the deadlock,
+opinion being expressed that II
+Duce may choose to invoke his
+four-power pact to forestall an
+armament race.
+Opening the French Chamber
+of Deputies, Premier Edouard
+Daladier departed from his set
+speech to urge upon parliament
+a policy of moderation in dealing
+with the crisis, recommending
+postponement of debate on the
+arms issue until governmental fi
+nance problems have been dealt
+with.
+He issued a challenge to Ger
+many, however, demanding to
+know why she “shrinks from ac
+cepting” the disarmament plan
+proposed by France.
+Meanwhile, Foreign Secretary
+Sir John Simon, of Britain, and
+Foreign Minister Neurath, of Ger
+many, clashed on a question of
+veracity. Sir John sharply denied
+Von Neurath’s charge that Brit
+ain’s assertion that Germany
+had suddenly stiffened her arms
+demands just before her with
+drawal was “entirely inaccurate.”
+Nations Look to Duce
+To Balk Arms Race
+GENEVA, Oct. 17 (1.N.5.) .—The
+nations of the world today looked
+to Premier Mussolini to break the
+deadlock in the disarmament
+negotiations.
+With the conference adjourned
+temporarily following Germany’s
+withdrawal, Germany in angry
+mood, and the United States re
+fraining from political discussions,
+efforts at world disarmament ap
+peared virtually at a standstill
+until after the coming Reich elec
+tions.
+Sees U. S. “Retiring”
+Diplomats here believed Musso
+lini alone may decide upon the
+next disarmament move, since he
+is now reported to be of the opin
+ion that the United States is grad
+ually retiring from the disarma
+ment conference.
+According to reliable advices
+here, the Italian dictator, known
+(Continued on Page 2, Col. I.)
+In The Times Today
+Page
+Amusements 18
+“Around the Capital". 13
+Comics 12,13
+Death Net" 24
+Fashion ..ews 10,12
+Financial News 22, 23
+Music News 7
+Radio 24
+Seldes’ “True to Type” Local
+Serial 13
+Society 8
+Sports 19-21
+What’s Doing 24
+Woman’s Page 10

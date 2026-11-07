@@ -1,0 +1,207 @@
+{
+  "$comment": "Walkable bounds for free roam in albright-oval-office-1993.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 5.6,
+  "walkable": {
+    "x_min": -2.9,
+    "x_max": 2.9,
+    "z_min": -3.7,
+    "z_max": 3.7
+  },
+  "obstacles": [
+    {
+      "name": "artifact_desk",
+      "x_min": -1.07,
+      "x_max": 1.07,
+      "z_min": -3.95,
+      "z_max": -2.55
+    },
+    {
+      "name": "desk_chair",
+      "x_min": -0.5,
+      "x_max": 0.5,
+      "z_min": -4.43,
+      "z_max": -3.51
+    },
+    {
+      "name": "cane_chair_l",
+      "x_min": -1.444,
+      "x_max": -0.45,
+      "z_min": -2.637,
+      "z_max": -1.682
+    },
+    {
+      "name": "cane_chair_r",
+      "x_min": 0.45,
+      "x_max": 1.444,
+      "z_min": -2.637,
+      "z_max": -1.682
+    },
+    {
+      "name": "artifact_flag_us",
+      "x_min": -1.328,
+      "x_max": -0.533,
+      "z_min": -5.108,
+      "z_max": -4.368
+    },
+    {
+      "name": "artifact_flag_presidential",
+      "x_min": 0.588,
+      "x_max": 1.328,
+      "z_min": -5.108,
+      "z_max": -4.368
+    },
+    {
+      "name": "sofa_e",
+      "x_min": 0.68,
+      "x_max": 1.92,
+      "z_min": -0.285,
+      "z_max": 2.185
+    },
+    {
+      "name": "sofa_w",
+      "x_min": -1.92,
+      "x_max": -0.68,
+      "z_min": -0.285,
+      "z_max": 2.185
+    },
+    {
+      "name": "coffee_table",
+      "x_min": -0.46,
+      "x_max": 0.46,
+      "z_min": 0.175,
+      "z_max": 1.725
+    },
+    {
+      "name": "artifact_wing_chair_e",
+      "x_min": 0.328,
+      "x_max": 1.65,
+      "z_min": 3.108,
+      "z_max": 4.416
+    },
+    {
+      "name": "artifact_wing_chair_w",
+      "x_min": -1.65,
+      "x_max": -0.328,
+      "z_min": 3.108,
+      "z_max": 4.416
+    },
+    {
+      "name": "end_table_-1",
+      "x_min": -2.25,
+      "x_max": -1.45,
+      "z_min": 3.64,
+      "z_max": 4.36
+    },
+    {
+      "name": "end_table_1",
+      "x_min": 1.45,
+      "x_max": 2.25,
+      "z_min": 3.64,
+      "z_max": 4.36
+    },
+    {
+      "name": "lamp_table_-1",
+      "x_min": -1.725,
+      "x_max": -0.875,
+      "z_min": 2.075,
+      "z_max": 2.825
+    },
+    {
+      "name": "lamp_table_1",
+      "x_min": 0.875,
+      "x_max": 1.725,
+      "z_min": 2.075,
+      "z_max": 2.825
+    },
+    {
+      "name": "palm_48_pot",
+      "x_min": 2.023,
+      "x_max": 2.923,
+      "z_min": -3.852,
+      "z_max": -2.952
+    },
+    {
+      "name": "palm_132_pot",
+      "x_min": -2.923,
+      "x_max": -2.023,
+      "z_min": -3.852,
+      "z_max": -2.952
+    },
+    {
+      "name": "artifact_console_east",
+      "x_min": 3.07,
+      "x_max": 4.4,
+      "z_min": -3.15,
+      "z_max": -1.266
+    },
+    {
+      "name": "chest_west",
+      "x_min": -4.105,
+      "x_max": -2.797,
+      "z_min": -3.623,
+      "z_max": -2.063
+    },
+    {
+      "name": "bust_pedestal",
+      "x_min": 1.529,
+      "x_max": 2.327,
+      "z_min": 4.204,
+      "z_max": 5.003
+    },
+    {
+      "name": "artifact_mantel",
+      "x_min": -1.375,
+      "x_max": 1.375,
+      "z_min": 4.625,
+      "z_max": 5.6
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": -0.35,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -5.0
+      },
+      "note": "From the sofas towards the window bay, the desk and the flags (frame 16's view)"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 0.0,
+      "z": 2.2,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": 5.4
+      },
+      "note": "Facing the fireplace, the wing chairs either side (frames 19-24)"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 2.2,
+      "z": -2.0,
+      "look_at": {
+        "x": -4.4,
+        "y": 1.5,
+        "z": -1.6
+      },
+      "note": "Beside the desk, facing the west door under its shell overdoor (frame 13's view)"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -2.1,
+      "z": -0.6,
+      "look_at": {
+        "x": 3.1,
+        "y": 1.5,
+        "z": 3.85
+      },
+      "note": "Across the room to the shelved niche and the mantel"
+    }
+  ]
+}

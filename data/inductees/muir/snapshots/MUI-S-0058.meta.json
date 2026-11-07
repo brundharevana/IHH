@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/219777101",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=219777101",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:50Z",
+  "sha256": "e865610bb9709fdc810af1ea903e46d81ed96a7b6a7a2e3e808eea743e4b06df",
+  "bytes": 2684,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=219777101"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://places.ku.edu/buildings/robinson-center",
+  "fetch_url": "https://places.ku.edu/buildings/robinson-center",
+  "method": "http",
+  "fetched_at": "2026-10-15T04:02:25Z",
+  "sha256": "77b62131f557a08a8de00ba9a29c17a350ea199be655057c8c8ee56fe62c3a39",
+  "bytes": 3536,
+  "http_status": 200,
+  "final_url": "https://places.ku.edu/buildings/robinson-center"
+}

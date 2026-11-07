@@ -1,0 +1,10 @@
+{
+  "url": "https://www.fiba.basketball/en/news/fcom-about-fiba-quick-facts",
+  "fetch_url": "https://www.fiba.basketball/en/news/fcom-about-fiba-quick-facts",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:16:18Z",
+  "sha256": "62c7ff20816c272413663b91639573f34532d2fd13c30510f295d828d9b3434e",
+  "bytes": 4243,
+  "http_status": 200,
+  "final_url": "https://www.fiba.basketball/en/news/fcom-about-fiba-quick-facts"
+}

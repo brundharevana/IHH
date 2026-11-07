@@ -1,0 +1,9 @@
+{
+  "url": "https://patents.google.com/patent/US2292387A/en",
+  "fetch_url": "https://patents.google.com/patent/US2292387A/en",
+  "method": "http",
+  "fetched_at": "2026-10-08T22:30:14Z",
+  "sha256": "7188234894215cbb650137a3092f7cdb203b5d1d3361efec939cd155f33d2ea7",
+  "bytes": 81933,
+  "http_status": 200
+}

@@ -1,0 +1,677 @@
+_version_: 1773621146296516608
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045462/1953-04-10/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045462/1953-04-10/ed-1/
+batch[0]: dlc_carmen_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json
+created_published[0]: Washington, D.C., April 10, 1953
+date: 1953-04-10
+date_issued: 1953-04-10
+dates[0].1953-04-10: https://www.loc.gov/search/?dates=1953-04-10/1953-04-10&fo=json
+dates_of_publication: 1854-1972
+description[0]: Washington, D.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-08-07T20:30:18.569Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_carmen_ver01/data/sn83045462/00280606145/1953041001/1953041001_1.xml#ndnp/dlc-2020_now
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2020_now
+group[1]: library-of-congress-washington-dc-awardee-8
+hassegments: true
+id: http://www.loc.gov/item/sn83045462/1953-04-10/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmen_ver01:data:sn83045462:00280606145:1953041001:0637/full/pct:3.125/0/default.jpg#h=272&w=191
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmen_ver01:data:sn83045462:00280606145:1953041001:0637/full/pct:6.25/0/default.jpg#h=544&w=383
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmen_ver01:data:sn83045462:00280606145:1953041001:0637/full/pct:12.5/0/default.jpg#h=1089&w=766
+index: 6
+item.batch[0]: dlc_carmen_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington, D.C., April 10, 1953
+item.date: 1854
+item.date_issued: 1953-04-10
+item.dates[0]: 1953-04-10
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045462
+item.location[0]: Washington (D.C.)
+item.medium: 69 pages
+item.newspaper_title[0]: Evening star
+item.notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+item.notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+item.notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+item.notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+item.notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+item.notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+item.notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_carmen_ver01/data/sn83045462/00280606145/1953041001/1953041001_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045462/marcxml
+item.other_title[0]: Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star
+item.other_title[1]: Star
+item.place_of_publication: Washington, D.C.
+item.raw_lccn: sn 83045462
+item.reel_numbers[0]: 00280606145
+item.source_group: ndnp/dlc-2020_now
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: Evening star (Washington, D.C.), April 10, 1953
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn83045462
+location[0]: washington d.c.
+location[1]: district of columbia
+location[2]: washington
+location[3]: united states
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+medium: 69 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Evening star
+notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+number[0]: 1
+number[1]: sn83045462
+number[2]: 00280606145
+number_edition[0]: 1
+number_lccn[0]: sn83045462
+number_reel[0]: 00280606145
+numeric_shelf_id: 195304101
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_carmen_ver01/data/sn83045462/00280606145/1953041001/1953041001_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045462/marcxml
+other_title[0]: Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star
+other_title[1]: Star
+partof[0].count: 36935
+partof[0].title: evening star (washington, d.c.) 1854-1972
+partof[0].url: https://www.loc.gov/search/?fa=partof:evening+star+%28washington,+d.c.%29+1854-1972&fo=json
+partof[1].count: 3210959
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232471
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: evening star (washington, d.c.) 1854-1972
+place_of_publication: Washington, D.C.
+publication_frequency[0]: daily
+raw_lccn: sn 83045462
+reel_numbers[0]: 00280606145
+resources[0].files: 69
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmen_ver01:data:sn83045462:00280606145:1953041001:0637/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045462/1953-04-10/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.321103
+shard: 03
+shelf_id: sn83045462, 1953-04-10, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2020_now
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: washington (d.c.)
+subject[1]: district of columbia
+subject[2]: newspapers
+subject[3]: washington
+subject[4]: united states
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+timestamp: 2023-08-08T01:08:16.285Z
+title: Evening star (Washington, D.C.), April 10, 1953
+type[0]: issue
+url: https://www.loc.gov/item/sn83045462/1953-04-10/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_carmen_ver01/data/sn83045462/00280606145/1953041001/0642.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045462/1953-04-10/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_carmen_ver01:data:sn83045462:00280606145:1953041001:0637/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_carmen_ver01/data/sn83045462/00280606145/1953041001/0642.pdf
+resources[0].segment_count: 69
+resources[0].url: https://www.loc.gov/resource/sn83045462/1953-04-10/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1953, April 10) Evening Star. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045462/1953-04-10/ed-1/.
+cite_this.chicago: Evening Star. (Washington, DC), Apr. 10 1953. https://www.loc.gov/item/sn83045462/1953-04-10/ed-1/.
+cite_this.mla: Evening Star. (Washington, DC) 10 Apr. 1953, p. 6. Retrieved from the Library of Congress, www.loc.gov/item/sn83045462/1953-04-10/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_carmen_ver01/data/sn83045462/00280606145/1953041001/0642.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_carmen_ver01/data/sn83045462/00280606145/1953041001/0642.xml&format=alto_xml&full_text=1
+full_text:
+A-6
+THE EVENING STAR
+Washington, D. C.
+FRIDAY. AFRO, 10, J9S3
+Cancer Drug Battle
+Brings AMA Official
+Before Investigators
+•y i(m Associated Piatt
+CHICAGO, April 10.—An
+American Medical Association
+official, Dr. J. J. Moore, awaited
+a call today before a special
+legislative committee to answer
+charges that he conspired to
+seize control of krebiozen, the
+controversial cancer drug.
+Commodore Alberto Carlos
+Barreira, former Argentine un
+dersecretary of aviation, testi
+fied yesterday that Dr. Moore,
+AMA’s treasurer, planned to
+bankrupt the inventors of kre
+biozen, forcing them to sell
+their rights to commercial in
+terests.
+Earlier, a Chicago physician
+and surgeon, Dr. Peter S. Y.
+Neskov, told the committee Dr.
+Moore had urged the discoverer
+of the drug, Dr. Stevan Duro
+vic, to give distribution rights
+to the drug to two Chicago in
+dustrialists.
+Big Stir in Medical World.
+The committee, named by the
+Illinois State Legislature last
+November to delve into a dispute
+that has caused one of the big
+gest stirs in years in the medical
+world, heard two other witnesses
+at the opening session yesterday.
+The committee is seeking to de
+termine whether a commercial
+t conspiracy has blocked research
+*with the drug or whether the
+University of Illinois was justi
+fied last year in banning further
+research.
+Commodore Barreira, in testi
+mony and in an affidavit to the
+committee, charged Dr. Moore
+had threatened to destroy Dr.
+Durovic, former Yugoslav physi
+cian, and his brother Marco, an
+attorney.
+He said he uncovered a con
+spiracy against the Inventors by
+acting as an undercover agent.
+He quoted Dr. Moore as saying
+at one conference in his Chicago
+office, “We are all interested just
+in the money and we have to
+meet together in order to find
+the way to obtain it, lots of it,
+soon.”
+“Lies,” Says Dr. Moore.
+Dr. Moore, AMA treasurer for
+the last 10 years, told reporters
+he will give his whole story as
+soon as he appears before the
+committee.
+Commenting on the testimony
+before the committee yesterday,
+he told newsmen:
+“Most of the things they
+talked about in relation to finan
+cial arrangements are lies. I
+had no confidence in krebiozen.
+I think it is one of the greatest
+hoaxes of the last decade, and
+I still feel that way.”
+Another witness was Nick
+Stepeanovich, treasurer of the
+Krebiozen Foundation, who tes
+tified “a sound Midwestern phar
+maceutical house” made a con
+ditional offer to Dr. Durovic of
+$1 million, plus royalties, for the
+distribution rights to the drug, j
+He said Dr. Durovic rejected the
+offer “in full” from the firm,
+which he did not name.
+Drag Used on Vandenberg.
+He also told the legislators he
+had received letters lauding the
+$25,000 worth of beautiful
+COSTUME RINGS
+NOW ML OFF!
+Mtiny Styles Mens, Womens, Childrens
+Reol and Synthetic
+Birthstones Usually $1.95 to slls.
+Cameos
+Signet Ring:
+Onyx and Diamonds
+Genuine Marcasites
+Cultured Pearls Massive signet rings delicate cultured pearl
+Genuine Zircons rings glamorous dinner rings unusual
+Indian Rings v novelty rings genuine zircons guard
+Bobv Rinas rin S s weddin g rin g s engagement rings!
+9 You’ll find them all in this thrilling collection
+Young Miss Rings 0 f rings, many of which are copies of costly
+Boys' Rings original designs. Dramatic accessory additions
+Men's Rings to spring and summer costumes exciting
+Friendship Rings ift offe ™B s!
+i
+Guard Rings
+Wedding Rings KAMI'S
+bidctt”chare. ”*eonnt Jewelry, Street Ploor-Weshtngton end Arlington
+I
+-v Hp
+BLI Ji
+s jj&'-lfl
+Wl wßtmmmmm If \W$L' v HR
+SB yr'W'Xi"’ lif
+Jggsßfo/ v|n• IP/ 9|
+BAL BOHEME MERRIMENT—The Arts Club of Washington
+mixed fantasia with beauty for the annual Bal Boheme at the
+Hotel Statler last night. Over 800 attended, among theni,
+Elaine Shepard (left), patting the nose of Horse Jerry Rearick,
+jr., and Linda Verrill, costumed as the Queen of Cotton.
+drug from Dr. Wallace Graham,
+former President Truman’s per
+sonal physician, and a doctor
+who attended the late Senator
+Arthur Vandenberg, Republican,
+of Michigan.
+Dr. Graham reported he ob
+tained “unusually good results”
+using krebiozen on cancer suf
+ferers but was advised by the
+Army to abandon his use of the
+drug because of its controversial
+nature, Mr. Stepeanovich testi
+fied.
+Senator Vandenberg’s physi
+cian, he said, used the drug on
+the Senator with an “amazing
+response.” The witness said the
+doctor wrote:
+“We were compelled to regard
+with awe what transpired. (The
+drug) miraculously relieved all
+pain and no further narcotics
+were required. It was one of
+the most dramatic therapeutic
+achievements I have ever ob
+served.”
+Hedy Lamarr a Citizen
+LOS ANGELES, April 10 (/P).—
+Hedwig Eva Maria Kiesler, bet
+ter know as Hedy Lamarr, ac
+tress, gets her American
+zenship today. Miss Lamarr, 38,
+who came here in 1937 from her
+native Vienna, is among aliens
+from 34 countries who will re
+ceive citizenship papers in a
+court ceremony.
+National Campaign
+Launched to Prevent
+Rheumatic Fever
+By Frank Carey
+Associated Press Scienco Reporter
+ATLANTIC CITY, N. J., April
+10.—A Nation-wide preventive
+campaign against rheumatic
+fever was launched today.
+It is the first large-scale ef
+fort to put into general use the
+recently-marshaled evidence that
+recurrences of rheumatic fever
+can be prevented by daily use of
+penicillin or sulfa drug.
+The plan is to have some 4
+million Americans—most of them
+school children—receive a dose
+of one of the drugs every day for
+a period of years.
+The various State and local
+heart associations pledged them
+selves to the effort at the an
+nual meeting of the American
+Heart Association.
+Three Per Cent Affected.
+The project—to be undertaken
+by the State and local associa
+tions throughout the country—
+designed to aid the 3 per cent
+of the population who have had
+at least one “bout” with rheu
+matic fever.
+That’s the malady which is
+respoiysible for most of the heart
+disease in children and a large
+widn 1 |\l
+mg. WMm 111
+Sk IBBBMWmn; hi v
+b om
+COSTUME WINNERS—Jack Rinker (left),
+and Mrs. Carmen Madrid, 1523 Park road, were among the
+winners in the dress-up show. Master of Ceremonies Bill
+Carmichael holds the microphone for Arthur Alemaine of
+Quebec, Canada, who is about to award the winners trips to
+his province. —Star Photos.
+share of heart trouble in young
+adults. It causes more deaths
+in the first two decades of life
+than all other communicable dis
+eases taken together.
+Local heart associations won’t
+furnish free pencillin or sulfa
+drug, or give actual treatment.
+But they will take the initiative
+in communities towards encour
+aging doctors to use the method
+—and also toward educating the
+public on the scientific findings.
+It was the association’s Coun
+cil on Rheumatic Fever which re
+cently gathered evidence of vari
+ous investigators that either
+penicillin or sulfadaizine could
+prevent recurrences of rheumatic
+fever, because either can knock
+off "strep” infections which usu
+ally precede a rheumatic attack.
+Available for Years.
+Dr. George M. Wheatley of
+New York and Dr. David Rut
+stein of Harvard Medical School,
+both members of the council, told
+a reporter that the evidence
+actually had been available for
+a number of years, without be
+,s.j,« Izi.
+mu» —111
+Better Your Milk Buy!
+JllSt read how First, Lucerne is a better milk—a richer milk.
+1 Lucerne is richer in cream than any other Hik
+I leading homogenized milk in the District.
+richer Lucerne helns VOII I Lucerne is extra-rich, too, in good, creamy iVf
+LUW nei P 5 y°U l flavor that makes it a real treat to taste.
+Second, Lucerne is a better buy. Richer InfflKP
+hotter umir mill km# Lucerne costs no more than ordinary milks. UUsinU
+uener your milK DUy I In fact richer Lucerne costs less than home- MOMOfENSfoI
+I delivered milk. (And Lucerne Vitamin D Milk, BniM
+In turn !mn A r»<. N I with extra vitamin D added, costs only a cent BuITMK j
+in two important ways J more than regular Lucerne.)
+"“si 1 LUCERNE SAFEWAY h s^!
+ing widely utilized, but that the
+council’s action had brought it
+into sharp focus.
+They said the council recently
+prepared a comprehensive state
+ment on the evidence, which was
+then circulated among physi
+cians.
+Hut they declared the action
+by the State and local heart as
+sociations in assuming responsi
+bility for getting preventive pro
+grams started in th&r com
+munities represents the flrst or
+ganized movement to put the
+evidence into wide use.
+The doctors said their council
+recommends that in rheumatic
+fever children the daily dose be
+given at least to the age of 18,
+and to all such patients above
+that age it be given for at least
+five years after the last attack.
+Fertilizer Loan
+Pakistan is to receive $8 mil
+lion from the United States to
+help start a chemical fertilizer
+plant, Karachi reports.
+Drug Stopping
+Temporarily Is
+By Alton L. Blokeslee
+Associated Press Science Reporter
+CHICAGO, April 10. Discov
+ery of the first drug stopping the
+speedy and almost-always fatal
+black cancer, melanoma, was an
+nounced today.
+It works only for a time. But
+It has banished this dread can
+cer in one human for at least
+a year, and has helped a few
+others.
+Until now there has not been
+any drug or treatment, except
+surgery at the very earliest signs,
+which has had the slightest ef
+fect upon melanoma. This dark
+cancerous growth always starts
+somewhere on the skin, then
+spreads with distressing rapidity
+inside the body.
+The drug is nicknamed TEPA,
+an abbreviation for triethylene
+phosphoramide. It is a relative
+of a drug which improves the
+appearance of textiles. "Cousins”
+of this drug also show good effect
+against black cancers in mice,
+even apparently curing them.
+TEPA is an entering wedge
+against this form of cancer, and
+even better drugs may be found.
+This heartening step in chem
+ical warfare upon cancer was
+reported to the American Associ
+ation for Cancer Research by
+Drs. Sydney Farber, Virginia
+Downing, and Majib Abu-Hydar
+of the Children’s Cancer Re
+search Foundation and Depart
+ment of Pathology, Harvard
+Medical School, Boston.
+TEPA has been used so far
+upon 17 humans with melano
+mas, Dr. Farber said. It tempor
+arily knocked out the cancers
+in five. The other 12 were per
+sons in whon the cancers al
+ready had spread to internal
+organs.
+One mah had large growths on
+his face and head and would
+have lived only two months.
+Within three months, TEPA abol
+ished his cancers. There was no
+sign that he had any cancer.
+For nine months he was per
+fectly well, without getting any
+more drug and returned to work.
+But a bit more than a year after
+the treatment was started, the
+seeds of cancer in his body flared
+up again and he has general
+ized melanoma.
+Early Polio Test Found.
+Polio virus can be grown on
+cancer cells to give an early test
+for polio, perhaps in time to pre
+vent paralysis, scientists have re
+ported.
+Done in test tubes, it’s another
+important step against polio.
+Dramatically it finds cancer, the
+Black Cancer
+Discovered
+destroyer, helping combat polio,
+the crippler.
+In 24 to 72 hours, the tests
+can show whether a person is
+harboring polio virus in his body,
+before it has started invading
+nerves. This knowledge might
+give time to use gamma globulin
+or a vaccine to protect the
+nerves, or to warn a person to
+take it easy to avoid serious
+nerve damage.
+The tests also might be used
+to learn which people already
+have antibodies against one or
+all three types of polio virus.
+This could pinpoint those who
+needed a shot of gamma globulin
+or a vaccine for protection.
+March of Dimes Research.
+This progress was announced
+by Doctors Jerome T. Syverton
+and William F. Scherer, both of
+the University of Minnesota, to
+the Federation of American So
+cities for Experimental Biology.
+Dr. George O. Gey, of Johns
+Hopkins University, worked with
+them in this March of Dimes
+research.
+The cancer cells used in the
+tests were obtained from a hu
+man cancer of the cervix at
+Johns Hopkins in 1951.
+Boston Doctor Wins Prize
+For Polio Culture Methods
+BALTIMORE, April 10 (>P).
+Dr. John F. Enders of Boston
+yesterday was named the 1953
+winner of the annual Passano
+Foundation Award for his devel
+opment of methods for culturing
+polio viruses in tissue.
+The selection was announced
+by Robert S. Gill, president of
+the foundation which was estab
+lished here nine years ago by
+the late Edward B. Passano for
+the encouragement of medical
+research.
+“It is generally conceded by
+leaders in the field that Dr.
+Enders’ work has paved the way
+for ultimately conquering this
+disease,” a foundation statement
+said.
+The award, a cash prize of
+$5,000, will be presented to Dr.
+Enders in New York on June 3
+while the American Medical As
+sociation is in convention.
+Dr. Enders is associate profes
+sor of bacteriology at the Har
+vard Medical School.
+Ireland Studies Homes
+Northern Ireland is engaged in
+a detailed study of 520 scattered
+homes to obtain information on
+household spending, Belfast re
+ports.
+Virginia May Take Patients
+From Condemned Wards
+ly tho Associated frets
+RICHMOND, Va., April 10.—
+Some 210 to 220 mental patients
+probably will be moved shortly
+from a condemned building at
+Eastern State Hospital to facil
+ities at the hospital’s new Dun
+bar site.
+The State Hospital Board yes
+terday ordered the Bower Build
+ing at Williamsburg vacated
+right away after hearing that
+some of its floors were sagging
+and one wall was bulging.
+Until the patients are moved,
+the board called for twice
+weekly inspections of the build
+ing. Afterwards, the board said
+the structure should be razed.
+Dr. Joseph E. Barrett, mental
+hygiene commissioner, who made
+the report, told the board the
+patients could be transferred to
+Dunbar, two miles from Wil
+liamsburg, in about a week.
+Non-Public School Bus
+Study Urged in Maryland
+Sy tho Anociated frm
+ANNAPOLIS, April 10.—Sena
+tor Turnbull, Democrat, of Balti
+more County, who let a school
+bus bill for his own county die
+in the Legislature, plans to ask
+the Legislative Council to make
+a Statewide study of the prob
+lem of transporting children at
+tending non-public schools.
+His measure, passed by the
+House, would have lifted the
+$15,000 lid on the sum which
+may be spent by the county each
+year for transportation of pa
+rochial and other private school
+children.
+Mr. Turnbull says it is a prob
+lem which would be better de
+cided on a Statewide basis.
+He is referring the matter to
+the Leigslative Council for a
+“cool, impartial and fair de
+cision.”
+WASHINGTON’S
+Large Bt Stock of
+’4Bs to ’s2s
+De Soto
+Plrmouths
+Top Trado-Int
+Bank Financing
+L. P. STEUART
+34th fir Benning Rd. N.E.
+LI. 3-9550 Open 9to 9

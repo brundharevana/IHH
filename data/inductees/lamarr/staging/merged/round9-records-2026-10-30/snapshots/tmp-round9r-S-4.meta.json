@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn83045462/1940-08-15/ed-1/?sp=6",
+  "fetch_url": "https://www.loc.gov/resource/sn83045462/1940-08-15/ed-1/?sp=6&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T19:01:51Z",
+  "sha256": "107adef5a826b4cc5b1ad3f8b3be7733a30e0ed4e84861f80ca342736cdfad9b",
+  "bytes": 21115,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn83045462/1940-08-15/ed-1/?sp=6&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1rothko_ver02/data/sn83045462/00280602991/1940081501/0120.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/dlc/batch_dlc_1rothko_ver02/data/sn83045462/00280602991/1940081501/0120.xml"
+}

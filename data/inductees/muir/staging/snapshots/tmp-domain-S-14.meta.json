@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/pefo/planyourvisit/brief-administrative-history.htm",
+  "fetch_url": "https://www.nps.gov/pefo/planyourvisit/brief-administrative-history.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:40:31Z",
+  "sha256": "fd67da8f13af1842489053dc92316ae21d2b15073618f81fa847ab116a2758b4",
+  "bytes": 8334,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/pefo/planyourvisit/brief-administrative-history.htm"
+}

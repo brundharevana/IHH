@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "title": "Albert Einstein: IHH: Voices of Arrival",
+  "provider_name": "IHH: Voices of Arrival",
+  "provider_url": "https://voices-of-arrival.example/",
+  "width": 600,
+  "height": 380,
+  "html": "<iframe src=\"https://voices-of-arrival.example/embed/einstein/\" width=\"600\" height=\"380\" title=\"Albert Einstein: IHH: Voices of Arrival\" sandbox=\"allow-scripts\" loading=\"lazy\" style=\"border:0;max-width:100%\"></iframe>"
+}

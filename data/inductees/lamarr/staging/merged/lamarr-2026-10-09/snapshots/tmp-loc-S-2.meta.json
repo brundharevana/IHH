@@ -1,0 +1,10 @@
+{
+  "url": "https://guides.loc.gov/antheil",
+  "fetch_url": "https://guides.loc.gov/antheil",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:49:06Z",
+  "sha256": "a7a5205786b407ec9e3e5ff51456c85123cf315d3e898c7143c648d76d41eb1e",
+  "bytes": 4927,
+  "http_status": 200,
+  "final_url": "https://guides.loc.gov/antheil"
+}

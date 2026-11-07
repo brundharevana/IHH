@@ -1,0 +1,907 @@
+_version_: 1769981476801085440
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82014085/1942-09-16/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82014085/1942-09-16/ed-1/
+batch[0]: ct_ives_ver02
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/connecticut/
+composite_location[2]: 2/united states/connecticut/new haven/
+composite_location[3]: 3/united states/connecticut/new haven/waterbury/
+contributor_names[0]: Connecticut State Library, Hartford, CT
+contributors[0].connecticut state library, hartford, ct: https://www.loc.gov/search/?fa=contributor:connecticut+state+library,+hartford,+ct&fo=json
+created_published[0]: Waterbury, Conn., September 16, 1942
+date: 1942-09-16
+date_issued: 1942-09-16
+dates[0].1942-09-16: https://www.loc.gov/search/?dates=1942-09-16/1942-09-16&fo=json
+dates_of_publication: 1917-1946
+description[0]: Waterbury, Conn.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-06-01T13:39:13.208Z
+extract_urls[0]: file:/service/ndnp//ct/batch_ct_ives_ver02/data/sn82014085/00393347119/1942091601/1942091601_1.xml#ndnp/ct
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ct
+group[1]: connecticut-state-library-hartford-ct-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn82014085/1942-09-16/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ives_ver02:data:sn82014085:00393347119:1942091601:0202/full/pct:6.25/0/default.jpg#h=441&w=320
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ives_ver02:data:sn82014085:00393347119:1942091601:0202/full/pct:12.5/0/default.jpg#h=882&w=640
+index: 5
+item.batch[0]: ct_ives_ver02
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Connecticut State Library, Hartford, CT
+item.created_published[0]: Waterbury, Conn., September 16, 1942
+item.date: 1917
+item.date_issued: 1942-09-16
+item.dates[0]: 1942-09-16
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn82014085
+item.location[0]: Waterbury (Conn.)
+item.location[1]: Connecticut--Waterbury
+item.medium: 16 pages
+item.newspaper_title[0]: The Waterbury Democrat.
+item.notes[0]: Daily (except Sun.)
+item.notes[1]: Vol. 36, no. 56 (Mar. 7, 1917)-v. 44, no. 301 (Dec. 28, 1946).
+item.notes[2]: "Independent Democratic."
+item.notes[3]: Description based on: Vol. 63, no. 85 (Apr. 13, 1945).
+item.notes[4]: Waterbury Republican (Waterbury, Conn. : 1896) (DLC)sn 82014095 (OCoLC)8769351
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_ives_ver02/data/sn82014085/00393347119/1942091601/1942091601_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82014085/marcxml
+item.place_of_publication: Waterbury, Conn.
+item.raw_lccn: sn 82014085
+item.reel_numbers[0]: 00393347119
+item.source_group: ndnp/ct
+item.subjects[0]: Waterbury (Conn.)--Newspapers
+item.subjects[1]: Connecticut--Waterbury
+item.subjects[2]: United States--Connecticut--New Haven--Waterbury
+item.title: The Waterbury Democrat (Waterbury, Conn.), September 16, 1942
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn82014085
+location[0]: waterbury
+location[1]: united states
+location[2]: connecticut
+location[3]: new haven
+location_city[0]: waterbury
+location_country[0]: united states
+location_county[0]: new haven
+location_state[0]: connecticut
+locations[0].connecticut: https://www.loc.gov/search/?fa=location:connecticut&fo=json
+locations[1].new haven: https://www.loc.gov/search/?fa=location:new+haven&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[3].waterbury: https://www.loc.gov/search/?fa=location:waterbury&fo=json
+locations_city[0].waterbury: https://www.loc.gov/search/?fa=location_city:waterbury&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].new haven: https://www.loc.gov/search/?fa=location_county:new+haven&fo=json
+locations_state[0].connecticut: https://www.loc.gov/search/?fa=location_state:connecticut&fo=json
+medium: 16 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Waterbury Democrat.
+notes[0]: Daily (except Sun.)
+notes[1]: Vol. 36, no. 56 (Mar. 7, 1917)-v. 44, no. 301 (Dec. 28, 1946).
+notes[2]: "Independent Democratic."
+notes[3]: Description based on: Vol. 63, no. 85 (Apr. 13, 1945).
+notes[4]: Waterbury Republican (Waterbury, Conn. : 1896) (DLC)sn 82014095 (OCoLC)8769351
+number[0]: sn82014085
+number[1]: 00393347119
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn82014085
+number_reel[0]: 00393347119
+numeric_shelf_id: 194209161
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_ives_ver02/data/sn82014085/00393347119/1942091601/1942091601_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82014085/marcxml
+partof[0].count: 4932
+partof[0].title: the waterbury democrat (waterbury, conn.) 1917-1946
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+waterbury+democrat+%28waterbury,+conn.%29+1917-1946&fo=json
+partof[1].count: 3210959
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232471
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the waterbury democrat (waterbury, conn.) 1917-1946
+place_of_publication: Waterbury, Conn.
+publication_frequency[0]: daily
+raw_lccn: sn 82014085
+reel_numbers[0]: 00393347119
+resources[0].files: 16
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ives_ver02:data:sn82014085:00393347119:1942091601:0202/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82014085/1942-09-16/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.3663845
+shard: 07
+shelf_id: sn82014085, 1942-09-16, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ct
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: waterbury
+subject[1]: united states
+subject[2]: connecticut
+subject[3]: new haven
+subject[4]: newspapers
+subject[5]: waterbury (conn.)
+subject_headings[0]: Waterbury (Conn.)--Newspapers
+subject_headings[1]: Connecticut--Waterbury
+subject_headings[2]: United States--Connecticut--New Haven--Waterbury
+subjects[0].connecticut: https://www.loc.gov/search/?fa=subject:connecticut&fo=json
+subjects[1].new haven: https://www.loc.gov/search/?fa=subject:new+haven&fo=json
+subjects[2].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[3].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[4].waterbury: https://www.loc.gov/search/?fa=subject:waterbury&fo=json
+subjects[5].waterbury (conn.): https://www.loc.gov/search/?fa=subject:waterbury+%28conn.%29&fo=json
+timestamp: 2023-06-28T20:57:33.337Z
+title: The Waterbury Democrat (Waterbury, Conn.), September 16, 1942
+type[0]: issue
+url: https://www.loc.gov/item/sn82014085/1942-09-16/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_ives_ver02/data/sn82014085/00393347119/1942091601/0206.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82014085/1942-09-16/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ives_ver02:data:sn82014085:00393347119:1942091601:0202/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ct/batch_ct_ives_ver02/data/sn82014085/00393347119/1942091601/0206.pdf
+resources[0].segment_count: 16
+resources[0].url: https://www.loc.gov/resource/sn82014085/1942-09-16/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1942, September 16) The Waterbury Democrat. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82014085/1942-09-16/ed-1/.
+cite_this.chicago: The Waterbury Democrat. (Waterbury, CT), Sep. 16 1942. https://www.loc.gov/item/sn82014085/1942-09-16/ed-1/.
+cite_this.mla: The Waterbury Democrat. (Waterbury, CT) 16 Sep. 1942, p. 5. Retrieved from the Library of Congress, www.loc.gov/item/sn82014085/1942-09-16/ed-1/.
+
+segment_id: /service/ndnp/ct/batch_ct_ives_ver02/data/sn82014085/00393347119/1942091601/0206.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_ives_ver02/data/sn82014085/00393347119/1942091601/0206.xml&format=alto_xml&full_text=1
+full_text:
+Walter Winched
+On Broadway.
+NEW YORK AFTER MIDNIGHT
+The Big Parade: Sgt. Joe Louie
+drinking milk at the Ubangi
+Hasel 8cott In an air-conditioned
+frock Nancy Kelly dunklqg
+doughnuts In Reuben’s at 4 ayem
+Jackie Cooper pounding the
+drums In a jam session at Kelly’s
+Stables Elsa Maxwell, our fa
+vorite glamour girl, at Pete’s
+Saroyan and Prof. Nathan in Llndy’s
+on a borscht binge Zlvic, the
+snd explaining: "He bit me!”
+Quentin Reynolds In the Stork, af
+ter his Clipper hop from abroad. "I
+took a pill and slept 11 hours—
+practically all the way back!”
+Jack Haley, one of the better com
+ics, back to the Broadway Arena,
+which Is Just as glad about It
+Benny Youngman, who says he
+doesn’t mind meatless Tuesdays—
+"bOt how about a Fishless Con
+gress Critic John Mason Brown,
+With his tots, atop a bus—review
+ing The Best Show of All—New
+Pork.
+Sallies in Our Alley: At the pre
+miere the other night, before the
+asbestos lifted, a down-fronter asked
+her companion: "Who’s that one
+*ver there?” “That’s John
+Vnderson, critic from the Journal
+American” "And who’s that
+one?” she asked {minting "He's
+Brooks Atkinson of the Times”
+“And who are those two across the
+aisle?” "Mr. and Mrs. Hassen
+pheffer, the Hope of The Ameri
+can Theater,” was the reply. “They
+pay for their seats!” At Lum
+Fong’s they are panning a star, who
+Is forgetting her old pals and her
+old debts “She’s certainly up
+there,” said Tiny Pearson. "What’s
+she perched on—a pile of her un
+paid bills?”
+Memos of a Mldnlghter: Otto Pre
+minger, almost thrice Mickey
+Rooney's years, Is his rival for the
+Hollywopddolls Broadway •gam
+blers are betting 5 to 1 on Louis to
+retain his championship against
+Conn The odds last time they
+met were 4 to 1 Charles Far
+rell, the silent screen star, has been
+classified In 1-Ohhhh! Para
+mount Is worried stiff because Ver
+onica Lake wants to Join the WAACs
+Lillian McOuinness, the Stork
+hat-checker, who quit to appear in
+Saroyan’s show, resumes next week
+The Copacabana reopens on
+the 1st with Joe E. Lewis, of course
+Pule Paaris, who came here from
+Yurrop, just paid furrier L. Rit
+ter $38,000 In cash for an albino
+mink coat Linda Lee (Hill) of
+the Devon wants pals to know she's
+not the Linda Lee who was recently
+killed Walter O'Keefe says those
+Saturday noon air-raid sirens are to
+drown out LaGuardla's screams.
+Broadway Vignette: This is about
+a Broadwayite. Not a celebrity such
+as Phil Baker, George Jessel, Irv
+ing Berlin It’s about a Little
+Guy Someone you probably
+never heard of He was in the
+dress business, but he loved The Big
+Street and its showfolks And so
+he enjoyed hanging around The
+Canyon, especially Hanson's Drug
+Store at 51st and 7th—the head
+quarters for the chorines, press
+agents, columnists; actors, et al
+Everybody liked him He’d just
+sit around listening—as the gang
+discussed Hitler, the Bund, the
+President and Churchill—never of
+fering his opinions on how the war
+should be fought The way the
+others violently argued The last
+time he was seen In Hanson’s was
+when the flash came over about
+Pearl Harbor He got up and
+said: "So long” Just like that
+Last week his mother received
+word he was killed In the Solomons
+The first Broadway Guy to
+enlist, perhaps, and probably the
+first Broadway Ouy to die In action
+His name—Sidney Hlrschberger
+The Gold Star hanging in Han*
+son’s window—was put there by
+“the gang”—In his memory.
+Sonnds-ln-tbe-Night: In the 61
+Club: "She doesn’t have to learn
+her lines. She’s already learned
+the producer’s!” At the Stork
+Bar: "She’s as unassuming as an
+old Rolls-Royce” At the Park
+Central Roof: "There’s something
+about him that makes the four walls
+of your room wonderful companions”
+At La Conga: “There goes Santa
+Claus out with his old bag At
+Leone’s: "She’s the kind of a dream
+you enjoy when you’re awake”
+At the Dixie Lounge: “She’s as bow
+legged as parentheses” At Ice
+land: "That’s a big diamond, dearie.
+Whaja hit—some jerk-pot?”
+Blgtown Smalltalk; Creditors are
+raising youknowhat with debtors
+since the 30-day credit law. Many 1
+will be forced out of biz The
+McFarland Twins at Jack Dempsey's
+spot can't grow mustaches (accord
+ing to their contract)—and you
+think you gob worries The
+Bobby Goelets, after all that news
+paper talk, have reconciled. At the
+Ritz Carella Alden lost the
+Job in the Chicago troupe of "Jr.
+Miss” because: "You’re too pretty
+for the role of the maid!” What
+kind of double-talk Is those?
+How long Is that theater on B’way
+at 52nd going to display that sign:
+“Home of Italian Films”? The
+John Hammonds Increase the papa
+lation In Oct. Eugenia Rales’
+brother was killed In action with the
+RAF Pvt. Joe Cook, Jr., of
+"This Is the Army” and Cynthia
+Cavanaugh of "Star and Garter” are
+allies The British Consulate
+says the response by Britons want
+ing to return home to help in the
+war effort—Is gratifying. In Boston,
+Philadelphia, Jacksonville and L. A.
+hundreds called the morning after
+Sunday night’s appeal.
+Manhattan Murals: The bullet
+factory next door to the Hickory
+House on 52nd Street Times
+Square newsboys shouting: "Dodgers
+Lose—Stalingrad Holds!” The
+legless beggar along Broadway who
+sings patriotic tunes Holland
+Tunnel—getting to be one of the
+loneliest places in town—since the
+gas curb Sign In a Bronx gar
+den: “Let It be said of these flowers
+—they died with their roots on”
+The colored boy and the white one
+pitching, pennies against the 51st
+Street wall of Llndy’a Friday at
+6:30 peeyem while bookies nearby
+wagered dollars on the hesults
+The »th Avenue barber’s sign sar
+casm: "Army Haircuts Repaired!”
+The Big-Time: Paul LaValle’s
+crew on the Basin Street program
+The romantic balladeerlng on
+the Serb guitarists. Rasha and
+Mirko, at La Vie Parisienne The
+amusing Impersonation of a gin
+rummy kibitzer by Tony Ferrar at
+Village Vanguard Bob Allen’s
+version of "Keepin’ Out of Trouble”
+Bette Davis’ dramaglc In War
+ners’ "Now, Voyager” Jessel’s
+new telefunny routine In "Show
+Time” The Frankie Hyers-Car
+rie Finnell capers at 18 And W.
+L. White’s “They Were Expendable”
+book about the heroes In the
+MTBoats at CoiTegldor. Some of it
+will Jnfurlate you.
+Broadway Wise-Guying: Stanley
+Woodward predicts the Dodgers are
+going to rally and finish second. But
+John Kieran points out the Dodgers
+are still breathing and that it’s
+against the law to bury anybody
+alive.
+CONVENIENT HEAT—
+CONVENIENTLY FINANCED
+You don't have to trust to fate
+to keep your home warm this II
+winter. Be foreslghted and con-1|
+vert to Coal now! A modern Stok- II
+er affords all the convenience of II
+automatic heat, coupled with the II
+economy use of coal as fuel. In- II
+stallation, arranged for now, may II
+be financed through this Bank on
+the F. H. A. Home Modernisation
+Loan Plan with three years to
+pay.
+THE CITIZENS
+MANUFACTURERS
+NATIONAL BANK
+WATERBURY, CONN.
+MEMBERS F. D. I. C.
+CHURCH TO OFFER
+FLOWER FESTIVAL
+The First Methodist church is to
+have a fall flower festival and rally
+day service next Sunday at 10:30
+a. m.
+Church school and church worship
+will be merged in one period. The
+regular choir of the church and also
+the junior choir will sing. A num
+ber of young women of the church
+will take the morning offering.
+There will be a brief talk by
+Thomas S. Smith on "Religion in
+the Home.” The pastor wil have a
+short talk for the children. He will
+speak to the congregation on "A
+Problem, a Provision and a Prayer."
+CITY PAYS BLACKOUT FINE
+Coatesville, Pa.—(UP)—This city
+believes in setting an example for
+its citizens. An air raid warden
+testified at a hearing before Mayor
+A. G. Leubert that a light was left
+burning at city hall during a recent
+blackout test. City fired itself $10.
+yon djsjjid
+II*1* York Git!
+MAKE THE WOODSTOCK YOUR 6JL(L
+Always excellent aecommodatione
+for out-oMown gueata who drop in
+out of the Hue. Situated on the
+eroeeroede of tha city, right at Tima* Square, the Hotel
+Woodatoek ia moot convenient to theatroa, nigh* clube, load*
+fog (hope and buelnaee canton. Only 8 abort bloeka from
+Grand Central Terminal and oast door to Mldtowa Boa Depot
+Spaeioua, fartmactilalaly Jtapt rooiiia, Chaary atmoephe re.
+aaatdla^itj m^t^ierate^^teiea^I, air^c^w^liti^uta^i raatatrretrta,
+Slid* Jam bare br (be duration of your Now York vUH.
+Here’s What Makes Mongrel Jap Zero Tick
+NMHWWfNN
+got tanks noM
+324 go Ilona
+
+S Two .sO-caUtor
+il iwchint guru
+lP'rnn«il«'rrmriiiinrF
+37-mm. cannon
+SS55SS
+iBmIimMfrom
+U. S. 14-eylinder oir
+ii cooled type. Such key
+parts carburetor, gen
+erator, starter, fuel
+t pump aro identical to
+or good copies of
+American makes
+Flops copied
+from English
+j Detachable *50-gal.
+1 auxiliary gai tank ill
+1 Retractable landing
+gear. U. S.-typa brake* !ii
+<1' N
+I JAPANESE ZERO
+Examination of wrecked planes shows there Is not not much mystery about the “mysterious” Jap Zero.
+Japanese, always swift to imitate, did a resourceful Job of usinp foreign developments ta this ship.
+Sketch shows some of parts which are exact duplicates or pood copies of American and British planes.
+Zero’s performance: Speed, 350-400 miles an hour; ceiling, 35,000 feet; range, about 1500 miles.
+FACTORIES BACK
+WAR BONDS PLAN
+Ten Percent Savings Idea
+Given Impetus by Movie
+Stars Personal Pleas
+One phase of the motion picture
+industry’s war bond drive has al
+ready proved itself a sweeping suc
+cess—a phase that will have no
+specific bearing on the industry’s
+billion-dollar sales objective for
+September. This is the vastly in
+creased number of factories and
+war production plants that have
+stepped into line on the ten per
+cent pay savings plan since the
+drive started.
+Under the impetus of visits from
+Hollywood stars, scores of large fac
+tories have already reported striking
+increases in their payroll deduction
+enrollments. In every instance
+where a "star rally” has been held
+at a factory, the workers have in
+creased their previous pay-envelope
+war bond deductions to bring the
+present average well above ten per
+cent.
+The Treasury Department has ex
+pressed itself as vitally concerned
+with the payroll plan, stating that
+if deductions can be brought up to
+ten per cent of payrolls in all types
+of industries throughout the coun
+try, the present voluntary system
+of bond selling can be continued.
+Should the movie industry’s Sep
+tember efforts raise the August pay
+deduction average of 5.3 per cent
+substantially closer to the 10 per
+cent goal, the drive would be con
+sidered a success, Washington
+states, even if the billion dollar gen
+eral sales objective is not attained.
+For this reason the film stars who
+are now covering three hundred
+cities throughout the country are
+devoting approximately half their
+time to factory rallies, the plants
+being designated by the war savings
+staff in each locality.
+The actual black and white audit
+ing results of the factory rallies will
+not begin showing up until October,
+but from that point on will have
+provided a permanent material con
+tribution to the work of the Treas
+ury Department and war savings
+staff. In the factories visited to
+date including a very large quota
+covered on Labor Day, male stars
+and glamor girls seem to have had
+almost uniformly successful results.
+After Hedy Lamarr's visits to the
+Johnson and Johnson plant in
+Elizabeth, N. J., one hundred per
+cent enrollment for the bond sav
+ings plan was announced. At the
+York Safe company, in York, Pa.,
+Miss Lamarr raised $20,000 in addi
+tional salary pledges during a brief
+visit.
+Jimmy Cagney’s vehement and
+straight-from-the-shoulder talks to
+thousands of workers in Gary, Ham
+mond and East Chicago steel mills
+brought an earlier average of four
+per cent savings enrollment up
+ahead of the ten per cent mark. In
+Michigan City, 12,000 Studebekare
+and Bendix workers signed 12,000
+pledges after Cagney’s visit.
+Walter Pidgeon, Joan Leslie and
+Adolphe Menjou produced equally
+heartening results at the giant
+Kaiser shipyards in Salem, Oregon.
+Charles Laughton, Ann Rutherford
+and Virginia Gilmore promoted an
+enormous increase of ten per cent
+salary allocations in the New Ha
+ven, Hartford and New Britain
+areas.
+Immediate results, on an unan
+ticipated scale, were reported after
+Edward Arnold and Prances Dee
+had addressed 1,000 personnel di
+rectors at a luncheon at the Pea
+body luotel in Memphis. After the
+visits of the same stars to East St.
+Louis, 111., salary pledges jumped
+from 8.2 per cent to 12.4 per cent, a
+45 per cent increase.
+Another striking development of
+the drive, this time through the ef
+forts of Hedy Lamarr, was reported
+in Newark, N. J. Col. Franklin
+D'OUer, president of the Prudential
+Insurance company, pledged that
+Prudential's 20,000 salesmen would
+be given quotas and act as “Cogi
+mandos" in the bond drive.
+BAR ASSOCIATION
+TO ERECT TABLET
+Plena have been t Ur ted by the
+Waterbury Bar aaaoclatlon to place
+a taSlet containing namei ef local
+lawyer* now in the aervlee at the
+county courthouse building on Ken
+drick avenue.
+Name* which will be inicribed in
+clude the following: Joeeph p. Allah
+auaky, Richard ton Bronaon, Praneli
+Butler, Morton Oreenblatt, William
+B. Jonea, Jr., WlUtam J. Larkin, id.
+J. Gregory Lynch, Welter J. Lynch.
+Kern In way Merriman. Vincent A.
+Milter. Joeeph J. Phelan end Mai
+R. Traurlg,
+A mighty g
+raault from a
+net-meat' Mlmmrr the
+pot-react bone with two eupe water
+and a few vegetable* for weU-aea
+agyJ aiiu^ Kaal mitL ilkii III
+j* g|gg|| Qmm ihw niff aimI juliy)
+thicken atm* far grpRr.i
+mmI iima mmm
+|biim BajaJ iMirm
+Wm mm* am mm
+GOING IN ARMY'
+DR. A. EUGENE SIRICA
+Dr. A. Eocene Sirica, recently
+Cranted an Army commission,
+will be tendered a farewell din
+ner party at Waverly Inn, Ches
+hire, next Monday evening
+Heading the arrangements com
+mittee is A1 Ferrero, assisted by
+Sam Sirica, Mrs. Marla Fisher, A1
+Lera, Dr. Andy Santopletro, Sr.,
+Saverio Cerullo, Dr. James C. Cop
+petto, Atty. John Membrino, Dr.
+Edward Lewickl, Mrs. Christina
+Vallett, Sam Menechino, Michael
+Sirica and Atty. Carmen Cipriano.
+124 WOMEN ENJOY
+COLLEGE RETREAT
+25 Cities in Three States
+Represented at St. Bona*
+venture’s Last Weekend
+St. Bonaventure, N. Y., Sept. 18—
+One hundred twenty four women
+from 25 cities in New York, Penn
+sylvania and New Jersey attended
+the 4th annual retreat held at St.
+Elizabeth’s academy, St. Bonaven
+ture, N. Y., last week-end. This was
+the largest group ever to make the
+retreat for women in the Franciscan
+institution—twice as many reporting
+for the retreat as those registering
+last year.
+Many of the women are reported
+to have made the retreat due to the
+glowing reports brought back by
+their husbands, fathers, brothers and
+sons who made the retreat at St.
+Bonaventure college the previous
+week. Rev. Gervase McMillen, O. F.
+M., was director of both retreats, and
+Fr. Isadore O'Brien, O. F. M., deliv
+ered the convocation speeches to
+both groups.
+The Sisters of St. Francis, under
+the supervision of Rev. Mother Jean
+Marie. O. S. F., superior of St. Eliz
+abeth's, were in charge of arrange
+ments for the women.
+Reports from the women in at
+tendance indicated great nthuslasm
+over the conferences, speeches, and
+the hospitality of the Franciscan
+Sisters. Noteworthy among the activ
+ities at the retreat were the outdoor
+Stations of the Cross, which were
+conducted on the St. Elizabeth
+campus, and the recitation of the
+Rosary in the beautiful grotto which
+was huilt in 1926 in honor of Rev.
+Mother Teresa, O. S. F. Approxi
+mately 15 of the women immediately
+submitted reservations for next
+year’s retreat.
+As in the men’s retreat, the high
+light of the services was the con
+clusion of the retreat on Sunday
+with Holy Hour for the men in the
+service. The names of these tnen
+were placed on the Holy Altar by
+relatives during the retreat and re
+mained there during Mass and ben
+ediction Sunday. The retreat closed
+with the singing of ‘‘Holy God" and
+‘‘The Star Spangled Banner".
+Father Isadora's short address
+Sunday, concerning the safeguard
+ing of the home, .was reported as
+very Impressive" by the women re
+WORLD WAR
+A YEAR AGO
+SEPT. 16, 1941
+(By United Press)
+President .Roosevelt’s .“shoot
+first” order to Navy went into ef
+fect at\12:01 a. m.
+Germans announce defeat of
+Russian 11th, 27th and 34th
+armies south of Lake Ilmen; re
+port capture of 43,000 prisoners,
+320 tanks and 695 suns.
+Great Britain and United States
+agree to provide Russia with
+hundreds of fighting planes
+monthly, beginning Jan. 1, 1942.
+treatants.
+Eight of the retreatants remained
+at St. Elizabeth's until Monday
+morning, when two were received
+into the Third Order of St. Francis
+in the Parish Church.
+TESTIMONIAL FOR
+FIRE OFFICIALS
+Bunker Hill Auxiliary Unit
+Hosts to Capt. Cava
+naugh Lieut. Kinney
+n»e Bunker Hill Chapter of the
+Waterbury Auxiliary Firemen’s Asso
+ciation and members of the regular
+fire department attached to Engine
+Company 8 will be hosts to Captain
+James J. Cavanaugh and Lieutenant
+William J. Kinney at a dinner to be
+held at the Bunker Hill firehouse
+tomorrow evening at 7:30 o’clock.
+The event Is being held jointly
+as a testimonial to Lieutenant Kin
+ney who was recently appointed to
+the post of Executive Clerk In the
+office of Fire Chief Cavanaugh hav
+ing been transferred from his com
+pany at Bunker Hill, and as an ex
+pression of appreciation for the
+services both Captain Cavanaugh
+and Lieutenant Kinney gave during
+the auxiliary classes held at Bunker
+Hill during past months.
+Chief Thomas Cavanaugh will
+also be present as a guest of the
+committee In charge of the dinner.
+Arrangements for the event are
+being handled by James G. De
+laney and Jeremiah C. Murphy, each
+representing his own shift at the
+Bunker Hill station; and Robert
+Mehegan. president of the Bunker
+Hill auxiliary chapter. The toast
+master will be Charles C. Foster.
+BUS, AUTO FIGURE
+IN MINOR MISHAP
+A C. R. L. Lines bus and a pas
+senger car were involved in a minor
+collision yesterday afternoon. The
+bus was operated by Joseph Cutroli,
+of 13 Fleet street, and the private
+car by Charles Oskls, of 130 Chamb
+ers street.
+Motor Patrolman Walter Ogrisek
+investigated.
+Jack Carson is losing weight for
+his role of an airplane pilot in
+Warner Bros.’ “Princess O’Rourke."
+Lithuanians
+Bonds Worth $30
+Total Divided Among 16 Organizati
+Lauded for Heroism
+BROOKLYN NEWS
+Plans for promoting the sale of
+defense bonds and stamps will be
+made at a meeting of the Lithuan
+ian Council for the Defense of
+America tonight at 8 o’clock at
+Venta hall, 103 Green street. Rep
+resentatives of the council recently
+participated in the sale at Liberty
+House on the Green and another
+session is expected to be arranged.
+Jacob Treciokas, president of the
+council, which includes delegates
+from 16 independent Lithuanian or
+ganizations, has announced that
+Lithuanian residents of the city
+have purchased $300,000 worth of
+bonds already, as far as has been
+called to the council’s attention,
+and that the figure is expected to
+reach the half-million mark shortly.
+Various events to boost defense
+activities will be planned tonight.
+Community Club
+The Town Plot Community club
+will hold its regular monthly meet
+ing tonight at 8 o’clock at the B. W.
+Tinker school basement. Joseph
+Gallo will preside. New members
+will be admitted at the meeting.
+Martino Praised
+Chief Torpedoman John Martino
+of 638 Congress avenue has been
+praised for his heroism in the
+Philippines in a new- book written
+by four officers and published by
+W. L. White. The Brooklyn man
+has received several decorations for
+his deeds while serving with a Navy
+totrpedo boat squadron engaged in
+a battle with the Japs.
+The book "They Were Expend
+able” is a story by Lieut. Comdr.
+John D. Bulkeley. famous hero,
+Lieut. Robert B. Kelley, and En
+signs Anthony B. Akers and George
+E. Cox, Jr.
+Two weeks ago Martino’s family
+was notified by the Navy Depart
+ment that he was missing since May
+6, but the family expresses confi
+dence that he is safe somewhere.
+Martino was a crew member of one
+of the torpedo boats which escorted
+Gen. Douglas MacArthur from Ba-
+taan to Mindanao.
+Bowling Starts
+The Holy Name society of Chn
+Lady of Mount Carmel church will
+open its bowling season Friday night
+at the St. Joseph’s alleys. A large j
+number of members are expected
+to participate.
+Nomas
+Novena services to the Lady oi
+Mount Carmel will be conducted at
+Our Lady of Mount Carmel church
+tonight at 7:30.
+The novena to Bt. Francis which
+opened at St. Joseph’s church last
+week will end tomorrow. Rev.
+Juvenalis Liauba has been in chargs
+of the services.
+Members of Girl Scout Troop 13
+will hold their first meeting of the
+season tonight at 6:15 at the parish
+hall of the Third Congregational
+1 church.
+Automobile freight transportation
+Is to be established between Bul
+garia and Italy, by way of Albania,
+as the forerunner of a new railway
+line.
+We Need Tanke
+We Need Ships
+We Need Planes
+BUY WAR SAVING BONDS
+AND STAMPS NOWl
+DR. R. W. MESSIER
+OPTOMETRIST AT
+HOWLAND-HU GHES
+Howland-Huohes
+Si
+Waterbury's Friendly Department Store
+it
+"Quaker Lady"
+Crepes
+$598
+They’re called “Quaker
+Lady” and they’re
+designed with all the
+careful, dignified re
+straint that the name
+implies. They’re pin
+neat, in styles to be
+worn everywhere! Clas
+sic shirtwaists, with
+beautifully tucked bo
+dices and yolks tailored
+frocks, with gayly embroi
+dered shoulders and poc
+kets! Frocks you’ll put on
+now, and wear just about
+forever! Sizes 12 to 20, 38
+to 44, 18V2 to 24V2.
+BUDGET DRESS SHOP FASHION FLOOR
+"Von*,
+Baby's Wardrobe
+^•ir fine maA *re not ext)/n./*xci^ve
+&<iBd wm
+Stot,. “d
+(tottHMt.*|ff
+isnUto,Mj* wff.,
+,,M
+Captivating
+Corduroy
+Suits
+$1Q9$
+Plaming, vibrant colors
+flamingo red, purple,
+green! A pearly dove
+gray! All in a fine,
+pin-whale corduroy suit
+that you’ll love! It’s
+simply, meticulously
+made with a slightly
+flared skirt, a plain, card
+igan-necked jacket. It’s
+to stop all eyes for fall
+to wear smartly
+under your winter coat.
+Sizes 10 to 18.
+FASHION FLOOR
+'Holeproof'
+Rayon Hose
+“Holeproof" nwkee those high-twiet rayons.,,
+that is, the Bamberg Luxsheer threads are twist*
+ed cleverly to give you a flattering, sheer
+that fits beautifully. For added durability,
+heels, toes and soles are reinforced with
+Three lengths... three gorgeous, dulled i

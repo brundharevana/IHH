@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/75495855",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=75495855",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:25:49Z",
+  "sha256": "15bfe26b8aa7fae80f38a4f592e873cf6229e4da60a8e406fbc952b2c7f1419a",
+  "bytes": 6599,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=75495855"
+}

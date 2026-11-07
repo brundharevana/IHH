@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:John_Burroughs_and_John_Muir,_probably_on_St_Matthew_Island,_Alaska,_July_1899_(HARRIMAN_218).jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:John_Burroughs_and_John_Muir%2C_probably_on_St_Matthew_Island%2C_Alaska%2C_July_1899_%28HARRIMAN_218%29.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:50Z",
+  "sha256": "279f3a409d0962bc0a7a5d2f862b2f4e46dad4d38caa2c9170e1400e044e3ca3",
+  "bytes": 2039,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:John_Burroughs_and_John_Muir%2C_probably_on_St_Matthew_Island%2C_Alaska%2C_July_1899_%28HARRIMAN_218%29.jpg&format=json"
+}

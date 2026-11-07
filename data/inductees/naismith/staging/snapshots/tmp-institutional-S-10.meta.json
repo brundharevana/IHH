@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/12004702",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=12004702",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:15:24Z",
+  "sha256": "07ccba52489c3ecf39f0aec8f88c36552f71afc6e4231523b9e61e329e756966",
+  "bytes": 4895,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=12004702"
+}

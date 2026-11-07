@@ -1,0 +1,73 @@
+title: Letters Received from Albert Einstein
+scopeAndContentNote: This series consists of nine letters written by Albert Einstein to Lieutenant Stephen Brunauer of the Research and Development Division.  These letters relate to Einstein's research with the Research and Development Division of the Navy, specifically underwater explosions and a proposed electromagnetic torpedo detonator.
+accessionNumbers[0]: NC3-74-85-1
+inclusiveStartDate.month: 5
+inclusiveStartDate.year: 1943
+inclusiveStartDate.day: 17
+inclusiveStartDate.logicalDate: 1943-05-17
+levelOfDescription: series
+creators[0].creatorType: Most Recent
+creators[0].heading: Department of the Navy. Bureau of Ordnance. Division of Research and Development. (1862 - 1959)
+creators[0].abolishDate.year: 1959
+creators[0].abolishDate.logicalDate: 1959-12-31
+creators[0].authorityType: organization
+creators[0].establishDate.year: 1862
+creators[0].establishDate.logicalDate: 1862-01-01
+creators[0].naId: 10468183
+recordType: description
+inclusiveEndDate.month: 10
+inclusiveEndDate.year: 1944
+inclusiveEndDate.day: 15
+inclusiveEndDate.logicalDate: 1944-10-15
+useRestriction.status: Unrestricted
+audiovisual: false
+physicalOccurrences[0].extent: 5 linear inches
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-3510
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Textual Reference
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-1752
+physicalOccurrences[0].referenceUnits[0].email: Archives2reference@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].physicalRestrictionNote: These records are specially protected and are not available to researchers.
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].mediaOccurrences[0].containerId: Box 1
+physicalOccurrences[0].holdingsMeasurements[0].count: 1
+physicalOccurrences[0].holdingsMeasurements[0].type: Letter Archives Box, Standard
+physicalOccurrences[0].copyStatus: Preservation
+accessRestriction.status: Unrestricted
+itemCount: 9
+arrangement: Arranged chronologically by date of letter.
+dataControlGroup.groupName: National Archives at College Park – Textual Reference
+dataControlGroup.groupId: RRAR
+dataControlGroup.groupCd: RRAR
+generalRecordsTypes[0]: Textual Records
+variantControlNumbers[0].number: NWCTM-74-EINSTEINLTRS
+variantControlNumbers[0].type: NAIL Control Number
+variantControlNumbers[1].number: NWDT2-74-EINSTEINLTRS
+variantControlNumbers[1].type: NAIL Control Number
+variantControlNumbers[2].number: 135603
+variantControlNumbers[2].type: HMS Record Entry ID
+variantControlNumbers[3].number: UD 183B
+variantControlNumbers[3].type: HMS/MLR Entry Number
+contributors[0].heading: Einstein, Albert, 1879-1955
+contributors[0].deathDate.year: 1955
+contributors[0].deathDate.logicalDate: 1955-12-31
+contributors[0].contributorType: Correspondent
+contributors[0].authorityType: person
+contributors[0].birthDate.year: 1879
+contributors[0].birthDate.logicalDate: 1879-01-01
+contributors[0].naId: 10582637
+otherTitles[0]: Letters Received from Albert Einstein by the Division of Research and Development, May 17, 1943 - Oct. 15, 1944
+ancestors[0].inclusiveStartDate.year: 1818
+ancestors[0].inclusiveStartDate.logicalDate: 1818-01-01
+ancestors[0].distance: 1
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 74
+ancestors[0].inclusiveEndDate.year: 1967
+ancestors[0].inclusiveEndDate.logicalDate: 1967-12-31
+ancestors[0].title: Records of the Bureau of Ordnance
+ancestors[0].naId: 403
+naId: 305246

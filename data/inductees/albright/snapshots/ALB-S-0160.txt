@@ -1,0 +1,305 @@
+Policies | GovInfo
+
+Skip to main content
+
+Menu
+
+Search
+
+Browse
+
+A to Z
+
+Category
+
+Date
+
+Committee
+
+Author
+
+About
+
+About
+
+Policies
+
+Authentication
+
+Digital Preservation
+
+History
+
+Agency Submission
+
+U.S. Government Information
+
+FDsys Retirement
+
+Developers
+
+Developer Hub
+
+API
+
+Bulk Data Repository
+
+Link Service
+
+Feeds
+
+Sitemaps
+
+System Design
+
+Features
+
+All Features
+
+Featured Content
+
+News
+
+Release Notes
+
+Finding Publications
+
+Help
+
+Help
+
+Finding Information
+
+What's Available
+
+Tutorials and Handouts
+
+Other Resources
+
+Feedback
+
+Submit Feedback
+
+Contact Us
+
+Toggle the Search Widget Search
+
+Policies
+
+Help
+
+Search About, Features, and Help pages
+
+About Us
+
+Policies
+
+Digital Dissemination of Access Content Packages
+
+Permanent Public Access
+
+Preservation Agreement with NARA
+
+Public Domain & Copyright Notice
+
+Privacy Policy
+
+Section 508 / Accessibility
+
+Superintendent of Documents Public Policies, Guidance, and Reports
+
+Authentication
+
+Digital Preservation
+
+History
+
+Agency Submission
+
+U.S. Government Information
+
+Jump to: Permanent Public Access │ Preservation Agreement with NARA │ Public Domain & Copyright Notice │ Privacy Policy │ Section 508 / Accessibility │ Superintendent of Documents Public Policies, Guidance, and Reports │ Redaction of Personally Identifiable Information
+
+Digital Dissemination of Access Content Packages
+
+Interest has been expressed by customers and partners in creating their own digital collections of content. This includes building digital collections by accepting digital files and metadata disseminated by GPO's GovInfo system.
+
+GPO will make available Access Content Packages (ACP’s) to download and store on local systems. For instance, for Federal depository libraries (FDL’s), this may assist in efforts to build digital collections at their libraries.
+
+GPO will continue to maintain responsibility for managing Federal content within scope of the Federal Depository Library Program (FDLP), and providing free and permanent access to this information.
+LOCKSS
+The LOCKSS permission statement, LOCKSS system has permission to collect, preserve, and serve this Archival Unit, has been added at all levels in order to allow participants in the LOCKSS program to crawl GovInfo content or the GovInfo bulk data repository. By allowing LOCKSS crawlers to crawl at any level, participants in the LOCKSS program can choose to collect specific collections or years, and can continue to collect new and updated content as it is added to GovInfo.
+
+LOCKSS permission statements for GovInfo content are included in the Sitemap XML files. More information about SiteMaps.
+
+LOCKSS permission statements for the GovInfo bulk data repository are included in lockss.html files in the following locations:
+
+Federal Register
+
+Code of Federal Regulations
+
+Permanent Public Access
+
+Title 44 of the United States Code (44 U.S.C. Section 1911) stipulates that public access to official Government information products disseminated through the Federal Depository Library Program (FDLP) must be maintained permanently in regional depository libraries and by depository libraries not served by a regional library. Since online products are not physically distributed to depository libraries for retention, GPO has assumed responsibility for the provision of permanent access to Government information products residing on GovInfo servers.
+
+GPO's permanent public access commitment is also met by bringing agency-disseminated Internet resources under the purview of GPO and incorporating them into a digital archive. GPO captures copies of agency electronic information products, and creates PURLs so that users will be automatically redirected to the archived products if the information is no longer accessible on the agency website.
+
+Preservation Agreement with NARA
+
+The National Archives and Records Administration (NARA) recognizes GPO as an official affiliate archive. The affiliate agreement, first signed in 2003, establishes mutually agreed upon standards for the permanent preservation of and public access to the digital content on GPO’s system of online access, GovInfo. As works of the Government, the content is considered to be archival records. Among the titles covered by the agreement are the Congressional Record, the Federal Register, the Code of Federal Regulations, the Budget of the United States Government, and the U.S. Congressional Serial Set. You may browse an A-Z list of the publications and series available on GovInfo, all of which will be preserved and freely available in accordance with the affiliate agreement.
+
+Some of this system is part of National Archives Record Group 287, maintained for permanent preservation by the GPO under an agreement with the National Archives. Additional related records may be found at the National Archives. For more information, see the National Archives catalog .
+
+Memorandum of Understanding between GPO and NARA (PDF), September 2023
+
+Memorandum of Understanding between GPO and NARA (PDF), August 2003 (superseded)
+
+Amendment to the August 12, 2003 MOU between GPO and NARA (PDF), October 2012 (superseded)
+
+Addendum to the August 12, 2003 MOU between GPO and NARA (PDF), June 2006 (superseded)
+
+Public Domain & Copyright Notice
+
+Title 17, Section 105, United States Code, provides that: Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
+
+The intent of the section is to place in the public domain all work of the United States Government, which is defined in 17 U.S.C. § 101 as work prepared by an officer or employee of the United States Government as part of the person's official duties.
+
+By virtue of the foregoing, public documents can generally be reprinted without legal restriction. However, Government publications may contain copyrighted material which was used with permission of the copyright owner. Publication in a Government document does not authorize any use or appropriation of such copyright material without consent of the owner.
+
+Since the Government Publishing Office serves merely as a printing and distribution agency for Government publications and has no jurisdiction over their content or subject matter, it is advisable to consult with the originating department or agency, or its successor, prior to reprinting any given publication. In those instances in which permission to reprint material from Government publications is granted, customary credit should be given to the Government department or agency which prepared the material. In addition, whenever a work is published consisting predominantly of work of the U.S. Government, the copyright notice (if any) must identify those parts of the work in which copyright is claimed per 17 U.S.C. § 403.
+
+Photo Credits and Copyright
+
+For many of the images on GPO's websites, GPO has purchased the right to use the image. GPO is licensed to use these images on a non-exclusive and non-transferable basis. All other rights to the image, including those without limitation, copyright, and all other rights, are retained by the owner of the images. These images are not in the public domain.
+
+Privacy Policy
+
+The concept of online privacy includes the right to decide what personal information you choose to submit online and how that information will be used, if at all. To protect user privacy, GPO follows the Office of Management and Budget (OMB) recommendations and other suggestions regarding Internet privacy policy for Federal Government websites. In doing so, we strive to make users aware of the kinds of information we collect from them, explaining why we collect that information, how we use it, and whether it will be shared with others.
+
+Information Collection
+
+When a user visits GovInfo, GPO collects the following data for statistical purposes only:
+
+the IP address from which users access our website;
+
+browser user agent;
+
+the date and time of their visits; and
+
+the URLs of the pages that they view.
+
+GPO uses these statistics to make improvements, not to identify individual users or their searches. For example, user agent data is aggregated to provide information about which browser versions or device types are accessing the site, informing program decisions on support for deprecated browsers (e.g. older versions of IE) and additional functional testing targets. Similarly, IP information can be aggregated to provide country/region usage information to help identify geographic access trends.
+
+GPO does not enable cookies to monitor usage or to gather users’ personal information; however, "session cookies" are used to enable GovInfo functionality. Cookies are small pieces of information that web servers or pages store on a user’s hard drive. There are two types of cookies: session cookies and persistent cookies. Both types of cookies allow Internet servers to "remember" specific information about a user. Websites use them primarily to personalize their sites for individual users, to keep track of orders when users purchase products, and to target advertising toward users based on the information that they access. However, session cookies will "remember" that information for only as long as you explore a website during one "session", or visit to the website. Session cookies will not "remember" information about you when you return to the site for subsequent visits. However, persistent cookies will "remember" this information for more than one session. OMB has decided that persistent cookies should not be allowed on Government websites, except in "the most unusual of circumstances." GPO currently follows this recommendation.
+
+Information Collected via Correspondence with GPO
+
+Personal information submitted by a user in comments or questions via phone, fax, or e-mail is not distributed to parties outside of GPO. Identifying information, such as name, e-mail address, and phone or fax number, is used only for responding to users' comments or questions and is not made available for other purposes.
+
+Visit the Office of Management and Budget's (OMB) website to read memoranda and guidance regarding Federal Government website privacy policies.
+
+Site security is the concept of monitoring network traffic to identify unauthorized attempts to upload or change information on GPO's servers.
+
+In the case that suspicious activity of this sort arises, a user's personal information may be tracked to identify a possible threat. This is the only reason that GPO will ever collect personal information and/or monitor activity without asking permission or giving prior notice.
+
+Section 508 / Accessibility
+
+In 1998, President Clinton signed the Workforce Investment Act into law. This Act amended Section 508 of the Rehabilitation Act of 1973 to include accessibility requirements for electronic and information technology. Section 508 now requires that electronic and information technology used by the Federal Government, including their websites, be made as accessible for people with disabilities as it is for people without disabilities. The U.S. Access Board has outlined specific accessibility standards for implementing Section 508, especially as it applies to Web pages.
+
+The U.S. Government Publishing Office (GPO) has always had a commitment to accessibility. In the past, we have taken time to ensure that GPO Web pages comply with provisions of the Americans with Disabilities Act (ADA) and other accessibility concerns, whenever feasible.
+
+Currently, GPO is working to ensure that existing pages are Section 508-compliant, and that future pages will be created specifically with these accessibility standards in mind.
+
+Feel free to contact us if you encounter barriers to accessibility on any of our Web pages. With your help, we can work together to ensure that GPO websites remain as accessible as possible.
+
+More information about Section 508 can be found on: Section508.gov
+
+Superintendent of Documents Public Policies, Guidance, and Reports
+
+Superintendent of Documents (SOD) policies support the U.S. Government Publishing Office’s (GPO’s) mission of “America Informed” and the mission, vision, and priorities of the GPO’s public information programs. For more information, visit FDLP.gov.
+
+Redaction of Personally Identifiable Information
+
+For content within GovInfo, it is the authoring agency’s responsibility to ensure there is no PII in their public information. Redaction is an option some government authors may choose to remove PII in publications that are already publicly available. For this reason, it is possible to come across some redacted content in GovInfo. Agencies may have different criteria for determining what PII is. Should high-impact PII be discovered in GovInfo it will be redacted in accordance with Superintendent of Documents Public Policy Statement 2019-2.
+
+Skip back to top
+
+Skip back to top
+
+Browse
+
+A to Z
+
+Category
+
+Date
+
+Committee
+
+Author
+
+About
+
+About
+
+Policies
+
+Authentication
+
+Digital Preservation
+
+History
+
+Agency Submission
+
+U.S. Government Information
+
+FDsys Retirement
+
+Developers
+
+Developer Hub
+
+API
+
+Bulk Data Repository
+
+Link Service
+
+Feeds
+
+Sitemaps
+
+System Design
+
+Features
+
+All Features
+
+Featured Content
+
+News
+
+Release Notes
+
+Finding Publications
+
+Help
+
+Help
+
+Finding Information
+
+What's Available
+
+Tutorials and Handouts
+
+Other Resources
+
+Feedback
+
+Submit Feedback
+
+Contact Us
+
+U.S. Government Publishing Office

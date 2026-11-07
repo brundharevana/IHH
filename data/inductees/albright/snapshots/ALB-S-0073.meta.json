@@ -1,0 +1,10 @@
+{
+  "url": "https://www.govinfo.gov/content/pkg/BILLS-117sres585ats/html/BILLS-117sres585ats.htm",
+  "fetch_url": "https://www.govinfo.gov/content/pkg/BILLS-117sres585ats/html/BILLS-117sres585ats.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T19:36:44Z",
+  "sha256": "c0c96809393c070b2894385dbcc00f0cac93bf985789dc316657755b77362368",
+  "bytes": 3785,
+  "http_status": 200,
+  "final_url": "https://www.govinfo.gov/content/pkg/BILLS-117sres585ats/html/BILLS-117sres585ats.htm"
+}

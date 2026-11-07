@@ -1,0 +1,148 @@
+_version_: 1831660169755361280
+access_restricted: false
+aka[0]: http://lccn.loc.gov/2021689839
+aka[1]: http://www.loc.gov/item/2021689839/
+aka[2]: https://hdl.loc.gov/loc.gdc/gdcwebcasts.150708klu1800
+aka[3]: http://www.loc.gov/resource/gdcwebcasts.150708klu1800/
+contributor_names[0]: Library of Congress
+contributor_names[1]: John W. Kluge Center (Library of Congress), sponsoring body
+contributors[0].john w. kluge center (library of congress): https://www.loc.gov/search/?fa=contributor:john+w.+kluge+center+%28library+of+congress%29&fo=json
+contributors[1].library of congress: https://www.loc.gov/search/?fa=contributor:library+of+congress&fo=json
+created_published[0]: Washington, D.C. : Library of Congress, 2015-07-08.
+date: 2015
+dates[0].2015: https://www.loc.gov/search/?dates=2015/2015&fo=json
+description[0]: Ann Compton moderates a discussion by former Secretaries of State Madeleine Albright and Colin Powell on U.S. foreign policy. The presentation was the inaugural event of a five-year lecture series sponsored by the Library's Kluge Center and the Daniel K. Inouye Institute on themes that reflect Sen. Inouye's legacy of public service and civic engagement.
+digital_id[0]: https://hdl.loc.gov/loc.gdc/gdcwebcasts.150708klu1800
+digitized: true
+display_offsite: true
+extract_timestamp: 2025-04-28T19:52:20.753Z
+extract_urls[0]: http://lccn.loc.gov/2021689839#gdc/webcasts
+extract_urls[1]: http://lccn.loc.gov/2021689839#catalog-split-00
+format[0].film, video: https://www.loc.gov/search/?fa=original_format:film,+video&fo=json
+group[0]: gdc/webcasts
+group[1]: catalog-split-00
+group[2]: catalog
+group[3]: cataloged-event-videos
+group[4]: main-catalog-split-00
+hassegments: false
+id: http://www.loc.gov/item/2021689839/
+image_url[0]: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/15/07/08/kl/u1/80/0/150708klu1800/150708klu1800_925.0_thumb.jpg
+index: 1
+item.contributors[0]: Library of Congress
+item.contributors[1]: John W. Kluge Center (Library of Congress), sponsoring body
+item.created_published[0]: Washington, D.C. : Library of Congress, 2015-07-08.
+item.date: 2015
+item.digital_id[0]: https://hdl.loc.gov/loc.gdc/gdcwebcasts.150708klu1800
+item.format[0]: moving image
+item.language[0]: eng
+item.medium[0]: 1 online resource
+item.notes[0]: Classification: History: America.
+item.notes[1]: Classification: Political Science.
+item.notes[2]: Madeline Albright, Colin Powell, Ann Compton.
+item.notes[3]: Recorded on 2015-07-08.
+item.notes[4]: Librarians, Archivists.
+item.notes[5]: Researchers.
+item.notes[6]: Teachers.
+item.number_former_id[0]: https://www.loc.gov/item/webcast-6842/
+item.subjects[0]: Biography, History
+item.subjects[1]: Government, World Affairs
+item.subjects[2]: U.S. foreign policy, Madeleine Albright, Colin Powell, Ann Compton, public service
+item.summary[0]: Ann Compton moderates a discussion by former Secretaries of State Madeleine Albright and Colin Powell on U.S. foreign policy. The presentation was the inaugural event of a five-year lecture series sponsored by the Library's Kluge Center and the Daniel K. Inouye Institute on themes that reflect Sen. Inouye's legacy of public service and civic engagement.
+item.title: Madeleine Albright & Colin Powell: Finding Shared Values for U.S. Foreign Policy
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2021689839
+medium[0]: 1 online resource
+mime_type[0]: video/mp4
+mime_type[1]: image/jpeg
+mime_type[2]: application/xml
+notes[0]: Classification: History: America.
+notes[1]: Classification: Political Science.
+notes[2]: Madeline Albright, Colin Powell, Ann Compton.
+notes[3]: Recorded on 2015-07-08.
+notes[4]: Librarians, Archivists.
+notes[5]: Researchers.
+notes[6]: Teachers.
+number[0]: 2021689839
+number[1]: online resource
+number[2]: 2022-11-09t14:48:21
+number[3]: http://www.loc.gov/item/webcast-6842
+number_carrier_type[0]: online resource
+number_former_id[0]: http://www.loc.gov/item/webcast-6842
+number_lccn[0]: 2021689839
+number_source_modified[0]: 2022-11-09t14:48:21
+online_format[0]: video
+online_format[1]: image
+online_format[2]: online text
+original_format[0]: film, video
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2021689839/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2021689839/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2021689839/dc
+partof[0].count: 690
+partof[0].title: john w. kluge center
+partof[0].url: https://www.loc.gov/search/?fa=partof:john+w.+kluge+center&fo=json
+partof[1].count: 8303
+partof[1].title: event videos
+partof[1].url: https://www.loc.gov/collections/event-videos/?fo=json
+partof[2].count: 244112
+partof[2].title: general collections
+partof[2].url: https://www.loc.gov/search/?fa=partof:general+collections&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+resources[0].caption: Event video
+resources[0].closed_captions: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:15:07:08:kl:u1:80:0:150708klu1800:150708klu1800_768x432_800/full/full/0/full/default.vtt
+resources[0].files: 1
+resources[0].fulltext_file: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:15:07:08:kl:u1:80:0:150708klu1800:150708klu1800_768x432_800/full/full/0/full/default.txt
+resources[0].image: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/15/07/08/kl/u1/80/0/150708klu1800/150708klu1800_925.0_thumb.jpg
+resources[0].poster: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/15/07/08/kl/u1/80/0/150708klu1800/150708klu1800_925.0_bg.jpg
+resources[0].url: https://www.loc.gov/resource/gdcwebcasts.150708klu1800/
+resources[0].video: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/15/07/08/kl/u1/80/0/150708klu1800/150708klu1800_768x432_800.mp4
+resources[0].video_stream: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:15:07:08:kl:u1:80:0:150708klu1800:150708klu1800_768x432_800/full/full/0/full/default.m3u8
+rights[0]: While the Library of Congress created most of the videos in this collection, they include copyrighted materials that the Library has permission from rightsholders to present. Rights assessment is your responsibility. The written permission of the copyright owners in materials not in the public domain is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. There may also be content that is protected under the copyright or neighboring-rights laws of other nations. Permissions may additionally be required from holders of other rights (such as publicity and/or privacy rights). Whenever possible, we provide information that we have about copyright owners and related matters in the catalog records, finding aids and other texts that accompany collections. However, the information we have may not be accurate or complete.
+
+More about Copyright and other Restrictions
+
+For guidance about compiling full citations consult Citing Primary Sources.
+
+Credit Line: Library of Congress
+score: 16.53285
+shard: 01
+shelf_id: http://lccn.loc.gov/2021689839
+site[0]: catalog
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: government, world affairs
+subject[1]: u.s. foreign policy, madeleine albright, colin powell, ann compton, public service
+subject[2]: biography, history
+subject_headings[0]: Biography, History
+subject_headings[1]: Government, World Affairs
+subject_headings[2]: U.S. foreign policy, Madeleine Albright, Colin Powell, Ann Compton, public service
+subjects[0].biography, history: https://www.loc.gov/search/?fa=subject:biography,+history&fo=json
+subjects[1].government, world affairs: https://www.loc.gov/search/?fa=subject:government,+world+affairs&fo=json
+subjects[2].u.s. foreign policy, madeleine albright, colin powell, ann compton, public service: https://www.loc.gov/search/?fa=subject:u.s.+foreign+policy,+madeleine+albright,+colin+powell,+ann+compton,+public+service&fo=json
+summary[0]: Ann Compton moderates a discussion by former Secretaries of State Madeleine Albright and Colin Powell on U.S. foreign policy. The presentation was the inaugural event of a five-year lecture series sponsored by the Library's Kluge Center and the Daniel K. Inouye Institute on themes that reflect Sen. Inouye's legacy of public service and civic engagement.
+timestamp: 2025-05-09T16:14:18.400Z
+title: Madeleine Albright & Colin Powell: Finding Shared Values for U.S. Foreign Policy
+type[0]: moving image
+url: https://www.loc.gov/item/2021689839/
+resources[0].caption: Event video
+resources[0].closed_captions: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:15:07:08:kl:u1:80:0:150708klu1800:150708klu1800_768x432_800/full/full/0/full/default.vtt
+resources[0].download_restricted: false
+resources[0].files[0][0].label: MP4 - 432p
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: video/mp4
+resources[0].files[0][0].size: 548627970
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/15/07/08/kl/u1/80/0/150708klu1800/150708klu1800_768x432_800.mp4
+resources[0].fulltext_file: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:15:07:08:kl:u1:80:0:150708klu1800:150708klu1800_768x432_800/full/full/0/full/default.txt
+resources[0].image: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/15/07/08/kl/u1/80/0/150708klu1800/150708klu1800_925.0_thumb.jpg
+resources[0].poster: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/15/07/08/kl/u1/80/0/150708klu1800/150708klu1800_925.0_bg.jpg
+resources[0].resource_items: false
+resources[0].url: https://www.loc.gov/resource/gdcwebcasts.150708klu1800/
+resources[0].video: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/15/07/08/kl/u1/80/0/150708klu1800/150708klu1800_768x432_800.mp4
+resources[0].video_stream: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:15:07:08:kl:u1:80:0:150708klu1800:150708klu1800_768x432_800/full/full/0/full/default.m3u8
+cite_this.apa: Library Of Congress & John W. Kluge Center, S. B. (2015) Madeleine Albright & Colin Powell: Finding Shared Values for U.S. Foreign Policy. Washington, D.C.: Library of Congress, -07-08. [Video] Retrieved from the Library of Congress, https://www.loc.gov/item/2021689839/.
+cite_this.chicago: Library Of Congress, and Sponsoring Body John W. Kluge Center. Madeleine Albright & Colin Powell: Finding Shared Values for U.S. Foreign Policy. Washington, D.C.: Library of Congress, -07-08, 2015. Video. https://www.loc.gov/item/2021689839/.
+cite_this.mla: Library Of Congress, and Sponsoring Body John W. Kluge Center. Madeleine Albright & Colin Powell: Finding Shared Values for U.S. Foreign Policy. Washington, D.C.: Library of Congress, -07-08, 2015. Video. Retrieved from the Library of Congress, <www.loc.gov/item/2021689839/>.

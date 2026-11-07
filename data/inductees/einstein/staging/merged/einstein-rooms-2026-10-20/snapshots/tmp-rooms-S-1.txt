@@ -1,0 +1,49 @@
+Title: Albert Einstein's house
+URL: https://albert.ias.edu/entities/archivalmaterial/8d8f540f-1dd3-498d-9fe9-424291757c3d
+Source element: <main>
+---
+Statistics
+Show all metadata
+Albert Einstein's house
+Alan Richards, photographer
+URL
+https://albert.ias.edu/20.500.12111/1269
+Contributor
+Alan Richards, photographer
+Identifier
+E 42
+Subject
+Einstein, Albert, 1879-1955
+Date
+undated
+Type
+Image
+Format
+B&W
+Repository
+Shelby White and Leon Levy Archives Center, Institute for Advanced Study, Princeton, NJ, USA
+Collection
+Institute for Advanced Study (Princeton, N.J.) photographs
+Rights
+The Institute for Advanced Study owns the copyright for this image. This image is licensed with the "CC By" license to support research use with proper attribution. For more information, see https://creativecommons.org/licenses/by/4.0/
+Description
+Albert Einstein's house, which was located at 112 Mercer Street in Princeton, New Jersey.
+File(s)
+ Open in Mirador
+ IIIF
+ View/Download
+Name
+
+60.jpg
+
+Size
+
+646.88 KB
+
+Format
+
+JPEG
+
+Checksum (MD5)
+
+baaa8789f2d36d94d83effb9bed2f47d

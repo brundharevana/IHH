@@ -1,0 +1,16 @@
+title: File:Madeleine Albright 1997.jpg
+DateTime: 2022-03-23 19:41:58
+ObjectName: Madeleine Albright 1997
+CommonsMetadataExtension: 1.2
+Categories: PD US DOS|Personality rights warning|Extracted images|Women looking at viewer|Women with necklaces|Women with earrings|Madeleine Albright in 1997|Black female clothing|Short hairstyles (female)|Official portraits of Madeleine Albright
+ImageDescription: Madeleine Albright, official secretary of State portrait
+DateTimeOriginal: circa 1997
+date QS:P,+1997-00-00T00:00:00Z/9,P1480,Q5727902
+Credit: Large-scale version of image found here: http://history.state.gov/department/images/bios/albright-madeleine-korbel.jpg
+Artist: United States Department of State
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+Restrictions: personality
+License: pd

@@ -1,0 +1,14 @@
+title: File:Naismith Rules of Basketball 1892 first draft.jpg
+DateTime: 2019-10-04 16:59:58
+ObjectName: Naismith Rules of Basketball 1892 first draft
+CommonsMetadataExtension: 1.2
+Categories: James Naismith|1892 in basketball|PD-old-70-expired|CC-PD-Mark|PD-old missing SDC copyright status
+ImageDescription: Typewritten first draft of the Rules of Basketball by James Naismith, dated December 1891, and signed James Naismith June 28, 1931.
+DateTimeOriginal: 1892
+Credit: http://www.sothebys.com/en/auctions/2010/james-naismith39s-founding-rules-of-basketball-n08735.html
+Artist: James Naismith
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

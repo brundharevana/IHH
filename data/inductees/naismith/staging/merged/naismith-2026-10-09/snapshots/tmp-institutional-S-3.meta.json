@@ -1,0 +1,10 @@
+{
+  "url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/springfield",
+  "fetch_url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/springfield",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:14:57Z",
+  "sha256": "e8afc0fcb02134e03be4fb6c7cffc86372ccb73a0d07d8da64c9113c1cc7fca9",
+  "bytes": 3704,
+  "http_status": 200,
+  "final_url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/springfield"
+}

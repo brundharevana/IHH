@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/183373904",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=183373904",
+  "method": "api",
+  "fetched_at": "2026-10-20T20:55:55Z",
+  "sha256": "637b228c0c196bc93654679334a2a56b96b2a4e1e57c6ae1060e40381e3bf97f",
+  "bytes": 3732,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=183373904"
+}

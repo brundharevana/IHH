@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/2018746142/",
+  "fetch_url": "https://www.loc.gov/item/2018746142/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-22T05:49:32Z",
+  "sha256": "5fc92e87511e0480b1c3acf03c362facf905da850867144d1793ab925fcc5112",
+  "bytes": 14304,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/2018746142/?fo=json"
+}

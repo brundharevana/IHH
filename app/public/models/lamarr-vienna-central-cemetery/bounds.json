@@ -1,0 +1,130 @@
+{
+  "$comment": "Walkable bounds for free roam in lamarr-vienna-central-cemetery.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 20.0,
+  "walkable": {
+    "x_min": -12.0,
+    "x_max": 12.0,
+    "z_min": -22.2,
+    "z_max": 3.0
+  },
+  "obstacles": [
+    {
+      "name": "hedge_front_l",
+      "x_min": -9.85,
+      "x_max": -4.45,
+      "z_min": -15.65,
+      "z_max": -14.35
+    },
+    {
+      "name": "hedge_front_r",
+      "x_min": 4.45,
+      "x_max": 9.55,
+      "z_min": -15.65,
+      "z_max": -14.35
+    },
+    {
+      "name": "artifact_dome_bush_l",
+      "x_min": -3.9,
+      "x_max": -1.1,
+      "z_min": -9.0,
+      "z_max": -6.2
+    },
+    {
+      "name": "artifact_dome_bush_r",
+      "x_min": 1.2,
+      "x_max": 4.0,
+      "z_min": -9.2,
+      "z_max": -6.4
+    },
+    {
+      "name": "bed_hedge",
+      "x_min": -2.35,
+      "x_max": 2.35,
+      "z_min": -14.35,
+      "z_max": -12.05
+    },
+    {
+      "name": "artifact_beethoven_grave",
+      "x_min": -8.1,
+      "x_max": -6.3,
+      "z_min": -21.65,
+      "z_max": -20.35
+    },
+    {
+      "name": "artifact_mozart_memorial",
+      "x_min": -0.95,
+      "x_max": 0.95,
+      "z_min": -19.55,
+      "z_max": -17.65
+    },
+    {
+      "name": "artifact_schubert_grave",
+      "x_min": 5.85,
+      "x_max": 7.75,
+      "z_min": -21.05,
+      "z_max": -19.95
+    },
+    {
+      "name": "conifer_l",
+      "x_min": -5.31,
+      "x_max": -2.69,
+      "z_min": -19.723,
+      "z_max": -17.277
+    },
+    {
+      "name": "thuja_r",
+      "x_min": 3.06,
+      "x_max": 5.74,
+      "z_min": -21.217,
+      "z_max": -18.383
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": -0.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -20.0
+      },
+      "note": "On the path, where the postcard's photograph was taken"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -5.5,
+      "z": -17.0,
+      "look_at": {
+        "x": -7.2,
+        "y": 1.5,
+        "z": -21.0
+      },
+      "note": "Before the Beethoven stone"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 2.6,
+      "z": -16.8,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -18.6
+      },
+      "note": "Beside the Mozart memorial"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 5.6,
+      "z": -17.6,
+      "look_at": {
+        "x": 6.8,
+        "y": 1.5,
+        "z": -20.5
+      },
+      "note": "Before the Schubert monument"
+    }
+  ]
+}

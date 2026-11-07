@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn85060004/1936-08-08/ed-1/?sp=4",
+  "fetch_url": "https://www.loc.gov/resource/sn85060004/1936-08-08/ed-1/?sp=4&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-27T13:07:14Z",
+  "sha256": "0e9f632032cc59db0294a7529f56e350af4df51b8abcc629972dedafc463b2ab",
+  "bytes": 43563,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn85060004/1936-08-08/ed-1/?sp=4&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_jay_ver01/data/sn85060004/00516994605/1936080801/0221.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/txdn/batch_txdn_jay_ver01/data/sn85060004/00516994605/1936080801/0221.xml"
+}

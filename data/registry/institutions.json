@@ -1,0 +1,608 @@
+{
+  "about": "Authority registry (SPEC 3.2, G5, G9). A source may be primary or institutional only if its url resolves to an entry here whose may_be allows it; G5 counts independence by entry. People review and edit this file; tools and pipeline agents never write it. To propose an entry, see .claude/skills/ihh-verified-facts/SKILL.md (Proposing a registry entry). Scopes (2026-10-10): urls makes a single-record entry; content_part limits an entry to one part of a page (transcription); kind public-university-archive is institutional only on exact hosts. Owner 2026-10-16: supporting_only (a second holder at most, never a fact's sole source), part_of (counted as the parent holder for G5), owner_approved_on.",
+  "entries": [
+    {
+      "id": "loc",
+      "name": "Library of Congress",
+      "kind": "government",
+      "domains": [
+        "loc.gov"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://www.loc.gov/ answered 200 with title 'Home | Library of Congress'. Covers id.loc.gov and other loc.gov hosts."
+    },
+    {
+      "id": "nara",
+      "name": "U.S. National Archives and Records Administration",
+      "kind": "government",
+      "domains": [
+        "archives.gov"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://www.archives.gov/ answered 200 with title 'National Archives | Home'; catalog.archives.gov is its catalog (JavaScript app, record JSON via the proxy API the NARA adapter uses)."
+    },
+    {
+      "id": "smithsonian",
+      "name": "Smithsonian Institution",
+      "kind": "museum",
+      "domains": [
+        "si.edu"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "www.si.edu, collections.si.edu and siarchives.si.edu answer plain fetches with 403 pages titled 'Smithsonian request verification' / 'Smithsonian site temporarily unavailable'; TLS certificate CN www.si.edu. Snapshots usually need the browser fallback."
+    },
+    {
+      "id": "nps",
+      "name": "National Park Service",
+      "kind": "government",
+      "domains": [
+        "nps.gov"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-10",
+      "note": "https://www.nps.gov/ answered 200 with title 'NPS.gov Homepage (U.S. National Park Service)'. 2026-10-10 (owner decision, DECISIONS.md 'Registry additions approved by owner'): primary only on National Register / National Historic Landmark nomination forms on npgallery.nps.gov (NRHP/GetAsset and the pdfhost NHLS/NRHP text paths); every other nps.gov page is institutional at most.",
+      "primary_paths": [
+        "npgallery.nps.gov/NRHP/GetAsset/",
+        "npgallery.nps.gov/pdfhost/docs/NHLS/",
+        "npgallery.nps.gov/pdfhost/docs/NRHP/"
+      ]
+    },
+    {
+      "id": "state-department",
+      "name": "U.S. Department of State",
+      "kind": "government",
+      "domains": [
+        "state.gov"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://www.state.gov/ answered 200 with title 'U.S. Department of State – Home'; history.state.gov (title 'Office of the Historian') is covered by this domain."
+    },
+    {
+      "id": "uspto",
+      "name": "United States Patent and Trademark Office",
+      "kind": "government",
+      "domains": [
+        "uspto.gov"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://www.uspto.gov/ answered 200 with title 'United States Patent and Trademark Office'; ppubs.uspto.gov/pubwebapp/ (patent full text) answered 200."
+    },
+    {
+      "id": "nobel-prize",
+      "name": "Nobel Prize Outreach",
+      "kind": "prize",
+      "domains": [
+        "nobelprize.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://www.nobelprize.org/ answered 200 with title 'The official website of the Nobel Prize - NobelPrize.org'."
+    },
+    {
+      "id": "einstein-archives",
+      "name": "Albert Einstein Archives, The Hebrew University of Jerusalem",
+      "kind": "archive",
+      "domains": [
+        "alberteinstein.info"
+      ],
+      "hosts": [
+        "albert-einstein.huji.ac.il"
+      ],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://www.alberteinstein.info/ redirects to https://albert-einstein.huji.ac.il/, title 'Albert Einstein Archives'; alberteinstein.info resolves to 128.139.7.24 (Hebrew University network). Only that host of huji.ac.il is listed."
+    },
+    {
+      "id": "ias",
+      "name": "Institute for Advanced Study",
+      "kind": "university",
+      "domains": [
+        "ias.edu"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://www.ias.edu/ returns a bot-check page to plain fetches; its TLS certificate (CN *.ias.edu) is issued to O=INSTITUTE FOR ADVANCED STUDY LOUIS BAMBERGER AND MRS FELIX FULD. Snapshots usually need the browser fallback."
+    },
+    {
+      "id": "university-of-kansas",
+      "name": "University of Kansas",
+      "kind": "university",
+      "domains": [
+        "ku.edu"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://ku.edu/ answered 200 with title 'Explore the home of the Jayhawks | The University of Kansas'."
+    },
+    {
+      "id": "springfield-college",
+      "name": "Springfield College",
+      "kind": "university",
+      "domains": [
+        "springfield.edu"
+      ],
+      "hosts": [
+        "cdm16122.contentdm.oclc.org"
+      ],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "primary_paths": [
+        "cdm16122.contentdm.oclc.org/digital/collection/p15370coll2/"
+      ],
+      "verified_on": "2026-10-08",
+      "owner_approved_on": "2026-10-16",
+      "note": "https://springfield.edu/ answered 200 with title 'Springfield College - Keep Moving'. Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). Added host cdm16122.contentdm.oclc.org (Springfield College Archives and Special Collections on OCLC CONTENTdm): https://cdm16122.contentdm.oclc.org/ answered 200 (title 'CONTENTdm'); every record in collection p15370coll2 names publisher Springfield College and physical location Springfield College Archives and Special Collections. Primary only for those item records (primary_paths); springfield.edu pages stay institutional at most."
+    },
+    {
+      "id": "university-of-the-pacific",
+      "name": "University of the Pacific",
+      "kind": "university",
+      "domains": [
+        "pacific.edu"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://www.pacific.edu/ answered 200 with title 'University of the Pacific - Experience-driven Education'."
+    },
+    {
+      "id": "sierra-club",
+      "name": "Sierra Club",
+      "kind": "foundation",
+      "domains": [
+        "sierraclub.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "Plain fetches of www.sierraclub.org loop on 302 redirects (cookie check); search-index titles for vault.sierraclub.org/john_muir_exhibit/ read 'The John Muir Exhibit - The Sierra Club'; TLS certificate CN *.sierraclub.org. Snapshots usually need the browser fallback."
+    },
+    {
+      "id": "naismith-hall-of-fame",
+      "name": "Naismith Memorial Basketball Hall of Fame",
+      "kind": "museum",
+      "domains": [
+        "hoophall.com"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://www.hoophall.com/ answered 200 with title 'Naismith Basketball Hall of Fame | Springfield, MA'."
+    },
+    {
+      "id": "national-inventors-hall-of-fame",
+      "name": "National Inventors Hall of Fame",
+      "kind": "prize",
+      "domains": [
+        "invent.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "primary",
+        "institutional"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://www.invent.org/ answered 200 with title 'National Inventors Hall of Fame®'."
+    },
+    {
+      "id": "wikimedia-commons",
+      "name": "Wikimedia Commons",
+      "kind": "publisher-aggregator",
+      "domains": [],
+      "hosts": [
+        "commons.wikimedia.org"
+      ],
+      "may_be": [
+        "secondary"
+      ],
+      "media_only": true,
+      "verified_on": "2026-10-08",
+      "note": "https://commons.wikimedia.org/ answered 200 with title 'Wikimedia Commons'. Media only: file pages carry uploader claims about rights, so it is never evidence for a fact, and the holder's own rights statement is still needed."
+    },
+    {
+      "id": "google-patents",
+      "name": "Google Patents",
+      "kind": "publisher-aggregator",
+      "domains": [],
+      "hosts": [
+        "patents.google.com"
+      ],
+      "may_be": [
+        "secondary"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://patents.google.com/ answered 200 with title 'Google Patents'. An aggregator of patent documents: secondary; the issuing patent office's record is the primary source."
+    },
+    {
+      "id": "britannica",
+      "name": "Encyclopaedia Britannica",
+      "kind": "publisher-aggregator",
+      "domains": [
+        "britannica.com"
+      ],
+      "hosts": [],
+      "may_be": [
+        "secondary"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "www.britannica.com returns a bot-check page to plain fetches (TLS certificate CN www.britannica.com); search-index results on britannica.com carry Encyclopaedia Britannica articles. An encyclopedia: secondary."
+    },
+    {
+      "id": "immigrant-hall-of-honor",
+      "name": "Immigrant Hall of Honor",
+      "kind": "foundation",
+      "domains": [
+        "immigranthallofhonor.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "secondary"
+      ],
+      "verified_on": "2026-10-08",
+      "note": "https://immigranthallofhonor.org/ answered 200 with title 'Immigrant Hall of Honor | Celebrating Immigrant Contributions'. Secondary: its pages are what the pipeline verifies."
+    },
+    {
+      "id": "ucla-library-digital-collections",
+      "name": "UCLA Library Digital Collections",
+      "kind": "public-university-archive",
+      "domains": [],
+      "hosts": [
+        "digital.library.ucla.edu"
+      ],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-10",
+      "note": "Owner decision 2026-10-10 (DECISIONS.md 'Registry additions approved by owner'). https://digital.library.ucla.edu/ answered 200 with title 'UCLA Library Digital Collections'; TLS certificate subject O=University of California, Los Angeles, CN=digital.library.ucla.edu. Public university digital library holding original items. Only this host; ucla.edu as a whole is not listed."
+    },
+    {
+      "id": "university-of-utah-digital-newspapers",
+      "name": "J. Willard Marriott Library, University of Utah",
+      "kind": "public-university-archive",
+      "domains": [],
+      "hosts": [
+        "newspapers.lib.utah.edu"
+      ],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-10",
+      "note": "Owner policy 2026-10-10: a public university archive counts as institutional. Utah Digital Newspapers, run by the University of Utah's J. Willard Marriott Library: plain fetches of https://newspapers.lib.utah.edu/ get HTTP 418 (bot check); TLS certificate subject O=University of Utah, CN=newspapers.lib.utah.edu. Holds digitized original newspapers. Only this host; utah.edu as a whole is not listed. Already cited by NAI-S-0059."
+    },
+    {
+      "id": "einstein-papers-project",
+      "name": "The Collected Papers of Albert Einstein (Einstein Papers Project, Princeton University Press)",
+      "kind": "university",
+      "domains": [],
+      "hosts": [
+        "einsteinpapers.press.princeton.edu"
+      ],
+      "may_be": [
+        "institutional"
+      ],
+      "content_part": "transcription",
+      "document_paths": [
+        "/vol[0-9]{1,2}[ab]?-doc/[0-9]+/?"
+      ],
+      "verified_on": "2026-10-10",
+      "note": "Owner decision 2026-10-10 (DECISIONS.md 'Scholarly edition and Nature: narrow approvals'): counts ONLY for word-for-word transcriptions of original documents, never editors' notes, introductions, footnotes or commentary; a source must carry content_part 'transcription' and its snapshot must mark the transcribed text. The registry bounds this, not the record: document_paths admits only the original-language volume reader pages /volN-doc/<page> (vol1-vol16, 8a, 8b; no query string). Excluded by path: /volN-trans/ (editors' English translation), bare /volN, /einstein-database/, /api/, images. Evidence (Wayback CDX and a 2018 snapshot of vol1-doc/100, checked 2026-10-10): the site was a Tizra page-image reader; each page is one scanned printed page of the volume (alt text 'Volume 1 ... page 32') with an OCR word layer of undifferentiated spans, so introductions, document headings, texts, footnotes and indexes sit on the same URL shape and cannot be separated by URL or markup. The path scope therefore only excludes whole non-document sections; the owner scope for document text on a -doc page rests on the manual TRANSCRIPTION markers plus the adversary's check that each quote is document text. Institutional, not primary (a transcription is not the original record; a person may decide otherwise). https://einsteinpapers.press.princeton.edu/ answered 200 (redirect to /einstein-database/, title 'Einstein Database - PUP Einstein Database'); TLS certificate CN=einsteinpapers.press.princeton.edu (no organization named). On 2026-10-10 the volume pages (e.g. /vol12-doc/26) redirect to that database announcement, so no transcription was reachable by plain fetch or browser."
+    },
+    {
+      "id": "nature-1921-nas-report",
+      "name": "Nature, volume 107, page 539 (1921)",
+      "kind": "publisher-aggregator",
+      "domains": [],
+      "hosts": [],
+      "urls": [
+        "https://www.nature.com/articles/107539a0"
+      ],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-10",
+      "note": "Owner decision 2026-10-10 (DECISIONS.md 'Scholarly edition and Nature: narrow approvals'): ONE item only, the 1921 report 'The National Academy of Sciences, U.S.A.' (Nature 107, 539-540) for the Washington 1921 room. Any other Nature or journal url is unregistered (secondary). https://www.nature.com/articles/107539a0 answered 200 with title 'The National Academy of Sciences, U.S.A. | Nature' after nature.com's cookie redirect; TLS certificate CN=*.nature.com. Institutional, not primary: like the newspaper pages on file, a printed report is not the original record."
+    },
+    {
+      "id": "jfk-library",
+      "name": "John F. Kennedy Presidential Library and Museum",
+      "kind": "archive",
+      "domains": [
+        "jfklibrary.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "part_of": "nara",
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). A presidential library of the National Archives, so G5 counts it as NARA (part_of nara), never as a second holder. https://www.jfklibrary.org/ returns a Cloudflare 403 to plain fetches (2026-10-16); TLS certificate CN=www.jfklibrary.org (Google Trust Services); the 2012 forum transcript page read in the Browser pane on 2026-10-15 was titled 'A CONVERSATION OF MADELEINE ALBRIGHT - 2012 | JFK Library'. Institutional: its transcripts and pages describe records, which a person may later give primary_paths."
+    },
+    {
+      "id": "fdr-library",
+      "name": "Franklin D. Roosevelt Presidential Library and Museum",
+      "kind": "archive",
+      "domains": [
+        "fdrlibrary.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "part_of": "nara",
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). A presidential library of the National Archives (part_of nara: one holder with NARA for G5). https://www.fdrlibrary.org/ answered 200 with title 'Home - FDR Presidential Library & Museum'; TLS certificate O=Marist University, CN=fdrlibrary.org (the library's web partner)."
+    },
+    {
+      "id": "docsteach",
+      "name": "DocsTeach (National Archives Foundation)",
+      "kind": "foundation",
+      "domains": [
+        "docsteach.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "part_of": "nara",
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). https://www.docsteach.org/ redirects to https://docsteach.org/ (200, title 'DocsTeach'); the page text says it is a 'National Archives Foundation educational resource using primary sources from the National Archives'. TLS certificate CN=tls.automattic.com (hosting platform). Its document pages reproduce National Archives records, so G5 counts it as NARA (part_of nara)."
+    },
+    {
+      "id": "ghi-ghdi",
+      "name": "German History in Documents and Images (German Historical Institute Washington)",
+      "kind": "foundation",
+      "domains": [
+        "germanhistorydocs.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). https://germanhistorydocs.org/ answered 200 with title 'German History in Documents and Images' (2026-10-16); document pages end 'GHDI is an initiative of the German Historical Institute, Washington DC' (PROPOSED.md 4). Publishes transcriptions of documents held elsewhere: institutional, not primary."
+    },
+    {
+      "id": "wellesley-college",
+      "name": "Wellesley College",
+      "kind": "university",
+      "domains": [
+        "wellesley.edu"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). https://www.wellesley.edu/ answered 200 with title 'Wellesley - Home' (2026-10-16)."
+    },
+    {
+      "id": "mcgill-university",
+      "name": "McGill University",
+      "kind": "university",
+      "domains": [
+        "mcgill.ca"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). https://www.mcgill.ca/ answered 200 with title 'McGill University' (2026-10-16); covers the University Archives and McGill Athletics pages."
+    },
+    {
+      "id": "kansas-historical-society",
+      "name": "Kansas Historical Society",
+      "kind": "government",
+      "domains": [
+        "kansashistory.gov"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). Kansas state agency. https://www.kansashistory.gov/ answered 200 with title 'Home - Kansas Historical Society' (2026-10-16). Institutional only until a person lists record paths (Kansas Memory items)."
+    },
+    {
+      "id": "parks-canada",
+      "name": "Parks Canada",
+      "kind": "government",
+      "domains": [],
+      "hosts": [
+        "parks.canada.ca",
+        "pc.gc.ca"
+      ],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). https://parks.canada.ca/ answered 200 with title 'Parks Canada' and https://www.pc.gc.ca/ 200 with 'Parcs Canada | Parks Canada' (2026-10-16). Exact hosts only: canada.ca and gc.ca cover every federal department."
+    },
+    {
+      "id": "dictionary-of-canadian-biography",
+      "name": "Dictionary of Canadian Biography",
+      "kind": "university",
+      "domains": [
+        "biographi.ca"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). Published by the University of Toronto and Université Laval. https://www.biographi.ca/en/ answered 200 with title 'Home – Dictionary of Canadian Biography' (2026-10-16); TLS certificate CN=www.biographi.ca."
+    },
+    {
+      "id": "miller-center",
+      "name": "Miller Center, University of Virginia",
+      "kind": "university",
+      "domains": [
+        "millercenter.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). https://millercenter.org/ answered 200 with title 'Home | Miller Center' (2026-10-16); TLS certificate O=University of Virginia, CN=millercenter.org."
+    },
+    {
+      "id": "wisconsin-historical-society",
+      "name": "Wisconsin Historical Society",
+      "kind": "archive",
+      "domains": [
+        "wisconsinhistory.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). https://www.wisconsinhistory.org/ answered 200 with title 'Home - WisHistory' (2026-10-16); covers legacy.wisconsinhistory.org. Institutional only (no primary_paths yet)."
+    },
+    {
+      "id": "uw-madison-libraries",
+      "name": "University of Wisconsin-Madison Libraries",
+      "kind": "public-university-archive",
+      "domains": [],
+      "hosts": [
+        "library.wisc.edu",
+        "search.library.wisc.edu",
+        "digicoll.library.wisc.edu"
+      ],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). Exact hosts only (wisc.edu as a whole is not listed). https://www.library.wisc.edu/ answered 200 with title 'UW-Madison Libraries'; https://search.library.wisc.edu/ 200, 'Search UW-Madison Libraries'; https://digicoll.library.wisc.edu/ redirects to search.library.wisc.edu/search/digital ('UWDC Search - UW-Madison Libraries') (2026-10-16)."
+    },
+    {
+      "id": "historic-environment-scotland",
+      "name": "Historic Environment Scotland",
+      "kind": "government",
+      "domains": [
+        "historicenvironment.scot"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). https://www.historicenvironment.scot/ answered 200 with title 'Home | Historic Environment Scotland'; https://portal.historicenvironment.scot/ answered 200 (2026-10-16)."
+    },
+    {
+      "id": "jewish-museum-vienna",
+      "name": "Jewish Museum Vienna",
+      "kind": "museum",
+      "domains": [
+        "jmw.at"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). https://www.jmw.at/ answered 200 with title 'Jüdisches Museum Wien | Jüdisches Museum Wien' (2026-10-16)."
+    },
+    {
+      "id": "leo-baeck-institute",
+      "name": "Leo Baeck Institute",
+      "kind": "archive",
+      "domains": [
+        "lbi.org"
+      ],
+      "hosts": [],
+      "may_be": [
+        "institutional"
+      ],
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). https://www.lbi.org/ answered 200 with title 'Home - Leo Baeck Institute' (2026-10-16). Institutional only (no primary_paths yet)."
+    },
+    {
+      "id": "wien-geschichte-wiki",
+      "name": "Wien Geschichte Wiki (Stadt Wien)",
+      "kind": "government",
+      "domains": [],
+      "hosts": [
+        "geschichtewiki.wien.gv.at"
+      ],
+      "may_be": [
+        "secondary"
+      ],
+      "supporting_only": true,
+      "verified_on": "2026-10-16",
+      "owner_approved_on": "2026-10-16",
+      "note": "Owner approval 2026-10-16 (DECISIONS.md 2026-10-16 'Owner review of 3D mockups': all publishers proposed in the five TOUR-RESEARCH.md files approved). Supporting-only (owner decision 2026-10-16): it may count as an independent second holder for G5 but is never the sole, primary or institutional source of a fact (gates.g9_fact_use, may_be secondary). City of Vienna wiki: https://www.geschichtewiki.wien.gv.at/ redirects to /Wien_Geschichte_Wiki (200, title 'Wien Geschichte Wiki'); page footer 'Ein Service der Stadt Wien' (2026-10-14). German text: G2 needs the claim in the source's own words."
+    }
+  ]
+}

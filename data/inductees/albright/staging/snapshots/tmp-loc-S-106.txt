@@ -1,0 +1,153 @@
+_version_: 1831659933416816640
+access_restricted: false
+aka[0]: http://lccn.loc.gov/2021689585
+aka[1]: http://www.loc.gov/item/2021689585/
+aka[2]: https://hdl.loc.gov/loc.gdc/gdcwebcasts.141119klu0900
+aka[3]: http://www.loc.gov/resource/gdcwebcasts.141119klu0900/
+contributor_names[0]: Library of Congress
+contributor_names[1]: John W. Kluge Center (Library of Congress), sponsoring body
+contributors[0].john w. kluge center (library of congress): https://www.loc.gov/search/?fa=contributor:john+w.+kluge+center+%28library+of+congress%29&fo=json
+contributors[1].library of congress: https://www.loc.gov/search/?fa=contributor:library+of+congress&fo=json
+created_published[0]: Washington, D.C. : Library of Congress, 2014-11-19.
+date: 2014
+dates[0].2014: https://www.loc.gov/search/?dates=2014/2014&fo=json
+description[0]: A special conference commemorated the 25th anniversary of the Velvet Revolution and its key figure, Václav Havel, who later became president of Czechoslovakia and the Czech Republic. Speakers included Michael Zantovsky, former Secretary of State Madeleine Albright and Sen. John McCain.
+digital_id[0]: https://hdl.loc.gov/loc.gdc/gdcwebcasts.141119klu0900
+digitized: true
+display_offsite: true
+extract_timestamp: 2025-04-28T19:52:22.366Z
+extract_urls[0]: http://lccn.loc.gov/2021689585#gdc/webcasts
+extract_urls[1]: http://lccn.loc.gov/2021689585#catalog-split-14
+format[0].film, video: https://www.loc.gov/search/?fa=original_format:film,+video&fo=json
+group[0]: gdc/webcasts
+group[1]: catalog-split-14
+group[2]: catalog
+group[3]: cataloged-event-videos
+group[4]: main-catalog-split-14
+hassegments: false
+id: http://www.loc.gov/item/2021689585/
+image_url[0]: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/14/11/19/kl/u0/90/0/141119klu0900/141119klu0900_615.0_thumb.jpg
+index: 1
+item.contributors[0]: Library of Congress
+item.contributors[1]: John W. Kluge Center (Library of Congress), sponsoring body
+item.created_published[0]: Washington, D.C. : Library of Congress, 2014-11-19.
+item.date: 2014
+item.digital_id[0]: https://hdl.loc.gov/loc.gdc/gdcwebcasts.141119klu0900
+item.format[0]: moving image
+item.language[0]: eng
+item.medium[0]: 1 online resource
+item.notes[0]: Group name: Václav Havel's Legacy Today.
+item.notes[1]: Classification: History (General) and History of Europe.
+item.notes[2]: Classification: Political Science.
+item.notes[3]: Various Speakers.
+item.notes[4]: Recorded on 2014-11-19.
+item.notes[5]: Librarians, Archivists.
+item.notes[6]: Researchers.
+item.notes[7]: Teachers.
+item.number_former_id[0]: https://www.loc.gov/item/webcast-6671/
+item.subjects[0]: Biography, History
+item.subjects[1]: Government, World Affairs
+item.subjects[2]: Vaclav Havel, Czechoslovakia, Czech Republic, Velvet Revolution
+item.summary[0]: A special conference commemorated the 25th anniversary of the Velvet Revolution and its key figure, Václav Havel, who later became president of Czechoslovakia and the Czech Republic. Speakers included Michael Zantovsky, former Secretary of State Madeleine Albright and Sen. John McCain.
+item.title: Václav Havel's Legacy Today (Part 1)
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2021689585
+medium[0]: 1 online resource
+mime_type[0]: video/mp4
+mime_type[1]: image/jpeg
+mime_type[2]: application/xml
+notes[0]: Group name: Václav Havel's Legacy Today.
+notes[1]: Classification: History (General) and History of Europe.
+notes[2]: Classification: Political Science.
+notes[3]: Various Speakers.
+notes[4]: Recorded on 2014-11-19.
+notes[5]: Librarians, Archivists.
+notes[6]: Researchers.
+notes[7]: Teachers.
+number[0]: 2022-11-09t14:46:51
+number[1]: 2021689585
+number[2]: http://www.loc.gov/item/webcast-6671
+number[3]: online resource
+number_carrier_type[0]: online resource
+number_former_id[0]: http://www.loc.gov/item/webcast-6671
+number_lccn[0]: 2021689585
+number_source_modified[0]: 2022-11-09t14:46:51
+online_format[0]: video
+online_format[1]: image
+online_format[2]: online text
+original_format[0]: film, video
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2021689585/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2021689585/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2021689585/dc
+partof[0].count: 2
+partof[0].title: v&aacute;clav havel's legacy today
+partof[0].url: https://www.loc.gov/search/?fa=partof:v%26aacute%3Bclav+havel%27s+legacy+today&fo=json
+partof[1].count: 690
+partof[1].title: john w. kluge center
+partof[1].url: https://www.loc.gov/search/?fa=partof:john+w.+kluge+center&fo=json
+partof[2].count: 8303
+partof[2].title: event videos
+partof[2].url: https://www.loc.gov/collections/event-videos/?fo=json
+partof[3].count: 244112
+partof[3].title: general collections
+partof[3].url: https://www.loc.gov/search/?fa=partof:general+collections&fo=json
+partof[4].count: 1909462
+partof[4].title: catalog
+partof[4].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+resources[0].caption: Event video
+resources[0].closed_captions: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:14:11:19:kl:u0:90:0:141119klu0900:141119klu0900_768x432_800/full/full/0/full/default.vtt
+resources[0].files: 1
+resources[0].fulltext_file: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:14:11:19:kl:u0:90:0:141119klu0900:141119klu0900_768x432_800/full/full/0/full/default.txt
+resources[0].image: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/14/11/19/kl/u0/90/0/141119klu0900/141119klu0900_615.0_thumb.jpg
+resources[0].poster: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/14/11/19/kl/u0/90/0/141119klu0900/141119klu0900_615.0_bg.jpg
+resources[0].url: https://www.loc.gov/resource/gdcwebcasts.141119klu0900/
+resources[0].video: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/14/11/19/kl/u0/90/0/141119klu0900/141119klu0900_768x432_800.mp4
+resources[0].video_stream: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:14:11:19:kl:u0:90:0:141119klu0900:141119klu0900_768x432_800/full/full/0/full/default.m3u8
+rights[0]: While the Library of Congress created most of the videos in this collection, they include copyrighted materials that the Library has permission from rightsholders to present. Rights assessment is your responsibility. The written permission of the copyright owners in materials not in the public domain is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. There may also be content that is protected under the copyright or neighboring-rights laws of other nations. Permissions may additionally be required from holders of other rights (such as publicity and/or privacy rights). Whenever possible, we provide information that we have about copyright owners and related matters in the catalog records, finding aids and other texts that accompany collections. However, the information we have may not be accurate or complete.
+
+More about Copyright and other Restrictions
+
+For guidance about compiling full citations consult Citing Primary Sources.
+
+Credit Line: Library of Congress
+score: 17.032318
+shard: 01
+shelf_id: http://lccn.loc.gov/2021689585
+site[0]: catalog
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: biography, history
+subject[1]: government, world affairs
+subject[2]: vaclav havel, czechoslovakia, czech republic, velvet revolution
+subject_headings[0]: Biography, History
+subject_headings[1]: Government, World Affairs
+subject_headings[2]: Vaclav Havel, Czechoslovakia, Czech Republic, Velvet Revolution
+subjects[0].biography, history: https://www.loc.gov/search/?fa=subject:biography,+history&fo=json
+subjects[1].government, world affairs: https://www.loc.gov/search/?fa=subject:government,+world+affairs&fo=json
+subjects[2].vaclav havel, czechoslovakia, czech republic, velvet revolution: https://www.loc.gov/search/?fa=subject:vaclav+havel,+czechoslovakia,+czech+republic,+velvet+revolution&fo=json
+summary[0]: A special conference commemorated the 25th anniversary of the Velvet Revolution and its key figure, Václav Havel, who later became president of Czechoslovakia and the Czech Republic. Speakers included Michael Zantovsky, former Secretary of State Madeleine Albright and Sen. John McCain.
+timestamp: 2025-05-09T16:10:31.238Z
+title: Václav Havel's Legacy Today (Part 1)
+type[0]: moving image
+url: https://www.loc.gov/item/2021689585/
+resources[0].caption: Event video
+resources[0].closed_captions: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:14:11:19:kl:u0:90:0:141119klu0900:141119klu0900_768x432_800/full/full/0/full/default.vtt
+resources[0].download_restricted: false
+resources[0].files[0][0].label: MP4 - 432p
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: video/mp4
+resources[0].files[0][0].size: 930637002
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/14/11/19/kl/u0/90/0/141119klu0900/141119klu0900_768x432_800.mp4
+resources[0].fulltext_file: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:14:11:19:kl:u0:90:0:141119klu0900:141119klu0900_768x432_800/full/full/0/full/default.txt
+resources[0].image: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/14/11/19/kl/u0/90/0/141119klu0900/141119klu0900_615.0_thumb.jpg
+resources[0].poster: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/14/11/19/kl/u0/90/0/141119klu0900/141119klu0900_615.0_bg.jpg
+resources[0].resource_items: false
+resources[0].url: https://www.loc.gov/resource/gdcwebcasts.141119klu0900/
+resources[0].video: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/14/11/19/kl/u0/90/0/141119klu0900/141119klu0900_768x432_800.mp4
+resources[0].video_stream: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:14:11:19:kl:u0:90:0:141119klu0900:141119klu0900_768x432_800/full/full/0/full/default.m3u8
+cite_this.apa: Library Of Congress & John W. Kluge Center, S. B. (2014) Václav Havel's Legacy Today Part 1. Washington, D.C.: Library of Congress, -11-19. [Video] Retrieved from the Library of Congress, https://www.loc.gov/item/2021689585/.
+cite_this.chicago: Library Of Congress, and Sponsoring Body John W. Kluge Center. Václav Havel's Legacy Today Part 1. Washington, D.C.: Library of Congress, -11-19, 2014. Video. https://www.loc.gov/item/2021689585/.
+cite_this.mla: Library Of Congress, and Sponsoring Body John W. Kluge Center. Václav Havel's Legacy Today Part 1. Washington, D.C.: Library of Congress, -11-19, 2014. Video. Retrieved from the Library of Congress, <www.loc.gov/item/2021689585/>.

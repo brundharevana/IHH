@@ -1,0 +1,291 @@
+_version_: 1731566486593470464
+access_restricted: false
+aka[0]: http://www.loc.gov/pictures/collection/pan/item/2007662163/
+aka[1]: https://hdl.loc.gov/loc.pnp/cph.3c21332
+aka[2]: http://www.loc.gov/item/2007662163/
+aka[3]: http://www.loc.gov/pictures/item/2007662163/
+aka[4]: https://hdl.loc.gov/loc.pnp/pan.6a05401
+aka[5]: http://www.loc.gov/resource/pan.6a05401/
+aka[6]: http://www.loc.gov/resource/cph.3c21332/
+aka[7]: http://lccn.loc.gov/2007662163
+call_number: PAN US GEOG - Kansas no. 20 (E size) [P&P]
+contributor_names[0]: Lawrence, A. (Alfred), copyright claimant
+contributors[0].lawrence, a. (alfred): https://www.loc.gov/search/?fa=contributor:lawrence,+a.+%28alfred%29&fo=json
+created: 2016-04-20 05:51:06
+created_published[0]: c1913.
+created_published_date: c1913.
+date: 1913-01-01
+description[0]: 1 photographic print : gelatin silver ; 6.5 x 32 in.
+digital_id[0]: pan 6a05401 //hdl.loc.gov/loc.pnp/pan.6a05401
+digital_id[1]: cph 3c21332 //hdl.loc.gov/loc.pnp/cph.3c21332
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-09-01T22:57:42.071Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/pan/item/2007662163/#pan
+extract_urls[1]: http://lccn.loc.gov/2007662163#catalog-split-01
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Gelatin silver prints.
+format_headings[1]: Panoramic photographs.
+genre[0]: Panoramic photographs
+genre[1]: Gelatin silver prints
+group[0]: pan
+group[1]: catalog-split-01
+group[2]: catalog
+group[3]: panoramic-photographs
+group[4]: main-catalog-split-01
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2007662163/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401_150px.jpg#h=36&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401t.gif#h=36&w=150
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401v.jpg#h=246&w=1024
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401r.jpg#h=420&w=1750
+index: 1
+item.call_number: PAN US GEOG - Kansas no. 20 (E size) [P&P]
+item.contributor_names[0]: Lawrence, A. (Alfred), copyright claimant
+item.contributors[0]: Lawrence, A. (Alfred), copyright claimant.
+item.control_number: 2007662163
+item.created: 2016-04-20 05:51:06
+item.created_published: c1913.
+item.created_published_date: c1913.
+item.creators[0].link: //www.loc.gov/pictures/related/?fi=name&q=Lawrence%2C%20A.%20%28Alfred%29&co=pan
+item.creators[0].role: copyright claimant
+item.creators[0].title: Lawrence, A. (Alfred)
+item.date: c1913.
+item.digital_id[0]: pan 6a05401 //hdl.loc.gov/loc.pnp/pan.6a05401
+item.digital_id[1]: cph 3c21332 //hdl.loc.gov/loc.pnp/cph.3c21332
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: //www.loc.gov/pictures/related/?fi=format&q=Gelatin%20silver%20prints.&co=pan
+item.formats[0].title: Gelatin silver prints.
+item.formats[1].link: //www.loc.gov/pictures/related/?fi=format&q=Panoramic%20photographs.&co=pan
+item.formats[1].title: Panoramic photographs.
+item.genre[0]: Panoramic photographs
+item.genre[1]: Gelatin silver prints
+item.id: 2007662163
+item.language[0]: eng
+item.link: //www.loc.gov/pictures/item/2007662163/
+item.marc: //www.loc.gov/pictures/item/2007662163/marc/
+item.medium[0]: 1 photographic print : gelatin silver ; 6.5 x 32 in.
+item.medium_brief: 1 photographic print :
+item.mediums[0]: 1 photographic print : gelatin silver ; 6.5 x 32 in.
+item.modified: 2016-04-20 05:51:06
+item.notes[0]: J183516 U.S. Copyright Office
+item.notes[1]: Copyright deposit; A. Lawrence; July 2, 1913.
+item.notes[2]: Subject of photo is actually University of Kansas in Lawrence.
+item.notes[3]: Title derived from copyright deposit records.
+item.number_former_id[0]: https://www.loc.gov/item/2007662163
+item.number_former_id[1]: https://www.loc.gov/item/pan1993001753/PP
+item.part_of: Panoramic photographs (Library of Congress)
+item.place[0].link: //www.loc.gov/pictures/related/?fi=place&q=Kansas--Lawrence&co=pan
+item.place[0].title: Kansas--Lawrence
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-USZ62-121332 (b&w film copy neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/pan.6a05401
+item.resource_links[1]: //hdl.loc.gov/loc.pnp/cph.3c21332
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401r.jpg
+item.sort_date: 1913
+item.source_collection[0]: Panoramic photographs (Library of Congress)
+item.source_created: 1991-05-23 00:00:00
+item.source_modified: 2012-12-11 16:58:25
+item.subject_headings[0]: Universities & colleges.
+item.subject_headings[1]: University of Kansas.
+item.subject_headings[2]: United States--Kansas--Lawrence.
+item.subject_headings[3]: Kansas--Lawrence
+item.subjects[0]: Universities & colleges
+item.subjects[1]: University of Kansas
+item.subjects[2]: United States--Kansas--Lawrence
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401_150px.jpg
+item.title: Kansas State University [i.e., University of Kansas]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+latlong[0]: 38.9716666667
+latlong[1]: -95.2352777778
+library_of_congress_control_number: 2007662163
+link: //www.loc.gov/pictures/item/2007662163/
+location[0]: kansas
+location[1]: lawrence
+location[2]: united states
+location_city[0]: lawrence
+location_country[0]: united states
+location_state[0]: kansas
+location_str: Lawrence, Kansas
+locations[0].kansas: https://www.loc.gov/search/?fa=location:kansas&fo=json
+locations[1].lawrence: https://www.loc.gov/search/?fa=location:lawrence&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].lawrence: https://www.loc.gov/search/?fa=location_city:lawrence&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].kansas: https://www.loc.gov/search/?fa=location_state:kansas&fo=json
+locations_str[0].Lawrence, Kansas: https://www.loc.gov/search/?fa=location_str:Lawrence,+Kansas&fo=json
+lonlat[0]: -95.2352777778
+lonlat[1]: 38.9716666667
+marc: //www.loc.gov/pictures/item/2007662163/marc/
+medium[0]: 1 photographic print : gelatin silver ; 6.5 x 32 in.
+medium_brief: 1 photographic print :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-20 05:51:06
+notes[0]: J183516 U.S. Copyright Office
+notes[1]: Copyright deposit; A. Lawrence; July 2, 1913.
+notes[2]: Subject of photo is actually University of Kansas in Lawrence.
+notes[3]: Title derived from copyright deposit records.
+number[0]: http://www.loc.gov/item/pan1993001753/pp
+number[1]: 2012-12-11t16:58:25
+number[2]: http://www.loc.gov/item/2007662163
+number[3]: 2007662163
+number_former_id[0]: http://www.loc.gov/item/2007662163
+number_former_id[1]: http://www.loc.gov/item/pan1993001753/pp
+number_lccn[0]: 2007662163
+number_source_modified[0]: 2012-12-11t16:58:25
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2007662163/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2007662163/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2007662163/dc
+partof[0].count: 4300
+partof[0].title: taking the long view: panoramic photographs, 1851-1991
+partof[0].url: https://www.loc.gov/search/?fa=partof:taking+the+long+view:+panoramic+photographs,+1851-1991&fo=json
+partof[1].count: 4323
+partof[1].title: panoramic photographs
+partof[1].url: https://www.loc.gov/collections/panoramic-photographs/?fo=json
+partof[2].count: 419054
+partof[2].title: american memory
+partof[2].url: https://www.loc.gov/search/?fa=partof:american+memory&fo=json
+partof[3].count: 910731
+partof[3].title: prints & photographs online catalog (library of congress)
+partof[3].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[4].count: 1162489
+partof[4].title: prints and photographs division
+partof[4].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[5].count: 1910629
+partof[5].title: catalog
+partof[5].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: //www.loc.gov/pictures/related/?fi=place&q=Kansas--Lawrence&co=pan
+place[0].title: Kansas--Lawrence
+related.neighbors: //www.loc.gov/pictures/related/?&co=pan&pk=2007662163&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-USZ62-121332 (b&w film copy neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/pan.6a05401
+resource_links[1]: //hdl.loc.gov/loc.pnp/cph.3c21332
+resources[0].caption: digital file from intermediary roll film copy
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401_150px.jpg
+resources[0].url: https://www.loc.gov/resource/pan.6a05401/
+resources[1].caption: digital file from b&w film copy neg.
+resources[1].files: 1
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21300/3c21332_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3c21332/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Panoramic Photograph Filing Series - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.459465
+shard: 00
+shelf_id: PAN US GEOG - Kansas no. 20 (E size) [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1913
+source_collection: Panoramic photographs (Library of Congress)
+source_created: 1991-05-23 00:00:00
+source_modified: 2012-12-11 16:58:25
+subject[0]: universities & colleges
+subject[1]: kansas
+subject[2]: united states
+subject[3]: lawrence
+subject[4]: panoramic photographs
+subject[5]: gelatin silver prints
+subject[6]: university of kansas
+subject_headings[0]: Universities & colleges
+subject_headings[1]: University of Kansas
+subject_headings[2]: United States--Kansas--Lawrence
+subjects[0].gelatin silver prints: https://www.loc.gov/search/?fa=subject:gelatin+silver+prints&fo=json
+subjects[1].kansas: https://www.loc.gov/search/?fa=subject:kansas&fo=json
+subjects[2].lawrence: https://www.loc.gov/search/?fa=subject:lawrence&fo=json
+subjects[3].panoramic photographs: https://www.loc.gov/search/?fa=subject:panoramic+photographs&fo=json
+subjects[4].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[5].universities & colleges: https://www.loc.gov/search/?fa=subject:universities+%26+colleges&fo=json
+subjects[6].university of kansas: https://www.loc.gov/search/?fa=subject:university+of+kansas&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401_150px.jpg
+timestamp: 2022-04-30T20:28:05.069Z
+title: Kansas State University [i.e., University of Kansas]
+unrestricted: true
+url: https://www.loc.gov/item/2007662163/
+resources[0].caption: digital file from intermediary roll film copy
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 6200578
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/pan/6a05000/6a05400/6a05401u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 36
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 2215
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 36
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 5001
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401t.gif
+resources[0].files[0][2].width: 150
+resources[0].files[0][3].height: 246
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 99203
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401v.jpg
+resources[0].files[0][3].width: 1024
+resources[0].files[0][4].height: 420
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 232776
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401r.jpg
+resources[0].files[0][4].width: 1750
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/pan/6a05000/6a05400/6a05401_150px.jpg
+resources[0].url: https://www.loc.gov/resource/pan.6a05401/
+resources[1].caption: digital file from b&w film copy neg.
+resources[1].files[0][0].height: 0
+resources[1].files[0][0].levels: 1
+resources[1].files[0][0].mimetype: image/tiff
+resources[1].files[0][0].size: 13461396
+resources[1].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3c20000/3c21000/3c21300/3c21332u.tif
+resources[1].files[0][0].width: 0
+resources[1].files[0][1].height: 120
+resources[1].files[0][1].levels: 1
+resources[1].files[0][1].mimetype: image/jpeg
+resources[1].files[0][1].size: 2598
+resources[1].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21300/3c21332_150px.jpg
+resources[1].files[0][1].width: 150
+resources[1].files[0][2].height: 120
+resources[1].files[0][2].levels: 1
+resources[1].files[0][2].mimetype: image/gif
+resources[1].files[0][2].size: 8971
+resources[1].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21300/3c21332t.gif
+resources[1].files[0][2].width: 150
+resources[1].files[0][3].height: 513
+resources[1].files[0][3].levels: 1
+resources[1].files[0][3].mimetype: image/jpeg
+resources[1].files[0][3].size: 16864
+resources[1].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21300/3c21332r.jpg
+resources[1].files[0][3].width: 640
+resources[1].files[0][4].height: 822
+resources[1].files[0][4].levels: 1
+resources[1].files[0][4].mimetype: image/jpeg
+resources[1].files[0][4].size: 47728
+resources[1].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21300/3c21332v.jpg
+resources[1].files[0][4].width: 1024
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c21000/3c21300/3c21332_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3c21332/
+cite_this.apa: Lawrence, A. (ca. 1913) Kansas State University i.e., University of Kansas. Kansas Lawrence United States, ca. 1913. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2007662163/.
+cite_this.chicago: Lawrence, A. , Copyright Claimant. Kansas State University i.e., University of Kansas. Kansas Lawrence United States, ca. 1913. Photograph. https://www.loc.gov/item/2007662163/.
+cite_this.mla: Lawrence, A. , Copyright Claimant. Kansas State University i.e., University of Kansas. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2007662163/>.

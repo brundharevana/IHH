@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/glba/learn/historyculture/john-muir.htm",
+  "fetch_url": "https://www.nps.gov/glba/learn/historyculture/john-muir.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:40:31Z",
+  "sha256": "49a2105d844f45f34d56911589f9a53711ee43976d6208d2161d4befa68867cc",
+  "bytes": 3283,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/glba/learn/historyculture/john-muir.htm"
+}

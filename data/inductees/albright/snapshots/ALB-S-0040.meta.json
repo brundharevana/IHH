@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/6496756",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=6496756",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:27:46Z",
+  "sha256": "9e36537a33f3bd1d0a09bf62cd81f4cf0eaa28c3f9d0ee9db229278a5e5a8357",
+  "bytes": 5444,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=6496756"
+}

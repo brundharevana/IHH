@@ -1,0 +1,85 @@
+Title: Hedy Lamarr and George Antheil Invention Papers | NMAH.AC.1590 | SOVA, Smithsonian Institution
+URL: https://sova.si.edu/record/nmah.ac.1590
+Source element: <main>
+---
+Overview
+Contents
+Summary
+Content Description
+Arrangement
+Historical
+Administration
+Using the Collection
+Materials at Other Organizations
+Download Finding Aid
+Archives Center, National Museum of American History
+Guide to the Hedy Lamarr and George Antheil Invention Papers
+Search Within Collection
+ Digital Only
+Summary
+Collection ID:
+NMAH.AC.1590
+Creators:
+Antheil, George, 1900-1959, Composer
+Lamarr, Hedy (1914-2000), Actor
+Dates:
+1932, 1940-1942
+Languages:
+English .
+Physical Description:
+.25 Cubic feet1 box
+Repository:
+Archives Center, National Museum of American History
+Collection documents the invention work of Hedy Lamarr and George Antheil for a Secret Communication System (US Patent 2,292,387).
+Content Description
+Collection consists of invention documents, primarily typescript correspondence and one notebook of hand drawn sketches and handwritten notes that relate to Hedy Lamarr and George Antheil's invention work on a Secret Communication System (US Patent 2,292,387), from 1940 to 1942.
+The bulk of the correspondence is between Lammar/Antheil and their patent attorneys Lyon & Lyon of Los Angeles and the United States Patent Office. The correspondence details filing actions and how the patent might be of value to national defense. Also included is correspondence with the National Inventors Council detailing the invention's significance.
+Arrangement
+The collection is arranged into one series.
+Series 1: Invention Papers, 1932, 1940-1942
+Historical
+Hedy Lamarr was born Hedwig Eva Maria Kiesler in Vienna, Austria in 1914. She was the only child of Emil Kiesler, the director of a bank and Gertrud Kiesler, a concert pianist. Hedwig took ballet and piano lessons as a child and then studied acting under director Max Reinhardt in Berlin. In 1933, the Austrian munitions dealer Friedrich "Fritz" Mandl saw Hedwig perform in the play Sissy in Vienna, and they were married later that year. Hedy left Mandl in 1937 and went to England where she met Louis B. Mayer, a film producer and co-founder of Metro-Goldwyn-Mayer (MGM) studios who got her a ticket to Hollywood, where she starred in a roster of films including Algiers (1938), White Cargo (1942), Tortilla Flat (1942), and Samson and Delilah (1949).
+George Antheil (1900-1959) was born in Trenton, New Jersey to Henry William Antheil and Wilhemine Huse Antheil. He studied music theory and composition with Constantin von Sternberg, in Philadelphia and composition with Ernest Bloch in New York City. While living in France in the 1920s, Antheil was part of the avant-garde scene and composed modern music, writing several operas and orchestral works. He patented "Appareil et papier pour l'inscription de la musique" (device and paper for recording music). The invention was an electrical apparatus that, through contact with a piano keyboard, recorded notes to be played on a moving roll of paper. He received French patent 578,777 on July 11, 1924. In 1933, Antheil returned to the United States and moved to Hollywood where he composed primarily film scores.
+In 1940 at the home of actress Janet Gaynor and her husband, costume designer Gilbert Adrian, Lamarr met Antheil. She and Antheil began work on one of Lamarr's invention ideas, a radio-guided torpedo with synchronized anti-jamming frequency hopping. Hedy's idea was, "that if a radio transmitter and receiver are sychronized to change their tuning simultaneously, hopping together randomly from frequency to frequency, then the radio signal passing between them cannot be jammed," (Rhodes page 147). Lamarr brought to their partnership knowledge of munitions, gleaned from her years of marriage to Fritz Mandl, a munitions manufacturer, and Antheil brought experience with radio electronics and recording music, especially his knowledge of player pianos.
+Lamarr and Antheil worked together from 1940 to 1942 with Lamarr explaining the basics of the idea and "the implemenation part came from George." (Rhodes page 148). Antheil had experience in making machines talk to each other in synchrony. He had tried and failed to synchronize sixteen player pianos in his early performances of his Ballet Mécanique. (Rhodes, page 153) Lamarr and Antheil worked together, along with the attorneys Lyon & Lyon to draft patent claims and explain their invention to both the National Inventors Council and the United States Patent Office. They were awarded U.S. Patent 2,292,387 in August 1942.
+Source
+Rhodes, Richard. Hedy's Folly, The Life and Breakthrough Inventions of Hedy Lamarr The Most Beautiful Woman in the World. New York: Doubleday, 2011.
+Administration
+Author
+Alison Oswald
+Immediate Source of Acquisition
+Collection donated by Denise Loder Deluca, daughter of Hedy Lamarr, 2023.
+Processing Information
+Collection processed by Alison Oswald, archivist, 2023.
+Using the Collection
+Conditions Governing Access
+Collection is open for research.
+Preferred Citation
+Hedy Lamarr and George Antheil Invention Papers, Archives Center, National Museum of American History
+Conditions Governing Use
+Collection items available for reproduction, but the Archives Center makes no guarantees concerning copyright restrictions. Other intellectual property rights may apply. Archives Center cost-recovery and use fees may apply when requesting reproductions.
+Materials at Other Organizations
+Library of Congress
+George and Böske Antheil papers, circa 1875-1984, (bulk 1920-1958)
+Papers include holograph music manuscripts, printed music, published and unpublished writings, business and personal correspondence, subject files, photographs, programs and promotional materials, scrapbooks, artwork, biographical materials, and memorabilia.
+Jewish Museum of Vienna
+Collection contains memorabilia, photos, documents, magazines and newspaper clippings, and select artifacts with a a focus primarily on Hedy Lamarr's life in Vienna and Austria.
+Keywords
+Keyword Terms	Keyword Types
+Correspondence -- 20th century	Genre Form	Search Smithsonian Collections	Search ArchiveGrid
+Inventions -- 20th century	Topical	Search Smithsonian Collections	Search ArchiveGrid
+Inventors -- 20th century	Topical	Search Smithsonian Collections	Search ArchiveGrid
+Notebooks -- 20th century	Genre Form	Search Smithsonian Collections	Search ArchiveGrid
+Patents	Topical	Search Smithsonian Collections	Search ArchiveGrid
+Sketches	Genre Form	Search Smithsonian Collections	Search ArchiveGrid
+Torpedoes	Topical	Search Smithsonian Collections	Search ArchiveGrid
+Women inventors -- 20th century	Topical	Search Smithsonian Collections	Search ArchiveGrid
+National Inventors Council (U.S.)	Corporate Name	Search Smithsonian Collections	Search ArchiveGrid
+Archives Center, National Museum of American History
+P.O. Box 37012
+Suite 1100, MRC 601
+Washington, D.C. 20013-7012
+Business Number: Phone: 202-633-3270
+Fax Number: Fax: 202-786-2453
+archivescenter@si.edu
+https://americanhistory.si.edu/archives

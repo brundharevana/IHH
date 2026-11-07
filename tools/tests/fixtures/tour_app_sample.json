@@ -1,0 +1,9 @@
+{"name": "Test Person", "chapters": [
+  {"id": "birth", "kind": "birth", "year": 1900, "factIds": ["TST-F-0010"],
+   "stops": [{"record": "TST-M-0010"}, {"record": null}], "map": null},
+  {"id": "arriving", "kind": "arriving", "year": 1941, "factIds": ["TST-F-0002"],
+   "stops": [{"record": "TST-M-0001"}, {"record": "TST-MODEL-RECREATION"}],
+   "map": {"places": [{"id": "home", "label": "Example Town", "coord": "wikidata:Q1", "factIds": ["TST-F-0010"]},
+                      {"id": "port", "label": "Port of Example", "coord": "wikidata:Q2", "factIds": ["TST-F-0002"]}],
+           "segments": [{"mode": null, "journeyFacts": [], "modeFacts": [], "routed": false}]}}
+]}

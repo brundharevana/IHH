@@ -1,0 +1,22 @@
+{
+  "id": "einstein-4",
+  "title": "San Diego, 1930",
+  "title_fact_ids": ["EIN-F-0114"],
+  "room": {"scan": "hallwyl-great-drawing-room", "doors": {"entrance": {"x": -5.75, "z": -1.45, "rotY": 1.570796, "w": 1.46, "h": 2.95}, "exit": {"x": 5.75, "z": -1.45, "rotY": -1.570796, "w": 1.46, "h": 2.95}}},
+  "accent": "#2F4A5A",
+  "narration": [
+    {"cue": "c1", "text": "In 1930, Albert Einstein and Elsa Einstein arrived in San Diego on the Belgenland.", "fact_ids": ["EIN-F-0120"], "reveals": ["ex1"]},
+    {"cue": "c2", "text": "On Dec. 31, 1930, Einstein and Mrs. Einstein were with a reception committee at San Diego.", "fact_ids": ["EIN-F-0113"], "reveals": []},
+    {"cue": "c3", "text": "In San Diego, Einstein was greeted by Mayor Harry C. Clark.", "fact_ids": ["EIN-F-0115"], "reveals": []}
+  ],
+  "exhibits": [
+    {"id": "ex1", "number": 1, "type": "framed-photograph", "easel": {"x": -0.6, "z": -0.5, "rotY": 0.6, "group": "centre"},
+     "media_id": "EIN-M-0025", "original_media_id": "EIN-M-0025",
+     "title": "Albert Einstein and Elsa Einstein in San Diego, 1930", "title_fact_ids": ["EIN-F-0120"],
+     "notes": [
+       {"text": "In 1930, Albert Einstein and Elsa Einstein arrived in San Diego on the Belgenland.", "fact_ids": ["EIN-F-0120"]}
+     ],
+     "evidence": "photograph"}
+  ],
+  "quotes": []
+}

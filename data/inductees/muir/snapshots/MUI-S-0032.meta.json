@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/today-in-history/july-19/",
+  "fetch_url": "https://www.loc.gov/item/today-in-history/july-19/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:34Z",
+  "sha256": "c898ccd7693a3a4a427cc43ddd87801a0bfae9828e2fe1bdbdb87a509b60c9a1",
+  "bytes": 23837,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/today-in-history/july-19/?fo=json"
+}

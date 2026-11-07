@@ -1,0 +1,6 @@
+{"method":"1280x720 flat previews; CIELAB (D65, sRGB) means over every 2nd pixel outside the photo panel box (x150-440, y285-600) vs the inner photograph area (x200-402, y330-545). deltaE76 between the two mean colours; chroma = sqrt(a^2+b^2).",
+"clay":{"roomMeanLab":[53.4,0.2,3.5],"roomMeanChroma":3.6,"roomFractionChromaOver20":0,"photoMeanLab":[53,0.5,5.3],"photoMeanChroma":5.4,"deltaE76":1.8},
+"lowpoly":{"roomMeanLab":[45.9,7.2,22.3],"roomMeanChroma":23.9,"roomFractionChromaOver20":0.506,"photoMeanLab":[53.1,0.7,6.3],"photoMeanChroma":6.4,"deltaE76":18.7},
+"toon":{"roomMeanLab":[58.2,9.9,29.1],"roomMeanChroma":31.6,"roomFractionChromaOver20":0.844,"photoMeanLab":[54.1,0.7,6.7],"photoMeanChroma":6.8,"deltaE76":24.6},
+"duotone":{"roomMeanLab":[43.9,1.9,6.1],"roomMeanChroma":6.4,"roomFractionChromaOver20":0,"photoMeanLab":[52.5,0.7,5.5],"photoMeanChroma":5.6,"deltaE76":8.7},
+"ref":{"roomMeanLab":[33.4,11.8,27.8],"roomMeanChroma":31.3,"roomFractionChromaOver20":0.811,"photoMeanLab":[52.7,0.7,6.3],"photoMeanChroma":6.4,"deltaE76":30.9}}

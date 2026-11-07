@@ -1,0 +1,9 @@
+{
+  "url": "https://catalog.archives.gov/id/596270",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=596270",
+  "method": "api",
+  "fetched_at": "2026-10-08T22:30:13Z",
+  "sha256": "1ebcc22f5930b2ec468a15793f88689dd42074ddbf489bdaae65fa26936823ea",
+  "bytes": 6624,
+  "http_status": 200
+}

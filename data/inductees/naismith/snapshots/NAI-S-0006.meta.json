@@ -1,0 +1,10 @@
+{
+  "url": "https://union.ku.edu/story-debruce-center",
+  "fetch_url": "https://union.ku.edu/story-debruce-center",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:15:04Z",
+  "sha256": "3ac51e2a744401c4fec74bce8b0d9449d48afdf4b6061e3f9cfeaf287aceb6cc",
+  "bytes": 5861,
+  "http_status": 200,
+  "final_url": "https://union.ku.edu/story-debruce-center"
+}

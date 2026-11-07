@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn83045462/1933-10-17/ed-1/?sp=2",
+  "fetch_url": "https://www.loc.gov/resource/sn83045462/1933-10-17/ed-1/?sp=2&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T18:56:46Z",
+  "sha256": "691c3b26a19e8c4bc01083ac695cd827ba531542c7c76dcc8ce4067277b0149d",
+  "bytes": 59060,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn83045462/1933-10-17/ed-1/?sp=2&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933101701/0478.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933101701/0478.xml"
+}

@@ -1,0 +1,90 @@
+_version_: 1878069040862199808
+access_restricted: false
+aka[0]: wordpress:/news/?p=26456
+aka[1]: http://www.loc.gov/item/prn-15-166/papers-of-former-secretary-of-state-madeleine-albright-donated-to-the-library/
+aka[2]: http://www.loc.gov/item/prn-15-166/
+aka[3]: http://www.loc.gov/item/prn-15-166/papers-of-former-secretary-of-state-madeleine-albright-donated-to-the-library/2015-09-16/
+article: The Library of Congress has received the first installment of the papers of the Honorable Madeleine Korbel Albright, the first woman to serve as Secretary of State (1997–2001) and a 2012 recipient of the Presidential Medal of Freedom.
+
+“We are honored to receive this gift from an icon of American diplomacy,” said Librarian of Congress James H. Billington. “It is fitting that the first female Secretary of State’s papers will be housed in an institution that America’s first Secretary of State, Thomas Jefferson, helped build, and where his papers also reside.”
+
+The materials will be known as the Madeleine Korbel Albright Collection and will include some personal papers, non-record copies of unclassified government papers, photographs and other materials. With the exception of her undergraduate papers, which have been donated to Wellesley College, the papers being donated to the Library will encompass Albright’s entire life.
+
+The first installment of Albright’s papers (1937–1992) comprises more than 60,000 items, including correspondence, speeches, writings, research notes, briefing books, teaching files, subject files, clippings, printed matter and other files chiefly pertaining to her political activities in the presidential campaign of U.S. Sen. Edmund S. Muskie of Maine, her service as foreign policy adviser in the campaigns of Walter F. Mondale and Geraldine Ferraro and Michael S. Dukakis, and her tenure with the National Security Council. Also included are teaching files from her work at Georgetown University School of Foreign Service and research files for the publication of her books, “Poland: the Role of the Press in Political Change” (1983) and “The Pulse of Europe” (1991). Additional installments will be received over the next several years. Unless otherwise specified, access to the collection by the public will commence five years after Albright’s death.
+
+Prior to Albright’s historic appointment by President Bill Clinton, she served as U.S. permanent representative to the United Nations (1993–1997), and as director of legislative affairs for the National Security Council under President Jimmy Carter. Before entering the Carter administration, she had served as chief legislative assistant to Muskie.
+
+Between the Carter and Clinton administrations, Albright held positions at the Woodrow Wilson Center and as a professor at Georgetown University, and advised the Democratic Party and its presidential candidates on foreign policy issues.
+
+Albright received a bachelor’s degree with honors from Wellesley College and master’s and doctoral degrees from Columbia University’s Department of Public Law and Government. She conducted much of her dissertation research at the Library of Congress, utilizing its extensive collection of Czechoslovak newspapers to research the impact of the press on the Prague Spring.
+
+Founded in 1800, the Library of Congress is the nation’s oldest federal cultural institution. The Library seeks to spark imagination and creativity and to further human understanding and wisdom by providing access to knowledge through its magnificent collections, programs, publications and exhibitions. Many of the Library’s resources can be accessed through its website at loc.gov.
+
+The Library’s Manuscript Division holds nearly 70 million items, including the papers of 23 U.S. presidents, from George Washington to Calvin Coolidge. For more information about the collections and holdings of the Manuscript Division, visit loc.gov/rr/mss/.
+contact: Audrey Fischer (202) 707-0022
+date: 2015-09-16
+dates[0].2015-09-16: https://www.loc.gov/search/?dates=2015-09-16/2015-09-16&fo=json
+description[0]: The Library of Congress has received the first installment of the papers of the Honorable Madeleine Korbel Albright, the first woman to serve as Secretary of State (1997&ndash;2001) and a 2012 recipient of the Presidential Medal of Freedom.
+digitized: true
+display_offsite: true
+extract_timestamp: 2026-10-03T13:01:15.428Z
+extract_urls[0]: http://www.loc.gov/item/prn-15-166/papers-of-former-secretary-of-state-madeleine-albright-donated-to-the-library/#news
+format[0].web page: https://www.loc.gov/search/?fa=original_format:web+page&fo=json
+group[0]: news
+group[1]: wordpress-news
+hassegments: false
+id: http://www.loc.gov/item/prn-15-166/
+index: 1
+item.article: The Library of Congress has received the first installment of the papers of the Honorable Madeleine Korbel Albright, the first woman to serve as Secretary of State (1997–2001) and a 2012 recipient of the Presidential Medal of Freedom.
+
+“We are honored to receive this gift from an icon of American diplomacy,” said Librarian of Congress James H. Billington. “It is fitting that the first female Secretary of State’s papers will be housed in an institution that America’s first Secretary of State, Thomas Jefferson, helped build, and where his papers also reside.”
+
+The materials will be known as the Madeleine Korbel Albright Collection and will include some personal papers, non-record copies of unclassified government papers, photographs and other materials. With the exception of her undergraduate papers, which have been donated to Wellesley College, the papers being donated to the Library will encompass Albright’s entire life.
+
+The first installment of Albright’s papers (1937–1992) comprises more than 60,000 items, including correspondence, speeches, writings, research notes, briefing books, teaching files, subject files, clippings, printed matter and other files chiefly pertaining to her political activities in the presidential campaign of U.S. Sen. Edmund S. Muskie of Maine, her service as foreign policy adviser in the campaigns of Walter F. Mondale and Geraldine Ferraro and Michael S. Dukakis, and her tenure with the National Security Council. Also included are teaching files from her work at Georgetown University School of Foreign Service and research files for the publication of her books, “Poland: the Role of the Press in Political Change” (1983) and “The Pulse of Europe” (1991). Additional installments will be received over the next several years. Unless otherwise specified, access to the collection by the public will commence five years after Albright’s death.
+
+Prior to Albright’s historic appointment by President Bill Clinton, she served as U.S. permanent representative to the United Nations (1993–1997), and as director of legislative affairs for the National Security Council under President Jimmy Carter. Before entering the Carter administration, she had served as chief legislative assistant to Muskie.
+
+Between the Carter and Clinton administrations, Albright held positions at the Woodrow Wilson Center and as a professor at Georgetown University, and advised the Democratic Party and its presidential candidates on foreign policy issues.
+
+Albright received a bachelor’s degree with honors from Wellesley College and master’s and doctoral degrees from Columbia University’s Department of Public Law and Government. She conducted much of her dissertation research at the Library of Congress, utilizing its extensive collection of Czechoslovak newspapers to research the impact of the press on the Prague Spring.
+
+Founded in 1800, the Library of Congress is the nation’s oldest federal cultural institution. The Library seeks to spark imagination and creativity and to further human understanding and wisdom by providing access to knowledge through its magnificent collections, programs, publications and exhibitions. Many of the Library’s resources can be accessed through its website at loc.gov.
+
+The Library’s Manuscript Division holds nearly 70 million items, including the papers of 23 U.S. presidents, from George Washington to Calvin Coolidge. For more information about the collections and holdings of the Manuscript Division, visit loc.gov/rr/mss/.
+item.contact: Audrey Fischer (202) 707-0022
+item.media_advisory: 0
+item.press_release_number: 15-166
+item.profile: news
+item.short_title: Madeleine Albright Papers
+item.x_subject: Madeleine Albright, diplomacy, government, public policy
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+location[0]: united states
+location[1]: washington d.c.
+locations[0].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[1].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+media_advisory: 0
+mime_type[0]: text/html
+online_format[0]: web page
+original_format[0]: web page
+partof[0].count: 5002
+partof[0].title: news from the library of congress
+partof[0].url: https://www.loc.gov/news/?fo=json
+press_release_number: 15-166
+profile: news
+score: 14.475372
+shard: 01
+shelf_id: 15-166
+short_title: Madeleine Albright Papers
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: acquisitions
+subjects[0].acquisitions: https://www.loc.gov/search/?fa=subject:acquisitions&fo=json
+timestamp: 2026-10-03T22:23:28.377Z
+title: Papers of Former Secretary of State Madeleine Albright Donated to the Library
+type[0]: web page
+url: https://www.loc.gov/item/prn-15-166/papers-of-former-secretary-of-state-madeleine-albright-donated-to-the-library/2015-09-16/
+x_subject: Madeleine Albright, diplomacy, government, public policy
+cite_this.apa: (2015) Papers of Former Secretary of State Madeleine Albright Donated to the Library. [Web Page] Retrieved from the Library of Congress, https://www.loc.gov/item/prn-15-166/papers-of-former-secretary-of-state-madeleine-albright-donated-to-the-library/2015-09-16/.
+cite_this.chicago: Papers of Former Secretary of State Madeleine Albright Donated to the Library. 2015. Web Page. https://www.loc.gov/item/prn-15-166/papers-of-former-secretary-of-state-madeleine-albright-donated-to-the-library/2015-09-16/.
+cite_this.mla: Papers of Former Secretary of State Madeleine Albright Donated to the Library. 2015. Web Page. Retrieved from the Library of Congress, <www.loc.gov/item/prn-15-166/papers-of-former-secretary-of-state-madeleine-albright-donated-to-the-library/2015-09-16/>.

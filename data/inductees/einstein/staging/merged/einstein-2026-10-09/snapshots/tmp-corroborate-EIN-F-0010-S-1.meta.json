@@ -1,0 +1,10 @@
+{
+  "url": "https://history.aip.org/exhibits/einstein/chron.htm",
+  "fetch_url": "https://history.aip.org/exhibits/einstein/chron.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:55:01Z",
+  "sha256": "6538ecc96677915d663f3d0c1a7d1a9948327a00770e19b71a80ca1c478b5067",
+  "bytes": 5046,
+  "http_status": 200,
+  "final_url": "https://history.aip.org/exhibits/einstein/chron.htm"
+}

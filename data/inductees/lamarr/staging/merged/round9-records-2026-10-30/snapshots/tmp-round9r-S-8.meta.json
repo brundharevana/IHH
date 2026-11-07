@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn82014085/1942-09-16/ed-1/?sp=5",
+  "fetch_url": "https://www.loc.gov/resource/sn82014085/1942-09-16/ed-1/?sp=5&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T19:02:19Z",
+  "sha256": "815786c3751abb7753ceaa620c5f27ab142d338ae2c72d5fde275f436038335b",
+  "bytes": 32799,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn82014085/1942-09-16/ed-1/?sp=5&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_ives_ver02/data/sn82014085/00393347119/1942091601/0206.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/ct/batch_ct_ives_ver02/data/sn82014085/00393347119/1942091601/0206.xml"
+}

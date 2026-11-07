@@ -1,0 +1,274 @@
+_version_: 1730904082678284288
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2011636529/
+aka[1]: http://www.loc.gov/item/2011636529/
+aka[2]: http://www.loc.gov/pictures/item/2011636529/
+aka[3]: https://www.loc.gov/pictures/collection/highsm/item/2011636529/
+aka[4]: http://www.loc.gov/pictures/collection/highsm/item/2011636529/
+aka[5]: http://www.loc.gov/resource/highsm.18335/
+aka[6]: http://lccn.loc.gov/2011636529
+aka[7]: https://hdl.loc.gov/loc.pnp/highsm.18335
+call_number: LC-HS503- 6838 (ONLINE) [P&P]
+contributor_names[0]: Highsmith, Carol M., 1946-, photographer
+contributors[0].highsmith, carol m.: https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json
+created: 2018-04-26T11:40:02Z
+created_published[0]: [between 1980 and 1990]
+created_published_date: [between 1980 and 1990]
+date: 1980-01-01
+dates[0].1980: https://www.loc.gov/search/?dates=1980/1980&fo=json
+description[0]: 1 transparency : color ; 4 x 5 in. or smaller.
+digital_id[0]: highsm 18335 //hdl.loc.gov/loc.pnp/highsm.18335
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-08-30T21:47:01.943Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/highsm/item/2011636529/#highsm
+extract_urls[1]: http://lccn.loc.gov/2011636529#catalog-split-03
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Transparencies--color--1980-2010.
+genre[0]: Transparencies--Color--1980-2010
+group[0]: highsm
+group[1]: catalog-split-03
+group[2]: catalog
+group[3]: carol-m-highsmith
+group[4]: main-catalog-split-03
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2011636529/
+iiif_manifest_url: https://www.loc.gov/item/2011636529/manifest.json
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18335/full/pct:12.5/0/default.jpg#h=364&w=380
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18335/full/pct:25/0/default.jpg#h=729&w=760
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18335/full/pct:50/0/default.jpg#h=1459&w=1521
+index: 1
+item.call_number: LC-HS503- 6838 (ONLINE) [P&P]
+item.contributors[0]: Highsmith, Carol M., 1946- photographer.
+item.control_number: 2011636529
+item.created: 2018-04-26T11:40:02Z
+item.created_published: [between 1980 and 1990]
+item.created_published_date: [between 1980 and 1990]
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm
+item.creators[0].role: photographer
+item.creators[0].title: Highsmith, Carol M., 1946-
+item.date: [between 1980 and 1990]
+item.digital_id[0]: highsm 18335 //hdl.loc.gov/loc.pnp/highsm.18335
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Transparencies--color--1980-2010.&co=highsm
+item.formats[0].title: Transparencies--color--1980-2010.
+item.genre[0]: Transparencies--Color--1980-2010
+item.id: 2011636529
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2011636529/
+item.marc: https://www.loc.gov/pictures/item/2011636529/marc/
+item.medium[0]: 1 transparency : color ; 4 x 5 in. or smaller.
+item.medium_brief: 1 transparency :
+item.mediums[0]: 1 transparency : color ; 4 x 5 in. or smaller.
+item.modified: 2018-04-26T11:40:02Z
+item.notes[0]: Digital image produced by Carol M. Highsmith to represent her original film transparency; some details may differ between the film and the digital images.
+item.notes[1]: Title, date, and keywords provided by the photographer.
+item.notes[2]: Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.
+item.notes[3]: Gift and purchase; Carol M. Highsmith; 2011; (DLC/PP-2011:124).
+item.notes[4]: Forms part of the Selects Series in the Carol M. Highsmith Archive.
+item.number_former_id[0]: https://www.loc.gov/item/2011636529
+item.number_former_id[1]: https://www.loc.gov/item/hig2012003277
+item.other_control_numbers[0]: 17206513
+item.other_control_numbers[1]: hig2012003277
+item.part_of: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=highsm
+item.place[0].title: District of Columbia--Washington (D.C.)
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-highsm-18335 (digital file from original)
+LC-HS503-6838 (color film transparency)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/highsm.18335
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/highsm/18300/18335_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/highsm/18300/18335r.jpg
+item.sort_date: 1980
+item.source_collection[0]: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+item.source_created: 2012-02-01T00:00:00Z
+item.source_modified: 2018-04-19T14:29:22Z
+item.subject_headings[0]: United States--District of Columbia--Washington (D.C.)
+item.subject_headings[1]: America
+item.subject_headings[2]: Ronald Reagan
+item.subject_headings[3]: Oval Office
+item.subject_headings[4]: White House
+item.subject_headings[5]: District Of Columbia--Washington (D.C.)
+item.subjects[0]: United States--District of Columbia--Washington (D.C.)
+item.subjects[1]: America
+item.subjects[2]: Ronald Reagan
+item.subjects[3]: Oval Office
+item.subjects[4]: White House
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/highsm/18300/18335_150px.jpg
+item.title: President Ronald Reagan at his desk in the White House Oval Office, Washington, D.C.
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2011636529
+link: https://www.loc.gov/pictures/item/2011636529/
+location[0]: washington d.c.
+location[1]: washington (d.c.)
+location[2]: district of columbia
+location[3]: united states
+location_city[0]: washington (d.c.)
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington (d.c.): https://www.loc.gov/search/?fa=location:washington+%28d.c.%29&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington (d.c.): https://www.loc.gov/search/?fa=location_city:washington+%28d.c.%29&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+marc: https://www.loc.gov/pictures/item/2011636529/marc/
+medium[0]: 1 transparency : color ; 4 x 5 in. or smaller.
+medium_brief: 1 transparency :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2018-04-26T11:40:02Z
+notes[0]: Digital image produced by Carol M. Highsmith to represent her original film transparency; some details may differ between the film and the digital images.
+notes[1]: Title, date, and keywords provided by the photographer.
+notes[2]: Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.
+notes[3]: Gift and purchase; Carol M. Highsmith; 2011; (DLC/PP-2011:124).
+notes[4]: Forms part of the Selects Series in the Carol M. Highsmith Archive.
+number[0]: http://www.loc.gov/item/hig2012003277
+number[1]: 2011636529
+number[2]: http://www.loc.gov/item/17206513
+number[3]: 2018-04-19t14:29:22
+number[4]: http://www.loc.gov/item/2011636529
+number_former_id[0]: http://www.loc.gov/item/17206513
+number_former_id[1]: http://www.loc.gov/item/hig2012003277
+number_former_id[2]: http://www.loc.gov/item/2011636529
+number_lccn[0]: 2011636529
+number_source_modified[0]: 2018-04-19t14:29:22
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 17206513
+other_control_numbers[1]: hig2012003277
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2011636529/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2011636529/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2011636529/dc
+partof[0].count: 70435
+partof[0].title: highsmith (carol m.) archive
+partof[0].url: https://www.loc.gov/collections/carol-m-highsmith/?fo=json
+partof[1].count: 910731
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1162489
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1910629
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=highsm
+place[0].title: District of Columbia--Washington (D.C.)
+related.neighbors: https://www.loc.gov/pictures/related/?&co=highsm&pk=2011636529&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-highsm-18335 (digital file from original)
+LC-HS503-6838 (color film transparency)
+reproductions[0]: Some images in this collection are described in groups; others are described individually. In some cases, all of the images in the group display online, in other cases they do not.
+
+You can download online images yourself. Alternatively, you can purchase copies of various types.
+
+Determine whether the desired materials can be retrieved online.
+
+Look in the Medium field above to determine whether the description is for one photograph or more than one.
+
+If the description is for a single item and it is displaying, you can download or purchase a print. Cite the number that begins with "LC-DIG..." when purchasing copies through Library of Congress Duplication Services.
+
+If the description is for more than one item and there is a "Click for more images" icon displaying, select that. Individual images will display; you can download or purchase prints. Cite the number that begins with "LC-DIG..." when purchasing copies through Library of Congress Duplication Services.
+
+If the description is for more than one item and there is no "Click for more images" icon displaying, return to the "About this Item" tab and select the "Check for online items from this group" link. Then select the "Obtaining Copies" tab for any retrieved items that are of interest.
+
+If the images do not display online -- Select images for reproduction through one of these methods:
+
+Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: https://www.loc.gov/rr/print/info/001_ref.html).
+
+P&P reading room staff can provide up to 15 photocopies of items per calendar year. (Color images cannot be photocopied.) For assistance, see our Ask a Librarian page. OR
+
+Hire a freelance researcher to do further selection for you (a list of researchers is available at: https://www.loc.gov/rr/print/resource/013_pic.html).
+
+Purchasing Copies
+
+Library of Congress Duplication Services can make copies of various types from images in Prints & Photographs Division Collections. Price lists, contact information, and order forms are available on the Duplication Services Web site.
+
+Carol M. Highsmith sells prints of her photographs at: http://photographsamerica.com/ External .
+resource_links[0]: //hdl.loc.gov/loc.pnp/highsm.18335
+resources[0].caption: digital file from original
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/highsm/18300/18335t.gif
+resources[0].url: https://www.loc.gov/resource/highsm.18335/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Carol M. Highsmith - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.459465
+shard: 00
+shelf_id: LC-HS503- 6838 (ONLINE) [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1980
+source_collection: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+source_created: 2012-02-01T00:00:00Z
+source_modified: 2018-04-19T14:29:22Z
+subject[0]: color
+subject[1]: washington (d.c.)
+subject[2]: united states
+subject[3]: oval office
+subject[4]: transparencies
+subject[5]: america
+subject[6]: white house
+subject[7]: district of columbia
+subject[8]: ronald reagan
+subject_headings[0]: United States--District of Columbia--Washington (D.C.)
+subject_headings[1]: America
+subject_headings[2]: Ronald Reagan
+subject_headings[3]: Oval Office
+subject_headings[4]: White House
+subjects[0].america: https://www.loc.gov/search/?fa=subject:america&fo=json
+subjects[1].color: https://www.loc.gov/search/?fa=subject:color&fo=json
+subjects[2].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[3].oval office: https://www.loc.gov/search/?fa=subject:oval+office&fo=json
+subjects[4].ronald reagan: https://www.loc.gov/search/?fa=subject:ronald+reagan&fo=json
+subjects[5].transparencies: https://www.loc.gov/search/?fa=subject:transparencies&fo=json
+subjects[6].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[7].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+subjects[8].white house: https://www.loc.gov/search/?fa=subject:white+house&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/highsm/18300/18335_150px.jpg
+timestamp: 2022-04-23T12:59:27.606Z
+title: President Ronald Reagan at his desk in the White House Oval Office, Washington, D.C.
+unrestricted: true
+url: https://www.loc.gov/item/2011636529/
+resources[0].caption: digital file from original
+resources[0].files[0][0].height: 364
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/jpeg
+resources[0].files[0][0].url: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18335/full/pct:12.5/0/default.jpg
+resources[0].files[0][0].width: 380
+resources[0].files[0][1].height: 729
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].url: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18335/full/pct:25/0/default.jpg
+resources[0].files[0][1].width: 760
+resources[0].files[0][2].height: 1459
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].url: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18335/full/pct:50/0/default.jpg
+resources[0].files[0][2].width: 1521
+resources[0].files[0][3].height: 2919
+resources[0].files[0][3].info: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18335/info.json
+resources[0].files[0][3].levels: 7
+resources[0].files[0][3].mimetype: image/jp2
+resources[0].files[0][3].size: 1973437
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/highsm/18300/18335.jp2
+resources[0].files[0][3].width: 3042
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/highsm/18300/18335t.gif
+resources[0].url: https://www.loc.gov/resource/highsm.18335/
+cite_this.apa: Highsmith, C. M., photographer. () President Ronald Reagan at his desk in the White House Oval Office, Washington, D.C. Washington D.C. Washington D.C. District of Columbia United States,. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2011636529/.
+cite_this.chicago: Highsmith, Carol M, photographer. President Ronald Reagan at his desk in the White House Oval Office, Washington, D.C. Washington D.C. Washington D.C. District of Columbia United States,. Photograph. https://www.loc.gov/item/2011636529/.
+cite_this.mla: Highsmith, Carol M, photographer. President Ronald Reagan at his desk in the White House Oval Office, Washington, D.C. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2011636529/>.

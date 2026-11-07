@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_and_Elsa_Einstein_arriving_by_ship,_San_Diego,_1930.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein_and_Elsa_Einstein_arriving_by_ship%2C_San_Diego%2C_1930.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:22:34Z",
+  "sha256": "2607db01c2052f19741a57af0a3da0e1a3288c38a36f80561051c63623b26f80",
+  "bytes": 742,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein_and_Elsa_Einstein_arriving_by_ship%2C_San_Diego%2C_1930.jpg&format=json"
+}

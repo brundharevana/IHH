@@ -1,0 +1,10 @@
+{
+  "url": "https://www.govinfo.gov/content/pkg/CREC-1997-01-07/html/CREC-1997-01-07-pt1-PgS103-3.htm",
+  "fetch_url": "https://www.govinfo.gov/content/pkg/CREC-1997-01-07/html/CREC-1997-01-07-pt1-PgS103-3.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:32:47Z",
+  "sha256": "c58b4fdcf9c0bef8c4ec7e3b18dc98945de6742605898b8f9c0a11736d6b49a1",
+  "bytes": 45681,
+  "http_status": 200,
+  "final_url": "https://www.govinfo.gov/content/pkg/CREC-1997-01-07/html/CREC-1997-01-07-pt1-PgS103-3.htm"
+}

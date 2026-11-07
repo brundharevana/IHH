@@ -1,0 +1,48 @@
+{
+  "_about": "Shared study-corner rules (Task 6): site/src/museum/reconstruction.js validateCorner and tools/content_check.py validate_corner must give the same verdicts. Each case applies 'set' ([path, value]) and 'delete' (path) to a copy of 'base'; 'match' is a substring of the joined errors, null means no errors. 'constants' must equal both implementations' constants.",
+  "constants": {
+    "corner_kinds": ["desk", "chair", "shelf", "lamp", "table", "bookcase"],
+    "sub_kinds": {"books": "bookcase", "papers": "desk", "book-stack": "desk"},
+    "label_sign": {"w": 0.8, "d": 0.08, "h": 0.36},
+    "label_prefix": "Recreation based on photographs: ",
+    "corner_note": "Modern stand-in furniture of the kinds these two photographs show. The designs are not the originals; sizes and positions are estimated.",
+    "corner_where_lite": "In the 3D museum, this recreated corner stands in the room for this chapter."
+  },
+  "area": {"id": "a", "min": [0, 0], "max": [2, 2]},
+  "base": {
+    "basis_media_ids": ["M1", "M2"],
+    "label_at": {"x": 1, "z": 1.9, "rotY": 0},
+    "models": {"m1": {"includes": ["books"]}},
+    "objects": [
+      {"id": "case", "kind": "bookcase", "model": "m1", "x": 1, "z": 0.3, "rotY": 0, "w": 1, "d": 0.4, "h": 2, "basis_media_ids": ["M1"]},
+      {"id": "books", "kind": "books", "parent": "case", "basis_media_ids": ["M1"]},
+      {"id": "desk", "kind": "desk", "x": 1, "z": 1.2, "rotY": 0, "w": 1, "d": 0.5, "h": 0.75, "basis_media_ids": ["M1", "M2"]},
+      {"id": "papers", "kind": "papers", "parent": "desk", "basis_media_ids": ["M2"]}
+    ]
+  },
+  "cases": [
+    {"name": "a corner whose objects are declared, cited and inside the area", "match": null},
+    {"name": "a chair turned a quarter turn uses its turned footprint", "set": [[["objects", 2, "rotY"], 1.5707963], [["objects", 2, "w"], 0.5], [["objects", 2, "d"], 1.0]], "match": null},
+    {"name": "objects must be a non-empty list", "set": [[["objects"], []]], "match": "objects must be a non-empty list"},
+    {"name": "the corner needs basis photos", "set": [[["basis_media_ids"], []]], "match": "basis_media_ids must be a non-empty list"},
+    {"name": "an object without basis photos", "set": [[["objects", 2, "basis_media_ids"], []]], "match": "object desk: needs basis_media_ids"},
+    {"name": "an object citing a photo that is not a corner basis", "set": [[["objects", 2, "basis_media_ids"], ["M9"]]], "match": "object desk: basis M9 is not one of the corner's basis photos"},
+    {"name": "a sub-object citing a photo that is not a corner basis", "set": [[["objects", 3, "basis_media_ids"], ["M9"]]], "match": "object papers: basis M9 is not one of the corner's basis photos"},
+    {"name": "a kind a corner may not hold", "set": [[["objects", 2, "kind"], "window"]], "match": "object desk: kind window is not one of"},
+    {"name": "an object outside the area", "set": [[["objects", 2, "x"], 1.9]], "match": "object desk: outside the area a"},
+    {"name": "an object turned out of the area", "set": [[["objects", 0, "rotY"], 1.5707963]], "match": "object case: outside the area a"},
+    {"name": "two objects overlapping", "set": [[["objects", 2, "z"], 0.6]], "match": "objects case and desk overlap"},
+    {"name": "a sub-object on the wrong kind of parent", "set": [[["objects", 3, "parent"], "case"]], "match": "object papers: papers must stand on a desk, not a bookcase"},
+    {"name": "a sub-object whose parent is not an object", "set": [[["objects", 3, "parent"], "nope"]], "match": "object papers: parent nope is not an object"},
+    {"name": "an unknown sub-object kind", "set": [[["objects", 3, "kind"], "telephone"]], "match": "object papers: kind telephone is not one of"},
+    {"name": "a model whose mesh carries a sub-object the corner does not declare", "delete": [["objects", 1]], "match": "model m1 includes books, which is not declared on object case"},
+    {"name": "a model including a kind that is not a sub-object", "set": [[["models", "m1", "includes"], ["books", "telephone"]]], "match": "model m1 includes telephone, which is not a sub-object kind"},
+    {"name": "an object naming a model that is not declared", "set": [[["objects", 2, "model"], "m2"]], "match": "object desk: model m2 is not in models"},
+    {"name": "a model no object uses", "set": [[["models", "m3"], {"includes": []}]], "match": "model m3 is not used by any object"},
+    {"name": "two objects using one model", "set": [[["objects", 2, "model"], "m1"]], "match": "model m1 is used by more than one object"},
+    {"name": "an id used twice", "set": [[["objects", 3, "id"], "desk"]], "match": "id desk used twice"},
+    {"name": "the label outside the area", "set": [[["label_at", "z"], 2.5]], "match": "label_at: outside the area a"},
+    {"name": "the label standing in an object", "set": [[["label_at", "z"], 1.2]], "match": "label_at: the label overlaps object desk"},
+    {"name": "no label position", "delete": [["label_at"]], "match": "label_at must be {x, z, rotY}"}
+  ]
+}

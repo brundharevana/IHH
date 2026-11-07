@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Secretary_Albright,_Prime_Minister_Guterres,_and_President_Clinton_discuss_some_issues_prior_to_the_US-EU_working_lunch.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Secretary_Albright%2C_Prime_Minister_Guterres%2C_and_President_Clinton_discuss_some_issues_prior_to_the_US-EU_working_lunch.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T19:32:53Z",
+  "sha256": "cfb69dd25f09efe7bf15e05c393ba29ffbdd29a5bb1ccac59e1ba81ca178225b",
+  "bytes": 1107,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Secretary_Albright%2C_Prime_Minister_Guterres%2C_and_President_Clinton_discuss_some_issues_prior_to_the_US-EU_working_lunch.jpg&format=json"
+}

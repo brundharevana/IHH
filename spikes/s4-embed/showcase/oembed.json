@@ -1,0 +1,14 @@
+{
+  "type": "rich",
+  "version": "1.0",
+  "title": "Spike S4 viewer (illustrative reconstruction, spike)",
+  "provider_name": "IHH Challenge X spike",
+  "provider_url": "http://127.0.0.1:8704/s4-embed/showcase/index.html",
+  "cache_age": 3600,
+  "width": 600,
+  "height": 480,
+  "thumbnail_url": "http://127.0.0.1:8704/s4-embed/showcase/poster.webp",
+  "thumbnail_width": 960,
+  "thumbnail_height": 540,
+  "html": "<iframe src=\"http://127.0.0.1:8704/s4-embed/showcase/index.html\" width=\"600\" height=\"480\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" title=\"Spike S4 viewer (illustrative reconstruction, spike)\"></iframe>"
+}

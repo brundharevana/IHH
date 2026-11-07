@@ -1,0 +1,273 @@
+_version_: 1730899458719219712
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2010719739/
+aka[1]: http://www.loc.gov/item/2010719739/
+aka[2]: http://www.loc.gov/pictures/item/2010719739/
+aka[3]: https://www.loc.gov/pictures/collection/highsm/item/2010719739/
+aka[4]: http://www.loc.gov/pictures/collection/highsm/item/2010719739/
+aka[5]: http://www.loc.gov/resource/highsm.10904/
+aka[6]: https://hdl.loc.gov/loc.pnp/highsm.10904
+aka[7]: http://lccn.loc.gov/2010719739
+call_number: LC-DIG-highsm- 10904 (ONLINE) [P&P]
+contributor_names[0]: Highsmith, Carol M., 1946-, photographer
+contributors[0].highsmith, carol m.: https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json
+created: 2017-06-20T03:38:40Z
+created_published[0]: 2010.
+created_published_date: 2010.
+date: 2010-01-01
+dates[0].2010: https://www.loc.gov/search/?dates=2010/2010&fo=json
+description[0]: 1 photograph : digital, TIFF file, color.
+digital_id[0]: highsm 10904 //hdl.loc.gov/loc.pnp/highsm.10904
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-08-30T23:48:42.735Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/highsm/item/2010719739/#highsm
+extract_urls[1]: http://lccn.loc.gov/2010719739#catalog-split-07
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Digital photographs--Color--2000-2010.
+genre[0]: Digital photographs--Color--2000-2010
+group[0]: highsm
+group[1]: catalog-split-07
+group[2]: catalog
+group[3]: carol-m-highsmith
+group[4]: main-catalog-split-07
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2010719739/
+iiif_manifest_url: https://www.loc.gov/item/2010719739/manifest.json
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10900:10904/full/pct:6.25/0/default.jpg#h=180&w=344
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10900:10904/full/pct:12.5/0/default.jpg#h=360&w=689
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10900:10904/full/pct:25/0/default.jpg#h=720&w=1378
+image_url[3]: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10900:10904/full/pct:50/0/default.jpg#h=1440&w=2757
+index: 1
+item.call_number: LC-DIG-highsm- 10904 (ONLINE) [P&P]
+item.contributors[0]: Highsmith, Carol M., 1946- photographer.
+item.control_number: 2010719739
+item.created: 2017-06-20T03:38:40Z
+item.created_published: 2010.
+item.created_published_date: 2010.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm
+item.creators[0].role: photographer
+item.creators[0].title: Highsmith, Carol M., 1946-
+item.date: 2010.
+item.digital_id[0]: highsm 10904 //hdl.loc.gov/loc.pnp/highsm.10904
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2000-2010.&co=highsm
+item.formats[0].title: Digital photographs--Color--2000-2010.
+item.genre[0]: Digital photographs--Color--2000-2010
+item.id: 2010719739
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2010719739/
+item.location[0]: New Jersey--Trenton
+item.marc: https://www.loc.gov/pictures/item/2010719739/marc/
+item.medium[0]: 1 photograph : digital, TIFF file, color.
+item.medium_brief: 1 photograph :
+item.mediums[0]: 1 photograph : digital, TIFF file, color.
+item.modified: 2017-06-20T03:38:40Z
+item.notes[0]: Built in 1932 and designed by architect James Wetmore. The exterior of the Trenton Federal Building is a well executed design with a "Stipped Neo-Classical" form, with both Classical and Art Deco terra cotta detailing. The "New Deal Art" murals are by Charles Ward.
+item.notes[1]: Photographed as part of an assignment for the General Services Administration.
+item.notes[2]: Title, date, and subject note provided by the photographer.
+item.notes[3]: Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.
+item.notes[4]: Gift; Carol M. Highsmith; 2009; (DLC/PP-2009:083-5).
+item.notes[5]: Forms part of the Carol M. Highsmith Archive.
+item.number_former_id[0]: https://www.loc.gov/item/2010719739
+item.number_former_id[1]: https://www.loc.gov/item/hig2011000952
+item.other_control_numbers[0]: 16661632
+item.other_control_numbers[1]: hig2011000952
+item.part_of: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=New%20Jersey--Trenton&co=highsm
+item.place[0].title: New Jersey--Trenton
+item.place[1].link: https://www.loc.gov/pictures/related/?fi=place&q=New%20Jersey--Trenton&co=highsm
+item.place[1].title: New Jersey--Trenton
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-highsm-10904 (original digital file)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/highsm.10904
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/highsm/10900/10904_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/highsm/10900/10904r.jpg
+item.sort_date: 2010
+item.source_collection[0]: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+item.source_created: 2011-02-09T00:00:00Z
+item.source_modified: 2017-06-15T13:30:38Z
+item.subject_headings[0]: Courthouses--New Jersey--Trenton--2000-2010.
+item.subject_headings[1]: Government facilities--New Jersey--Trenton--2000-2010.
+item.subject_headings[2]: United States--New Jersey--Trenton.
+item.subject_headings[3]: New Jersey--Trenton
+item.subjects[0]: Courthouses--New Jersey--Trenton--2000-2010
+item.subjects[1]: Government facilities--New Jersey--Trenton--2000-2010
+item.subjects[2]: United States--New Jersey--Trenton
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/highsm/10900/10904_150px.jpg
+item.title: Exterior, Clarkson S. Fisher Federal Building & U.S. Courthouse, Trenton, New Jersey
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2010719739
+link: https://www.loc.gov/pictures/item/2010719739/
+location[0]: new jersey
+location[1]: united states
+location[2]: trenton
+location_city[0]: trenton
+location_country[0]: united states
+location_state[0]: new jersey
+locations[0].new jersey: https://www.loc.gov/search/?fa=location:new+jersey&fo=json
+locations[1].trenton: https://www.loc.gov/search/?fa=location:trenton&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].trenton: https://www.loc.gov/search/?fa=location_city:trenton&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].new jersey: https://www.loc.gov/search/?fa=location_state:new+jersey&fo=json
+marc: https://www.loc.gov/pictures/item/2010719739/marc/
+medium[0]: 1 photograph : digital, TIFF file, color.
+medium_brief: 1 photograph :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2017-06-20T03:38:40Z
+notes[0]: Built in 1932 and designed by architect James Wetmore. The exterior of the Trenton Federal Building is a well executed design with a "Stipped Neo-Classical" form, with both Classical and Art Deco terra cotta detailing. The "New Deal Art" murals are by Charles Ward.
+notes[1]: Photographed as part of an assignment for the General Services Administration.
+notes[2]: Title, date, and subject note provided by the photographer.
+notes[3]: Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.
+notes[4]: Gift; Carol M. Highsmith; 2009; (DLC/PP-2009:083-5).
+notes[5]: Forms part of the Carol M. Highsmith Archive.
+number[0]: http://www.loc.gov/item/hig2011000952
+number[1]: http://www.loc.gov/item/2010719739
+number[2]: 2010719739
+number[3]: http://www.loc.gov/item/16661632
+number[4]: 2017-06-15t13:30:38
+number_former_id[0]: http://www.loc.gov/item/16661632
+number_former_id[1]: http://www.loc.gov/item/hig2011000952
+number_former_id[2]: http://www.loc.gov/item/2010719739
+number_lccn[0]: 2010719739
+number_source_modified[0]: 2017-06-15t13:30:38
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 16661632
+other_control_numbers[1]: hig2011000952
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2010719739/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2010719739/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2010719739/dc
+partof[0].count: 70435
+partof[0].title: highsmith (carol m.) archive
+partof[0].url: https://www.loc.gov/collections/carol-m-highsmith/?fo=json
+partof[1].count: 910731
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1162489
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1910629
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=New%20Jersey--Trenton&co=highsm
+place[0].title: New Jersey--Trenton
+place[1].link: https://www.loc.gov/pictures/related/?fi=place&q=New%20Jersey--Trenton&co=highsm
+place[1].title: New Jersey--Trenton
+related.neighbors: https://www.loc.gov/pictures/related/?&co=highsm&pk=2010719739&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-highsm-10904 (original digital file)
+reproductions[0]: Some images in this collection are described in groups; others are described individually. In some cases, all of the images in the group display online, in other cases they do not.
+
+You can download online images yourself. Alternatively, you can purchase copies of various types.
+
+Determine whether the desired materials can be retrieved online.
+
+Look in the Medium field above to determine whether the description is for one photograph or more than one.
+
+If the description is for a single item and it is displaying, you can download or purchase a print. Cite the number that begins with "LC-DIG..." when purchasing copies through Library of Congress Duplication Services.
+
+If the description is for more than one item and there is a "Click for more images" icon displaying, select that. Individual images will display; you can download or purchase prints. Cite the number that begins with "LC-DIG..." when purchasing copies through Library of Congress Duplication Services.
+
+If the description is for more than one item and there is no "Click for more images" icon displaying, return to the "About this Item" tab and select the "Check for online items from this group" link. Then select the "Obtaining Copies" tab for any retrieved items that are of interest.
+
+If the images do not display online -- Select images for reproduction through one of these methods:
+
+Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: https://www.loc.gov/rr/print/info/001_ref.html).
+
+P&P reading room staff can provide up to 15 photocopies of items per calendar year. (Color images cannot be photocopied.) For assistance, see our Ask a Librarian page. OR
+
+Hire a freelance researcher to do further selection for you (a list of researchers is available at: https://www.loc.gov/rr/print/resource/013_pic.html).
+
+Purchasing Copies
+
+Library of Congress Duplication Services can make copies of various types from images in Prints & Photographs Division Collections. Price lists, contact information, and order forms are available on the Duplication Services Web site.
+
+Carol M. Highsmith sells prints of her photographs at: http://photographsamerica.com/ External .
+resource_links[0]: //hdl.loc.gov/loc.pnp/highsm.10904
+resources[0].caption: original digital file
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/highsm/10900/10904t.gif
+resources[0].url: https://www.loc.gov/resource/highsm.10904/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Carol M. Highsmith - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.459465
+shard: 00
+shelf_id: LC-DIG-highsm- 10904 (ONLINE) [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 2010
+source_collection: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+source_created: 2011-02-09T00:00:00Z
+source_modified: 2017-06-15T13:30:38Z
+subject[0]: color
+subject[1]: new jersey
+subject[2]: digital photographs
+subject[3]: united states
+subject[4]: courthouses
+subject[5]: government facilities
+subject[6]: trenton
+subject_headings[0]: Courthouses--New Jersey--Trenton--2000-2010
+subject_headings[1]: Government facilities--New Jersey--Trenton--2000-2010
+subject_headings[2]: United States--New Jersey--Trenton
+subjects[0].color: https://www.loc.gov/search/?fa=subject:color&fo=json
+subjects[1].courthouses: https://www.loc.gov/search/?fa=subject:courthouses&fo=json
+subjects[2].digital photographs: https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json
+subjects[3].government facilities: https://www.loc.gov/search/?fa=subject:government+facilities&fo=json
+subjects[4].new jersey: https://www.loc.gov/search/?fa=subject:new+jersey&fo=json
+subjects[5].trenton: https://www.loc.gov/search/?fa=subject:trenton&fo=json
+subjects[6].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/highsm/10900/10904_150px.jpg
+timestamp: 2022-04-23T11:45:57.664Z
+title: Exterior, Clarkson S. Fisher Federal Building & U.S. Courthouse, Trenton, New Jersey
+unrestricted: true
+url: https://www.loc.gov/item/2010719739/
+resources[0].caption: original digital file
+resources[0].files[0][0].height: 180
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/jpeg
+resources[0].files[0][0].url: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10900:10904/full/pct:6.25/0/default.jpg
+resources[0].files[0][0].width: 344
+resources[0].files[0][1].height: 360
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].url: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10900:10904/full/pct:12.5/0/default.jpg
+resources[0].files[0][1].width: 689
+resources[0].files[0][2].height: 720
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].url: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10900:10904/full/pct:25/0/default.jpg
+resources[0].files[0][2].width: 1378
+resources[0].files[0][3].height: 1440
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].url: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10900:10904/full/pct:50/0/default.jpg
+resources[0].files[0][3].width: 2757
+resources[0].files[0][4].height: 2881
+resources[0].files[0][4].info: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:10900:10904/info.json
+resources[0].files[0][4].levels: 7
+resources[0].files[0][4].mimetype: image/jp2
+resources[0].files[0][4].size: 3055198
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/highsm/10900/10904.jp2
+resources[0].files[0][4].width: 5514
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/highsm/10900/10904t.gif
+resources[0].url: https://www.loc.gov/resource/highsm.10904/
+cite_this.apa: Highsmith, C. M., photographer. (2010) Exterior, Clarkson S. Fisher Federal Building & U.S. Courthouse, Trenton, New Jersey. New Jersey United States Trenton, 2010. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2010719739/.
+cite_this.chicago: Highsmith, Carol M, photographer. Exterior, Clarkson S. Fisher Federal Building & U.S. Courthouse, Trenton, New Jersey. New Jersey United States Trenton, 2010. Photograph. https://www.loc.gov/item/2010719739/.
+cite_this.mla: Highsmith, Carol M, photographer. Exterior, Clarkson S. Fisher Federal Building & U.S. Courthouse, Trenton, New Jersey. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2010719739/>.

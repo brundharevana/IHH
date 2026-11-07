@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/resource/sn88077215/1939-11-30/ed-1/?sp=9&st=text",
+  "fetch_url": "https://www.loc.gov/resource/sn88077215/1939-11-30/ed-1/?sp=9&st=text&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:24:04Z",
+  "sha256": "86f7b72c1741610bd0967eba0e265c41abe723a7d52e44ecd278a03e60ec5c3b",
+  "bytes": 11387,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn88077215/1939-11-30/ed-1/?sp=9&st=text&fo=json"
+}

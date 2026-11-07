@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/yose/learn/historyculture/roosevelt-muir-and-the-grace-of-place.htm",
+  "fetch_url": "https://www.nps.gov/yose/learn/historyculture/roosevelt-muir-and-the-grace-of-place.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:37:21Z",
+  "sha256": "e59673b61ac50e6c27711f493ee53f613af5608874969a6d8a73c5a04268dc09",
+  "bytes": 13574,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/yose/learn/historyculture/roosevelt-muir-and-the-grace-of-place.htm"
+}

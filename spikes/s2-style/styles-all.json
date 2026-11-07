@@ -1,0 +1,273 @@
+{
+  "$description": "S2 spike working tokens (DTCG-like). All looks that the bake reads (base holds inert defaults; each style authors only what differs): ref-textured is the S1-style baseline, clay, lowpoly, toon, duotone. Colours are hex strings here; style-tokens.json uses the 2025.10 object form. Enumerations use $type string (not a DTCG type). Spike, not a standard.",
+  "style": {
+    "base": {
+      "$description": "Inert defaults every style inherits unless it authors its own value. Not a look.",
+      "geometry": {
+        "$type": "number",
+        "curveScale": {"$value": 1},
+        "propTris": {"$value": 0},
+        "facetGrid": {"$value": 0},
+        "faceJitter": {"$value": 0}
+      },
+      "shading": {
+        "model": {"$value": "standard", "$type": "string"},
+        "roughness": {"$value": 1, "$type": "number"},
+        "flat": {"$value": 0, "$type": "number"},
+        "textures": {"$value": 0, "$type": "number"},
+        "signage": {"$value": 0, "$type": "number"},
+        "band1": {"$value": 0, "$type": "number"},
+        "band2": {"$value": 0, "$type": "number"},
+        "band3": {"$value": 0, "$type": "number"}
+      },
+      "lighting": {
+        "$type": "number",
+        "tone": {"$value": "none", "$type": "string"},
+        "sun": {"$value": 0},
+        "sunShadow": {"$value": 0},
+        "hemi": {"$value": 0.5},
+        "ambient": {"$value": 0},
+        "pendant": {"$value": 0},
+        "dome": {"$value": 0},
+        "domeSamples": {"$value": 1},
+        "hemiSky": {"$value": "#ffffff", "$type": "color"},
+        "hemiGround": {"$value": "#888888", "$type": "color"}
+      },
+      "outline": {
+        "$type": "number",
+        "enabled": {"$value": 0},
+        "widthDeg": {"$value": 0},
+        "crease": {"$value": 30},
+        "props": {"$value": 0},
+        "ink": {"$value": "#000000", "$type": "color"}
+      },
+      "post": {
+        "mode": {"$value": "none", "$type": "string"},
+        "ink": {"$value": "#000000", "$type": "color"},
+        "paper": {"$value": "#ffffff", "$type": "color"},
+        "levels": {"$value": 4, "$type": "number"},
+        "bayer": {"$value": 8, "$type": "number"},
+        "cell": {"$value": 2, "$type": "number"},
+        "contrast": {"$value": 1, "$type": "number"},
+        "bias": {"$value": 0, "$type": "number"}
+      }
+    },
+    "ref": {
+      "$description": "Baseline: S1-like textured, shadowed room, for size and time comparison only.",
+      "surface": {
+        "$type": "color",
+        "floor": {"$value": "#a9794a"},
+        "wainscot": {"$value": "#6f4a2c"},
+        "plaster": {"$value": "#e4d9c0"},
+        "ceiling": {"$value": "#5b4a3a"},
+        "timberDark": {"$value": "#6d4524"},
+        "timberMid": {"$value": "#8a5a30"},
+        "paint": {"$value": "#f2eee0"},
+        "track": {"$value": "#9a5b43"},
+        "glass": {"$value": "#c6dcef"},
+        "frame": {"$value": "#cfc6b0"},
+        "shade": {"$value": "#2c4a3a"},
+        "bulb": {"$value": "#fff0c8"},
+        "board": {"$value": "#1f2b25"},
+        "paper": {"$value": "#d9cfb8"},
+        "metal": {"$value": "#5a5a5a"},
+        "wicker": {"$value": "#c9a063"},
+        "propBoard": {"$value": "#2a3a33"},
+        "background": {"$value": "#222018"},
+        "chalk": {"$value": "#eceae0"}
+      },
+      "shading": {
+        "roughness": {"$type": "number", "$value": 0.7},
+        "textures": {"$type": "number", "$value": 1},
+        "signage": {"$type": "number", "$value": 1}
+      },
+      "lighting": {
+        "tone": {"$type": "string", "$value": "neutral"},
+        "sun": {"$value": 2.2},
+        "sunShadow": {"$value": 1},
+        "hemi": {"$value": 0.9},
+        "pendant": {"$value": 38},
+        "hemiSky": {"$type": "color", "$value": "#cfdcff"},
+        "hemiGround": {"$type": "color", "$value": "#7a6244"}
+      },
+      "post": {
+        "levels": {"$type": "number", "$value": 0},
+        "bayer": {"$type": "number", "$value": 0},
+        "cell": {"$type": "number", "$value": 0}
+      }
+    },
+    "clay": {
+      "$description": "Clay / architectural maquette: one matte warm-grey family, no textures, soft sky-dome lighting accumulated from many shadowed samples (AO-like).",
+      "surface": {
+        "$type": "color",
+        "floor": {"$value": "#a7a299"},
+        "wainscot": {"$value": "#c8c4bc"},
+        "plaster": {"$value": "#e8e5df"},
+        "ceiling": {"$value": "#dcd8d0"},
+        "timberDark": {"$value": "#c4c0b7"},
+        "timberMid": {"$value": "#cfcbc2"},
+        "paint": {"$value": "#f3f1ec"},
+        "track": {"$value": "#bdb9af"},
+        "glass": {"$value": "#f2f2ef"},
+        "frame": {"$value": "#dedad2"},
+        "shade": {"$value": "#c8c4bb"},
+        "bulb": {"$value": "#ffffff"},
+        "board": {"$value": "#cbc7be"},
+        "paper": {"$value": "#e9e6df"},
+        "metal": {"$value": "#bdb9b0"},
+        "wicker": {"$value": "#d6d2c9"},
+        "propBoard": {"$value": "#cbc7be"},
+        "background": {"$value": "#8d8a84"},
+        "chalk": {"$value": "#eceae0"}
+      },
+      "lighting": {
+        "hemi": {"$value": 0.55},
+        "ambient": {"$value": 0.12},
+        "dome": {"$value": 4.6},
+        "domeSamples": {"$value": 128},
+        "hemiGround": {"$type": "color", "$value": "#a8a39a"}
+      },
+      "post": {
+        "levels": {"$type": "number", "$value": 0},
+        "bayer": {"$type": "number", "$value": 0},
+        "cell": {"$type": "number", "$value": 0}
+      }
+    },
+    "lowpoly": {
+      "$description": "Low-poly flat-shaded: faceted planes with per-facet tone jitter, coarse curves, decimated props, restrained period palette (cream, walnut, oxblood, bottle green, slate).",
+      "surface": {
+        "$type": "color",
+        "floor": {"$value": "#c0925e"},
+        "wainscot": {"$value": "#7e5538"},
+        "plaster": {"$value": "#e6d9ba"},
+        "ceiling": {"$value": "#85705a"},
+        "timberDark": {"$value": "#5a3d2a"},
+        "timberMid": {"$value": "#8a6040"},
+        "paint": {"$value": "#efe8d6"},
+        "track": {"$value": "#8e4c3c"},
+        "glass": {"$value": "#b8cccf"},
+        "frame": {"$value": "#cfc4a8"},
+        "shade": {"$value": "#2f5242"},
+        "bulb": {"$value": "#fff0c8"},
+        "board": {"$value": "#2a3731"},
+        "paper": {"$value": "#d6cbb0"},
+        "metal": {"$value": "#58564f"},
+        "wicker": {"$value": "#b88b4f"},
+        "propBoard": {"$value": "#3a463f"},
+        "background": {"$value": "#1e1b16"},
+        "chalk": {"$value": "#e9e4d2"}
+      },
+      "geometry": {
+        "curveScale": {"$value": 0.3},
+        "propTris": {"$value": 160},
+        "facetGrid": {"$value": 1},
+        "faceJitter": {"$value": 0.07}
+      },
+      "shading": {
+        "model": {"$type": "string", "$value": "lambert"},
+        "flat": {"$type": "number", "$value": 1},
+        "signage": {"$type": "number", "$value": 1}
+      },
+      "lighting": {
+        "sun": {"$value": 2.7},
+        "sunShadow": {"$value": 1},
+        "hemi": {"$value": 2.1},
+        "hemiSky": {"$type": "color", "$value": "#f4f1e8"},
+        "hemiGround": {"$type": "color", "$value": "#8a6f55"}
+      },
+      "post": {
+        "levels": {"$type": "number", "$value": 0},
+        "bayer": {"$type": "number", "$value": 0},
+        "cell": {"$type": "number", "$value": 0}
+      }
+    },
+    "toon": {
+      "$description": "Toon / cel: MeshToonMaterial with a 3-band gradient map, flat palette, inverted-hull outlines on curved forms and camera-facing edge ribbons on hard edges (geometry, so no cube-face seams).",
+      "surface": {
+        "$type": "color",
+        "floor": {"$value": "#d9a066"},
+        "wainscot": {"$value": "#8a5530"},
+        "plaster": {"$value": "#f0e4c4"},
+        "ceiling": {"$value": "#9a7752"},
+        "timberDark": {"$value": "#6a432a"},
+        "timberMid": {"$value": "#b87d48"},
+        "paint": {"$value": "#fff9ec"},
+        "track": {"$value": "#c8623f"},
+        "glass": {"$value": "#bfe3ef"},
+        "frame": {"$value": "#f4e9c9"},
+        "shade": {"$value": "#2f7d5c"},
+        "bulb": {"$value": "#fff4c4"},
+        "board": {"$value": "#2b3b34"},
+        "paper": {"$value": "#f3e8c8"},
+        "metal": {"$value": "#6e6e68"},
+        "wicker": {"$value": "#dca23c"},
+        "propBoard": {"$value": "#34463d"},
+        "background": {"$value": "#2a2420"},
+        "chalk": {"$value": "#f4f0de"}
+      },
+      "shading": {
+        "model": {"$type": "string", "$value": "toon"},
+        "signage": {"$type": "number", "$value": 1},
+        "band1": {"$type": "number", "$value": 0.45},
+        "band2": {"$type": "number", "$value": 0.78},
+        "band3": {"$type": "number", "$value": 1}
+      },
+      "lighting": {
+        "sun": {"$value": 2.0},
+        "sunShadow": {"$value": 1},
+        "hemi": {"$value": 1.3},
+        "pendant": {"$value": 14},
+        "hemiGround": {"$type": "color", "$value": "#9a8266"}
+      },
+      "outline": {
+        "enabled": {"$value": 1},
+        "widthDeg": {"$value": 0.26},
+        "props": {"$value": 1},
+        "ink": {"$type": "color", "$value": "#1b1612"}
+      },
+      "post": {
+        "levels": {"$type": "number", "$value": 0},
+        "bayer": {"$type": "number", "$value": 0},
+        "cell": {"$type": "number", "$value": 0}
+      }
+    },
+    "duotone": {
+      "$description": "Duotone ordered-dither grade over a clay-lit constructed layer. Ink and paper are taken from the archival photograph's own shadow and highlight tones; the photograph layer is left ungraded.",
+      "surface": {
+        "$type": "color",
+        "floor": {"$value": "#a8a39a"},
+        "wainscot": {"$value": "#cfcbc3"},
+        "plaster": {"$value": "#e6e3dd"},
+        "ceiling": {"$value": "#d6d2ca"},
+        "timberDark": {"$value": "#b4b0a7"},
+        "timberMid": {"$value": "#c6c2b9"},
+        "paint": {"$value": "#f3f1ec"},
+        "track": {"$value": "#b3afa6"},
+        "glass": {"$value": "#f4f4f1"},
+        "frame": {"$value": "#dcd8d0"},
+        "shade": {"$value": "#bab6ad"},
+        "bulb": {"$value": "#ffffff"},
+        "board": {"$value": "#b9b5ac"},
+        "paper": {"$value": "#e9e6df"},
+        "metal": {"$value": "#b0aca3"},
+        "wicker": {"$value": "#d0ccc3"},
+        "propBoard": {"$value": "#bab6ad"},
+        "background": {"$value": "#8d8a84"},
+        "chalk": {"$value": "#eceae0"}
+      },
+      "lighting": {
+        "hemi": {"$value": 0.3},
+        "ambient": {"$value": 0.05},
+        "dome": {"$value": 4.2},
+        "domeSamples": {"$value": 96},
+        "hemiGround": {"$type": "color", "$value": "#a8a39a"}
+      },
+      "post": {
+        "mode": {"$type": "string", "$value": "dither"},
+        "ink": {"$type": "color", "$value": "#382f27"},
+        "paper": {"$type": "color", "$value": "#cec4ba"},
+        "contrast": {"$type": "number", "$value": 1.9}
+      }
+    }
+  }
+}

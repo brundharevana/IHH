@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/?sp=5&st=text",
+  "fetch_url": "https://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/?sp=5&st=text&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:23:40Z",
+  "sha256": "ad298eb0d48b2c0234dfb4cb4905892082049e3768a8aa1ba8eb47437fbfffca",
+  "bytes": 10462,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/?sp=5&st=text&fo=json"
+}

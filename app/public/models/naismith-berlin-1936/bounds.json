@@ -1,0 +1,74 @@
+{
+  "$comment": "Walkable bounds for free roam in naismith-berlin-1936.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 30.0,
+  "walkable": {
+    "x_min": -14.0,
+    "x_max": 14.0,
+    "z_min": -7.6,
+    "z_max": 7.6
+  },
+  "obstacles": [
+    {
+      "name": "goal_frame_w",
+      "x_min": -16.598,
+      "x_max": -11.68,
+      "z_min": -1.05,
+      "z_max": 1.05
+    },
+    {
+      "name": "goal_frame_e",
+      "x_min": 11.68,
+      "x_max": 16.598,
+      "z_min": -1.05,
+      "z_max": 1.05
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": -3.0,
+      "z": 2.5,
+      "look_at": {
+        "x": -13.0,
+        "y": 1.5,
+        "z": -2.0
+      },
+      "note": "On the court, towards the west basket and the main stand"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 0.0,
+      "z": -0.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -12.0
+      },
+      "note": "At the centre circle, facing the stand"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 9.5,
+      "z": 1.5,
+      "look_at": {
+        "x": 11.8,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "Under the east basket"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 8.5,
+      "z": -6.4,
+      "look_at": {
+        "x": -5.0,
+        "y": 1.5,
+        "z": 2.0
+      },
+      "note": "By the railing in front of the stand"
+    }
+  ]
+}

@@ -1,0 +1,1163 @@
+_version_: 1834544109272956928
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn86063730/1933-10-17/ed-1/
+aka[1]: http://www.loc.gov/resource/sn86063730/1933-10-17/ed-1/
+batch[0]: txdn_ferguson_ver01
+call_number[0]: AN
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/texas/
+composite_location[2]: 2/united states/texas/cameron/
+composite_location[3]: 3/united states/texas/cameron/brownsville/
+contributor_names[0]: University of North Texas; Denton, TX
+contributors[0].university of north texas; denton, tx: https://www.loc.gov/search/?fa=contributor:university+of+north+texas%3B+denton,+tx&fo=json&st=text
+created_published[0]: Brownsville, Tex., October 17, 1933
+date: 1933-10-17
+date_issued: 1933-10-17
+dates[0].1933-10-17: https://www.loc.gov/search/?dates=1933-10-17/1933-10-17&fo=json&st=text
+dates_of_publication: 1910-current
+description[0]: Brownsville, Tex.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-06-05T16:49:22.465Z
+extract_urls[0]: file:/service/ndnp//txdn/batch_txdn_ferguson_ver01/data/sn86063730/00340587741/1933101701/1933101701_1.xml#ndnp/txdn
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/txdn
+group[1]: university-of-north-texas-denton-tx-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn86063730/1933-10-17/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferguson_ver01:data:sn86063730:00340587741:1933101701:0286/full/pct:3.125/0/default.jpg#h=286&w=211
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferguson_ver01:data:sn86063730:00340587741:1933101701:0286/full/pct:6.25/0/default.jpg#h=573&w=423
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferguson_ver01:data:sn86063730:00340587741:1933101701:0286/full/pct:12.5/0/default.jpg#h=1146&w=847
+index: 1
+item.batch[0]: txdn_ferguson_ver01
+item.call_number[0]: AN
+item.contributor_names[0]: University of North Texas; Denton, TX
+item.created_published[0]: Brownsville, Tex., October 17, 1933
+item.date: 1910
+item.date_issued: 1933-10-17
+item.dates[0]: 1933-10-17
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.language[1]: spa
+item.library_of_congress_control_number: sn86063730
+item.location[0]: Brownsville (Tex.)
+item.location[1]: McAllen (Tex.)
+item.location[2]: Harlingen (Tex.)
+item.location[3]: Cameron County (Tex.)
+item.location[4]: Hidalgo County (Tex.)
+item.location[5]: Texas--McAllen
+item.location[6]: Texas--Hidalgo County
+item.location[7]: Texas--Harlingen
+item.location[8]: Texas--Brownsville
+item.location[9]: Texas--Cameron County
+item.medium: 6 pages
+item.newspaper_title[0]: Brownsville herald
+item.notes[0]: Daily (except Sat.), -
+item.notes[1]: Vol. 18, no. 279 (Oct. 10, 1910)-
+item.notes[2]: Sunday issue for July 11, 1937 combines with Valley morning star and McAllen daily monitor and is called: Valley Sunday star; Combined issues for Sunday, July 18, 1937-July 26, 1942 called: Valley Sunday star-monitor-herald
+item.notes[3]: Published by Freedom Newspapers, -
+item.notes[4]: Issue for May 10, 1936 also called "International seaport and airport number."
+item.notes[5]: Later editions issued with Spanish supplement called: El Heraldo de Brownsville.
+item.notes[6]: Sometimes called: Brownsville evening herald .
+item.notes[7]: Available on microfilm: New York : Recordak Corp.
+item.notes[8]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[9]: In English; also included a section in Spanish from April 20, 1914 to June 15, 1914.
+item.notes[10]: Description based on: Vol. 18, no. 279 (Oct. 10, 1910)
+item.notes[11]: Latest issue consulted: Vol. 95, no. 285 (Apr. 14, 1987)
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//txdn/batch_txdn_ferguson_ver01/data/sn86063730/00340587741/1933101701/1933101701_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn86063730/marcxml
+item.other_title[0]: Valley Sunday star
+item.other_title[1]: Valley Sunday star-monitor-herald
+item.other_title[2]: Brownsville evening herald
+item.other_title[3]: Brownsville daily herald
+item.place_of_publication: Brownsville, Tex.
+item.raw_lccn: sn 86063730
+item.reel_numbers[0]: 00340587741
+item.source_group: ndnp/txdn
+item.subjects[0]: Brownsville (Tex.)--Newspapers
+item.subjects[1]: McAllen (Tex.)--Newspapers
+item.subjects[2]: Harlingen (Tex.)--Newspapers
+item.subjects[3]: Cameron County (Tex.)--Newspapers
+item.subjects[4]: Hidalgo County (Tex.)--Newspapers
+item.subjects[5]: Texas--McAllen
+item.subjects[6]: Texas--Hidalgo County
+item.subjects[7]: Texas--Harlingen
+item.subjects[8]: Texas--Brownsville
+item.subjects[9]: Texas--Cameron County
+item.subjects[10]: United States--Texas--Cameron--Brownsville
+item.title: Brownsville herald (Brownsville, Tex.), October 17, 1933
+language[0]: english
+language[1]: spanish
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+languages[1].spanish: https://www.loc.gov/search/?fa=language:spanish&fo=json&st=text
+library_of_congress_control_number: sn86063730
+location[0]: mcallen
+location[1]: cameron county
+location[2]: brownsville
+location[3]: harlingen
+location[4]: hidalgo county
+location[5]: texas
+location[6]: united states
+location[7]: cameron
+location_city[0]: brownsville
+location_country[0]: united states
+location_county[0]: cameron
+location_state[0]: texas
+locations[0].brownsville: https://www.loc.gov/search/?fa=location:brownsville&fo=json&st=text
+locations[1].cameron: https://www.loc.gov/search/?fa=location:cameron&fo=json&st=text
+locations[2].cameron county: https://www.loc.gov/search/?fa=location:cameron+county&fo=json&st=text
+locations[3].harlingen: https://www.loc.gov/search/?fa=location:harlingen&fo=json&st=text
+locations[4].hidalgo county: https://www.loc.gov/search/?fa=location:hidalgo+county&fo=json&st=text
+locations[5].mcallen: https://www.loc.gov/search/?fa=location:mcallen&fo=json&st=text
+locations[6].texas: https://www.loc.gov/search/?fa=location:texas&fo=json&st=text
+locations[7].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].brownsville: https://www.loc.gov/search/?fa=location_city:brownsville&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].cameron: https://www.loc.gov/search/?fa=location_county:cameron&fo=json&st=text
+locations_state[0].texas: https://www.loc.gov/search/?fa=location_state:texas&fo=json&st=text
+medium: 6 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Brownsville herald
+notes[0]: Daily (except Sat.), -
+notes[1]: Vol. 18, no. 279 (Oct. 10, 1910)-
+notes[2]: Sunday issue for July 11, 1937 combines with Valley morning star and McAllen daily monitor and is called: Valley Sunday star; Combined issues for Sunday, July 18, 1937-July 26, 1942 called: Valley Sunday star-monitor-herald
+notes[3]: Published by Freedom Newspapers, -
+notes[4]: Issue for May 10, 1936 also called "International seaport and airport number."
+notes[5]: Later editions issued with Spanish supplement called: El Heraldo de Brownsville.
+notes[6]: Sometimes called: Brownsville evening herald .
+notes[7]: Available on microfilm: New York : Recordak Corp.
+notes[8]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[9]: In English; also included a section in Spanish from April 20, 1914 to June 15, 1914.
+notes[10]: Description based on: Vol. 18, no. 279 (Oct. 10, 1910)
+notes[11]: Latest issue consulted: Vol. 95, no. 285 (Apr. 14, 1987)
+number[0]: 1
+number[1]: sn86063730
+number[2]: 00340587741
+number_edition[0]: 1
+number_lccn[0]: sn86063730
+number_reel[0]: 00340587741
+numeric_shelf_id: 193310171
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//txdn/batch_txdn_ferguson_ver01/data/sn86063730/00340587741/1933101701/1933101701_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn86063730/marcxml
+other_title[0]: Valley Sunday star
+other_title[1]: Valley Sunday star-monitor-herald
+other_title[2]: Brownsville evening herald
+other_title[3]: Brownsville daily herald
+partof[0].count: 10242
+partof[0].title: brownsville herald (brownsville, tex.) 1910-current
+partof[0].url: https://www.loc.gov/search/?fa=partof:brownsville+herald+%28brownsville,+tex.%29+1910-current&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: brownsville herald (brownsville, tex.) 1910-current
+place_of_publication: Brownsville, Tex.
+publication_frequency[0]: daily
+raw_lccn: sn 86063730
+reel_numbers[0]: 00340587741
+resources[0].files: 6
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferguson_ver01:data:sn86063730:00340587741:1933101701:0286/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn86063730/1933-10-17/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.658042
+shard: 05
+shelf_id: sn86063730, 1933-10-17, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/txdn
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: mcallen
+subject[1]: brownsville (tex.)
+subject[2]: newspapers
+subject[3]: harlingen (tex.)
+subject[4]: cameron county
+subject[5]: cameron county (tex.)
+subject[6]: brownsville
+subject[7]: hidalgo county (tex.)
+subject[8]: harlingen
+subject[9]: hidalgo county
+subject[10]: texas
+subject[11]: mcallen (tex.)
+subject[12]: united states
+subject[13]: cameron
+subject_headings[0]: Brownsville (Tex.)--Newspapers
+subject_headings[1]: McAllen (Tex.)--Newspapers
+subject_headings[2]: Harlingen (Tex.)--Newspapers
+subject_headings[3]: Cameron County (Tex.)--Newspapers
+subject_headings[4]: Hidalgo County (Tex.)--Newspapers
+subject_headings[5]: Texas--McAllen
+subject_headings[6]: Texas--Hidalgo County
+subject_headings[7]: Texas--Harlingen
+subject_headings[8]: Texas--Brownsville
+subject_headings[9]: Texas--Cameron County
+subject_headings[10]: United States--Texas--Cameron--Brownsville
+subjects[0].brownsville: https://www.loc.gov/search/?fa=subject:brownsville&fo=json&st=text
+subjects[1].brownsville (tex.): https://www.loc.gov/search/?fa=subject:brownsville+%28tex.%29&fo=json&st=text
+subjects[2].cameron: https://www.loc.gov/search/?fa=subject:cameron&fo=json&st=text
+subjects[3].cameron county: https://www.loc.gov/search/?fa=subject:cameron+county&fo=json&st=text
+subjects[4].cameron county (tex.): https://www.loc.gov/search/?fa=subject:cameron+county+%28tex.%29&fo=json&st=text
+subjects[5].harlingen: https://www.loc.gov/search/?fa=subject:harlingen&fo=json&st=text
+subjects[6].harlingen (tex.): https://www.loc.gov/search/?fa=subject:harlingen+%28tex.%29&fo=json&st=text
+subjects[7].hidalgo county: https://www.loc.gov/search/?fa=subject:hidalgo+county&fo=json&st=text
+subjects[8].hidalgo county (tex.): https://www.loc.gov/search/?fa=subject:hidalgo+county+%28tex.%29&fo=json&st=text
+subjects[9].mcallen: https://www.loc.gov/search/?fa=subject:mcallen&fo=json&st=text
+subjects[10].mcallen (tex.): https://www.loc.gov/search/?fa=subject:mcallen+%28tex.%29&fo=json&st=text
+subjects[11].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[12].texas: https://www.loc.gov/search/?fa=subject:texas&fo=json&st=text
+subjects[13].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2025-06-10T12:13:10.895Z
+title: Brownsville herald (Brownsville, Tex.), October 17, 1933
+type[0]: issue
+url: https://www.loc.gov/item/sn86063730/1933-10-17/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_ferguson_ver01/data/sn86063730/00340587741/1933101701/0286.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn86063730/1933-10-17/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferguson_ver01:data:sn86063730:00340587741:1933101701:0286/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/txdn/batch_txdn_ferguson_ver01/data/sn86063730/00340587741/1933101701/0286.pdf
+resources[0].segment_count: 6
+resources[0].url: https://www.loc.gov/resource/sn86063730/1933-10-17/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1933, October 17) Brownsville Herald. Retrieved from the Library of Congress, https://www.loc.gov/item/sn86063730/1933-10-17/ed-1/.
+cite_this.chicago: Brownsville Herald. (Brownsville, TX), Oct. 17 1933. https://www.loc.gov/item/sn86063730/1933-10-17/ed-1/.
+cite_this.mla: Brownsville Herald. (Brownsville, TX) 17 Oct. 1933, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn86063730/1933-10-17/ed-1/.
+
+segment_id: /service/ndnp/txdn/batch_txdn_ferguson_ver01/data/sn86063730/00340587741/1933101701/0286.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_ferguson_ver01/data/sn86063730/00340587741/1933101701/0286.xml&format=alto_xml&full_text=1
+full_text:
+r
+s ®it iroumstrille Hcrsltl isfcJI
+7# tb* general itcoTin plan.
+THE VALLEY FIRST—FIRST IN THE VALLEY—LEASED WIRE SERVICE OF THE ASSOCIATED PRESS _
+FORTY-SECOND YEAR—No. 85 BROWNSVILLE. TEXAS, TUESDAY, OCTOBER 17, 1938 SIX PAGES tc A COPE
+IN OUR
+VALLEY
+_ _
+BIDS IN THE AGGREGATE
+amounting to $8,000,000 have been
+received by the Texas Highway
+commission—
+For road construction under the
+$24,000,000 emergency relief allot
+ment of the federal government.
+Roads for llch these bids have
+been received are located in all
+sections of the state.
+Cameron county was the first
+county in Texas to have projects
+approved for construction under
+this federal program.
+How many bids have been re
+ceived on Cameron county projects?
+Exactly NONE.
+Why?
+We do not know.
+Bear in mind that these projects
+were approved by the commission
+**veral weeks before the hurricane,
+^r.d that scores of projects have
+aince been approved.
+The difference being that these
+others have been approved, bids
+advertised and contracts let.
+While Cameron county's projects
+are just now getting to the federal
+engineer at Ft. Worth lor his final
+O. K.
+Somebody has fallen down on
+the Job.
+WHAT IS GOING TO HAPPEN
+to our Valley school districts, as
+they attempt to rehabilitate dam
+aged buildings, we frankly do nut
+know.
+Senate BUI 70. designed to give
+relief, is undoubtedly one of the
+finest duds ever perpetrated.
+Under authority of this bill our
+school districts are given the rig.it
+to borrow from the federal gov
+erns-at. pledging as security for
+the loans their delinquent taxes.
+Some of our school districts may
+be able to profit by the terms of
+this bill.
+Some of them, Brownsville lor
+example, cannot profit.
+It is an open secret that delin
+quent taxes of the Brownsville
+School district have been pledged
+almost to the hilt for teachers sal
+aries, other operating expenses and
+to secure bank loans.
+We cannot imagine the teachers
+subrogating their claim on these
+taxes to the federal government.
+Neither can we imagine otner
+holders of these delinquent tax war
+rants stepping aside In favor of
+the government, not even to get j
+the school buildings repaired.
+As a help in this particlular in- j
+stance, the legislature certainly fail- j
+ed a storm swept country whicni
+had been promised the world with 1
+a fence around it.
+
+GET US RIGHT—WE ARE NOT
+-picking on anybody—
+Just trying, in our feeble way,
+To point out to the people of the
+Valley that by laying back and
+letting the “I'll take the credit i
+boys
+Strut their stuff,
+While the welfare of the Valley
+lags as they boost their personal j
+ambitions.
+It’s time f s. seriously time, j
+that this section awakens to the
+M" ay it*is being played with,
+And demands action, not prom
+ises,
+Results, not empty promises.
+THE WONDERS OF NATURE
+following the hurricane seem to
+continue in the Valley.
+There were several ‘runs’’ ot
+sandcrabs along the highways and
+by-ways right alter the big blow.
+Now there seems to be an epi
+demic of dragon-flies.
+Yesterday afternoon we reclined
+gently on our lawn and watched
+them fly over.
+Migrating, they were.
+All going a trifle west of south
+They flew at varying heights, from
+ten feet to about a hundred and
+fifty* as near as we can Jud^e.
+ft ft ft
+THEY MADE AN INTERESTING
+procession, and being filled with
+mild curiosity we wondered where
+they were going and where they
+came from.
+Maybe somebody conversant witn
+.the habits oft a dr Ton-fly can ten
+us
+They moved on an on like one
+of those pictures you sed to <ee
+in the movies of soldiers following
+soldiers, marching as to war.
+Most of them had a couple of
+big black places on the wings, close
+the body, and moved in jerts.
+coasting a Y between.
+But occasionally there came a
+big one. sailing steadily aiong with
+smooth wing-action, like a dirigible
+floating along among pursuit
+planes.
+About sundown the procession
+•topped.
+620,000 Workers Find Jobs During September
+JOB INCREASE
+32 PER CENT
+OVER AUGUST
+
+Gains in Wholesale
+Trade Shown In
+Survey
+WASHINGTON, Oct. 17.—<JP)—
+The labor department reported to
+cay that over 620,000 workers re
+turned to their Jobs during Sep
+tember in the seventeen industrial
+and business groups reporting to
+its bureau of labor statistics.
+Sec. Perkins said over 200.300
+workers found employment in man
+ufacturing industries and a slightly
+larger number in retail establish
+ments.
+Not Total Number
+The seasonal increase in canning
+accounted Tor 70,000.
+Gains in the wholesale trade
+were shown.
+Building construction industries
+indicated more than 20,000 workers
+were added.
+The employment Increase in
+September was 3.2 over August
+with an index of 73.9. In September
+1932 the index was 58.5 which was
+an increase of 4.5 per cent over the
+previous month.
+"This increase in employment of
+nearly two thirds of a million per
+sons.” said Miss Perkins, “does not
+represent the total number of per
+sons who were returned to employ
+ment in all branches of industry.
+Public Works I'ncounted
+"The industries surveyed each
+month by the bureau of labor sta
+tistics normally employ about 20.
+000.000 of the 49.000,000 of gainful
+workers of the country.
+"Only a very small portion of the
+more than $300,000,000 which fTSs
+been let In contracts by the public
+works administration to date ndd
+been awarded on September 15,
+and the increase in employment
+resulting from these contracts is
+not reflected in the September em
+ployment tabulations
+Kelly’s Uncle
+Is Convicted
+SAN ANGELO. Oct. 17.—(JP>—
+Cass Coleman and Will Casey,
+Coleman county, Texas, fanners,
+today awaited sentencing by Fed
+eral Judge William H. Atwell foi
+harboring "Machine Gun” George
+Kelly and his wife, Kathryn, con
+victed kidnapers of Charles F.
+Urschel, Oklahoma oil man.
+Coleman pleaded guilty and
+testified for the government against
+Casey, who was convicted last night
+within an hour after the jury re
+ceived the case.
+The maximum penalty possible
+would be two years' imprisonment
+and a fine of $10,000.
+19-Year Slaying
+Mystery Reopened
+MILWAUKEE, Wis., Oct. 17. <.P>
+—The bizarre details of a back
+woods slaying, kept scret 19 years,
+were coming to light, the authorities
+said today, with a mother and her
+son each accusing each other of
+killing the son’s father. John Novak.
+Joseph Novak, about 36. was held
+for Marinette. Wis.. authorities who
+said a first degree murder warrant
+naming him would be Issued. H2 was
+found on a street here last night, j
+Store Damaged In
+Havana by Bomb
+HAVANA, Oct. 17. (Jf)—A bomb
+today did considerable damage to
+the San Rafael street show win
+dows of the Woolworth store which
+has been closed some time as the
+result of a strike.
+Meanwhile, the police faced a new
+problem in the mysterious shooting
+of two policemen, who were wound
+ed seriously by shots fired from a
+sedan which drove rapidly past a
+car barn where they were on fluty.
+Three Arrested In
+Bombing of Church
+ROME, Oct. 17. f/P)—It was of
+ficially announced today that three
+men have been arrested charged
+with the bombing at St. Peter's last
+June 25 in which four persons were
+Injured.
+The three are the brothers, Ren
+ato and Aldo Cianca, and Leonar
+do Bucclglloni.
+‘Ma’ Frees Woman
+Sentenced Here
+AUSTIN. Oct. 17. (/PV—Gov. Mir
+iam A. Ferguson today issued condi
+tional pardons to Arietta Price,
+Cameron county, and Robert Jea
+cock, Johnson county, state con
+victs. Price was sentenced to 20
+years lor murder In October. 1830
+and Peacock was serving two rears
+for murder without malice. Peacock
+was sentenced last February.
+Unidentified
+Boy Hurt
+By Auto
+An unidentified boy, about 10
+years old, was unconscious in
+Mercy hospital shortly after noon
+today while police attempted to
+I locate the boy’s parents.
+The boy received a broken l2g
+and possibly Internal Injuries
+when he was struck by an auto
+mobile driven by J. M. Haiglen
+at Seventh and Ringgold streets
+this morning.
+Haigler rushed the boy to the
+hospital and then reported the ac
+cident to police headquarters.
+Heigler is a hardware salesman.
+His home is in Corpus Christi.
+ATTACK CASE
+JURY CHOSEN
+Trial of Two Brownsville
+Youtha Gets Under
+Way Today
+_
+State’s evidence was expected to
+get under way in criminal district
+court late this afternoon in tne
+case charging Juan Teran and Felix
+Martinez, Brownsville men, with
+statutory offenses upon a young
+Brownsville girl.
+A special venire of 50 was ex
+hausted in selecting seven jurors
+Tuesday morning and Judge Qso.
+C Westervelt called another panel
+of 20 for 1:30 p. m.
+Men taken on the Jury Tuesday
+r.cming: F. H. Trimble, Browns
+ville charity worker; E. F. Stein (i
+La Feria; Kelly Wiseman. Port Isa
+bel launch operator; Bill Ingram
+of Harlingen; A. L. Head, Harlin
+gen merchant; H. M. Marshal. Har
+lingen bookkeeper for the C J».&L;
+end T. Aziz, Brownsville merchant.
+John Sosa, indicted jointly with
+Teran and Martinez, was granted
+an indefinite continuance when Ills
+attorney, Ft. C. Roland, presented
+an affidavit stating the defendant
+v;as ill and unable to attend Court.
+At a preliminary hearing the
+girl testified that she went across
+the Rio Grande with Sosa and that
+he forced her to take drinks which
+she did not want. They returned to
+the American side, the girl said,
+end Sosa picked up Teran and
+Martinez. The three took her to
+a corn patch near Brownsville and
+attacked her. she declared on the
+witness stand.
+Daladier Answers
+Hitler Challenge
+PARIS, Oct. 17—(jp)— Premier
+Edouard Daladier. calm but grim,
+today answered Chancellor Adoir
+Hitler of Germany by questioning
+the relch'k reasons for withdrawing
+from the disarmament conference.
+The premier arose in a tense
+crowded chamber of deputies and
+slowly demanded from the rostrum:
+Why, if Germany is ready to
+destroy all armaments, why do they
+withdraw from the conference Just
+when we drafted a plan?”
+i—..
+COUNTY ROADS
+FINALLY COME
+UP FOR STUDY
+State Lays Blame On
+Federal Heads In
+Delays
+Two Cameron county road proj
+ects under the t24.000.000 federal
+emergency road building appropria
+tion allotted to Texas, finally have
+been submitted to the engineer of
+the U. S. Bureau of Public Roaas
+at Fort Worth for final approval,
+according to news dispatches re
+ceived this morning by The Browns
+ville Herald.
+Approved in July
+The projects, both of which were
+approved by the State High ay
+commission on July ll, are the air
+port road cut-off and the Banker
+road connecting the Military High
+way with the Boca Chica road. The
+airport road will provide a dtrect
+line to the Pan-American airport,
+eliminating the dangerous turn now
+used.
+The Banker road was submitted
+to the Ft. Worth office last week
+and the airport road Monday, the
+dispatches stated.
+Slightly more than two miles ot
+road construction is included in
+the two projects.
+The other two Cameron county
+projects, which include widening
+State Highway 48 from Harlingen to
+San Benito and from San Benito to
+Brownsville, are being handled as
+day labor projects in conjunction
+with the relief administration and
+no official action was required from
+the state highway department to get
+work underway.
+Blame* labor Agencies
+Main cause of delay in starting
+the Cameron county projects naa
+been failure of various agencies to
+furnish the needed labor, accord
+ing to State Engineer Gib Gil
+christ who told The Brownsville
+Herald "I understand they had been
+furnishing us laborers, but stopped.
+“As to the special emergency
+grant based on hurricane conditions
+the department has received no of
+ficial notification and thus hat
+planned no projects undur it.
+“This hurricane relief program
+will not get any attention at this
+meeting of the highway commis
+sion, owing to lack of federal ac
+tlon In notifying the state,” he con
+cluded.
+The hurricane relief money, for
+road construction in the Valley and
+the Panhandle was announced by
+the Public Works Adm Inst ration on
+Oct. 11.
+Railroad Official’s
+Daughter Threatened
+PHILADELPHIA. Oct. 17.
+The Philadelphia Inquirer says
+Betty Downes, 15-year-old daugh
+ter of a Pennsylvania railroad offi
+cial, is the object of a renewed cam
+paign by the extortionist who
+threatened her life two months ago.
+As a result, the girl’s bodyguard
+has been recalled and armed men
+are assigned to protect her to and
+from school in the Chestnut Hill
+section of the city, the Inquirer says.
+HARTZELL TO
+GO ON TRIAL
+OCTOBER 23
+Case Against Drake
+Estate Racketeer
+I Is Completed
+Oscar M. Hartzell. king of the
+"Drake Estate" racketeers, other
+wise known as the “baron" will go
+to trial at Sioux City. Iowa, on 15
+charges of using the mails to de
+fraud In working the Drake Estate
+racket, on Oct. 23.
+Progress of the trial will be
+watched with much interest tn the
+Valley, as this section has contri
+buted at least $225,000 to the "bar
+on” and his ‘‘retainers' during the
+past few years.
+Ohmart Also Charged
+Interest Is being shown here al
+so beer use among those charged
+along with Hartzell is Lester Oh
+mart of San Benito, head of the
+Drake Estate racket in the Lower
+Rio Grande Valley the past lew
+years.
+Ohmart is under $10,000 bond
+here on charges of using the mail
+to defraud.
+"We are holding up trial of the
+Ohmart case pending outcome of the
+case against Hartzell,” Carlos Wat
+son, assistant federal district at
+torney, said. "If Hartzell is not con
+victed in Iowa, we will prosecute
+him here.”
+Case Completed
+With a battery of high-priced
+lawyers, paid out of some of the
+million dollars which the suckers
+of the nation have sent to ‘•Baron”
+Hartzell, the big shot of the swin
+dle is trying every legal subter
+fuge to stop the trial, but indica
+tions are that it will go ahead.
+The government’s case against the
+“baron” is practically complete.
+A Chicago Tribune article from
+London tells about the development
+of the case there, and tells a bit of
+how “Baron" Hartaell lived in :ux
+(Continued On Page Six)
+Siam Federals
+Persue Rebels
+BANGKOK, Siam. Oct. 17—fA1)—
+Rebel troops were reported on :he
+run today with loyal forces in
+vigorous pursut.
+As the scene of battle was press
+ed farther from the city with the
+attackers’ retreat northward, it
+was announced unofficially th.it
+the rebels had lost 500 killed and
+1.000 wounded.
+Government troops recaptured
+the airport, but when they took
+possession they found it stripped
+o' all planes, armaments and muni
+tions.
+Burnett, McGoohan
+Eligible for P. O.
+WASHINGTON. D. C.. Oct. 17 (JP)
+—The Postoffice Department an
+nounced today that William T. Bur
+nett and Edward J. McGoohan are
+eligible for appointment as post
+master at Brownsville.
+WHOSE FOOT SLIPPED?
+AN EDITORIAL
+“As to the special emergency grant based on hur
+ricane conditions, the department (state highway) has
+received no official notification, and thus has planned no
+projects under it. This hurricane relief program will not
+get any attention this meeting (of the state highway com
+mission) owing to lack of federal action in notifying the
+state.”—Gibb Gilchrist, state highway engineer.
+On Sept. 29 The Brownsville Herald carried a news
+story saying that $4,000,000 was to be made available
+for emergency road building work in the hurricane-strick
+en counties of the Low-er Rio Grande Valley.
+Again on Oct. 11 The Brownsville Herald carried an
+Associated Press dispatch out of Washington saying that
+the sum of $2,670,000 had been allotted for that pur
+pose by the Public Works administration, which sum was
+to be added to $6,000,000 to be supplied by the Relief
+administration.
+That $8,670,000 is available, or it is to be made
+available, for emergency road building in the drouth ter
+ritory of the Panhandle and the hurricane-swept Valley
+has been common knowledge for a week.
+Yet—because of no official notification from the
+federal government the hands of the State Highway com
+mission are tied, and the Valley counties suffer.
+John Woods, chairman of the State Highw-ay com
+mission, helped engineer the emergency appropriation.
+Marvin Jones of Amarillo, congressman from the drouth
+territory, helped get it through.
+But—no official notification has been received and
+we continue to have thousands on relief rolls, men are
+clamoring for work, children are clamoring for food.
+Cameron county has today 92 miles of road, we are
+told on unquestionable authority, on which the grading
+has been completed and the structures built. On much
+of this mileage bids have already been advertised but
+no contracts let because of failure to sell the last batch
+of Cameron county road bonds.
+The stage is set, ready to begin almost immediate
+road work, and road work gives lots of employment.
+But—no road work under this huge emergency grant
+can be considered at the present meeting of the State
+Highway commission, because, forsooth, the commission
+has not been notified officially that the money has been
+made available.
+W’hose foot has slipped?
+We do not know, but we do know that there should
+be a man somewhere in Cameron or Hidalgo counties
+w’ith enough influence in official Washington to get a
+letter written to the State Highway commission notifying
+the commission that this money is available.
+The Public W’orks administration has announced
+through the press that the money is available, for heaven’s
+sake let’s get what is coming to us while it will do some
+good to the thousands who need assistance and need it
+NOW.
+Serious Illness
+Of Mrs. Chaney
+Delays Wedding
+LOS ANGELES Oct. 17 (**>—1The
+serious illness of Mrs. Hawl
+Chaney, widow of Lon Chaney,
+has resulted In an Indefinite post
+ponement of her marriage to the
+late actor’s most trusted com
+panion. John Jeshke.
+Claude Parker, Mrs. Chaney’s
+attorney, visited her and made
+the following statement:
+"I was permitted to see Mis
+Chaney for a short time. She
+agreed with me that, at least un
+til she recovers from her illners,
+if she recovers, it will be best to
+forego the marriage.”
+Kathryn Kelly Boasts George Will Break
+Prison Before Christmas and Rescue Her
+Mother and Daughter
+Parted to Enter
+Prisons
+MEMPHIS, Turn., Oct 17. <jP)—
+Boasting that her husband, George
+(Machine Gun” Kelly, will break
+out of his own prison and rescue
+her before Christmas, Kathryn
+Kelly left here today for Cincinnati
+after a final parting with her
+mother, Mrs. R. G. Shannon.
+“George will see me at Christ
+mas,” Mp Kelly told officers. “He
+told me he would wreak out Christ
+mas and get me out He always
+Kathryn
+docs whmt he says!
+he will.”
+The next min
+ute. however, the
+au burn haired
+wife of the des
+perado was weep
+j taf:
+"Mother is so
+sweet, so inno
+s cent,” she cdied.
+“I’m worried on
+ly about her.”
+The two wom
+en, both facing
+life sentences for
+j their part in the
+kidnaping of
+Charles F. Urschei,
+Oklahoma City oil man, arrived
+from Oklahoma City shortly before
+7 a. m. They walked with their
+guards to another station where
+they said goodbye.
+train and departed for Cincinnati
+at 7:50 a. m., rnd her mother was
+removed to the Shelby county penal
+farm where she will serve her
+sentence.
+En route to lemphis, Mrs. Kelly
+was overheard telllnf Mrs. Shan
+non:
+“Mother. I can really be a food
+woman when I want to. They think
+I am a bad woman.”
+"Kathryn,” her mother answered.
+“I’ve always been a food woman.
+1 wouldn't know how to be other
+wise."
+Kathryn’s arrival at Memphis
+marked the second time her alleged
+crime trail led her here. She and
+her outlaw husband were captured
+in a bungalow hideout here. Sep
+tember 26.
+Despite her previous boast, Mrs.
+Kelly promised her mother she
+would be a “moJeI” prisoner.
+“Mother will not live long in
+(Continued On Page Six)
+OKLAHOMA CITT, Oct 17.
+(AP)—Co. Jailer E. E. Herron
+said today that Mrs. Kathryn
+Kelly, wife of “Machine
+George,” promised him 215.000
+it be would permit her to es
+cape late yesterday just before
+she was taken from the jail to
+a train en route to federal pris
+on. Herron promptly rejected the
+offer.
+“Let me call a number, take
+me a block away and a man rill
+pay you $15,000,” he said Mrs.
+Kely offered.
+‘They’ve Crucified Me’
+Mrs. Shannon Says
+At Prison
+MEMPHIS. Tenn., Oct. 17. (AP)
+Mi*. H. G. Shannon of Paradise.
+Texas, entered the Shelby county
+penal farm today to begin a life
+sentence for her part in the Char
+les F. Urschel kidnaping after plac- j
+ing the blame for her plight upon
+George (Machine Gun) Kelly, her
+son-in-law.
+Kathryn Ketly. her daughter, she
+said, “loved George Kelly, and we
+believed In him—
+he brought us to I
+this.” V
+Protesting her
+innocence and as
+serting that she
+has been a church
+member all her
+life, she said "they
+couldn’t find a
+thing in my nsi
+life that wasn’t
+fair and square.'’
+It was on the
+Shannon farm
+that the million
+aire oil man was
+held a prisoner.
+“When they
+brought Mr. Urschel to my home,”
+she said, "they told me he was
+drank. They kept him there for a
+few hows. I made them take him
+away because I didn’t allow drunk
+men In my home."
+Told that she would be required
+to work in the sewing room of the
+penal f rm, Mrs. Shannon protest
+ed that “I can't run a machine.”
+and then asked:
+"Can I wear my own clothes
+there? I've never been in jJRson
+before.*
+"They’ve crucified me," she said.
+They are pinning me to the cross
+for something I don't know anything
+about.
+The only thing we’re guilty of is
+having too much confidence in oth
+er people.”
+As she parted with her daughter
+at the depot where the daughter
+was placed aboard a train for Cin
+cinnati, she criticized Kathryn for
+expressing hope that Langford Ram
+sey, youthful Memphis attorney,
+"get* life."
+T hope he gets life," Mrs. Kelly
+said. "He's so dumb he had to break
+Into jail."
+Einstein Arrives
+NEW YORK. Oct. 17. «»}—Dr. Al
+bert Einstein, scientist officially
+without honor in his own country,
+came back to the U. a today and
+was hustled ashore in a special tug.
+There had been rumors there might
+be a Nazi demonstration against
+him.
+Accompanied by Mrs. Einstein
+and Dr Walther Mayer, of Vienna,
+his assistant, the distinguished
+mathematician arrived on the Red j
+Star liner. Westernland. I
+WAGE CLEAR-UP
+HOPE BLASTED
+Westbrook Claims Situation
+Already Adjusted
+In Valley
+Little hope for a reduction in ilie
+wage scale of 30c an hour being
+paid by Valley County Boards of
+Welfare and Employment was seen
+here today following the receiot of
+an Associated Press dispatch by the
+Brownsville Herald, quoting Law
+rence Westbrook, State Rehabilita
+tion commission chairman.
+In Washington asking for a fed
+eral allotment of $1,500,000 for Tex
+as, Westbrook stated that it was
+unnecessary to discuss with Harry
+L. Hopkins, federal relief director,
+the matter of wages paid In the Rio
+Grande Valley storm area to re
+habilitation workers.
+Valley interests had protested they
+were unable to obtain sufficient
+unskilled labor because the Nation
+al Recovery administration suspend
+ed the minimum wage requirements
+for such workers while the Relief
+administration maintained a min
+mum of 30c an hour.
+“We met that situation by remov
+ing from the relief rolls those who
+declined to work,” Westbrook said.
+Patrol Fires On
+Launch, 4 Killed
+8ANTO TOME, Argentina, Oct.
+17. (AV-Government representatives
+of both Argentina and Brazil today
+were investigating the slaying of
+four Brazilians here.
+Shot when an Argentine border
+patrol fired on a launch crossing
+the Uruguay river from Brazil, the
+dead Include:
+Ari Vargas nephew of Pres. Var
+gas of Brazil: Abdon Motta. cousin
+of Pres. Vargas' wife, and the own
+er of the launch, named Rosen bee*,
+and his pilot
+Wire Flashes
+WASHINGTON, Oct 17. (AP)
+—Organization of the commodity
+credit corporation was completed
+today and announcement made
+by its officers that loans of lb
+cents per pound to cotton produc
+ers on the unsold portion of their
+crop this year will beeama avail
+able this wmk.
+SEED RACKET
+SAID WORKED
+AT EDCOUCH
+Department of Justice
+Requests Complete
+Investigation
+fSpecial to The Herald)
+EDINBURG. Oct. 17.— United
+States Department of Justice of
+ficial* have requested a sweeping
+investigation into the use of reii?f
+funds in Hidalgo county, it was
+learned here early Tuesday, and a
+court of inquiry will be opened in
+Edinburg Wednesday morning by
+Dist. Atty. Sid Hardin.
+To Question Witnesses
+Department of justict agents
+have been engaged in an investiga
+tion of handling of the funds, it
+was learned, and information they
+obtained will be available at the
+court of inquiry. About 50 witnesses
+were being subpoenaed Tuesday
+morning.
+Hardin will call the court of
+inquiry at the specific request of
+the department of justice of vhe
+federal government and the Texas
+Rehabilitation Relief Commis
+j sion. both of whom he will repre
+sent. The hearings will be has
+j before Justice of the Peace J. Loy
+Ramsour of Edinburg and Hardin
+i will question witnesses. Transcrip
+tions of the testimony will then
+be forwarded to officials of tha
+Justice department. The court will
+oe open to the public, ana all testi
+mony will be given under oath.
+Hardin stated he had been in
+formed that some sort of "seed
+racket" was being worked in td
+couch, one of the chief vegetable
+growing and shipping communities
+of the Lower Rio Grande Valley.
+According to information he os
+tamed, farmers apply to the fed
+eral government for assistance
+through the Regional Agricultural
+Credit Corporation. If they are
+unable to provide security lor the
+loans, the application is denied. In
+view of the dflficulty most farm
+ers have had in providing security,
+provision was made whereby fed
+eral and state relief organizations
+gave the farmer necessary seed.
+Promises "Sensation*
+It is alleged. Haru.n stated, that
+large numbers of residents of tha
+east part of the county are being
+denied loans and are then told to
+purchase seed from certain per
+sons in Edcouch. It was reported to
+Hardin that many of those receiv
+ing seed are net farmers and im
+mediately sell the seed to other
+growers or trade seed for groceries,
+clothing or other articles.
+While he was unable tp give all
+details of the alleged "seed racket,”
+Hardin predicted that the inquiry
+would provide a "sensation." ile
+estimated that several days would
+be required to complete the in
+vestigation.
+Appointments To
+Relief Awaited
+AUSTIN, Oct. 17.—(ip)— Creation
+of Texas' new bond relief commis
+sion to direct the expenditure of
+proceeds of a $5 500,000 bond issue,
+to be matched with federal money,
+to indigents today awaited appoint*
+ments by the governor. lieutenant
+governor and speaker of the louaa
+of representatives.
+The bill, creating the new ad
+ministrative agency to replace tha
+existing rehabilitation and relief
+commission, which has functioned
+in distributing federal funds, was
+signed by Governor Miriam A*
+Ferguson on yesterday.
+y w.
+MARKETS
+A T GLANCE
+NEW YORK
+8tccks firm; market rallies with
+grain.
+Bonds firm; U- S. governments
+steady.
+Foreign exchanges strong; dol
+lar reacts.
+Cotton firm; higher sterling ex
+change; firm stock and wheat
+markets.
+Sugar higher; trade buying.
+Coffee higher; comission house
+buying; European covering.
+CHICAGO
+Wheat higher 5 cents; govern
+ment buying.
+Com strong: export possibilities.
+Cattle about steady, slow; sup
+ply excessive.
+Hogs 25-40 lower, slow; top
+$4.0.

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/mora/learn/historyculture/historic-camp-muir-area.htm",
+  "fetch_url": "https://www.nps.gov/mora/learn/historyculture/historic-camp-muir-area.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:39:24Z",
+  "sha256": "80a862fd24a77369ba6aef87fa2212f3b8d98d670c8b18e873935890a107e53c",
+  "bytes": 3698,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/mora/learn/historyculture/historic-camp-muir-area.htm"
+}

@@ -1,0 +1,1042 @@
+_version_: 1837503854252392448
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82015425/1953-04-29/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82015425/1953-04-29/ed-1/
+batch[0]: gu_falkor_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/georgia/
+composite_location[2]: 2/united states/georgia/fulton/
+composite_location[3]: 3/united states/georgia/fulton/atlanta/
+contributor_names[0]: Digital Library of Georgia, a project of GALILEO located at the University of Georgia Libraries
+contributors[0].digital library of georgia, a project of galileo located at the university of georgia libraries: https://www.loc.gov/search/?fa=contributor:digital+library+of+georgia,+a+project+of+galileo+located+at+the+university+of+georgia+libraries&fo=json
+created_published[0]: Atlanta, Georgia, April 29, 1953
+date: 1953-04-29
+date_issued: 1953-04-29
+dates[0].1953-04-29: https://www.loc.gov/search/?dates=1953-04-29/1953-04-29&fo=json
+dates_of_publication: 1932-current
+description[0]: Atlanta, Georgia
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-07-13T03:33:35.749Z
+extract_urls[0]: file:/service/ndnp//gu/batch_gu_falkor_ver01/data/sn82015425/00529040817/1953042901/1953042901_1.xml#ndnp/gu
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+genre[1]: Newspapers--Georgia
+group[0]: ndnp/gu
+group[1]: digital-library-of-georgia-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn82015425/1953-04-29/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_falkor_ver01:data:sn82015425:00529040817:1953042901:0693/full/pct:3.125/0/default.jpg#h=269&w=219
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_falkor_ver01:data:sn82015425:00529040817:1953042901:0693/full/pct:6.25/0/default.jpg#h=538&w=439
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_falkor_ver01:data:sn82015425:00529040817:1953042901:0693/full/pct:12.5/0/default.jpg#h=1076&w=878
+index: 4
+item.batch[0]: gu_falkor_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Digital Library of Georgia, a project of GALILEO located at the University of Georgia Libraries
+item.created_published[0]: Atlanta, Georgia, April 29, 1953
+item.date: 1932
+item.date_issued: 1953-04-29
+item.dates[0]: 1953-04-29
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.genre[1]: Newspapers--Georgia
+item.language[0]: eng
+item.library_of_congress_control_number: sn82015425
+item.location[0]: Georgia--Atlanta
+item.location[1]: Georgia
+item.location[2]: Atlanta (Ga.)
+item.location[3]: Fulton County (Ga.)
+item.location[4]: Georgia--Fulton County
+item.medium: 8 pages
+item.newspaper_title[0]: Atlanta daily world
+item.notes[0]: Weekly, <2013->
+item.notes[1]: Vol. 5, no. 36 [i.e. 37] (Mar. 18, 1932)-
+item.notes[2]: <1932->, some issues include a separately titled section: S.N.S. weekly, a rotogravure which appears also as a section of certain newspapers published in Birmingham and Memphis.
+item.notes[3]: May be some irregularities in enumeration.
+item.notes[4]: Also issued on microfilm from Bell & Howell Information and Learning, and the Library of Congress, Photoduplication Service.
+item.notes[5]: Available on microfilm from ProQuest, <2001->
+item.notes[6]: Some issues bear edition statement: City edition; some issues bear statement: National edition. It is unclear whether National edition is truly a separately published geographic edition, or whether both editions may have been issued as part of the same title, especially since other edition statements such as "Church edition" appear on occasional issues, <1932->, and the issue for July 3, 1932, bears the statement, "2 sections, get both!", which may indicate that the national and city "editions" actually indicate two sections of one issue.
+item.notes[7]: Latest issue consulted: Vol. 85, issue 22 (Jan. 3/9, 2013) (microfilm surrogate).
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//gu/batch_gu_falkor_ver01/data/sn82015425/00529040817/1953042901/1953042901_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82015425/marcxml
+item.other_title[0]: Published occasionally in 1934-1945 as: Atlanta world
+item.place_of_publication: Atlanta, Georgia
+item.raw_lccn: sn 82015425
+item.reel_numbers[0]: 00529040817
+item.source_group: ndnp/gu
+item.subjects[0]: African Americans--Georgia--Atlanta--Newspapers
+item.subjects[1]: African American newspapers--Georgia
+item.subjects[2]: Atlanta (Ga.)--Newspapers
+item.subjects[3]: Fulton County (Ga.)--Newspapers
+item.subjects[4]: African American newspapers
+item.subjects[5]: African Americans
+item.subjects[6]: Georgia
+item.subjects[7]: Georgia--Atlanta
+item.subjects[8]: Georgia--Fulton County
+item.subjects[9]: United States--Georgia--Fulton--Atlanta
+item.title: Atlanta daily world (Atlanta, Georgia), April 29, 1953, (City Edition)
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn82015425
+location[0]: fulton county
+location[1]: fulton
+location[2]: united states
+location[3]: georgia
+location[4]: atlanta
+location_city[0]: atlanta
+location_country[0]: united states
+location_county[0]: fulton
+location_state[0]: georgia
+locations[0].atlanta: https://www.loc.gov/search/?fa=location:atlanta&fo=json
+locations[1].fulton: https://www.loc.gov/search/?fa=location:fulton&fo=json
+locations[2].fulton county: https://www.loc.gov/search/?fa=location:fulton+county&fo=json
+locations[3].georgia: https://www.loc.gov/search/?fa=location:georgia&fo=json
+locations[4].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].atlanta: https://www.loc.gov/search/?fa=location_city:atlanta&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].fulton: https://www.loc.gov/search/?fa=location_county:fulton&fo=json
+locations_state[0].georgia: https://www.loc.gov/search/?fa=location_state:georgia&fo=json
+medium: 8 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Atlanta daily world
+notes[0]: Weekly, <2013->
+notes[1]: Vol. 5, no. 36 [i.e. 37] (Mar. 18, 1932)-
+notes[2]: <1932->, some issues include a separately titled section: S.N.S. weekly, a rotogravure which appears also as a section of certain newspapers published in Birmingham and Memphis.
+notes[3]: May be some irregularities in enumeration.
+notes[4]: Also issued on microfilm from Bell & Howell Information and Learning, and the Library of Congress, Photoduplication Service.
+notes[5]: Available on microfilm from ProQuest, <2001->
+notes[6]: Some issues bear edition statement: City edition; some issues bear statement: National edition. It is unclear whether National edition is truly a separately published geographic edition, or whether both editions may have been issued as part of the same title, especially since other edition statements such as "Church edition" appear on occasional issues, <1932->, and the issue for July 3, 1932, bears the statement, "2 sections, get both!", which may indicate that the national and city "editions" actually indicate two sections of one issue.
+notes[7]: Latest issue consulted: Vol. 85, issue 22 (Jan. 3/9, 2013) (microfilm surrogate).
+number[0]: 1
+number[1]: 00529040817
+number[2]: sn82015425
+number_edition[0]: 1
+number_lccn[0]: sn82015425
+number_reel[0]: 00529040817
+numeric_shelf_id: 195304291
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//gu/batch_gu_falkor_ver01/data/sn82015425/00529040817/1953042901/1953042901_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82015425/marcxml
+other_title[0]: Published occasionally in 1934-1945 as: Atlanta world
+partof[0].count: 10344
+partof[0].title: atlanta daily world (atlanta, georgia) 1932-current
+partof[0].url: https://www.loc.gov/search/?fa=partof:atlanta+daily+world+%28atlanta,+georgia%29+1932-current&fo=json
+partof[1].count: 3212149
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3233655
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: atlanta daily world (atlanta, georgia) 1932-current
+place_of_publication: Atlanta, Georgia
+publication_frequency[0]: weekly
+raw_lccn: sn 82015425
+reel_numbers[0]: 00529040817
+resources[0].files: 8
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_falkor_ver01:data:sn82015425:00529040817:1953042901:0693/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82015425/1953-04-29/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.526622
+shard: 02
+shelf_id: sn82015425, 1953-04-29, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/gu
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: african americans
+subject[1]: fulton county
+subject[2]: newspapers
+subject[3]: fulton
+subject[4]: african american newspapers
+subject[5]: united states
+subject[6]: african american
+subject[7]: fulton county (ga.)
+subject[8]: georgia
+subject[9]: atlanta
+subject[10]: atlanta (ga.)
+subject_ethnicity[0]: african american
+subject_headings[0]: African Americans--Georgia--Atlanta--Newspapers
+subject_headings[1]: African American newspapers--Georgia
+subject_headings[2]: Atlanta (Ga.)--Newspapers
+subject_headings[3]: Fulton County (Ga.)--Newspapers
+subject_headings[4]: African American newspapers
+subject_headings[5]: African Americans
+subject_headings[6]: Georgia
+subject_headings[7]: Georgia--Atlanta
+subject_headings[8]: Georgia--Fulton County
+subject_headings[9]: United States--Georgia--Fulton--Atlanta
+subjects[0].african american: https://www.loc.gov/search/?fa=subject:african+american&fo=json
+subjects[1].african american newspapers: https://www.loc.gov/search/?fa=subject:african+american+newspapers&fo=json
+subjects[2].african americans: https://www.loc.gov/search/?fa=subject:african+americans&fo=json
+subjects[3].atlanta: https://www.loc.gov/search/?fa=subject:atlanta&fo=json
+subjects[4].atlanta (ga.): https://www.loc.gov/search/?fa=subject:atlanta+%28ga.%29&fo=json
+subjects[5].fulton: https://www.loc.gov/search/?fa=subject:fulton&fo=json
+subjects[6].fulton county: https://www.loc.gov/search/?fa=subject:fulton+county&fo=json
+subjects[7].fulton county (ga.): https://www.loc.gov/search/?fa=subject:fulton+county+%28ga.%29&fo=json
+subjects[8].georgia: https://www.loc.gov/search/?fa=subject:georgia&fo=json
+subjects[9].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[10].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects_ethnicity[0].african american: https://www.loc.gov/search/?fa=subject_ethnicity:african+american&fo=json
+timestamp: 2025-07-13T04:17:03.227Z
+title: Atlanta daily world (Atlanta, Georgia), April 29, 1953, (City Edition)
+type[0]: issue
+url: https://www.loc.gov/item/sn82015425/1953-04-29/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_falkor_ver01/data/sn82015425/00529040817/1953042901/0696.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82015425/1953-04-29/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_falkor_ver01:data:sn82015425:00529040817:1953042901:0693/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/gu/batch_gu_falkor_ver01/data/sn82015425/00529040817/1953042901/0696.pdf
+resources[0].segment_count: 8
+resources[0].url: https://www.loc.gov/resource/sn82015425/1953-04-29/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1953, April 29) Atlanta Daily World. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82015425/1953-04-29/ed-1/.
+cite_this.chicago: Atlanta Daily World. (Atlanta, GA), Apr. 29 1953. https://www.loc.gov/item/sn82015425/1953-04-29/ed-1/.
+cite_this.mla: Atlanta Daily World. (Atlanta, GA) 29 Apr. 1953, p. 4. Retrieved from the Library of Congress, www.loc.gov/item/sn82015425/1953-04-29/ed-1/.
+
+segment_id: /service/ndnp/gu/batch_gu_falkor_ver01/data/sn82015425/00529040817/1953042901/0696.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_falkor_ver01/data/sn82015425/00529040817/1953042901/0696.xml&format=alto_xml&full_text=1
+full_text:
+4
+r A<ANTA DAILY WORLD Wedn&day, April 29, 1953
+Atlanta.Wli^World
+r^Wl^ w^ Mornfaf Except Monday, at 219 Auburn Avena*, N. E.
+Fwmded August 5, 1928; Became Daily March 13. 1932
+W^A. BCOTT n. Founder-Publisher, Aug. 5, 1928 to Feb. 7, IBM
+™Wbon*: WAmat mm WAinut 1486.
+Office at Atlanta (8), Georgia, a* second elaa* bboD
+■Mor the Act *f Cengre**, March 13, 1879. _
+BOOTT Editor and General Manager
+DAILY BUBBCBIPTION RATER BY CARBH®?
+WEEKLY Jie MONTHLY ILM
+___ _ SUBSCRIPTION RATES BY MAU:
+D .ULL®" W® 4 “o«*‘h» I7M; 3 month* 83J9
+SATURDAY ONLY: 1 Year M. 12; 8 month* 83.24
+2®* ATLANTA DAILY WORLD 1* an Independent newspaper nonaec
+nonpartisan, Fating new* absolutely unblasedly and rapport*
+thorn thing* it believe* to be to the Interest of It* reader* and
+OppeMf thoee thing* again* the interest of it* readers.
+THB WORLD erpreaalj repudiate- respunslbfitty for return of unsolicited
+J^ nu>crt >Se» etc„ unle»- tamps are sent. Address All COM*
+■UNICATIONS to and make CLICKS payable to ATLANTA DAILY
+WORLD, rather than to individual*.
+There Will Be Suspicion
+The City Executive Committee has voted unanimously to sub
+mit its membership to the electorate on May 13. Its previous de
+cision to maintain itself in office cs a defdeto bddy was ill-advised,
+undemocratic and not in line wi h the election processes.
+Although the Executive Coin.nitlee will use the new rather
+than present boundaries it is doubtful that citizens will quibble.
+More important was the issue that each four years city office
+holders make themselves available o nthe printed ballot for ap
+proval or rejection. It took a bit of prodding from the courts to
+make the present Executive Committee do this.
+There will be suspicion that an election using the new ward
+boundaries is illegal. Certainly the Legislature has not seen fit to
+change the present method of electing executive committee mem
+bers.
+The main thing is that court action to compel an election has
+been halted. We're glad the choice of on open election was made.
+Compulsion never is agreeable.
+It would have been a dangerous precedent for the election
+not to have been held. There are forces all over the world that
+want to do away with elections. Where they have succeeded the
+people have been shackled and the menacing spectre of bondage
+has hovered like an evil and fearful thing. Let this never happen
+in Atlanta.
+The odious device of the hand ballot may boomerang. This
+is a caprice of fate which apparently the City Executive Committee
+chose to ignore.
+By stalling tactics, the Committee made this move necessary.
+Whether regular voters will go for the hand ballot is not known
+at this time but a spirited campaign to educate our voters never
+theless will be undertaken.
+All parties should regret that this type of sordid subterfuge
+had to happen because it is an obvious blight on our goal for a
+free and unfettered ballot
+What Does "Liberalism" Mean?
+"Liberalism implies freedom and individualism," writes Bob
+Munger in the American Student, official publication of Students
+for America. true liberalism stresses the dignity of the
+individual rather than the onmipotence of the slate."
+Keep that in mind next time you hear the term "liberalism"
+applied, as it usually is, to seme plan for giving government
+more and more power over the individual citizen, at the expense
+of our rights, responsibilities, and freedoms.
+No word has been more misused in recent years none
+has been more distorted. The true liberal philosophy holds that
+government is the servant of the people, not the master.
+D. C. Businessmen
+(Continued from Page One)
+local level.
+The real issue before the court,
+the Board adds, is whether the
+"dead hand of long ago is now,
+more than seventy-five vears later,
+to be revitalized and laid upon an
+economy of a modern metropolitan
+community of international propor
+tions and importance.”
+Reimposition of the requirement
+of non-discrimination in licensed
+public places by judicial fist, the
+Board of Trade asserts, would con
+stitute “an unwarranted blow to the
+business conununity of the Nation’s
+Capital.”
+The brief was signed oy Edward
+F. Colladay, general counsel of the
+Board of Trade and a former Re
+publican National ^Committeeman
+for the District of Columbia.
+NAACP Attoney
+(Continued Prom Page One)
+rector of the Georgia branch NAA
+CP was also present.
+It was the second case of a city
+prisoner receiving a fractured skull
+while in police custody in the past
+two weeks. James Fisher, 45, died
+recently at Grady hospital of a
+DAILY CROSSWORD
+DOWN
+1. Handle
+of a
+dagger
+2. Strange
+3. Earth as
+a goddess
+4. Adolescent
+years
+5. Projecting
+end of
+a church
+6. Perish
+7. Job
+8. Expected
+10. Small
+stream
+11. Condition
+ACROSS
+1. Swine
+4. Little boy
+7. Find fault
+ft. Heroic
+poems
+12. Contain
+13. Abandon
+14. Make a
+choice
+15. Part of
+skeleton
+16. Water god
+(Babyl.)
+17. Music note
+18. Electrified
+partFcles
+19. Encountered
+20. Esculent
+22. Manufac
+ture
+23. Free
+24. Common leve
+25. Cries,
+as a cow
+27. Of the
+public
+treasury
+30. Beard
+of rye
+31. Paroxysms
+32. Greek
+letter
+33. At home
+34. Lave
+35. Entire
+amount
+36. Peak
+38. Worry
+39. Appearing
+as if eaten
+<O. Iron
+11. Marry
+42. Title added
+to names of
+certain
+Brainnanz
+skull fracture. Police unveiled evi
+dence that he sustained the oiuw
+when he was ejected from a track
+less trolley A coroner’s jury ruled
+the death accidental and exone
+rated the driver.
+JURY INSTRUCTIONS
+The jury hearing evidence in the
+Thomas case, w.as instructed to con
+sider if?
+1 There was evidence of violence.
+2 Jf if was from an act of the
+dece6*4d or another person.
+3 If there was evidence to sup
+reported
+seeia^TbflßJaAW^ Miss Geor
+gjaShe Hfwnmond. of 262 Decatur
+St. ^Mho ^Mld Thomas get
+off tfe i pflson truck at Decatur and
+Delhww truck was
+waitW W a Signal fight to change.
+Miss Hammond declared “This
+mai| fell off the truck.” She added
+“He up -W. said he didn’t
+appeal’ to v have bseh hurt by the
+fall.
+But C W Hut3pn. white driver
+of the prison truck, said he saw
+Thomas climbing out of the rear of
+truck and wen^ back to stop him
+“He wag on h|s feet when I open
+ed the door:" Hutson said. Asked
+if he heard ‘him fall, the driver de
+clared, “I never heard no commo-
+13. Ready
+to eat w
+15. Courageous
+18; Wading bird
+19. Refuse
+of grapes
+21. Metal
+22. Pile
+24. Essence
+25. Corn
+26. Proprietor
+27. An aquatic
+vertebrate
+28. Shafts 5
+for wheels
+29. SififcS '0
+lightly
+31. Doomed
+wi‘ i’ (twi
+7 8 9 IO 11
+14 1
+17 “2^
+25 I<o 2~f 28 29
+57
+
+'je
+i lEIEHQtW
+IA IS Is I |JSiT^HAiuIaH_
+5c It Ai
+35. Scope
+37; At the f
+present time
+38. Young fish
+40. Father
+Cinderella
+^JENNIFER AMES F
+_Z_ l ——————J—-
+Cl tAPTER .st V E.NTEEN
+NOW as sne closed nor eyes and
+relaxed us the nuge plane sped
+along sw.tilv smoothly. Carol won
+dered oy nerseft It nad become
+rairi\ obvious tn the past tew days
+that D alma intended (o marry
+Derek Bui as Belly Ann had said
+sne didn 1 need ms n;Ouey Wnat
+was the- ^mheanee of those eun
+ous cal tus flowers and that cryp
+tic warning from some man named
+Maxie, the meaning ot net tear
+whicn lason sensed and which she
+Anew or Don Haskin 1 V/hat was
+the real reason Jas -n nad followed
+her out nere
+Jason Always unpredictable.
+That night, believe :t oi not, ne
+had turned up immaculate in tails.
+The oniv man there in tails, and
+he nad caused somewhat ot a sen
+sation. With his tall, lean body,
+his English accent, ms slow,
+amused grin, he’d had the women
+flocking about him.
+Betty Ann had complained petu
+lantly, “He was my find, and now
+1 can’t gel him to myself for a
+few minutes. He looks swell,
+doesn’t he Is he in love with you,
+Carol Derek said he was. Was
+that why he came to the States?”
+Carol bad evadea a direct an
+swer. Later she’d found herself
+alone with Jason. “How goes
+everything?” he’d asked.
+“Fine.” And she’d told him some
+thing of her experiences that day
+at Appleton’s. He’d been eager to
+hear details, as eager as he’d been
+to hear their many problems when
+he’d been genera) manager of Fel
+ton's. It was grand to talk to him
+in this way, as friends, without
+any emotional nonsense. Not, she
+thought wryly and a little bitterly,
+that he had ever felt emotional
+towards her.
+She’d asked him how he was go
+ing down to Florida.
+“By Greyhound bus. That, like
+the YMCA, is cheap. Julie, bless
+her heart, offered to buy me a
+plane ticket, but I don’t want to
+put her to any additional expense.”
+She didn’t like that “bless her
+heart.” She liked even less the fact
+that he was going down to be
+Julie’s chauffeur.
+The remaining days in New
+York had passed in breathless
+speed, mostly at Appleton’s, talk
+ing with the buyers, watching the
+salesgirls, making notes and com
+parisons. Rita had taken her to
+several dress shows for the trade
+in that section of New York on
+Broadway between the thirties and
+forties where the wholesale gar
+ment business has its offices and
+showrooms. The models’ slight
+bodies were perfect for showing
+the abbreviated light-colored play
+and beach suits. Carol would have
+liked to spend a month in New
+tion
+Smith, the foreman, told the
+jury that Thomas apparently got
+drunk during a lunch period at Lo
+cust St and College Ave. He said
+after Thomas was sent backk to jail
+he discovered three other prisoners
+were intoxicated and found two
+I Alfred Wyms
+4.... 1 itf® Efl
+k "i
+I jf j w..
+-jSW 'IHk
+Ba BMBi I e#.Edwards L
+mm mm jK, a fi'
+^4o^ A 4
+HBh Mi
+L.E'
+SH mPM
+MBH BPjb Wt
+Kb,
+THEY'RE WORKING FOR 5,000 YMCA MEMBERS Pictures a bole
+show some of Atlanta's public-spirited citizens who are volunteer
+workers in the current campaign to enroll 5,000 members and
+raise $30,000 so rthe Butler Street YMCA before May 6. In upper
+left, W. H. "Chief" Aiken, general chairman of the campaign, ex
+horts his fellow workers to strive harder this week to reach the
+goal. Seated at the chairman's table are Atty. E. S. D'Antignac,
+Atty. A. T. Walden, Warran H. Cochrane, YMCA executive secre
+tary, Mendlik Jackson, and J. L. Wheeler, all top notch workers
+for the "Y".
+At top right, M. L. Brittain and Alfred Wyms smile over the
+praise given them after their team turned in over $2OO Monday
+night. Middle pltoto at left shows ReV J. E. Garnett, a high report
+worker turning alter the trophy to L. E. Turner, whose team made
+the highest repork for the Monday meeting. Turner's team has
+York, but the Florida season was
+beginning.
+Shed seen Derek only oncel—
+a party ot them went to the
+Copacabana the gayest, most
+amusing, most sophisticated night
+club -n Mew York. The party njid
+tncinded P.ielma, Betsy Ann. and
+two mends from Yale umversirv.
+Carol nad danced .vith Derek. He
+naa saia. with an apparent real
+sense of regret, “I’m sorry 1
+haven’t oeen more tree to take you
+ab ul, Carol, out Thelma is rather
+on her own. She doesn t know
+many people here. It will be differ
+ent in Palm Beach
+1 wonder, Carol thought wryly,
+relaxing in the plane. Would
+Thelrnp come down despite that
+warning from a man named
+Maxie She might, it it were trpe
+w'hat Betty Ann insisted, that she
+was determined to marry Derek.
+Betty Ann nad seen ner off on
+the plane. Once again she nad
+been wearing jeans and a lumber
+jack’s shirt, looking very much the
+little girl. She’d said, clinging in a
+friendly way to Carol’s arm, “If
+that Felton woman goes down with
+Derek to Palm Beach, you’ll see
+she doesn’t get him, won’t you?
+Gosh, if 1 thought she would, rd
+come down myself.” She’d addifed
+slowly, grinning a little. “That
+might not be the only reason.
+like that long, thin Jason Felton,
+who is supposed to be m love with
+you. But you’re not engaged to
+him, are you Carol?”
+“No. I’m not,” Carol said de
+cisively.
+The flash was up. “Please adjust
+your life belts.” The stewardess
+came to the side ot Carol’s seat.
+“We re circling Palm Beach now.
+Miss Marston. We’ll be coming
+down to land in a tew minutes."
+Carol looked down and saw the
+blue foaming sea, the wide ex
+panse ot yellow beaches. Lake
+Worth, cutting the town of Palm
+Beach from West Palm B^Ach, the
+tropica) foliage. A tew hours' fly
+ing and here she was out ot the
+sparkling cold of New York into
+brilliant afternoon sunshine. The
+moment the plane slid along the
+runway you could feel the change,
+the heat. Winter was behind.
+Summer was typified m the
+clothes ot the people waiting tpr
+the plane to land. The girls wore
+slacks and short-sleeved pull-overs,
+linen suits or flowering cotton
+dresses; the men, too, wore linen
+slacks and sport shirts, gayer-pat
+terned than the dresses of the girls.
+Lovely, lively, she thought ex
+citedly.
+Directly she was out if the plane
+a man and a woman came forward
+and introduced themselves—Peter
+Quinell, the manager ot the Palm
+Beach store; Helen Winston, nis
+assistant. Thev were as friendly as
+cans of Solax paint remover in
+nearby bushes. Thomas was slap
+ped when he was found on Decat ui
+St a few hours later, he said
+Smith asserted that a parked ve
+hicle possibly blocked the slapping
+from the other prisoners’ view.
+The dead man’s father, Hutch
+sne nad tuund everyone at Apple
+ton's in New York. Soon they were
+all calling one another by their
+first names and they were telling
+her the arrangements they had
+made tor her accommodation. “But
+first we’ll drive you about and let
+you nave a look at the town,"
+they said.
+They drove through West Palm
+Beach, a thriving commercial town,
+then across the South Bridge to
+Palm Beach, the most fashionable
+resort town in Florida. They drove
+her down Worth Avenue, famous
+the world over for its exclusive
+shops and its attractive Spanish
+architecture designed by Addison
+Mizner. They showed her the pas
+sages which lead to the inside pa
+tios. the delightful flat-stoned gar
+dens full of flowering poinsettias
+and bougainvilleas and hibiscus.
+Proudly thev pointed out Apple
+ton’s sportswear shop where she
+would work; a cream stucco build
+ing also of Spanish design, attrac
+tive, spacious, inviting.
+“We open up the beginning of
+the week,” Peter told her. “That’s
+when the season officially begins,
+but most ot the rich New York
+ers don’t come down until the end
+of the month. We’ll drive you along
+Ocean Boulevard so that you can
+have a look at the ritzy houses.
+They’re something. How anyone,
+even a millionaire, can keep them
+up these days defeats me.”.'
+Curving drives wound through
+spacious lawns with palms and
+tropical shrubs: some had gate
+houses and on the other side of
+the road most ot them had their
+own elaborate bathing pavilions
+with gaily striped awnings and
+beach furniture. Peter and Helen
+showed her the Everglades Golf
+Club, the Lido Pools, then back to
+the Breakeis Hotel, where Peter
+told her, laughing, “People change
+their clothes four or five times a
+day and you have to be vouched
+for by the elite of the land to be
+able to put your nose through I lie
+portals.”
+"There must be an awful lot of
+elite," Carol returned laughing.
+“They have cocktail dances
+every day —we ll take you," Peter
+promised her. He was tall, young,
+and good-looking in a rather ob
+vious way. Carol judged he would
+dance well. “And, of course, that
+is where you swim. The Breakers
+has its own Lido Club. Most ot
+the residents have cahanas on the
+beach.”
+ft was dark by the time they
+drove her up het ore an attractive
+apartment building at the corner
+of Sea View Avenue. “We’ve got
+you a small apartment here,”
+Helen told ner. “They give you
+a continental breakfast: otherwise,
+you cook tor yourself or eat out.”
+flo He Continued/
+Thomas, of 32 New St., Buford, Ga
+was present at the hearing and .said
+he had not seen his son in five
+years A son-in-law Elijah Moore
+<>r 166 Jackson Way, Decatur, was
+I present.
+I ^The jury ruled that “from the
+M/idenct submitted the jury is un
+already reported more than $7OO during the drive. Team workers
+with him are Grady Nurses, Misses Ruth James, Omelia Cotton,
+Sara McCleod, and Lettie Marcus.
+Middle right photo shows another high team that has re
+ported over $7OO during the drive. E. M. Edwards, captain, his
+wife Mrs. Cassie Edwards and co-captain Miss Ella Mae Tate,
+head a team of YMCA boys. Youngster seated directly behind boy
+with white coat is "Ricky" Lovelace, who has brought in $75.
+Other boys are Marshall Slack, Augustus Cook, Harold Johnson.,
+and Ogden Dumas.
+Lower left shows J. L. Wolfe and Atty. D'Antignac, managers
+of the National division during a tense moment of the Monday
+report meeting, while lower right shows Dr. R. O. Johnson and
+R. O. Sutton, managers of the American division computing their
+1 side's score for the night. (Lowe Photos)
+classier
+WANT AD INFORMATION
+CALL WAlnut 1459
+D«adlin« For Classified Advortismont Is 6 P. M& Daily
+Estimating Space for Classified Ad, Count Five Words for M»
+MINIMUM: TWO LINES (10 WORDS)
+Aik for Classified Ad Department.
+ClßMffled Ad rates apply to all ad
+fertlsinf originating in Georgia, end
+are the same for Daily and Sunday
+Insertion*:
+WANTED TO BUY
+Highest Cash Prices Paid For Used
+Furniture and Stoves. For Quick
+Service. Call Mr. Dill WA. 6604
+WE BUY USED FURNITURE 8
+and M. FURNITURE CO. Be
+there in 30 minutes with the cash
+EM. 5454.
+WANTED Used furniture for new
+furniture stpre. We pay highest cash
+prices. Cagle Brothers, 184 Decatur
+Street, CY. 3230.
+WILL PAY
+CASH for bed room, dining room
+and kitchen furniture. FA. 1356 or
+CA. 4514 any time.
+BUSINESS SERVICE
+FIRST SECOND MORTGAGES
+24 HOUR SERVICE
+C. J. CAMP
+608 Peters Building WA. 2214
+INDIVIDUAL BUYERS AND
+SELLERS SERVICE INC.
+“We Make It Convenient For Buy
+ers and Sellers to Find Each Other.”
+When you buy household furniture
+and miscellaneous items from fami
+lies you save money and get good
+quality. Use our free service. We
+tell you who’s got it and the prices.
+EV. 8533, nisrhts CR. 3860.
+HOME IMPROVEMENT, repair*,
+rooms added, roofing, siding, under
+pinning, concrete work, painting,
+papering, floor sanding. Small
+monthly payments. Gullatt Con
+tracting Co., RA 0489 or AM. 6278.
+HAULING? All type*. Day or Night
+anywhere. Call RA 1795 Now!
+If you do not want people In your
+neighborhood to know you drink
+beer, be smart, drink it here.
+THE L. L. GRILL
+222 HARRIS STREET
+(Corner Butler)
+aniinous in their opinion that said
+injury was caused by the deceased
+having accidentally fallen from a
+City of Atlanta dump truck while
+it was standing at traffic light stop
+at Decatur and Bell st and the
+deceased was in a highly intoxi
+cated condition.”
+ROBIN TIES SELF UP
+Niagara Falls, Ont A robii} in
+the midst of home building, be
+-1 came helplessly entangled in
+strings while buildfng his nest on a
+I tree limb 60 feet above the ground
+1 Insertion Me per Hn.
+J Insertions 15c per Um
+8 Insertion* lie per lint
+19 Insertion* lie per lim
+Reader Publicity 14c per Un
+NO DOWN PAYMENT
+1 TO 10 YEARS TO PAY
+Rooms built, Porches Enclosed. New
+Porches, Old Ones Rebuilt, Roofing
+Siding, Concrete Work, Underpin
+ning. Call Mr. Bennett, RA 9978
+Nights and Sundays RA. 6553.
+HOME REPAIRS. WE HAVE THE
+KNOW-HOW. No job too large or
+too small. Roof to basement. Terms.
+HENDERSON. AL. 0896.
+GROWTH OF HAIR GUARAN
+TEED. CY. 9517.
+ACE
+CAN SAVE YOU FROM 10 TO
+20 PERCENT ON YOUR HOME
+REPAIRS and REMODELING!!
+MAKE US PROVE IT!!
+Call Us For A Free Estimate!!
+You may be thinking of making re
+pairs and remodeling your home,
+but are afraid to do so because you
+have heard that prices are so high,
+well you needn’t be, if you call us.
+for Guaranteed, Good Low-priced
+job CALL
+ACE
+No Down Payment
+First Payment In June
+1 to 10 Vears To Pay
+Roofing Decorating
+Porches Floors
+Remodeling Repairs
+Basements Apartments
+Underpinning Carpentry
+Electric Work Dens
+Porches Enclosed Driveway'
+Siding
+MAIN 7101
+ACE HOME
+IMPROVEMENT CO.
+471 N. HIGHLAND, N. E.
+24 Hour Service
+HOME REPAIRS. WE HAVE THE
+KNOW-HOW. N job too large or
+too small. Roof to basement. Terms.
+HENDERSON. AL. 0896.
+BURSON RADIO TV SERVICE,
+free pickup and delivery. 90 day
+guarantee, 108 Howell St., N, E.
+CY. 9786.
+CLEANING wall paper, $4.00 room;
+papering, $B.OO room. Martin Bros.
+WA 2685.
+TAXI
+SUPER CAB SERVICE. 24 Hour
+service. 813 Hunter Street. CY. 3229.
+HUNTER ST. CAB 24 hrs. ser
+vice. CY. 6101. 817 Hunter St., N. W.
+HEDY BECOMES CITIZEN
+LOS ANGELES, CAL. Hedwig
+Eva Maria Kiesler, better known as
+Hedy Lamarr, received her United
+States citizenship recently in this
+city!. The 38 year old actress came
+to this country in 1937 from Vien
+na.
+RECORD TRAFFIC FINE
+NEW YORK, N. Y. Mrs. Lee
+Maggio was assessed the largest
+fine ever imposed on an individ
+ual traffic violator in New York
+City $2 950 or if she chooses, 118
+days in jail. She had ignored 59
+traffic tickets, some of them three
+years old.
+IN MEMORIAM
+■I I
+MISS LOUISE LATIMORE
+In loving memory of our dear
+daughter and grand daughter Miss
+Louise Latimore, who departed this
+life 2 years ago, April 28, 1951.
+•Gone But Not Forgotten.’
+Sadly missed by:
+Mrs. Mary Robinson, Mother
+Mr. Fred Latimpre, Father
+Mrs. Ruby Maddox, Grand
+mother.
+WISHING WELL
+Registered U. S. Patent Office.
+u 4 a 2537645263
+MTBSYPS R W O <J
+1255548 2 1 3 6 4 5
+OPUREHG E E 9 H I K
+65 6? 5 3 ci k
+TERT A R H S C N D O B
+3 -4~^5 2~ 6 8 3 J 5 J
+TFIHPTP E A O E A R
+‘2 Z 3 —"6 8 2 6 S 3 f 6
+E' T R E R N L A T M O A L
+V—3 6 s s Z—7 J f 7
+MJUEIL I I E G O R
+'5136§2 5 V 3 J
+VSCNHTE Y T T S SH
+HERE is a pleasant little game that will give you a message e ver y
+day. It is a numerical puzzle designed to spell out your fortune.
+Count the letters in your first name. If the number ot l«^ ters 1S
+more subtract 4. If the number is less than 6, add X The result is
+your key number. Start at the upper left-hand corner of the rec
+tangle and check every one of your key numbers, left to right. Then
+gead the message the letters under the checked figures give you.
+FOR SALE
+DREAM BOOKS, LUCKY INCENSE
+Candles, Perfumes, Books, Curios,
+Tell your problems to AMBRO
+136 Decatur Street WA. 4379.
+FOR SALE Jackson Street Bar-
+B-Que, 194 Jackson Street, N. E.
+Reason for selling, owner have other
+business. Call LA. 9503.
+S-H-O (HEALING OIL)
+(BEWARE OP SUBSTITUTE)
+Quick relief, arthritis and mus»
+cular pains. Good for tired aching
+feet. RA. 9029, 8:00 A. M. to 9:30 A.
+M.; 8:30 P. M. to 10:00 P.. M.— M.
+A. SMITH, Sales Agency, 299 Ashby
+Street, N. W., Terrace Apt.
+Poultry Fish and Grocery Store.
+Good location. AL. 9679, LA 9159.
+6 CHAIR Barber Shop with shoe
+shine stand. CY. 9563. 192 Auburn
+Avenue.
+FOR RENI
+2 rooms for rent, kitchen and bed
+room, couple only. WA. 5883, Rich
+mond, S. E. between Martin and
+Connally.
+Furnished room for one single gen
+tieman. No drunkard. WA. 0675.
+2 NICE unfurnished basement
+rooms; no children; no drunks. RA.
+4291.
+FOR RENT Furnished room; Mc-
+Daniel Street. AL. 3920 after 3:00
+P. M. a
+One furnished room for settled man
+no drunks. AL. 2384.
+FOR RENT 1 and 2 rooms units
+private entrance; married working
+couples only; gas heat, lights, hot
+and cold water furnished; kitchen
+privileges. WA. 5585.
+FURNISHED room in nice home.
+MA. 0153 after 6:00 P. M.
+3 UNFURNISHED ROOMS. Down
+stairs. No children. AM. 7652.
+UNFURNISHED ROOM for rent.
+ALpine 9576.
+FOR RENT Furnished room with
+use of kil<ihen, $lO. AL. 2345.
+Nice front bed room with twin bed*
+to share with nice quiet man. Pri
+vate entrance. RA. 2935.
+FOR RENT Furnished rooms.
+Call LA. 5058 or MA. 3212.
+FURNISHED room for men. West
+side (Warm and clean). AM. 0934,
+Nice unfurnished private rooms for
+working men only. Heat, lights, hot
+and cold water, close in, on trolley
+line. AL. 0469.
+One unfurnished room for rent to
+working girl or couple, use of kit
+chen. LA. 4467.
+3 unfurnished rooms^coupl^^nTy,
+refrigerator and stove furnished.
+$40.50 month. LA. 3563.
+SMALL furnished room for respeci
+able person; no cooking. LA. 8341.
+FOR RENT Furnished rooms';
+kitchen apartments. Office, 218
+Boulevard.
+3 BARBER CHAIRS; 2 booths. CY.
+9563. 192 Auburn Avenue.
+HELP WANTED
+WANTED Expert Day Cleaning
+Spotter, capable of learning to op
+erate Synthetic Dry Cleaning Unit.
+Female preferred. Salary $40.00 per
+week. Only best need apply. 1402
+Medlock Road. EV. 4131; after 6:30
+P. M. EV. 6273.
+Shirt operator (female) must be
+experienced, 5 day week, top pay.
+Apply immediately. Sun Ray Laun
+dry, 1591 Lakewood Ave. CY. 7619.
+Men, not over 40, for receiving dept.
+Apply 219 Pryor St., S. W.
+Experienced custodian (male), full
+time job. East Point Christian
+Church, CA. 5329 after 8:00 P. M.
+HELP WANTED (Female) com
+bination silk finisher and spotter.
+AT. 7075.
+LOST
+LOST Monday morning. Yellow
+Gold Hamilton round shape Wrist
+Watch with broken band. RE
+WARD. MA. 4512. Mr. Jack.
+REAL ESTATE
+B. F. HURT REALTY CO.
+347 ANGIER AVENUE, N. E.
+PHONE: AT. 1997
+“IF YOU HAVE THE MONEY
+WE HAVE THE HOME”

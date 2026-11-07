@@ -1,0 +1,190 @@
+_version_: 1803833398084501504
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2019635543/
+aka[1]: http://www.loc.gov/item/2019635543/
+aka[2]: http://www.loc.gov/pictures/item/2019635543/
+aka[3]: https://www.loc.gov/pictures/collection/stereo/item/2019635543/
+aka[4]: http://www.loc.gov/pictures/collection/stereo/item/2019635543/
+aka[5]: https://hdl.loc.gov/loc.pnp/stereo.1s20487
+aka[6]: https://hdl.loc.gov/loc.pnp/stereo.1s20487
+aka[7]: http://www.loc.gov/resource/stereo.1s20487/
+aka[8]: http://lccn.loc.gov/2019635543
+call_number: STEREO FOREIGN GEOG FILE - Czechoslovakia [item] [P&P]
+created: 2024-07-02T05:45:27Z
+created_published[0]: c1928.
+created_published_date: c1928.
+date: 1928
+dates[0].1928: https://www.loc.gov/search/?dates=1928/1928&fo=json
+description[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+digital_id[0]: stereo 1s20487 https://hdl.loc.gov/loc.pnp/stereo.1s20487
+digitized: true
+display_offsite: true
+extract_timestamp: 2024-07-06T12:38:59.891Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/stereo/item/2019635543/#stereo
+extract_urls[1]: http://lccn.loc.gov/2019635543#catalog-split-06
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Photographic prints--1920-1930.
+format_headings[1]: Stereographs--1920-1930.
+genre[0]: Stereographs--1920-1930
+genre[1]: Photographic prints--1920-1930
+group[0]: stereo
+group[1]: catalog-split-06
+group[2]: catalog
+group[3]: stereograph-cards
+group[4]: main-catalog-split-06
+hassegments: false
+id: http://www.loc.gov/item/2019635543/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487_150px.jpg#h=77&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487r.jpg#h=330&w=640
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487v.jpg#h=528&w=1024
+index: 1
+item.call_number: STEREO FOREIGN GEOG FILE - Czechoslovakia [item] [P&P]
+item.control_number: 2019635543
+item.created: 2024-07-02T05:45:27Z
+item.created_published: c1928.
+item.created_published_date: c1928.
+item.date: c1928.
+item.digital_id[0]: stereo 1s20487 https://hdl.loc.gov/loc.pnp/stereo.1s20487
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1920-1930.&co=stereo
+item.formats[0].title: Photographic prints--1920-1930.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Stereographs--1920-1930.&co=stereo
+item.formats[1].title: Stereographs--1920-1930.
+item.genre[0]: Stereographs--1920-1930
+item.genre[1]: Photographic prints--1920-1930
+item.id: 2019635543
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2019635543/
+item.marc: https://www.loc.gov/pictures/item/2019635543/marc/
+item.medium[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+item.medium_brief: 1 photograph :
+item.mediums[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+item.modified: 2024-07-02T05:45:28Z
+item.notes[0]: J300351 U.S. Copyright Office.
+item.notes[1]: Title from item.
+item.notes[2]: Photograph may have been taken between 1910 and 1919.
+item.notes[3]: No. 24707; No. 36.
+item.other_control_numbers[0]: 20982885
+item.raw_collections[0]: diof
+item.raw_collections[1]: pp
+item.raw_collections[2]: stereo
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-stereo-1s20487 (digital file from original)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/stereo.1s20487
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487r.jpg
+item.sort_date: 1928
+item.source_created: 2019-05-22T00:00:00Z
+item.source_modified: 2024-06-25T11:05:03Z
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487_150px.jpg
+item.title: Old town square and Teyn Church, Prague, Czechoslovakia
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2019635543
+link: https://www.loc.gov/pictures/item/2019635543/
+marc: https://www.loc.gov/pictures/item/2019635543/marc/
+medium[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+medium_brief: 1 photograph :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2024-07-02T05:45:28Z
+notes[0]: J300351 U.S. Copyright Office.
+notes[1]: Title from item.
+notes[2]: Photograph may have been taken between 1910 and 1919.
+notes[3]: No. 24707; No. 36.
+number[0]: http://www.loc.gov/item/20982885
+number[1]: 2019635543
+number[2]: sheet
+number[3]: 2024-06-25t11:05:03
+number_carrier_type[0]: sheet
+number_former_id[0]: http://www.loc.gov/item/20982885
+number_lccn[0]: 2019635543
+number_source_modified[0]: 2024-06-25t11:05:03
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 20982885
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2019635543/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2019635543/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2019635543/dc
+partof[0].count: 55799
+partof[0].title: stereograph cards
+partof[0].url: https://www.loc.gov/collections/stereograph-cards/?fo=json
+partof[1].count: 1162489
+partof[1].title: prints and photographs division
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[2].count: 1910629
+partof[2].title: catalog
+partof[2].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+raw_collections[0]: diof
+raw_collections[1]: pp
+raw_collections[2]: stereo
+related.neighbors: https://www.loc.gov/pictures/related/?&co=stereo&pk=2019635543&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-stereo-1s20487 (digital file from original)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/stereo.1s20487
+resources[0].caption: digital file from original
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487_150px.jpg
+resources[0].url: https://www.loc.gov/resource/stereo.1s20487/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Stereographs - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 18.876366
+shard: 00
+shelf_id: STEREO FOREIGN GEOG FILE - Czechoslovakia [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1928
+source_created: 2019-05-22T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: stereographs
+subject[1]: photographic prints
+subjects[0].photographic prints: https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json
+subjects[1].stereographs: https://www.loc.gov/search/?fa=subject:stereographs&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487_150px.jpg
+timestamp: 2024-07-06T12:39:42.819Z
+title: Old town square and Teyn Church, Prague, Czechoslovakia
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/2019635543/
+resources[0].caption: digital file from original
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 52255453
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/stereo/1s20000/1s20000/1s20400/1s20487u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 77
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 77412
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 330
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].size: 112914
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487r.jpg
+resources[0].files[0][2].width: 640
+resources[0].files[0][3].height: 528
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 321496
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487v.jpg
+resources[0].files[0][3].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/stereo/1s20000/1s20000/1s20400/1s20487_150px.jpg
+resources[0].url: https://www.loc.gov/resource/stereo.1s20487/
+cite_this.apa: (ca. 1928) Old town square and Teyn Church, Prague, Czechoslovakia. , ca. 1928. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2019635543/.
+cite_this.chicago: Old town square and Teyn Church, Prague, Czechoslovakia. , ca. 1928. Photograph. https://www.loc.gov/item/2019635543/.
+cite_this.mla: Old town square and Teyn Church, Prague, Czechoslovakia. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2019635543/>.

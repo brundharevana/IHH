@@ -1,0 +1,20 @@
+{
+  "$comment": "Named nodes in naismith-mcgill-old-hall.glb / naismith-mcgill-old-hall-mobile.glb (glTF Y-up, metres). hotspot_* are standing viewpoints at eye height 1.6 m whose local -Z axis faces the view direction (camera convention); artifact_* are framable objects; label_recreation carries the recreation label in extras.text. Walkable bounds: bounds.json.",
+  "hotspots": [
+    "hotspot_1",
+    "hotspot_2",
+    "hotspot_3",
+    "hotspot_4"
+  ],
+  "artifacts": [
+    "artifact_avenue_tree",
+    "artifact_boardwalk",
+    "artifact_cupola",
+    "artifact_old_hall",
+    "artifact_portico",
+    "artifact_wing_door"
+  ],
+  "label": [
+    "label_recreation"
+  ]
+}

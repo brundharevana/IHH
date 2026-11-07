@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/17031765/",
+  "fetch_url": "https://www.loc.gov/item/17031765/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:32Z",
+  "sha256": "7954e24775d83dee4eff7393d6ba476b7707128da5544ebb8fe1a0e78fd1cc50",
+  "bytes": 844959,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/17031765/?fo=json"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn86063615/1898-12-18/ed-1/?sp=18&st=text",
+  "fetch_url": "https://www.loc.gov/resource/sn86063615/1898-12-18/ed-1/?sp=18&st=text&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-15T04:02:31Z",
+  "sha256": "5bab3eaf65362c18a35a82277a0d4dc3df7366f563a33feba860d6f0cab7ff1d",
+  "bytes": 62664,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn86063615/1898-12-18/ed-1/?sp=18&st=text&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_dred_ver01/data/sn86063615/0021110918A/1898121801/0524.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/mohi/batch_mohi_dred_ver01/data/sn86063615/0021110918A/1898121801/0524.xml"
+}

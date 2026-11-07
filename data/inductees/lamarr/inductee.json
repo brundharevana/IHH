@@ -1,0 +1,121 @@
+{
+  "slug": "lamarr",
+  "code": "LAM",
+  "name": "Hedy Lamarr",
+  "aliases": [
+    "Hedwig Kiesler",
+    "Kiesler, Hedwig",
+    "Hedwig Eva Maria Kiesler",
+    "Lamarr, Hedy",
+    "Hedwig Maria Stauffer",
+    "Hedwig Kiesler Mandl Markey",
+    "Hedy Kiesler",
+    "Hedy Mandl",
+    "Hedy Markey"
+  ],
+  "authority": {
+    "loc_naf": "https://id.loc.gov/authorities/names/n85201966.html",
+    "wikidata": "Q49034"
+  },
+  "birth_year": 1913,
+  "death_year": 2000,
+  "ihh_url": "https://immigranthallofhonor.org/inductees/inductee-hedy-lamarr/",
+  "runs": [
+    {
+      "run_id": "lamarr-legacy-2026-10-08",
+      "date": "2026-10-08",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-08: 2 facts, 2 sources, 0 media, 2 searches merged from legacy.jsonl, legacy.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "lamarr-2026-10-09",
+      "date": "2026-10-09",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-09: 80 facts, 44 sources, 21 media, 153 searches merged from baseline.jsonl, baseline.searches.jsonl, domain.jsonl, domain.searches.jsonl, identify.jsonl, identify.searches.jsonl, institutional.jsonl, institutional.searches.jsonl, loc.jsonl, loc.searches.jsonl, media.jsonl, media.searches.jsonl, nara.jsonl, nara.searches.jsonl, smithsonian.jsonl, smithsonian.searches.jsonl; 4 duplicates refused\nmerge_staging 2026-10-09: 0 facts, 1 sources, 0 media, 82 searches merged from corroborate-LAM-F-0004.searches.jsonl, corroborate-LAM-F-0005.searches.jsonl, corroborate-LAM-F-0014.searches.jsonl, corroborate-LAM-F-0018.searches.jsonl, corroborate-LAM-F-0019.searches.jsonl, corroborate-LAM-F-0023.jsonl, corroborate-LAM-F-0023.searches.jsonl, corroborate-LAM-F-0024.searches.jsonl, corroborate-LAM-F-0027.searches.jsonl, corroborate-LAM-F-0028.searches.jsonl, corroborate-LAM-F-0029.searches.jsonl, corroborate-LAM-F-0030.searches.jsonl, corroborate-LAM-F-0031.searches.jsonl, corroborate-LAM-F-0032.searches.jsonl, corroborate-LAM-F-0035.searches.jsonl, corroborate-LAM-F-0036.searches.jsonl, corroborate-LAM-F-0037.searches.jsonl, corroborate-LAM-F-0038.searches.jsonl, corroborate-LAM-F-0039.searches.jsonl, corroborate-LAM-F-0042.searches.jsonl, corroborate-LAM-F-0049.searches.jsonl, corroborate-LAM-F-0052.searches.jsonl, corroborate-LAM-F-0053.searches.jsonl, corroborate-LAM-F-0054.searches.jsonl, corroborate-LAM-F-0055.searches.jsonl, corroborate-LAM-F-0056.searches.jsonl, corroborate-LAM-F-0057.searches.jsonl, corroborate-LAM-F-0059.searches.jsonl, corroborate-LAM-F-0069.searches.jsonl, corroborate-LAM-F-0075.searches.jsonl, corroborate-LAM-F-0077.searches.jsonl, corroborate-LAM-F-0078.searches.jsonl, corroborate-LAM-F-0080.searches.jsonl, corroborate-LAM-F-0081.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "lamarr-recovery-2026-10-10",
+      "date": "2026-10-10",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-10: 7 facts, 1 sources, 0 media, 8 searches merged from recovery-lamarr.jsonl, recovery-lamarr.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "lamarr-tour-2026-10-15",
+      "date": "2026-10-15",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-15: 10 facts, 4 sources, 1 media, 21 searches merged from tour.jsonl, tour.searches.jsonl; 0 duplicates refused\nmerge_staging 2026-10-15: 1 facts, 0 sources, 0 media, 0 searches merged from tour2.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "lamarr-basis-2026-10-16",
+      "date": "2026-10-16",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-16: 0 facts, 5 sources, 5 media, 0 searches merged from basis-2026-10-16.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "lamarr-conflicts-2026-10-16",
+      "date": "2026-10-17",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-17: 0 facts, 0 sources, 0 media, 2 searches merged from conflicts.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "lamarr-artifacts-2026-10-20",
+      "date": "2026-10-20",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-20: 6 facts, 2 sources, 1 media, 7 searches merged from artifacts.jsonl, artifacts.searches.jsonl; 0 duplicates refused\nmerge_staging 2026-10-20: 2 facts, 0 sources, 0 media, 0 searches merged from artifacts2.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "lamarr-rooms-2026-10-20",
+      "date": "2026-10-20",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-20: 0 facts, 0 sources, 0 media, 10 searches merged from rooms-2026-10-20.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "lamarr-euro-2026-10-22",
+      "date": "2026-10-22",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-22: 0 facts, 1 sources, 1 media, 6 searches merged from euro-2026-10-22.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "lamarr-loc-2026-10-22",
+      "date": "2026-10-22",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-22: 0 facts, 1 sources, 1 media, 9 searches merged from locrooms.jsonl, locrooms.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "ratio-lift-2026-10-24",
+      "date": "2026-10-24",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-24: 2 facts, 1 sources, 0 media, 7 searches merged from ratiolift.jsonl, ratiolift.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "round7-2026-10-27",
+      "date": "2026-10-27",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-27: 0 facts, 0 sources, 0 media, 3 searches merged from round7.searches.jsonl; 0 duplicates refused; candidates also carried run ids round7-research-2026-10-26"
+    },
+    {
+      "run_id": "round9-2026-10-29",
+      "date": "2026-10-29",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-29: 0 facts, 0 sources, 0 media, 2 searches merged from round9.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "round9-records-2026-10-30",
+      "date": "2026-10-30",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-30: 1 facts, 11 sources, 10 media, 16 searches merged from round9r.jsonl, round9r.searches.jsonl; 1 duplicates refused"
+    },
+    {
+      "run_id": "lamarr-citizen-2026-11-01",
+      "date": "2026-11-01",
+      "adversary": null,
+      "notes": "merge_staging 2026-11-01: 1 facts, 0 sources, 0 media, 5 searches merged from citizen.jsonl, citizen.searches.jsonl; 0 duplicates refused\nmerge_staging 2026-11-01: 1 facts, 0 sources, 0 media, 6 searches merged from citizen2.searches.jsonl, citizen3.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "tour-2026-11-01",
+      "date": "2026-11-02",
+      "adversary": null,
+      "notes": "merge_staging 2026-11-02: 2 facts, 2 sources, 2 media, 9 searches merged from tour-ca.searches.jsonl, tour-loc.searches.jsonl, tour-r4.jsonl, tour-r6.jsonl, tour-wikidata.searches.jsonl; 0 duplicates refused"
+    }
+  ]
+}

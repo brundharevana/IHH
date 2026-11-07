@@ -1,0 +1,16 @@
+---
+// Dev-only bench for scanned rooms (Task 3), generated only when PUBLIC_DEV_PAGES=1: a real scan with
+// two easels, rings and the station camera, for tests (e2e/scan.spec.js) and screenshots. Never linked.
+import Base from '../../../layouts/Base.astro';
+import ChapterRoom from '../../../components/ChapterRoom.astro';
+import { devPagesEnabled } from '../../../content/dev.js';
+import { devScan, DEV_SCAN_IDS } from '../../../content/dev-scan.js';
+
+export function getStaticPaths() {
+  return devPagesEnabled() ? DEV_SCAN_IDS.map(id => ({ params: { id } })) : [];
+}
+const bench = devScan(Astro.params.id);
+---
+<Base title="Scanned room (dev)" description="Dev-only test page for a scanned room.">
+  <ChapterRoom heading={bench.heading} exhibits={bench.exhibits} runtime={bench.runtime} scan={bench.scan} liteHref={bench.liteHref} />
+</Base>

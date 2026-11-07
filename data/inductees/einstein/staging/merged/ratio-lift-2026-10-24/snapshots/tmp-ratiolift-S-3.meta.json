@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn84020097/1933-03-31/ed-1/?sp=4",
+  "fetch_url": "https://www.loc.gov/resource/sn84020097/1933-03-31/ed-1/?sp=4&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-24T06:16:05Z",
+  "sha256": "a9d10bc978bc4b6b0d67ff288b7d4933ebfd6d2fef922cf7bc07a9c5dc495c5b",
+  "bytes": 45070,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn84020097/1933-03-31/ed-1/?sp=4&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/0033289741A/1933033101/0324.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/0033289741A/1933033101/0324.xml"
+}

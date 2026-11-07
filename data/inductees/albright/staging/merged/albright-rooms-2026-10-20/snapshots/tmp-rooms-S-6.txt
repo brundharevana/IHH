@@ -1,0 +1,66 @@
+title: LB&B Staff Prepare the Rotunda for a Naturalization Ceremony at the National Archives in Washington, D.C.
+scopeAndContentNote: Original Caption: LB&B staff prepare the rotunda for a naturalization ceremony at the National Archives in Washington. DC. on September 14. 2016
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-0561
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Still Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3621
+physicalOccurrences[0].referenceUnits[0].email: stillpix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Magnetic Media
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Magnetic Disk: Hard Drive
+physicalOccurrences[0].copyStatus: Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Still Pictures
+dataControlGroup.groupId: RRAM–S
+dataControlGroup.groupCd: RRAM–S
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+localIdentifier: 64-CFDA-20160914-01-117
+productionDates[0].month: 9
+productionDates[0].year: 2016
+productionDates[0].day: 14
+productionDates[0].logicalDate: 2016-09-14
+digitalObjects[0].objectFilename: 64-CFDA-20160914-01-117.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/stillpix/064-cfda/2016/Batch0002/20160914-01/64-CFDA-20160914-01-117.jpg
+digitalObjects[0].objectFileSize: 123456
+digitalObjects[0].objectId: 445648866
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].inclusiveStartDate.year: 1789
+ancestors[0].inclusiveStartDate.logicalDate: 1789-01-01
+ancestors[0].distance: 3
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 64
+ancestors[0].inclusiveEndDate.dateQualifier: ca.
+ancestors[0].inclusiveEndDate.year: 2007
+ancestors[0].inclusiveEndDate.logicalDate: 2007-12-31
+ancestors[0].title: Records of the National Archives and Records Administration
+ancestors[0].naId: 393
+ancestors[1].inclusiveStartDate.month: 1
+ancestors[1].inclusiveStartDate.year: 2006
+ancestors[1].inclusiveStartDate.day: 3
+ancestors[1].inclusiveStartDate.logicalDate: 2006-01-03
+ancestors[1].distance: 2
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: National Archives and Records Administration. (04/01/1985 - )
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 4
+ancestors[1].creators[0].establishDate.year: 1985
+ancestors[1].creators[0].establishDate.day: 1
+ancestors[1].creators[0].establishDate.logicalDate: 1985-04-01
+ancestors[1].creators[0].naId: 10468371
+ancestors[1].inclusiveEndDate.year: 2018
+ancestors[1].inclusiveEndDate.logicalDate: 2018-12-31
+ancestors[1].title: Photographs of Events, Officials, Facilities, and Operations
+ancestors[1].naId: 178931322
+ancestors[2].distance: 1
+ancestors[2].levelOfDescription: fileUnit
+ancestors[2].title: Constitution Day Naturalization Ceremony
+ancestors[2].naId: 431966214
+naId: 445648865

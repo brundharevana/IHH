@@ -1,0 +1,1063 @@
+_version_: 1773654530839281664
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045462/1955-04-18/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045462/1955-04-18/ed-1/
+batch[0]: dlc_idomeneo_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json
+created_published[0]: Washington, D.C., April 18, 1955
+date: 1955-04-18
+date_issued: 1955-04-18
+dates[0].1955-04-18: https://www.loc.gov/search/?dates=1955-04-18/1955-04-18&fo=json
+dates_of_publication: 1854-1972
+description[0]: Washington, D.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-08-07T20:32:13.532Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_idomeneo_ver01/data/sn83045462/00280607058/1955041801/1955041801_1.xml#ndnp/dlc-2020_now
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2020_now
+group[1]: library-of-congress-washington-dc-awardee-8
+hassegments: true
+id: http://www.loc.gov/item/sn83045462/1955-04-18/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_idomeneo_ver01:data:sn83045462:00280607058:1955041801:0257/full/pct:6.25/0/default.jpg#h=463&w=317
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_idomeneo_ver01:data:sn83045462:00280607058:1955041801:0257/full/pct:12.5/0/default.jpg#h=927&w=635
+index: 1
+item.batch[0]: dlc_idomeneo_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington, D.C., April 18, 1955
+item.date: 1854
+item.date_issued: 1955-04-18
+item.dates[0]: 1955-04-18
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045462
+item.location[0]: Washington (D.C.)
+item.medium: 47 pages
+item.newspaper_title[0]: Evening star
+item.notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+item.notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+item.notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+item.notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+item.notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+item.notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+item.notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_idomeneo_ver01/data/sn83045462/00280607058/1955041801/1955041801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045462/marcxml
+item.other_title[0]: Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star
+item.other_title[1]: Star
+item.place_of_publication: Washington, D.C.
+item.raw_lccn: sn 83045462
+item.reel_numbers[0]: 00280607058
+item.source_group: ndnp/dlc-2020_now
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: Evening star (Washington, D.C.), April 18, 1955
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn83045462
+location[0]: washington d.c.
+location[1]: district of columbia
+location[2]: washington
+location[3]: united states
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+medium: 47 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Evening star
+notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+number[0]: 00280607058
+number[1]: sn83045462
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn83045462
+number_reel[0]: 00280607058
+numeric_shelf_id: 195504181
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_idomeneo_ver01/data/sn83045462/00280607058/1955041801/1955041801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045462/marcxml
+other_title[0]: Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star
+other_title[1]: Star
+partof[0].count: 36935
+partof[0].title: evening star (washington, d.c.) 1854-1972
+partof[0].url: https://www.loc.gov/search/?fa=partof:evening+star+%28washington,+d.c.%29+1854-1972&fo=json
+partof[1].count: 3210890
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232402
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: evening star (washington, d.c.) 1854-1972
+place_of_publication: Washington, D.C.
+publication_frequency[0]: daily
+raw_lccn: sn 83045462
+reel_numbers[0]: 00280607058
+resources[0].files: 47
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_idomeneo_ver01:data:sn83045462:00280607058:1955041801:0257/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045462/1955-04-18/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.321103
+shard: 03
+shelf_id: sn83045462, 1955-04-18, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2020_now
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: washington
+subject[1]: district of columbia
+subject[2]: washington (d.c.)
+subject[3]: newspapers
+subject[4]: united states
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+timestamp: 2023-08-08T09:58:49.485Z
+title: Evening star (Washington, D.C.), April 18, 1955
+type[0]: issue
+url: https://www.loc.gov/item/sn83045462/1955-04-18/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_idomeneo_ver01/data/sn83045462/00280607058/1955041801/0257.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045462/1955-04-18/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_idomeneo_ver01:data:sn83045462:00280607058:1955041801:0257/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_idomeneo_ver01/data/sn83045462/00280607058/1955041801/0257.pdf
+resources[0].segment_count: 47
+resources[0].url: https://www.loc.gov/resource/sn83045462/1955-04-18/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1955, April 18) Evening Star. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045462/1955-04-18/ed-1/.
+cite_this.chicago: Evening Star. (Washington, DC), Apr. 18 1955. https://www.loc.gov/item/sn83045462/1955-04-18/ed-1/.
+cite_this.mla: Evening Star. (Washington, DC) 18 Apr. 1955, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn83045462/1955-04-18/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_idomeneo_ver01/data/sn83045462/00280607058/1955041801/0257.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_idomeneo_ver01/data/sn83045462/00280607058/1955041801/0257.xml&format=alto_xml&full_text=1
+full_text:
+WEATHER FORECAST
+Cloudy, low near 54 tonight. Warmer with
+chance of afternoon or evening showers
+tomorrow. (Pull report on Page A-3).
+Temperatures Today
+Midnight .51 6 a.m 51 11 am.... 54
+2a m 51 Bam 52 Noon 54
+4 a m—so 10 am—s 3 Ipm 58
+103 d Year. No. 108. Phone ST. 3-5000 WASHINGTON, D. C., MONDAY, APRIL 18, 1955—FORTY-SIX PAdES. WMAL^-RADIO—TV 5 CENTS
+521 Americans
+Held in China,
+Senators Told
+New Approach Taken
+To Win Release,
+Pentagon Reports
+Senate investigators were told
+today that estimates of Ameri
+cans held as prisoners by Red
+China have been reduced to
+about 521 and that a new ap
+proach is being undertaken to
+secure release of the prisoners.
+This information was given
+the Senate Investigations Sub
+committee in closed session by
+officials of the State and Defense
+Departments, the Air Force, Navy
+and Marine Corps.
+Subcommittee Chairman Mc-
+Clellan told reporters after the
+session that the group deferred
+a decision on whether to in
+vestigate the whole prisoner
+problem pending outcome of
+current negotiations. He said
+the subcommittee would take
+another look at the situation in
+about three weeks.
+Working Through 17. N.
+Senator McClellan said that
+the new estimate includes both
+military and civilian prisoners.
+He said the new approach to
+negotiations is primarily through
+the United Nations.
+The last previous estimate of
+Americans held prisoner by Red
+China put the number at 944.
+“We learned that a large
+number of those have been ac
+counted for,” Senator McClellan
+said, "and we were told that the
+figure is now 481 military per
+sonnel plus about 40 civilians.”
+The Senator said that those
+who had been, as he said, “sub
+stantially accounted for,” are
+dead. He said that he did not
+know whether they were killed
+in the Korean war or had died
+since the armistice.
+The subcommittee chairman
+said that the approximate figure
+of 521 did not include the 19
+Gls who chose to stay in Red
+China.
+Can't Divulge Details
+Senator McClellan said that
+he was not at liberty to discuss
+details of the new approach be
+ing undertaken to obtain release
+of the prisoners.
+He pointed out that the resolu
+tion under which the United Na-.
+tlons has been negotiating with 1
+Red China was directed prin-j
+cipally toward obtaining the re
+lease of 15 American airmen who
+were shot down by Red forces in
+early 1953.
+But he added that efforts were
+being pushed to obtain release
+of all prisoners
+Asked if he was optimistic that
+the “new efforts” to obtain re
+lease of the prisoners would be
+successful, Senator McClellan
+said:
+“I’ll put it this way. I have
+not given up hope. But I can’t
+say I am too optimistic about it.'
+Senator McClellan said that
+his interest in the matter wasn’t
+antagonistic to the Eisenhower
+Administration and that he
+didn’t intend to be critical of
+what the administration was
+doing to obtain release of the
+prisoners.
+Lodge in Hospital
+With Leg Abscess
+NEW YORK, April 18
+Ambassador Henry Cabot Lodge,
+jr„ was in Presbyterian Hospital
+today, after lancing of an ab
+scess on his right leg, and will
+miss tomorrow’s meeting of the
+United Nations Security Council.
+David M. Key. assistant Secre
+tary of State for International
+Organization Affairs, will sub
+stitute for Mr. Lodge tomorrow
+wheta the council considers Egyp
+tian-Israeli border troubles
+Mr. Lodge, who underwent the
+minor surgery at the hospital
+yesterday, said he did not know
+how long he would be in the
+hospital. His right leg was
+pierced by a thorn two weeks
+ago while he was riding a bicycle
+at Antigua, British West Indies,
+where he was vacationing. He
+plucked out most of the thorn,
+but part of it remained and an
+infection developed.
+Evatt Re-elected
+CANBERRA, Australia, April
+18 i/P).—Dr. Herbert Evatt, Aus
+tralia's stormy Laborlte leader,
+won re-election today as boss of
+the opposition party in Parlia
+ment by a 2-1 majority. Mr.
+Evatt had resigned his post and
+stood for re-election in a move
+to silence rightist critics.
+APARTMENT RENTS
+FIRST DAY
+Whan Mr*. N. I. wanted to rant a
+two-roo«n basement apartment quick
+ly, she limply placed an inexpantivo
+want ad in tho productive rental
+columns of The Star Classified. She
+found a tenant the first day her ad
+appeared.
+For fast action, do as Mrs. N. I.
+did. It you want to rent, buy, trade
+or sell, tell it to the responsive au
+dience at Star readers.
+In addition te carrying more rental
+ads, The Star publishes mere total
+classified ads than the ether Wash
+ington newspapers combined because
+it produces the best results.
+Fhene Sterling 3-5000 and ask far
+on ad taker.
+©he ©timing Sfcf
+V V V WITH SUNDAY MORNING EDITION
+si
+JK HSBr II SJI
+iUJSPr 1 wVrWrlrf- p 9
+■Wen ,1,
+1 tffe m mMi MJMKmmmarW
+mm, it 1 i
+1
+Warn fflM t 1 4&£. v,* r
+WBm m mMsmanmmi
+IS
+ii
+Si W^Wk
+■4" 1 k "f fWk k |iy|i§Hlppp 1 s Wmßtv
+I i
+f |i|S
+DAR OUT IN FORCE—Members of the Daughters
+of the American Revolution queue up outside Consti
+tution Hall, waiting to register for the group’s 64th
+Parley Hears
+Blast at Reds
+Bandung Talks
+Get UnderWay
+BANDUNG. Indonesia, April
+18 </P). —lraq’s Foreign Minister
+Fadhil Jamali denounced inter
+national communism be fora the
+Asian-African conference today
+and drew prolonged applause
+from many of the 29 delegations.
+Red China’s Premier Chou En
+lai and others from Peiping sat
+Picture on Paga B-6
+with set faces as Mr. Jamali;
+charged “international cammu
+nism in a materialistic religion
+that breeds hatred among classes
+and peoples.” Prime Minister
+Nehru’s Indian delegation also
+heard out the speech in silence.
+“Communism is a new form
+of colonialism much more dan
+gerous to us than the old
+colonialism." declared Mr. Jam
+ali, whose Arab country is linked
+indirectly with the North Atlan
+tic powers through an alliance
+with Turkey. “No nation on
+earth is free from its effects.”
+Hailed by Pakistan
+Premier Mohammed Ali of
+Pakistan, which has a mutual aid
+treaty with the United States,
+walked across the conference
+room, shook hands with Mr Jam
+ali and congratulated him at the
+end of the speech.
+Chief delegates were delivering
+15-minute policy statements in
+a program which it appeared
+would go into tomorrow.
+The conference heard In
+donesian President Achnad Soe
+karno declare in the opening
+address that the population of
+Asia and Africa, totaling over
+one billion, “can inject the voice
+of reason into world affairs.”
+The acting leader for Iran,
+Ambassador Jalal Abdeh, pro
+vided further fireworks. He at
+tacked what he called “the most
+subversive aggression of our
+time.” saying “they have found
+a new way to revive colonialism.”
+Mr. Abdeh did not name com
+munism directly, but said “we
+have learned to fight this new
+colonialism under any disguise.”
+Nasser Avoids Conflict
+Egypt’s Premier Gamal Abdel
+Nasser steered clear of the East-
+West conflict in his first speech
+at an international gathering.
+He said Egypt and the Arab
+countries still have unshaken
+faith in the United Nations, “al
+though the Arab countries were
+among those most disillusioned
+in the failure of this organiza
+tion to act in accordance with
+human rights, especially with re
+gard to the countries of North
+Africa and Palestine.”
+Col Nasser also refrained from
+See BANDUNG, Page A-6
+BIBLE AND CLOTHING DECREED
+'Dignity' Vital to Men
+In Solitary, Army Rules
+United States soldiers must re
+tain their “dignity”—even in
+solitary confinement.
+To make sure disciplinary
+measures do not become degrad
+ing, the Army has published a
+set of instructions concerning
+"disciplinary segregation” the
+Army term for solitary.
+Solitary, according to the Pro
+vost Marshal Oeneral’s office, is
+to be imposed only on prisoners
+who respond to no other disci
+pline. Its purpose: So they may
+“contemplate their position.”
+The instruction circular re
+quires that a Bible or "other
+Scriptures appropriate to the
+prisoner’s faith will be provided
+in each occupied disciplinary or
+administrative segregation cell.'
+One exception: When the
+prisoner threatens to tear up the
+Holy Writ I
+Reds Lose Bandung Round
+To Powell on U. S. Racism
+BY JAMES E. ROPER
+6t»r Staff Correspondent
+BANDUNG, Indonesia. April
+18.—Negro Representative Pow
+ell looked the Communist propa
+gandists squarely in the eyes and
+i proudly proclaimed:
+“Racism in the United States
+is on the way out.’
+The Cbmmunists snorted,
+j They whispered among them
+selves. Then they subsided
+without replying.
+Mr. Powcil, the New York
+Democrat who came to the
+Asian-African conference to de
+fend the United States, thus won
+the first skirmish with the Reds.
+The scene was played before
+77 reporters at a news confer
+ence he called to answer a Cey
+lonese reporter’s questions about
+race relations in the United
+States and to answer a crack
+Chinese Communist Premier
+Chou En-lai made upon arriving
+in Bandung.
+Mr. Chou said “some peoples”
+dislike the conference and “are
+trying by all means to sabotage
+it
+Mr. Powell, wearing an all
+white sports shirt, shouted.
+“Anyone who says the United
+States wants to sabotage this
+conference is a liar.”
+There were more snorts from
+the Communists, but no reply.
+So Mr. Powell started to lecture
+reporters, including Indonesians,
+Indians, Filipinos, Thais and
+four Russians.
+His lecture skillfully raised a
+touchy issue. Indonesia and Com
+munist China are feuding be
+cause the Reds are insisting that
+the Chinese here are Peiping
+citizens—with the obvious possi
+-1 bility that they some day may
+become an excuse for Chinese
+Communist intervention here.
+Mr. Powell pleased India by
+condemning Portugal’s continued
+control of bits of territory India
+desires. He also volunteered
+that the United States must take
+every opportunity to fight both
+the old style colonialism of
+Western powers and the new
+style colonialism of communism.
+After an hour of this, the Con
+gressman had fired both barrels
+several times and the news con
+ference ended. But the Commu
+nists knew that, although the
+i United States was not attending
+the conference, here was one
+American who was going to be
+hard to handle.
+Mr. Powell related that he is
+the grandson of a Franklin
+County. Virginia, slave who was
+branded wit ha red-hot iron be
+cause he ran away. Nevertheless,
+Mr. Powell said, he has been
+elected to Congress six times and
+serves on the Labor and Educa
+tion Committee.
+“One time in Washington I
+The cell must have enough 1
+light so that the prisoner can
+read the Scriptures and should!
+not have solid doors.
+"Our goal, in line with that
+of most modern penologists, is
+to retain (an individual’s) dig
+nity.”
+Therefore, stripping prisoners
+is forbidden.
+“Removal of all clothing is! l
+considered humiliating and is;
+forbidden as a form of punish
+ment.” the Army circular reads, i'
+I One case of prisoner stripping i
+was reported last year. That
+was one too many for MaJ. Oen.
+William H. Maglin, the Army's I
+chief law-enforcement officer. He U
+is responsible for the new cir
+cular.
+(Ralaaaad hr North Americas
+I Newspaper Alliance)
+annual Continental Congress, which gets under way
+at the hall tonight. More than 4,000 delegates will
+attend.—Star Staff Photo.
+could not live in hotels, eat in
+restaurants or go to the movies,
+but overnight this changed with
+out incident.” he said. “Because
+of Supreme Court decisions and
+orders which President Eisen
+hower gave the District Commis
+sioners, Washington has become
+a place of race equality. Wash
+ington used to be a cesspool of
+democracy, but now, in terms of
+democracy, it is one of the best
+cities anywhere."
+A 'West German reporter
+asked: “But what about the
+South?”
+Mr. Powell replied that At
+lanta and Richmond recently
+elected Negroes to city-wide of
+fteos #nd that the hard core of
+racism in the South is a “rapid
+ly shrinking group.”
+The Congressman suggested
+that Southeast Asia has more
+religious and racial discrimina
+tion than the United States. He
+said Indonesia has anti-Semitic
+like feelings against three mil
+lion Chinese here.
+Rebels Shatter
+Saigon T ruce
+SAIGON, South Viet Nam,
+April 18 U P).—Binh Xuyen troops
+shattered Saigon’s uneasy truce
+today, firing on vehicles of the
+National Army. The army said
+one of its soldiers was killed and
+another kidnaped.
+The National forces loyal to
+embattled Premier Ngo Dinh
+Diem went on an immediate
+alert
+An army spokesman said Gen.
+Paul Ely. French commissioner
+general for Viet Nam, and his
+chief of staff. Gen. Alain Gam
+biez, had hastened to headquar
+ters to insist that the aroused
+National troops refrain from re
+taliating.
+The army reported three in
+cidents. two of them within 200
+yards of the army headquarters.
+Irish Threaten
+'War' on Britain
+BALLINASLOE. Ireland, April
+18 i/P). —A leader of the illegal
+Irish Republican Army last night
+publicly threatened an armed
+offensive soon to break the Brit
+ish hold on the six Ulster coun
+ties of Northern Ireland.
+“The IRA are going to tackle
+the job of ending the border
+with guns in their hands,” Jo
+seph Mac Crystal, a veteran
+leader of the group, told a meet
+ing here.
+“Within the next three years
+they will make the six counties
+so hot England will not be able
+to hold them.” he declared.
+Ulster is now a part of the
+United Kingdom, along with
+England, Scotland and Wales.
+The Ballinasloe meeting was
+sponsored by Sinn Fein, an Irish
+political party which is militant
+in its demand that the six coun
+ties be united with the Irish Re
+public.
+California Road
+Closed by Snow
+SACRAMENTO, Calif., April
+18 (/P).—A late season snow
+storm marooned an estimated
+350 automobiles on two trans-
+Sierra highways and forced the
+closing of one of the routes.
+California highway patrolmen
+reported early today.
+At least 200 cars were strand
+ed on U. S. Highway 40 by heavy
+snows that began falling early
+yesterday and by mid-afternoon
+had reached 18 inches, the pa
+trol said. None of the motorists
+.bras reported in danger.
+To the south, 100 to 150 ve
+hicles were reported stuck brief
+ly on higher elevations of U. S.
+Highway 50.
+4,000 Arriving
+For DAR Parley
+Delegates Register
+For Convention
+The 64th annual Continental
+Congress of the Daughters of the
+American Revolution, dedicated
+this year to “Foster True Patri
+otism,” gets under way today in
+Constitution Hall.
+The more than 4,000 ex
+pected delegates to the national
+DAR Program, Picture and Other Stories.
+Page A-7
+Junior DAR and CAR Stories and
+Picture r«9* 8-2
+convention were arriving by
+train, plane and private auto to
+day from all points for the five
+day meeting.
+Although early arrivals have
+been registered since Friday and
+preliminary functions were held
+during the week end, the con
+vention will not formally open
+until 8:30 o'clock tonight, when
+Vice President Nixon addresses
+the opening session.
+President and Mrs. Eisenhower
+have accepted invitations to at
+tend, probably tomorrow, but the
+time of their appearance has not
+yet been announced.
+Modernizations on Way
+Modernization of their audi
+torium and their bylaws are two
+goals of the DAR.
+The delegates will be asked to
+approve a proposal to complete
+the renovation of Constitution
+Hall, their auditorium here, at
+a cost of $90,000.
+The proposed revisions in the
+constitution and bylaws have
+been printed In a 32-page book
+let. Mrs. G. W. S. Musgrave of
+Laurel. Md.. chairman of the
+Revision Committee, said the
+DAR “takes pride in the fact”
+that the proposed revisions are
+the first major ones in 28 years.
+They involve no drastic up
+heavals. she said, and “are
+largely dictated by the expan
+sion of the society and its in
+creasing responsibility.”
+Museum Case Presented
+In a ceremony today, a spe
+cially designed museum case was
+presented in honor of Mrs. Wil
+liam H. Pouch, of New York City,
+honorary president general.
+The case, given by the New
+Yorx DAR Society, will hold min
+iatures of the society’s honorary
+president generals, the first of
+whom was Mrs. Benjamin Har
+rison, wife of the former Presi
+dent.
+Miss Gertrude S. Carraway.
+DAR president general, accepted
+the case on behalf of the so
+ciety. Mrs. Pouch was president
+of the society from 1941 to 1944.
+More than 600 members of
+the national patriotic society
+See DAR, Page A-6
+EISENHOWER HEARS
+PRAYER OF THANKS
+FOR SALK VACCINE
+•y a Star Staff Corr#»pond«nt
+AUGUSTA. Oa.. April 18.
+President Eisenhower
+bowed his head during a
+prayer of thanksgiving here
+yesterday for the discovery
+of an effective polio vaccine
+by Dr. Jonas Salk.
+The Rev. Massey Mott
+Heltzel voiced the prayer at
+his Reid Memorial Presby
+terian Church morning serv
+ice, attended by the Presi
+dent.
+He asked his congrega
+tion to give thanks for Dr.
+Salk’s "selfless service to
+humanity” and to "rejoice in
+the good hope that another
+great enemy of mankind
+may soon be conquered.”
+Truman Urges
+U. N. Action on
+Red Threats
+Calls for Support
+Os World Agency at
+Senate Hearing
+BY J. A. O’LEARY
+Former President Truman to
+day urged the United States to
+take current threats to world
+peace before the General Assem
+bly of the United Nations.
+He was the first of a number
+of headline witnesses who will
+go before the Senate Foreign
+Relations Committee this week
+to give their views on how the
+U. N. Charter could be improved.
+Mr. Truman made no direct
+reference to the tense situation
+developing around Formosa, but
+apparently was thinking of that
+and other trouble spots when he
+stressed the importance of using
+the U. N. whenever possible.
+“And we should use it now by
+bringing before the General
+Assembly the current threats to
+world peace,” the former Presi
+dent added.
+Opposes Rigid Demands
+Mr. Truman avoided any spe
+cific recommendations of his own
+for changes in the charter. He
+agreed that, like any document
+written by human hands, it could
+be improved. But he cautioned
+the American people against go
+ing into a conference on revision
+with inflexible demands.
+“I am sure the U. N. can be
+improved upon,” said Mr. Tru
+man. “If we continue to give
+it our firm support. I am sure
+lit will be improved upon. But
+I let us be everlastingly careful not
+Ito throw away the good and
+1 great instrument we already have
+in a search for something bet
+ter."
+The former President was
+greeted with spontaneous ap
+plause from the spectators as he
+entered the big marble caucus
+room in the Senate Office Build
+ing. He was in a jubilant mood
+and chatted with reporters as he
+waited to greet Chairman
+George, Democrat, of Georgia.
+Praises U. S. Record
+Mr. Truman praised the ac
+complishments of the U. N. dur
+ing its first 10 years and pre
+dicted that without it there
+i would have been another un
+limited war in this decade.
+He admitted the U. N. has not
+lived up to all expectations, but,
+on the other hand, it has been
+found capable of results which
+were not foreseen in the beginn
+ing. For example, he pointed to
+the action of the General As
+sembly in 1950 in lining up the
+United Nations against the
+attack by North Korea on South
+Korea.
+Getting down to the pending
+question of how the Charter
+should be revised, the former
+President said:
+j “I do not wish, at this time.
+See TRUMAN, Page A-6
+ASTRONOMER SAYS MOON IS SAFE
+FROM EARTHMEN FOR CENTURIES
+NEW YORK (A*).—Prospective spacemen have a long
+time to wait before traveling to the moon, says Sir Harold
+Spencer Jones, director of Greenwich Observatory.
+Interplanetary travel will not be feasible “in this cen
+tury, nor in the next one, nor in the one after that,” the
+astronomer declared today as he arrived from Engalnd
+aboard the liner Britannic.
+Sir Harold is en route to Philadelphia to receive on Fri
+day the Rittenhouse Medal for work in astronomy.
+He said a trip to the moon would require at least a six
+ton rocket, and "it wouldn’t have fuel enough to get back.”
+He estimated a trip to Mars would require 1 years.
+mgr
+Wmr
+Mr
+Wm 1
+■k. Bp?-
+i -JM
+FAMED PHYSICIST DlES—Princeton, N. J.—Dr.
+Albert Einstein, pictured informally here on the oc
+casion of his 75tn birthday last year.—-Wide World
+Photo.
+MIDDLEBURG RACES
+It was a great day Saturday at the
+Middleburg Hunt Race Association’s
+opening race with hundreds of sun
+burned faces at the ball afterwards.
+Page B-3
+New York Markets, Pages A-20-21
+Einstein Dies
+At Princeton;
+111 Four Days
+Only His Intimates Knew
+Scientist, 76, Was Stricken
+PRINCETON, N. J., April 18 (A*). —Dr. Albert Ein
+stein, who became internationally famous at 26 for his
+theory of relativity, died today after a four-day illness.
+The 76-year-old world-acclaimed scientist died at
+Princeton Hospital at 1:15 a.m. of a rupture of the main
+Knowland Asks
+Buildup Quiz
+Urges George to Call
+Dulles and Radford
+By the Associated Press
+Senator Knowland. Repub
+lican. of California said today
+he will ask Secretary of State
+Dulles and Admiral Arthur W.
+Radford to tell the Senate's
+Foreign Relations Committee
+j whether a Communist air power
+buildup opposite Formosa threat
+j ens security of the United States
+i 7th Fleet.
+Senator Knowland, the Senate
+Republican leader, told an in
+President Views Situation on Formosa
+as Grave. Page A-4
+I formal news conference he is
+suggesting to Chairman George
+that the committee call Mr.
+Dulles and Admiral Radford,
+chairman of the Joint Chiefs
+of Staff, at a closed session as
+early as possible.
+Mr. Dulles is scheduled to
+testify before the committee
+j tomorrow on “leaks" of the
+j Yalta conference douements.
+But Senator Knowland said the
+secretary's week-end statement
+about Chinese Communist air
+activities presents a “more press
+ing matter.”
+EINSTEIN HAD
+PLAIN FORMULA
+FOR USEFUL LIFE
+PRINCETON, N. J. ffl.—
+I Dr. Albert Einstein once
+gave this as his formula for
+success:
+“If A is successful in life,
+the rule might be expressed:
+"A equals X plus Y plus Z.
+“X being work and Y be
+ing play and Z keeping your
+mouth shut.”
+i artery of the body caused by
+hardening of the arteries.
+A man who shunned publicity.
+Dr. Einstein had entered the
+hospital Friday. Only his inti
+mates knew he was 111. Hit
+death first was attributed to a
+gall bladder condition, but an
+autopsy showed differently.
+The shy. white-haired scholar
+was credited with making possi
+ble the atomic bomb by disclos
+ing that a small quantity of
+matter could produce vast
+amounts of energy.
+Dr. Einstein stood as probably
+the foremost theoretical mathe
+matician and physicist in the
+world.
+1950 Treatise Hailed
+As recently as 1950, he pub
+lished a monumental methemat
+ical treatise. The Unified Field
+Theory. This was hailed as a
+daring type of mathematic*
+which sought to describe the
+1 forces of the universe in a set
+of equations.
+At the time of his death. Dr.
+Einstein was a professor emeri
+tus at the Institute for Advanced
+Study, comprised of world-fam
+ous scholars and headed by Dr.
+Robert Oppenheimer.
+During his late years, he was
+outspoken in many causes far
+removed from the realm of the
+oretical physics.
+On several occasions he ad
+vised witnesses called before tha
+Congressional Subversive Inves
+tigations committee that they
+had a duty to refuse to answer
+questions.
+Appealed for Rosenbergs
+Dr. Einstein asked the Presi
+dent for commutation of tha
+death sentence of Julius and
+Ethel Rosenberg, who were ex
+ecuted as atom spies. He said
+he had to take the stands be
+cause of “my passionate sens*
+of social Justice and social re
+sponsibilities.”
+Dr. Einstein spent his lifetime
+j searching for a unified mathe
+matical concept of the laws that
+govern the universe.
+Born in Ulm. Germany, March
+j 14, 1879, of middle-class Jewish
+parents, he was swept to inter
+national fame by the theory of
+relativity which he devised at
+j the age of 26.
+A revolutionary idea, it added
+a fourth dimension, time, to the
+trio—length, breadth and width
+—which had formed mans basic
+knowledge of the measurement
+of matter. It also astounded
+scientists by disputing Newton's
+law of gravitation.
+A-Bomb Proved His Idea
+It was Dr. Einstein’s disclosure,
+many years ago, that a small
+quantity of matter could product
+astronomical quantities of en
+ergy. which was so spectacularly
+proved when the first atomic
+bomb exploded.
+Dr. Einstein did not work on
+actual development of the bomb.
+However, he was among a group
+of physicists who wanted the
+Government to look into nuclear
+fission developments as early as
+1939.
+The group asked Alexander
+Sachs, an economist, to act as a
+liaison man between them and
+President Franklin D. Roosevelt
+in suggesting Government sup.
+port for nuclear fission research.
+And Mr. Sachs gave Mr. Roose
+velt a letter from Dr. Einstein
+outlining developments in tha
+field and urging research under
+Government auspices.
+But the famous, white-haired
+scientist looked on the A-bomb
+with misgivings.
+In 1945, shortly after the
+See EINSTEIN, Page A-12
+REFUGEES POSE
+PROBLEM TO U. S.
+550,000 REFUGEES—Sinct tha
+United States encouraged the flood
+at refugees from North Viet Nam, it
+is morally obligated te care far them
+regard lass at expanse. Jamas E. Roper,
+Star staff correspondent, says en Fage
+GUIDE FOR READERS
+Amus'm'ts A-14-15llost, Feand A-3
+Classified, 1-14-20 Music 1-7
+Comics 1-22-23 Obituary ....A-12
+Crossword 1-22 Radio-TV 8-21
+Editorial A-10 Sports A-17-19
+Edit. Articles A-II Womoa's
+Fiaoncial A-20-21! Section ..1-2-5
+Hova The Star Delivered to Your
+Home Daily and Sunday
+Dial Starling 3-5000

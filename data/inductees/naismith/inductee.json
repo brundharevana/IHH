@@ -1,0 +1,99 @@
+{
+  "slug": "naismith",
+  "code": "NAI",
+  "name": "James Naismith",
+  "aliases": [],
+  "authority": {
+    "loc_naf": "https://id.loc.gov/authorities/names/n91122143",
+    "wikidata": "Q188962"
+  },
+  "birth_year": null,
+  "death_year": null,
+  "ihh_url": "https://immigranthallofhonor.org/inductees/inductee-james-naismith/",
+  "runs": [
+    {
+      "run_id": "naismith-2026-10-09",
+      "date": "2026-10-09",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-09: 80 facts, 61 sources, 32 media, 146 searches merged from baseline.jsonl, baseline.searches.jsonl, domain.jsonl, domain.searches.jsonl, identify.searches.jsonl, institutional.jsonl, institutional.searches.jsonl, loc.jsonl, loc.searches.jsonl, media.jsonl, media.searches.jsonl, nara.jsonl, nara.searches.jsonl, smithsonian.jsonl, smithsonian.searches.jsonl; 3 duplicates refused\nmerge_staging 2026-10-09: 0 facts, 4 sources, 0 media, 75 searches merged from corroborate-NAI-F-0001.searches.jsonl, corroborate-NAI-F-0002.searches.jsonl, corroborate-NAI-F-0003.jsonl, corroborate-NAI-F-0003.searches.jsonl, corroborate-NAI-F-0004.searches.jsonl, corroborate-NAI-F-0005.searches.jsonl, corroborate-NAI-F-0007.searches.jsonl, corroborate-NAI-F-0009.jsonl, corroborate-NAI-F-0009.searches.jsonl, corroborate-NAI-F-0011.searches.jsonl, corroborate-NAI-F-0013.searches.jsonl, corroborate-NAI-F-0015.searches.jsonl, corroborate-NAI-F-0016.searches.jsonl, corroborate-NAI-F-0017.searches.jsonl, corroborate-NAI-F-0028.searches.jsonl, corroborate-NAI-F-0029.jsonl, corroborate-NAI-F-0029.searches.jsonl, corroborate-NAI-F-0030.searches.jsonl, corroborate-NAI-F-0031.jsonl, corroborate-NAI-F-0031.searches.jsonl, corroborate-NAI-F-0033.searches.jsonl, corroborate-NAI-F-0036.searches.jsonl, corroborate-NAI-F-0038.searches.jsonl, corroborate-NAI-F-0039.searches.jsonl, corroborate-NAI-F-0040.searches.jsonl, corroborate-NAI-F-0041.searches.jsonl, corroborate-NAI-F-0042.searches.jsonl, corroborate-NAI-F-0043.searches.jsonl, corroborate-NAI-F-0044.searches.jsonl, corroborate-NAI-F-0045.searches.jsonl, corroborate-NAI-F-0062.searches.jsonl, corroborate-NAI-F-0063.searches.jsonl, corroborate-NAI-F-0066.searches.jsonl, corroborate-NAI-F-0068.searches.jsonl, corroborate-NAI-F-0070.searches.jsonl, corroborate-NAI-F-0073.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "naismith-recover-2026-10-10",
+      "date": "2026-10-10",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-10: 13 facts, 4 sources, 0 media, 11 searches merged from recover.jsonl, recover.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "naismith-tour-2026-10-15",
+      "date": "2026-10-15",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-15: 28 facts, 16 sources, 12 media, 37 searches merged from tour.jsonl, tour.searches.jsonl; 0 duplicates refused\nmerge_staging 2026-10-15: 3 facts, 0 sources, 0 media, 1 searches merged from tour2.jsonl, tour2.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "naismith-basis-2026-10-16",
+      "date": "2026-10-16",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-16: 0 facts, 4 sources, 4 media, 0 searches merged from basis-2026-10-16.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "naismith-conflicts-2026-10-16",
+      "date": "2026-10-17",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-17: 0 facts, 0 sources, 0 media, 6 searches merged from conflicts.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "naismith-artifacts-2026-10-20",
+      "date": "2026-10-20",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-20: 0 facts, 0 sources, 2 media, 12 searches merged from art.searches.jsonl, artifacts.jsonl; 0 duplicates refused\nmerge_staging 2026-10-20: 1 facts, 1 sources, 1 media, 2 searches merged from art2.jsonl, art2.searches.jsonl; 0 duplicates refused\nmerge_staging 2026-10-20: 0 facts, 0 sources, 0 media, 2 searches merged from art4.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "naismith-rooms-2026-10-20",
+      "date": "2026-10-20",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-20: 0 facts, 7 sources, 7 media, 25 searches merged from rooms.jsonl, rooms.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "naismith-euro-2026-10-22",
+      "date": "2026-10-22",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-22: 0 facts, 0 sources, 0 media, 5 searches merged from euro-2026-10-22.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "naismith-loc-2026-10-22",
+      "date": "2026-10-22",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-22: 0 facts, 8 sources, 8 media, 9 searches merged from locrooms.jsonl, locrooms.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "ratio-lift-2026-10-24",
+      "date": "2026-10-24",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-24: 4 facts, 3 sources, 0 media, 14 searches merged from ratiolift.jsonl, ratiolift.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "round7-2026-10-27",
+      "date": "2026-10-27",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-27: 0 facts, 2 sources, 2 media, 3 searches merged from round7.jsonl, round7.searches.jsonl; 0 duplicates refused; candidates also carried run ids round7-research-2026-10-26"
+    },
+    {
+      "run_id": "round8-2026-10-29",
+      "date": "2026-10-29",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-29: 1 facts, 0 sources, 0 media, 0 searches merged from round8.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "round9-2026-10-29",
+      "date": "2026-10-29",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-29: 1 facts, 0 sources, 0 media, 2 searches merged from round9.jsonl, round9.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "round9-records-2026-10-30",
+      "date": "2026-10-30",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-30: 1 facts, 8 sources, 9 media, 6 searches merged from round9r.jsonl, round9r.searches.jsonl; 0 duplicates refused"
+    }
+  ]
+}

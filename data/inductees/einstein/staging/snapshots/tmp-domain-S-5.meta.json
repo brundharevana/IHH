@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nobelprize.org/prizes/physics/1921/summary/",
+  "fetch_url": "https://www.nobelprize.org/prizes/physics/1921/summary/",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:20:26Z",
+  "sha256": "7d05e275eb4f8ac7282524c0e861c95808d624f801c4f2e9c15beb3a48c13b59",
+  "bytes": 2754,
+  "http_status": 200,
+  "final_url": "https://www.nobelprize.org/prizes/physics/1921/summary/"
+}

@@ -1,0 +1,18 @@
+asset: 169f4d49-0ec1-413c-852f-e11393fbb2eb
+file_name: Portr_03079.tif
+title: Einstein, Albert (1879-1955) in Laeken, Belgium
+original_title: Einstein, Albert (1879-1955) in Laeken, Belgien
+eth_dating: 1933
+eth_photographer: Unbekannt
+eth_physical_description: Photography : gelatine silver print, mounted on cardboard
+eth_special_dimensions: 8,5 x 9,5 cm
+eth_signature: Portr 3079
+eth_doi_link: http://doi.org/10.3932/ethz-a-000045733
+eth_terms_of_use: Rechte: ETH-Bibliothek
+eth_copyright_notice: ETH Library Zurich, Image Archive / Portr_03079
+eth_license: Public Domain Mark
+eth_availability: Free download and use
+eth_availability_description: Free use means: images can be freely used for private, scientific, and commercial purposes
+file_size: 23.86 MB
+changed_at: 2026-09-24 16:32:51
+_fetched_via: ba.e-pics.ethz.ch app (sharedien-adapter.loadMetadata) in a browser tab, 2026-10-29; field values copied verbatim

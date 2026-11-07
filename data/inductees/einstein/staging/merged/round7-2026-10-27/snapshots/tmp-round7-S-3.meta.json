@@ -1,0 +1,10 @@
+{
+  "url": "https://kulturarvsdata.se/GSM/objekt/402044",
+  "fetch_url": "https://kulturarvsdata.se/GSM/objekt/402044",
+  "method": "api",
+  "fetched_at": "2026-10-27T13:02:24Z",
+  "sha256": "fc2d45e2140a9598a0526fac6c9c363aeb00feeacabe95f3ad2a921abf034c8b",
+  "bytes": 13820,
+  "http_status": 200,
+  "final_url": "https://kulturarvsdata.se/GSM/objekt/402044"
+}

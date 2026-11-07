@@ -1,0 +1,1020 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- 508 compliance - meta description 4.2.2025 -->
+    <title>NPGallery Asset Detail</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Discover and explore a comprehensive library of National Park Service images, video, audio, maps, presentations, documents, and more.">
+
+    <link href="/Content/images/favicon.ico" rel="shortcut icon">
+
+
+
+
+
+
+
+
+
+    <!--/ /-->
+
+    <link href="/Content/css/General?v=7-KokiIcfWp_EeSsm5l-oGPKWIbFa-7KD8R-fjaHC6w1" type="text/css" rel="stylesheet"/>
+
+
+    
+    <link rel="stylesheet" type="text/css" href="/Content/css/bar-ratings-stars.css" />
+
+        <style type="text/css">
+
+    /* For use with Smooth Zoom tool. BML - 07/11/2016 */
+    .smooth_zoom_preloader
+    {
+        background-image: url('/Content/images/preloader.gif');
+        background-position:center center;
+        background-repeat:no-repeat
+    }
+
+    .smooth_zoom_icons
+    {
+        background-image: url('/Content/images/icons.png');
+    }
+        </style>
+
+
+
+
+    <script type="text/javascript" src="/Scripts/General?v=fxxdGWoD5aq1uw9cXzJ_1xbf0_KVU7pdip-rmuNwRpc1"></script>
+
+
+    
+    <script src="/Scripts/jquery.barrating.js" type="text/javascript"></script>
+    <!--<script src="~/Scripts/google-analytics.js"></script>-->
+
+
+        <script src="/Scripts/jquery.smoothZoom.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            ga('send', 'event', 'Image Selected', 'Title', 'RL_01363.tif');
+            ga('send', 'event', 'Image Selected', 'Category', 'Museum');
+            ga('send', 'event', 'Image Selected', 'AssetId', '06fb82f2c28c45d79ecb173ab1f583b7');
+            ga('send', 'event', 'Image Selected', 'Branding', 'Yosemite National Park');
+        </script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".slidingDiv").show();
+            $(".show_hide_next").show();
+            $(".show_hide_parent").show();
+
+            $('.show_hide_next').each(function () {
+                $(this).click(function () {
+                    $(this).next('.slidingDiv').slideToggle();
+                });
+            });
+            $('.show_hide_parent').each(function () {
+                $(this).click(function () {
+                    $(this).closest('.slidingDiv').slideToggle();
+                });
+            });
+        });
+    </script>
+
+
+<!-- NPS.gov Google Analytics -->
+<script src="https://www.nps.gov/common/commonspot/templates/js/federated-analytics-uav1.js?ver=true&agency=DOI&subagency=NPS&exts=rtf,odt,ods,odp&dclink=true&enhlink=true" id="_fed_an_ua_tag"></script>
+
+
+
+    <script type="text/javascript" src="/Scripts/NPGallery/layout.js?v=1.2"></script>
+</head>
+    <body id="body">
+        <!-- Google Tag Manager (noscript)
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N77MPPP"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <nav name="mobile-nav" class="navbar navbar-inverse">
+            <div class="container" style="position:relative;">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="https://www.nps.gov">
+                    <img src="/Content/images/logo.png" alt="National Park Service logo" style="display:inline-block;height:35px; width: 30px;" />
+                            <div style="display:inline-block">National Park Service</div>
+                    </a>
+                    <button style="float: right;" id="buttonMenu" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+
+
+<div class="col-sm-8 col-md-8 col-lg-8 pull-right">
+    <form id="searchControlWithDropdownForm" style="margin-top: 20px" role="search" action="/SearchResults" method="get">
+        <div class="input-group">
+            <div class="input-group-btn search-panel">
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                    <span id="search_concept">Search NPGallery</span> <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu">
+                    <li><a href="#NPGallery">Search NPGallery</a></li>                    
+                    <li class="divider"></li>
+                    <li><a href="#NPS">Explore NPS.gov</a></li>
+                </ul>
+            </div>
+            <input type="hidden" name="search_param" value="all" id="search_param">
+            <input id="allFields" name="allFields" type="text" class="form-control" placeholder="Search NPGallery" required>
+            <span class="input-group-btn">
+                <button id="searchControlSearchButton" class="btn btn-primary" type="button"><span class="glyphicon glyphicon-search"></span></button>
+            </span>
+        </div>
+        <input type="hidden" name="view" value="grid" />
+        <input type="hidden" name="allFieldsFormat" value="AllWords" />
+        <input type="hidden" name="PageSize" value="60" />        
+        <input type="hidden" name="filters" value="default" />
+    </form>
+</div>
+
+<script>
+
+    //SearchControl With Dropdown Javascript
+    $(document).ready(function (e) {
+        $('.search-panel .dropdown-menu').find('a').click(function (e) {            
+            e.preventDefault();
+            var param = $(this).attr("href").replace("#", "");
+            var concept = $(this).text();
+            
+            setSearchInputPlaceHolder(param);            
+            $('.search-panel span#search_concept').text(concept);
+            $('.input-group #search_param').val(param);
+        });
+    
+        $("#searchControlSearchButton").click(function () {            
+            var anchorSelected = $('#search_concept').text();            
+            if (anchorSelected === "Explore NPS.gov") {
+                var searchTerm = $("#allFields").val();                
+                window.open("https://www.nps.gov/search/?affiliate=nps&query=" + searchTerm, "_blank")
+            } else if(anchorSelected ==="Search NPGallery" || anchorSelected === "Search this site") {                                                
+                $("#searchControlWithDropdownForm").submit();
+            }
+        });
+
+        $("#searchControlWithDropdownForm").submit(function (e) {
+            var searchTerm = $("#allFields").val();
+            var anchorSelected = $('#search_concept').text();                        
+            if (searchTerm === "") {
+                e.preventDefault();
+            } else if (anchorSelected === "Explore NPS.gov") {                
+                var searchTerm = $("#allFields").val();                                
+                window.open("https://www.nps.gov/search/?affiliate=nps&query=" + searchTerm, "_blank")
+                e.preventDefault();                
+            } else {                                
+                return true;
+            }
+        });
+
+    });
+
+    function setSearchInputPlaceHolder(param) {
+        if (param === "NPGallery") {
+            $('.input-group #allFields').attr("placeholder","Search NPGallery");
+        } else if (param === "NPGalleryCollections") {
+            $('.input-group #allFields').attr("placeholder", "Search NPGallery Collections");
+        } else if (param === "NPGalleryPortals") {
+            $('.input-group #allFields').attr("placeholder", "Search NPGallery Portals");
+        } else if (param === "NPGalleryState") {
+            $('.input-group #allFields').attr("placeholder", "Search NPGallery States");
+        } else if (param === "NPGalleryParks") {
+            $('.input-group #allFields').attr("placeholder", "Search NPGallery Parks");
+        } else if (param === "NPS") {
+            $('.input-group #allFields').attr("placeholder", "Search National Park Service - NPS");
+        }
+    }
+</script>
+
+                </div>
+                <div name="header-menu" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav hidden-sm hidden-md hidden-lg"></ul>
+                </div>
+            </div>
+        </nav >
+
+        <div name="jumbotron" class="jumbotron container-fluid" style="position:relative;">
+           <div name="banner" style="height: 150px; background-position:50% 50%; background-repeat: no-repeat; background-size:cover;"></div>
+           <div class="hero-banner" style="width:100%;">
+             <div class="container">
+               <div class="row">
+                 <div class="col-sm-12">
+                   <span name="hero-title" class="hero-title" style="white-space:nowrap"></span>
+                   <span name="hero-subtitle" class="hero-subtitle" style="white-space:nowrap"></span>
+                   <span name="hero-subtitle-right" class="hero-subtitle hero-textRight" style="white-space:nowrap;"></span>                    
+                 </div>
+               </div>
+             </div>
+           </div>
+        </div>
+        
+        <nav name="wide-menu" class="navbar navbar-inverse hidden-xs">
+            <div class="container">
+                <ul name="left" class="nav navbar-nav"></ul>
+                <ul name="right" class="nav navbar-nav navbar-right"></ul>
+            </div>
+        </nav>
+
+        
+
+        <div class="container body-content">
+
+            
+
+
+
+
+        
+<script>    
+    function copyrightModalDisplay(str_copyright) {
+        $('#copyright-text').html(str_copyright);
+        $("#copyrightModal").attr("z-index",9999);
+        $("#copyrightModal").modal();
+    }
+</script>
+
+<style>
+    .modalCenter {
+        top:50%;
+        right:50%; 
+        width: 100%;
+        height: 100%;
+    }
+
+    body.modal-open {
+        overflow: hidden;
+        /*position: fixed;*/
+    }
+
+    /*.modal-backdrop {
+         z-index: -1;
+    }*/
+
+</style>
+
+
+<div class="modal fade modalCenter" id="copyrightModal" role="dialog" style="z-index: 9999;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">    
+                <button type="button" class="close" data-dismiss="modal">&times;</button>            
+                <h4>Copyright Information:</h4>
+            </div>
+            <div class="modal-body">                
+                <div class="form-group">
+                    <p id="copyright-text"></p>
+                </div>                    
+            </div>            
+        </div>
+    </div>
+</div>
+
+        <div class="assetdetail">
+
+
+
+<!-- Preview (Top) Section -->
+    <div class="show_hide_next"><a>DIGITAL ASSET</a></div>
+    <div class="slidingDiv">
+
+
+
+
+<!--  class="img-responsive" jgoodmann 7.2018 center jgoodmann 12.2019 -->
+<img class="img-responsive center-block" id="Zoom-06fb82f2c28c45d79ecb173ab1f583b7" src="/GetAsset/06fb82f2c28c45d79ecb173ab1f583b7/proxyhires?" alt="Old Muir homestead near Martinez [Alhambra Valley]." />
+<!-- For use with Smooth Zoom tool. BML - 07/11/2016* -->
+<!-- original height: '500', max_HEIGHT: '',  change so original height is actual height or max of 500 jgoodmann 7.2018 -->
+<script>
+            jQuery(function ($) {
+                $('#Zoom-06fb82f2c28c45d79ecb173ab1f583b7').smoothZoom({
+                    width: '100%',
+                    height: 1446,
+                    responsive: true,
+                    responsive_maintain_ratio: true,
+                    max_WIDTH: '',
+                    max_HEIGHT: 500,
+                    zoom_MAX: 400,
+                    animation_SPEED_ZOOM: 1,
+                    touch_DRAG: false,
+                });
+            });
+</script>
+
+
+
+
+
+
+<div class="row" style="margin-top: 10px;">
+    <div class="col-md-3 text-right">
+    </div>
+    <div class="col-md-9">
+        <span class="text-left">Select Item below to DOWNLOAD  -  Once item is selected, right click and choose 'save as'</span>
+    </div>
+</div>
+
+<div class="row" style="margin-top: 5px;">
+    <div class="col-lg-6 col-md-6 col-sm-6 ">
+        <div class="row">
+            <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right"><u>Images</u></label>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"></div>
+        </div>
+                <div class="row">
+                    <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">Original  tif Version</label>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <a href="/GetAsset/06fb82f2c28c45d79ecb173ab1f583b7/original.tif?">21.8 MB, 3971x2873</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">Compressed  jpg Version</label>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <a href="/GetAsset/06fb82f2c28c45d79ecb173ab1f583b7/compressed.jpg?">1.5 MB, 3971x2873</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">Large  jpg Version</label>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <a href="/GetAsset/06fb82f2c28c45d79ecb173ab1f583b7/proxyhires.jpg?">621.9 KB, 2000x1446</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">Medium  jpg Version</label>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <a href="/GetAsset/06fb82f2c28c45d79ecb173ab1f583b7/proxymdres.jpg?">157.7 KB, 1000x723</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">Small  jpg Version</label>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <a href="/GetAsset/06fb82f2c28c45d79ecb173ab1f583b7/proxylores.jpg?">40.5 KB, 500x361</a>
+                    </div>
+                </div>
+    </div>
+    <!-- some asset types do not want Thumbnails to show: Audio, HFC Cart, HFC Brochures -->
+    <!-- if (asset.PrimaryType != "audio") -->
+    <div class="col-lg-6 col-md-6 col-sm-6 ">
+            <div class="row">
+                <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right"><u>Thumbnails</u></label>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"></div>
+            </div>
+                    <div class="row">
+                        <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">XLarge  png</label>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <a href="/GetAsset/06fb82f2c28c45d79ecb173ab1f583b7/thumbxlarge.png?">25.3 KB, 200x144</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">Large  png</label>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <a href="/GetAsset/06fb82f2c28c45d79ecb173ab1f583b7/thumblarge.png?">12.6 KB, 135x97</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">Medium  png</label>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <a href="/GetAsset/06fb82f2c28c45d79ecb173ab1f583b7/thumbmedium.png?">7.6 KB, 100x72</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <label class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">Small  png</label>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <a href="/GetAsset/06fb82f2c28c45d79ecb173ab1f583b7/thumbsmall.png?">4.9 KB, 75x54</a>
+                        </div>
+                    </div>
+    </div>
+    <!-- change 508 statement 8.2020 - Note: Contact us at  NPGallery@nps.gov  to get 508 compliant versions of these .PDFs. -->
+</div>
+
+        <div class="row">
+            <div class="col-xs-12 col-sm-2 show_hide_parent"><a style="cursor:pointer">HIDE ASSET</a></div>
+
+            <div class="col-xs-12 col-sm-2 col-sm-offset-3">
+            </div>
+
+            <div class="col-xs-12 col-sm-2 col-sm-offset-3">
+                <a href="#" id="copyrightLink" onclick="copyrightModalDisplay('Permission must be secured from the individual copyright owners to reproduce any copyrighted materials contained within this website.');">Copyright</a>
+            </div>
+        </div>
+    </div>
+
+
+        <!-- getting error ? 6.2.2021 jgoodmann -->
+        
+<!-- Metadata (Middle) Section  -->
+
+<div class="show_hide_next"><a>ASSET METADATA</a></div>
+<div class="slidingDiv">
+
+                <!-- - change: 2.2023 hfc brochures -- 7.2021 LONG -- 6.2021 Museum -- 2.2020 Guidance -- 7.2019 MAWA  -->
+
+
+<style>
+    .text-left {
+        margin-bottom: 5px;
+    }
+</style>
+<div class="row">
+    <label class="col-md-3 col-sm-3 text-right">Asset ID:</label>
+    <div class="col-md-7 col-sm-7 text-left">
+        06fb82f2c28c45d79ecb173ab1f583b7
+    </div>
+</div>
+
+
+
+
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Title:</label>
+        <div class="col-md-7 col-sm-7 text-left">Old Muir homestead near Martinez [Alhambra Valley].</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">AltText:</label>
+        <div class="col-md-7 col-sm-7 text-left">
+            <span>Old Muir homestead near Martinez [Alhambra Valley].</span><br />
+        </div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Description:</label>
+        <div class="col-md-7 col-sm-7 text-left">Old Muir homestead near Martinez [Alhambra Valley].</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Image Details:</label>
+        <div class="col-md-7 col-sm-7 text-left">Negative Number: RL_01363</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Publisher:</label>
+        <div class="col-md-7 col-sm-7 text-left">U. S. National Park Service</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Comment:</label>
+        <div class="col-md-7 col-sm-7 text-left">Could not find image through Google search.</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Copyright:</label>
+        <div class="col-md-7 col-sm-7 text-left">Permission must be secured from the individual copyright owners to reproduce any copyrighted materials contained within this website.</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Constraints Information:</label>
+        <div class="col-md-7 col-sm-7 col-sm-7 text-left">Public domain</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Keywords:</label>
+        <div class="col-md-7 col-sm-7 col-sm-7 text-left text-capitalize">
+            <text>
+                    <a href="/SearchResults?pagesize=60&keyword=history" target="_blank">history </a>
+                        ,
+                    <a href="/SearchResults?pagesize=60&keyword=individuals" target="_blank">individuals </a>
+                        ,
+                    <a href="/SearchResults?pagesize=60&keyword=muir, john" target="_blank">muir, john </a>
+            </text>
+        </div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Controlled Keywords:</label>
+        <div class="col-md-7 col-sm-7 col-sm-7 text-left">
+                <a href="/SearchResults?pagesize=60&controlledkeyword=001.001-15" target="_blank">001.001-15</a>, (Yosemite Hierarchy Number)<br />
+                    ,
+                <a href="/SearchResults?pagesize=60&controlledkeyword=History-People-Individuals" target="_blank">History-People-Individuals</a>, (Yosemite Series Description)<br />
+        </div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Resource Type:</label>
+        <div class="col-md-7 col-sm-7 col-sm-7 text-left">Image</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">NPS Units:</label>
+        <div class="col-md-7 col-sm-7 text-left">
+                Yosemite National Park, Code: YOSE<br />
+        </div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3  text-right">Locations:</label>
+        <div class="col-md-7 col-sm-7 text-left">
+                Yosemite National Park, California<br />Latitude: 37.8399200439453, Longitude: -119.540397644043<br /><br />
+        </div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Related Collections:</label>
+        <div class="col-md-7 col-sm-7 text-left">
+               <a href="/SearchResults?pagesize=60&collection=1031 Yosemite Historic Photo Collection" target="_blank">1031 Yosemite Historic Photo Collection</a><br />
+        </div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Create Date:</label>
+        <div class="col-md-7 col-sm-7 text-left">Undated</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Source Information Description:</label>
+        <div class="col-md-7 col-sm-7 text-left">Film Size: 5 x 7</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Source Location:</label>
+        <div class="col-md-7 col-sm-7 text-left">YOSE: Box 2</div>
+    </div>
+
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Access Constraints:</label>
+        <div class="col-md-7 col-sm-7 text-left">
+                    Public Can View
+                <br />
+        </div>
+    </div>
+        <div class="row">
+            <label class="col-md-3 col-sm-3 text-right">Photographer:</label>
+            <div class="col-md-7 col-sm-7 text-left">
+                <text>Unknown <i></i></text>
+            </div>
+        </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Contacts:</label>
+        <div class="col-md-7 col-sm-7 text-left">
+                Person: Archivist<br />Organization: US National Park Service<br />Address: Yosemite National Park Archives, PO Box 700-W, El Portal, CA 95318<br />Email: yose_archives@nps.gov<br /><br />
+        </div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Time Submitted:</label>
+        <div class="col-md-7 col-sm-7 text-left">Tuesday, August 14, 2018 9:29:22 AM</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Last Edited:</label>
+        <div class="col-md-7 col-sm-7 text-left">Tuesday, August 14, 2018 9:29:22 AM</div>
+    </div>
+<div class="row">
+    <label class="col-md-3 col-sm-3 text-right">Original File Name:</label>
+    <div class="col-md-7 col-sm-7 text-left">RL_01363.tif</div>
+</div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Resource Format:</label>
+        <div class="col-md-7 col-sm-7 text-left">tif</div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">File Size (bytes):</label>
+        <div class="col-md-7 col-sm-7 text-left">22.8 MB</div>
+    </div>
+        <div class="row">
+            <label class="col-md-3 col-sm-3 text-right">Series Description:</label>
+            <div class="col-md-7 col-sm-7 text-left">
+                <text>1031 Yosemite Historic Photo Collection</text>
+            </div>
+        </div>
+        <div class="row">
+            <label class="col-md-3 col-sm-3 text-right">Extended Description:</label>
+            <div class="col-md-7 col-sm-7 text-left">
+                <text>1031 Yosemite Historic Photo Collection</text>
+            </div>
+        </div>
+        <div class="row">
+            <label class="col-md-3 col-sm-3 text-right">Contribution:</label>
+            <div class="col-md-7 col-sm-7 text-left">
+                <text>The digitizing of the historic photo collection was made possible through a grant from the Yosemite Conservancy</text>
+            </div>
+        </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Rating:</label>
+        <div class="br-wrapper br-theme-css-stars">
+            <div class="col-md-7 col-sm-7 text-left">
+                <div class="br-widget">
+                            <a class="br-selected" href="#"></a>
+                            <a href="#"></a>
+                            <a href="#"></a>
+                            <a href="#"></a>
+                            <a href="#"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Categories:</label>
+        <div class="col-md-7 col-sm-7 text-left">
+
+                Museum
+        </div>
+    </div>
+      <div class="row">
+        <label class="col-md-3 col-sm-3 text-right">Related Portals:</label>
+        <div class="col-md-7 col-sm-7 text-left">
+ 
+                   <a href="/YOSE" target="_blank">Yosemite National Park</a><br />
+        </div>
+      </div>
+
+    <div class="row">
+        <div class="col-xs-12 col-sm-2 show_hide_parent"><a style="cursor:pointer">HIDE METADATA</a></div>
+
+        <div class="col-xs-12 col-sm-2 col-sm-offset-3">
+        </div>
+
+        <div class="col-xs-12 col-sm-2 col-sm-offset-3">
+            <a href="#" id="copyrightLink" onclick="copyrightModalDisplay('Permission must be secured from the individual copyright owners to reproduce any copyrighted materials contained within this website.');">Copyright</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+<!-- Groups Section -->
+    <div class="show_hide_next"><a>RELATED DIGITAL ASSETS</a></div>
+    <div class="slidingDiv">
+
+        
+<!--  508 compliance  -->
+<style>
+    ul {
+        -webkit-padding-start: 0px;
+    }
+</style>
+
+<div>
+
+    <div style="display: inline-block; width: 100%;vertical-align:top;padding:0 0 0 0px;">
+            <a href="/AssetDetail/c64a3dc358ae4fe58d81791c1bddcb54?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/c64a3dc358ae4fe58d81791c1bddcb54//proxylores?" alt="Muir on horseback" title="Muir on horseback" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Muir on horseback">
+                        Muir on horseback
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/33b7986ae7814399a4e8a5342196da8d?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/33b7986ae7814399a4e8a5342196da8d//proxylores?" alt="Muir as a youth and Muir with a dog." title="Muir as a youth and Muir with a dog." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Muir as a youth and Muir with a dog.">
+                        Muir as a youth and Muir with a dog.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/b5dcb5dd92a0473bba564e610a6c907f?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/b5dcb5dd92a0473bba564e610a6c907f//proxylores?" alt="Muir and dog. [&quot;Keenie&quot; after Stickeen]" title="Muir and dog. [&quot;Keenie&quot; after Stickeen]" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Muir and dog. [&quot;Keenie&quot; after Stickeen]">
+                        Muir and dog. [&quot;Keenie&quot; after Stickeen]
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/3fccc0adbf23493d9c9689ea11af0e96?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/3fccc0adbf23493d9c9689ea11af0e96//proxylores?" alt="Muir painted by Herbert Collins from portrait by Dassonville, San Francisco. William Edward Dassonville or Maurer; copied March 1938." title="Muir painted by Herbert Collins from portrait by Dassonville, San Francisco. William Edward Dassonville or Maurer; copied March 1938." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Muir painted by Herbert Collins from portrait by Dassonville, San Francisco. William Edward Dassonville or Maurer; copied March 1938.">
+                        Muir painted by Herbert Collins from portrait by Dassonville, San Francisco. William Edward Dassonville or Maurer; copied March 1938.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/100aa52a8d504c9f837af3abf4a4dd9d?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/100aa52a8d504c9f837af3abf4a4dd9d//proxylores?" alt="Muir in Yosemite, age 70." title="Muir in Yosemite, age 70." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Muir in Yosemite, age 70.">
+                        Muir in Yosemite, age 70.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/3a76a3f4a6d14eeb850e73f605082e77?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/3a76a3f4a6d14eeb850e73f605082e77//proxylores?" alt="Portrait of Muir, Oil painting by Collins, Sr." title="Portrait of Muir, Oil painting by Collins, Sr." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Portrait of Muir, Oil painting by Collins, Sr.">
+                        Portrait of Muir, Oil painting by Collins, Sr.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/13e3619f70fe40d6aa92c26969c5bf45?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/13e3619f70fe40d6aa92c26969c5bf45//proxylores?" alt="John Muir." title="John Muir." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Muir.">
+                        John Muir.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/6efb7e64fc7c474fa6a3e446177bc9ca?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/6efb7e64fc7c474fa6a3e446177bc9ca//proxylores?" alt="Muir by Yellow Pine." title="Muir by Yellow Pine." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Muir by Yellow Pine.">
+                        Muir by Yellow Pine.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/83a7c93f7c34405baf21a52757f6f42c?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/83a7c93f7c34405baf21a52757f6f42c//proxylores?" alt="John Muir." title="John Muir." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Muir.">
+                        John Muir.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/129851e0e1314faaaed71068a4280909?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/129851e0e1314faaaed71068a4280909//proxylores?" alt="John Muir. First copied by Ralph H. Anderson, February 3 1943 then again by Michael Dixon, December 1984.  copied February 3, 1943" title="John Muir. First copied by Ralph H. Anderson, February 3 1943 then again by Michael Dixon, December 1984.  copied February 3, 1943" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Muir. First copied by Ralph H. Anderson, February 3 1943 then again by Michael Dixon, December 1984.  copied February 3, 1943">
+                        John Muir. First copied by Ralph H. Anderson, February 3 1943 then again by Michael Dixon, December 1984.  copied February 3, 1943
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/ad0f8169b27f41ca81092f24a5b0288c?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/ad0f8169b27f41ca81092f24a5b0288c//proxylores?" alt="John Burroughs at Muir&#39;s grave." title="John Burroughs at Muir&#39;s grave." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Burroughs at Muir&#39;s grave.">
+                        John Burroughs at Muir&#39;s grave.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/0d3693d7c0b64512aaa15c3944ea10b8?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/0d3693d7c0b64512aaa15c3944ea10b8//proxylores?" alt="John Burroughs [right] and Charles Keeler [left] at Muir&#39;s grave. At Alhambra [Valley]." title="John Burroughs [right] and Charles Keeler [left] at Muir&#39;s grave. At Alhambra [Valley]." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Burroughs [right] and Charles Keeler [left] at Muir&#39;s grave. At Alhambra [Valley].">
+                        John Burroughs [right] and Charles Keeler [left] at Muir&#39;s grave. At Alhambra [Valley].
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/2c5e65ed6726471c97e6c194dacebb49?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/2c5e65ed6726471c97e6c194dacebb49//proxylores?" alt="A lesson on the trail from John Muir." title="A lesson on the trail from John Muir." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="A lesson on the trail from John Muir.">
+                        A lesson on the trail from John Muir.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/06d59c7002364d439676a79b4a40df14?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/06d59c7002364d439676a79b4a40df14//proxylores?" alt="Dedication of John Muir plaque on Yosemite Falls trail. L-R: Prof. Bade, Muir&#39;s Daughter [Wanda], Supt. Lewis." title="Dedication of John Muir plaque on Yosemite Falls trail. L-R: Prof. Bade, Muir&#39;s Daughter [Wanda], Supt. Lewis." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Dedication of John Muir plaque on Yosemite Falls trail. L-R: Prof. Bade, Muir&#39;s Daughter [Wanda], Supt. Lewis.">
+                        Dedication of John Muir plaque on Yosemite Falls trail. L-R: Prof. Bade, Muir&#39;s Daughter [Wanda], Supt. Lewis.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/6abdac9b0f554499a09cdabba8ba7c82?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/6abdac9b0f554499a09cdabba8ba7c82//proxylores?" alt="Dunbar Castle, Scotland, was the ancient seat of the Earls of Dunbar, later of the Stuart family. Mary Queen of Scots lived in the castle with her first husband, Lord Darnley, and later with the Earl of Bothwell." title="Dunbar Castle, Scotland, was the ancient seat of the Earls of Dunbar, later of the Stuart family. Mary Queen of Scots lived in the castle with her first husband, Lord Darnley, and later with the Earl of Bothwell." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Dunbar Castle, Scotland, was the ancient seat of the Earls of Dunbar, later of the Stuart family. Mary Queen of Scots lived in the castle with her first husband, Lord Darnley, and later with the Earl of Bothwell.">
+                        Dunbar Castle, Scotland, was the ancient seat of the Earls of Dunbar, later of the Stuart family. Mary Queen of Scots lived in the castle with her first husband, Lord Darnley, and later with the Earl of Bothwell.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/3713468d99984dc6a8279bc03ec9c87c?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/3713468d99984dc6a8279bc03ec9c87c//proxylores?" alt="Dunbar, Scotland. John Muir&#39;s birthplace." title="Dunbar, Scotland. John Muir&#39;s birthplace." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Dunbar, Scotland. John Muir&#39;s birthplace.">
+                        Dunbar, Scotland. John Muir&#39;s birthplace.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/00c1517099824b8fb700d204732366cc?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/00c1517099824b8fb700d204732366cc//proxylores?" alt="John Muir Bust by Pietro. In Biology Bldg. U. of Wisconsin" title="John Muir Bust by Pietro. In Biology Bldg. U. of Wisconsin" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Muir Bust by Pietro. In Biology Bldg. U. of Wisconsin">
+                        John Muir Bust by Pietro. In Biology Bldg. U. of Wisconsin
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/1985f676912a4c198bb198ccb965d553?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/1985f676912a4c198bb198ccb965d553//proxylores?" alt="Plaque at supposed site of Muir&#39;s cabin" title="Plaque at supposed site of Muir&#39;s cabin" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Plaque at supposed site of Muir&#39;s cabin">
+                        Plaque at supposed site of Muir&#39;s cabin
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/b22995288ca54669ac1275a4e9c23b69?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/b22995288ca54669ac1275a4e9c23b69//proxylores?" alt="John Muir Plaque." title="John Muir Plaque." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Muir Plaque.">
+                        John Muir Plaque.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/161c5230636b4f6e956a3a57a9c41e77?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/161c5230636b4f6e956a3a57a9c41e77//proxylores?" alt="Muir&#39;s signature in Grand Register" title="Muir&#39;s signature in Grand Register" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Muir&#39;s signature in Grand Register">
+                        Muir&#39;s signature in Grand Register
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/5deed0209c5a4035a8ba5f969ec7e696?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/5deed0209c5a4035a8ba5f969ec7e696//proxylores?" alt="After a painting by Herbert A. Collins 1936 displayed in the History Room of the Yosemite Museum" title="After a painting by Herbert A. Collins 1936 displayed in the History Room of the Yosemite Museum" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="After a painting by Herbert A. Collins 1936 displayed in the History Room of the Yosemite Museum">
+                        After a painting by Herbert A. Collins 1936 displayed in the History Room of the Yosemite Museum
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/ceb2c14033c84a4e96ef2e57376a8cd7?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/ceb2c14033c84a4e96ef2e57376a8cd7//proxylores?" alt="Sketch.  [AL]" title="Sketch.  [AL]" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Sketch.  [AL]">
+                        Sketch.  [AL]
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/964d120d3afa4287bb7de1ba1e90b2f8?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/964d120d3afa4287bb7de1ba1e90b2f8//proxylores?" alt="John Muir." title="John Muir." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Muir.">
+                        John Muir.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/a6c0080aa827482baf5dfd72adbab630?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/a6c0080aa827482baf5dfd72adbab630//proxylores?" alt="Lorne Hotel, formerly a residence where John Muir was born in Dunbar, Scotland on April 21, 1838. This remained the Muir family home until 1849. Boyhood home - actually born in the building to the left." title="Lorne Hotel, formerly a residence where John Muir was born in Dunbar, Scotland on April 21, 1838. This remained the Muir family home until 1849. Boyhood home - actually born in the building to the left." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Lorne Hotel, formerly a residence where John Muir was born in Dunbar, Scotland on April 21, 1838. This remained the Muir family home until 1849. Boyhood home - actually born in the building to the left.">
+                        Lorne Hotel, formerly a residence where John Muir was born in Dunbar, Scotland on April 21, 1838. This remained the Muir family home until 1849. Boyhood home - actually born in the building to the left.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/cf4457008c0240809d17c8c06b27fb9d?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/cf4457008c0240809d17c8c06b27fb9d//proxylores?" alt="Copy of negative of Dassonville photo portrait. (Cat. #8748)" title="Copy of negative of Dassonville photo portrait. (Cat. #8748)" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Copy of negative of Dassonville photo portrait. (Cat. #8748)">
+                        Copy of negative of Dassonville photo portrait. (Cat. #8748)
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/f78ad9d36eda47c2b9972a14ba226f13?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/f78ad9d36eda47c2b9972a14ba226f13//proxylores?" alt="Copy of negative of Dassonville photo portrait. (Cat. #7323)" title="Copy of negative of Dassonville photo portrait. (Cat. #7323)" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Copy of negative of Dassonville photo portrait. (Cat. #7323)">
+                        Copy of negative of Dassonville photo portrait. (Cat. #7323)
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/52a810b0292b489cb1339e5a9d4f5821?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/52a810b0292b489cb1339e5a9d4f5821//proxylores?" alt="John Muir at the Big Arroyo Camp, Kern Canyon." title="John Muir at the Big Arroyo Camp, Kern Canyon." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Muir at the Big Arroyo Camp, Kern Canyon.">
+                        John Muir at the Big Arroyo Camp, Kern Canyon.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/3539853ba1664bbea4fe767092c59207?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/3539853ba1664bbea4fe767092c59207//proxylores?" alt="John Muir&#39;s &quot;Cosmic Calling Card&quot;. copied by Howard Weamer, copied March 26, 1974" title="John Muir&#39;s &quot;Cosmic Calling Card&quot;. copied by Howard Weamer, copied March 26, 1974" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Muir&#39;s &quot;Cosmic Calling Card&quot;. copied by Howard Weamer, copied March 26, 1974">
+                        John Muir&#39;s &quot;Cosmic Calling Card&quot;. copied by Howard Weamer, copied March 26, 1974
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/50c52c9209404f0cb5b30e6540e70c7b?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/50c52c9209404f0cb5b30e6540e70c7b//proxylores?" alt="This, now the Thomas Kearn&#39;s home, is the second home of the Muir family. It is about fifteen miles north of Portage, Wisconsin." title="This, now the Thomas Kearn&#39;s home, is the second home of the Muir family. It is about fifteen miles north of Portage, Wisconsin." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="This, now the Thomas Kearn&#39;s home, is the second home of the Muir family. It is about fifteen miles north of Portage, Wisconsin.">
+                        This, now the Thomas Kearn&#39;s home, is the second home of the Muir family. It is about fifteen miles north of Portage, Wisconsin.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/5c0efd915a7d452c9d878d81ac67acc6?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/5c0efd915a7d452c9d878d81ac67acc6//proxylores?" alt="The barn is original built by the elder Muir, John and his brothers. This barn has hewn log beams, fi... feet in length, taken from the adjoining woods. Copied June 1981." title="The barn is original built by the elder Muir, John and his brothers. This barn has hewn log beams, fi... feet in length, taken from the adjoining woods. Copied June 1981." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="The barn is original built by the elder Muir, John and his brothers. This barn has hewn log beams, fi... feet in length, taken from the adjoining woods. Copied June 1981.">
+                        The barn is original built by the elder Muir, John and his brothers. This barn has hewn log beams, fi... feet in length, taken from the adjoining woods. Copied June 1981.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/f44e924e885e4a06a8f51d8a6ee7e2e1?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/f44e924e885e4a06a8f51d8a6ee7e2e1//proxylores?" alt="John Muir at Lamon&#39;s funeral. From Fagersteen&#39;s stereograph #6924. Copied June 1981." title="John Muir at Lamon&#39;s funeral. From Fagersteen&#39;s stereograph #6924. Copied June 1981." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Muir at Lamon&#39;s funeral. From Fagersteen&#39;s stereograph #6924. Copied June 1981.">
+                        John Muir at Lamon&#39;s funeral. From Fagersteen&#39;s stereograph #6924. Copied June 1981.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/18b5923c46584bd38763ca899c110c29?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/18b5923c46584bd38763ca899c110c29//proxylores?" alt="YM #9132. Note - Muir&#39;s face is blurred in this image." title="YM #9132. Note - Muir&#39;s face is blurred in this image." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="YM #9132. Note - Muir&#39;s face is blurred in this image.">
+                        YM #9132. Note - Muir&#39;s face is blurred in this image.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/d7716ca8b82b4c42a9eaea8d2207b6b3?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/d7716ca8b82b4c42a9eaea8d2207b6b3//proxylores?" alt="Photo of John Muir and John Burroughs in Sequoia-Kings&#39; collection. copied by Michael Dixon. copied 1983." title="Photo of John Muir and John Burroughs in Sequoia-Kings&#39; collection. copied by Michael Dixon. copied 1983." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Photo of John Muir and John Burroughs in Sequoia-Kings&#39; collection. copied by Michael Dixon. copied 1983.">
+                        Photo of John Muir and John Burroughs in Sequoia-Kings&#39; collection. copied by Michael Dixon. copied 1983.
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/e174bcc28dec4d7099d3b15bbff5d7a5?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/e174bcc28dec4d7099d3b15bbff5d7a5//proxylores?" alt="YOSE RL_15417" title="YOSE RL_15417" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="YOSE RL_15417">
+                        YOSE RL_15417
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/726384be7f514f83b8d51337fbf46bbe?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/726384be7f514f83b8d51337fbf46bbe//proxylores?" alt="Positive and negative of YM-20,104 image. Negative #: RL-17,138 &amp; YM-20,104" title="Positive and negative of YM-20,104 image. Negative #: RL-17,138 &amp; YM-20,104" />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="Positive and negative of YM-20,104 image. Negative #: RL-17,138 &amp; YM-20,104">
+                        Positive and negative of YM-20,104 image. Negative #: RL-17,138 &amp; YM-20,104
+                    </p>
+                </div>
+            </a>
+            <a href="/AssetDetail/17d80c45594a407b85d12559e801b91d?" target="_blank">
+                <div style="vertical-align:top;display:inline-block;border:1px solid black;background-color:antiquewhite;padding:5px;margin:5px">
+                    <img style="vertical-align:top;" src="/GetAsset/17d80c45594a407b85d12559e801b91d//proxylores?" alt="John Muir in the Mariposa Grove. Glass plate negative, cracked. See also RL-17,138 (positive and negative of this same image)." title="John Muir in the Mariposa Grove. Glass plate negative, cracked. See also RL-17,138 (positive and negative of this same image)." />
+                    <p style="font-size:small" data-toggle="tooltip" data-placement="left" title="John Muir in the Mariposa Grove. Glass plate negative, cracked. See also RL-17,138 (positive and negative of this same image).">
+                        John Muir in the Mariposa Grove. Glass plate negative, cracked. See also RL-17,138 (positive and negative of this same image).
+                    </p>
+                </div>
+            </a>
+    </div>
+</div>
+
+
+        <div class="row">
+            <div class="col-xs-12 show_hide_parent"><a>HIDE RELATED ASSETS</a></div>
+        </div>
+    </div>
+</div>
+
+            <input type="hidden" name="filters" value="default" />
+        </div>
+
+        </div>
+
+
+
+<footer class="GlobalFooter">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <img style="max-width: 250px; width:100%" src="/Content/images/nps-footer-slogan.png" srcset="/Content/images/nps-footer-slogan.png 1x, /Content/images/nps-footer-slogan.png") 2x" alt="Experience Your America">
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-12 col-md-4 order-md-2">
+                <div class="GlobalFooter-nps-logo">
+                    <div class="GlobalFooter-nps-logo-text">
+                        <a href="//www.nps.gov">National Park Service</a>
+                        <a href="//www.doi.gov">U.S. Department of the Interior</a>
+                    </div>
+                    <div class="GlobalFooter-nps-logo-image">
+                        <a href="//www.nps.gov">
+                            <img src="/Content/images/logo.png" height="50" alt="National Park Service Logo" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-8 order-md-1">
+                <ul class="GlobalFooter-generalLinks">
+                    <li><a href="//www.nps.gov/aboutus/accessibility.htm">ACCESSIBILITY</a></li>
+                    <li><a href="//www.nps.gov/aboutus/privacy.htm">PRIVACY POLICY</a></li>
+                    <li><a href="//www.nps.gov/aboutus/foia/index.htm ">FOIA</a></li>
+                    <li><a href="//www.nps.gov/aboutus/notices.htm">NOTICES</a></li>
+                    <li><a href="//www.nps.gov/aboutus/disclaimer.htm">DISCLAIMER</a> </li>
+                </ul>
+                <ul class="GlobalFooter-generalLinks">
+                    <li><a href="//www.nps.gov/aboutus/faqs.htm">FAQ</a></li>
+                    <li><a href="//www.doi.gov/pmb/eeo/no-fear-act">NO FEAR ACT</a></li>
+                    <li><a href="//www.nps.gov/aboutus/contactus.htm">CONTACT US</a></li>
+                    <li><a href="//www.usa.gov">USA.GOV</a></li>
+                </ul>
+
+                <ul class="GlobalFooter-socialLinks">
+                    <li><a href="//www.facebook.com/nationalparkservice" onclick="return confirm('You are leaving the National Park site, do you want to continue?')" target="_blank"> <i class="fa fa-facebook"></i> FACEBOOK</a></li>
+                    <li><a href="//www.youtube.com/nationalparkservice" onclick="return confirm('You are leaving the National Park site, do you want to continue?')" target="_blank"> <i class="fa fa-youtube"></i> YOUTUBE</a></li>
+                    <li><a href="//www.twitter.com/natlparkservice" onclick="return confirm('You are leaving the National Park site, do you want to continue?')" target="_blank"> <i class="fa fa-twitter"></i> TWITTER</a></li>
+                    <li><a href="//www.instagram.com/nationalparkservice/" onclick="return confirm('You are leaving the National Park site, do you want to continue?')" target="_blank"> <i class="fa fa-instagram"></i> INSTAGRAM</a></li>
+                    <li><a href="//www.flickr.com/photos/nationalparkservice" onclick="return confirm('You are leaving the National Park site, do you want to continue?')" target="_blank"> <i class="fa fa-flickr"></i> FLICKR</a></li>
+                    <li><a href="//itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtistLegacy?cc=us&amp;id=216751324" onclick="return confirm('You are leaving the National Park site, do you want to continue?')" target="_blank"> <i class="fa fa-apple"></i> ITUNES</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+        
+        <script type="text/javascript">
+            console.log("portal layout 1");
+            var view_name = 'AssetDetail';
+            var branding_name = 'MAIN';
+            var layout_options = {"MenuItemsLeft":[{"DisplayName":"Discover and Explore Digital Assets","Target":null,"Link":"/","AttributeName":"Search"},{"DisplayName":"NPS Users","Target":null,"Link":"https://npgallery.nps.gov/inside","AttributeName":"Inside"}],"MenuItemsRight":[{"DisplayName":"About","Target":null,"Link":"/About","AttributeName":"About"},{"DisplayName":"Contact","Target":null,"Link":"/Contact","AttributeName":"Contact"}],"HeroTitle":"NPGallery","HeroSubtitle":"Digital Asset Management System","HeroSubtitleRight":null,"HeroSubtitleRightLink":null,"BannerHeight":70,"BannerImage":null,"GoogleAnalyticsID":null};
+
+            window.name = "_NPGallery_Search";
+
+            //Google Analytics for portals only
+            if (branding_name !== 'MAIN' && layout_options.GoogleAnalyticsID !== null) {
+               ga('send', 'event', 'Branding', 'Portal', layout_options.GoogleAnalyticsID);
+            }
+        </script>
+
+        
+    </body>
+</html>
+
+
+

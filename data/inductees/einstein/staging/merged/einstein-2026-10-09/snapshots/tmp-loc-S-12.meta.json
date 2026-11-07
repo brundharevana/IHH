@@ -1,0 +1,10 @@
+{
+  "url": "https://blogs.loc.gov/folklife/2014/07/celebrating-pi/",
+  "fetch_url": "https://blogs.loc.gov/folklife/2014/07/celebrating-pi/",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:29:55Z",
+  "sha256": "fe37558a2c0162561cfa6d1a5da77f359a959d87e479b842c08c98f239fd2492",
+  "bytes": 15728,
+  "http_status": 200,
+  "final_url": "https://blogs.loc.gov/folklife/2014/07/celebrating-pi/"
+}

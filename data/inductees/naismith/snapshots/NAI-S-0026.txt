@@ -1,0 +1,167 @@
+_version_: 1799789575341604864
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045499/1939-11-28/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/
+batch[0]: ak_herring_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/alaska/
+composite_location[2]: 2/united states/alaska/juneau/
+composite_location[3]: 3/united states/alaska/juneau/juneau/
+contributor_names[0]: Alaska State Library Historical Collections
+contributors[0].alaska state library historical collections: https://www.loc.gov/search/?fa=contributor:alaska+state+library+historical+collections&fo=json&st=text
+created_published[0]: Juneau, Alaska, November 28, 1939
+date: 1939-11-28
+date_issued: 1939-11-28
+dates[0].1939-11-28: https://www.loc.gov/search/?dates=1939-11-28/1939-11-28&fo=json&st=text
+dates_of_publication: 1926-1964
+description[0]: Juneau, Alaska
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2024-05-22T13:00:07.613Z
+extract_urls[0]: file:/service/ndnp//ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/1939112801_1.xml#ndnp/ak
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/ak
+group[1]: alaska-state-library-historical-collections-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn83045499/1939-11-28/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_herring_ver01:data:sn83045499:00393342390:1939112801:0602/full/pct:6.25/0/default.jpg#h=417&w=327
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_herring_ver01:data:sn83045499:00393342390:1939112801:0602/full/pct:12.5/0/default.jpg#h=835&w=655
+index: 5
+item.batch[0]: ak_herring_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Alaska State Library Historical Collections
+item.created_published[0]: Juneau, Alaska, November 28, 1939
+item.date: 1926
+item.date_issued: 1939-11-28
+item.dates[0]: 1939-11-28
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045499
+item.location[0]: Juneau (Alaska)
+item.location[1]: Alaska--Juneau
+item.medium: 8 pages
+item.newspaper_title[0]: The daily Alaska empire
+item.notes[0]: Daily (except Saturday)
+item.notes[1]: Vol. 29, no. 4346 (Dec. 8, 1926)-v. 99, no. 219 (July 21, 1964).
+item.notes[2]: Supplements accompany some numbers.
+item.notes[3]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[4]: J bird was issued with the Daily Alaska empire from <1932-May 16, 1936>, with separate enumeration. It then resumed publishing on its own September 25, 1936.
+item.notes[5]: Juneau Alaska empire (DLC)sn 83045498 (OCoLC)9518440
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/1939112801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045499/marcxml
+item.place_of_publication: Juneau, Alaska
+item.raw_lccn: sn 83045499
+item.reel_numbers[0]: 00393342390
+item.source_group: ndnp/ak
+item.subjects[0]: Juneau (Alaska)--Newspapers
+item.subjects[1]: Alaska--Juneau
+item.subjects[2]: United States--Alaska--Juneau--Juneau
+item.title: The daily Alaska empire (Juneau, Alaska), November 28, 1939
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn83045499
+location[0]: juneau
+location[1]: united states
+location[2]: alaska
+location_city[0]: juneau
+location_country[0]: united states
+location_county[0]: juneau
+location_state[0]: alaska
+locations[0].alaska: https://www.loc.gov/search/?fa=location:alaska&fo=json&st=text
+locations[1].juneau: https://www.loc.gov/search/?fa=location:juneau&fo=json&st=text
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].juneau: https://www.loc.gov/search/?fa=location_city:juneau&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].juneau: https://www.loc.gov/search/?fa=location_county:juneau&fo=json&st=text
+locations_state[0].alaska: https://www.loc.gov/search/?fa=location_state:alaska&fo=json&st=text
+medium: 8 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The daily Alaska empire
+notes[0]: Daily (except Saturday)
+notes[1]: Vol. 29, no. 4346 (Dec. 8, 1926)-v. 99, no. 219 (July 21, 1964).
+notes[2]: Supplements accompany some numbers.
+notes[3]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[4]: J bird was issued with the Daily Alaska empire from <1932-May 16, 1936>, with separate enumeration. It then resumed publishing on its own September 25, 1936.
+notes[5]: Juneau Alaska empire (DLC)sn 83045498 (OCoLC)9518440
+number[0]: sn83045499
+number[1]: 1
+number[2]: 00393342390
+number_edition[0]: 1
+number_lccn[0]: sn83045499
+number_reel[0]: 00393342390
+numeric_shelf_id: 193911281
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/1939112801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045499/marcxml
+partof[0].count: 7737
+partof[0].title: the daily alaska empire (juneau, alaska) 1926-1964
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+daily+alaska+empire+%28juneau,+alaska%29+1926-1964&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the daily alaska empire (juneau, alaska) 1926-1964
+place_of_publication: Juneau, Alaska
+publication_frequency[0]: daily
+raw_lccn: sn 83045499
+reel_numbers[0]: 00393342390
+resources[0].files: 8
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_herring_ver01:data:sn83045499:00393342390:1939112801:0602/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.52867
+shard: 02
+shelf_id: sn83045499, 1939-11-28, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ak
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: united states
+subject[1]: juneau
+subject[2]: alaska
+subject[3]: newspapers
+subject[4]: juneau (alaska)
+subject_headings[0]: Juneau (Alaska)--Newspapers
+subject_headings[1]: Alaska--Juneau
+subject_headings[2]: United States--Alaska--Juneau--Juneau
+subjects[0].alaska: https://www.loc.gov/search/?fa=subject:alaska&fo=json&st=text
+subjects[1].juneau: https://www.loc.gov/search/?fa=subject:juneau&fo=json&st=text
+subjects[2].juneau (alaska): https://www.loc.gov/search/?fa=subject:juneau+%28alaska%29&fo=json&st=text
+subjects[3].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[4].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2024-05-22T21:24:51.902Z
+title: The daily Alaska empire (Juneau, Alaska), November 28, 1939
+type[0]: issue
+url: https://www.loc.gov/item/sn83045499/1939-11-28/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/0606.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_herring_ver01:data:sn83045499:00393342390:1939112801:0602/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/0606.pdf
+resources[0].segment_count: 8
+resources[0].url: https://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1939, November 28) The daily Alaska empire. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045499/1939-11-28/ed-1/.
+cite_this.chicago: The daily Alaska empire. (Juneau, AK), Nov. 28 1939. https://www.loc.gov/item/sn83045499/1939-11-28/ed-1/.
+cite_this.mla: The daily Alaska empire. (Juneau, AK) 28 Nov. 1939, p. 5. Retrieved from the Library of Congress, www.loc.gov/item/sn83045499/1939-11-28/ed-1/.

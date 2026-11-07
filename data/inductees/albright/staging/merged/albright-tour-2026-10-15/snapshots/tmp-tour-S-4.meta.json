@@ -1,0 +1,10 @@
+{
+  "url": "https://www.bushcenter.org/newsroom/statement-by-president-george-w-bush-on-secretary-madeleine-albright",
+  "fetch_url": "https://www.bushcenter.org/newsroom/statement-by-president-george-w-bush-on-secretary-madeleine-albright",
+  "method": "http",
+  "fetched_at": "2026-10-15T04:02:11Z",
+  "sha256": "a45b10d86772e9fb276692881458b74aeb427bdb1d477a9917c3b5b5bbfcbc24",
+  "bytes": 7835,
+  "http_status": 200,
+  "final_url": "https://www.bushcenter.org/newsroom/statement-by-president-george-w-bush-on-secretary-madeleine-albright"
+}

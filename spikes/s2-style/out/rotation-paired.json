@@ -1,0 +1,74 @@
+{
+ "toonHullRibbon": {
+  "bake0 at bake0 borders": {
+   "inkRatio": 0.619,
+   "dLratio": 0.54
+  },
+  "bake45 at bake0 borders (no border there)": {
+   "inkRatio": 0.606,
+   "dLratio": 0.835
+  },
+  "bake0 at bake45 borders (no border there)": {
+   "inkRatio": 1.245,
+   "dLratio": 0.79
+  },
+  "bake45 at bake45 borders": {
+   "inkRatio": 1.26,
+   "dLratio": 0.817
+  }
+ },
+ "toonSobelClamped": {
+  "bake0 at bake0 borders": {
+   "inkRatio": 0.903,
+   "dLratio": 1.285
+  },
+  "bake45 at bake0 borders (no border there)": {
+   "inkRatio": 0.912,
+   "dLratio": 0.898
+  },
+  "bake0 at bake45 borders (no border there)": {
+   "inkRatio": 1.076,
+   "dLratio": 1.038
+  },
+  "bake45 at bake45 borders": {
+   "inkRatio": 1.12,
+   "dLratio": 1.249
+  }
+ },
+ "toonSobelUnclamped": {
+  "bake0 at bake0 borders": {
+   "inkRatio": 0.919,
+   "dLratio": 1.025
+  },
+  "bake45 at bake0 borders (no border there)": {
+   "inkRatio": 0.911,
+   "dLratio": 0.897
+  },
+  "bake0 at bake45 borders (no border there)": {
+   "inkRatio": 1.076,
+   "dLratio": 1.037
+  },
+  "bake45 at bake45 borders": {
+   "inkRatio": 1.143,
+   "dLratio": 0.831
+  }
+ },
+ "toonNoOutline": {
+  "bake0 at bake0 borders": {
+   "inkRatio": 0.909,
+   "dLratio": 0.847
+  },
+  "bake45 at bake0 borders (no border there)": {
+   "inkRatio": 0.914,
+   "dLratio": 0.839
+  },
+  "bake0 at bake45 borders (no border there)": {
+   "inkRatio": 1.33,
+   "dLratio": 0.698
+  },
+  "bake45 at bake45 borders": {
+   "inkRatio": 1.334,
+   "dLratio": 0.948
+  }
+ }
+}

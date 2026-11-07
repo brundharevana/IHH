@@ -1,0 +1,41 @@
+{
+  "_comment": "The hallway (/hall/): one easel per inductee in the King's Hall scan, numbered in this order. Positions in room metres (content/scans/kings-hall.json frame). Checked by tools/content_check.py --hall and against the scan geometry by site/src/test/scan-placements.test.js.",
+  "scan": "kings-hall",
+  "easels": [
+    {
+      "slug": "einstein",
+      "x": -4.8,
+      "z": -6.3,
+      "rotY": 0.0,
+      "group": "row"
+    },
+    {
+      "slug": "albright",
+      "x": -2.3,
+      "z": -6.3,
+      "rotY": 0.0,
+      "group": "row"
+    },
+    {
+      "slug": "lamarr",
+      "x": 0.3,
+      "z": -6.3,
+      "rotY": 0.0,
+      "group": "row"
+    },
+    {
+      "slug": "muir",
+      "x": 2.8,
+      "z": -6.3,
+      "rotY": 0.0,
+      "group": "row"
+    },
+    {
+      "slug": "naismith",
+      "x": 5.3,
+      "z": -6.3,
+      "rotY": 0.0,
+      "group": "row"
+    }
+  ]
+}

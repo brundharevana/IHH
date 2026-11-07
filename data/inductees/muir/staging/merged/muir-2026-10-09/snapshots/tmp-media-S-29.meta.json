@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:John_Muir_1964_Issue-5c.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:John_Muir_1964_Issue-5c.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:51Z",
+  "sha256": "19418cddd5641d543fd7ae6da2776fcec086a04b1121280e7792ff93b7b085d7",
+  "bytes": 767,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:John_Muir_1964_Issue-5c.jpg&format=json"
+}

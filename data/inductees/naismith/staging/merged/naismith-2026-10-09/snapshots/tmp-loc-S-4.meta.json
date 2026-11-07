@@ -1,0 +1,10 @@
+{
+  "url": "https://guides.loc.gov/chronicling-america-basketball",
+  "fetch_url": "https://guides.loc.gov/chronicling-america-basketball",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:18:05Z",
+  "sha256": "cc79698ee09c9165cfc7e7b43e4c326741c0508154f669652d12e8a5c3b2dcb2",
+  "bytes": 3807,
+  "http_status": 200,
+  "final_url": "https://guides.loc.gov/chronicling-america-basketball"
+}

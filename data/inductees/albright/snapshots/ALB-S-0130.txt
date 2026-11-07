@@ -1,0 +1,59 @@
+title: Secretary Madeleine K. Albright at the Truman Library, Independence, Missouri
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-0561
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Still Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3621
+physicalOccurrences[0].referenceUnits[0].email: stillpix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Photographic Materials
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Photographic Print
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Still Pictures
+dataControlGroup.groupId: RRAM–S
+dataControlGroup.groupCd: RRAM–S
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+localIdentifier: 59-PA-366-1
+productionDates[0].month: 3
+productionDates[0].year: 1999
+productionDates[0].logicalDate: 1999-03-01
+digitalObjects[0].objectFilename: 059-PA-366-1.tif
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/stillpix/059-pa/Batch0002/059-PA-366-1.tif
+digitalObjects[0].objectFileSize: 1234
+digitalObjects[0].objectId: 505632158
+digitalObjects[0].objectType: Image (TIFF)
+ancestors[0].inclusiveStartDate.year: 1763
+ancestors[0].inclusiveStartDate.logicalDate: 1763-01-01
+ancestors[0].distance: 3
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 59
+ancestors[0].inclusiveEndDate.year: 2002
+ancestors[0].inclusiveEndDate.logicalDate: 2002-12-31
+ancestors[0].title: General Records of the Department of State
+ancestors[0].naId: 388
+ancestors[1].inclusiveStartDate.year: 1997
+ancestors[1].inclusiveStartDate.logicalDate: 1997-01-01
+ancestors[1].distance: 2
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of State. Bureau of Public Affairs. Office of Press Relations. (1981 - )
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 1981
+ancestors[1].creators[0].establishDate.logicalDate: 1981-01-01
+ancestors[1].creators[0].naId: 18537978
+ancestors[1].inclusiveEndDate.year: 2001
+ancestors[1].inclusiveEndDate.logicalDate: 2001-12-31
+ancestors[1].title: Photographs Relating to Secretary Madeleine K. Albright
+ancestors[1].naId: 75495855
+ancestors[2].distance: 1
+ancestors[2].levelOfDescription: fileUnit
+ancestors[2].title: NATO Enlargement Ceremony
+ancestors[2].naId: 80626394
+naId: 505632157

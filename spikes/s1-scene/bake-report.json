@@ -1,0 +1,445 @@
+{
+ "gpu": {
+  "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)",
+  "version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+  "maxTexture": 16384,
+  "maxCube": 16384,
+  "drawingBuffer": [
+   4096,
+   2048
+  ]
+ },
+ "timings": {
+  "procedural": 13.4,
+  "propsNetwork": 214.7,
+  "cubeCold": 345.9,
+  "cubeWarm": 7.3,
+  "equirectCold": 42.6,
+  "equirectWarm": 0.6,
+  "readback": 77.2,
+  "bakeWarmTotal": 85.1,
+  "gateMs": 118.6,
+  "idPass": 90.9,
+  "total": 6148.7
+ },
+ "sizes": {
+  "q0.6": {
+   "webpKB": 269.5,
+   "jpegKB": 515.2,
+   "webpMs": 1851.5,
+   "jpegMs": 149.4
+  },
+  "q0.7": {
+   "webpKB": 305.5,
+   "jpegKB": 636.8,
+   "webpMs": 658.6,
+   "jpegMs": 44.7
+  },
+  "q0.8": {
+   "webpKB": 414.1,
+   "jpegKB": 830.4,
+   "webpMs": 521,
+   "jpegMs": 46.2
+  },
+  "q0.9": {
+   "webpKB": 793.3,
+   "jpegKB": 1284.5,
+   "webpMs": 639.4,
+   "jpegMs": 52.3
+  }
+ },
+ "previewWebpKB": 57.6,
+ "memory": {
+  "sceneTexturesMiB": 60,
+  "sceneTextureCount": 16,
+  "cubeRtMiB": 192,
+  "equirectDrawingBufferMiB": 32,
+  "viewerEquirectRGBA8MiB": 32,
+  "viewerEquirectWithMipsMiB": 42.7,
+  "previewRGBA8MiB": 2,
+  "rendererInfo": {
+   "geometries": 150,
+   "textures": 21
+  }
+ },
+ "gate": {
+  "pass": true,
+  "checks": [
+   {
+    "name": "red cube (east, +X) at expected direction",
+    "pass": true,
+    "measured": {
+     "pixels": 7570,
+     "errDeg": 0.16,
+     "yawDeg": 90,
+     "pitchDeg": -14.73
+    },
+    "expected": {
+     "yawDeg": 90,
+     "pitchDeg": -14.57
+    }
+   },
+   {
+    "name": "yellow ceiling lamp (up) at expected direction",
+    "pass": true,
+    "measured": {
+     "pixels": 6839,
+     "errDeg": 0.07,
+     "yawDeg": -129.75,
+     "pitchDeg": 54.68
+    },
+    "expected": {
+     "yawDeg": -129.81,
+     "pitchDeg": 54.62
+    }
+   },
+   {
+    "name": "N glyph on north wall reads un-mirrored, upright",
+    "pass": true,
+    "measured": {
+     "rNormal": 0.914,
+     "rMirrored": 0.663,
+     "rFlippedV": 0.73,
+     "diagonalContrast": 0.549,
+     "cellsA": 117,
+     "cellsB": 116
+    }
+   }
+  ]
+ },
+ "controls": {
+  "mirrorX": {
+   "gatePass": false,
+   "failedChecks": [
+    "red cube (east, +X) at expected direction",
+    "yellow ceiling lamp (up) at expected direction",
+    "N glyph on north wall reads un-mirrored, upright"
+   ],
+   "n": [
+    {
+     "pixels": 7570,
+     "errDeg": 150.69,
+     "yawDeg": -90,
+     "pitchDeg": -14.73
+    },
+    {
+     "pixels": 6839,
+     "errDeg": 52.79,
+     "yawDeg": 129.75,
+     "pitchDeg": 54.68
+    },
+    {
+     "rNormal": 0.731,
+     "rMirrored": 0.828,
+     "rFlippedV": 0.637,
+     "diagonalContrast": -0.213,
+     "cellsA": 117,
+     "cellsB": 116
+    }
+   ]
+  },
+  "flipY": {
+   "gatePass": false,
+   "failedChecks": [
+    "red cube (east, +X) at expected direction",
+    "yellow ceiling lamp (up) at expected direction",
+    "N glyph on north wall reads un-mirrored, upright"
+   ],
+   "n": [
+    {
+     "pixels": 7570,
+     "errDeg": 29.31,
+     "yawDeg": 90,
+     "pitchDeg": 14.73
+    },
+    {
+     "pixels": 6839,
+     "errDeg": 109.31,
+     "yawDeg": -129.75,
+     "pitchDeg": -54.68
+    },
+    {
+     "rNormal": 0.047,
+     "rMirrored": 0.1,
+     "rFlippedV": 0.047,
+     "diagonalContrast": -0.059,
+     "cellsA": 117,
+     "cellsB": 116
+    }
+   ]
+  },
+  "yawPlus90": {
+   "gatePass": false,
+   "failedChecks": [
+    "red cube (east, +X) at expected direction",
+    "yellow ceiling lamp (up) at expected direction",
+    "N glyph on north wall reads un-mirrored, upright"
+   ],
+   "n": [
+    {
+     "pixels": 7570,
+     "errDeg": 86.33,
+     "yawDeg": 0,
+     "pitchDeg": -14.73
+    },
+    {
+     "pixels": 6839,
+     "errDeg": 48.27,
+     "yawDeg": 140.25,
+     "pitchDeg": 54.68
+    },
+    {
+     "rNormal": -0.002,
+     "rMirrored": 0.104,
+     "rFlippedV": 0.016,
+     "diagonalContrast": -0.198,
+     "cellsA": 117,
+     "cellsB": 116
+    }
+   ]
+  }
+ },
+ "idPass": [
+  {
+   "id": "h-basket",
+   "expect": "basket-north",
+   "got": "basket-north",
+   "pass": true,
+   "yawDeg": 0,
+   "pitchDeg": 10.58,
+   "distanceM": 7.48,
+   "px": 2048,
+   "py": 904
+  },
+  {
+   "id": "h-chalkboard",
+   "expect": "chalkboard-standing",
+   "got": "chalkboard-standing",
+   "pass": true,
+   "yawDeg": 36.17,
+   "pitchDeg": -8.82,
+   "distanceM": 5.51,
+   "px": 2459,
+   "py": 1124
+  },
+  {
+   "id": "h-track",
+   "expect": "balcony",
+   "got": "balcony",
+   "pass": true,
+   "yawDeg": -118.61,
+   "pitchDeg": 25.74,
+   "distanceM": 6.95,
+   "px": 698,
+   "py": 731
+  },
+  {
+   "id": "h-windows",
+   "expect": "window-east",
+   "got": "window-east",
+   "pass": true,
+   "yawDeg": 66.65,
+   "pitchDeg": 30.17,
+   "distanceM": 8.76,
+   "px": 2806,
+   "py": 681
+  }
+ ],
+ "props": {
+  "chalkboard-standing": {
+   "sizeRaw": [
+    0.92,
+    1.509,
+    0.759
+   ]
+  },
+  "basket-north": {
+   "sizeRaw": [
+    0.383,
+    0.117,
+    0.295
+   ]
+  }
+ },
+ "assets": [
+  {
+   "id": "standing_chalkboard_01",
+   "provider": "Poly Haven",
+   "licence": "CC0-1.0",
+   "pageUrl": "https://polyhaven.com/a/standing_chalkboard_01",
+   "resolution": "1k",
+   "declaredBytes": 2617256,
+   "role": "chalkboard-standing",
+   "fileUrls": [
+    "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/standing_chalkboard_01/standing_chalkboard_01_1k.gltf",
+    "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/standing_chalkboard_01/standing_chalkboard_01.bin",
+    "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_frame_nor_gl_1k.jpg",
+    "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_board_arm_1k.jpg",
+    "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_board_diff_1k.jpg",
+    "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_frame_arm_1k.jpg",
+    "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_board_nor_gl_1k.jpg",
+    "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_frame_diff_1k.jpg"
+   ],
+   "ms": 215
+  },
+  {
+   "id": "wicker_basket_01",
+   "provider": "Poly Haven",
+   "licence": "CC0-1.0",
+   "pageUrl": "https://polyhaven.com/a/wicker_basket_01",
+   "resolution": "1k",
+   "declaredBytes": 2730151,
+   "role": "basket-north",
+   "fileUrls": [
+    "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wicker_basket_01/wicker_basket_01_1k.gltf",
+    "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_arm_1k.jpg",
+    "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_nor_gl_1k.jpg",
+    "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_diff_1k.jpg",
+    "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wicker_basket_01/wicker_basket_01.bin"
+   ],
+   "ms": 172
+  }
+ ],
+ "resources": [
+  [
+   "http://localhost:8701/s1-scene/bake.js",
+   21,
+   8
+  ],
+  [
+   "cdn.jsdelivr.net/npm/three@0.186.1/build/three.module.js",
+   0,
+   0
+  ],
+  [
+   "http://localhost:8701/s1-scene/room.js",
+   0,
+   5
+  ],
+  [
+   "cdn.jsdelivr.net/npm/three@0.186.1/build/three.core.js",
+   0,
+   0
+  ],
+  [
+   "cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/loaders/GLTFLoader.js",
+   0,
+   0
+  ],
+  [
+   "cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/environments/RoomEnvironment.js",
+   0,
+   0
+  ],
+  [
+   "cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/utils/BufferGeometryUtils.js",
+   0,
+   0
+  ],
+  [
+   "cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/utils/SkeletonUtils.js",
+   0,
+   0
+  ],
+  [
+   "api.polyhaven.com/files/standing_chalkboard_01",
+   0,
+   59
+  ],
+  [
+   "api.polyhaven.com/files/wicker_basket_01",
+   0,
+   62
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/gltf/1k/standing_chalkboard_01/standing_chalkboard_01_1k.gltf",
+   0,
+   35
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wicker_basket_01/wicker_basket_01_1k.gltf",
+   0,
+   24
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wicker_basket_01/wicker_basket_01.bin",
+   0,
+   44
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_diff_1k.jpg",
+   0,
+   57
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_arm_1k.jpg",
+   0,
+   2
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_01/wicker_basket_01_nor_gl_1k.jpg",
+   0,
+   45
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/gltf/4k/standing_chalkboard_01/standing_chalkboard_01.bin",
+   0,
+   48
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_frame_diff_1k.jpg",
+   0,
+   65
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_frame_arm_1k.jpg",
+   0,
+   88
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_frame_nor_gl_1k.jpg",
+   0,
+   91
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_board_diff_1k.jpg",
+   0,
+   91
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_board_arm_1k.jpg",
+   0,
+   93
+  ],
+  [
+   "dl.polyhaven.org/file/ph-assets/Models/jpg/1k/standing_chalkboard_01/standing_chalkboard_01_board_nor_gl_1k.jpg",
+   0,
+   92
+  ],
+  [
+   "http://127.0.0.1:8791/save?dest=pano&name=room-4096.webp",
+   0,
+   8
+  ],
+  [
+   "http://127.0.0.1:8791/save?dest=docs&name=s1-room-equirect.webp",
+   0,
+   8
+  ],
+  [
+   "http://127.0.0.1:8791/save?dest=docs&name=s1-handedness-gate.webp",
+   0,
+   4
+  ],
+  [
+   "http://127.0.0.1:8791/save?dest=pano&name=room-1024.webp",
+   0,
+   3
+  ],
+  [
+   "http://127.0.0.1:8791/save?dest=root&name=scene.json",
+   0,
+   2
+  ]
+ ]
+}

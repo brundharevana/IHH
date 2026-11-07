@@ -1,0 +1,10 @@
+{
+  "url": "https://archive.org/details/McGillLibrary-rbsc_calendar-mcgill-college_1887-88_octavo13936-20799",
+  "fetch_url": "https://archive.org/details/McGillLibrary-rbsc_calendar-mcgill-college_1887-88_octavo13936-20799",
+  "method": "http",
+  "fetched_at": "2026-10-30T18:58:58Z",
+  "sha256": "b5bab756f6235cfea4e958b04b3b62c80e5db048140e97c6a5bb1e4bdcfca3ef",
+  "bytes": 5307,
+  "http_status": 200,
+  "final_url": "https://archive.org/details/McGillLibrary-rbsc_calendar-mcgill-college_1887-88_octavo13936-20799"
+}

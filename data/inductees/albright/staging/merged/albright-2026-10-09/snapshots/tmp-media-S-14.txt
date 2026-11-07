@@ -1,0 +1,105 @@
+title: Secretary of State Madeleine Albright shakes hands with American family members
+scopeAndContentNote: The original finding aid described this photograph as:
+
+Base: Camp Bonifas, Panmunjom
+
+State: Demilitarized Zone
+
+Country: South Korea
+
+Scene Camera Operator: Unknown
+
+Release Status: Released to Public
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-0561
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Still Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3621
+physicalOccurrences[0].referenceUnits[0].email: stillpix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Magnetic Disk
+physicalOccurrences[0].copyStatus: Preservation
+physicalOccurrences[1].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[1].referenceUnits[0].city: College Park
+physicalOccurrences[1].referenceUnits[0].phone: 301-837-0561
+physicalOccurrences[1].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[1].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[1].referenceUnits[0].name: National Archives at College Park - Still Pictures
+physicalOccurrences[1].referenceUnits[0].state: MD
+physicalOccurrences[1].referenceUnits[0].fax: 301-837-3621
+physicalOccurrences[1].referenceUnits[0].email: stillpix@nara.gov
+physicalOccurrences[1].mediaOccurrences[0].specificMediaType: Magnetic Disk: Hard Drive
+physicalOccurrences[1].copyStatus: Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Still Pictures
+dataControlGroup.groupId: RRAM–S
+dataControlGroup.groupCd: RRAM–S
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+localIdentifier: 330-CFD-DA-ST-98-04103.jpeg
+productionDates[0].month: 2
+productionDates[0].year: 1997
+productionDates[0].day: 22
+productionDates[0].logicalDate: 1997-02-22
+variantControlNumbers[0].number: DAST9804103
+variantControlNumbers[0].type: Agency-Assigned Identifier
+digitalObjects[0].objectFilename: DA-ST-98-04103.jpeg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialive/56/4967/6496756/content/arcmedia/stillpix/330-cfd/1998/DA-ST-98-04103.jpeg
+digitalObjects[0].objectFileSize: 1925958
+digitalObjects[0].objectId: 13339246
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].inclusiveStartDate.year: 1921
+ancestors[0].inclusiveStartDate.logicalDate: 1921-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 330
+ancestors[0].inclusiveEndDate.year: 2008
+ancestors[0].inclusiveEndDate.logicalDate: 2008-12-31
+ancestors[0].title: Records of the Office of the Secretary of Defense
+ancestors[0].naId: 643
+ancestors[1].inclusiveStartDate.year: 1982
+ancestors[1].inclusiveStartDate.logicalDate: 1982-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Predecessor
+ancestors[1].creators[0].heading: Department of Defense. Department of the Navy. Naval Imaging Command. (1988 - ca. 1993)
+ancestors[1].creators[0].abolishDate.year: 1993
+ancestors[1].creators[0].abolishDate.logicalDate: 1993-12-31
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 1988
+ancestors[1].creators[0].establishDate.logicalDate: 1988-01-01
+ancestors[1].creators[0].naId: 10466132
+ancestors[1].creators[1].creatorType: Predecessor
+ancestors[1].creators[1].heading: Department of Defense. Defense Audiovisual Agency. (06/21/1979 - 09/30/1985)
+ancestors[1].creators[1].abolishDate.month: 9
+ancestors[1].creators[1].abolishDate.year: 1985
+ancestors[1].creators[1].abolishDate.day: 30
+ancestors[1].creators[1].abolishDate.logicalDate: 1985-09-30
+ancestors[1].creators[1].authorityType: organization
+ancestors[1].creators[1].establishDate.month: 6
+ancestors[1].creators[1].establishDate.year: 1979
+ancestors[1].creators[1].establishDate.day: 21
+ancestors[1].creators[1].establishDate.logicalDate: 1979-06-21
+ancestors[1].creators[1].naId: 10447008
+ancestors[1].creators[2].creatorType: Most Recent
+ancestors[1].creators[2].heading: Department of Defense. Office of the Assistant Secretary of Defense (Public Affairs). American Forces Information Service. Defense Visual Information Center. (03/29/1996 - 10/26/2007)
+ancestors[1].creators[2].abolishDate.month: 10
+ancestors[1].creators[2].abolishDate.year: 2007
+ancestors[1].creators[2].abolishDate.day: 26
+ancestors[1].creators[2].abolishDate.logicalDate: 2007-10-26
+ancestors[1].creators[2].authorityType: organization
+ancestors[1].creators[2].establishDate.month: 3
+ancestors[1].creators[2].establishDate.year: 1996
+ancestors[1].creators[2].establishDate.day: 29
+ancestors[1].creators[2].establishDate.logicalDate: 1996-03-29
+ancestors[1].creators[2].naId: 10488372
+ancestors[1].inclusiveEndDate.year: 2007
+ancestors[1].inclusiveEndDate.logicalDate: 2007-12-31
+ancestors[1].title: Combined Military Service Digital Photographic Files
+ancestors[1].naId: 6274097
+naId: 6496756

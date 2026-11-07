@@ -1,0 +1,94 @@
+_version_: 1878069040705961984
+access_restricted: false
+aka[0]: wordpress:/news/?p=25715
+aka[1]: http://www.loc.gov/item/prn-15-109/madeleine-albright-and-colin-powell-announced-as-inaugural-speakers-for-daniel-k-inouye-distinguished-lecture-series/
+aka[2]: http://www.loc.gov/item/prn-15-109/
+aka[3]: http://www.loc.gov/item/prn-15-109/madeleine-albright-and-colin-powell-announced-as-inaugural-speakers-for-daniel-k-inouye-distinguished-lecture-series/2015-06-17/
+article: The Library of Congress today announced a distinguished lecture series in conjunction with the Daniel K. Inouye Institute, a program fund of the Hawaii Community Foundation, which was established in 2013 to honor the late U.S. Sen. Daniel Inouye. Highlighting the importance he placed on bipartisanship and moral courage, the first annual lecture, in a series of five, will address shared values in U.S. foreign policy. The speakers will be Madeleine Albright and Colin Powell, and the moderator will be Andrea Mitchell, chief foreign affairs correspondent with NBC News.
+
+The lecture, “Finding Shared Values for U.S. Foreign Policy,” will start at 6:30 p.m. on Wednesday, July 8, in the Coolidge Auditorium on the ground level of the Thomas Jefferson Building, 10 First St. S.E., Washington, D.C. Hosted by the John W. Kluge Center, the event is free and open to the public. Tickets are not needed.
+
+The inaugural lecture will be formatted as a conversation between the two former secretaries of state. It will explore how policymakers and elected officials from different political parties have historically found common ground and cooperation in the areas of foreign policy, diplomacy and international relations.
+
+The event will be live-tweeted via the Kluge Center’s and Inouye Institute’s twitter accounts: @KlugeCtr and @DKIInstitute External (#Inouye). The event also will be live-streamed on the University of Hawaii campus.
+
+The five-year series is made possible through a generous donation from the Inouye Institute. Each year the lecture will focus on one theme that reflects Sen. Inouye’s legacy of public service and civic engagement. Also, through an agreement between the institute and the Library, the senator’s congressional papers are to be made digitally accessible at both organizations.
+
+Inouye served as Hawaii’s first U.S. representative and then as U.S. senator for nearly half a century. A member of the Senate Watergate Committee and chairman of the Senate Iran-Contra Committee, he was a long-time member of the Senate Appropriations Committee, which he chaired from 2009 to 2012. Inouye died in 2012. A veteran of World War II, Inouye was awarded the Congressional Medal of Honor for his military service and was posthumously awarded the Presidential Medal of Freedom, becoming the first senator to receive both the Medal of Freedom and the Medal of Honor.
+
+The Daniel K. Inouye Institute was established in 2013 to preserve Inouye's papers and tell his life story; support STEM education, civics learning and international educational-cultural exchanges; and establish a repository of the Asian American/Pacific experience. For further information, visit www.danielkinouyeinstitute.org External.
+
+Through a generous endowment from John W. Kluge, the Library of Congress established the Kluge Center in 2000 to bring together the world’s best thinkers to stimulate and energize one another to distill wisdom from the Library’s rich resources and to interact with policymakers in Washington. For further information on the Kluge Center, visit www.loc.gov/kluge/.
+
+The Library of Congress, the nation’s oldest federal cultural institution and the largest library in the world, holds more than 160 million items in various languages, disciplines and formats. The Library serves the U.S. Congress and the nation both on-site in its reading rooms on Capitol Hill and through its award-winning website at www.loc.gov.
+contact_press: Donna Urschel (202) 707-1639
+contact_public: Jason Steinhauer (202) 707-0213
+date: 2015-06-17
+dates[0].2015-06-17: https://www.loc.gov/search/?dates=2015-06-17/2015-06-17&fo=json
+description[0]: Madeleine Albright and Colin Powell will inaugurate the Library's Daniel K. Inouye Distinguished Lecture Series on July 8.
+digitized: true
+display_offsite: true
+extract_timestamp: 2026-10-03T13:01:15.428Z
+extract_urls[0]: http://www.loc.gov/item/prn-15-109/madeleine-albright-and-colin-powell-announced-as-inaugural-speakers-for-daniel-k-inouye-distinguished-lecture-series/#news
+format[0].web page: https://www.loc.gov/search/?fa=original_format:web+page&fo=json
+group[0]: news
+group[1]: wordpress-news
+hassegments: false
+id: http://www.loc.gov/item/prn-15-109/
+index: 1
+item.article: The Library of Congress today announced a distinguished lecture series in conjunction with the Daniel K. Inouye Institute, a program fund of the Hawaii Community Foundation, which was established in 2013 to honor the late U.S. Sen. Daniel Inouye. Highlighting the importance he placed on bipartisanship and moral courage, the first annual lecture, in a series of five, will address shared values in U.S. foreign policy. The speakers will be Madeleine Albright and Colin Powell, and the moderator will be Andrea Mitchell, chief foreign affairs correspondent with NBC News.
+
+The lecture, “Finding Shared Values for U.S. Foreign Policy,” will start at 6:30 p.m. on Wednesday, July 8, in the Coolidge Auditorium on the ground level of the Thomas Jefferson Building, 10 First St. S.E., Washington, D.C. Hosted by the John W. Kluge Center, the event is free and open to the public. Tickets are not needed.
+
+The inaugural lecture will be formatted as a conversation between the two former secretaries of state. It will explore how policymakers and elected officials from different political parties have historically found common ground and cooperation in the areas of foreign policy, diplomacy and international relations.
+
+The event will be live-tweeted via the Kluge Center’s and Inouye Institute’s twitter accounts: @KlugeCtr and @DKIInstitute External (#Inouye). The event also will be live-streamed on the University of Hawaii campus.
+
+The five-year series is made possible through a generous donation from the Inouye Institute. Each year the lecture will focus on one theme that reflects Sen. Inouye’s legacy of public service and civic engagement. Also, through an agreement between the institute and the Library, the senator’s congressional papers are to be made digitally accessible at both organizations.
+
+Inouye served as Hawaii’s first U.S. representative and then as U.S. senator for nearly half a century. A member of the Senate Watergate Committee and chairman of the Senate Iran-Contra Committee, he was a long-time member of the Senate Appropriations Committee, which he chaired from 2009 to 2012. Inouye died in 2012. A veteran of World War II, Inouye was awarded the Congressional Medal of Honor for his military service and was posthumously awarded the Presidential Medal of Freedom, becoming the first senator to receive both the Medal of Freedom and the Medal of Honor.
+
+The Daniel K. Inouye Institute was established in 2013 to preserve Inouye's papers and tell his life story; support STEM education, civics learning and international educational-cultural exchanges; and establish a repository of the Asian American/Pacific experience. For further information, visit www.danielkinouyeinstitute.org External.
+
+Through a generous endowment from John W. Kluge, the Library of Congress established the Kluge Center in 2000 to bring together the world’s best thinkers to stimulate and energize one another to distill wisdom from the Library’s rich resources and to interact with policymakers in Washington. For further information on the Kluge Center, visit www.loc.gov/kluge/.
+
+The Library of Congress, the nation’s oldest federal cultural institution and the largest library in the world, holds more than 160 million items in various languages, disciplines and formats. The Library serves the U.S. Congress and the nation both on-site in its reading rooms on Capitol Hill and through its award-winning website at www.loc.gov.
+item.contact_press: Donna Urschel (202) 707-1639
+item.contact_public: Jason Steinhauer (202) 707-0213
+item.media_advisory: 0
+item.press_release_number: 15-109
+item.profile: news
+item.short_title: Albright and Powell in Inaugural Inouye Lecture
+item.sub_headline: Andrea Mitchell of NBC News to Moderate Evening Discussion July 8
+item.x_subject: government, politics, diplomacy, Daniel Inouye, public policy, Madeleine Albright, Colin Powell, Andrea Mitchell, Daniel K. Inouye Distinguished Lecture Series
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+location[0]: washington d.c.
+location[1]: united states
+locations[0].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[1].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+media_advisory: 0
+mime_type[0]: text/html
+online_format[0]: web page
+original_format[0]: web page
+partof[0].count: 5002
+partof[0].title: news from the library of congress
+partof[0].url: https://www.loc.gov/news/?fo=json
+press_release_number: 15-109
+profile: news
+score: 14.4754
+shard: 01
+shelf_id: 15-109
+short_title: Albright and Powell in Inaugural Inouye Lecture
+source_modified: 2000-01-01T12:00:00Z
+sub_headline: Andrea Mitchell of NBC News to Moderate Evening Discussion July 8
+subject[0]: events
+subjects[0].events: https://www.loc.gov/search/?fa=subject:events&fo=json
+timestamp: 2026-10-03T22:23:28.377Z
+title: Madeleine Albright and Colin Powell Announced as Inaugural Speakers for Daniel K. Inouye Distinguished Lecture Series
+type[0]: web page
+url: https://www.loc.gov/item/prn-15-109/madeleine-albright-and-colin-powell-announced-as-inaugural-speakers-for-daniel-k-inouye-distinguished-lecture-series/2015-06-17/
+x_subject: government, politics, diplomacy, Daniel Inouye, public policy, Madeleine Albright, Colin Powell, Andrea Mitchell, Daniel K. Inouye Distinguished Lecture Series
+cite_this.apa: (2015) Madeleine Albright and Colin Powell Announced as Inaugural Speakers for Daniel K. Inouye Distinguished Lecture Series. [Web Page] Retrieved from the Library of Congress, https://www.loc.gov/item/prn-15-109/madeleine-albright-and-colin-powell-announced-as-inaugural-speakers-for-daniel-k-inouye-distinguished-lecture-series/2015-06-17/.
+cite_this.chicago: Madeleine Albright and Colin Powell Announced as Inaugural Speakers for Daniel K. Inouye Distinguished Lecture Series. 2015. Web Page. https://www.loc.gov/item/prn-15-109/madeleine-albright-and-colin-powell-announced-as-inaugural-speakers-for-daniel-k-inouye-distinguished-lecture-series/2015-06-17/.
+cite_this.mla: Madeleine Albright and Colin Powell Announced as Inaugural Speakers for Daniel K. Inouye Distinguished Lecture Series. 2015. Web Page. Retrieved from the Library of Congress, <www.loc.gov/item/prn-15-109/madeleine-albright-and-colin-powell-announced-as-inaugural-speakers-for-daniel-k-inouye-distinguished-lecture-series/2015-06-17/>.

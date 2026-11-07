@@ -1,0 +1,10 @@
+{
+  "url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/ku",
+  "fetch_url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/ku",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:14:58Z",
+  "sha256": "3677529e6f0dbb331c8dd7ff34f85ccfa11d7aa254af4755ef6ea2abd361569b",
+  "bytes": 3268,
+  "http_status": 200,
+  "final_url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/collections/ku"
+}

@@ -1,0 +1,1043 @@
+US2292387A - Secret communication system - Google Patents
+
+US2292387A - Secret communication system - Google Patents
+Secret communication system Download PDF
+Info
+
+Publication number
+
+US2292387A
+US2292387A US397412A US39741241A US2292387A US 2292387 A US2292387 A US 2292387A US 397412 A US397412 A US 397412A US 39741241 A US39741241 A US 39741241A US 2292387 A US2292387 A US 2292387A
+Authority
+
+US
+
+United States
+
+Prior art keywords
+
+record
+
+strip
+
+transmitting
+
+torpedo
+
+frequency
+
+Prior art date
+
+1941-06-10
+
+Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+
+Expired - Lifetime
+
+Application number
+
+US397412A
+
+Inventor
+
+Markey Hedy Kiesler
+
+Antheil George
+
+Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+
+Individual
+
+Original Assignee
+
+Individual
+
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+
+1941-06-10
+
+Filing date
+
+1941-06-10
+
+Publication date
+
+1942-08-11
+
+1941-06-10 Application filed by Individual filed Critical Individual
+
+1941-06-10 Priority to US397412A priority Critical patent/US2292387A/en
+
+1942-08-11 Application granted granted Critical
+
+1942-08-11 Publication of US2292387A publication Critical patent/US2292387A/en
+
+1959-08-11 Anticipated expiration legal-status Critical
+
+Status Expired - Lifetime legal-status Critical Current
+
+Links
+
+USPTO
+
+USPTO PatentCenter
+
+USPTO Assignment
+
+Espacenet
+
+Global Dossier
+
+Discuss
+
+238000004891 communication Methods 0.000 title description 6
+
+230000001360 synchronised effect Effects 0.000 description 5
+
+238000010586 diagram Methods 0.000 description 4
+
+238000010276 construction Methods 0.000 description 3
+
+230000010355 oscillation Effects 0.000 description 3
+
+241000251729 Elasmobranchii Species 0.000 description 2
+
+230000006835 compression Effects 0.000 description 2
+
+238000007906 compression Methods 0.000 description 2
+
+239000004020 conductor Substances 0.000 description 2
+
+238000010304 firing Methods 0.000 description 2
+
+238000000034 method Methods 0.000 description 2
+
+230000007935 neutral effect Effects 0.000 description 2
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N water Substances O XLYOFNOQVPJJNP-UHFFFAOYSA-N 0.000 description 2
+
+241000125205 Anethum Species 0.000 description 1
+
+241001124536 Tetronarce nobiliana Species 0.000 description 1
+
+230000005540 biological transmission Effects 0.000 description 1
+
+230000000903 blocking effect Effects 0.000 description 1
+
+230000000994 depressogenic effect Effects 0.000 description 1
+
+230000000694 effects Effects 0.000 description 1
+
+230000000737 periodic effect Effects 0.000 description 1
+
+239000007787 solid Substances 0.000 description 1
+
+Images
+
+Classifications
+
+H—ELECTRICITY
+
+H04—ELECTRIC COMMUNICATION TECHNIQUE
+
+H04L—TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION
+
+H04L9/00—Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols
+
+H04L9/38—Encryption being effected by mechanical apparatus, e.g. rotating cams, switches, keytape punchers
+
+H—ELECTRICITY
+
+H04—ELECTRIC COMMUNICATION TECHNIQUE
+
+H04L—TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION
+
+H04L9/00—Cryptographic mechanisms or cryptographic arrangements for secret or secure communications; Network security protocols
+
+H04L9/12—Transmitting and receiving encryption devices synchronised or initially set up in a particular manner
+
+H—ELECTRICITY
+
+H04—ELECTRIC COMMUNICATION TECHNIQUE
+
+H04L—TRANSMISSION OF DIGITAL INFORMATION, e.g. TELEGRAPHIC COMMUNICATION
+
+H04L2209/00—Additional information or applications relating to cryptographic mechanisms or cryptographic arrangements for secret or secure communication H04L9/00
+
+H04L2209/80—Wireless
+
+Definitions
+
+This invention relates broadly to secret communication systems involving the use of carrier waves of different frequencies, and is especially useful in the remote control of dirigible craft, such as torpedoes.
+
+An object of the invention is to provide a method of secret communication which is relatively simple and reliable in operation, but at the same time is difiicult to discover or decipher.
+
+our system as adapted for radio control of a. remote craft, employs a pair of synchronous records, one at the transmitting station and one at the receiving station, which change the tuning of the transmitting and receiving apparatus from time to time, so that without knowledge of the records an enemy would be unable to determine at what frequency a controlling impulse would be sent.
+
+records of the type used for many years in player pianos and which consist, of long rolls of paper having perforations variously positioned in a. plurality of longitudinal rows along the records.
+
+a conventional player piano record there may be 88 rows of perforations, and in our system such a record would permit the use of 88 different carrier frequencies, from one to another of which both the transmitting and receiving station would be changed at intervals.
+
+records of the type described can be made of substantial length and may be driven slow or fast. This makes it possible for a. pair of records, one at the transmitting station and one at the receiving station, to run for a length of time ample for the remote control of a device such as a torpedo.
+
+the two records may be synchronized by driving them with accurately calibrated constantspeed spring motors, such as are employed for driving clocks and chronometers.
+
+synchronizing impulses for correcting the phase relation of rotary apparatus at a receiving station is Well-known and highly developed in the fields of automatic telegraphy and television.
+
+FIG. 1 is a schematic diagram of the apparatus at a transmitting station
+
+Fig. 2 is a schematic diagram of the apparatus at a receiving station
+
+Fig. 3 is a schematic diagram illustrating a starting circuit for starting the ,motors at the transmitting and receiving stations simultaneously;
+
+Fig. 4 is a plan view of a section of a record strip that may be employed
+
+Fig. 5 is a detail cross section through a record-responsive switching mechanism employed in the invention.
+
+Fig. 6 is a sectional view at right angles to the view of Fig. 5 and taken substantially in the plane VIVI of Fig. 5, but showing the record strip in a different longitudinal position;
+
+Fig. 7 is a diagram in plan illustrating how the course of a torpedo may be changed in accordance with the invention.
+
+a mother ship 10 which at the beginning of operations occupies the position la and at the end of the operations occupies the position lllb.
+
+This mother ship discharges a. torpedo II that travels successively along different paths l2, l3, I4, l5 and IE to strike an enemy ship II, which initially' occupies the position Ila but which has moved into the position llb at the time it is struck by the torpedo H.
+
+the enemy ship I! would have reached the position I10, but it changed its course following the firing of the torpedo, in an attempt to evade the torpedo.
+
+the torpedo II can be steered from the mother ship Illa and its course changed from time to time as necessary to cause it to strike its target.
+
+it may, under some circumstances, be observed directly from the mother ship 10, or its course may be followed by an observer in an airplane l8 who communicates his findings to the mother ship Illa.
+
+the enemy ship I I was traveling in a straight line substantially parallel to the mother ship ID at the time the torpedo was discharged, and the latter was directed forwardly at a substantial angle to compensate for the speed of the ship I! and for water currents represented by the small arrows I9.
+
+the torpedo if it continues on its original course, will miss the enemy ship. Hence it is steered by remote control to depart from the path 12 and follow the path B.
+
+further changes are necessary, and its course is successively changed from the path l3 to the path l4, to the path i5, and to the path ii, in order to strike the enemy ship llb.
+
+the remote control of the torpedo as described is old and broadly does not constitute a part of our invention. However, it has been very dimcult in the past to employ radio control of a torpedo, for the reason that the enemy could quickly discover the frequency of the control signals and block control of the torpedo by sending false signals of the same frequency.
+
+variable frequency radio transmitters and receivers for the remote control, and change the frequency at intervals by synchronous records at the two stations.
+
+the apparatus at the transmitting station includes as its main elements a variable-frequency carrier oscillator 20, a modulator 2
+
+! is controlled to oscillate at diiferent fre quencies by a plurality of tuning condensers 24a, 24b, 24c, 24d, 24c, 24!, and 24a, adapted to be independently connected to the oscillator by automatically controlled switches 3
+
+the different condensers 24a to 2417, inclusive, are of different capacities, and these differences are indicated in the drawings by different spacings between the plates.
+
+Two controls are provided in the system of Fig. 1, in the form of two keys L and R, respectively.
+
+Key L is employed to transmit a signal for applying left rudder to the distant torpedo
+
+the key R is employed to apply right rudder to the torpedo.
+
+Actuation of the key L closes main contacts 32, which connect the output of the oscillator 20 to the modulator 2
+
+the modulated carrier wave is then amplifled in the amplifier 22 and transmitted from the antenna 23.
+
+are selectively closed by a record-controlled mechanism actuated by a record strip 31, which is drawn off a supply roll 36 over a control head 39 and wound up on a takeup spool 40 driven by a constant-speed clock motor 4
+
+the record strip 31 has perforations arranged in eight diiferent longitudinally extending rows A, B, C, D, E, F, G, and H, respectively. Perforations in the rows A, B, C, D, E, F, and G control the seven switches 3
+
+the perforations in row H control an auxiliary switch 42 (Fig. 1), which lights a signal lamp 43 from a battery 44.
+
+the strip 31 is drawn over the control head responds to perforations in the different rows A to H, inclusive, on the strip, to close the various switches 3
+
+FIGs. 5 and 6 A typical construction that may be used in the control head 39 is shown in Figs. 5 and 6. Thus it may comprise a block or shoe 45 over which the record strip is drawn and which has a plurality of vertical passages 46, the orifices of which are juxtaposed to the different rows A to H, inclusive, of the strip. In Fig. 5 two of the passages 46 are shown juxtaposed to and in communication with apertures in the two rows C and G of the strip 31.
+
+Each of the passages 46 is communicated by a restricted passage 41 with a suction manifold 48, which is connected by a tube 49 to a suction pump 56.
+
+Each of the passages 46 is also connected by a tube 6
+
+Each piston 53 projects from the lower end of its associated cylinder 52 and overlies a movable spring 54 of one of the tuning switches 3
+
+the movable spring 54 is separated by a block of i"..- sulation 55 from the lower end of its associated piston 63.
+
+the pistons are normally maintained in upper position in which shoulders 66 thereon lie against the lower face of the cylinder block 51 containing the cylinders 62, under which conditions the contacts 3
+
+the pistons 53 are maintained in uppermost position, in which the switches 3
+
+suction is up plied from the manifold 48 through the restrict ed passage 41 to the cylinder 62, and lifts the piston 53 against the force of the spring 63a.
+
+the apparatus at the receiving station (which may be on the torpedo ll of Fig. 1), comprises a receiving antenna 6
+
+the condenser 24'd 39 as previously mentioned, and the control head is connected to the selector 6
+
+the signal When a signal received on the antenna 60 is of the same frequency to which the selector BI is tuned, the signal is amplified in an amplifier 64 and delivered to a detector 65. There will then appear in the output of the detector the modulation wave that was impressed upon the carrier at the transmitting station, and this modulation wave is applied to the input of a pair of filters I66 and 566, the first of which is tuned to lOO-cycles and the second to SOD-cycles.
+
+the output of the filter I66 is delivered through a rectifier I68 to a magnet I69, and the output of the filter 566 is delivered through a rectifier 568 to a magnet 569.
+
+the magnets I69 and 569 act on a common armature 12, which is normally positioned in a neutral position but moves in response to energization of magnet I69 to close on a contact I and moves in response to energizaticn of magnet 569 to close on a contact 510.
+
+a received signal was produced by actuation of the key L (Fig. 1) at the transmitting station, then it is modulated with a wave of 100- cycles, and the modulation wave will be passed by the filter I66 to energize the magnet I69 and close the armature 12 on the contact I10, thereby completing a circuit from a battery 14 through a solenoid I15.
+
+the solenoid thereupon attracts its plunger I16, causing a pawl I11, connected to the plunger, to be pulled into engagement with I18 on a rudder wheel 19 and one of the ratchet teeth.
+
+a spring I80 normally maintains the pawl I11 clear of the teeth I18,
+
+the rudder wheel 19 is secured to a rudder post 82 carrying a rudder 83, so that the rudder is moved a predetermined distance toward the left in response to a single actuation of the key L. at .the transmitting station.
+
+the key need be closed only momentarily, and as soon as it is released the magnet I69 and the solenoid I are released, whereupon the pawl I 11 and plunger I16 are retracted into neutral position by the spring I80.
+
+the carrier wave is modulated with the 500-cycle modulating wave, which is passed by the filter 566 at the receiving station, to energize the magnet 569.
+
+the latter are oppositely directed with respect to the ratchet teeth I18, so that the pawl 511 and the teeth 518 function to shift the rudder 83 to the right, instead of to the left.
+
+band 85 offers suflicient frictional resistance to movement of the rudder to retain it in the position to which it has been moved, but insufficient to prevent movement of the rudder by the pawls I11 and 511.
+
+the tuning condensers 24'd to 24'g, inclusive, at the receiving station are adapted to be con- The brake nected one at a time to the selector 6
+
+, whereby the latter are closed in response to differently positioned perforations in the record strip 31', are the same as those at the transmitting statlon, which were described with reference to Figs. 5 and 6.
+
+the holding mechanism at each station includes a pin I00 (Fig. 6) slidably mounted for vertical movement in the head 45 and adapted to engage a special starting hole IOI (Fig. 4) in its associated record strip.
+
+the pin I00 is normally urged into a lower position by a compression spring I02, as shown in Fig.
+
+the pin is adapted to be held in upper position in engagement with the hole IOI in the record strip, by a solenoid I03 having a plunger I04 which is connected to the pin I 00.
+
+the solenoid is shown energized in Fig. 6.
+
+both the solenoid I03 on the torpedo and the solenoid I03 in the transmitting'equip- .ment are connected in series with a battery I05 by a circuit including conductors I06 which extend between the torpedo and the transmitting station on the mother ship, thereby holding both the record strips in starting position.
+
+the conductors I06 are broken, thereby interrupting the series energizing circuit of the solenoids I03 and releasing both solenoids simultaneously to permit the strips at both stations to start in phase with each other.
+
+tuning condensers 24 there are seven tuning condensers 24 at the transmitting station, there are only four tuning condensers 24' at the receiving station.
+
+the extra three tuning condensers at the transmitting station provide three additional channels for the transmitter for which there are no corresponding channels at the receiver, to thereby permit the sending of false impulses to confuse the enemy.
+
+the receiving apparatus is efiective to receive on the channels D, E, F, and G, but is ineffective to receive on the channels A, B, and C. If the operator at the transmitting station sent a signal while the oscillator was operating on one of the channels A, B, or C, the signal would not be received on the torpedo. It its therefore desirable to provide an indicator to advice the operator at the transmitting station when the transmitting and receivingstations are both tuned tothe same fre- @IIUGHCY.
+
+Thelamp43, actuated by the auxiliary switch 42 constitutes such an indicator.
+
+Theswitchfl is closed to light'the lamp 43 whenever an aperture in row H (Fig. 4) ,of' the,
+
+the perforations corresponding to the false signals may be omitted from the record strip at the receiver.
+
+the record strip at the transmitting and the receiving stations can be identical in all respects, and any number of rows of perforations in the record strip at the receiving station can be rendered ineffective by blocking the passages 46 in the receiving head that correspond to the false channels.
+
+the control heads 39 and 39' at the transmitting and receiving stations, respectively can be identical but the contact springs 54 and 5! (Fig. 6) at the receiver can be left disconnected in those channels in which false signals are transmitted.
+
+a very important feature of our system is that only relatively few and relatively short signals need be transmitted. Thus it is necessary only to close one of the keys L or R momentarily to deflect the rudder 83 by one increment in either direction. The transmission of a very short impulse may not be discovered by the enemy at all. Even if the enemy should pick up one of the impulses transmitted, he would not know whether it was an effective signal or a false signal. Furthermore, it is quite possible to so arrange the records that the receiver is never twice tuned to the same frequency.
+
+a'transmittingstation including means for generating, and transmitting carrier waves of a'plura'lity of i I I frequencies, a first elongated record strip having I 1 differently characterized, longitudinally disposed record-actuatedmeans selec 1 tively responsive to different ones of said record'- I 1 ings for determining the frequency of said carrier
+
+I vl'raves mean for ord-actuated means whereby the carrier wave frequency is changed from time to time in ac cordance with the recordings on said strip
+
+a receiving station including carrier wave-receiving means having tuning means tunable to said carner wave frequencies
+
+a second record strip, record-actuated means selectively responsive to different recordings on'said second record strip for tumn said receiver to said predetermined carrier frequencies, and means for moving said second strip past its associated record-actuated means in synchronism with said first strip, whereby the record-actuated means at the transmitting station and at the receiving
+
+Apparatus as described in claim 1 in which said differently characterized recordings on said record strips are distinguished by being difierently laterally displaced from each other, and said record-actuated means are selectively reisponsive to the lateral positioning of said record- 3.
+
+apparatus at said control station comprising an oscillator and tuning means therefor, a first elongated record strip having differently characterized, longitudinally disposed recordings thereon, record-actuated means selectively responsive to different ones of said recordings for tuning said oscillator to predetermined different frequencies, means for moving said record strip past said record-actuated means whereby the frequency of oscillation is changed from time to time in accordance with the recordings on said strip, and means for selectively transmitting radio signals corresponding in frequency to the said frequency of oscillation; apparatus on said movable craft comprising a radio receiver having tuning means tunable to said predetermined frequencies, a second record strip, recordactuated means selectively responsive to different recordings on said second record strip for tuning said receiver to said predetermined frequencies, means for moving said second strip past its associated record-actuated means in synchronism with said first strip whereby the record-actuated means at the control station and On
+
+said mechanism on saidcraft for selectively determining its movement includes a control element movable by predetermined increments, and means responsive to successive received radio impulses for moving said element by one increment only in response to each separate impulse irrespective of the length of the impulse.
+
+Apparatus as described in claim 1 including means at the transmitting station for transmitting radio signals of different frequencies to which said radio receiver tunin means are not tunable, and means coordinated with the recordings on said first strip for indicating at the transmitting station when the transmitting apparatus is tuned to frequencies that are not receivable at the receiving station.
+
+Landscapes
+
+Engineering & Computer Science (AREA)
+
+Computer Security & Cryptography (AREA)
+
+Computer Networks & Wireless Communication (AREA)
+
+Signal Processing (AREA)
+
+Toys (AREA)
+
+Description
+
+H. K. MARKEY ETAL, 4 2,292,387
+
+SECRET COMMUNICATION SYSTEM Filed June 10, 1941 2 Sheets-Sheet 2 Patented Aug. 111, 1942 SECRET COMlVIUNICATION SYSTEM Hedy Kiesler Markey, Los Angeles, and George Anthcil, Manhattan Beach, Calif.
+
+Application June 10, 1941, Serial No. 397,412
+
+6 Claims.
+
+This invention relates broadly to secret communication systems involving the use of carrier waves of different frequencies, and is especially useful in the remote control of dirigible craft, such as torpedoes.
+
+An object of the invention is to provide a method of secret communication which is relatively simple and reliable in operation, but at the same time is difiicult to discover or decipher.
+
+Briefly, our system as adapted for radio control of a. remote craft, employs a pair of synchronous records, one at the transmitting station and one at the receiving station, which change the tuning of the transmitting and receiving apparatus from time to time, so that without knowledge of the records an enemy would be unable to determine at what frequency a controlling impulse would be sent. Furthermore, we contemplate employing records of the type used for many years in player pianos, and which consist, of long rolls of paper having perforations variously positioned in a. plurality of longitudinal rows along the records. In a conventional player piano record there may be 88 rows of perforations, and in our system such a record would permit the use of 88 different carrier frequencies, from one to another of which both the transmitting and receiving station would be changed at intervals. Furthermore, records of the type described can be made of substantial length and may be driven slow or fast. This makes it possible for a. pair of records, one at the transmitting station and one at the receiving station, to run for a length of time ample for the remote control of a device such as a torpedo.
+
+The two records may be synchronized by driving them with accurately calibrated constantspeed spring motors, such as are employed for driving clocks and chronometers. However, it is also within the scope of our invention to periodically correct the position of the record at the receiving station by transmitting synchronous impulses from the transmitting station. The use of synchronizing impulses for correcting the phase relation of rotary apparatus at a receiving station is Well-known and highly developed in the fields of automatic telegraphy and television.
+
+Other more specific objects and features of our invention will appear from the following detailed description of a particular embodiment thereof, as illustrated in the drawings, in which Fig. 1 is a schematic diagram of the apparatus at a transmitting station;
+
+Fig. 2 is a schematic diagram of the apparatus at a receiving station;
+
+Fig. 3 is a schematic diagram illustrating a starting circuit for starting the ,motors at the transmitting and receiving stations simultaneously;
+
+Fig. 4 is a plan view of a section of a record strip that may be employed;
+
+Fig. 5 is a detail cross section through a record-responsive switching mechanism employed in the invention;
+
+Fig. 6 is a sectional view at right angles to the view of Fig. 5 and taken substantially in the plane VIVI of Fig. 5, but showing the record strip in a different longitudinal position; and
+
+Fig. 7 is a diagram in plan illustrating how the course of a torpedo may be changed in accordance with the invention.
+
+Referring first to Fig. 7, there is disclosed a mother ship 10 which at the beginning of operations occupies the position la and at the end of the operations occupies the position lllb. This mother ship discharges a. torpedo II that travels successively along different paths l2, l3, I4, l5 and IE to strike an enemy ship II, which initially' occupies the position Ila but which has moved into the position llb at the time it is struck by the torpedo H. According to its original course, the enemy ship I! would have reached the position I10, but it changed its course following the firing of the torpedo, in an attempt to evade the torpedo.
+
+In accordance with the present invention, the torpedo II can be steered from the mother ship Illa and its course changed from time to time as necessary to cause it to strike its target. In directing the torpedo it may, under some circumstances, be observed directly from the mother ship 10, or its course may be followed by an observer in an airplane l8 who communicates his findings to the mother ship Illa. It is also possible to control the torpedo directly from the airplane IB if the latter is equipped with the necessary synchronous transmitting equipment in accordance with the invention.
+
+Under the particular circumstances'of Fig. 7, the enemy ship I I was traveling in a straight line substantially parallel to the mother ship ID at the time the torpedo was discharged, and the latter was directed forwardly at a substantial angle to compensate for the speed of the ship I! and for water currents represented by the small arrows I9. However, as a result of the change in course of the enemy ship Ila and the effect of the water currents, it is observed that the torpedo, if it continues on its original course, will miss the enemy ship. Hence it is steered by remote control to depart from the path 12 and follow the path B. At later times it is noted that further changes are necessary, and its course is successively changed from the path l3 to the path l4, to the path i5, and to the path ii, in order to strike the enemy ship llb.
+
+The remote control of the torpedo as described is old and broadly does not constitute a part of our invention. However, it has been very dimcult in the past to employ radio control of a torpedo, for the reason that the enemy could quickly discover the frequency of the control signals and block control of the torpedo by sending false signals of the same frequency.
+
+In accordance with our invention, we employ variable frequency radio transmitters and receivers for the remote control, and change the frequency at intervals by synchronous records at the two stations.
+
+Referring to Fig. 1, the apparatus at the transmitting station includes as its main elements a variable-frequency carrier oscillator 20, a modulator 2|, an amplifier 22, and an antenna 23. These elements are represented schematically since their exact construction does not constitute a part of the present invention. Suflice it to say that the variable-frequency. carrier oscillator 2|! is controlled to oscillate at diiferent fre quencies by a plurality of tuning condensers 24a, 24b, 24c, 24d, 24c, 24!, and 24a, adapted to be independently connected to the oscillator by automatically controlled switches 3|, one for each condenser. The different condensers 24a to 2417, inclusive, are of different capacities, and these differences are indicated in the drawings by different spacings between the plates.
+
+Two controls are provided in the system of Fig. 1, in the form of two keys L and R, respectively. Key L is employed to transmit a signal for applying left rudder to the distant torpedo, and the key R is employed to apply right rudder to the torpedo. Actuation of the key L closes main contacts 32, which connect the output of the oscillator 20 to the modulator 2|, and at the same time closes contacts 33, which connect a IOU-cycle oscillator 34 to the modulator II, which thereupon modulates the particular carrier wave being generated at that time by the oscillator 20. The modulated carrier wave is then amplifled in the amplifier 22 and transmitted from the antenna 23.
+
+If the operator desires to app y right rudder to the distant torpedo, he actuates the key R, which closes the main contacts 32 and also closes contacts 35, which connect a 500-cycle oscillator 36 to the modulator 2|.
+
+The switches 3| are selectively closed by a record-controlled mechanism actuated by a record strip 31, which is drawn off a supply roll 36 over a control head 39 and wound up on a takeup spool 40 driven by a constant-speed clock motor 4|.
+
+Referring now to Fig. 4, the record strip 31 has perforations arranged in eight diiferent longitudinally extending rows A, B, C, D, E, F, G, and H, respectively. Perforations in the rows A, B, C, D, E, F, and G control the seven switches 3| associated with the different tuning condensers 24a to 24g, inclusive. The perforations in row H control an auxiliary switch 42 (Fig. 1), which lights a signal lamp 43 from a battery 44.
+
+The strip 31 is drawn over the control head responds to perforations in the different rows A to H, inclusive, on the strip, to close the various switches 3| and the switch 42.
+
+A typical construction that may be used in the control head 39 is shown in Figs. 5 and 6. Thus it may comprise a block or shoe 45 over which the record strip is drawn and which has a plurality of vertical passages 46, the orifices of which are juxtaposed to the different rows A to H, inclusive, of the strip. In Fig. 5 two of the passages 46 are shown juxtaposed to and in communication with apertures in the two rows C and G of the strip 31.
+
+Each of the passages 46 is communicated by a restricted passage 41 with a suction manifold 48, which is connected by a tube 49 to a suction pump 56. Each of the passages 46 is also connected by a tube 6| to the upper end of an associated-cylinder 52 containing a piston 53. Each piston 53 projects from the lower end of its associated cylinder 52 and overlies a movable spring 54 of one of the tuning switches 3|. The movable spring 54 is separated by a block of i"..- sulation 55 from the lower end of its associated piston 63. The pistons are normally maintained in upper position in which shoulders 66 thereon lie against the lower face of the cylinder block 51 containing the cylinders 62, under which conditions the contacts 3| are open. However, under certain conditions to be described, the pistons 53 are urged downwardly, by compression springs 53a positioned thereabove, to carry the movable springs 64 against the cooperating contact springs 58 to close the switches 3|.
+
+The pistons 53 are maintained in uppermost position, in which the switches 3| are open, when a solid portion of the record strip 31 overlies the passages 46, but are depressed by the springs 53:: when apertures in the record strip move into registration with the passages 6. Thus so long as the upper end of a passage 46 is closed by the record strip 31, suction is up plied from the manifold 48 through the restrict ed passage 41 to the cylinder 62, and lifts the piston 53 against the force of the spring 63a. However, when a perforation in the record strip is in registration with a passage 46, air flows freely info the upper end of the passage and into the restricted passage 41, thereby breaking the suction applied to the upper end of the piston 53 and permitting the spring 63a to move the piston downwardly and close the associated switch 3|.
+
+It will be obvious that by so positioning the perforations in the different rows A, B, C, D, E, F, and G, that perforations in different rows are successively brought into registration with their associated passages 46 (Fig. 5), different ones of the switches 3| will be successively closed, to -connect different ones of the tuning con densers 24a to 249 (Fig. 1) inclusive, to the oscillator 26 and thereby change the frequency of the carrier wave. Furthermore the frequency changes can be purely arbitrary, without any periodic recurrence that would render it easy for an enemy to anticipate the frequency at any particular instant.
+
+Referring now to Fig. 2, the apparatus at the receiving station, (which may be on the torpedo ll of Fig. 1), comprises a receiving antenna 6| and a signal selector 6| that may be tuned to any one of four different frequencies by connecting thereto dill'erent condensers 24'd, 24's, 24'}, and 24's. When the condenser 24'd 39, as previously mentioned, and the control head is connected to the selector 6| and the condenser ratchet teeth advance the wheel clockwise by the length of 24d is connected to the oscillator 20, the transmitter and receiver are both tuned to the same frequency, and so on.
+
+When a signal received on the antenna 60 is of the same frequency to which the selector BI is tuned, the signal is amplified in an amplifier 64 and delivered to a detector 65. There will then appear in the output of the detector the modulation wave that was impressed upon the carrier at the transmitting station, and this modulation wave is applied to the input of a pair of filters I66 and 566, the first of which is tuned to lOO-cycles and the second to SOD-cycles. The output of the filter I66 is delivered through a rectifier I68 to a magnet I69, and the output of the filter 566 is delivered through a rectifier 568 to a magnet 569. The magnets I69 and 569 act on a common armature 12, which is normally positioned in a neutral position but moves in response to energization of magnet I69 to close on a contact I and moves in response to energizaticn of magnet 569 to close on a contact 510.
+
+If a received signal was produced by actuation of the key L (Fig. 1) at the transmitting station, then it is modulated with a wave of 100- cycles, and the modulation wave will be passed by the filter I66 to energize the magnet I69 and close the armature 12 on the contact I10, thereby completing a circuit from a battery 14 through a solenoid I15. The solenoid thereupon attracts its plunger I16, causing a pawl I11, connected to the plunger, to be pulled into engagement with I18 on a rudder wheel 19 and one of the ratchet teeth. A spring I80 normally maintains the pawl I11 clear of the teeth I18,
+
+and a stationary cam face I8I guides the pawl into engagement with the ratchet teeth as it is moved by the plunger I16.
+
+The rudder wheel 19 is secured to a rudder post 82 carrying a rudder 83, so that the rudder is moved a predetermined distance toward the left in response to a single actuation of the key L. at .the transmitting station. The key need be closed only momentarily, and as soon as it is released the magnet I69 and the solenoid I are released, whereupon the pawl I 11 and plunger I16 are retracted into neutral position by the spring I80.
+
+If the key R at the transmitting station is actuated, then the carrier wave is modulated with the 500-cycle modulating wave, which is passed by the filter 566 at the receiving station, to energize the magnet 569. This closes the armature 12 on the contact 510, to energize a solenoid 515, identical with the solenoid I15, and actuate a pawl 511 which engages with ratchet teeth 518. The latter are oppositely directed with respect to the ratchet teeth I18, so that the pawl 511 and the teeth 518 function to shift the rudder 83 to the right, instead of to the left.
+
+Some means must be providedto retain the rudder 83 in whatever position it has been moved by the pawl I11 or 511, and we have shown a brakedrum 84 frictionally engaged by a brakeband 85 and connected by a pinion 86 and a gear segment 81 to the rudder wheel 19. band 85 offers suflicient frictional resistance to movement of the rudder to retain it in the position to which it has been moved, but insufficient to prevent movement of the rudder by the pawls I11 and 511.
+
+The tuning condensers 24'd to 24'g, inclusive, at the receiving station are adapted to be con- The brake nected one at a time to the selector 6|, to tune it to difierent frequencies, by contacts 3I' similar to the contacts 3I at the transmitting station, and actuated in the same way under the control of a record strip 31', which may be identical with the record strip 31 at the transmitting station, and is pulled over a control head 39 by a clock motor M which runs at the same speed as the motor M at the transmitting station. The details of the control head 39' and the switches 3|, whereby the latter are closed in response to differently positioned perforations in the record strip 31', are the same as those at the transmitting statlon, which were described with reference to Figs. 5 and 6.
+
+It is of course necessary that the record strips 31 and 31' at the transmitting and receiving stations, respectively, be started at the same time and in proper phase relation with each other, so that corresponding perforations in the two record strips will move over their associated control heads at the same time. We therefore provide an apparatus for holding both record strips in a starting position until the torpedo is fired, and for then simultaneously releasing both strips so that they can be moved at the same speed by their associated motors M and M The holding mechanism at each station includes a pin I00 (Fig. 6) slidably mounted for vertical movement in the head 45 and adapted to engage a special starting hole IOI (Fig. 4) in its associated record strip. The pin I00 is normally urged into a lower position by a compression spring I02, as shown in Fig. 5, so that it is clear of the record strip and does not impede its movement. However, the pin is adapted to be held in upper position in engagement with the hole IOI in the record strip, by a solenoid I03 having a plunger I04 which is connected to the pin I 00. The solenoid is shown energized in Fig. 6.
+
+Referring now to Fig. 3, when a torpedo equipped with the apparatus disclosed in Fig. 2 is prepared for firing from the mother ship, on which the transmitting apparatus of Fig. 1 is mounted, both the solenoid I03 on the torpedo and the solenoid I03 in the transmitting'equip- .ment, are connected in series with a battery I05 by a circuit including conductors I06 which extend between the torpedo and the transmitting station on the mother ship, thereby holding both the record strips in starting position. When the torpedo is fired, the conductors I06 are broken, thereby interrupting the series energizing circuit of the solenoids I03 and releasing both solenoids simultaneously to permit the strips at both stations to start in phase with each other.
+
+It will be noted that whereas there are seven tuning condensers 24 at the transmitting station, there are only four tuning condensers 24' at the receiving station. The extra three tuning condensers at the transmitting station provide three additional channels for the transmitter for which there are no corresponding channels at the receiver, to thereby permit the sending of false impulses to confuse the enemy.
+
+In the particular system shown, the receiving apparatus is efiective to receive on the channels D, E, F, and G, but is ineffective to receive on the channels A, B, and C. If the operator at the transmitting station sent a signal while the oscillator was operating on one of the channels A, B, or C, the signal would not be received on the torpedo. It its therefore desirable to provide an indicator to advice the operator at the transmitting station when the transmitting and receivingstations are both tuned tothe same fre- @IIUGHCY. Thelamp43, actuated by the auxiliary switch 42 (Fig. '1) constitutes such an indicator.
+
+Theswitchfl is closed to light'the lamp 43 whenever an aperture in row H (Fig. 4) ,of' the,
+
+record strip moves overits associated passage 4 row of therecord strip are so arranged as to light'the lam'p43 whenever the operator should not send a control, signal- To this end, the perforations in the row Hon the record strip occur at the beginning and: end of: each perforation in I the rows D, Eli, and G, and extend between successive, spaced, perforationsin these rows (at V which times perforations occur in one or more of the rows, A, B, and C, which transmit false signals).
+
+The, mechanism arrangedas described, func- I 'tions to light the lamp 43v for a short time during each transitionfrom one to another of the useful lighted, that these impulses will not affectv the to pedo. I I I I It will be understood that many variations, from the construction shownv can be made without departing from the invention- Thus in order to simplify thedrawings a record strip having only eight :rows of perforations has been illustrated. However, as previously mentioned, similar record strips employed in player pianos now I I 'h'aveas many as :88rowsof perforations, and a similar number could be employed in the present system to provide a large number of useable channels, to which both the transmitting and receiving stations can be tuned, and also a large number of auxiliary channels at thetransmitter for sending false signals.
+
+If desired, the perforations corresponding to the false signals, may be omitted from the record strip at the receiver. However this is not necessary. The record strip at the transmitting and the receiving stations can be identical in all respects, and any number of rows of perforations in the record strip at the receiving station can be rendered ineffective by blocking the passages 46 in the receiving head that correspond to the false channels. It will also beobvious that the control heads 39 and 39' at the transmitting and receiving stations, respectively, can be identical but the contact springs 54 and 5! (Fig. 6) at the receiver can be left disconnected in those channels in which false signals are transmitted.
+
+A very important feature of our system is that only relatively few and relatively short signals need be transmitted. Thus it is necessary only to close one of the keys L or R momentarily to deflect the rudder 83 by one increment in either direction. The transmission of a very short impulse may not be discovered by the enemy at all. Even if the enemy should pick up one of the impulses transmitted, he would not know whether it was an effective signal or a false signal. Furthermore, it is quite possible to so arrange the records that the receiver is never twice tuned to the same frequency.
+
+' I in the control head as. I The perforations in -desc'rihing in detail its application to thecon trol of a'torpedoor other craft where it is necessary to steer in only one dimension, it will be I obvious to'those skilled in the artthat by using I a large number of modulation frequencies, ad- 'ditional functions canbe performed. Thus by 1 using four modulation waves having frequencies "of say lilo-cycles, 500-cycles, LOGO-cycles and I 2,000-cycles, respectively, and using appropriate filters at the receiving station, it is obvious that I two rudders can be controlled. This would be I recordings thereon,
+
+desirable when controlling aerial torpedoes or other types of craft in which control'in, a ver-,
+
+'tical' direction, as well as in a horizontal direction, is desirable. There'is noparticular limit to the numberof control channels that can'be 7 used with our invention.
+
+, I It is also to be understood that other methods of modulation than the conventional oneshown, '20,
+
+lation, Can be employedinour system. Theexpression carrier wave," as used in the claims, is'intended; to define the unmodulated wave when phase or frequency modulation is including frequency; modulation or phase moduemployed. 1 I
+
+I Various other'departures from the exact system described will be apparent tothoseskilled' in i the art, and the invention' is, therefore, to: be
+
+forth in the appended claims.
+
+limited only, as set We claim:
+
+, 1. In a secret communication system, a'transmittingstationincluding means for generating, and transmitting carrier waves of a'plura'lity of i I I frequencies, a first elongated record strip having I 1 differently characterized, longitudinally disposed record-actuatedmeans selec 1 tively responsive to different ones of said record'- I 1 ings for determining the frequency of said carrier Although the invention has been explained by I vl'raves, mean for ord-actuated means whereby the carrier wave frequency is changed from time to time in ac cordance with the recordings on said strip, a receiving station including carrier wave-receiving means having tuning means tunable to said carner wave frequencies, a second record strip, record-actuated means selectively responsive to different recordings on'said second record strip for tumn said receiver to said predetermined carrier frequencies, and means for moving said second strip past its associated record-actuated means in synchronism with said first strip, whereby the record-actuated means at the transmitting station and at the receiving station, respectively, are actuated in synchronism to maintain the receiver tuned to the carrier frequency of the transmitter.
+
+2. Apparatus as described in claim 1, in which said differently characterized recordings on said record strips are distinguished by being difierently laterally displaced from each other, and said record-actuated means are selectively reisponsive to the lateral positioning of said record- 3. Apparatus as described in claim 1, in which said record strip comprises a ribbon having longitudinally extending slots therein differently characterized by bein differently laterally positioned on said ribbon, and each said record-actuated means includes a plurality of movable elements each movable to tune its associated generating or receiving means to a different one of said frequencies, and means for selectively moving said elements in accordance with the lateral positioning of the slots in said ribbon.
+
+4. In a system of the type described, including a control station and a movable craft to be conmoving said strip "past' aid regtrolled thereby, apparatus at said control station comprising an oscillator and tuning means therefor, a first elongated record strip having differently characterized, longitudinally disposed recordings thereon, record-actuated means selectively responsive to different ones of said recordings for tuning said oscillator to predetermined different frequencies, means for moving said record strip past said record-actuated means whereby the frequency of oscillation is changed from time to time in accordance with the recordings on said strip, and means for selectively transmitting radio signals corresponding in frequency to the said frequency of oscillation; apparatus on said movable craft comprising a radio receiver having tuning means tunable to said predetermined frequencies, a second record strip, recordactuated means selectively responsive to different recordings on said second record strip for tuning said receiver to said predetermined frequencies, means for moving said second strip past its associated record-actuated means in synchronism with said first strip whereby the record-actuated means at the control station and On the movable craft, respectively, are actuated in synchronism to maintain said radio receiver tuned to the frequency of oscillation of the transmitter; mechanism on said craft for selectively determining its movement, and means responsive to radio signals received by said radio receiver for controlling said mechanism.
+
+5. Apparatus as described in claim 4, in which said mechanism on saidcraft for selectively determining its movement includes a control element movable by predetermined increments, and means responsive to successive received radio impulses for moving said element by one increment only in response to each separate impulse irrespective of the length of the impulse.
+
+6. Apparatus as described in claim 1, including means at the transmitting station for transmitting radio signals of different frequencies to which said radio receiver tunin means are not tunable, and means coordinated with the recordings on said first strip for indicating at the transmitting station when the transmitting apparatus is tuned to frequencies that are not receivable at the receiving station.
+
+HEDY KIESLER MARKEY. GEORGE ANTHEIL.
+
+US397412A 1941-06-10 1941-06-10 Secret communication system Expired - Lifetime US2292387A (en)
+
+Priority Applications (1)
+
+Application Number Priority Date Filing Date Title
+
+US397412A US2292387A (en) 1941-06-10 1941-06-10 Secret communication system
+
+Applications Claiming Priority (1)
+
+Application Number Priority Date Filing Date Title
+
+US397412A US2292387A (en) 1941-06-10 1941-06-10 Secret communication system
+
+Publications (1)
+
+Publication Number Publication Date
+
+US2292387A true US2292387A (en) 1942-08-11
+
+Family
+
+ID=23571097
+
+Family Applications (1)
+
+Application Number Title Priority Date Filing Date
+
+US397412A Expired - Lifetime US2292387A (en) 1941-06-10 1941-06-10 Secret communication system
+
+Country Status (1)
+
+Country Link
+
+US (1) US2292387A (en)
+
+Cited By (82)
+
+* Cited by examiner, † Cited by third party
+
+Publication number Priority date Publication date Assignee Title
+
+US2707208A (en) * 1945-03-31 1955-04-26 Rca Corp Secrecy facsimile system
+
+US2816720A (en) * 1950-10-11 1957-12-17 Northrop Aircraft Inc Incremental remote radio control system
+
+US2999170A (en) * 1956-05-29 1961-09-05 Gen Electric Co Ltd Receivers for use in electric signalling systems
+
+US5084901A (en) * 1988-12-26 1992-01-28 G.D.S. Co., Ltd. Sequential chirp modulation-type spread spectrum communication system
+
+USRE34004E (en) * 1953-03-30 1992-07-21 Itt Corporation Secure single sideband communication system using modulated noise subcarrier
+
+US6178144B1 (en) 1998-06-02 2001-01-23 Seagate Technology Llc Magneto-optical recording system employing linear recording and playback channels
+
+US6208594B1 (en) 1998-06-02 2001-03-27 Seagate Technology Llc Efficient linearization of saturation channels
+
+US6263268B1 (en) 1997-08-26 2001-07-17 Transcontech Corporation System and method for providing mobile automotive telemetry
+
+US6542443B1 (en) 1999-06-02 2003-04-01 Seagate Technology Llc Efficient linearization of saturation channels
+
+US6676017B1 (en) 2002-11-06 2004-01-13 Smith, Iii Emmitt J. Personal interface device and method
+
+US6687205B1 (en) 1998-06-09 2004-02-03 Seagate Technology Llc Parallel coded spread spectrum communication for data storage
+
+US20040215815A1 (en) * 2003-04-22 2004-10-28 Sony Corporation Data communication system, data communication apparatus and data communication method, connection establishment method and apparatus, connection establishment system, and computer program thereof
+
+US20050063328A1 (en) * 2003-05-02 2005-03-24 Microsoft Corporation Slotted seeded channel hopping for capacity improvement in wireless networks
+
+US20050083977A1 (en) * 2002-02-08 2005-04-21 Moulsley Timothy J. Radio communication system
+
+US20050091493A1 (en) * 1997-04-16 2005-04-28 Sony Corporation Remote control of VCR with electronic mail
+
+US20060074677A1 (en) * 2004-10-01 2006-04-06 At&T Corp. Method and apparatus for preventing speech comprehension by interactive voice response systems
+
+US20070100514A1 (en) * 2005-11-02 2007-05-03 Park Tai S Remote control of conveyance and appliance functions
+
+US20070171060A1 (en) * 2000-09-21 2007-07-26 Trent Douglas E Portable security container
+
+US20070208235A1 (en) * 1993-09-04 2007-09-06 Marcus Besson Wireless medical diagnosis and monitoring equipment
+
+US20070244614A1 (en) * 1997-08-26 2007-10-18 Paxgrid Telemetric Systems, Inc. Automotive telemetry protocol
+
+US20070297524A1 (en) * 2006-06-13 2007-12-27 Ben Jones Approach for spectrum analysis in a receiver
+
+US20080002831A1 (en) * 2001-05-30 2008-01-03 Palmsource, Inc. System and method for prioritizing and balancing simultaneous audio outputs in a handheld device
+
+US7386588B2 (en) 1998-05-29 2008-06-10 Research In Motion Limited System and method for pushing information from a host system to a mobile data communication device
+
+US20080186932A1 (en) * 2007-02-05 2008-08-07 Duy Khuong Do Approach For Mitigating The Effects Of Rogue Wireless Access Points
+
+US20090041096A1 (en) * 2007-08-02 2009-02-12 Bae Systems Information And Electronic Systems Integration Inc. Efficient synchronization of a spread spectrum signal in the presence of delay and frequency uncertainty
+
+US7498999B2 (en) 2004-11-22 2009-03-03 Ruckus Wireless, Inc. Circuit board having a peripheral antenna apparatus with selectable antenna elements and selectable phase shifting
+
+US7498996B2 (en) 2004-08-18 2009-03-03 Ruckus Wireless, Inc. Antennas with polarization diversity
+
+US7511680B2 (en) 2004-08-18 2009-03-31 Ruckus Wireless, Inc. Minimized antenna apparatus with selectable elements
+
+US7525486B2 (en) 2004-11-22 2009-04-28 Ruckus Wireless, Inc. Increased wireless coverage patterns
+
+WO2009057626A1 (en) 2007-10-29 2009-05-07 Tokyo Institute Of Technology Physical amount detection device
+
+US7561020B2 (en) 2005-06-27 2009-07-14 The Chamberlain Group, Inc. System and method for using operator as a repeater
+
+US7589615B2 (en) 2004-11-22 2009-09-15 The Chamberlain Group, Inc. Multi-frequency security code transmission and reception
+
+US7639106B2 (en) 2006-04-28 2009-12-29 Ruckus Wireless, Inc. PIN diode network for multiband RF coupling
+
+US7646343B2 (en) 2005-06-24 2010-01-12 Ruckus Wireless, Inc. Multiple-input multiple-output wireless antennas
+
+US7652632B2 (en) 2004-08-18 2010-01-26 Ruckus Wireless, Inc. Multiband omnidirectional planar antenna apparatus with selectable elements
+
+US20100087156A1 (en) * 2008-10-07 2010-04-08 The Chamberlain Group, Inc. Method and Apparatus to Facilitate Using Multiple Carrier Frequencies
+
+US7696946B2 (en) 2004-08-18 2010-04-13 Ruckus Wireless, Inc. Reducing stray capacitance in antenna element switching
+
+US20100184384A1 (en) * 2009-01-21 2010-07-22 Ben William Jones Integrated Circuit For Signal Analysis
+
+US20100184395A1 (en) * 2009-01-21 2010-07-22 Nils Bagge Adaptive Channel Scanning For Detection And Classification Of RF Signals
+
+US20100254432A1 (en) * 2009-04-03 2010-10-07 Charles Martin Transmitter-emitter system using frequency hopping with unidirectional communication
+
+US20100301999A1 (en) * 2009-05-27 2010-12-02 Overhead Door Corporation Channel-switching remote controlled barrier opening system
+
+US7880683B2 (en) 2004-08-18 2011-02-01 Ruckus Wireless, Inc. Antennas with polarization diversity
+
+US7965252B2 (en) 2004-08-18 2011-06-21 Ruckus Wireless, Inc. Dual polarization antenna array with increased wireless coverage
+
+US20110153471A1 (en) * 2002-01-04 2011-06-23 Davis Jr Tommy Lee Equipment management system
+
+US20110216809A1 (en) * 2001-01-25 2011-09-08 Bandspeed, Inc. Approach For Managing The Use Of Communications Channels Based On Performance
+
+US8023899B2 (en) 2009-04-30 2011-09-20 Bandspeed, Inc. Approach for selecting communications channels in communication systems to avoid interference
+
+US20110231546A1 (en) * 1997-08-26 2011-09-22 Nathanson Martin D Automotive telemetry protocol
+
+US8031129B2 (en) 2004-08-18 2011-10-04 Ruckus Wireless, Inc. Dual band dual polarization antenna array
+
+US8068068B2 (en) 2005-06-24 2011-11-29 Ruckus Wireless, Inc. Coverage antenna apparatus with selectable horizontal and vertical polarization elements
+
+US8117344B2 (en) 1996-12-13 2012-02-14 Visto Corporation Global server for authenticating access to remote services
+
+US8217843B2 (en) 2009-03-13 2012-07-10 Ruckus Wireless, Inc. Adjustment of radiation patterns utilizing a position sensor
+
+US8686905B2 (en) 2007-01-08 2014-04-01 Ruckus Wireless, Inc. Pattern shaping of RF emission patterns
+
+US8698675B2 (en) 2009-05-12 2014-04-15 Ruckus Wireless, Inc. Mountable antenna elements for dual band antenna
+
+US8756668B2 (en) 2012-02-09 2014-06-17 Ruckus Wireless, Inc. Dynamic PSK for hotspots
+
+US8786495B2 (en) 2010-07-14 2014-07-22 Zebra Enterprise Solutions Corp. Frequency channel diversity for real-time locating systems, methods, and computer program products
+
+US8842630B2 (en) 2010-12-17 2014-09-23 Cisco Technology, Inc. Extendable frequency hopping timeslots in wireless networks
+
+US20150032607A1 (en) * 2005-06-30 2015-01-29 Innova Electronics, Inc. Mobile device based vehicle diagnostic system
+
+US9019165B2 (en) 2004-08-18 2015-04-28 Ruckus Wireless, Inc. Antenna with selectable elements for use in wireless communications
+
+US9092610B2 (en) 2012-04-04 2015-07-28 Ruckus Wireless, Inc. Key assignment for a brand
+
+US9407012B2 (en) 2010-09-21 2016-08-02 Ruckus Wireless, Inc. Antenna with dual polarization and mountable antenna elements
+
+US9570799B2 (en) 2012-09-07 2017-02-14 Ruckus Wireless, Inc. Multiband monopole antenna apparatus with ground plane aperture
+
+US9634403B2 (en) 2012-02-14 2017-04-25 Ruckus Wireless, Inc. Radio frequency emission pattern shaping
+
+US20180026679A1 (en) * 2016-07-21 2018-01-25 Ingenico Group Method for processing data by means of an electronic data-acquisition device, corresponding device and program
+
+US10187767B2 (en) 2016-07-01 2019-01-22 Paxgrid Cdn Inc. System for authenticating and authorizing access to and accounting for wireless access vehicular environment consumption by client devices
+
+US10186750B2 (en) 2012-02-14 2019-01-22 Arris Enterprises Llc Radio frequency antenna array with spacing element
+
+US10230161B2 (en) 2013-03-15 2019-03-12 Arris Enterprises Llc Low-band reflector for dual band directional antenna
+
+US10673416B2 (en) 2016-08-08 2020-06-02 Analog Devices, Inc. Suppression of electromagnetic interference in sensor signals
+
+US20210266084A1 (en) * 2018-11-20 2021-08-26 Beckhoff Automation Gmbh Method for operating a network participant in an automation communication network
+
+US11574510B2 (en) 2020-03-30 2023-02-07 Innova Electronics Corporation Multi-functional automotive diagnostic tablet with interchangeable function-specific cartridges
+
+US11651628B2 (en) 2020-04-20 2023-05-16 Innova Electronics Corporation Router for vehicle diagnostic system
+
+GB2612946A (en) * 2021-10-06 2023-05-24 Sat Com Pty Ltd Frequency hopping
+
+US11686750B2 (en) 2018-10-31 2023-06-27 Keysight Technologies, Inc. Measurement instrument having time, frequency and logic domain channels
+
+DE102022113117B3 (en) 2022-05-24 2023-10-05 Oliver Bartels Particularly secure multi-carrier communication device for high data rates
+
+US11817988B2 (en) 2021-12-14 2023-11-14 Raytheon Company Demodulation of frequency-hopping spread spectrum (FHSS) signals using sequential artificial intelligence/machine learning (AI/ML) models
+
+US11876787B2 (en) 2021-09-25 2024-01-16 RENent LLC Dynamic encrypted communications systems using encryption algorithm hopping
+
+US11916515B2 (en) 2022-02-14 2024-02-27 Raytheon Company Demodulation of non-return to zero (NRZ) or other signals using multiple-input artificial intelligence/machine learning (AI/ML) model
+
+US11967189B2 (en) 2020-04-20 2024-04-23 Innova Electronics Corporation Router for communicating vehicle data to a vehicle resource
+
+US12047895B2 (en) 2019-08-30 2024-07-23 Beckhoff Automation Gmbh Method for wirelessly integrating a radio subscriber into an automation system
+
+US12229575B2 (en) 2021-02-03 2025-02-18 Cisco Technology, Inc. Hopping mechanism for container security
+
+US12254727B2 (en) 2021-11-24 2025-03-18 Gmi Holdings, Inc. Multi-channel signaling for a barrier operator system
+
+US12437110B2 (en) 2023-10-18 2025-10-07 International Business Machines Corporation Personalized avatars with custom levels of privacy
+
+US12598167B2 (en) 2021-09-25 2026-04-07 RENent LLC Dynamic encrypted communications systems using encryption algorithm hopping and nested encryption
+
+1941
+
+1941-06-10 US US397412A patent/US2292387A/en not_active Expired - Lifetime
+
+Cited By (151)
+
+* Cited by examiner, † Cited by third party
+
+Publication number Priority date Publication date Assignee Title
+
+US2707208A (en) * 1945-03-31 1955-04-26 Rca Corp Secrecy facsimile system
+
+US2816720A (en) * 1950-10-11 1957-12-17 Northrop Aircraft Inc Incremental remote radio control system
+
+USRE34004E (en) * 1953-03-30 1992-07-21 Itt Corporation Secure single sideband communication system using modulated noise subcarrier
+
+US2999170A (en) * 1956-05-29 1961-09-05 Gen Electric Co Ltd Receivers for use in electric signalling systems
+
+US5084901A (en) * 1988-12-26 1992-01-28 G.D.S. Co., Ltd. Sequential chirp modulation-type spread spectrum communication system
+
+US20070208235A1 (en) * 1993-09-04 2007-09-06 Marcus Besson Wireless medical diagnosis and monitoring equipment
+
+US8771184B2 (en) 1993-09-04 2014-07-08 Body Science Llc Wireless medical diagnosis and monitoring equipment
+
+US8812702B2 (en) 1996-12-13 2014-08-19 Good Technology Corporation System and method for globally and securely accessing unified information in a computer network
+
+US8745167B2 (en) 1996-12-13 2014-06-03 Good Technology Corporation System and method for globally and securely accessing unified information in a computer network
+
+US8117344B2 (en) 1996-12-13 2012-02-14 Visto Corporation Global server for authenticating access to remote services
+
+US9361603B2 (en) 1996-12-13 2016-06-07 Good Technology Corporation System and method for globally and securely accessing unified information in a computer network
+
+US7376843B2 (en) 1997-04-16 2008-05-20 Sony Corporation Remote control of VCR with electronic mail
+
+US7454626B2 (en) 1997-04-16 2008-11-18 Sony Corporation Transmitting/receiving apparatus and a transmitting/receiving method
+
+US6925567B1 (en) * 1997-04-16 2005-08-02 Sony Corporation Remote control of VCR with electronic mail
+
+US7143296B2 (en) 1997-04-16 2006-11-28 Sony Corporation Transmitting/receiving apparatus and a transmitting/receiving method
+
+US20050091493A1 (en) * 1997-04-16 2005-04-28 Sony Corporation Remote control of VCR with electronic mail
+
+US20050160283A1 (en) * 1997-04-16 2005-07-21 Sony Corporation Transmitting/receiving apparatus and a transmitting/receiving method
+
+US6263268B1 (en) 1997-08-26 2001-07-17 Transcontech Corporation System and method for providing mobile automotive telemetry
+
+US7593999B2 (en) 1997-08-26 2009-09-22 Paxgrid Telemetric Systems, Inc. Automotive telemetry protocol
+
+US8560609B2 (en) 1997-08-26 2013-10-15 Paxgrid Telemetric Systems, Inc Automotive telemetry protocol
+
+US20070244614A1 (en) * 1997-08-26 2007-10-18 Paxgrid Telemetric Systems, Inc. Automotive telemetry protocol
+
+US20110231546A1 (en) * 1997-08-26 2011-09-22 Nathanson Martin D Automotive telemetry protocol
+
+US7509376B2 (en) 1998-05-29 2009-03-24 Research In Motion Limited System and method for redirecting message attachments between a host system and a mobile data communication device
+
+US7386588B2 (en) 1998-05-29 2008-06-10 Research In Motion Limited System and method for pushing information from a host system to a mobile data communication device
+
+US6208594B1 (en) 1998-06-02 2001-03-27 Seagate Technology Llc Efficient linearization of saturation channels
+
+US6178144B1 (en) 1998-06-02 2001-01-23 Seagate Technology Llc Magneto-optical recording system employing linear recording and playback channels
+
+US6687205B1 (en) 1998-06-09 2004-02-03 Seagate Technology Llc Parallel coded spread spectrum communication for data storage
+
+US6542443B1 (en) 1999-06-02 2003-04-01 Seagate Technology Llc Efficient linearization of saturation channels
+
+US20070171060A1 (en) * 2000-09-21 2007-07-26 Trent Douglas E Portable security container
+
+US9379769B2 (en) 2001-01-25 2016-06-28 Bandspeed, Inc. Approach for managing the use of communications channels based on performance
+
+US9883520B2 (en) 2001-01-25 2018-01-30 Bandspeed, Inc. Approach for managing the use of communications channels based on performance
+
+US8873500B2 (en) 2001-01-25 2014-10-28 Bandspeed, Inc. Approach for managing the use of communications channels based on performance
+
+US8542643B2 (en) 2001-01-25 2013-09-24 Bandspeed, Inc. Approach for managing the use of communications channels based on performance
+
+US20110216809A1 (en) * 2001-01-25 2011-09-08 Bandspeed, Inc. Approach For Managing The Use Of Communications Channels Based On Performance
+
+US20080002831A1 (en) * 2001-05-30 2008-01-03 Palmsource, Inc. System and method for prioritizing and balancing simultaneous audio outputs in a handheld device
+
+US10049365B2 (en) 2002-01-04 2018-08-14 Prova Group, Inc. Equipment management system
+
+US8370225B2 (en) 2002-01-04 2013-02-05 Prova Group, Inc. Equipment management system
+
+US8898077B2 (en) 2002-01-04 2014-11-25 Prova Group, Inc. System and method for tracking authenticated items
+
+US10839344B2 (en) 2002-01-04 2020-11-17 Prova Group, Inc. Equipment management system
+
+US20110153471A1 (en) * 2002-01-04 2011-06-23 Davis Jr Tommy Lee Equipment management system
+
+US20050083977A1 (en) * 2002-02-08 2005-04-21 Moulsley Timothy J. Radio communication system
+
+US7554943B2 (en) * 2002-02-08 2009-06-30 Koninklijke Philips Electronics N.V. Radio communication system
+
+US8199711B2 (en) 2002-02-08 2012-06-12 Koninklijke Philips Electronics N.V. Radio communication system
+
+US7974929B2 (en) 2002-11-06 2011-07-05 Smith Iii Emmitt J Personal interface device and method
+
+US8380636B2 (en) 2002-11-06 2013-02-19 Emmitt J. Smith, III Personal interface device and method
+
+US20040098353A1 (en) * 2002-11-06 2004-05-20 Smith Emmitt J. Personal interface device and method
+
+US6676017B1 (en) 2002-11-06 2004-01-13 Smith, Iii Emmitt J. Personal interface device and method
+
+US7652997B2 (en) * 2003-04-22 2010-01-26 Sony Corporation Data communication system, data communication apparatus and data communication method, connection establishment method and apparatus, connection establishment system, and computer program thereof
+
+US20040215815A1 (en) * 2003-04-22 2004-10-28 Sony Corporation Data communication system, data communication apparatus and data communication method, connection establishment method and apparatus, connection establishment system, and computer program thereof
+
+US20050063328A1 (en) * 2003-05-02 2005-03-24 Microsoft Corporation Slotted seeded channel hopping for capacity improvement in wireless networks
+
+US7379447B2 (en) * 2003-05-02 2008-05-27 Microsoft Corporation Slotted seeded channel hopping for capacity improvement in wireless networks
+
+US7498996B2 (en) 2004-08-18 2009-03-03 Ruckus Wireless, Inc. Antennas with polarization diversity
+
+US9837711B2 (en) 2004-08-18 2017-12-05 Ruckus Wireless, Inc. Antenna with selectable elements for use in wireless communications
+
+US7696946B2 (en) 2004-08-18 2010-04-13 Ruckus Wireless, Inc. Reducing stray capacitance in antenna element switching
+
+US8860629B2 (en) 2004-08-18 2014-10-14 Ruckus Wireless, Inc. Dual band dual polarization antenna array
+
+US7652632B2 (en) 2004-08-18 2010-01-26 Ruckus Wireless, Inc. Multiband omnidirectional planar antenna apparatus with selectable elements
+
+US9019165B2 (en) 2004-08-18 2015-04-28 Ruckus Wireless, Inc. Antenna with selectable elements for use in wireless communications
+
+US7880683B2 (en) 2004-08-18 2011-02-01 Ruckus Wireless, Inc. Antennas with polarization diversity
+
+US7965252B2 (en) 2004-08-18 2011-06-21 Ruckus Wireless, Inc. Dual polarization antenna array with increased wireless coverage
+
+US9077071B2 (en) 2004-08-18 2015-07-07 Ruckus Wireless, Inc. Antenna with polarization diversity
+
+US8314749B2 (en) 2004-08-18 2012-11-20 Ruckus Wireless, Inc. Dual band dual polarization antenna array
+
+US8031129B2 (en) 2004-08-18 2011-10-04 Ruckus Wireless, Inc. Dual band dual polarization antenna array
+
+US10181655B2 (en) 2004-08-18 2019-01-15 Arris Enterprises Llc Antenna with polarization diversity
+
+US7511680B2 (en) 2004-08-18 2009-03-31 Ruckus Wireless, Inc. Minimized antenna apparatus with selectable elements
+
+CN1758330B (en) * 2004-10-01 2010-06-16 美国电报电话公司 Method and apparatus for preventing speech understanding by an interactive voice response system
+
+US7558389B2 (en) * 2004-10-01 2009-07-07 At&T Intellectual Property Ii, L.P. Method and system of generating a speech signal with overlayed random frequency signal
+
+US7979274B2 (en) 2004-10-01 2011-07-12 At&T Intellectual Property Ii, Lp Method and system for preventing speech comprehension by interactive voice response systems
+
+US20090228271A1 (en) * 2004-10-01 2009-09-10 At&T Corp. Method and System for Preventing Speech Comprehension by Interactive Voice Response Systems
+
+US20060074677A1 (en) * 2004-10-01 2006-04-06 At&T Corp. Method and apparatus for preventing speech comprehension by interactive voice response systems
+
+US7525486B2 (en) 2004-11-22 2009-04-28 Ruckus Wireless, Inc. Increased wireless coverage patterns
+
+US7498999B2 (en) 2004-11-22 2009-03-03 Ruckus Wireless, Inc. Circuit board having a peripheral antenna apparatus with selectable antenna elements and selectable phase shifting
+
+US7589615B2 (en) 2004-11-22 2009-09-15 The Chamberlain Group, Inc. Multi-frequency security code transmission and reception
+
+US9379456B2 (en) 2004-11-22 2016-06-28 Ruckus Wireless, Inc. Antenna array
+
+US9093758B2 (en) 2004-12-09 2015-07-28 Ruckus Wireless, Inc. Coverage antenna apparatus with selectable horizontal and vertical polarization elements
+
+US9270029B2 (en) 2005-01-21 2016-02-23 Ruckus Wireless, Inc. Pattern shaping of RF emission patterns
+
+US10056693B2 (en) 2005-01-21 2018-08-21 Ruckus Wireless, Inc. Pattern shaping of RF emission patterns
+
+US9577346B2 (en) 2005-06-24 2017-02-21 Ruckus Wireless, Inc. Vertical multiple-input multiple-output wireless antennas
+
+US7646343B2 (en) 2005-06-24 2010-01-12 Ruckus Wireless, Inc. Multiple-input multiple-output wireless antennas
+
+US8068068B2 (en) 2005-06-24 2011-11-29 Ruckus Wireless, Inc. Coverage antenna apparatus with selectable horizontal and vertical polarization elements
+
+US8836606B2 (en) 2005-06-24 2014-09-16 Ruckus Wireless, Inc. Coverage antenna apparatus with selectable horizontal and vertical polarization elements
+
+US7675474B2 (en) 2005-06-24 2010-03-09 Ruckus Wireless, Inc. Horizontal multiple-input multiple-output wireless antennas
+
+US8704720B2 (en) 2005-06-24 2014-04-22 Ruckus Wireless, Inc. Coverage antenna apparatus with selectable horizontal and vertical polarization elements
+
+US7561020B2 (en) 2005-06-27 2009-07-14 The Chamberlain Group, Inc. System and method for using operator as a repeater
+
+US20150032607A1 (en) * 2005-06-30 2015-01-29 Innova Electronics, Inc. Mobile device based vehicle diagnostic system
+
+US9824507B2 (en) * 2005-06-30 2017-11-21 Innova Electronics Corporation Mobile device based vehicle diagnostic system
+
+US20070100514A1 (en) * 2005-11-02 2007-05-03 Park Tai S Remote control of conveyance and appliance functions
+
+US7639106B2 (en) 2006-04-28 2009-12-29 Ruckus Wireless, Inc. PIN diode network for multiband RF coupling
+
+US20070297524A1 (en) * 2006-06-13 2007-12-27 Ben Jones Approach for spectrum analysis in a receiver
+
+US8023575B2 (en) 2006-06-13 2011-09-20 Bandspeed, Inc. Approach for spectrum analysis in a receiver
+
+US8686905B2 (en) 2007-01-08 2014-04-01 Ruckus Wireless, Inc. Pattern shaping of RF emission patterns
+
+US20080186932A1 (en) * 2007-02-05 2008-08-07 Duy Khuong Do Approach For Mitigating The Effects Of Rogue Wireless Access Points
+
+US20090041096A1 (en) * 2007-08-02 2009-02-12 Bae Systems Information And Electronic Systems Integration Inc. Efficient synchronization of a spread spectrum signal in the presence of delay and frequency uncertainty
+
+US20100308816A1 (en) * 2007-10-29 2010-12-09 Tokyo Institute Of Technology Physical quantity detection device
+
+WO2009057626A1 (en) 2007-10-29 2009-05-07 Tokyo Institute Of Technology Physical amount detection device
+
+US20100087156A1 (en) * 2008-10-07 2010-04-08 The Chamberlain Group, Inc. Method and Apparatus to Facilitate Using Multiple Carrier Frequencies
+
+US8331928B2 (en) 2008-10-07 2012-12-11 The Chamberlain Group, Inc. Method and apparatus to facilitate using multiple carrier frequencies
+
+US8849213B2 (en) 2009-01-21 2014-09-30 Bandspeed, Inc. Integrated circuit for signal analysis
+
+US8447252B2 (en) 2009-01-21 2013-05-21 Bandspeed, Inc. Adaptive channel scanning for detection and classification of RF signals
+
+US20100184384A1 (en) * 2009-01-21 2010-07-22 Ben William Jones Integrated Circuit For Signal Analysis
+
+US20100184395A1 (en) * 2009-01-21 2010-07-22 Nils Bagge Adaptive Channel Scanning For Detection And Classification Of RF Signals
+
+US8217843B2 (en) 2009-03-13 2012-07-10 Ruckus Wireless, Inc. Adjustment of radiation patterns utilizing a position sensor
+
+US8723741B2 (en) 2009-03-13 2014-05-13 Ruckus Wireless, Inc. Adjustment of radiation patterns utilizing a position sensor
+
+US20100254432A1 (en) * 2009-04-03 2010-10-07 Charles Martin Transmitter-emitter system using frequency hopping with unidirectional communication
+
+US8023899B2 (en) 2009-04-30 2011-09-20 Bandspeed, Inc. Approach for selecting communications channels in communication systems to avoid interference
+
+US10224621B2 (en) 2009-05-12 2019-03-05 Arris Enterprises Llc Mountable antenna elements for dual band antenna
+
+US9419344B2 (en) 2009-05-12 2016-08-16 Ruckus Wireless, Inc. Mountable antenna elements for dual band antenna
+
+US8698675B2 (en) 2009-05-12 2014-04-15 Ruckus Wireless, Inc. Mountable antenna elements for dual band antenna
+
+US8581695B2 (en) 2009-05-27 2013-11-12 Grant B. Carlson Channel-switching remote controlled barrier opening system
+
+US9483935B2 (en) 2009-05-27 2016-11-01 Overhead Door Corporation Channel-switching remote controlled barrier opening system
+
+US20100301999A1 (en) * 2009-05-27 2010-12-02 Overhead Door Corporation Channel-switching remote controlled barrier opening system
+
+US8970345B2 (en) 2009-05-27 2015-03-03 Overhead Door Corporation Channel-switching remote controlled barrier opening system
+
+US9684054B2 (en) 2010-07-14 2017-06-20 Zih Corp. Frequency channel diversity for real-time locating systems, methods, and computer program products
+
+US11231479B2 (en) 2010-07-14 2022-01-25 Zebra Technologies Corporation Frequency channel diversity for real-time locating systems, methods, and computer program products
+
+US10551476B2 (en) 2010-07-14 2020-02-04 Zebra Technologies Corporation Frequency channel diversity for real-time locating systems, methods, and computer program products
+
+US8786495B2 (en) 2010-07-14 2014-07-22 Zebra Enterprise Solutions Corp. Frequency channel diversity for real-time locating systems, methods, and computer program products
+
+US9407012B2 (en) 2010-09-21 2016-08-02 Ruckus Wireless, Inc. Antenna with dual polarization and mountable antenna elements
+
+US8842630B2 (en) 2010-12-17 2014-09-23 Cisco Technology, Inc. Extendable frequency hopping timeslots in wireless networks
+
+US9226146B2 (en) 2012-02-09 2015-12-29 Ruckus Wireless, Inc. Dynamic PSK for hotspots
+
+US8756668B2 (en) 2012-02-09 2014-06-17 Ruckus Wireless, Inc. Dynamic PSK for hotspots
+
+US10734737B2 (en) 2012-02-14 2020-08-04 Arris Enterprises Llc Radio frequency emission pattern shaping
+
+US10186750B2 (en) 2012-02-14 2019-01-22 Arris Enterprises Llc Radio frequency antenna array with spacing element
+
+US9634403B2 (en) 2012-02-14 2017-04-25 Ruckus Wireless, Inc. Radio frequency emission pattern shaping
+
+US9092610B2 (en) 2012-04-04 2015-07-28 Ruckus Wireless, Inc. Key assignment for a brand
+
+US9570799B2 (en) 2012-09-07 2017-02-14 Ruckus Wireless, Inc. Multiband monopole antenna apparatus with ground plane aperture
+
+US10230161B2 (en) 2013-03-15 2019-03-12 Arris Enterprises Llc Low-band reflector for dual band directional antenna
+
+US11812349B2 (en) 2016-07-01 2023-11-07 Paxgrid Cdn Inc. System for authenticating and authorizing access to and accounting for wireless access vehicular environment consumption by client devices
+
+US10187767B2 (en) 2016-07-01 2019-01-22 Paxgrid Cdn Inc. System for authenticating and authorizing access to and accounting for wireless access vehicular environment consumption by client devices
+
+US12375893B2 (en) 2016-07-01 2025-07-29 Paxgrid Cdn Inc. System for authenticating and authorizing access to and accounting for wireless access vehicular environment consumption by client devices
+
+US10938448B2 (en) * 2016-07-21 2021-03-02 Ingenico Group Method for processing data by means of an electronic data-acquisition device, corresponding device and program
+
+EP3273398B1 (en) * 2016-07-21 2021-12-15 Ingenico Group Method for processing data by an electronic data-acquisition device, device and corresponding program
+
+US20180026679A1 (en) * 2016-07-21 2018-01-25 Ingenico Group Method for processing data by means of an electronic data-acquisition device, corresponding device and program
+
+US10673416B2 (en) 2016-08-08 2020-06-02 Analog Devices, Inc. Suppression of electromagnetic interference in sensor signals
+
+US11686750B2 (en) 2018-10-31 2023-06-27 Keysight Technologies, Inc. Measurement instrument having time, frequency and logic domain channels
+
+US12510573B2 (en) 2018-10-31 2025-12-30 Keysight Technologies, Inc. Measurement instrument having time, frequency and logic domain channels
+
+US11888585B2 (en) * 2018-11-20 2024-01-30 Beckhoff Automation Gmbh Method for operating a network participant in an automation communication network
+
+US20210266084A1 (en) * 2018-11-20 2021-08-26 Beckhoff Automation Gmbh Method for operating a network participant in an automation communication network
+
+US12047895B2 (en) 2019-08-30 2024-07-23 Beckhoff Automation Gmbh Method for wirelessly integrating a radio subscriber into an automation system
+
+US11574510B2 (en) 2020-03-30 2023-02-07 Innova Electronics Corporation Multi-functional automotive diagnostic tablet with interchangeable function-specific cartridges
+
+US11651628B2 (en) 2020-04-20 2023-05-16 Innova Electronics Corporation Router for vehicle diagnostic system
+
+US11967189B2 (en) 2020-04-20 2024-04-23 Innova Electronics Corporation Router for communicating vehicle data to a vehicle resource
+
+US12229575B2 (en) 2021-02-03 2025-02-18 Cisco Technology, Inc. Hopping mechanism for container security
+
+US12598167B2 (en) 2021-09-25 2026-04-07 RENent LLC Dynamic encrypted communications systems using encryption algorithm hopping and nested encryption
+
+US11876787B2 (en) 2021-09-25 2024-01-16 RENent LLC Dynamic encrypted communications systems using encryption algorithm hopping
+
+GB2612946A (en) * 2021-10-06 2023-05-24 Sat Com Pty Ltd Frequency hopping
+
+GB2612946B (en) * 2021-10-06 2024-06-19 Sat Com Pty Ltd Frequency hopping
+
+US12254727B2 (en) 2021-11-24 2025-03-18 Gmi Holdings, Inc. Multi-channel signaling for a barrier operator system
+
+US12469346B2 (en) 2021-11-24 2025-11-11 Gmi Holdings, Inc. Multi-channel signaling for a barrier operator system
+
+US11817988B2 (en) 2021-12-14 2023-11-14 Raytheon Company Demodulation of frequency-hopping spread spectrum (FHSS) signals using sequential artificial intelligence/machine learning (AI/ML) models
+
+US11916515B2 (en) 2022-02-14 2024-02-27 Raytheon Company Demodulation of non-return to zero (NRZ) or other signals using multiple-input artificial intelligence/machine learning (AI/ML) model
+
+DE102022113117B3 (en) 2022-05-24 2023-10-05 Oliver Bartels Particularly secure multi-carrier communication device for high data rates
+
+US12437110B2 (en) 2023-10-18 2025-10-07 International Business Machines Corporation Personalized avatars with custom levels of privacy
+
+Similar Documents
+
+Publication Publication Date Title
+
+US3378817A (en) 1968-04-16 Signalling systems
+
+US2426205A (en) 1947-08-26 Pulse selecting circuit for multiplex systems
+
+US3072785A (en) 1963-01-08 Remote control system for vehicles
+
+US2171293A (en) 1939-08-29 Radio navigational guide system
+
+US2438903A (en) 1948-04-06 Pulse communication system employing pulse frequency reduction for signaling
+
+US2816169A (en) 1957-12-10 Multiplex communication system
+
+US2694140A (en) 1954-11-09 Selection of low interference radio channels
+
+US1709377A (en) 1929-04-16 Beacon system for night flying
+
+US2454792A (en) 1948-11-30 Pulse multiplex communication system
+
+US2495705A (en) 1950-01-31 Multiple frequency telegraph system
+
+US2806944A (en) 1957-09-17 Switching system for standby receiver and transmitter
+
+US2666845A (en) 1954-01-19 Two-way communication system
+
+US3761817A (en) 1973-09-25 Method and transmission system for transmitting commands to a radio guided missile
+
+US2482039A (en) 1949-09-13 Secret communication employing signal sequence switching
+
+US2480160A (en) 1949-08-30 Signaling system
+
+US1984379A (en) 1934-12-18 Interference prevention for radio operated relays
+
+US2406813A (en) 1946-09-03 Intelligence transmission system
+
+US2112877A (en) 1938-04-05 Centralized control
+
+US1356488A (en) 1920-10-19 Radiotelegraph system
+
+US2601393A (en) 1952-06-24 Selective remote control system
+
+US2366583A (en) 1945-01-02 Control system
+
+US2524861A (en) 1950-10-10 Telemetering system for radio links
+
+US2509716A (en) 1950-05-30 Arrangement for secret radio telephony
+
+US1444417A (en) 1923-02-06 Multiplex system in teledynamic control
+
+US2397204A (en) 1946-03-26 Automatic code transmitting telegraph system

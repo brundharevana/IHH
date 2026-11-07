@@ -1,0 +1,10 @@
+{
+  "url": "https://home.nps.gov/yose/learn/historyculture/muir-influences.htm",
+  "fetch_url": "https://home.nps.gov/yose/learn/historyculture/muir-influences.htm",
+  "method": "http",
+  "fetched_at": "2026-10-24T06:17:30Z",
+  "sha256": "9c7a2d22ccaf35a893366534bbbb771c2b7436789398f09731949d5aa4a2c249",
+  "bytes": 3789,
+  "http_status": 200,
+  "final_url": "https://home.nps.gov/yose/learn/historyculture/muir-influences.htm"
+}

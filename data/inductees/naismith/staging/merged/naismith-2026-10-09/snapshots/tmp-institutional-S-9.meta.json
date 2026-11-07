@@ -1,0 +1,10 @@
+{
+  "url": "https://www.biographi.ca/en/bio.php?id=9082",
+  "fetch_url": "https://www.biographi.ca/en/bio.php?id=9082",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:15:00Z",
+  "sha256": "b55cfb015d7d814645edd6a518cb135af2d99946d92bfe690d609731129f6cbc",
+  "bytes": 21889,
+  "http_status": 200,
+  "final_url": "https://www.biographi.ca/en/bio.php?id=9082"
+}

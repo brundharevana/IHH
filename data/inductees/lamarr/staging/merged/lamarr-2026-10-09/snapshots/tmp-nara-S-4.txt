@@ -1,0 +1,92 @@
+title: THE ARMY HOUR
+scopeAndContentNote: NEWS PROGRAM: Army Field Band conducted by Maj. Chester A. Whiting performs theme "Under and Out,""Iowa Band Law March" and with soloist Sgt. John Ricobene, "Night and Day" as well as breaks. (1) TOUGHEST TANK COURSE. From Hanover, Germany, description of tank maneuvers. (2) WAC FROM DENMARK. From Pentagon, Lt. Viveca Jensen, former Danish World War II underground worker, who later became a U.S. citizen and member of the Women's Army Corps. (3) COMMAND PERFORMANCE. Hollywood, California, comedy sequence with Milton Berle, Hedy LaMarr and Edward G. Robinson and Glenn Miller introducing his arrangement of "A String of Pearls."
+accessionNumbers[0]: NN3-335-80-1
+levelOfDescription: item
+recordType: description
+subjects[0].heading: Arlington (Va.)
+subjects[0].authorityType: geographicPlaceName
+subjects[0].naId: 10045369
+subjects[1].heading: Music
+subjects[1].authorityType: topicalSubject
+subjects[1].naId: 10643748
+subjects[2].heading: Actors
+subjects[2].authorityType: topicalSubject
+subjects[2].naId: 10637120
+subjects[3].heading: Korean War, 1950-1953
+subjects[3].authorityType: topicalSubject
+subjects[3].naId: 10637595
+subjects[4].heading: Military bases
+subjects[4].authorityType: topicalSubject
+subjects[4].naId: 10642469
+subjects[5].heading: World War, 1939-1945
+subjects[5].authorityType: topicalSubject
+subjects[5].naId: 10644634
+useRestriction.note: Due to contractual agreements between Army, AFRTS, and the entertainment and music  industry, portions of the recordings featuring musical performances may not be reproduced for commercial or broadcast purposes without permission.
+useRestriction.specificUseRestrictions[0]: Copyright
+useRestriction.status: Restricted - Possibly
+editStatus: Edited
+audiovisual: True
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-3540
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Motion Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3622
+physicalOccurrences[0].referenceUnits[0].email: mopix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Audio Tape/Reel
+physicalOccurrences[0].copyStatus: Preservation
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Motion Pictures
+dataControlGroup.groupId: RRAM–M
+dataControlGroup.groupCd: RRAM–M
+generalRecordsTypes[0]: Sound Recordings
+broadcastDates[0].month: 3
+broadcastDates[0].year: 1954
+broadcastDates[0].day: 5
+broadcastDates[0].logicalDate: 1954-03-05
+localIdentifier: 335-AHM-29
+variantControlNumbers[0].number: NWDNM(s)-335-AHM-29
+variantControlNumbers[0].type: NAIL Control Number
+contributors[0].heading: Department of Defense. Department of the Army.~. U.S. Army Command Information Unit. (09/1947 ? - ca. 1976)
+contributors[0].abolishDate.year: 1976
+contributors[0].abolishDate.logicalDate: 1976-12-31
+contributors[0].contributorType: Co-producer
+contributors[0].authorityType: organization
+contributors[0].establishDate.month: 9
+contributors[0].establishDate.year: 1947
+contributors[0].establishDate.logicalDate: 1947-09-01
+contributors[0].naId: 10462301
+contributors[1].heading: Eskind, David B., 1909-1992
+contributors[1].deathDate.year: 1992
+contributors[1].deathDate.logicalDate: 1992-12-31
+contributors[1].contributorType: Author
+contributors[1].authorityType: person
+contributors[1].birthDate.year: 1909
+contributors[1].birthDate.logicalDate: 1909-01-01
+contributors[1].naId: 10611398
+ancestors[0].inclusiveStartDate.year: 1903
+ancestors[0].inclusiveStartDate.logicalDate: 1903-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 335
+ancestors[0].inclusiveEndDate.year: 2007
+ancestors[0].inclusiveEndDate.logicalDate: 2007-12-31
+ancestors[0].title: Records of the Office of the Secretary of the Army
+ancestors[0].naId: 648
+ancestors[1].inclusiveStartDate.year: 1953
+ancestors[1].inclusiveStartDate.logicalDate: 1953-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of Defense. Department of the Army. Office of the Secretary. Office of the Chief of Public Affairs. (ca. 1947 - )
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 1947
+ancestors[1].creators[0].establishDate.logicalDate: 1947-01-01
+ancestors[1].creators[0].naId: 10468595
+ancestors[1].inclusiveEndDate.year: 1954
+ancestors[1].inclusiveEndDate.logicalDate: 1954-12-31
+ancestors[1].title: Army Hour-Mutual Network Audio Recordings
+ancestors[1].naId: 110087
+naId: 110111

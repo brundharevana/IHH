@@ -1,0 +1,186 @@
+{
+  "slug": "muir",
+  "generated": "2026-10-09",
+  "run_id": "muir-2026-10-09",
+  "summary": [
+    {
+      "text": "John Muir was a writer, a preservationist and a conservationist.",
+      "fact_ids": [
+        "MUI-F-0069",
+        "MUI-F-0078",
+        "MUI-F-0080"
+      ]
+    },
+    {
+      "text": "John Muir co-founded the Sierra Club in 1892.",
+      "fact_ids": [
+        "MUI-F-0006"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "hetch-hetchy",
+      "title": "Hetch Hetchy Valley",
+      "sentences": [
+        {
+          "text": "John Muir and other leading preservationists signed a petition that the Society for the Preservation of National Parks submitted to Congress.",
+          "fact_ids": [
+            "MUI-F-0070"
+          ]
+        },
+        {
+          "text": "The petition urged Congress to defeat the Raker Bill, which called for a dam to be built across the Hetch Hetchy Valley.",
+          "fact_ids": [
+            "MUI-F-0071"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "title": "Wrote and Published",
+      "sentences": [
+        {
+          "text": "John Muir wrote and published 12 books.",
+          "fact_ids": [
+            "MUI-F-0014"
+          ]
+        },
+        {
+          "text": "In 1901 Muir published Our National Parks.",
+          "fact_ids": [
+            "MUI-F-0043"
+          ]
+        },
+        {
+          "text": "In 1911 Muir published My First Summer in the Sierra.",
+          "fact_ids": [
+            "MUI-F-0046"
+          ]
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1892",
+      "title": "Co-founded the Sierra Club",
+      "text": "John Muir co-founded the Sierra Club in 1892.",
+      "fact_ids": [
+        "MUI-F-0006"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1901",
+      "title": "Published Our National Parks",
+      "text": "In 1901 Muir published Our National Parks.",
+      "fact_ids": [
+        "MUI-F-0043"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1911",
+      "title": "Published My First Summer in the Sierra",
+      "text": "In 1911 Muir published My First Summer in the Sierra.",
+      "fact_ids": [
+        "MUI-F-0046"
+      ],
+      "media_ids": []
+    }
+  ],
+  "artifacts": [
+    {
+      "media_id": "MUI-M-0018",
+      "caption": "John Muir was a conservationist.",
+      "fact_ids": [
+        "MUI-F-0080"
+      ]
+    },
+    {
+      "media_id": "MUI-M-0019",
+      "caption": "John Muir was a preservationist.",
+      "fact_ids": [
+        "MUI-F-0078"
+      ]
+    },
+    {
+      "media_id": "MUI-M-0020",
+      "caption": "John Muir was a writer.",
+      "fact_ids": [
+        "MUI-F-0069"
+      ]
+    },
+    {
+      "media_id": "MUI-M-0021",
+      "caption": "John Muir co-founded the Sierra Club in 1892.",
+      "fact_ids": [
+        "MUI-F-0006"
+      ]
+    },
+    {
+      "media_id": "MUI-M-0042",
+      "caption": "John Muir was an author.",
+      "fact_ids": [
+        "MUI-F-0079"
+      ]
+    },
+    {
+      "media_id": "MUI-M-0043",
+      "caption": "John Muir wrote and published 12 books.",
+      "fact_ids": [
+        "MUI-F-0014"
+      ]
+    }
+  ],
+  "avatar_lines": [
+    {
+      "speaker": "guide",
+      "kind": "narration",
+      "text": "John Muir was a writer, a preservationist and a conservationist.",
+      "fact_ids": [
+        "MUI-F-0069",
+        "MUI-F-0078",
+        "MUI-F-0080"
+      ]
+    },
+    {
+      "speaker": "inductee",
+      "kind": "narration",
+      "text": "I co-founded the Sierra Club in 1892.",
+      "fact_ids": [
+        "MUI-F-0006"
+      ]
+    },
+    {
+      "speaker": "inductee",
+      "kind": "narration",
+      "text": "I wrote and published 12 books.",
+      "fact_ids": [
+        "MUI-F-0014"
+      ]
+    }
+  ],
+  "how_to_cite": null,
+  "gaps": [
+    "Birth: no verified fact yet; the birth date (MUI-F-0001), birthplace (MUI-F-0074) and Scottish birth (MUI-F-0062) are disputed because the adversary could not confirm the quotes on the live pages (browser-supplied snapshots).",
+    "Family: no verified fact yet; parents, marriage, spouse and children have no staged fact (six family candidates were deferred over the fact cap).",
+    "Education: no verified fact yet; eleven education candidates (university attendance and years) were deferred over the fact cap, and the IHH page's education years have no independent confirmation.",
+    "Arrival in the United States: no verified source yet for the date, port of entry or route; the only account (MUI-F-0025) is disputed and rests on one Sierra Club chronology; no passenger list was found in NARA searches.",
+    "Immigration age: single-source and inconsistent between sources (MUI-F-0056 versus MUI-F-0024); MUI-F-0055 (settlement in Milwaukee) is single-source and differs from the verified Portage-area settlement facts.",
+    "Citizenship: no verified fact yet; the naturalization date (MUI-F-0044) is disputed, and the 1896 voter registration (MUI-F-0053, MUI-F-0054) and 1903 passport letter (MUI-F-0022) are single-source; NARA searches found no naturalization record.",
+    "Awards and honors: no verified fact yet; the Harvard and University of Wisconsin honorary degrees (MUI-F-0040, MUI-F-0041) are disputed and single-institution, and the Yale and University of California degrees (MUI-F-0047, MUI-F-0048) are single-source after corroboration searches found nothing.",
+    "Death: the date of death (MUI-F-0075) is disputed and the burial place (MUI-F-0049) is single-source; only place and cause of death are verified.",
+    "Legacy: no fact of category legacy is staged; 82 legacy candidates (namesakes, memorials, stamps, the National Historic Site) were deferred over the fact cap, and MUI-F-0073 (early wilderness advocate) is disputed.",
+    "Sierra Club role: founding in 1892 is verified, but the incorporation account (MUI-F-0018) and the presidency (MUI-F-0019, MUI-F-0038) are disputed.",
+    "Early career: the 1866 Indianapolis work, the 1867 walk, the 1868 arrival in San Francisco and first Yosemite visit, and the 1869 summer in the Sierra (MUI-F-0027 to MUI-F-0033) are single-source or disputed.",
+    "Writing: the first glacier article of 1871 (MUI-F-0035) is single-source after corroboration found nothing; the 1890 Century Magazine articles (MUI-F-0020) and the first book (MUI-F-0039) are disputed.",
+    "IHH page claims with no independent confirmation: designs at age 16 of barometers, hydrometers and clocks (MUI-F-0007 to MUI-F-0009) and the alarm clock bed (MUI-F-0010) are disputed; deferred IHH claims on locks, water wheels and a horse-feeding machine, the Yosemite National Park year, the Sierra Club founding day, education years, the John Muir Trust's place of formation, and the camping trip leading to a national park system are unconfirmed.",
+    "Other single-source facts: Roosevelt's 1903 visit date (MUI-F-0016), the first Alaska trip destination (MUI-F-0017), the 1909 Hetch Hetchy appeal (MUI-F-0021), the 1876 forest program (MUI-F-0068), the 1849 family farm (MUI-F-0023, MUI-F-0057), the Kingston farmstead (MUI-F-0060) and the Scotland-to-Wisconsin move (MUI-F-0065); the 1880 move to Martinez (MUI-F-0036) and the 1913 Hetch Hetchy loss (MUI-F-0050) are disputed.",
+    "Media without a usable licence: MUI-M-0006, MUI-M-0007, MUI-M-0008, MUI-M-0010, MUI-M-0012, MUI-M-0027 to MUI-M-0031 have no rights statement; MUI-M-0035 and MUI-M-0037 are disputed; MUI-M-0022, MUI-M-0023, MUI-M-0032, MUI-M-0040 and MUI-M-0041 are in copyright or need permission; MUI-M-0009, MUI-M-0017, MUI-M-0024 to MUI-M-0026, MUI-M-0033, MUI-M-0036, MUI-M-0038 and MUI-M-0039 have rights not evaluated or usage conditions.",
+    "Searches that found nothing: Smithsonian API and site searches were rate-limited or blocked by a bot check; NARA naturalization, passport and 1849 passenger searches found no record of Muir; the Yale honorary-degree list page did not list him; the Commons record 42328 holder and the stamp search were blocked.",
+    "Alias 'Muir, John' has no identity-fact evidence in a snapshot, so it is not used for name matching."
+  ]
+}

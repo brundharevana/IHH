@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn92070146/1914-12-24/ed-1/?sp=1",
+  "fetch_url": "https://www.loc.gov/resource/sn92070146/1914-12-24/ed-1/?sp=1&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T19:00:29Z",
+  "sha256": "4200d9453ac664fed6e4bcb750449126e557fe72900e177524017919b73e52b8",
+  "bytes": 35828,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn92070146/1914-12-24/ed-1/?sp=1&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_mesquite_ver02/data/sn92070146/00414189453/1914122401/1021.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/curiv/batch_curiv_mesquite_ver02/data/sn92070146/00414189453/1914122401/1021.xml"
+}

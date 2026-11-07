@@ -1,0 +1,186 @@
+{
+  "$comment": "Walkable bounds for free roam in naismith-mcgill-old-hall.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 15.0,
+  "walkable": {
+    "x_min": -30.0,
+    "x_max": 30.0,
+    "z_min": 2.5,
+    "z_max": 110.0
+  },
+  "obstacles": [
+    {
+      "name": "building",
+      "x_min": -40.15,
+      "x_max": 40.15,
+      "z_min": -16.15,
+      "z_max": 2.65
+    },
+    {
+      "name": "portico_and_steps",
+      "x_min": -5.95,
+      "x_max": 5.95,
+      "z_min": 1.85,
+      "z_max": 9.15
+    },
+    {
+      "name": "shrub_island",
+      "x_min": -6.15,
+      "x_max": 6.15,
+      "z_min": 12.85,
+      "z_max": 19.15
+    },
+    {
+      "name": "tree_trunk_0",
+      "x_min": -7.506,
+      "x_max": -6.206,
+      "z_min": 97.921,
+      "z_max": 99.221
+    },
+    {
+      "name": "tree_trunk_1",
+      "x_min": -7.865,
+      "x_max": -6.565,
+      "z_min": 82.561,
+      "z_max": 83.861
+    },
+    {
+      "name": "tree_trunk_2",
+      "x_min": -7.725,
+      "x_max": -6.425,
+      "z_min": 66.807,
+      "z_max": 68.107
+    },
+    {
+      "name": "tree_trunk_3",
+      "x_min": -8.03,
+      "x_max": -6.73,
+      "z_min": 52.13,
+      "z_max": 53.43
+    },
+    {
+      "name": "tree_trunk_4",
+      "x_min": -8.65,
+      "x_max": -7.35,
+      "z_min": 41.119,
+      "z_max": 42.419
+    },
+    {
+      "name": "tree_trunk_5",
+      "x_min": -9.581,
+      "x_max": -8.281,
+      "z_min": 34.392,
+      "z_max": 35.692
+    },
+    {
+      "name": "tree_trunk_6",
+      "x_min": -11.686,
+      "x_max": -10.386,
+      "z_min": 24.369,
+      "z_max": 25.669
+    },
+    {
+      "name": "tree_trunk_7",
+      "x_min": 11.007,
+      "x_max": 12.307,
+      "z_min": 95.35,
+      "z_max": 96.65
+    },
+    {
+      "name": "tree_trunk_8",
+      "x_min": 11.802,
+      "x_max": 13.102,
+      "z_min": 77.35,
+      "z_max": 78.65
+    },
+    {
+      "name": "tree_trunk_9",
+      "x_min": 12.098,
+      "x_max": 13.398,
+      "z_min": 59.35,
+      "z_max": 60.65
+    },
+    {
+      "name": "tree_trunk_10",
+      "x_min": 11.927,
+      "x_max": 13.227,
+      "z_min": 46.35,
+      "z_max": 47.65
+    },
+    {
+      "name": "tree_trunk_11",
+      "x_min": -36.65,
+      "x_max": -35.35,
+      "z_min": 7.35,
+      "z_max": 8.65
+    },
+    {
+      "name": "tree_trunk_12",
+      "x_min": -28.65,
+      "x_max": -27.35,
+      "z_min": 7.35,
+      "z_max": 8.65
+    },
+    {
+      "name": "tree_trunk_13",
+      "x_min": 29.35,
+      "x_max": 30.65,
+      "z_min": 7.35,
+      "z_max": 8.65
+    },
+    {
+      "name": "tree_trunk_14",
+      "x_min": 37.35,
+      "x_max": 38.65,
+      "z_min": 7.35,
+      "z_max": 8.65
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 1.5,
+      "z": 85.0,
+      "look_at": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "Up the avenue, where the photograph was taken"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 3.0,
+      "z": 45.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "On the boardwalk, halfway up the avenue"
+    },
+    {
+      "name": "hotspot_3",
+      "x": -3.0,
+      "z": 23.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": 6.0
+      },
+      "note": "On the drive before the portico"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -22.0,
+      "z": 12.0,
+      "look_at": {
+        "x": -23.8,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "Before the wing door"
+    }
+  ]
+}

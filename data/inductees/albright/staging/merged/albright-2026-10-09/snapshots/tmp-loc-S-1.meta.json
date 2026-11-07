@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/n83125999/madeleine-albright/",
+  "fetch_url": "https://www.loc.gov/item/n83125999/madeleine-albright/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:22:49Z",
+  "sha256": "c63ea9a8c7f5ce88cdbf9648bb1252edcc1f809e45483aa281ae198f8d9e3cae",
+  "bytes": 12736,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/n83125999/madeleine-albright/?fo=json"
+}

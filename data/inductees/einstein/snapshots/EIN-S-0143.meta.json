@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn83045462/1955-04-18/ed-1/?sp=1",
+  "fetch_url": "https://www.loc.gov/resource/sn83045462/1955-04-18/ed-1/?sp=1&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T19:05:24Z",
+  "sha256": "780358da5d47ffd78b58ab48d22887d00b7fbd4be2d34c64611437d039c4a98e",
+  "bytes": 36827,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn83045462/1955-04-18/ed-1/?sp=1&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_idomeneo_ver01/data/sn83045462/00280607058/1955041801/0257.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/dlc/batch_dlc_idomeneo_ver01/data/sn83045462/00280607058/1955041801/0257.xml"
+}

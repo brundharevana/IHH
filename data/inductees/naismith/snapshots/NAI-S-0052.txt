@@ -1,0 +1,14 @@
+title: File:Kansas U team 1899.jpg
+DateTime: 2017-02-05 11:53:43
+ObjectName: Kansas U team 1899
+CommonsMetadataExtension: 1.2
+Categories: 1899 in Kansas|Kansas Jayhawks men's basketball|James Naismith|1899 in basketball|Number 99 on objects|PD US expired|Template Unknown (author)|Black and white group photographs of men|Group portraits with 11 people|Men with crossed arms|Sportspeople sitting|PD-US missing SDC copyright status|Group photographs of basketball teams in the United States|Sportspeople with crossed arms
+ImageDescription: First basketball team at the University of Kansas, 1899. Coach James Naismith is on the far right. Walter is 3rd from the left, back row. Walter's brother, William, and team captain, is 3rd from the left, middle row.
+DateTimeOriginal: 1899
+Credit: University of Kansas Medical Center
+Artist: Unknown authorUnknown author
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

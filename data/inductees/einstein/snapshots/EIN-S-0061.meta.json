@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/people/manhattan-project-pioneers-albert-einstein.htm",
+  "fetch_url": "https://www.nps.gov/people/manhattan-project-pioneers-albert-einstein.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:56:52Z",
+  "sha256": "c7edc9fd34daf0cfeed5027af4348b9a8d68967ea018a7f29de51865f2811111",
+  "bytes": 3985,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/people/manhattan-project-pioneers-albert-einstein.htm"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/mss619110001/",
+  "fetch_url": "https://www.loc.gov/item/mss619110001/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:35Z",
+  "sha256": "4f6a6c47d7b146f48f9ca5df9a900362ba096ab493515f4ccf03564ad857cf48",
+  "bytes": 654771,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/mss619110001/?fo=json"
+}

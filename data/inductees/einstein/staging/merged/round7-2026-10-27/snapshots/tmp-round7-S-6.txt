@@ -1,0 +1,4675 @@
+records.006091066.recordURL: https://catalog.hathitrust.org/Record/006091066
+records.006091066.titles[0]: Annalen der Physik
+records.006091066.issns[0]: 0003-3804
+records.006091066.oclcs[0]: 5854993
+records.006091066.oclcs[1]: 214468718
+records.006091066.oclcs[2]: 11453618
+records.006091066.oclcs[3]: 15183238
+records.006091066.oclcs[4]: 15183250
+records.006091066.oclcs[5]: 255616171
+records.006091066.lccns[0]: 50013519
+records.006091066.publishDates[0]: 1900
+items[0].orig: University of Pennsylvania
+items[0].fromRecord: 006091066
+items[0].htid: pau.31198032102704
+items[0].itemURL: https://babel.hathitrust.org/cgi/pt?id=pau.31198032102704
+items[0].rightsCode: und
+items[0].lastUpdate: 20261004
+items[0].enumcron: ind.
+items[0].usRightsString: Limited (search-only)
+items[1].orig: University of California
+items[1].fromRecord: 006091066
+items[1].htid: uc1.31822021441142
+items[1].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021441142
+items[1].rightsCode: pdus
+items[1].lastUpdate: 20261018
+items[1].enumcron: ser.4 v.1
+items[1].usRightsString: Full view
+items[2].orig: University of Colorado Boulder
+items[2].fromRecord: 006091066
+items[2].htid: cub.u183032793972
+items[2].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032793972
+items[2].rightsCode: pdus
+items[2].lastUpdate: 20260909
+items[2].enumcron: Author Index Folge 4 Bd.1-30 1900-09
+items[2].usRightsString: Full view
+items[3].orig: University of Minnesota
+items[3].fromRecord: 006091066
+items[3].htid: umn.31951d00326673d
+items[3].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00326673d
+items[3].rightsCode: pd
+items[3].lastUpdate: 20260313
+items[3].enumcron: 4.F.bd.1 (1900)
+items[3].usRightsString: Full view
+items[4].orig: University of Colorado Boulder
+items[4].fromRecord: 006091066
+items[4].htid: cub.u183032800965
+items[4].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800965
+items[4].rightsCode: pd
+items[4].lastUpdate: 20260909
+items[4].enumcron: Folge 4 Bd.1 1900
+items[4].usRightsString: Full view
+items[5].orig: University of California
+items[5].fromRecord: 006091066
+items[5].htid: uc1.b3336708
+items[5].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336708
+items[5].rightsCode: pd
+items[5].lastUpdate: 20260828
+items[5].enumcron: ser. 4 v. 1 1900
+items[5].usRightsString: Full view
+items[6].orig: New York Public Library
+items[6].fromRecord: 006091066
+items[6].htid: nyp.33433090770813
+items[6].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770813
+items[6].rightsCode: pd
+items[6].lastUpdate: 20250609
+items[6].enumcron: Ser. 4, Bd. 1 (1900)
+items[6].usRightsString: Full view
+items[7].orig: University of California
+items[7].fromRecord: 006091066
+items[7].htid: uc1.31822023368806
+items[7].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023368806
+items[7].rightsCode: pdus
+items[7].lastUpdate: 20261018
+items[7].enumcron: ser.4 v.2
+items[7].usRightsString: Full view
+items[8].orig: University of Minnesota
+items[8].fromRecord: 006091066
+items[8].htid: umn.31951d00326674b
+items[8].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00326674b
+items[8].rightsCode: pd
+items[8].lastUpdate: 20260313
+items[8].enumcron: 4.F.bd.2 (1900)
+items[8].usRightsString: Full view
+items[9].orig: University of Colorado Boulder
+items[9].fromRecord: 006091066
+items[9].htid: cub.u183032800957
+items[9].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800957
+items[9].rightsCode: pd
+items[9].lastUpdate: 20260909
+items[9].enumcron: Folge 4 Bd.2 1900
+items[9].usRightsString: Full view
+items[10].orig: University of California
+items[10].fromRecord: 006091066
+items[10].htid: uc1.b3336709
+items[10].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336709
+items[10].rightsCode: pd
+items[10].lastUpdate: 20260829
+items[10].enumcron: ser. 4 v. 2 1900
+items[10].usRightsString: Full view
+items[11].orig: University of California
+items[11].fromRecord: 006091066
+items[11].htid: uc1.31822021440094
+items[11].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021440094
+items[11].rightsCode: pdus
+items[11].lastUpdate: 20261018
+items[11].enumcron: ser.4 v.3
+items[11].usRightsString: Full view
+items[12].orig: University of Minnesota
+items[12].fromRecord: 006091066
+items[12].htid: umn.31951d003266759
+items[12].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003266759
+items[12].rightsCode: pd
+items[12].lastUpdate: 20260313
+items[12].enumcron: 4.F.bd.3 (1900)
+items[12].usRightsString: Full view
+items[13].orig: University of Colorado Boulder
+items[13].fromRecord: 006091066
+items[13].htid: cub.p104130312005
+items[13].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.p104130312005
+items[13].rightsCode: pd
+items[13].lastUpdate: 20260909
+items[13].enumcron: Folge 4 Bd.3 1900
+items[13].usRightsString: Full view
+items[14].orig: New York Public Library
+items[14].fromRecord: 006091066
+items[14].htid: nyp.33433062755040
+items[14].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433062755040
+items[14].rightsCode: pd
+items[14].lastUpdate: 20251231
+items[14].enumcron: Ser. 4, v. 3 (1900)
+items[14].usRightsString: Full view
+items[15].orig: University of California
+items[15].fromRecord: 006091066
+items[15].htid: uc1.b3336710
+items[15].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336710
+items[15].rightsCode: pd
+items[15].lastUpdate: 20250221
+items[15].enumcron: ser. 4 v. 3 1900
+items[15].usRightsString: Full view
+items[16].orig: University of Minnesota
+items[16].fromRecord: 006091066
+items[16].htid: umn.31951d003266775
+items[16].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003266775
+items[16].rightsCode: pdus
+items[16].lastUpdate: 20260313
+items[16].enumcron: 4.F.bd.4 (1901)
+items[16].usRightsString: Full view
+items[17].orig: University of Colorado Boulder
+items[17].fromRecord: 006091066
+items[17].htid: cub.u183032800931
+items[17].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800931
+items[17].rightsCode: pdus
+items[17].lastUpdate: 20260909
+items[17].enumcron: Folge 4 Bd.4 1901
+items[17].usRightsString: Full view
+items[18].orig: New York Public Library
+items[18].fromRecord: 006091066
+items[18].htid: nyp.33433062755032
+items[18].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433062755032
+items[18].rightsCode: pdus
+items[18].lastUpdate: 20260929
+items[18].enumcron: Ser. 4, v. 4 (1901)
+items[18].usRightsString: Full view
+items[19].orig: University of California
+items[19].fromRecord: 006091066
+items[19].htid: uc1.b3336711
+items[19].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336711
+items[19].rightsCode: pdus
+items[19].lastUpdate: 20260829
+items[19].enumcron: ser. 4 v. 4 1901
+items[19].usRightsString: Full view
+items[20].orig: University of California
+items[20].fromRecord: 006091066
+items[20].htid: uc1.31822021441183
+items[20].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021441183
+items[20].rightsCode: pdus
+items[20].lastUpdate: 20261018
+items[20].enumcron: ser.4 v.5
+items[20].usRightsString: Full view
+items[21].orig: University of California
+items[21].fromRecord: 006091066
+items[21].htid: uc1.b3336712
+items[21].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336712
+items[21].rightsCode: pdus
+items[21].lastUpdate: 20250221
+items[21].enumcron: ser. 4 v. 5
+items[21].usRightsString: Full view
+items[22].orig: University of Colorado Boulder
+items[22].fromRecord: 006091066
+items[22].htid: cub.u183032800923
+items[22].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800923
+items[22].rightsCode: pdus
+items[22].lastUpdate: 20260909
+items[22].enumcron: Folge 4 Bd.5 1901
+items[22].usRightsString: Full view
+items[23].orig: New York Public Library
+items[23].fromRecord: 006091066
+items[23].htid: nyp.33433062755024
+items[23].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433062755024
+items[23].rightsCode: pdus
+items[23].lastUpdate: 20251231
+items[23].enumcron: Ser. 4, v. 5 (May-July 1901)
+items[23].usRightsString: Full view
+items[24].orig: University of Minnesota
+items[24].fromRecord: 006091066
+items[24].htid: umn.31951d003266783
+items[24].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003266783
+items[24].rightsCode: pdus
+items[24].lastUpdate: 20260313
+items[24].enumcron: 4.F.bd.6 (1901)
+items[24].usRightsString: Full view
+items[25].orig: University of Colorado Boulder
+items[25].fromRecord: 006091066
+items[25].htid: cub.u183032800915
+items[25].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800915
+items[25].rightsCode: pdus
+items[25].lastUpdate: 20260909
+items[25].enumcron: Folge 4 Bd.6 1901
+items[25].usRightsString: Full view
+items[26].orig: New York Public Library
+items[26].fromRecord: 006091066
+items[26].htid: nyp.33433062755016
+items[26].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433062755016
+items[26].rightsCode: pdus
+items[26].lastUpdate: 20241118
+items[26].enumcron: Ser. 4, v. 6 (Aug.-Dec. 1901)
+items[26].usRightsString: Full view
+items[27].orig: University of California
+items[27].fromRecord: 006091066
+items[27].htid: uc1.b3336713
+items[27].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336713
+items[27].rightsCode: pdus
+items[27].lastUpdate: 20260625
+items[27].enumcron: ser. 4 v. 6 1901
+items[27].usRightsString: Full view
+items[28].orig: University of Colorado Boulder
+items[28].fromRecord: 006091066
+items[28].htid: cub.u183032800907
+items[28].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800907
+items[28].rightsCode: pdus
+items[28].lastUpdate: 20260909
+items[28].enumcron: Folge 4 Bd.7 1901/02
+items[28].usRightsString: Full view
+items[29].orig: University of Minnesota
+items[29].fromRecord: 006091066
+items[29].htid: umn.31951d003266791
+items[29].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003266791
+items[29].rightsCode: pdus
+items[29].lastUpdate: 20260313
+items[29].enumcron: 4.F.bd.7 (1902)
+items[29].usRightsString: Full view
+items[30].orig: University of California
+items[30].fromRecord: 006091066
+items[30].htid: uc1.b3336714
+items[30].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336714
+items[30].rightsCode: pdus
+items[30].lastUpdate: 20260625
+items[30].enumcron: ser. 4 v. 7 1902
+items[30].usRightsString: Full view
+items[31].orig: New York Public Library
+items[31].fromRecord: 006091066
+items[31].htid: nyp.33433090770854
+items[31].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770854
+items[31].rightsCode: pdus
+items[31].lastUpdate: 20250609
+items[31].enumcron: Ser. 4, Bd. 7 (1902)
+items[31].usRightsString: Full view
+items[32].orig: University of Minnesota
+items[32].fromRecord: 006091066
+items[32].htid: umn.31951d00326680g
+items[32].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00326680g
+items[32].rightsCode: pdus
+items[32].lastUpdate: 20260313
+items[32].enumcron: 4.F.bd.8 (1902)
+items[32].usRightsString: Full view
+items[33].orig: University of Colorado Boulder
+items[33].fromRecord: 006091066
+items[33].htid: cub.u183032800892
+items[33].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800892
+items[33].rightsCode: pdus
+items[33].lastUpdate: 20260909
+items[33].enumcron: Folge 4 Bd.8 1902
+items[33].usRightsString: Full view
+items[34].orig: University of California
+items[34].fromRecord: 006091066
+items[34].htid: uc1.b3336715
+items[34].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336715
+items[34].rightsCode: pdus
+items[34].lastUpdate: 20260829
+items[34].enumcron: ser. 4 v. 8 1902
+items[34].usRightsString: Full view
+items[35].orig: New York Public Library
+items[35].fromRecord: 006091066
+items[35].htid: nyp.33433090770896
+items[35].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770896
+items[35].rightsCode: pdus
+items[35].lastUpdate: 20250609
+items[35].enumcron: Ser. 4, Bd. 8 (1902)
+items[35].usRightsString: Full view
+items[36].orig: University of California
+items[36].fromRecord: 006091066
+items[36].htid: uc1.31822017761826
+items[36].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822017761826
+items[36].rightsCode: pdus
+items[36].lastUpdate: 20261018
+items[36].enumcron: ser.4 v.9
+items[36].usRightsString: Full view
+items[37].orig: University of Minnesota
+items[37].fromRecord: 006091066
+items[37].htid: umn.31951d00326681e
+items[37].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00326681e
+items[37].rightsCode: pdus
+items[37].lastUpdate: 20260315
+items[37].enumcron: 4.F.bd.9 (1902)
+items[37].usRightsString: Full view
+items[38].orig: University of Colorado Boulder
+items[38].fromRecord: 006091066
+items[38].htid: cub.u183032800884
+items[38].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800884
+items[38].rightsCode: pdus
+items[38].lastUpdate: 20260909
+items[38].enumcron: Folge 4 Bd.9 1902
+items[38].usRightsString: Full view
+items[39].orig: University of California
+items[39].fromRecord: 006091066
+items[39].htid: uc1.b3336716
+items[39].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336716
+items[39].rightsCode: pdus
+items[39].lastUpdate: 20250221
+items[39].enumcron: ser. 4 v. 9 1902
+items[39].usRightsString: Full view
+items[40].orig: University of Colorado Boulder
+items[40].fromRecord: 006091066
+items[40].htid: cub.u183032800876
+items[40].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800876
+items[40].rightsCode: pdus
+items[40].lastUpdate: 20260909
+items[40].enumcron: Folge 4 Bd.10 1902/03
+items[40].usRightsString: Full view
+items[41].orig: University of Minnesota
+items[41].fromRecord: 006091066
+items[41].htid: umn.31951p011889400
+items[41].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951p011889400
+items[41].rightsCode: pdus
+items[41].lastUpdate: 20260328
+items[41].enumcron: 4.F.bd.10 (1903)
+items[41].usRightsString: Full view
+items[42].orig: University of California
+items[42].fromRecord: 006091066
+items[42].htid: uc1.b3336717
+items[42].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336717
+items[42].rightsCode: pdus
+items[42].lastUpdate: 20260625
+items[42].enumcron: ser. 4 v. 10 1903
+items[42].usRightsString: Full view
+items[43].orig: University of California
+items[43].fromRecord: 006091066
+items[43].htid: uc1.b3336718
+items[43].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336718
+items[43].rightsCode: pdus
+items[43].lastUpdate: 20260829
+items[43].enumcron: ser. 4 v. 11 1903
+items[43].usRightsString: Full view
+items[44].orig: New York Public Library
+items[44].fromRecord: 006091066
+items[44].htid: nyp.33433090770938
+items[44].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770938
+items[44].rightsCode: pdus
+items[44].lastUpdate: 20250610
+items[44].enumcron: Ser. 4, Bd. 11 (1903)
+items[44].usRightsString: Full view
+items[45].orig: University of Minnesota
+items[45].fromRecord: 006091066
+items[45].htid: umn.31951d003144189
+items[45].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144189
+items[45].rightsCode: pdus
+items[45].lastUpdate: 20260313
+items[45].enumcron: 4.F.bd.12 (1903)
+items[45].usRightsString: Full view
+items[46].orig: University of Colorado Boulder
+items[46].fromRecord: 006091066
+items[46].htid: cub.u183032800850
+items[46].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800850
+items[46].rightsCode: pdus
+items[46].lastUpdate: 20260909
+items[46].enumcron: Folge 4 Bd.12 1903
+items[46].usRightsString: Full view
+items[47].orig: New York Public Library
+items[47].fromRecord: 006091066
+items[47].htid: nyp.33433062756253
+items[47].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433062756253
+items[47].rightsCode: pdus
+items[47].lastUpdate: 20250409
+items[47].enumcron: Ser. 4, v. 12 (1903)
+items[47].usRightsString: Full view
+items[48].orig: University of California
+items[48].fromRecord: 006091066
+items[48].htid: uc1.b3336719
+items[48].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336719
+items[48].rightsCode: pdus
+items[48].lastUpdate: 20260625
+items[48].enumcron: ser. 4 v. 12 1903
+items[48].usRightsString: Full view
+items[49].orig: University of California
+items[49].fromRecord: 006091066
+items[49].htid: uc1.31822021267000
+items[49].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267000
+items[49].rightsCode: pdus
+items[49].lastUpdate: 20261018
+items[49].enumcron: ser.4 v.13
+items[49].usRightsString: Full view
+items[50].orig: University of California
+items[50].fromRecord: 006091066
+items[50].htid: uc1.b3336720
+items[50].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336720
+items[50].rightsCode: pdus
+items[50].lastUpdate: 20250220
+items[50].enumcron: ser. 4 v. 13 1903
+items[50].usRightsString: Full view
+items[51].orig: University of Colorado Boulder
+items[51].fromRecord: 006091066
+items[51].htid: cub.u183032800973
+items[51].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800973
+items[51].rightsCode: pdus
+items[51].lastUpdate: 20260909
+items[51].enumcron: Folge 4 Bd.13 1903/04
+items[51].usRightsString: Full view
+items[52].orig: University of Minnesota
+items[52].fromRecord: 006091066
+items[52].htid: umn.31951d003144197
+items[52].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144197
+items[52].rightsCode: pdus
+items[52].lastUpdate: 20260313
+items[52].enumcron: 4.F.bd.13 (1904)
+items[52].usRightsString: Full view
+items[53].orig: New York Public Library
+items[53].fromRecord: 006091066
+items[53].htid: nyp.33433090770979
+items[53].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770979
+items[53].rightsCode: pdus
+items[53].lastUpdate: 20250610
+items[53].enumcron: Ser. 4, Bd. 13 (1904)
+items[53].usRightsString: Full view
+items[54].orig: University of California
+items[54].fromRecord: 006091066
+items[54].htid: uc1.31822021267067
+items[54].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267067
+items[54].rightsCode: pdus
+items[54].lastUpdate: 20261019
+items[54].enumcron: ser.4 v.14
+items[54].usRightsString: Full view
+items[55].orig: University of California
+items[55].fromRecord: 006091066
+items[55].htid: uc1.b3336721
+items[55].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336721
+items[55].rightsCode: pdus
+items[55].lastUpdate: 20240928
+items[55].enumcron: ser. 4 v. 14
+items[55].usRightsString: Full view
+items[56].orig: University of Minnesota
+items[56].fromRecord: 006091066
+items[56].htid: umn.31951d00314420m
+items[56].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314420m
+items[56].rightsCode: pdus
+items[56].lastUpdate: 20260313
+items[56].enumcron: 4.F.bd.14 (1904)
+items[56].usRightsString: Full view
+items[57].orig: University of Colorado Boulder
+items[57].fromRecord: 006091066
+items[57].htid: cub.u183032800981
+items[57].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800981
+items[57].rightsCode: pdus
+items[57].lastUpdate: 20260909
+items[57].enumcron: Folge 4 Bd.14 1904
+items[57].usRightsString: Full view
+items[58].orig: New York Public Library
+items[58].fromRecord: 006091066
+items[58].htid: nyp.33433090771019
+items[58].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090771019
+items[58].rightsCode: pdus
+items[58].lastUpdate: 20250609
+items[58].enumcron: Ser. 4, Bd. 14 (1904)
+items[58].usRightsString: Full view
+items[59].orig: University of California
+items[59].fromRecord: 006091066
+items[59].htid: uc1.31822017730144
+items[59].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822017730144
+items[59].rightsCode: pdus
+items[59].lastUpdate: 20250622
+items[59].enumcron: ser.4 v.15
+items[59].usRightsString: Full view
+items[60].orig: University of California
+items[60].fromRecord: 006091066
+items[60].htid: uc1.b3336722
+items[60].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336722
+items[60].rightsCode: pdus
+items[60].lastUpdate: 20261022
+items[60].enumcron: ser. 4 v. 15
+items[60].usRightsString: Full view
+items[61].orig: University of Minnesota
+items[61].fromRecord: 006091066
+items[61].htid: umn.31951d00314421k
+items[61].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314421k
+items[61].rightsCode: pdus
+items[61].lastUpdate: 20260313
+items[61].enumcron: 4.F.bd.15 (1904)
+items[61].usRightsString: Full view
+items[62].orig: University of Colorado Boulder
+items[62].fromRecord: 006091066
+items[62].htid: cub.u183032800999
+items[62].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032800999
+items[62].rightsCode: pdus
+items[62].lastUpdate: 20260909
+items[62].enumcron: Folge 4 Bd.15 1904
+items[62].usRightsString: Full view
+items[63].orig: New York Public Library
+items[63].fromRecord: 006091066
+items[63].htid: nyp.33433090771050
+items[63].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090771050
+items[63].rightsCode: pdus
+items[63].lastUpdate: 20250609
+items[63].enumcron: Ser. 4, Bd. 15 (1904)
+items[63].usRightsString: Full view
+items[64].orig: University of California
+items[64].fromRecord: 006091066
+items[64].htid: uc1.31822023362189
+items[64].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362189
+items[64].rightsCode: pdus
+items[64].lastUpdate: 20250623
+items[64].enumcron: ser.4 v.16
+items[64].usRightsString: Full view
+items[65].orig: University of California
+items[65].fromRecord: 006091066
+items[65].htid: uc1.b3336723
+items[65].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336723
+items[65].rightsCode: pdus
+items[65].lastUpdate: 20250221
+items[65].enumcron: ser. 4 v. 16
+items[65].usRightsString: Full view
+items[66].orig: University of Colorado Boulder
+items[66].fromRecord: 006091066
+items[66].htid: cub.u183032801000
+items[66].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032801000
+items[66].rightsCode: pdus
+items[66].lastUpdate: 20260909
+items[66].enumcron: Folge 4 Bd.16 1905
+items[66].usRightsString: Full view
+items[67].orig: University of California
+items[67].fromRecord: 006091066
+items[67].htid: uc1.31822005489497
+items[67].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822005489497
+items[67].rightsCode: pdus
+items[67].lastUpdate: 20261018
+items[67].enumcron: ser.4 v.17
+items[67].usRightsString: Full view
+items[68].orig: University of California
+items[68].fromRecord: 006091066
+items[68].htid: uc1.31822005487327
+items[68].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822005487327
+items[68].rightsCode: pdus
+items[68].lastUpdate: 20261018
+items[68].enumcron: ser.4 v.18
+items[68].usRightsString: Full view
+items[69].orig: University of Minnesota
+items[69].fromRecord: 006091066
+items[69].htid: umn.31951d00314423g
+items[69].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314423g
+items[69].rightsCode: pdus
+items[69].lastUpdate: 20260313
+items[69].enumcron: 4.F.bd.18 (1905)
+items[69].usRightsString: Full view
+items[70].orig: University of Colorado Boulder
+items[70].fromRecord: 006091066
+items[70].htid: cub.u183032801018
+items[70].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032801018
+items[70].rightsCode: pdus
+items[70].lastUpdate: 20260909
+items[70].enumcron: Folge 4 Bd.18 1905
+items[70].usRightsString: Full view
+items[71].orig: The Ohio State University
+items[71].fromRecord: 006091066
+items[71].htid: osu.32435031484306
+items[71].itemURL: https://babel.hathitrust.org/cgi/pt?id=osu.32435031484306
+items[71].rightsCode: pdus
+items[71].lastUpdate: 20260306
+items[71].enumcron: ser.4v.19
+items[71].usRightsString: Full view
+items[72].orig: University of Minnesota
+items[72].fromRecord: 006091066
+items[72].htid: umn.31951d00041613t
+items[72].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00041613t
+items[72].rightsCode: pdus
+items[72].lastUpdate: 20260312
+items[72].enumcron: 4.F:bd.19 (1906)
+items[72].usRightsString: Full view
+items[73].orig: University of Colorado Boulder
+items[73].fromRecord: 006091066
+items[73].htid: cub.u183032801026
+items[73].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032801026
+items[73].rightsCode: pdus
+items[73].lastUpdate: 20260909
+items[73].enumcron: Folge 4 Bd.19 1906
+items[73].usRightsString: Full view
+items[74].orig: New York Public Library
+items[74].fromRecord: 006091066
+items[74].htid: nyp.33433090771092
+items[74].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090771092
+items[74].rightsCode: pdus
+items[74].lastUpdate: 20250610
+items[74].enumcron: Ser. 4, Bd. 19 (1906)
+items[74].usRightsString: Full view
+items[75].orig: University of California
+items[75].fromRecord: 006091066
+items[75].htid: uc1.31822021267182
+items[75].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267182
+items[75].rightsCode: pdus
+items[75].lastUpdate: 20261018
+items[75].enumcron: ser.4 v.20
+items[75].usRightsString: Full view
+items[76].orig: University of Colorado Boulder
+items[76].fromRecord: 006091066
+items[76].htid: cub.u183032801034
+items[76].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032801034
+items[76].rightsCode: pdus
+items[76].lastUpdate: 20260909
+items[76].enumcron: Folge 4 Bd.20 1906
+items[76].usRightsString: Full view
+items[77].orig: University of California
+items[77].fromRecord: 006091066
+items[77].htid: uc1.b3336724
+items[77].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336724
+items[77].rightsCode: pdus
+items[77].lastUpdate: 20260829
+items[77].enumcron: ser. 4 v. 20 1906
+items[77].usRightsString: Full view
+items[78].orig: New York Public Library
+items[78].fromRecord: 006091066
+items[78].htid: nyp.33433090771134
+items[78].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090771134
+items[78].rightsCode: pdus
+items[78].lastUpdate: 20250609
+items[78].enumcron: Ser. 4, Bd. 20 (1906)
+items[78].usRightsString: Full view
+items[79].orig: University of California
+items[79].fromRecord: 006091066
+items[79].htid: uc1.b3336725
+items[79].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336725
+items[79].rightsCode: pdus
+items[79].lastUpdate: 20260828
+items[79].enumcron: ser. 4 v. 21
+items[79].usRightsString: Full view
+items[80].orig: University of Minnesota
+items[80].fromRecord: 006091066
+items[80].htid: umn.31951d00314425c
+items[80].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314425c
+items[80].rightsCode: pdus
+items[80].lastUpdate: 20260327
+items[80].enumcron: 4.F.bd.21 (1906)
+items[80].usRightsString: Full view
+items[81].orig: University of Colorado Boulder
+items[81].fromRecord: 006091066
+items[81].htid: cub.u183032801042
+items[81].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032801042
+items[81].rightsCode: pdus
+items[81].lastUpdate: 20260909
+items[81].enumcron: Folge 4 Bd.21 1906
+items[81].usRightsString: Full view
+items[82].orig: New York Public Library
+items[82].fromRecord: 006091066
+items[82].htid: nyp.33433090771175
+items[82].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090771175
+items[82].rightsCode: pdus
+items[82].lastUpdate: 20250609
+items[82].enumcron: Ser. 4, Bd. 21 (1906)
+items[82].usRightsString: Full view
+items[83].orig: University of Colorado Boulder
+items[83].fromRecord: 006091066
+items[83].htid: cub.u183032801050
+items[83].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032801050
+items[83].rightsCode: pdus
+items[83].lastUpdate: 20260909
+items[83].enumcron: Folge 4 Bd.22 1906
+items[83].usRightsString: Full view
+items[84].orig: University of Minnesota
+items[84].fromRecord: 006091066
+items[84].htid: umn.31951d00314426a
+items[84].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314426a
+items[84].rightsCode: pdus
+items[84].lastUpdate: 20260327
+items[84].enumcron: 4.F.bd.22 (1907)
+items[84].usRightsString: Full view
+items[85].orig: University of California
+items[85].fromRecord: 006091066
+items[85].htid: uc1.b3336726
+items[85].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336726
+items[85].rightsCode: pdus
+items[85].lastUpdate: 20260829
+items[85].enumcron: ser. 4 v. 22 1907
+items[85].usRightsString: Full view
+items[86].orig: University of California
+items[86].fromRecord: 006091066
+items[86].htid: uc1.31822021266994
+items[86].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021266994
+items[86].rightsCode: pdus
+items[86].lastUpdate: 20261018
+items[86].enumcron: ser.4 v.23
+items[86].usRightsString: Full view
+items[87].orig: University of Minnesota
+items[87].fromRecord: 006091066
+items[87].htid: umn.31951d003144278
+items[87].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144278
+items[87].rightsCode: pdus
+items[87].lastUpdate: 20260327
+items[87].enumcron: 4.F.bd.23 (1907)
+items[87].usRightsString: Full view
+items[88].orig: University of Colorado Boulder
+items[88].fromRecord: 006091066
+items[88].htid: cub.u183032801068
+items[88].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032801068
+items[88].rightsCode: pdus
+items[88].lastUpdate: 20260909
+items[88].enumcron: Folge 4 Bd.23 1907
+items[88].usRightsString: Full view
+items[89].orig: University of California
+items[89].fromRecord: 006091066
+items[89].htid: uc1.b3336727
+items[89].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336727
+items[89].rightsCode: pdus
+items[89].lastUpdate: 20250221
+items[89].enumcron: ser. 4 v. 23 1907
+items[89].usRightsString: Full view
+items[90].orig: University of California
+items[90].fromRecord: 006091066
+items[90].htid: uc1.31822021267059
+items[90].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267059
+items[90].rightsCode: pdus
+items[90].lastUpdate: 20250627
+items[90].enumcron: ser.4 v.24
+items[90].usRightsString: Full view
+items[91].orig: University of California
+items[91].fromRecord: 006091066
+items[91].htid: uc1.b3336728
+items[91].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336728
+items[91].rightsCode: pdus
+items[91].lastUpdate: 20260828
+items[91].enumcron: ser. 4 v. 24
+items[91].usRightsString: Full view
+items[92].orig: University of Minnesota
+items[92].fromRecord: 006091066
+items[92].htid: umn.31951p01188941y
+items[92].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951p01188941y
+items[92].rightsCode: pdus
+items[92].lastUpdate: 20260328
+items[92].enumcron: 4.F.bd.24 (1907)
+items[92].usRightsString: Full view
+items[93].orig: University of Colorado Boulder
+items[93].fromRecord: 006091066
+items[93].htid: cub.u183032801076
+items[93].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032801076
+items[93].rightsCode: pdus
+items[93].lastUpdate: 20260909
+items[93].enumcron: Folge 4 Bd.24 1907
+items[93].usRightsString: Full view
+items[94].orig: New York Public Library
+items[94].fromRecord: 006091066
+items[94].htid: nyp.33433062756246
+items[94].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433062756246
+items[94].rightsCode: pdus
+items[94].lastUpdate: 20241110
+items[94].enumcron: Ser. 4, v. 24 (1907)
+items[94].usRightsString: Full view
+items[95].orig: University of Minnesota
+items[95].fromRecord: 006091066
+items[95].htid: umn.31951d003144294
+items[95].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144294
+items[95].rightsCode: pdus
+items[95].lastUpdate: 20260327
+items[95].enumcron: 4.F.bd.25 (1908)
+items[95].usRightsString: Full view
+items[96].orig: University of Colorado Boulder
+items[96].fromRecord: 006091066
+items[96].htid: cub.u183032801084
+items[96].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032801084
+items[96].rightsCode: pdus
+items[96].lastUpdate: 20260909
+items[96].enumcron: Folge 4 Bd.25 1908
+items[96].usRightsString: Full view
+items[97].orig: University of California
+items[97].fromRecord: 006091066
+items[97].htid: uc1.b3336729
+items[97].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336729
+items[97].rightsCode: pdus
+items[97].lastUpdate: 20260828
+items[97].enumcron: ser. 4 v. 25 1908
+items[97].usRightsString: Full view
+items[98].orig: University of California
+items[98].fromRecord: 006091066
+items[98].htid: uc1.31822021267117
+items[98].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267117
+items[98].rightsCode: pdus
+items[98].lastUpdate: 20261018
+items[98].enumcron: ser.4 v.26
+items[98].usRightsString: Full view
+items[99].orig: University of California
+items[99].fromRecord: 006091066
+items[99].htid: uc1.b3336730
+items[99].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336730
+items[99].rightsCode: pdus
+items[99].lastUpdate: 20250220
+items[99].enumcron: ser. 4 v. 26
+items[99].usRightsString: Full view
+items[100].orig: University of Minnesota
+items[100].fromRecord: 006091066
+items[100].htid: umn.31951d00314430j
+items[100].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314430j
+items[100].rightsCode: pdus
+items[100].lastUpdate: 20260315
+items[100].enumcron: 4.F.bd.26 (1908)
+items[100].usRightsString: Full view
+items[101].orig: New York Public Library
+items[101].fromRecord: 006091066
+items[101].htid: nyp.33433090770789
+items[101].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770789
+items[101].rightsCode: pdus
+items[101].lastUpdate: 20250609
+items[101].enumcron: Ser. 4, Bd. 26 (1908)
+items[101].usRightsString: Full view
+items[102].orig: University of California
+items[102].fromRecord: 006091066
+items[102].htid: uc1.b3336731
+items[102].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336731
+items[102].rightsCode: und
+items[102].lastUpdate: 20260625
+items[102].enumcron: ser. 4 v. 27
+items[102].usRightsString: Limited (search-only)
+items[103].orig: University of Colorado Boulder
+items[103].fromRecord: 006091066
+items[103].htid: cub.u183032801107
+items[103].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032801107
+items[103].rightsCode: pdus
+items[103].lastUpdate: 20260909
+items[103].enumcron: Folge 4 Bd.27 1908
+items[103].usRightsString: Full view
+items[104].orig: New York Public Library
+items[104].fromRecord: 006091066
+items[104].htid: nyp.33433090770821
+items[104].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770821
+items[104].rightsCode: pdus
+items[104].lastUpdate: 20250609
+items[104].enumcron: Ser. 4, Bd. 27 (1908)
+items[104].usRightsString: Full view
+items[105].orig: University of California
+items[105].fromRecord: 006091066
+items[105].htid: uc1.31822021267232
+items[105].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267232
+items[105].rightsCode: pdus
+items[105].lastUpdate: 20261019
+items[105].enumcron: ser.4 v.28
+items[105].usRightsString: Full view
+items[106].orig: University of California
+items[106].fromRecord: 006091066
+items[106].htid: uc1.b3336732
+items[106].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336732
+items[106].rightsCode: pdus
+items[106].lastUpdate: 20260828
+items[106].enumcron: ser. 4 v. 28
+items[106].usRightsString: Full view
+items[107].orig: University of California
+items[107].fromRecord: 006091066
+items[107].htid: uc1.31822021266929
+items[107].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021266929
+items[107].rightsCode: pdus
+items[107].lastUpdate: 20261018
+items[107].enumcron: ser.4 v.29
+items[107].usRightsString: Full view
+items[108].orig: University of Minnesota
+items[108].fromRecord: 006091066
+items[108].htid: umn.31951d00314432f
+items[108].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314432f
+items[108].rightsCode: pdus
+items[108].lastUpdate: 20260313
+items[108].enumcron: 4.F.bd.29 (1909)
+items[108].usRightsString: Full view
+items[109].orig: University of California
+items[109].fromRecord: 006091066
+items[109].htid: uc1.b3336733
+items[109].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336733
+items[109].rightsCode: pdus
+items[109].lastUpdate: 20260625
+items[109].enumcron: ser. 4 v. 29 1909
+items[109].usRightsString: Full view
+items[110].orig: New York Public Library
+items[110].fromRecord: 006091066
+items[110].htid: nyp.33433090770862
+items[110].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770862
+items[110].rightsCode: pdus
+items[110].lastUpdate: 20250609
+items[110].enumcron: Ser. 4, Bd. 29 (1909)
+items[110].usRightsString: Full view
+items[111].orig: University of Minnesota
+items[111].fromRecord: 006091066
+items[111].htid: umn.31951d00314433d
+items[111].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314433d
+items[111].rightsCode: pdus
+items[111].lastUpdate: 20260313
+items[111].enumcron: 4.F.bd.30 (1909)
+items[111].usRightsString: Full view
+items[112].orig: University of California
+items[112].fromRecord: 006091066
+items[112].htid: uc1.b3336734
+items[112].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336734
+items[112].rightsCode: pdus
+items[112].lastUpdate: 20260828
+items[112].enumcron: ser. 4 v. 30 1909
+items[112].usRightsString: Full view
+items[113].orig: University of California
+items[113].fromRecord: 006091066
+items[113].htid: uc1.31822021267042
+items[113].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267042
+items[113].rightsCode: pdus
+items[113].lastUpdate: 20261018
+items[113].enumcron: ser.4 v.31
+items[113].usRightsString: Full view
+items[114].orig: University of Colorado Boulder
+items[114].fromRecord: 006091066
+items[114].htid: cub.u183032795681
+items[114].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795681
+items[114].rightsCode: pdus
+items[114].lastUpdate: 20260909
+items[114].enumcron: Folge 4 Index v.31-78 1910/25
+items[114].usRightsString: Full view
+items[115].orig: University of Minnesota
+items[115].fromRecord: 006091066
+items[115].htid: umn.31951d003144359
+items[115].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144359
+items[115].rightsCode: pdus
+items[115].lastUpdate: 20260313
+items[115].enumcron: 4.F.bd.31 (1910)
+items[115].usRightsString: Full view
+items[116].orig: University of California
+items[116].fromRecord: 006091066
+items[116].htid: uc1.b3336735
+items[116].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336735
+items[116].rightsCode: pdus
+items[116].lastUpdate: 20260828
+items[116].enumcron: ser. 4 v. 31 1910
+items[116].usRightsString: Full view
+items[117].orig: University of California
+items[117].fromRecord: 006091066
+items[117].htid: uc1.b3336736
+items[117].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336736
+items[117].rightsCode: pdus
+items[117].lastUpdate: 20260625
+items[117].enumcron: ser. 4 v. 32
+items[117].usRightsString: Full view
+items[118].orig: University of Minnesota
+items[118].fromRecord: 006091066
+items[118].htid: umn.31951d003144367
+items[118].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144367
+items[118].rightsCode: pdus
+items[118].lastUpdate: 20260313
+items[118].enumcron: 4.F.bd.32 (1910)
+items[118].usRightsString: Full view
+items[119].orig: New York Public Library
+items[119].fromRecord: 006091066
+items[119].htid: nyp.33433090770904
+items[119].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770904
+items[119].rightsCode: pdus
+items[119].lastUpdate: 20250609
+items[119].enumcron: Ser. 4, Bd. 32 (1910)
+items[119].usRightsString: Full view
+items[120].orig: University of California
+items[120].fromRecord: 006091066
+items[120].htid: uc1.b3336737
+items[120].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336737
+items[120].rightsCode: pdus
+items[120].lastUpdate: 20260829
+items[120].enumcron: ser. 4 v. 33
+items[120].usRightsString: Full view
+items[121].orig: University of Minnesota
+items[121].fromRecord: 006091066
+items[121].htid: umn.31951d003144375
+items[121].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144375
+items[121].rightsCode: pdus
+items[121].lastUpdate: 20260313
+items[121].enumcron: 4.F.bd.33 (1910)
+items[121].usRightsString: Full view
+items[122].orig: New York Public Library
+items[122].fromRecord: 006091066
+items[122].htid: nyp.33433090770946
+items[122].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770946
+items[122].rightsCode: pdus
+items[122].lastUpdate: 20250610
+items[122].enumcron: Ser. 4, Bd. 33 (1910)
+items[122].usRightsString: Full view
+items[123].orig: University of California
+items[123].fromRecord: 006091066
+items[123].htid: uc1.31822021267224
+items[123].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267224
+items[123].rightsCode: pdus
+items[123].lastUpdate: 20261018
+items[123].enumcron: ser.4 v.34
+items[123].usRightsString: Full view
+items[124].orig: University of California
+items[124].fromRecord: 006091066
+items[124].htid: uc1.b3336738
+items[124].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336738
+items[124].rightsCode: pdus
+items[124].lastUpdate: 20250618
+items[124].enumcron: ser. 4 v. 34 1911
+items[124].usRightsString: Full view
+items[125].orig: University of California
+items[125].fromRecord: 006091066
+items[125].htid: uc1.31822021266911
+items[125].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021266911
+items[125].rightsCode: pdus
+items[125].lastUpdate: 20261018
+items[125].enumcron: ser.4 v.35
+items[125].usRightsString: Full view
+items[126].orig: University of California
+items[126].fromRecord: 006091066
+items[126].htid: uc1.b3336739
+items[126].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336739
+items[126].rightsCode: pdus
+items[126].lastUpdate: 20260829
+items[126].enumcron: ser. 4 v. 35 1911
+items[126].usRightsString: Full view
+items[127].orig: New York Public Library
+items[127].fromRecord: 006091066
+items[127].htid: nyp.33433090770987
+items[127].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770987
+items[127].rightsCode: pdus
+items[127].lastUpdate: 20250609
+items[127].enumcron: Ser. 4, Bd. 35 (1911)
+items[127].usRightsString: Full view
+items[128].orig: University of California
+items[128].fromRecord: 006091066
+items[128].htid: uc1.31822021266978
+items[128].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021266978
+items[128].rightsCode: pdus
+items[128].lastUpdate: 20261018
+items[128].enumcron: ser.4 v.36
+items[128].usRightsString: Full view
+items[129].orig: University of Minnesota
+items[129].fromRecord: 006091066
+items[129].htid: umn.31951d003144391
+items[129].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144391
+items[129].rightsCode: pdus
+items[129].lastUpdate: 20260313
+items[129].enumcron: 4.F.bd.36 (1911)
+items[129].usRightsString: Full view
+items[130].orig: University of California
+items[130].fromRecord: 006091066
+items[130].htid: uc1.b3336740
+items[130].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336740
+items[130].rightsCode: pdus
+items[130].lastUpdate: 20250625
+items[130].enumcron: ser. 4 v. 36 1911
+items[130].usRightsString: Full view
+items[131].orig: University of California
+items[131].fromRecord: 006091066
+items[131].htid: uc1.31822021267034
+items[131].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267034
+items[131].rightsCode: pdus
+items[131].lastUpdate: 20250622
+items[131].enumcron: ser.4 v.37
+items[131].usRightsString: Full view
+items[132].orig: University of Colorado Boulder
+items[132].fromRecord: 006091066
+items[132].htid: cub.u183032793906
+items[132].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032793906
+items[132].rightsCode: pdus
+items[132].lastUpdate: 20260909
+items[132].enumcron: Folge 4 Bd.37 1911/12
+items[132].usRightsString: Full view
+items[133].orig: University of Minnesota
+items[133].fromRecord: 006091066
+items[133].htid: umn.31951d00314440g
+items[133].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314440g
+items[133].rightsCode: pdus
+items[133].lastUpdate: 20260313
+items[133].enumcron: 4.F.bd.37 (1912)
+items[133].usRightsString: Full view
+items[134].orig: University of California
+items[134].fromRecord: 006091066
+items[134].htid: uc1.b3336741
+items[134].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336741
+items[134].rightsCode: pdus
+items[134].lastUpdate: 20260829
+items[134].enumcron: ser. 4 v. 37 1912
+items[134].usRightsString: Full view
+items[135].orig: University of California
+items[135].fromRecord: 006091066
+items[135].htid: uc1.31822021267091
+items[135].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267091
+items[135].rightsCode: pdus
+items[135].lastUpdate: 20250627
+items[135].enumcron: ser.4 v.38
+items[135].usRightsString: Full view
+items[136].orig: University of California
+items[136].fromRecord: 006091066
+items[136].htid: uc1.b3336742
+items[136].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336742
+items[136].rightsCode: pdus
+items[136].lastUpdate: 20250422
+items[136].enumcron: ser. 4 v. 38 1912
+items[136].usRightsString: Full view
+items[137].orig: New York Public Library
+items[137].fromRecord: 006091066
+items[137].htid: nyp.33433090771027
+items[137].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090771027
+items[137].rightsCode: pdus
+items[137].lastUpdate: 20250610
+items[137].enumcron: Ser. 4, Bd. 38 (1912)
+items[137].usRightsString: Full view
+items[138].orig: University of California
+items[138].fromRecord: 006091066
+items[138].htid: uc1.31822021267158
+items[138].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267158
+items[138].rightsCode: pdus
+items[138].lastUpdate: 20250622
+items[138].enumcron: ser.4 v.39
+items[138].usRightsString: Full view
+items[139].orig: University of California
+items[139].fromRecord: 006091066
+items[139].htid: uc1.b3336743
+items[139].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336743
+items[139].rightsCode: pdus
+items[139].lastUpdate: 20250625
+items[139].enumcron: ser. 4 v. 39 1912
+items[139].usRightsString: Full view
+items[140].orig: University of California
+items[140].fromRecord: 006091066
+items[140].htid: uc1.b3336744
+items[140].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336744
+items[140].rightsCode: pdus
+items[140].lastUpdate: 20260625
+items[140].enumcron: ser. 4 v. 40
+items[140].usRightsString: Full view
+items[141].orig: University of Colorado Boulder
+items[141].fromRecord: 006091066
+items[141].htid: cub.u183032794114
+items[141].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032794114
+items[141].rightsCode: pdus
+items[141].lastUpdate: 20260909
+items[141].enumcron: Folge 4 Bd.40 1912/13
+items[141].usRightsString: Full view
+items[142].orig: University of Minnesota
+items[142].fromRecord: 006091066
+items[142].htid: umn.31951p003587298
+items[142].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951p003587298
+items[142].rightsCode: pdus
+items[142].lastUpdate: 20260129
+items[142].enumcron: 4.F.bd.40 (1913)
+items[142].usRightsString: Full view
+items[143].orig: University of California
+items[143].fromRecord: 006091066
+items[143].htid: uc1.31822021266903
+items[143].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021266903
+items[143].rightsCode: pdus
+items[143].lastUpdate: 20261018
+items[143].enumcron: ser.4 v.41
+items[143].usRightsString: Full view
+items[144].orig: University of California
+items[144].fromRecord: 006091066
+items[144].htid: uc1.b3336745
+items[144].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336745
+items[144].rightsCode: pdus
+items[144].lastUpdate: 20260829
+items[144].enumcron: ser. 4 v. 41
+items[144].usRightsString: Full view
+items[145].orig: University of Minnesota
+items[145].fromRecord: 006091066
+items[145].htid: umn.31951d003144448
+items[145].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144448
+items[145].rightsCode: pdus
+items[145].lastUpdate: 20260327
+items[145].enumcron: 4.F.bd.41 (1913)
+items[145].usRightsString: Full view
+items[146].orig: New York Public Library
+items[146].fromRecord: 006091066
+items[146].htid: nyp.33433090771068
+items[146].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090771068
+items[146].rightsCode: pdus
+items[146].lastUpdate: 20250610
+items[146].enumcron: Ser. 4, Bd. 41 (1913)
+items[146].usRightsString: Full view
+items[147].orig: University of California
+items[147].fromRecord: 006091066
+items[147].htid: uc1.b3336746
+items[147].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336746
+items[147].rightsCode: pdus
+items[147].lastUpdate: 20260829
+items[147].enumcron: ser. 4 v. 42
+items[147].usRightsString: Full view
+items[148].orig: University of Minnesota
+items[148].fromRecord: 006091066
+items[148].htid: umn.31951d003144456
+items[148].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144456
+items[148].rightsCode: pdus
+items[148].lastUpdate: 20260313
+items[148].enumcron: 4.F.bd.42 (1913)
+items[148].usRightsString: Full view
+items[149].orig: University of California
+items[149].fromRecord: 006091066
+items[149].htid: uc1.31822023362791
+items[149].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362791
+items[149].rightsCode: pdus
+items[149].lastUpdate: 20250622
+items[149].enumcron: ser.4 v.43
+items[149].usRightsString: Full view
+items[150].orig: University of California
+items[150].fromRecord: 006091066
+items[150].htid: uc1.b3336747
+items[150].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336747
+items[150].rightsCode: pdus
+items[150].lastUpdate: 20260625
+items[150].enumcron: ser. 4 v. 43
+items[150].usRightsString: Full view
+items[151].orig: University of Colorado Boulder
+items[151].fromRecord: 006091066
+items[151].htid: cub.u183032794083
+items[151].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032794083
+items[151].rightsCode: pdus
+items[151].lastUpdate: 20260909
+items[151].enumcron: Folge 4 Bd.43 1913/14
+items[151].usRightsString: Full view
+items[152].orig: University of California
+items[152].fromRecord: 006091066
+items[152].htid: uc1.31822021267026
+items[152].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267026
+items[152].rightsCode: pdus
+items[152].lastUpdate: 20261018
+items[152].enumcron: ser.4 v.44
+items[152].usRightsString: Full view
+items[153].orig: University of California
+items[153].fromRecord: 006091066
+items[153].htid: uc1.b3336748
+items[153].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336748
+items[153].rightsCode: pdus
+items[153].lastUpdate: 20260625
+items[153].enumcron: ser. 4 v. 44
+items[153].usRightsString: Full view
+items[154].orig: University of California
+items[154].fromRecord: 006091066
+items[154].htid: uc1.31822023362205
+items[154].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362205
+items[154].rightsCode: pdus
+items[154].lastUpdate: 20250622
+items[154].enumcron: ser.4 v.45
+items[154].usRightsString: Full view
+items[155].orig: University of California
+items[155].fromRecord: 006091066
+items[155].htid: uc1.b3336749
+items[155].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336749
+items[155].rightsCode: pdus
+items[155].lastUpdate: 20260828
+items[155].enumcron: ser. 4 v. 45
+items[155].usRightsString: Full view
+items[156].orig: University of Minnesota
+items[156].fromRecord: 006091066
+items[156].htid: umn.31951d003144480
+items[156].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144480
+items[156].rightsCode: pdus
+items[156].lastUpdate: 20260315
+items[156].enumcron: 4.F.bd.45 (1914)
+items[156].usRightsString: Full view
+items[157].orig: University of California
+items[157].fromRecord: 006091066
+items[157].htid: uc1.b3336750
+items[157].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336750
+items[157].rightsCode: pdus
+items[157].lastUpdate: 20260828
+items[157].enumcron: ser. 4 v. 46
+items[157].usRightsString: Full view
+items[158].orig: New York Public Library
+items[158].fromRecord: 006091066
+items[158].htid: nyp.33433090771100
+items[158].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090771100
+items[158].rightsCode: pdus
+items[158].lastUpdate: 20250610
+items[158].enumcron: Ser. 4, Bd. 46 (1915)
+items[158].usRightsString: Full view
+items[159].orig: University of California
+items[159].fromRecord: 006091066
+items[159].htid: uc1.31822002340461
+items[159].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822002340461
+items[159].rightsCode: pdus
+items[159].lastUpdate: 20261018
+items[159].enumcron: ser.4 v.47
+items[159].usRightsString: Full view
+items[160].orig: University of Minnesota
+items[160].fromRecord: 006091066
+items[160].htid: umn.31951p003586836
+items[160].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951p003586836
+items[160].rightsCode: pdus
+items[160].lastUpdate: 20260328
+items[160].enumcron: 4.F.bd.47 (1915)
+items[160].usRightsString: Full view
+items[161].orig: University of California
+items[161].fromRecord: 006091066
+items[161].htid: uc1.31822023362320
+items[161].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362320
+items[161].rightsCode: pdus
+items[161].lastUpdate: 20250703
+items[161].enumcron: ser.4 v.48
+items[161].usRightsString: Full view
+items[162].orig: University of California
+items[162].fromRecord: 006091066
+items[162].htid: uc1.b3336751
+items[162].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336751
+items[162].rightsCode: pdus
+items[162].lastUpdate: 20260625
+items[162].enumcron: ser. 4 v. 48
+items[162].usRightsString: Full view
+items[163].orig: University of Colorado Boulder
+items[163].fromRecord: 006091066
+items[163].htid: cub.u183032794033
+items[163].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032794033
+items[163].rightsCode: pdus
+items[163].lastUpdate: 20260909
+items[163].enumcron: Folge 4 Bd.48 1915/16
+items[163].usRightsString: Full view
+items[164].orig: University of California
+items[164].fromRecord: 006091066
+items[164].htid: uc1.31822023362387
+items[164].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362387
+items[164].rightsCode: pdus
+items[164].lastUpdate: 20261018
+items[164].enumcron: ser.4 v.49
+items[164].usRightsString: Full view
+items[165].orig: University of California
+items[165].fromRecord: 006091066
+items[165].htid: uc1.31822023362445
+items[165].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362445
+items[165].rightsCode: pdus
+items[165].lastUpdate: 20261018
+items[165].enumcron: ser.4 v.50
+items[165].usRightsString: Full view
+items[166].orig: University of California
+items[166].fromRecord: 006091066
+items[166].htid: uc1.b3336752
+items[166].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336752
+items[166].rightsCode: pdus
+items[166].lastUpdate: 20260625
+items[166].enumcron: ser. 4 v. 50
+items[166].usRightsString: Full view
+items[167].orig: University of Minnesota
+items[167].fromRecord: 006091066
+items[167].htid: umn.31951d003144529
+items[167].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144529
+items[167].rightsCode: pdus
+items[167].lastUpdate: 20260313
+items[167].enumcron: 4.F.bd.50 (1916)
+items[167].usRightsString: Full view
+items[168].orig: University of California
+items[168].fromRecord: 006091066
+items[168].htid: uc1.31822023362502
+items[168].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362502
+items[168].rightsCode: pdus
+items[168].lastUpdate: 20261018
+items[168].enumcron: ser.4 v.51
+items[168].usRightsString: Full view
+items[169].orig: University of Minnesota
+items[169].fromRecord: 006091066
+items[169].htid: umn.31951d003144537
+items[169].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144537
+items[169].rightsCode: pdus
+items[169].lastUpdate: 20260313
+items[169].enumcron: 4.F.bd.51 (1916)
+items[169].usRightsString: Full view
+items[170].orig: University of Colorado Boulder
+items[170].fromRecord: 006091066
+items[170].htid: cub.u183032793613
+items[170].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032793613
+items[170].rightsCode: pdus
+items[170].lastUpdate: 20260909
+items[170].enumcron: Folge 4 Bd.51 1916
+items[170].usRightsString: Full view
+items[171].orig: New York Public Library
+items[171].fromRecord: 006091066
+items[171].htid: nyp.33433090771183
+items[171].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090771183
+items[171].rightsCode: pdus
+items[171].lastUpdate: 20250610
+items[171].enumcron: Ser. 4, Bd. 51 (1916)
+items[171].usRightsString: Full view
+items[172].orig: University of California
+items[172].fromRecord: 006091066
+items[172].htid: uc1.31822023362569
+items[172].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362569
+items[172].rightsCode: pdus
+items[172].lastUpdate: 20261018
+items[172].enumcron: ser.4 v.52
+items[172].usRightsString: Full view
+items[173].orig: New York Public Library
+items[173].fromRecord: 006091066
+items[173].htid: nyp.33433090770755
+items[173].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770755
+items[173].rightsCode: pdus
+items[173].lastUpdate: 20250610
+items[173].enumcron: Ser. 4, Bd. 52 (1917)
+items[173].usRightsString: Full view
+items[174].orig: University of California
+items[174].fromRecord: 006091066
+items[174].htid: uc1.31822023362627
+items[174].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362627
+items[174].rightsCode: pdus
+items[174].lastUpdate: 20261018
+items[174].enumcron: ser.4 v.53
+items[174].usRightsString: Full view
+items[175].orig: University of Minnesota
+items[175].fromRecord: 006091066
+items[175].htid: umn.31951d003144553
+items[175].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144553
+items[175].rightsCode: pdus
+items[175].lastUpdate: 20260313
+items[175].enumcron: 4.F.bd.53 (1917)
+items[175].usRightsString: Full view
+items[176].orig: New York Public Library
+items[176].fromRecord: 006091066
+items[176].htid: nyp.33433090770797
+items[176].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770797
+items[176].rightsCode: pdus
+items[176].lastUpdate: 20250610
+items[176].enumcron: Ser. 4, Bd. 53 (1917)
+items[176].usRightsString: Full view
+items[177].orig: University of California
+items[177].fromRecord: 006091066
+items[177].htid: uc1.31822023362684
+items[177].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362684
+items[177].rightsCode: pdus
+items[177].lastUpdate: 20261019
+items[177].enumcron: ser.4 v.54
+items[177].usRightsString: Full view
+items[178].orig: New York Public Library
+items[178].fromRecord: 006091066
+items[178].htid: nyp.33433090770839
+items[178].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770839
+items[178].rightsCode: pdus
+items[178].lastUpdate: 20250610
+items[178].enumcron: Ser. 4, Bd. 54 (1918)
+items[178].usRightsString: Full view
+items[179].orig: University of California
+items[179].fromRecord: 006091066
+items[179].htid: uc1.31822023362742
+items[179].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362742
+items[179].rightsCode: pdus
+items[179].lastUpdate: 20250622
+items[179].enumcron: ser.4 v.55
+items[179].usRightsString: Full view
+items[180].orig: University of Minnesota
+items[180].fromRecord: 006091066
+items[180].htid: umn.31951d003144561
+items[180].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144561
+items[180].rightsCode: pdus
+items[180].lastUpdate: 20260313
+items[180].enumcron: 4.F.bd.55 (1918)
+items[180].usRightsString: Full view
+items[181].orig: University of California
+items[181].fromRecord: 006091066
+items[181].htid: uc1.31822023362809
+items[181].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362809
+items[181].rightsCode: pdus
+items[181].lastUpdate: 20261018
+items[181].enumcron: ser.4 v.56
+items[181].usRightsString: Full view
+items[182].orig: New York Public Library
+items[182].fromRecord: 006091066
+items[182].htid: nyp.33433090770870
+items[182].itemURL: https://babel.hathitrust.org/cgi/pt?id=nyp.33433090770870
+items[182].rightsCode: pdus
+items[182].lastUpdate: 20250609
+items[182].enumcron: Ser. 4, Bd. 56 (1918)
+items[182].usRightsString: Full view
+items[183].orig: University of California
+items[183].fromRecord: 006091066
+items[183].htid: uc1.31822023361371
+items[183].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361371
+items[183].rightsCode: pdus
+items[183].lastUpdate: 20261019
+items[183].enumcron: ser.4 v.57
+items[183].usRightsString: Full view
+items[184].orig: University of Colorado Boulder
+items[184].fromRecord: 006091066
+items[184].htid: cub.u183032793744
+items[184].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032793744
+items[184].rightsCode: pdus
+items[184].lastUpdate: 20260909
+items[184].enumcron: Folge 4 Bd.57 1918/19
+items[184].usRightsString: Full view
+items[185].orig: University of California
+items[185].fromRecord: 006091066
+items[185].htid: uc1.31822023361439
+items[185].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361439
+items[185].rightsCode: pdus
+items[185].lastUpdate: 20251121
+items[185].enumcron: ser.4 v.58
+items[185].usRightsString: Full view
+items[186].orig: University of California
+items[186].fromRecord: 006091066
+items[186].htid: uc1.31822023361496
+items[186].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361496
+items[186].rightsCode: pdus
+items[186].lastUpdate: 20250703
+items[186].enumcron: ser.4 v.59
+items[186].usRightsString: Full view
+items[187].orig: University of California
+items[187].fromRecord: 006091066
+items[187].htid: uc1.31822023361553
+items[187].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361553
+items[187].rightsCode: pdus
+items[187].lastUpdate: 20250622
+items[187].enumcron: ser.4 v.60
+items[187].usRightsString: Full view
+items[188].orig: University of California
+items[188].fromRecord: 006091066
+items[188].htid: uc1.31822023361611
+items[188].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361611
+items[188].rightsCode: pdus
+items[188].lastUpdate: 20261019
+items[188].enumcron: ser.4 v.61
+items[188].usRightsString: Full view
+items[189].orig: University of California
+items[189].fromRecord: 006091066
+items[189].htid: uc1.31822033337759
+items[189].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822033337759
+items[189].rightsCode: pdus
+items[189].lastUpdate: 20261018
+items[189].enumcron: ser.4 v.62
+items[189].usRightsString: Full view
+items[190].orig: University of California
+items[190].fromRecord: 006091066
+items[190].htid: uc1.31822023361736
+items[190].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361736
+items[190].rightsCode: pdus
+items[190].lastUpdate: 20250703
+items[190].enumcron: ser.4 v.63
+items[190].usRightsString: Full view
+items[191].orig: University of California
+items[191].fromRecord: 006091066
+items[191].htid: uc1.31822023361850
+items[191].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361850
+items[191].rightsCode: pdus
+items[191].lastUpdate: 20250622
+items[191].enumcron: ser.4 v.65
+items[191].usRightsString: Full view
+items[192].orig: University of California
+items[192].fromRecord: 006091066
+items[192].htid: uc1.31822023361918
+items[192].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361918
+items[192].rightsCode: pdus
+items[192].lastUpdate: 20250622
+items[192].enumcron: ser.4 v.66
+items[192].usRightsString: Full view
+items[193].orig: Indiana University
+items[193].fromRecord: 006091066
+items[193].htid: inu.30000089307494
+items[193].itemURL: https://babel.hathitrust.org/cgi/pt?id=inu.30000089307494
+items[193].rightsCode: pdus
+items[193].lastUpdate: 20260419
+items[193].enumcron: ser.4,v.66 1921
+items[193].usRightsString: Full view
+items[194].orig: University of Colorado Boulder
+items[194].fromRecord: 006091066
+items[194].htid: cub.u183032793655
+items[194].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032793655
+items[194].rightsCode: pdus
+items[194].lastUpdate: 20260909
+items[194].enumcron: Folge 4 v.66 1922
+items[194].usRightsString: Full view
+items[195].orig: University of California
+items[195].fromRecord: 006091066
+items[195].htid: uc1.31822023361975
+items[195].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361975
+items[195].rightsCode: pdus
+items[195].lastUpdate: 20250622
+items[195].enumcron: ser.4 v.67
+items[195].usRightsString: Full view
+items[196].orig: University of Minnesota
+items[196].fromRecord: 006091066
+items[196].htid: umn.31951d00314468u
+items[196].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314468u
+items[196].rightsCode: pdus
+items[196].lastUpdate: 20260313
+items[196].enumcron: 4.F.bd.67 (1922)
+items[196].usRightsString: Full view
+items[197].orig: University of California
+items[197].fromRecord: 006091066
+items[197].htid: uc1.31822023362031
+items[197].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023362031
+items[197].rightsCode: pdus
+items[197].lastUpdate: 20261019
+items[197].enumcron: ser.4 v.68
+items[197].usRightsString: Full view
+items[198].orig: University of Minnesota
+items[198].fromRecord: 006091066
+items[198].htid: umn.31951d00314469s
+items[198].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314469s
+items[198].rightsCode: pdus
+items[198].lastUpdate: 20260313
+items[198].enumcron: 4.F.bd.68 (1922)
+items[198].usRightsString: Full view
+items[199].orig: University of California
+items[199].fromRecord: 006091066
+items[199].htid: uc1.31822023361389
+items[199].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361389
+items[199].rightsCode: pdus
+items[199].lastUpdate: 20251121
+items[199].enumcron: ser.4 v.69
+items[199].usRightsString: Full view
+items[200].orig: University of Minnesota
+items[200].fromRecord: 006091066
+items[200].htid: umn.31951d003144707
+items[200].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d003144707
+items[200].rightsCode: pdus
+items[200].lastUpdate: 20260313
+items[200].enumcron: 4.F.bd.69 (1922)
+items[200].usRightsString: Full view
+items[201].orig: University of Colorado Boulder
+items[201].fromRecord: 006091066
+items[201].htid: cub.u183032793794
+items[201].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032793794
+items[201].rightsCode: pdus
+items[201].lastUpdate: 20260909
+items[201].enumcron: Folge 4 v.69 1922/23
+items[201].usRightsString: Full view
+items[202].orig: University of Colorado Boulder
+items[202].fromRecord: 006091066
+items[202].htid: cub.u183032793833
+items[202].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032793833
+items[202].rightsCode: pdus
+items[202].lastUpdate: 20260909
+items[202].enumcron: Folge 4 v.73-74 1923/24
+items[202].usRightsString: Full view
+items[203].orig: University of Colorado Boulder
+items[203].fromRecord: 006091066
+items[203].htid: cub.u183032793867
+items[203].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032793867
+items[203].rightsCode: pdus
+items[203].lastUpdate: 20260909
+items[203].enumcron: Folge 4 v.77 1924
+items[203].usRightsString: Full view
+items[204].orig: University of California
+items[204].fromRecord: 006091066
+items[204].htid: uc1.31822021267208
+items[204].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822021267208
+items[204].rightsCode: pdus
+items[204].lastUpdate: 20250704
+items[204].enumcron: ser.4 v.78
+items[204].usRightsString: Full view
+items[205].orig: University of Colorado Boulder
+items[205].fromRecord: 006091066
+items[205].htid: cub.u183032793875
+items[205].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032793875
+items[205].rightsCode: pdus
+items[205].lastUpdate: 20260909
+items[205].enumcron: Folge 4 v.78 1924/25
+items[205].usRightsString: Full view
+items[206].orig: University of Colorado Boulder
+items[206].fromRecord: 006091066
+items[206].htid: cub.u183032795720
+items[206].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795720
+items[206].rightsCode: pdus
+items[206].lastUpdate: 20260909
+items[206].enumcron: Folge 4 v.82 1926/27
+items[206].usRightsString: Full view
+items[207].orig: University of California
+items[207].fromRecord: 006091066
+items[207].htid: uc1.b3336753
+items[207].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336753
+items[207].rightsCode: pdus
+items[207].lastUpdate: 20250117
+items[207].enumcron: ser. 5 v. 1 1929
+items[207].usRightsString: Full view
+items[208].orig: University of California
+items[208].fromRecord: 006091066
+items[208].htid: uc1.b3336754
+items[208].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336754
+items[208].rightsCode: pdus
+items[208].lastUpdate: 20260724
+items[208].enumcron: ser. 5 v. 2 1929
+items[208].usRightsString: Full view
+items[209].orig: University of California
+items[209].fromRecord: 006091066
+items[209].htid: uc1.b3336755
+items[209].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336755
+items[209].rightsCode: pdus
+items[209].lastUpdate: 20250117
+items[209].enumcron: ser. 5 v. 3 1929
+items[209].usRightsString: Full view
+items[210].orig: University of California
+items[210].fromRecord: 006091066
+items[210].htid: uc1.b3336756
+items[210].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336756
+items[210].rightsCode: pdus
+items[210].lastUpdate: 20130808
+items[210].enumcron: ser. 5 v. 4 1930
+items[210].usRightsString: Full view
+items[211].orig: University of California
+items[211].fromRecord: 006091066
+items[211].htid: uc1.b3336757
+items[211].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336757
+items[211].rightsCode: pdus
+items[211].lastUpdate: 20130808
+items[211].enumcron: ser. 5 v. 5 1930
+items[211].usRightsString: Full view
+items[212].orig: University of California
+items[212].fromRecord: 006091066
+items[212].htid: uc1.b3336758
+items[212].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336758
+items[212].rightsCode: pdus
+items[212].lastUpdate: 20130808
+items[212].enumcron: ser. 5 v. 6 1930
+items[212].usRightsString: Full view
+items[213].orig: University of Colorado Boulder
+items[213].fromRecord: 006091066
+items[213].htid: cub.u183032796378
+items[213].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796378
+items[213].rightsCode: pdus
+items[213].lastUpdate: 20260909
+items[213].enumcron: Folge 5 v.7 1930/31
+items[213].usRightsString: Full view
+items[214].orig: University of California
+items[214].fromRecord: 006091066
+items[214].htid: uc1.b3336759
+items[214].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336759
+items[214].rightsCode: ic
+items[214].lastUpdate: 20130808
+items[214].enumcron: ser. 5 v. 7 1930-31
+items[214].usRightsString: Limited (search-only)
+items[215].orig: University of California
+items[215].fromRecord: 006091066
+items[215].htid: uc1.b3336760
+items[215].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336760
+items[215].rightsCode: ic
+items[215].lastUpdate: 20130808
+items[215].enumcron: ser. 5 v. 8 1931
+items[215].usRightsString: Limited (search-only)
+items[216].orig: University of California
+items[216].fromRecord: 006091066
+items[216].htid: uc1.b3336761
+items[216].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336761
+items[216].rightsCode: ic
+items[216].lastUpdate: 20130808
+items[216].enumcron: ser. 5 v. 9 1931
+items[216].usRightsString: Limited (search-only)
+items[217].orig: University of California
+items[217].fromRecord: 006091066
+items[217].htid: uc1.b3336762
+items[217].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336762
+items[217].rightsCode: ic
+items[217].lastUpdate: 20130808
+items[217].enumcron: ser. 5 v. 10 1931
+items[217].usRightsString: Limited (search-only)
+items[218].orig: University of California
+items[218].fromRecord: 006091066
+items[218].htid: uc1.b3336763
+items[218].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336763
+items[218].rightsCode: ic
+items[218].lastUpdate: 20130808
+items[218].enumcron: ser. 5 v. 11 1931
+items[218].usRightsString: Limited (search-only)
+items[219].orig: University of Colorado Boulder
+items[219].fromRecord: 006091066
+items[219].htid: cub.u183032796328
+items[219].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796328
+items[219].rightsCode: ic
+items[219].lastUpdate: 20260909
+items[219].enumcron: Folge 5 v.12 1931/32
+items[219].usRightsString: Limited (search-only)
+items[220].orig: University of California
+items[220].fromRecord: 006091066
+items[220].htid: uc1.b3336764
+items[220].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336764
+items[220].rightsCode: ic
+items[220].lastUpdate: 20130808
+items[220].enumcron: ser. 5 v. 12 1931-32
+items[220].usRightsString: Limited (search-only)
+items[221].orig: University of California
+items[221].fromRecord: 006091066
+items[221].htid: uc1.b3336765
+items[221].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336765
+items[221].rightsCode: ic
+items[221].lastUpdate: 20130808
+items[221].enumcron: ser. 5 v. 13 1932
+items[221].usRightsString: Limited (search-only)
+items[222].orig: University of California
+items[222].fromRecord: 006091066
+items[222].htid: uc1.b3336766
+items[222].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336766
+items[222].rightsCode: ic
+items[222].lastUpdate: 20130808
+items[222].enumcron: ser. 5 v. 14 1932
+items[222].usRightsString: Limited (search-only)
+items[223].orig: University of California
+items[223].fromRecord: 006091066
+items[223].htid: uc1.b3336767
+items[223].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336767
+items[223].rightsCode: ic
+items[223].lastUpdate: 20130808
+items[223].enumcron: ser. 5 v. 15 1932
+items[223].usRightsString: Limited (search-only)
+items[224].orig: University of California
+items[224].fromRecord: 006091066
+items[224].htid: uc1.b3336768
+items[224].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336768
+items[224].rightsCode: ic
+items[224].lastUpdate: 20130808
+items[224].enumcron: ser. 5 v. 16 1933
+items[224].usRightsString: Limited (search-only)
+items[225].orig: University of California
+items[225].fromRecord: 006091066
+items[225].htid: uc1.b3336769
+items[225].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336769
+items[225].rightsCode: ic
+items[225].lastUpdate: 20130808
+items[225].enumcron: ser. 5 v. 17 1933
+items[225].usRightsString: Limited (search-only)
+items[226].orig: University of California
+items[226].fromRecord: 006091066
+items[226].htid: uc1.b3336770
+items[226].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336770
+items[226].rightsCode: ic
+items[226].lastUpdate: 20130808
+items[226].enumcron: ser. 5 v. 18 1933
+items[226].usRightsString: Limited (search-only)
+items[227].orig: University of California
+items[227].fromRecord: 006091066
+items[227].htid: uc1.b3336771
+items[227].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336771
+items[227].rightsCode: ic
+items[227].lastUpdate: 20130808
+items[227].enumcron: ser. 5 v. 19 1934
+items[227].usRightsString: Limited (search-only)
+items[228].orig: University of California
+items[228].fromRecord: 006091066
+items[228].htid: uc1.b3336772
+items[228].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336772
+items[228].rightsCode: ic
+items[228].lastUpdate: 20130808
+items[228].enumcron: ser. 5 v. 20 1934
+items[228].usRightsString: Limited (search-only)
+items[229].orig: University of Colorado Boulder
+items[229].fromRecord: 006091066
+items[229].htid: cub.u183032796239
+items[229].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796239
+items[229].rightsCode: ic
+items[229].lastUpdate: 20260909
+items[229].enumcron: Folge 5 v.21 1934/35
+items[229].usRightsString: Limited (search-only)
+items[230].orig: University of California
+items[230].fromRecord: 006091066
+items[230].htid: uc1.b3336773
+items[230].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336773
+items[230].rightsCode: ic
+items[230].lastUpdate: 20130808
+items[230].enumcron: ser. 5 v. 21 1934-35
+items[230].usRightsString: Limited (search-only)
+items[231].orig: University of California
+items[231].fromRecord: 006091066
+items[231].htid: uc1.b3336774
+items[231].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336774
+items[231].rightsCode: ic
+items[231].lastUpdate: 20130808
+items[231].enumcron: ser. 5 v. 22 1935
+items[231].usRightsString: Limited (search-only)
+items[232].orig: University of California
+items[232].fromRecord: 006091066
+items[232].htid: uc1.b3336775
+items[232].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336775
+items[232].rightsCode: ic
+items[232].lastUpdate: 20130808
+items[232].enumcron: ser. 5 v. 23 1935
+items[232].usRightsString: Limited (search-only)
+items[233].orig: University of California
+items[233].fromRecord: 006091066
+items[233].htid: uc1.b3336776
+items[233].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336776
+items[233].rightsCode: ic
+items[233].lastUpdate: 20130808
+items[233].enumcron: ser. 5 v. 24 1935
+items[233].usRightsString: Limited (search-only)
+items[234].orig: University of California
+items[234].fromRecord: 006091066
+items[234].htid: uc1.31822023361645
+items[234].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361645
+items[234].rightsCode: und
+items[234].lastUpdate: 20130809
+items[234].enumcron: ser.5 v.25
+items[234].usRightsString: Limited (search-only)
+items[235].orig: University of Colorado Boulder
+items[235].fromRecord: 006091066
+items[235].htid: cub.u183032796190
+items[235].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796190
+items[235].rightsCode: ic
+items[235].lastUpdate: 20260909
+items[235].enumcron: Folge 5 v.25 1935/36
+items[235].usRightsString: Limited (search-only)
+items[236].orig: University of California
+items[236].fromRecord: 006091066
+items[236].htid: uc1.b3336777
+items[236].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336777
+items[236].rightsCode: ic
+items[236].lastUpdate: 20130808
+items[236].enumcron: ser. 5 v. 25 1935-36
+items[236].usRightsString: Limited (search-only)
+items[237].orig: University of California
+items[237].fromRecord: 006091066
+items[237].htid: uc1.b3336778
+items[237].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336778
+items[237].rightsCode: ic
+items[237].lastUpdate: 20130808
+items[237].enumcron: ser. 5 v. 26 1936
+items[237].usRightsString: Limited (search-only)
+items[238].orig: University of California
+items[238].fromRecord: 006091066
+items[238].htid: uc1.b3336779
+items[238].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336779
+items[238].rightsCode: ic
+items[238].lastUpdate: 20130808
+items[238].enumcron: ser. 5 v. 27 1936
+items[238].usRightsString: Limited (search-only)
+items[239].orig: University of Colorado Boulder
+items[239].fromRecord: 006091066
+items[239].htid: cub.u183032796166
+items[239].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796166
+items[239].rightsCode: ic
+items[239].lastUpdate: 20260909
+items[239].enumcron: Folge 5 v.28 1936/37
+items[239].usRightsString: Limited (search-only)
+items[240].orig: University of California
+items[240].fromRecord: 006091066
+items[240].htid: uc1.b3336780
+items[240].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336780
+items[240].rightsCode: ic
+items[240].lastUpdate: 20130808
+items[240].enumcron: ser. 5 v. 28 1936-37
+items[240].usRightsString: Limited (search-only)
+items[241].orig: University of California
+items[241].fromRecord: 006091066
+items[241].htid: uc1.b3336781
+items[241].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336781
+items[241].rightsCode: ic
+items[241].lastUpdate: 20130808
+items[241].enumcron: ser. 5 v. 29 1937
+items[241].usRightsString: Limited (search-only)
+items[242].orig: University of California
+items[242].fromRecord: 006091066
+items[242].htid: uc1.b3336782
+items[242].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336782
+items[242].rightsCode: ic
+items[242].lastUpdate: 20130808
+items[242].enumcron: ser. 5 v. 30 1937
+items[242].usRightsString: Limited (search-only)
+items[243].orig: University of Colorado Boulder
+items[243].fromRecord: 006091066
+items[243].htid: cub.u183032796132
+items[243].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796132
+items[243].rightsCode: ic
+items[243].lastUpdate: 20260909
+items[243].enumcron: Folge 5 v.31 1937/38
+items[243].usRightsString: Limited (search-only)
+items[244].orig: University of California
+items[244].fromRecord: 006091066
+items[244].htid: uc1.b3336783
+items[244].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336783
+items[244].rightsCode: ic
+items[244].lastUpdate: 20130808
+items[244].enumcron: ser. 5 v. 31 1937-38
+items[244].usRightsString: Limited (search-only)
+items[245].orig: University of California
+items[245].fromRecord: 006091066
+items[245].htid: uc1.b3336784
+items[245].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336784
+items[245].rightsCode: ic
+items[245].lastUpdate: 20130808
+items[245].enumcron: ser. 5 v. 32 1938
+items[245].usRightsString: Limited (search-only)
+items[246].orig: University of California
+items[246].fromRecord: 006091066
+items[246].htid: uc1.b3336785
+items[246].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336785
+items[246].rightsCode: ic
+items[246].lastUpdate: 20130808
+items[246].enumcron: ser. 5 v. 33 1938
+items[246].usRightsString: Limited (search-only)
+items[247].orig: University of California
+items[247].fromRecord: 006091066
+items[247].htid: uc1.31822023360977
+items[247].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360977
+items[247].rightsCode: und
+items[247].lastUpdate: 20130809
+items[247].enumcron: ser.5 v.34
+items[247].usRightsString: Limited (search-only)
+items[248].orig: University of Colorado Boulder
+items[248].fromRecord: 006091066
+items[248].htid: cub.u183032796108
+items[248].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796108
+items[248].rightsCode: ic
+items[248].lastUpdate: 20260909
+items[248].enumcron: Folge 5 v.34 1938/39
+items[248].usRightsString: Limited (search-only)
+items[249].orig: University of California
+items[249].fromRecord: 006091066
+items[249].htid: uc1.b3336786
+items[249].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336786
+items[249].rightsCode: ic
+items[249].lastUpdate: 20130808
+items[249].enumcron: ser. 5 v. 34 1938-39
+items[249].usRightsString: Limited (search-only)
+items[250].orig: University of California
+items[250].fromRecord: 006091066
+items[250].htid: uc1.b3336787
+items[250].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336787
+items[250].rightsCode: ic
+items[250].lastUpdate: 20130808
+items[250].enumcron: ser. 5 v. 35 1939
+items[250].usRightsString: Limited (search-only)
+items[251].orig: University of California
+items[251].fromRecord: 006091066
+items[251].htid: uc1.31822023360738
+items[251].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360738
+items[251].rightsCode: und
+items[251].lastUpdate: 20130809
+items[251].enumcron: ser.5 v.36
+items[251].usRightsString: Limited (search-only)
+items[252].orig: University of Colorado Boulder
+items[252].fromRecord: 006091066
+items[252].htid: cub.u183032796085
+items[252].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796085
+items[252].rightsCode: ic
+items[252].lastUpdate: 20260909
+items[252].enumcron: Folge 5 v.36 1939/40
+items[252].usRightsString: Limited (search-only)
+items[253].orig: University of California
+items[253].fromRecord: 006091066
+items[253].htid: uc1.b3336788
+items[253].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336788
+items[253].rightsCode: ic
+items[253].lastUpdate: 20130808
+items[253].enumcron: ser. 5 v. 36 1939-40
+items[253].usRightsString: Limited (search-only)
+items[254].orig: University of California
+items[254].fromRecord: 006091066
+items[254].htid: uc1.b3336789
+items[254].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336789
+items[254].rightsCode: ic
+items[254].lastUpdate: 20130808
+items[254].enumcron: ser. 5 v. 37 1940
+items[254].usRightsString: Limited (search-only)
+items[255].orig: University of California
+items[255].fromRecord: 006091066
+items[255].htid: uc1.b3336790
+items[255].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336790
+items[255].rightsCode: ic
+items[255].lastUpdate: 20130808
+items[255].enumcron: ser. 5 v. 38 1940
+items[255].usRightsString: Limited (search-only)
+items[256].orig: University of California
+items[256].fromRecord: 006091066
+items[256].htid: uc1.b3336791
+items[256].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336791
+items[256].rightsCode: ic
+items[256].lastUpdate: 20130808
+items[256].enumcron: ser. 5 v. 39 1941
+items[256].usRightsString: Limited (search-only)
+items[257].orig: University of California
+items[257].fromRecord: 006091066
+items[257].htid: uc1.31822023360704
+items[257].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360704
+items[257].rightsCode: und
+items[257].lastUpdate: 20130809
+items[257].enumcron: ser.5 v.40
+items[257].usRightsString: Limited (search-only)
+items[258].orig: University of Colorado Boulder
+items[258].fromRecord: 006091066
+items[258].htid: cub.u183032796043
+items[258].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796043
+items[258].rightsCode: ic
+items[258].lastUpdate: 20260909
+items[258].enumcron: Folge 5 v.40 1941
+items[258].usRightsString: Limited (search-only)
+items[259].orig: University of California
+items[259].fromRecord: 006091066
+items[259].htid: uc1.b3336792
+items[259].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336792
+items[259].rightsCode: ic
+items[259].lastUpdate: 20130808
+items[259].enumcron: ser. 5 v. 40 1941-42
+items[259].usRightsString: Limited (search-only)
+items[260].orig: University of Colorado Boulder
+items[260].fromRecord: 006091066
+items[260].htid: cub.u183032796035
+items[260].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796035
+items[260].rightsCode: ic
+items[260].lastUpdate: 20260909
+items[260].enumcron: Folge 5 v.41 1942
+items[260].usRightsString: Limited (search-only)
+items[261].orig: University of California
+items[261].fromRecord: 006091066
+items[261].htid: uc1.b3336793
+items[261].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336793
+items[261].rightsCode: ic
+items[261].lastUpdate: 20130808
+items[261].enumcron: ser. 5 v. 41 1942
+items[261].usRightsString: Limited (search-only)
+items[262].orig: University of California
+items[262].fromRecord: 006091066
+items[262].htid: uc1.31822023360829
+items[262].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360829
+items[262].rightsCode: und
+items[262].lastUpdate: 20130809
+items[262].enumcron: ser.5 v.42
+items[262].usRightsString: Limited (search-only)
+items[263].orig: University of Colorado Boulder
+items[263].fromRecord: 006091066
+items[263].htid: cub.u183032796027
+items[263].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796027
+items[263].rightsCode: ic
+items[263].lastUpdate: 20260909
+items[263].enumcron: Folge 5 v.42 1942/43
+items[263].usRightsString: Limited (search-only)
+items[264].orig: University of California
+items[264].fromRecord: 006091066
+items[264].htid: uc1.b3336794
+items[264].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336794
+items[264].rightsCode: ic
+items[264].lastUpdate: 20130808
+items[264].enumcron: ser. 5 v. 42 1942-43
+items[264].usRightsString: Limited (search-only)
+items[265].orig: University of Colorado Boulder
+items[265].fromRecord: 006091066
+items[265].htid: cub.u183032796019
+items[265].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796019
+items[265].rightsCode: ic
+items[265].lastUpdate: 20260909
+items[265].enumcron: Folge 5 v.43 1943
+items[265].usRightsString: Limited (search-only)
+items[266].orig: University of California
+items[266].fromRecord: 006091066
+items[266].htid: uc1.b3336795
+items[266].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336795
+items[266].rightsCode: ic
+items[266].lastUpdate: 20130808
+items[266].enumcron: ser. 5 v. 43 1943-44
+items[266].usRightsString: Limited (search-only)
+items[267].orig: University of California
+items[267].fromRecord: 006091066
+items[267].htid: uc1.31822023360944
+items[267].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360944
+items[267].rightsCode: und
+items[267].lastUpdate: 20130809
+items[267].enumcron: ser.6 v.1-2
+items[267].usRightsString: Limited (search-only)
+items[268].orig: University of Colorado Boulder
+items[268].fromRecord: 006091066
+items[268].htid: cub.u183032796001
+items[268].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796001
+items[268].rightsCode: ic
+items[268].lastUpdate: 20260909
+items[268].enumcron: Folge 6 v.1 1947
+items[268].usRightsString: Limited (search-only)
+items[269].orig: University of Colorado Boulder
+items[269].fromRecord: 006091066
+items[269].htid: cub.u183032795990
+items[269].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795990
+items[269].rightsCode: ic
+items[269].lastUpdate: 20260909
+items[269].enumcron: Folge 6 v.2 1948
+items[269].usRightsString: Limited (search-only)
+items[270].orig: University of California
+items[270].fromRecord: 006091066
+items[270].htid: uc1.b3336796
+items[270].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336796
+items[270].rightsCode: ic
+items[270].lastUpdate: 20130808
+items[270].enumcron: ser. 6 v. 3-4 1948-49
+items[270].usRightsString: Limited (search-only)
+items[271].orig: University of Colorado Boulder
+items[271].fromRecord: 006091066
+items[271].htid: cub.u183032795982
+items[271].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795982
+items[271].rightsCode: ic
+items[271].lastUpdate: 20260909
+items[271].enumcron: Folge 6 v.3 1948
+items[271].usRightsString: Limited (search-only)
+items[272].orig: University of Colorado Boulder
+items[272].fromRecord: 006091066
+items[272].htid: cub.u183032795974
+items[272].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795974
+items[272].rightsCode: ic
+items[272].lastUpdate: 20260909
+items[272].enumcron: Folge 6 v.4 1948/49
+items[272].usRightsString: Limited (search-only)
+items[273].orig: University of California
+items[273].fromRecord: 006091066
+items[273].htid: uc1.b3336797
+items[273].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336797
+items[273].rightsCode: ic
+items[273].lastUpdate: 20130808
+items[273].enumcron: ser. 6 v. 5-6 1949-50
+items[273].usRightsString: Limited (search-only)
+items[274].orig: University of Colorado Boulder
+items[274].fromRecord: 006091066
+items[274].htid: cub.u183032795966
+items[274].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795966
+items[274].rightsCode: ic
+items[274].lastUpdate: 20260909
+items[274].enumcron: Folge 6 v.5 1949/50
+items[274].usRightsString: Limited (search-only)
+items[275].orig: University of California
+items[275].fromRecord: 006091066
+items[275].htid: uc1.31822023361132
+items[275].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361132
+items[275].rightsCode: und
+items[275].lastUpdate: 20130809
+items[275].enumcron: ser.6 v.7-8
+items[275].usRightsString: Limited (search-only)
+items[276].orig: University of Colorado Boulder
+items[276].fromRecord: 006091066
+items[276].htid: cub.u183032795940
+items[276].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795940
+items[276].rightsCode: ic
+items[276].lastUpdate: 20260909
+items[276].enumcron: Folge 6 v.7 1950
+items[276].usRightsString: Limited (search-only)
+items[277].orig: University of California
+items[277].fromRecord: 006091066
+items[277].htid: uc1.b3336798
+items[277].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336798
+items[277].rightsCode: ic
+items[277].lastUpdate: 20130808
+items[277].enumcron: ser. 6 v. 8-9 1950-51
+items[277].usRightsString: Limited (search-only)
+items[278].orig: University of Colorado Boulder
+items[278].fromRecord: 006091066
+items[278].htid: cub.u183032795932
+items[278].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795932
+items[278].rightsCode: ic
+items[278].lastUpdate: 20260909
+items[278].enumcron: Folge 6 v.8 1951
+items[278].usRightsString: Limited (search-only)
+items[279].orig: University of Colorado Boulder
+items[279].fromRecord: 006091066
+items[279].htid: cub.u183032795924
+items[279].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795924
+items[279].rightsCode: ic
+items[279].lastUpdate: 20260909
+items[279].enumcron: Folge 6 v.9 1951
+items[279].usRightsString: Limited (search-only)
+items[280].orig: University of Colorado Boulder
+items[280].fromRecord: 006091066
+items[280].htid: cub.u183032795916
+items[280].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795916
+items[280].rightsCode: ic
+items[280].lastUpdate: 20260909
+items[280].enumcron: Folge 6 v.10 1952
+items[280].usRightsString: Limited (search-only)
+items[281].orig: University of California
+items[281].fromRecord: 006091066
+items[281].htid: uc1.31822023361199
+items[281].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361199
+items[281].rightsCode: und
+items[281].lastUpdate: 20130809
+items[281].enumcron: ser.6 v.11-12
+items[281].usRightsString: Limited (search-only)
+items[282].orig: University of Colorado Boulder
+items[282].fromRecord: 006091066
+items[282].htid: cub.u183032795908
+items[282].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795908
+items[282].rightsCode: ic
+items[282].lastUpdate: 20260909
+items[282].enumcron: Folge 6 v.11 1952/53
+items[282].usRightsString: Limited (search-only)
+items[283].orig: University of California
+items[283].fromRecord: 006091066
+items[283].htid: uc1.b3336799
+items[283].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336799
+items[283].rightsCode: ic
+items[283].lastUpdate: 20130808
+items[283].enumcron: ser. 6 v. 11 1952-53
+items[283].usRightsString: Limited (search-only)
+items[284].orig: University of Colorado Boulder
+items[284].fromRecord: 006091066
+items[284].htid: cub.u183032795893
+items[284].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795893
+items[284].rightsCode: ic
+items[284].lastUpdate: 20260909
+items[284].enumcron: Folge 6 v.12 1953
+items[284].usRightsString: Limited (search-only)
+items[285].orig: University of California
+items[285].fromRecord: 006091066
+items[285].htid: uc1.b3336800
+items[285].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336800
+items[285].rightsCode: ic
+items[285].lastUpdate: 20130808
+items[285].enumcron: ser. 6 v. 13-14 1953-54
+items[285].usRightsString: Limited (search-only)
+items[286].orig: University of Colorado Boulder
+items[286].fromRecord: 006091066
+items[286].htid: cub.u183032795885
+items[286].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795885
+items[286].rightsCode: ic
+items[286].lastUpdate: 20260909
+items[286].enumcron: Folge 6 v.13 1953
+items[286].usRightsString: Limited (search-only)
+items[287].orig: University of Colorado Boulder
+items[287].fromRecord: 006091066
+items[287].htid: cub.u183032795877
+items[287].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795877
+items[287].rightsCode: ic
+items[287].lastUpdate: 20260909
+items[287].enumcron: Folge 6 v.14 1954
+items[287].usRightsString: Limited (search-only)
+items[288].orig: University of Colorado Boulder
+items[288].fromRecord: 006091066
+items[288].htid: cub.u183032795869
+items[288].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795869
+items[288].rightsCode: ic
+items[288].lastUpdate: 20260909
+items[288].enumcron: Folge 6 v.15/16 1954/55
+items[288].usRightsString: Limited (search-only)
+items[289].orig: University of California
+items[289].fromRecord: 006091066
+items[289].htid: uc1.b3336801
+items[289].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336801
+items[289].rightsCode: ic
+items[289].lastUpdate: 20130808
+items[289].enumcron: ser. 6 v. 15-16 1954-55
+items[289].usRightsString: Limited (search-only)
+items[290].orig: University of Colorado Boulder
+items[290].fromRecord: 006091066
+items[290].htid: cub.u183032795851
+items[290].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795851
+items[290].rightsCode: ic
+items[290].lastUpdate: 20260909
+items[290].enumcron: Folge 6 v.17/18 1955/56
+items[290].usRightsString: Limited (search-only)
+items[291].orig: University of California
+items[291].fromRecord: 006091066
+items[291].htid: uc1.b3336802
+items[291].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336802
+items[291].rightsCode: ic
+items[291].lastUpdate: 20130808
+items[291].enumcron: ser. 6 v. 17-18 1955-56
+items[291].usRightsString: Limited (search-only)
+items[292].orig: University of Colorado Boulder
+items[292].fromRecord: 006091066
+items[292].htid: cub.u183032795843
+items[292].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795843
+items[292].rightsCode: ic
+items[292].lastUpdate: 20260909
+items[292].enumcron: Folge 6 v.19/20 1956/57
+items[292].usRightsString: Limited (search-only)
+items[293].orig: University of California
+items[293].fromRecord: 006091066
+items[293].htid: uc1.b3336803
+items[293].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336803
+items[293].rightsCode: ic
+items[293].lastUpdate: 20130808
+items[293].enumcron: ser. 6 v. 19-20 1956-57
+items[293].usRightsString: Limited (search-only)
+items[294].orig: University of California
+items[294].fromRecord: 006091066
+items[294].htid: uc1.31822023360779
+items[294].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360779
+items[294].rightsCode: und
+items[294].lastUpdate: 20130809
+items[294].enumcron: ser.7 v.1-2
+items[294].usRightsString: Limited (search-only)
+items[295].orig: University of Colorado Boulder
+items[295].fromRecord: 006091066
+items[295].htid: cub.u183032795835
+items[295].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795835
+items[295].rightsCode: ic
+items[295].lastUpdate: 20260909
+items[295].enumcron: Folge 7 v.1-2 1958
+items[295].usRightsString: Limited (search-only)
+items[296].orig: University of California
+items[296].fromRecord: 006091066
+items[296].htid: uc1.b3336804
+items[296].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336804
+items[296].rightsCode: ic
+items[296].lastUpdate: 20130808
+items[296].enumcron: ser. 7 v. 1 1958
+items[296].usRightsString: Limited (search-only)
+items[297].orig: University of California
+items[297].fromRecord: 006091066
+items[297].htid: uc1.b3336805
+items[297].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336805
+items[297].rightsCode: ic
+items[297].lastUpdate: 20130808
+items[297].enumcron: ser. 7 v. 2 1958-59
+items[297].usRightsString: Limited (search-only)
+items[298].orig: University of California
+items[298].fromRecord: 006091066
+items[298].htid: uc1.b3336806
+items[298].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336806
+items[298].rightsCode: ic
+items[298].lastUpdate: 20130808
+items[298].enumcron: ser. 7 v. 3-4 1959
+items[298].usRightsString: Limited (search-only)
+items[299].orig: University of Colorado Boulder
+items[299].fromRecord: 006091066
+items[299].htid: cub.u183032795819
+items[299].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032795819
+items[299].rightsCode: ic
+items[299].lastUpdate: 20260909
+items[299].enumcron: Folge 7 v.5-6 1959/60
+items[299].usRightsString: Limited (search-only)
+items[300].orig: University of California
+items[300].fromRecord: 006091066
+items[300].htid: uc1.b3336807
+items[300].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336807
+items[300].rightsCode: ic
+items[300].lastUpdate: 20130808
+items[300].enumcron: ser. 7 v. 5 1959-60
+items[300].usRightsString: Limited (search-only)
+items[301].orig: University of California
+items[301].fromRecord: 006091066
+items[301].htid: uc1.b3336808
+items[301].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336808
+items[301].rightsCode: ic
+items[301].lastUpdate: 20130808
+items[301].enumcron: ser. 7 v. 6 1960
+items[301].usRightsString: Limited (search-only)
+items[302].orig: University of California
+items[302].fromRecord: 006091066
+items[302].htid: uc1.31822023361025
+items[302].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361025
+items[302].rightsCode: und
+items[302].lastUpdate: 20130809
+items[302].enumcron: ser.7 v.7-8
+items[302].usRightsString: Limited (search-only)
+items[303].orig: University of California
+items[303].fromRecord: 006091066
+items[303].htid: uc1.b3336809
+items[303].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3336809
+items[303].rightsCode: ic
+items[303].lastUpdate: 20130808
+items[303].enumcron: ser. 7 v. 7 1961
+items[303].usRightsString: Limited (search-only)
+items[304].orig: University of California
+items[304].fromRecord: 006091066
+items[304].htid: uc1.b3533438
+items[304].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3533438
+items[304].rightsCode: ic
+items[304].lastUpdate: 20130808
+items[304].enumcron: ser.7 v.8-9 1961-62
+items[304].usRightsString: Limited (search-only)
+items[305].orig: University of California
+items[305].fromRecord: 006091066
+items[305].htid: uc1.31822023361082
+items[305].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361082
+items[305].rightsCode: und
+items[305].lastUpdate: 20130809
+items[305].enumcron: ser.7 v.9
+items[305].usRightsString: Limited (search-only)
+items[306].orig: University of Colorado Boulder
+items[306].fromRecord: 006091066
+items[306].htid: cub.u183032796996
+items[306].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796996
+items[306].rightsCode: ic
+items[306].lastUpdate: 20260909
+items[306].enumcron: Folge 7 v.9-10 1961/63
+items[306].usRightsString: Limited (search-only)
+items[307].orig: University of California
+items[307].fromRecord: 006091066
+items[307].htid: uc1.31822023361140
+items[307].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361140
+items[307].rightsCode: und
+items[307].lastUpdate: 20130809
+items[307].enumcron: ser.7 v.10-11
+items[307].usRightsString: Limited (search-only)
+items[308].orig: University of California
+items[308].fromRecord: 006091066
+items[308].htid: uc1.b3533439
+items[308].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3533439
+items[308].rightsCode: ic
+items[308].lastUpdate: 20130808
+items[308].enumcron: ser.7 v.10-11 1962-63
+items[308].usRightsString: Limited (search-only)
+items[309].orig: University of Colorado Boulder
+items[309].fromRecord: 006091066
+items[309].htid: cub.u183032796988
+items[309].itemURL: https://babel.hathitrust.org/cgi/pt?id=cub.u183032796988
+items[309].rightsCode: ic
+items[309].lastUpdate: 20260909
+items[309].enumcron: Folge 7 v.11-12 1963
+items[309].usRightsString: Limited (search-only)
+items[310].orig: University of California
+items[310].fromRecord: 006091066
+items[310].htid: uc1.31822023361207
+items[310].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361207
+items[310].rightsCode: und
+items[310].lastUpdate: 20130809
+items[310].enumcron: ser.7 v.12-13
+items[310].usRightsString: Limited (search-only)
+items[311].orig: University of California
+items[311].fromRecord: 006091066
+items[311].htid: uc1.b3533440
+items[311].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3533440
+items[311].rightsCode: ic
+items[311].lastUpdate: 20130808
+items[311].enumcron: ser.7 v.12 1963
+items[311].usRightsString: Limited (search-only)
+items[312].orig: University of California
+items[312].fromRecord: 006091066
+items[312].htid: uc1.b3533441
+items[312].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3533441
+items[312].rightsCode: ic
+items[312].lastUpdate: 20130808
+items[312].enumcron: ser.7 v.13-14 1964
+items[312].usRightsString: Limited (search-only)
+items[313].orig: University of California
+items[313].fromRecord: 006091066
+items[313].htid: uc1.31822023361264
+items[313].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361264
+items[313].rightsCode: und
+items[313].lastUpdate: 20130809
+items[313].enumcron: ser.7 v.14-16
+items[313].usRightsString: Limited (search-only)
+items[314].orig: University of California
+items[314].fromRecord: 006091066
+items[314].htid: uc1.b3533442
+items[314].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3533442
+items[314].rightsCode: ic
+items[314].lastUpdate: 20130808
+items[314].enumcron: ser.7 v.15-16 1965
+items[314].usRightsString: Limited (search-only)
+items[315].orig: University of California
+items[315].fromRecord: 006091066
+items[315].htid: uc1.31822015795719
+items[315].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822015795719
+items[315].rightsCode: und
+items[315].lastUpdate: 20130809
+items[315].enumcron: ser.7 v.17
+items[315].usRightsString: Limited (search-only)
+items[316].orig: University of California
+items[316].fromRecord: 006091066
+items[316].htid: uc1.b3942924
+items[316].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3942924
+items[316].rightsCode: ic
+items[316].lastUpdate: 20130808
+items[316].enumcron: ser.7 v.17 1966
+items[316].usRightsString: Limited (search-only)
+items[317].orig: University of California
+items[317].fromRecord: 006091066
+items[317].htid: uc1.31822023361322
+items[317].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361322
+items[317].rightsCode: und
+items[317].lastUpdate: 20130809
+items[317].enumcron: ser.7 v.18
+items[317].usRightsString: Limited (search-only)
+items[318].orig: University of California
+items[318].fromRecord: 006091066
+items[318].htid: uc1.b3942925
+items[318].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3942925
+items[318].rightsCode: ic
+items[318].lastUpdate: 20130808
+items[318].enumcron: ser.7 v.18 1966
+items[318].usRightsString: Limited (search-only)
+items[319].orig: University of California
+items[319].fromRecord: 006091066
+items[319].htid: uc1.31822015795776
+items[319].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822015795776
+items[319].rightsCode: und
+items[319].lastUpdate: 20130809
+items[319].enumcron: ser.7 v.19-20
+items[319].usRightsString: Limited (search-only)
+items[320].orig: University of California
+items[320].fromRecord: 006091066
+items[320].htid: uc1.b3942926
+items[320].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3942926
+items[320].rightsCode: ic
+items[320].lastUpdate: 20130808
+items[320].enumcron: ser.7 v.19 1967
+items[320].usRightsString: Limited (search-only)
+items[321].orig: University of California
+items[321].fromRecord: 006091066
+items[321].htid: uc1.b3942927
+items[321].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3942927
+items[321].rightsCode: ic
+items[321].lastUpdate: 20130808
+items[321].enumcron: ser.7 v.20 1967
+items[321].usRightsString: Limited (search-only)
+items[322].orig: University of California
+items[322].fromRecord: 006091066
+items[322].htid: uc1.31822023360688
+items[322].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360688
+items[322].rightsCode: und
+items[322].lastUpdate: 20130809
+items[322].enumcron: ser.7 v.21
+items[322].usRightsString: Limited (search-only)
+items[323].orig: University of California
+items[323].fromRecord: 006091066
+items[323].htid: uc1.b3942928
+items[323].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3942928
+items[323].rightsCode: ic
+items[323].lastUpdate: 20130808
+items[323].enumcron: ser.7 v.21 1968
+items[323].usRightsString: Limited (search-only)
+items[324].orig: University of California
+items[324].fromRecord: 006091066
+items[324].htid: uc1.31822008346876
+items[324].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822008346876
+items[324].rightsCode: und
+items[324].lastUpdate: 20130809
+items[324].enumcron: ser.7 v.22-23
+items[324].usRightsString: Limited (search-only)
+items[325].orig: University of California
+items[325].fromRecord: 006091066
+items[325].htid: uc1.b3942929
+items[325].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b3942929
+items[325].rightsCode: ic
+items[325].lastUpdate: 20130808
+items[325].enumcron: ser.7 v.22 1968-69
+items[325].usRightsString: Limited (search-only)
+items[326].orig: University of California
+items[326].fromRecord: 006091066
+items[326].htid: uc1.b4277157
+items[326].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4277157
+items[326].rightsCode: ic
+items[326].lastUpdate: 20130807
+items[326].enumcron: ser.7 v.23 (1969)
+items[326].usRightsString: Limited (search-only)
+items[327].orig: University of California
+items[327].fromRecord: 006091066
+items[327].htid: uc1.31822023360746
+items[327].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360746
+items[327].rightsCode: und
+items[327].lastUpdate: 20130809
+items[327].enumcron: ser.7 v.24-25
+items[327].usRightsString: Limited (search-only)
+items[328].orig: University of California
+items[328].fromRecord: 006091066
+items[328].htid: uc1.b4277158
+items[328].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4277158
+items[328].rightsCode: ic
+items[328].lastUpdate: 20130807
+items[328].enumcron: ser.7 v.24 (1969-70)
+items[328].usRightsString: Limited (search-only)
+items[329].orig: University of California
+items[329].fromRecord: 006091066
+items[329].htid: uc1.b4277159
+items[329].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4277159
+items[329].rightsCode: ic
+items[329].lastUpdate: 20130807
+items[329].enumcron: ser.7 v.25 (1970)
+items[329].usRightsString: Limited (search-only)
+items[330].orig: University of California
+items[330].fromRecord: 006091066
+items[330].htid: uc1.31822023360803
+items[330].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360803
+items[330].rightsCode: und
+items[330].lastUpdate: 20130809
+items[330].enumcron: ser.7 v.26-27
+items[330].usRightsString: Limited (search-only)
+items[331].orig: University of California
+items[331].fromRecord: 006091066
+items[331].htid: uc1.b4277160
+items[331].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4277160
+items[331].rightsCode: ic
+items[331].lastUpdate: 20130807
+items[331].enumcron: ser.7 v.26 (1971)
+items[331].usRightsString: Limited (search-only)
+items[332].orig: University of California
+items[332].fromRecord: 006091066
+items[332].htid: uc1.b4277161
+items[332].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4277161
+items[332].rightsCode: ic
+items[332].lastUpdate: 20130807
+items[332].enumcron: ser.7 v.27 (1971)
+items[332].usRightsString: Limited (search-only)
+items[333].orig: University of California
+items[333].fromRecord: 006091066
+items[333].htid: uc1.31822023360860
+items[333].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360860
+items[333].rightsCode: und
+items[333].lastUpdate: 20130809
+items[333].enumcron: ser.7 v.28-29
+items[333].usRightsString: Limited (search-only)
+items[334].orig: University of California
+items[334].fromRecord: 006091066
+items[334].htid: uc1.b4277162
+items[334].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4277162
+items[334].rightsCode: ic
+items[334].lastUpdate: 20130807
+items[334].enumcron: ser.7 v.28 (1972-73)
+items[334].usRightsString: Limited (search-only)
+items[335].orig: University of California
+items[335].fromRecord: 006091066
+items[335].htid: uc1.b4322218
+items[335].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4322218
+items[335].rightsCode: ic
+items[335].lastUpdate: 20130807
+items[335].enumcron: ser.7 v.29 (1973)
+items[335].usRightsString: Limited (search-only)
+items[336].orig: University of California
+items[336].fromRecord: 006091066
+items[336].htid: uc1.31822023360928
+items[336].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360928
+items[336].rightsCode: und
+items[336].lastUpdate: 20130809
+items[336].enumcron: ser.7 v.30
+items[336].usRightsString: Limited (search-only)
+items[337].orig: University of California
+items[337].fromRecord: 006091066
+items[337].htid: uc1.b4322219
+items[337].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4322219
+items[337].rightsCode: ic
+items[337].lastUpdate: 20130807
+items[337].enumcron: ser.7 v.30 (1973-74)
+items[337].usRightsString: Limited (search-only)
+items[338].orig: University of California
+items[338].fromRecord: 006091066
+items[338].htid: uc1.31822023360985
+items[338].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360985
+items[338].rightsCode: und
+items[338].lastUpdate: 20130809
+items[338].enumcron: ser.7 v.31
+items[338].usRightsString: Limited (search-only)
+items[339].orig: University of California
+items[339].fromRecord: 006091066
+items[339].htid: uc1.b4444755
+items[339].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4444755
+items[339].rightsCode: ic
+items[339].lastUpdate: 20130807
+items[339].enumcron: ser.7 v.31 (1974)
+items[339].usRightsString: Limited (search-only)
+items[340].orig: University of California
+items[340].fromRecord: 006091066
+items[340].htid: uc1.31822023361041
+items[340].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361041
+items[340].rightsCode: und
+items[340].lastUpdate: 20130809
+items[340].enumcron: ser.7 v.32
+items[340].usRightsString: Limited (search-only)
+items[341].orig: University of California
+items[341].fromRecord: 006091066
+items[341].htid: uc1.b4444756
+items[341].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4444756
+items[341].rightsCode: ic
+items[341].lastUpdate: 20130807
+items[341].enumcron: ser.7 v.32 (1975)
+items[341].usRightsString: Limited (search-only)
+items[342].orig: University of California
+items[342].fromRecord: 006091066
+items[342].htid: uc1.31822023361108
+items[342].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361108
+items[342].rightsCode: und
+items[342].lastUpdate: 20130809
+items[342].enumcron: ser.7 v.33
+items[342].usRightsString: Limited (search-only)
+items[343].orig: University of California
+items[343].fromRecord: 006091066
+items[343].htid: uc1.b4444757
+items[343].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4444757
+items[343].rightsCode: ic
+items[343].lastUpdate: 20130807
+items[343].enumcron: ser.7 v.33 (1976)
+items[343].usRightsString: Limited (search-only)
+items[344].orig: University of California
+items[344].fromRecord: 006091066
+items[344].htid: uc1.31822015795651
+items[344].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822015795651
+items[344].rightsCode: und
+items[344].lastUpdate: 20130809
+items[344].enumcron: ser.7 v.34
+items[344].usRightsString: Limited (search-only)
+items[345].orig: University of California
+items[345].fromRecord: 006091066
+items[345].htid: uc1.b4521275
+items[345].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4521275
+items[345].rightsCode: ic
+items[345].lastUpdate: 20130807
+items[345].enumcron: ser.7 v.34 (1977)
+items[345].usRightsString: Limited (search-only)
+items[346].orig: University of California
+items[346].fromRecord: 006091066
+items[346].htid: uc1.31822023361165
+items[346].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361165
+items[346].rightsCode: und
+items[346].lastUpdate: 20130809
+items[346].enumcron: ser.7 v.35
+items[346].usRightsString: Limited (search-only)
+items[347].orig: University of California
+items[347].fromRecord: 006091066
+items[347].htid: uc1.31822023361223
+items[347].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361223
+items[347].rightsCode: und
+items[347].lastUpdate: 20130809
+items[347].enumcron: ser.7 v.36
+items[347].usRightsString: Limited (search-only)
+items[348].orig: University of California
+items[348].fromRecord: 006091066
+items[348].htid: uc1.31822023361280
+items[348].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361280
+items[348].rightsCode: und
+items[348].lastUpdate: 20130809
+items[348].enumcron: ser.7 v.37
+items[348].usRightsString: Limited (search-only)
+items[349].orig: University of California
+items[349].fromRecord: 006091066
+items[349].htid: uc1.$b433529
+items[349].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b433529
+items[349].rightsCode: ic
+items[349].lastUpdate: 20130803
+items[349].enumcron: ser.7 v.37 (1980)
+items[349].usRightsString: Limited (search-only)
+items[350].orig: University of California
+items[350].fromRecord: 006091066
+items[350].htid: uc1.31822023361348
+items[350].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361348
+items[350].rightsCode: und
+items[350].lastUpdate: 20130809
+items[350].enumcron: ser.7 v.38
+items[350].usRightsString: Limited (search-only)
+items[351].orig: University of California
+items[351].fromRecord: 006091066
+items[351].htid: uc1.$b433530
+items[351].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b433530
+items[351].rightsCode: ic
+items[351].lastUpdate: 20130803
+items[351].enumcron: ser.7 v.38 (1981)
+items[351].usRightsString: Limited (search-only)
+items[352].orig: University of California
+items[352].fromRecord: 006091066
+items[352].htid: uc1.31822023360696
+items[352].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360696
+items[352].rightsCode: und
+items[352].lastUpdate: 20130809
+items[352].enumcron: ser.7 v.39 no.1-6
+items[352].usRightsString: Limited (search-only)
+items[353].orig: University of California
+items[353].fromRecord: 006091066
+items[353].htid: uc1.31822023360753
+items[353].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360753
+items[353].rightsCode: und
+items[353].lastUpdate: 20130809
+items[353].enumcron: ser.7 v.40 no.1-6
+items[353].usRightsString: Limited (search-only)
+items[354].orig: University of California
+items[354].fromRecord: 006091066
+items[354].htid: uc1.31822023360811
+items[354].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360811
+items[354].rightsCode: und
+items[354].lastUpdate: 20130809
+items[354].enumcron: ser.7 v.41
+items[354].usRightsString: Limited (search-only)
+items[355].orig: University of California
+items[355].fromRecord: 006091066
+items[355].htid: uc1.31822023360878
+items[355].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360878
+items[355].rightsCode: und
+items[355].lastUpdate: 20130809
+items[355].enumcron: ser.7 v.42
+items[355].usRightsString: Limited (search-only)
+items[356].orig: University of California
+items[356].fromRecord: 006091066
+items[356].htid: uc1.31822023360936
+items[356].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360936
+items[356].rightsCode: und
+items[356].lastUpdate: 20130809
+items[356].enumcron: ser.7 v.43
+items[356].usRightsString: Limited (search-only)
+items[357].orig: University of California
+items[357].fromRecord: 006091066
+items[357].htid: uc1.31822023360993
+items[357].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023360993
+items[357].rightsCode: und
+items[357].lastUpdate: 20130809
+items[357].enumcron: ser.7 v.44
+items[357].usRightsString: Limited (search-only)
+items[358].orig: University of California
+items[358].fromRecord: 006091066
+items[358].htid: uc1.31822023361058
+items[358].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361058
+items[358].rightsCode: und
+items[358].lastUpdate: 20130809
+items[358].enumcron: ser.7 v.45
+items[358].usRightsString: Limited (search-only)
+items[359].orig: The Ohio State University
+items[359].fromRecord: 006091066
+items[359].htid: osu.32435031483563
+items[359].itemURL: https://babel.hathitrust.org/cgi/pt?id=osu.32435031483563
+items[359].rightsCode: und
+items[359].lastUpdate: 20260426
+items[359].enumcron: ser.7v.45
+items[359].usRightsString: Limited (search-only)
+items[360].orig: University of California
+items[360].fromRecord: 006091066
+items[360].htid: uc1.31822005911029
+items[360].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822005911029
+items[360].rightsCode: und
+items[360].lastUpdate: 20130809
+items[360].enumcron: ser.7 v.46
+items[360].usRightsString: Limited (search-only)
+items[361].orig: The Ohio State University
+items[361].fromRecord: 006091066
+items[361].htid: osu.32435031483548
+items[361].itemURL: https://babel.hathitrust.org/cgi/pt?id=osu.32435031483548
+items[361].rightsCode: und
+items[361].lastUpdate: 20260426
+items[361].enumcron: ser.7v.46
+items[361].usRightsString: Limited (search-only)
+items[362].orig: University of California
+items[362].fromRecord: 006091066
+items[362].htid: uc1.31822005316062
+items[362].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822005316062
+items[362].rightsCode: und
+items[362].lastUpdate: 20130809
+items[362].enumcron: ser.7 v.47
+items[362].usRightsString: Limited (search-only)
+items[363].orig: The Ohio State University
+items[363].fromRecord: 006091066
+items[363].htid: osu.32435031483522
+items[363].itemURL: https://babel.hathitrust.org/cgi/pt?id=osu.32435031483522
+items[363].rightsCode: und
+items[363].lastUpdate: 20260426
+items[363].enumcron: ser.7v.47
+items[363].usRightsString: Limited (search-only)
+items[364].orig: University of California
+items[364].fromRecord: 006091066
+items[364].htid: uc1.31822008337131
+items[364].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822008337131
+items[364].rightsCode: und
+items[364].lastUpdate: 20130809
+items[364].enumcron: ser.7 v.48
+items[364].usRightsString: Limited (search-only)
+items[365].orig: The Ohio State University
+items[365].fromRecord: 006091066
+items[365].htid: osu.32435031483514
+items[365].itemURL: https://babel.hathitrust.org/cgi/pt?id=osu.32435031483514
+items[365].rightsCode: und
+items[365].lastUpdate: 20260426
+items[365].enumcron: ser.7v.48
+items[365].usRightsString: Limited (search-only)
+items[366].orig: University of California
+items[366].fromRecord: 006091066
+items[366].htid: uc1.31822016048704
+items[366].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822016048704
+items[366].rightsCode: und
+items[366].lastUpdate: 20130809
+items[366].enumcron: ser.8 v.1
+items[366].usRightsString: Limited (search-only)
+items[367].orig: The Ohio State University
+items[367].fromRecord: 006091066
+items[367].htid: osu.32435031484975
+items[367].itemURL: https://babel.hathitrust.org/cgi/pt?id=osu.32435031484975
+items[367].rightsCode: und
+items[367].lastUpdate: 20260426
+items[367].enumcron: ser.8v.1
+items[367].usRightsString: Limited (search-only)
+items[368].orig: University of California
+items[368].fromRecord: 006091066
+items[368].htid: uc1.31822023361116
+items[368].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023361116
+items[368].rightsCode: und
+items[368].lastUpdate: 20130809
+items[368].enumcron: ser.8 v.2
+items[368].usRightsString: Limited (search-only)
+items[369].orig: University of California
+items[369].fromRecord: 006091066
+items[369].htid: uc1.31822020263778
+items[369].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822020263778
+items[369].rightsCode: und
+items[369].lastUpdate: 20130809
+items[369].enumcron: ser.8 v.3
+items[369].usRightsString: Limited (search-only)
+items[370].orig: University of California
+items[370].fromRecord: 006091066
+items[370].htid: uc1.31822023371842
+items[370].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023371842
+items[370].rightsCode: und
+items[370].lastUpdate: 20130809
+items[370].enumcron: ser.8 v.4
+items[370].usRightsString: Limited (search-only)
+items[371].orig: University of California
+items[371].fromRecord: 006091066
+items[371].htid: uc1.31822023346877
+items[371].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023346877
+items[371].rightsCode: und
+items[371].lastUpdate: 20130809
+items[371].enumcron: ser.8 v.5
+items[371].usRightsString: Limited (search-only)
+items[372].orig: University of California
+items[372].fromRecord: 006091066
+items[372].htid: uc1.31822022715916
+items[372].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822022715916
+items[372].rightsCode: und
+items[372].lastUpdate: 20130809
+items[372].enumcron: ser.8 v.6
+items[372].usRightsString: Limited (search-only)
+items[373].orig: University of California
+items[373].fromRecord: 006091066
+items[373].htid: uc1.31822022672901
+items[373].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822022672901
+items[373].rightsCode: und
+items[373].lastUpdate: 20130809
+items[373].enumcron: ser.8 v.7
+items[373].usRightsString: Limited (search-only)
+items[374].orig: University of California
+items[374].fromRecord: 006091066
+items[374].htid: uc1.31822022760052
+items[374].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822022760052
+items[374].rightsCode: und
+items[374].lastUpdate: 20130809
+items[374].enumcron: ser.8 v.8
+items[374].usRightsString: Limited (search-only)
+items[375].orig: University of California
+items[375].fromRecord: 006091066
+items[375].htid: uc1.31822025324997
+items[375].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822025324997
+items[375].rightsCode: und
+items[375].lastUpdate: 20130809
+items[375].enumcron: ser.8 v.9
+items[375].usRightsString: Limited (search-only)
+items[376].orig: University of California
+items[376].fromRecord: 006091066
+items[376].htid: uc1.31822023028921
+items[376].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023028921
+items[376].rightsCode: und
+items[376].lastUpdate: 20130809
+items[376].enumcron: ser.8 v.10 no.1-5
+items[376].usRightsString: Limited (search-only)
+items[377].orig: University of California
+items[377].fromRecord: 006091066
+items[377].htid: uc1.31822023028863
+items[377].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822023028863
+items[377].rightsCode: und
+items[377].lastUpdate: 20130809
+items[377].enumcron: ser.8 v.10 no.6-12
+items[377].usRightsString: Limited (search-only)
+items[378].orig: University of California
+items[378].fromRecord: 006091066
+items[378].htid: uc1.31822020375036
+items[378].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822020375036
+items[378].rightsCode: und
+items[378].lastUpdate: 20130809
+items[378].enumcron: ser.8 v.11
+items[378].usRightsString: Limited (search-only)
+items[379].orig: University of California
+items[379].fromRecord: 006091066
+items[379].htid: uc1.31822022851422
+items[379].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822022851422
+items[379].rightsCode: und
+items[379].lastUpdate: 20130809
+items[379].enumcron: ser.8 v.12
+items[379].usRightsString: Limited (search-only)
+items[380].orig: University of California
+items[380].fromRecord: 006091066
+items[380].htid: uc1.31822035035898
+items[380].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822035035898
+items[380].rightsCode: und
+items[380].lastUpdate: 20130809
+items[380].enumcron: Ser. 8 v.14 Suppl.
+items[380].usRightsString: Limited (search-only)
+items[381].orig: University of California
+items[381].fromRecord: 006091066
+items[381].htid: uc1.31822035996271
+items[381].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822035996271
+items[381].rightsCode: und
+items[381].lastUpdate: 20130809
+items[381].enumcron: ser.8 v.15 no.1-6
+items[381].usRightsString: Limited (search-only)
+items[382].orig: University of California
+items[382].fromRecord: 006091066
+items[382].htid: uc1.31822035996289
+items[382].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822035996289
+items[382].rightsCode: und
+items[382].lastUpdate: 20130809
+items[382].enumcron: ser.8 v.15 no.7-12
+items[382].usRightsString: Limited (search-only)
+items[383].orig: University of California
+items[383].fromRecord: 006091066
+items[383].htid: uc1.31822036019214
+items[383].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822036019214
+items[383].rightsCode: und
+items[383].lastUpdate: 20130809
+items[383].enumcron: ser.8 v.16 no.1-6
+items[383].usRightsString: Limited (search-only)
+items[384].orig: University of California
+items[384].fromRecord: 006091066
+items[384].htid: uc1.31822036029155
+items[384].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.31822036029155
+items[384].rightsCode: und
+items[384].lastUpdate: 20130809
+items[384].enumcron: ser.8 v.16 no.7-12
+items[384].usRightsString: Limited (search-only)
+items[385].orig: University of Minnesota
+items[385].fromRecord: 006091066
+items[385].htid: umn.31951d00314434b
+items[385].itemURL: https://babel.hathitrust.org/cgi/pt?id=umn.31951d00314434b
+items[385].rightsCode: pdus
+items[385].lastUpdate: 20260313
+items[385].enumcron: Index:n.s.bd.51/69,4.F.bd.1/30 (1894-1909)
+items[385].usRightsString: Full view
+items[386].orig: University of California
+items[386].fromRecord: 006091066
+items[386].htid: uc1.aa0015424914
+items[386].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.aa0015424914
+items[386].rightsCode: pdus
+items[386].lastUpdate: 20251013
+items[386].enumcron: INDEX: v.287-335 yr.1894-1909
+items[386].usRightsString: Full view
+items[387].orig: University of California
+items[387].fromRecord: 006091066
+items[387].htid: uc1.b4433765
+items[387].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4433765
+items[387].rightsCode: pd
+items[387].lastUpdate: 20250227
+items[387].enumcron: v.306 (ser.4:1, 1900)
+items[387].usRightsString: Full view
+items[388].orig: University of California
+items[388].fromRecord: 006091066
+items[388].htid: uc1.b4433766
+items[388].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4433766
+items[388].rightsCode: pd
+items[388].lastUpdate: 20250226
+items[388].enumcron: v.307 (ser.4:2, 1900)
+items[388].usRightsString: Full view
+items[389].orig: University of California
+items[389].fromRecord: 006091066
+items[389].htid: uc1.b4433767
+items[389].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4433767
+items[389].rightsCode: pd
+items[389].lastUpdate: 20130805
+items[389].enumcron: v.308 (ser.4:3, 1900)
+items[389].usRightsString: Full view
+items[390].orig: University of California
+items[390].fromRecord: 006091066
+items[390].htid: uc1.b4433768
+items[390].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4433768
+items[390].rightsCode: pdus
+items[390].lastUpdate: 20241129
+items[390].enumcron: v.309 (ser.4:4, 1901)
+items[390].usRightsString: Full view
+items[391].orig: University of California
+items[391].fromRecord: 006091066
+items[391].htid: uc1.b4433769
+items[391].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4433769
+items[391].rightsCode: pdus
+items[391].lastUpdate: 20250225
+items[391].enumcron: v.310 (ser.4:5, 1901)
+items[391].usRightsString: Full view
+items[392].orig: University of California
+items[392].fromRecord: 006091066
+items[392].htid: uc1.b4433770
+items[392].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4433770
+items[392].rightsCode: pdus
+items[392].lastUpdate: 20251230
+items[392].enumcron: v.311 (ser.4:6, 1901)
+items[392].usRightsString: Full view
+items[393].orig: University of California
+items[393].fromRecord: 006091066
+items[393].htid: uc1.b4433771
+items[393].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4433771
+items[393].rightsCode: pdus
+items[393].lastUpdate: 20260605
+items[393].enumcron: v.312 (ser.4:7, 1902)
+items[393].usRightsString: Full view
+items[394].orig: University of California
+items[394].fromRecord: 006091066
+items[394].htid: uc1.b4433772
+items[394].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4433772
+items[394].rightsCode: pdus
+items[394].lastUpdate: 20250224
+items[394].enumcron: v.313 (ser.4:8, 1902)
+items[394].usRightsString: Full view
+items[395].orig: University of California
+items[395].fromRecord: 006091066
+items[395].htid: uc1.b4433773
+items[395].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.b4433773
+items[395].rightsCode: pdus
+items[395].lastUpdate: 20261022
+items[395].enumcron: v.314 (ser.4:9, 1902)
+items[395].usRightsString: Full view
+items[396].orig: University of California
+items[396].fromRecord: 006091066
+items[396].htid: uc1.c032743276
+items[396].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032743276
+items[396].rightsCode: pdus
+items[396].lastUpdate: 20260619
+items[396].enumcron: v.315 (ser.4:10, 1903)
+items[396].usRightsString: Full view
+items[397].orig: University of California
+items[397].fromRecord: 006091066
+items[397].htid: uc1.$b562231
+items[397].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562231
+items[397].rightsCode: pdus
+items[397].lastUpdate: 20241109
+items[397].enumcron: v.315 (1903)
+items[397].usRightsString: Full view
+items[398].orig: University of California
+items[398].fromRecord: 006091066
+items[398].htid: uc1.c032780360
+items[398].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032780360
+items[398].rightsCode: pdus
+items[398].lastUpdate: 20260619
+items[398].enumcron: v.316 (ser.4:11, 1903)
+items[398].usRightsString: Full view
+items[399].orig: University of California
+items[399].fromRecord: 006091066
+items[399].htid: uc1.$b562232
+items[399].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562232
+items[399].rightsCode: pdus
+items[399].lastUpdate: 20250714
+items[399].enumcron: v.316 (1903)
+items[399].usRightsString: Full view
+items[400].orig: University of California
+items[400].fromRecord: 006091066
+items[400].htid: uc1.c032743212
+items[400].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032743212
+items[400].rightsCode: pdus
+items[400].lastUpdate: 20260619
+items[400].enumcron: v.317 (ser.4:12, 1903)
+items[400].usRightsString: Full view
+items[401].orig: University of California
+items[401].fromRecord: 006091066
+items[401].htid: uc1.$b637558
+items[401].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b637558
+items[401].rightsCode: pdus
+items[401].lastUpdate: 20241109
+items[401].enumcron: v.317 (1903)
+items[401].usRightsString: Full view
+items[402].orig: University of California
+items[402].fromRecord: 006091066
+items[402].htid: uc1.$b562233
+items[402].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562233
+items[402].rightsCode: pdus
+items[402].lastUpdate: 20261001
+items[402].enumcron: v.318
+items[402].usRightsString: Full view
+items[403].orig: University of California
+items[403].fromRecord: 006091066
+items[403].htid: uc1.c032782809
+items[403].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032782809
+items[403].rightsCode: pdus
+items[403].lastUpdate: 20260619
+items[403].enumcron: v.318 (ser.4:13, 1904)
+items[403].usRightsString: Full view
+items[404].orig: University of California
+items[404].fromRecord: 006091066
+items[404].htid: uc1.c032782818
+items[404].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032782818
+items[404].rightsCode: pdus
+items[404].lastUpdate: 20260526
+items[404].enumcron: v.319 (ser.4:14, 1904)
+items[404].usRightsString: Full view
+items[405].orig: University of California
+items[405].fromRecord: 006091066
+items[405].htid: uc1.$b562234
+items[405].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562234
+items[405].rightsCode: pdus
+items[405].lastUpdate: 20241206
+items[405].enumcron: v.319 (1904)
+items[405].usRightsString: Full view
+items[406].orig: University of California
+items[406].fromRecord: 006091066
+items[406].htid: uc1.c032773892
+items[406].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032773892
+items[406].rightsCode: pdus
+items[406].lastUpdate: 20260619
+items[406].enumcron: v.320 (ser.4:15, 1904)
+items[406].usRightsString: Full view
+items[407].orig: University of California
+items[407].fromRecord: 006091066
+items[407].htid: uc1.$b562235
+items[407].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562235
+items[407].rightsCode: pdus
+items[407].lastUpdate: 20241206
+items[407].enumcron: v.320 (1904)
+items[407].usRightsString: Full view
+items[408].orig: University of California
+items[408].fromRecord: 006091066
+items[408].htid: uc1.c069396996
+items[408].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c069396996
+items[408].rightsCode: pdus
+items[408].lastUpdate: 20260619
+items[408].enumcron: v.321 (ser.4:16, 1905)
+items[408].usRightsString: Full view
+items[409].orig: University of California
+items[409].fromRecord: 006091066
+items[409].htid: uc1.$b562236
+items[409].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562236
+items[409].rightsCode: pdus
+items[409].lastUpdate: 20241206
+items[409].enumcron: v.321 (1905)
+items[409].usRightsString: Full view
+items[410].orig: University of California
+items[410].fromRecord: 006091066
+items[410].htid: uc1.c069396987
+items[410].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c069396987
+items[410].rightsCode: pdus
+items[410].lastUpdate: 20260619
+items[410].enumcron: v.323 (ser.4:18, 1905)
+items[410].usRightsString: Full view
+items[411].orig: University of California
+items[411].fromRecord: 006091066
+items[411].htid: uc1.c032780829
+items[411].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032780829
+items[411].rightsCode: pdus
+items[411].lastUpdate: 20260619
+items[411].enumcron: v.324 (ser.4:19, 1906)
+items[411].usRightsString: Full view
+items[412].orig: University of California
+items[412].fromRecord: 006091066
+items[412].htid: uc1.$b562238
+items[412].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562238
+items[412].rightsCode: pdus
+items[412].lastUpdate: 20241109
+items[412].enumcron: v.324 (1906)
+items[412].usRightsString: Full view
+items[413].orig: University of California
+items[413].fromRecord: 006091066
+items[413].htid: uc1.c032780883
+items[413].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032780883
+items[413].rightsCode: pdus
+items[413].lastUpdate: 20260526
+items[413].enumcron: v.325 (ser.4:20, 1906)
+items[413].usRightsString: Full view
+items[414].orig: University of California
+items[414].fromRecord: 006091066
+items[414].htid: uc1.$b562239
+items[414].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562239
+items[414].rightsCode: pdus
+items[414].lastUpdate: 20241206
+items[414].enumcron: v.325 (1906)
+items[414].usRightsString: Full view
+items[415].orig: University of California
+items[415].fromRecord: 006091066
+items[415].htid: uc1.$b562240
+items[415].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562240
+items[415].rightsCode: pdus
+items[415].lastUpdate: 20250621
+items[415].enumcron: v.326
+items[415].usRightsString: Full view
+items[416].orig: University of California
+items[416].fromRecord: 006091066
+items[416].htid: uc1.c032780962
+items[416].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032780962
+items[416].rightsCode: pdus
+items[416].lastUpdate: 20260619
+items[416].enumcron: v.326 (ser.4:21, 1906)
+items[416].usRightsString: Full view
+items[417].orig: University of California
+items[417].fromRecord: 006091066
+items[417].htid: uc1.c032780971
+items[417].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032780971
+items[417].rightsCode: pdus
+items[417].lastUpdate: 20260619
+items[417].enumcron: v.327 (ser.4:22, 1907)
+items[417].usRightsString: Full view
+items[418].orig: University of California
+items[418].fromRecord: 006091066
+items[418].htid: uc1.$b562241
+items[418].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562241
+items[418].rightsCode: pdus
+items[418].lastUpdate: 20241109
+items[418].enumcron: v.327 (1907)
+items[418].usRightsString: Full view
+items[419].orig: University of California
+items[419].fromRecord: 006091066
+items[419].htid: uc1.c077074812
+items[419].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c077074812
+items[419].rightsCode: pdus
+items[419].lastUpdate: 20260619
+items[419].enumcron: v.328 (ser.4:23, 1907)
+items[419].usRightsString: Full view
+items[420].orig: University of California
+items[420].fromRecord: 006091066
+items[420].htid: uc1.$b562242
+items[420].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562242
+items[420].rightsCode: pdus
+items[420].lastUpdate: 20241206
+items[420].enumcron: v.328 (1907)
+items[420].usRightsString: Full view
+items[421].orig: University of California
+items[421].fromRecord: 006091066
+items[421].htid: uc1.c032781188
+items[421].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032781188
+items[421].rightsCode: pdus
+items[421].lastUpdate: 20260526
+items[421].enumcron: v.329 (ser.4:24, 1907)
+items[421].usRightsString: Full view
+items[422].orig: University of California
+items[422].fromRecord: 006091066
+items[422].htid: uc1.$b562243
+items[422].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562243
+items[422].rightsCode: pdus
+items[422].lastUpdate: 20241206
+items[422].enumcron: v.329 (1907)
+items[422].usRightsString: Full view
+items[423].orig: University of California
+items[423].fromRecord: 006091066
+items[423].htid: uc1.$b562244
+items[423].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562244
+items[423].rightsCode: pdus
+items[423].lastUpdate: 20250702
+items[423].enumcron: v.330 (1908)
+items[423].usRightsString: Full view
+items[424].orig: University of California
+items[424].fromRecord: 006091066
+items[424].htid: uc1.$b562245
+items[424].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562245
+items[424].rightsCode: pdus
+items[424].lastUpdate: 20250621
+items[424].enumcron: v.331
+items[424].usRightsString: Full view
+items[425].orig: University of California
+items[425].fromRecord: 006091066
+items[425].htid: uc1.c032781416
+items[425].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032781416
+items[425].rightsCode: pdus
+items[425].lastUpdate: 20260619
+items[425].enumcron: v.331 (ser.4:26, 1908)
+items[425].usRightsString: Full view
+items[426].orig: University of California
+items[426].fromRecord: 006091066
+items[426].htid: uc1.$b562246
+items[426].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562246
+items[426].rightsCode: pdus
+items[426].lastUpdate: 20250621
+items[426].enumcron: v.332
+items[426].usRightsString: Full view
+items[427].orig: University of California
+items[427].fromRecord: 006091066
+items[427].htid: uc1.c032775137
+items[427].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032775137
+items[427].rightsCode: pdus
+items[427].lastUpdate: 20260619
+items[427].enumcron: v.332 (ser.4:27, 1908)
+items[427].usRightsString: Full view
+items[428].orig: University of California
+items[428].fromRecord: 006091066
+items[428].htid: uc1.c032763951
+items[428].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032763951
+items[428].rightsCode: pdus
+items[428].lastUpdate: 20260619
+items[428].enumcron: v.333 (ser.4:28, 1909)
+items[428].usRightsString: Full view
+items[429].orig: University of California
+items[429].fromRecord: 006091066
+items[429].htid: uc1.$b562247
+items[429].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562247
+items[429].rightsCode: pdus
+items[429].lastUpdate: 20241206
+items[429].enumcron: v.333 (1909)
+items[429].usRightsString: Full view
+items[430].orig: University of California
+items[430].fromRecord: 006091066
+items[430].htid: uc1.c032764098
+items[430].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032764098
+items[430].rightsCode: pdus
+items[430].lastUpdate: 20260619
+items[430].enumcron: v.334 (ser.4:29, 1909)
+items[430].usRightsString: Full view
+items[431].orig: University of California
+items[431].fromRecord: 006091066
+items[431].htid: uc1.$b562248
+items[431].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562248
+items[431].rightsCode: pdus
+items[431].lastUpdate: 20241206
+items[431].enumcron: v.334 (1909)
+items[431].usRightsString: Full view
+items[432].orig: University of California
+items[432].fromRecord: 006091066
+items[432].htid: uc1.$b562249
+items[432].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562249
+items[432].rightsCode: pdus
+items[432].lastUpdate: 20241109
+items[432].enumcron: v.335
+items[432].usRightsString: Full view
+items[433].orig: University of California
+items[433].fromRecord: 006091066
+items[433].htid: uc1.c032777959
+items[433].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032777959
+items[433].rightsCode: pdus
+items[433].lastUpdate: 20260619
+items[433].enumcron: v.335 (ser.4:30, 1909)
+items[433].usRightsString: Full view
+items[434].orig: University of California
+items[434].fromRecord: 006091066
+items[434].htid: uc1.$b562250
+items[434].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562250
+items[434].rightsCode: pdus
+items[434].lastUpdate: 20241206
+items[434].enumcron: v.336
+items[434].usRightsString: Full view
+items[435].orig: University of California
+items[435].fromRecord: 006091066
+items[435].htid: uc1.c069396978
+items[435].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c069396978
+items[435].rightsCode: pdus
+items[435].lastUpdate: 20260619
+items[435].enumcron: v.336 (ser.4:31, 1910)
+items[435].usRightsString: Full view
+items[436].orig: University of California
+items[436].fromRecord: 006091066
+items[436].htid: uc1.$b562251
+items[436].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562251
+items[436].rightsCode: pdus
+items[436].lastUpdate: 20241109
+items[436].enumcron: v.337
+items[436].usRightsString: Full view
+items[437].orig: University of California
+items[437].fromRecord: 006091066
+items[437].htid: uc1.c032778096
+items[437].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032778096
+items[437].rightsCode: pdus
+items[437].lastUpdate: 20260619
+items[437].enumcron: v.337 (ser.4:32, 1910)
+items[437].usRightsString: Full view
+items[438].orig: University of California
+items[438].fromRecord: 006091066
+items[438].htid: uc1.$b562252
+items[438].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562252
+items[438].rightsCode: pdus
+items[438].lastUpdate: 20250621
+items[438].enumcron: v.338
+items[438].usRightsString: Full view
+items[439].orig: University of California
+items[439].fromRecord: 006091066
+items[439].htid: uc1.c032783195
+items[439].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c032783195
+items[439].rightsCode: pdus
+items[439].lastUpdate: 20260619
+items[439].enumcron: v.338 (ser.4:33, 1910)
+items[439].usRightsString: Full view
+items[440].orig: University of California
+items[440].fromRecord: 006091066
+items[440].htid: uc1.$b562253
+items[440].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562253
+items[440].rightsCode: pdus
+items[440].lastUpdate: 20260901
+items[440].enumcron: v.339
+items[440].usRightsString: Full view
+items[441].orig: University of California
+items[441].fromRecord: 006091066
+items[441].htid: uc1.c050065075
+items[441].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c050065075
+items[441].rightsCode: pdus
+items[441].lastUpdate: 20260619
+items[441].enumcron: v.339 (ser.4:34, 1911)
+items[441].usRightsString: Full view
+items[442].orig: University of California
+items[442].fromRecord: 006091066
+items[442].htid: uc1.$b562254
+items[442].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562254
+items[442].rightsCode: pdus
+items[442].lastUpdate: 20241206
+items[442].enumcron: v.340
+items[442].usRightsString: Full view
+items[443].orig: University of California
+items[443].fromRecord: 006091066
+items[443].htid: uc1.c057882775
+items[443].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c057882775
+items[443].rightsCode: pdus
+items[443].lastUpdate: 20260619
+items[443].enumcron: v.340 (ser.4:35, 1911)
+items[443].usRightsString: Full view
+items[444].orig: University of California
+items[444].fromRecord: 006091066
+items[444].htid: uc1.$b562255
+items[444].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562255
+items[444].rightsCode: pdus
+items[444].lastUpdate: 20241206
+items[444].enumcron: v.341
+items[444].usRightsString: Full view
+items[445].orig: University of California
+items[445].fromRecord: 006091066
+items[445].htid: uc1.c057882641
+items[445].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c057882641
+items[445].rightsCode: pdus
+items[445].lastUpdate: 20260526
+items[445].enumcron: v.341 (ser.4:36, 1911)
+items[445].usRightsString: Full view
+items[446].orig: University of Illinois at Urbana-Champaign
+items[446].fromRecord: 006091066
+items[446].htid: uiug.30112052661227
+items[446].itemURL: https://babel.hathitrust.org/cgi/pt?id=uiug.30112052661227
+items[446].rightsCode: pdus
+items[446].lastUpdate: 20260223
+items[446].enumcron: v.341(1911)
+items[446].usRightsString: Full view
+items[447].orig: University of California
+items[447].fromRecord: 006091066
+items[447].htid: uc1.$b562256
+items[447].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562256
+items[447].rightsCode: pdus
+items[447].lastUpdate: 20241206
+items[447].enumcron: v.342
+items[447].usRightsString: Full view
+items[448].orig: University of California
+items[448].fromRecord: 006091066
+items[448].htid: uc1.c050069868
+items[448].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c050069868
+items[448].rightsCode: pdus
+items[448].lastUpdate: 20260619
+items[448].enumcron: v.342 (ser.4:37, 1912)
+items[448].usRightsString: Full view
+items[449].orig: University of California
+items[449].fromRecord: 006091066
+items[449].htid: uc1.$b562257
+items[449].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562257
+items[449].rightsCode: pdus
+items[449].lastUpdate: 20241206
+items[449].enumcron: v.343
+items[449].usRightsString: Full view
+items[450].orig: University of California
+items[450].fromRecord: 006091066
+items[450].htid: uc1.c042514593
+items[450].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514593
+items[450].rightsCode: pdus
+items[450].lastUpdate: 20260619
+items[450].enumcron: v.343 (ser.4:38, 1912)
+items[450].usRightsString: Full view
+items[451].orig: University of California
+items[451].fromRecord: 006091066
+items[451].htid: uc1.$b562258
+items[451].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562258
+items[451].rightsCode: pdus
+items[451].lastUpdate: 20241206
+items[451].enumcron: v.344
+items[451].usRightsString: Full view
+items[452].orig: University of California
+items[452].fromRecord: 006091066
+items[452].htid: uc1.c050069877
+items[452].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c050069877
+items[452].rightsCode: pdus
+items[452].lastUpdate: 20260619
+items[452].enumcron: v.344 (ser.4:39, 1912)
+items[452].usRightsString: Full view
+items[453].orig: University of California
+items[453].fromRecord: 006091066
+items[453].htid: uc1.$b562259
+items[453].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562259
+items[453].rightsCode: pdus
+items[453].lastUpdate: 20241109
+items[453].enumcron: v.345
+items[453].usRightsString: Full view
+items[454].orig: University of California
+items[454].fromRecord: 006091066
+items[454].htid: uc1.c050069886
+items[454].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c050069886
+items[454].rightsCode: pdus
+items[454].lastUpdate: 20260526
+items[454].enumcron: v.345 (ser.4:40, 1913)
+items[454].usRightsString: Full view
+items[455].orig: University of California
+items[455].fromRecord: 006091066
+items[455].htid: uc1.c042514715
+items[455].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514715
+items[455].rightsCode: pdus
+items[455].lastUpdate: 20260619
+items[455].enumcron: v.346 (ser.4:41, 1913)
+items[455].usRightsString: Full view
+items[456].orig: University of California
+items[456].fromRecord: 006091066
+items[456].htid: uc1.$b562261
+items[456].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562261
+items[456].rightsCode: pdus
+items[456].lastUpdate: 20241206
+items[456].enumcron: v.346 (1913)
+items[456].usRightsString: Full view
+items[457].orig: University of California
+items[457].fromRecord: 006091066
+items[457].htid: uc1.$b562260
+items[457].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562260
+items[457].rightsCode: pdus
+items[457].lastUpdate: 20241110
+items[457].enumcron: v.347
+items[457].usRightsString: Full view
+items[458].orig: University of California
+items[458].fromRecord: 006091066
+items[458].htid: uc1.c050069895
+items[458].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c050069895
+items[458].rightsCode: pdus
+items[458].lastUpdate: 20260619
+items[458].enumcron: v.347 (ser.4:42, 1913)
+items[458].usRightsString: Full view
+items[459].orig: University of California
+items[459].fromRecord: 006091066
+items[459].htid: uc1.$b561842
+items[459].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561842
+items[459].rightsCode: pdus
+items[459].lastUpdate: 20241206
+items[459].enumcron: v.348
+items[459].usRightsString: Full view
+items[460].orig: University of California
+items[460].fromRecord: 006091066
+items[460].htid: uc1.c042514706
+items[460].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514706
+items[460].rightsCode: pdus
+items[460].lastUpdate: 20260619
+items[460].enumcron: v.348 (ser.4:43, 1914)
+items[460].usRightsString: Full view
+items[461].orig: University of California
+items[461].fromRecord: 006091066
+items[461].htid: uc1.$b561843
+items[461].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561843
+items[461].rightsCode: pdus
+items[461].lastUpdate: 20241206
+items[461].enumcron: v.349
+items[461].usRightsString: Full view
+items[462].orig: University of California
+items[462].fromRecord: 006091066
+items[462].htid: uc1.c042514584
+items[462].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514584
+items[462].rightsCode: pdus
+items[462].lastUpdate: 20260619
+items[462].enumcron: v.349 (ser.4:44, 1914)
+items[462].usRightsString: Full view
+items[463].orig: University of California
+items[463].fromRecord: 006091066
+items[463].htid: uc1.$b561844
+items[463].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561844
+items[463].rightsCode: pdus
+items[463].lastUpdate: 20241206
+items[463].enumcron: v.350
+items[463].usRightsString: Full view
+items[464].orig: University of California
+items[464].fromRecord: 006091066
+items[464].htid: uc1.c042514690
+items[464].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514690
+items[464].rightsCode: pdus
+items[464].lastUpdate: 20260526
+items[464].enumcron: v.350 (ser.4:45, 1914)
+items[464].usRightsString: Full view
+items[465].orig: University of California
+items[465].fromRecord: 006091066
+items[465].htid: uc1.c042514803
+items[465].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514803
+items[465].rightsCode: pdus
+items[465].lastUpdate: 20260526
+items[465].enumcron: v.351 (ser.4:46, 1914-15)
+items[465].usRightsString: Full view
+items[466].orig: University of California
+items[466].fromRecord: 006091066
+items[466].htid: uc1.$b561845
+items[466].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561845
+items[466].rightsCode: pdus
+items[466].lastUpdate: 20241109
+items[466].enumcron: v.351 (1915)
+items[466].usRightsString: Full view
+items[467].orig: University of California
+items[467].fromRecord: 006091066
+items[467].htid: uc1.$b561846
+items[467].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561846
+items[467].rightsCode: pdus
+items[467].lastUpdate: 20241109
+items[467].enumcron: v.352 (1915)
+items[467].usRightsString: Full view
+items[468].orig: University of California
+items[468].fromRecord: 006091066
+items[468].htid: uc1.$b561847
+items[468].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561847
+items[468].rightsCode: pdus
+items[468].lastUpdate: 20241206
+items[468].enumcron: v.353 (1915)
+items[468].usRightsString: Full view
+items[469].orig: University of California
+items[469].fromRecord: 006091066
+items[469].htid: uc1.c042514788
+items[469].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514788
+items[469].rightsCode: pdus
+items[469].lastUpdate: 20260526
+items[469].enumcron: v.355 (ser.4:50, 1916)
+items[469].usRightsString: Full view
+items[470].orig: University of California
+items[470].fromRecord: 006091066
+items[470].htid: uc1.$b561848
+items[470].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561848
+items[470].rightsCode: pdus
+items[470].lastUpdate: 20241206
+items[470].enumcron: v.355 (1916)
+items[470].usRightsString: Full view
+items[471].orig: University of California
+items[471].fromRecord: 006091066
+items[471].htid: uc1.c042514760
+items[471].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514760
+items[471].rightsCode: pdus
+items[471].lastUpdate: 20260526
+items[471].enumcron: v.356 (ser.4:51, 1916-17)
+items[471].usRightsString: Full view
+items[472].orig: University of California
+items[472].fromRecord: 006091066
+items[472].htid: uc1.$b561849
+items[472].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561849
+items[472].rightsCode: pdus
+items[472].lastUpdate: 20241206
+items[472].enumcron: v.356 (1916)
+items[472].usRightsString: Full view
+items[473].orig: University of Illinois at Urbana-Champaign
+items[473].fromRecord: 006091066
+items[473].htid: uiug.30112052661284
+items[473].itemURL: https://babel.hathitrust.org/cgi/pt?id=uiug.30112052661284
+items[473].rightsCode: pdus
+items[473].lastUpdate: 20260223
+items[473].enumcron: v.356(1916-1917)
+items[473].usRightsString: Full view
+items[474].orig: University of California
+items[474].fromRecord: 006091066
+items[474].htid: uc1.c042514681
+items[474].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514681
+items[474].rightsCode: pdus
+items[474].lastUpdate: 20260526
+items[474].enumcron: v.357 (ser.4:52, 1917)
+items[474].usRightsString: Full view
+items[475].orig: University of California
+items[475].fromRecord: 006091066
+items[475].htid: uc1.$b561850
+items[475].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561850
+items[475].rightsCode: pdus
+items[475].lastUpdate: 20241206
+items[475].enumcron: v.357 (1917)
+items[475].usRightsString: Full view
+items[476].orig: University of California
+items[476].fromRecord: 006091066
+items[476].htid: uc1.c042514672
+items[476].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514672
+items[476].rightsCode: pdus
+items[476].lastUpdate: 20260526
+items[476].enumcron: v.358 (ser.4:53, 1917-18)
+items[476].usRightsString: Full view
+items[477].orig: University of California
+items[477].fromRecord: 006091066
+items[477].htid: uc1.$b561851
+items[477].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561851
+items[477].rightsCode: pdus
+items[477].lastUpdate: 20241206
+items[477].enumcron: v.358 (1917)
+items[477].usRightsString: Full view
+items[478].orig: University of California
+items[478].fromRecord: 006091066
+items[478].htid: uc1.c042514663
+items[478].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514663
+items[478].rightsCode: pdus
+items[478].lastUpdate: 20260526
+items[478].enumcron: v.359 (ser.4:54, 1918)
+items[478].usRightsString: Full view
+items[479].orig: University of California
+items[479].fromRecord: 006091066
+items[479].htid: uc1.$b561852
+items[479].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561852
+items[479].rightsCode: pdus
+items[479].lastUpdate: 20241206
+items[479].enumcron: v.359 (1917)
+items[479].usRightsString: Full view
+items[480].orig: University of California
+items[480].fromRecord: 006091066
+items[480].htid: uc1.c042514566
+items[480].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514566
+items[480].rightsCode: pdus
+items[480].lastUpdate: 20260619
+items[480].enumcron: v.360 (ser.4:55, 1918)
+items[480].usRightsString: Full view
+items[481].orig: University of California
+items[481].fromRecord: 006091066
+items[481].htid: uc1.$b561853
+items[481].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b561853
+items[481].rightsCode: pdus
+items[481].lastUpdate: 20241206
+items[481].enumcron: v.360 (1918)
+items[481].usRightsString: Full view
+items[482].orig: University of California
+items[482].fromRecord: 006091066
+items[482].htid: uc1.c042514955
+items[482].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514955
+items[482].rightsCode: pdus
+items[482].lastUpdate: 20260526
+items[482].enumcron: v.361 (ser.4:56, 1918)
+items[482].usRightsString: Full view
+items[483].orig: University of California
+items[483].fromRecord: 006091066
+items[483].htid: uc1.$b562039
+items[483].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562039
+items[483].rightsCode: pdus
+items[483].lastUpdate: 20250410
+items[483].enumcron: v.361 (1918)
+items[483].usRightsString: Full view
+items[484].orig: University of California
+items[484].fromRecord: 006091066
+items[484].htid: uc1.c042514946
+items[484].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514946
+items[484].rightsCode: pdus
+items[484].lastUpdate: 20260526
+items[484].enumcron: v.362 (ser.4:57, 1918-19)
+items[484].usRightsString: Full view
+items[485].orig: University of California
+items[485].fromRecord: 006091066
+items[485].htid: uc1.$b562040
+items[485].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562040
+items[485].rightsCode: pdus
+items[485].lastUpdate: 20241206
+items[485].enumcron: v.362 (1918)
+items[485].usRightsString: Full view
+items[486].orig: University of California
+items[486].fromRecord: 006091066
+items[486].htid: uc1.c042515047
+items[486].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042515047
+items[486].rightsCode: pdus
+items[486].lastUpdate: 20260526
+items[486].enumcron: v.363 (ser.4:58, 1919)
+items[486].usRightsString: Full view
+items[487].orig: University of California
+items[487].fromRecord: 006091066
+items[487].htid: uc1.$b562041
+items[487].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562041
+items[487].rightsCode: pdus
+items[487].lastUpdate: 20241109
+items[487].enumcron: v.363 (1919)
+items[487].usRightsString: Full view
+items[488].orig: University of California
+items[488].fromRecord: 006091066
+items[488].htid: uc1.c042515056
+items[488].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042515056
+items[488].rightsCode: pdus
+items[488].lastUpdate: 20260526
+items[488].enumcron: v.364 (ser.4:59, 1919)
+items[488].usRightsString: Full view
+items[489].orig: University of California
+items[489].fromRecord: 006091066
+items[489].htid: uc1.$b562042
+items[489].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562042
+items[489].rightsCode: pdus
+items[489].lastUpdate: 20241206
+items[489].enumcron: v.364 (1919)
+items[489].usRightsString: Full view
+items[490].orig: University of California
+items[490].fromRecord: 006091066
+items[490].htid: uc1.c042514779
+items[490].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514779
+items[490].rightsCode: pdus
+items[490].lastUpdate: 20260526
+items[490].enumcron: v.365 (ser.4:60, 1919)
+items[490].usRightsString: Full view
+items[491].orig: University of California
+items[491].fromRecord: 006091066
+items[491].htid: uc1.$b562043
+items[491].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562043
+items[491].rightsCode: pdus
+items[491].lastUpdate: 20241206
+items[491].enumcron: v.365 (1919)
+items[491].usRightsString: Full view
+items[492].orig: University of California
+items[492].fromRecord: 006091066
+items[492].htid: uc1.c042515038
+items[492].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042515038
+items[492].rightsCode: pdus
+items[492].lastUpdate: 20250417
+items[492].enumcron: v.366 (ser.4:61, 1920)
+items[492].usRightsString: Full view
+items[493].orig: University of California
+items[493].fromRecord: 006091066
+items[493].htid: uc1.$b562044
+items[493].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562044
+items[493].rightsCode: pdus
+items[493].lastUpdate: 20241206
+items[493].enumcron: v.366 (1920)
+items[493].usRightsString: Full view
+items[494].orig: University of California
+items[494].fromRecord: 006091066
+items[494].htid: uc1.c042515029
+items[494].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042515029
+items[494].rightsCode: pdus
+items[494].lastUpdate: 20260526
+items[494].enumcron: v.367 (ser.4:62, 1920)
+items[494].usRightsString: Full view
+items[495].orig: University of California
+items[495].fromRecord: 006091066
+items[495].htid: uc1.$b562045
+items[495].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562045
+items[495].rightsCode: pdus
+items[495].lastUpdate: 20241206
+items[495].enumcron: v.367 (1920)
+items[495].usRightsString: Full view
+items[496].orig: University of California
+items[496].fromRecord: 006091066
+items[496].htid: uc1.c042514937
+items[496].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042514937
+items[496].rightsCode: pdus
+items[496].lastUpdate: 20260526
+items[496].enumcron: v.368 (ser.4:63, 1920)
+items[496].usRightsString: Full view
+items[497].orig: University of California
+items[497].fromRecord: 006091066
+items[497].htid: uc1.$b562046
+items[497].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562046
+items[497].rightsCode: pdus
+items[497].lastUpdate: 20241206
+items[497].enumcron: v.368 (1920)
+items[497].usRightsString: Full view
+items[498].orig: University of Illinois at Urbana-Champaign
+items[498].fromRecord: 006091066
+items[498].htid: uiug.30112052666267
+items[498].itemURL: https://babel.hathitrust.org/cgi/pt?id=uiug.30112052666267
+items[498].rightsCode: pdus
+items[498].lastUpdate: 20260307
+items[498].enumcron: v.368(1920)
+items[498].usRightsString: Full view
+items[499].orig: University of California
+items[499].fromRecord: 006091066
+items[499].htid: uc1.$b562047
+items[499].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562047
+items[499].rightsCode: pdus
+items[499].lastUpdate: 20241109
+items[499].enumcron: v.369 (1921)
+items[499].usRightsString: Full view
+items[500].orig: University of California
+items[500].fromRecord: 006091066
+items[500].htid: uc1.c042515153
+items[500].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042515153
+items[500].rightsCode: pdus
+items[500].lastUpdate: 20260526
+items[500].enumcron: v.370 (ser.4:65, 1921)
+items[500].usRightsString: Full view
+items[501].orig: University of Illinois at Urbana-Champaign
+items[501].fromRecord: 006091066
+items[501].htid: uiuo.ark:/13960/t5x66s52m
+items[501].itemURL: https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/t5x66s52m
+items[501].rightsCode: pdus
+items[501].lastUpdate: 20180315
+items[501].enumcron: v.370(1921)
+items[501].usRightsString: Full view
+items[502].orig: University of California
+items[502].fromRecord: 006091066
+items[502].htid: uc1.c042515250
+items[502].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042515250
+items[502].rightsCode: pdus
+items[502].lastUpdate: 20260526
+items[502].enumcron: v.371 (ser.4:66, 1921-22)
+items[502].usRightsString: Full view
+items[503].orig: University of California
+items[503].fromRecord: 006091066
+items[503].htid: uc1.$b562049
+items[503].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562049
+items[503].rightsCode: pdus
+items[503].lastUpdate: 20241206
+items[503].enumcron: v.371 (1921)
+items[503].usRightsString: Full view
+items[504].orig: University of Illinois at Urbana-Champaign
+items[504].fromRecord: 006091066
+items[504].htid: uiug.30112052666416
+items[504].itemURL: https://babel.hathitrust.org/cgi/pt?id=uiug.30112052666416
+items[504].rightsCode: pdus
+items[504].lastUpdate: 20260223
+items[504].enumcron: v.371(1921-1922)
+items[504].usRightsString: Full view
+items[505].orig: University of California
+items[505].fromRecord: 006091066
+items[505].htid: uc1.c042515144
+items[505].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042515144
+items[505].rightsCode: pdus
+items[505].lastUpdate: 20251229
+items[505].enumcron: v.372 (ser.4:67, 1922)
+items[505].usRightsString: Full view
+items[506].orig: University of California
+items[506].fromRecord: 006091066
+items[506].htid: uc1.$b562050
+items[506].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562050
+items[506].rightsCode: pdus
+items[506].lastUpdate: 20241206
+items[506].enumcron: v.372 (1922)
+items[506].usRightsString: Full view
+items[507].orig: University of Illinois at Urbana-Champaign
+items[507].fromRecord: 006091066
+items[507].htid: uiug.30112052666176
+items[507].itemURL: https://babel.hathitrust.org/cgi/pt?id=uiug.30112052666176
+items[507].rightsCode: pdus
+items[507].lastUpdate: 20260223
+items[507].enumcron: v.372(1922)
+items[507].usRightsString: Full view
+items[508].orig: University of California
+items[508].fromRecord: 006091066
+items[508].htid: uc1.c042515241
+items[508].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.c042515241
+items[508].rightsCode: pdus
+items[508].lastUpdate: 20251230
+items[508].enumcron: v.373 (ser.4:68, 1922)
+items[508].usRightsString: Full view
+items[509].orig: University of Illinois at Urbana-Champaign
+items[509].fromRecord: 006091066
+items[509].htid: uiug.30112052666226
+items[509].itemURL: https://babel.hathitrust.org/cgi/pt?id=uiug.30112052666226
+items[509].rightsCode: pdus
+items[509].lastUpdate: 20260307
+items[509].enumcron: v.373(1922)
+items[509].usRightsString: Full view
+items[510].orig: University of Illinois at Urbana-Champaign
+items[510].fromRecord: 006091066
+items[510].htid: uiug.30112052666473
+items[510].itemURL: https://babel.hathitrust.org/cgi/pt?id=uiug.30112052666473
+items[510].rightsCode: pdus
+items[510].lastUpdate: 20260223
+items[510].enumcron: v.374(1922)
+items[510].usRightsString: Full view
+items[511].orig: University of California
+items[511].fromRecord: 006091066
+items[511].htid: uc1.$b562053
+items[511].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562053
+items[511].rightsCode: pdus
+items[511].lastUpdate: 20250318
+items[511].enumcron: v.375 (1923)
+items[511].usRightsString: Full view
+items[512].orig: University of California
+items[512].fromRecord: 006091066
+items[512].htid: uc1.$b562054
+items[512].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562054
+items[512].rightsCode: pdus
+items[512].lastUpdate: 20250318
+items[512].enumcron: v.376 (1923)
+items[512].usRightsString: Full view
+items[513].orig: University of California
+items[513].fromRecord: 006091066
+items[513].htid: uc1.$b562055
+items[513].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562055
+items[513].rightsCode: pdus
+items[513].lastUpdate: 20250318
+items[513].enumcron: v.377 (1923)
+items[513].usRightsString: Full view
+items[514].orig: University of California
+items[514].fromRecord: 006091066
+items[514].htid: uc1.$b562056
+items[514].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562056
+items[514].rightsCode: pdus
+items[514].lastUpdate: 20250318
+items[514].enumcron: v.378 (1924)
+items[514].usRightsString: Full view
+items[515].orig: University of California
+items[515].fromRecord: 006091066
+items[515].htid: uc1.$b562057
+items[515].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562057
+items[515].rightsCode: pdus
+items[515].lastUpdate: 20250318
+items[515].enumcron: v.379 (1924)
+items[515].usRightsString: Full view
+items[516].orig: University of California
+items[516].fromRecord: 006091066
+items[516].htid: uc1.$b562058
+items[516].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562058
+items[516].rightsCode: pdus
+items[516].lastUpdate: 20250928
+items[516].enumcron: v.380 (1924)
+items[516].usRightsString: Full view
+items[517].orig: University of California
+items[517].fromRecord: 006091066
+items[517].htid: uc1.$b562060
+items[517].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562060
+items[517].rightsCode: pdus
+items[517].lastUpdate: 20251212
+items[517].enumcron: v.382 (1925)
+items[517].usRightsString: Full view
+items[518].orig: University of California
+items[518].fromRecord: 006091066
+items[518].htid: uc1.$b562061
+items[518].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562061
+items[518].rightsCode: pdus
+items[518].lastUpdate: 20251113
+items[518].enumcron: v.383 (1925)
+items[518].usRightsString: Full view
+items[519].orig: University of California
+items[519].fromRecord: 006091066
+items[519].htid: uc1.$b562062
+items[519].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562062
+items[519].rightsCode: pdus
+items[519].lastUpdate: 20260205
+items[519].enumcron: v.384 (1926)
+items[519].usRightsString: Full view
+items[520].orig: University of California
+items[520].fromRecord: 006091066
+items[520].htid: uc1.$b562063
+items[520].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562063
+items[520].rightsCode: pdus
+items[520].lastUpdate: 20260205
+items[520].enumcron: v.385 (1926)
+items[520].usRightsString: Full view
+items[521].orig: University of California
+items[521].fromRecord: 006091066
+items[521].htid: uc1.$b562064
+items[521].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562064
+items[521].rightsCode: pdus
+items[521].lastUpdate: 20260205
+items[521].enumcron: v.386 (1926)
+items[521].usRightsString: Full view
+items[522].orig: University of California
+items[522].fromRecord: 006091066
+items[522].htid: uc1.$b562065
+items[522].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562065
+items[522].rightsCode: pdus
+items[522].lastUpdate: 20241223
+items[522].enumcron: v.387 (1927)
+items[522].usRightsString: Full view
+items[523].orig: University of California
+items[523].fromRecord: 006091066
+items[523].htid: uc1.$b562066
+items[523].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562066
+items[523].rightsCode: pdus
+items[523].lastUpdate: 20241121
+items[523].enumcron: v.388 (1927)
+items[523].usRightsString: Full view
+items[524].orig: University of California
+items[524].fromRecord: 006091066
+items[524].htid: uc1.$b562067
+items[524].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562067
+items[524].rightsCode: pdus
+items[524].lastUpdate: 20241120
+items[524].enumcron: v.389 (1927)
+items[524].usRightsString: Full view
+items[525].orig: University of California
+items[525].fromRecord: 006091066
+items[525].htid: uc1.$b562068
+items[525].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562068
+items[525].rightsCode: pdus
+items[525].lastUpdate: 20260120
+items[525].enumcron: v.390 (1928)
+items[525].usRightsString: Full view
+items[526].orig: University of California
+items[526].fromRecord: 006091066
+items[526].htid: uc1.$b562069
+items[526].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562069
+items[526].rightsCode: pdus
+items[526].lastUpdate: 20260120
+items[526].enumcron: v.391 (1928)
+items[526].usRightsString: Full view
+items[527].orig: University of California
+items[527].fromRecord: 006091066
+items[527].htid: uc1.$b562070
+items[527].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562070
+items[527].rightsCode: pdus
+items[527].lastUpdate: 20260113
+items[527].enumcron: v.392 (1928)
+items[527].usRightsString: Full view
+items[528].orig: University of California
+items[528].fromRecord: 006091066
+items[528].htid: uc1.$b562071
+items[528].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562071
+items[528].rightsCode: pdus
+items[528].lastUpdate: 20260724
+items[528].enumcron: v.393 (1929)
+items[528].usRightsString: Full view
+items[529].orig: University of California
+items[529].fromRecord: 006091066
+items[529].htid: uc1.$b562072
+items[529].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562072
+items[529].rightsCode: pdus
+items[529].lastUpdate: 20250507
+items[529].enumcron: v.394 (1929)
+items[529].usRightsString: Full view
+items[530].orig: University of California
+items[530].fromRecord: 006091066
+items[530].htid: uc1.$b562073
+items[530].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562073
+items[530].rightsCode: pdus
+items[530].lastUpdate: 20250507
+items[530].enumcron: v.395 (1929)
+items[530].usRightsString: Full view
+items[531].orig: University of California
+items[531].fromRecord: 006091066
+items[531].htid: uc1.$b562074
+items[531].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562074
+items[531].rightsCode: pdus
+items[531].lastUpdate: 20140308
+items[531].enumcron: v.396 (1930)
+items[531].usRightsString: Full view
+items[532].orig: University of California
+items[532].fromRecord: 006091066
+items[532].htid: uc1.$b562076
+items[532].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562076
+items[532].rightsCode: pdus
+items[532].lastUpdate: 20140308
+items[532].enumcron: v.398 (1930)
+items[532].usRightsString: Full view
+items[533].orig: University of California
+items[533].fromRecord: 006091066
+items[533].htid: uc1.$b562077
+items[533].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562077
+items[533].rightsCode: pdus
+items[533].lastUpdate: 20140308
+items[533].enumcron: v.399 (1930)
+items[533].usRightsString: Full view
+items[534].orig: University of California
+items[534].fromRecord: 006091066
+items[534].htid: uc1.$b562078
+items[534].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562078
+items[534].rightsCode: ic
+items[534].lastUpdate: 20140308
+items[534].enumcron: v.400 (1931)
+items[534].usRightsString: Limited (search-only)
+items[535].orig: University of California
+items[535].fromRecord: 006091066
+items[535].htid: uc1.$b562079
+items[535].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562079
+items[535].rightsCode: ic
+items[535].lastUpdate: 20140308
+items[535].enumcron: v.401 (1931)
+items[535].usRightsString: Limited (search-only)
+items[536].orig: University of California
+items[536].fromRecord: 006091066
+items[536].htid: uc1.$b562080
+items[536].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562080
+items[536].rightsCode: und
+items[536].lastUpdate: 20140308
+items[536].enumcron: v.402
+items[536].usRightsString: Limited (search-only)
+items[537].orig: University of California
+items[537].fromRecord: 006091066
+items[537].htid: uc1.$b562081
+items[537].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562081
+items[537].rightsCode: und
+items[537].lastUpdate: 20140308
+items[537].enumcron: v.403
+items[537].usRightsString: Limited (search-only)
+items[538].orig: University of California
+items[538].fromRecord: 006091066
+items[538].htid: uc1.$b562082
+items[538].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562082
+items[538].rightsCode: ic
+items[538].lastUpdate: 20140308
+items[538].enumcron: v.404 (1932)
+items[538].usRightsString: Limited (search-only)
+items[539].orig: University of California
+items[539].fromRecord: 006091066
+items[539].htid: uc1.$b562083
+items[539].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562083
+items[539].rightsCode: ic
+items[539].lastUpdate: 20140308
+items[539].enumcron: v.405 (1932)
+items[539].usRightsString: Limited (search-only)
+items[540].orig: University of California
+items[540].fromRecord: 006091066
+items[540].htid: uc1.$b562084
+items[540].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562084
+items[540].rightsCode: ic
+items[540].lastUpdate: 20140308
+items[540].enumcron: v.406 (1932)
+items[540].usRightsString: Limited (search-only)
+items[541].orig: University of California
+items[541].fromRecord: 006091066
+items[541].htid: uc1.$b562085
+items[541].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562085
+items[541].rightsCode: ic
+items[541].lastUpdate: 20140308
+items[541].enumcron: v.407 (1932)
+items[541].usRightsString: Limited (search-only)
+items[542].orig: University of California
+items[542].fromRecord: 006091066
+items[542].htid: uc1.$b562086
+items[542].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562086
+items[542].rightsCode: ic
+items[542].lastUpdate: 20140308
+items[542].enumcron: v.408 (1933)
+items[542].usRightsString: Limited (search-only)
+items[543].orig: University of California
+items[543].fromRecord: 006091066
+items[543].htid: uc1.$b562087
+items[543].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562087
+items[543].rightsCode: ic
+items[543].lastUpdate: 20140308
+items[543].enumcron: v.409 (1933)
+items[543].usRightsString: Limited (search-only)
+items[544].orig: University of California
+items[544].fromRecord: 006091066
+items[544].htid: uc1.$b562088
+items[544].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562088
+items[544].rightsCode: ic
+items[544].lastUpdate: 20140308
+items[544].enumcron: v.410 (1933)
+items[544].usRightsString: Limited (search-only)
+items[545].orig: University of California
+items[545].fromRecord: 006091066
+items[545].htid: uc1.$b562089
+items[545].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562089
+items[545].rightsCode: ic
+items[545].lastUpdate: 20140308
+items[545].enumcron: v.411 (1934)
+items[545].usRightsString: Limited (search-only)
+items[546].orig: University of California
+items[546].fromRecord: 006091066
+items[546].htid: uc1.$b562090
+items[546].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562090
+items[546].rightsCode: ic
+items[546].lastUpdate: 20140308
+items[546].enumcron: v.412 (1934)
+items[546].usRightsString: Limited (search-only)
+items[547].orig: University of California
+items[547].fromRecord: 006091066
+items[547].htid: uc1.$b562091
+items[547].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562091
+items[547].rightsCode: ic
+items[547].lastUpdate: 20140308
+items[547].enumcron: v.413 (1934)
+items[547].usRightsString: Limited (search-only)
+items[548].orig: University of California
+items[548].fromRecord: 006091066
+items[548].htid: uc1.$b562092
+items[548].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562092
+items[548].rightsCode: ic
+items[548].lastUpdate: 20140308
+items[548].enumcron: v.414 (1935)
+items[548].usRightsString: Limited (search-only)
+items[549].orig: University of California
+items[549].fromRecord: 006091066
+items[549].htid: uc1.$b562093
+items[549].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562093
+items[549].rightsCode: ic
+items[549].lastUpdate: 20140308
+items[549].enumcron: v.415 (1935)
+items[549].usRightsString: Limited (search-only)
+items[550].orig: University of California
+items[550].fromRecord: 006091066
+items[550].htid: uc1.$b562094
+items[550].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562094
+items[550].rightsCode: ic
+items[550].lastUpdate: 20140308
+items[550].enumcron: v.416 (1935)
+items[550].usRightsString: Limited (search-only)
+items[551].orig: University of California
+items[551].fromRecord: 006091066
+items[551].htid: uc1.$b562095
+items[551].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562095
+items[551].rightsCode: ic
+items[551].lastUpdate: 20140308
+items[551].enumcron: v.417 (1936)
+items[551].usRightsString: Limited (search-only)
+items[552].orig: University of California
+items[552].fromRecord: 006091066
+items[552].htid: uc1.$b562096
+items[552].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562096
+items[552].rightsCode: ic
+items[552].lastUpdate: 20140308
+items[552].enumcron: v.418 (1936)
+items[552].usRightsString: Limited (search-only)
+items[553].orig: University of California
+items[553].fromRecord: 006091066
+items[553].htid: uc1.$b562097
+items[553].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562097
+items[553].rightsCode: ic
+items[553].lastUpdate: 20140308
+items[553].enumcron: v.419 (1936)
+items[553].usRightsString: Limited (search-only)
+items[554].orig: University of California
+items[554].fromRecord: 006091066
+items[554].htid: uc1.$b562098
+items[554].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562098
+items[554].rightsCode: ic
+items[554].lastUpdate: 20140308
+items[554].enumcron: v.420 (1937)
+items[554].usRightsString: Limited (search-only)
+items[555].orig: University of California
+items[555].fromRecord: 006091066
+items[555].htid: uc1.$b562099
+items[555].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562099
+items[555].rightsCode: ic
+items[555].lastUpdate: 20140308
+items[555].enumcron: v.421 (1937)
+items[555].usRightsString: Limited (search-only)
+items[556].orig: University of California
+items[556].fromRecord: 006091066
+items[556].htid: uc1.$b562100
+items[556].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562100
+items[556].rightsCode: ic
+items[556].lastUpdate: 20140308
+items[556].enumcron: v.422 (1937)
+items[556].usRightsString: Limited (search-only)
+items[557].orig: University of California
+items[557].fromRecord: 006091066
+items[557].htid: uc1.$b562101
+items[557].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562101
+items[557].rightsCode: ic
+items[557].lastUpdate: 20140308
+items[557].enumcron: v.423 (1938)
+items[557].usRightsString: Limited (search-only)
+items[558].orig: University of California
+items[558].fromRecord: 006091066
+items[558].htid: uc1.$b562102
+items[558].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562102
+items[558].rightsCode: ic
+items[558].lastUpdate: 20140308
+items[558].enumcron: v.424 (1938)
+items[558].usRightsString: Limited (search-only)
+items[559].orig: University of California
+items[559].fromRecord: 006091066
+items[559].htid: uc1.$b562103
+items[559].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562103
+items[559].rightsCode: ic
+items[559].lastUpdate: 20140308
+items[559].enumcron: v.425 (1938)
+items[559].usRightsString: Limited (search-only)
+items[560].orig: University of California
+items[560].fromRecord: 006091066
+items[560].htid: uc1.$b562104
+items[560].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562104
+items[560].rightsCode: ic
+items[560].lastUpdate: 20140308
+items[560].enumcron: v.426 (1939)
+items[560].usRightsString: Limited (search-only)
+items[561].orig: University of California
+items[561].fromRecord: 006091066
+items[561].htid: uc1.$b562105
+items[561].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562105
+items[561].rightsCode: ic
+items[561].lastUpdate: 20140308
+items[561].enumcron: v.427 (1939)
+items[561].usRightsString: Limited (search-only)
+items[562].orig: University of California
+items[562].fromRecord: 006091066
+items[562].htid: uc1.$b562106
+items[562].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562106
+items[562].rightsCode: ic
+items[562].lastUpdate: 20140308
+items[562].enumcron: v.428 (1939-40)
+items[562].usRightsString: Limited (search-only)
+items[563].orig: University of California
+items[563].fromRecord: 006091066
+items[563].htid: uc1.$b562107
+items[563].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562107
+items[563].rightsCode: ic
+items[563].lastUpdate: 20140308
+items[563].enumcron: v.429 (1940)
+items[563].usRightsString: Limited (search-only)
+items[564].orig: University of California
+items[564].fromRecord: 006091066
+items[564].htid: uc1.$b562108
+items[564].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562108
+items[564].rightsCode: ic
+items[564].lastUpdate: 20140308
+items[564].enumcron: v.430 (1940)
+items[564].usRightsString: Limited (search-only)
+items[565].orig: University of California
+items[565].fromRecord: 006091066
+items[565].htid: uc1.$b562109
+items[565].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562109
+items[565].rightsCode: ic
+items[565].lastUpdate: 20140308
+items[565].enumcron: v.431 (1941)
+items[565].usRightsString: Limited (search-only)
+items[566].orig: University of California
+items[566].fromRecord: 006091066
+items[566].htid: uc1.$b562110
+items[566].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562110
+items[566].rightsCode: ic
+items[566].lastUpdate: 20140308
+items[566].enumcron: v.432 (1941)
+items[566].usRightsString: Limited (search-only)
+items[567].orig: University of California
+items[567].fromRecord: 006091066
+items[567].htid: uc1.$b562111
+items[567].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562111
+items[567].rightsCode: und
+items[567].lastUpdate: 20140308
+items[567].enumcron: v.433
+items[567].usRightsString: Limited (search-only)
+items[568].orig: University of California
+items[568].fromRecord: 006091066
+items[568].htid: uc1.$b562112
+items[568].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562112
+items[568].rightsCode: ic
+items[568].lastUpdate: 20140308
+items[568].enumcron: v.434 (1942)
+items[568].usRightsString: Limited (search-only)
+items[569].orig: University of California
+items[569].fromRecord: 006091066
+items[569].htid: uc1.$b562113
+items[569].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562113
+items[569].rightsCode: ic
+items[569].lastUpdate: 20140308
+items[569].enumcron: v.435 (1943)
+items[569].usRightsString: Limited (search-only)
+items[570].orig: University of California
+items[570].fromRecord: 006091066
+items[570].htid: uc1.$b562114
+items[570].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562114
+items[570].rightsCode: ic
+items[570].lastUpdate: 20140308
+items[570].enumcron: v.436-437 (1947-48)
+items[570].usRightsString: Limited (search-only)
+items[571].orig: University of California
+items[571].fromRecord: 006091066
+items[571].htid: uc1.$b562115
+items[571].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562115
+items[571].rightsCode: und
+items[571].lastUpdate: 20140308
+items[571].enumcron: v.438-439
+items[571].usRightsString: Limited (search-only)
+items[572].orig: University of California
+items[572].fromRecord: 006091066
+items[572].htid: uc1.$b562116
+items[572].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562116
+items[572].rightsCode: und
+items[572].lastUpdate: 20140308
+items[572].enumcron: v.440-441
+items[572].usRightsString: Limited (search-only)
+items[573].orig: University of California
+items[573].fromRecord: 006091066
+items[573].htid: uc1.$b562117
+items[573].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562117
+items[573].rightsCode: und
+items[573].lastUpdate: 20140308
+items[573].enumcron: v.442-444
+items[573].usRightsString: Limited (search-only)
+items[574].orig: University of California
+items[574].fromRecord: 006091066
+items[574].htid: uc1.$b562118
+items[574].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562118
+items[574].rightsCode: und
+items[574].lastUpdate: 20140308
+items[574].enumcron: v.445-446
+items[574].usRightsString: Limited (search-only)
+items[575].orig: University of California
+items[575].fromRecord: 006091066
+items[575].htid: uc1.$b562119
+items[575].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562119
+items[575].rightsCode: und
+items[575].lastUpdate: 20140308
+items[575].enumcron: v.447-448
+items[575].usRightsString: Limited (search-only)
+items[576].orig: University of California
+items[576].fromRecord: 006091066
+items[576].htid: uc1.$b562129
+items[576].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562129
+items[576].rightsCode: und
+items[576].lastUpdate: 20140308
+items[576].enumcron: v.466-467
+items[576].usRightsString: Limited (search-only)
+items[577].orig: University of California
+items[577].fromRecord: 006091066
+items[577].htid: uc1.$b562946
+items[577].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562946
+items[577].rightsCode: und
+items[577].lastUpdate: 20130802
+items[577].enumcron: v.468-469
+items[577].usRightsString: Limited (search-only)
+items[578].orig: University of California
+items[578].fromRecord: 006091066
+items[578].htid: uc1.$b562947
+items[578].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562947
+items[578].rightsCode: und
+items[578].lastUpdate: 20130802
+items[578].enumcron: v.470-471
+items[578].usRightsString: Limited (search-only)
+items[579].orig: University of California
+items[579].fromRecord: 006091066
+items[579].htid: uc1.$b562948
+items[579].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562948
+items[579].rightsCode: und
+items[579].lastUpdate: 20130802
+items[579].enumcron: v.472-473
+items[579].usRightsString: Limited (search-only)
+items[580].orig: University of California
+items[580].fromRecord: 006091066
+items[580].htid: uc1.$b562949
+items[580].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562949
+items[580].rightsCode: und
+items[580].lastUpdate: 20130802
+items[580].enumcron: v.474-475
+items[580].usRightsString: Limited (search-only)
+items[581].orig: University of California
+items[581].fromRecord: 006091066
+items[581].htid: uc1.$b562950
+items[581].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562950
+items[581].rightsCode: und
+items[581].lastUpdate: 20130802
+items[581].enumcron: v.476-477
+items[581].usRightsString: Limited (search-only)
+items[582].orig: University of California
+items[582].fromRecord: 006091066
+items[582].htid: uc1.$b562951
+items[582].itemURL: https://babel.hathitrust.org/cgi/pt?id=uc1.$b562951
+items[582].rightsCode: und
+items[582].lastUpdate: 20130802
+items[582].enumcron: v.478-479
+items[582].usRightsString: Limited (search-only)

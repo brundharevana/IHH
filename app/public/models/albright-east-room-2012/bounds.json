@@ -1,0 +1,137 @@
+{
+  "$comment": "Walkable bounds for free roam in albright-east-room-2012.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 6.7,
+  "walkable": {
+    "x_min": -4.75,
+    "x_max": 4.65,
+    "z_min": -11.25,
+    "z_max": 11.25
+  },
+  "obstacles": [
+    {
+      "name": "artifact_lectern",
+      "x_min": 3.506,
+      "x_max": 4.459,
+      "z_min": -3.41,
+      "z_max": -2.49
+    },
+    {
+      "name": "artifact_flag_us",
+      "x_min": 4.48,
+      "x_max": 5.22,
+      "z_min": -4.875,
+      "z_max": -4.08
+    },
+    {
+      "name": "artifact_flag_presidential",
+      "x_min": 4.48,
+      "x_max": 5.22,
+      "z_min": -1.82,
+      "z_max": -1.08
+    },
+    {
+      "name": "standing_candelabrum",
+      "x_min": 4.468,
+      "x_max": 5.432,
+      "z_min": -5.332,
+      "z_max": -4.368
+    },
+    {
+      "name": "fern_pedestal_0",
+      "x_min": 4.8,
+      "x_max": 5.5,
+      "z_min": -2.15,
+      "z_max": -1.45
+    },
+    {
+      "name": "fern_pedestal_1",
+      "x_min": 4.8,
+      "x_max": 5.5,
+      "z_min": -4.45,
+      "z_max": -3.75
+    },
+    {
+      "name": "mantel_0",
+      "x_min": 4.8,
+      "x_max": 5.7,
+      "z_min": 1.8,
+      "z_max": 4.1
+    },
+    {
+      "name": "mantel_1",
+      "x_min": 4.8,
+      "x_max": 5.7,
+      "z_min": -4.1,
+      "z_max": -1.8
+    },
+    {
+      "name": "mantel_2",
+      "x_min": -5.7,
+      "x_max": -4.8,
+      "z_min": 6.25,
+      "z_max": 8.55
+    },
+    {
+      "name": "mantel_3",
+      "x_min": -5.7,
+      "x_max": -4.8,
+      "z_min": -8.55,
+      "z_max": -6.25
+    },
+    {
+      "name": "honoree_chairs",
+      "x_min": 3.15,
+      "x_max": 4.05,
+      "z_min": 1.75,
+      "z_max": 7.35
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.6,
+      "z": -3.5,
+      "look_at": {
+        "x": 5.55,
+        "y": 1.5,
+        "z": -3.5
+      },
+      "note": "Facing the lectern, the mirror and the gold drapes (the 2012 photographs' view)"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -3.9,
+      "z": 10.6,
+      "look_at": {
+        "x": 0.5,
+        "y": 1.5,
+        "z": -8.0
+      },
+      "note": "From the south-west corner along the room (the 1904 photograph's view)"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 2.4,
+      "z": 5.0,
+      "look_at": {
+        "x": 2.0,
+        "y": 1.5,
+        "z": -4.5
+      },
+      "note": "Beside the honorees' chairs, looking towards the lectern"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -3.6,
+      "z": -8.5,
+      "look_at": {
+        "x": -5.55,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "By the north end, facing the west wall's doors"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+ "negativeControl": {
+  "oneStepFloorColourChange_differingPixels": 3160542,
+  "ofTotal": 8388608
+ },
+ "note": "from styles-all.json vs style-tokens.json (hex) vs components-only: 0 differing pixels in equirect, flat, zoom for toon and duotone"
+}

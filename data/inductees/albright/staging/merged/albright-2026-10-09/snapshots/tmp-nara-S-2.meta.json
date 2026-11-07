@@ -1,0 +1,10 @@
+{
+  "url": "https://obamawhitehouse.archives.gov/blog/2016/09/20/email-madeleine-albright-when-i-was-welcomed-refugee",
+  "fetch_url": "https://obamawhitehouse.archives.gov/blog/2016/09/20/email-madeleine-albright-when-i-was-welcomed-refugee",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:25:46Z",
+  "sha256": "c6c6de4a8905829a56ba488c6102a7462a0fb91ece51c94ff92708822c343b21",
+  "bytes": 9134,
+  "http_status": 200,
+  "final_url": "https://obamawhitehouse.archives.gov/blog/2016/09/20/email-madeleine-albright-when-i-was-welcomed-refugee"
+}

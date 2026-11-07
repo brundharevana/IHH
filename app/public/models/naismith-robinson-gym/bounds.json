@@ -1,0 +1,74 @@
+{
+  "$comment": "Walkable bounds for free roam in naismith-robinson-gym.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 13.0,
+  "walkable": {
+    "x_min": -9.5,
+    "x_max": 9.5,
+    "z_min": -15.6,
+    "z_max": 15.6
+  },
+  "obstacles": [
+    {
+      "name": "climbing_ropes_ne",
+      "x_min": 6.55,
+      "x_max": 7.75,
+      "z_min": -9.95,
+      "z_max": -9.25
+    },
+    {
+      "name": "climbing_rope_w",
+      "x_min": -6.95,
+      "x_max": -6.25,
+      "z_min": 1.65,
+      "z_max": 2.35
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": -0.3,
+      "z": 13.5,
+      "look_at": {
+        "x": -0.3,
+        "y": 1.5,
+        "z": -16.0
+      },
+      "note": "Photo viewpoint of the 1907 practice photograph: the hall, the track and the roof"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 0.0,
+      "z": -0.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -16.0
+      },
+      "note": "Centre of the floor, facing the north end and its running track"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 6.6,
+      "z": 2.0,
+      "look_at": {
+        "x": -9.9,
+        "y": 1.5,
+        "z": -2.0
+      },
+      "note": "Under the east track by the windows, looking across the hall"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -3.0,
+      "z": -11.5,
+      "look_at": {
+        "x": 2.0,
+        "y": 1.5,
+        "z": 16.0
+      },
+      "note": "North end, looking back down the hall"
+    }
+  ]
+}

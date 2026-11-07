@@ -1,0 +1,102 @@
+{
+  "$comment": "Walkable bounds for free roam in study.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 2.85,
+  "walkable": {
+    "x_min": -2.35,
+    "x_max": 2.35,
+    "z_min": -1.61,
+    "z_max": 1.95
+  },
+  "obstacles": [
+    {
+      "name": "artifact_desk",
+      "x_min": -0.347,
+      "x_max": 1.347,
+      "z_min": -1.279,
+      "z_max": 0.039
+    },
+    {
+      "name": "artifact_globe",
+      "x_min": 0.596,
+      "x_max": 1.457,
+      "z_min": -2.075,
+      "z_max": -1.125
+    },
+    {
+      "name": "artifact_floor_lamp",
+      "x_min": -0.796,
+      "x_max": -0.091,
+      "z_min": -1.797,
+      "z_max": -1.121
+    },
+    {
+      "name": "artifact_chair_einstein",
+      "x_min": -0.02,
+      "x_max": 0.887,
+      "z_min": -1.67,
+      "z_max": -0.78
+    },
+    {
+      "name": "artifact_chair_visitor",
+      "x_min": -0.805,
+      "x_max": 0.077,
+      "z_min": -1.207,
+      "z_max": -0.346
+    },
+    {
+      "name": "artifact_bookcase",
+      "x_min": -2.02,
+      "x_max": 0.62,
+      "z_min": -2.15,
+      "z_max": -1.48
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": -0.2,
+      "z": 0.45,
+      "look_at": {
+        "x": 0.06,
+        "y": 1.2,
+        "z": -2.0
+      },
+      "note": "Photo viewpoint 80-G-42918: the desk and the certificate wall"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -0.45,
+      "z": 0.95,
+      "look_at": {
+        "x": -0.05,
+        "y": 1.2,
+        "z": -2.0
+      },
+      "note": "Photo viewpoint 80-G-42919: bookcase, lamp, wall pictures"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 1.35,
+      "z": 0.2,
+      "look_at": {
+        "x": 0.85,
+        "y": 1.2,
+        "z": -1.9
+      },
+      "note": "By the window: the framed certificate and the portrait print"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -1.1,
+      "z": 0.3,
+      "look_at": {
+        "x": -1.1,
+        "y": 1.2,
+        "z": -2.0
+      },
+      "note": "In front of the bookcase"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+_version_: 1743710882239610880
+access_restricted: false
+aka[0]: http://www.loc.gov/resource/wdl.11595/
+aka[1]: http://www.loc.gov/item/2021667901/
+aka[2]: https://hdl.loc.gov/loc.wdl/wdl.11595
+aka[3]: http://www.loc.gov/resource/gdcwdl.wdl_11595/
+aka[4]: http://lccn.loc.gov/2021667901
+contributor_names[0]: Einstein, Albert, 1879-1955 Author.
+contributors[0].einstein, albert: https://www.loc.gov/search/?fa=contributor:einstein,+albert&fo=json
+created_published[0]: [place of publication not identified] : [publisher not identified], 1924-06-25.
+date: 1924-01-01
+dates[0].1924: https://www.loc.gov/search/?dates=1924/1924&fo=json
+description[0]: The document shown here is a short, handwritten letter, dated June 25, 1924, from Albert Einstein to Sir Eric Drummond, secretary-general of the League of Nations, written on the occasion of Einstein's reelection to the Committee on Intellectual Cooperation. The text reads: "I hereby thankfully accept the renewed election to the Committee on Intellectual Cooperation. In light of my past behavior, the election means an act of special generosity of spirit, and filled me with joy as a result. I shall always try to give my best in the service of this good cause. With best high regards, A. Einstein." The committee was established in 1922 by the League of Nations for the purpose of building international relations among teachers, artists, scientists, and members of other intellectual professions. Einstein, a citizen of Germany, had resigned from the committee in 1923 to protest the re-occupation of the Ruhr by the French army, hence the reference his "past behavior." A committed pacifist who enjoyed enormous international prestige for his scientific discoveries, Einstein was an appealing figure to represent the League of Nations and its ideals. The letter is preserved in the archives of the League, which were transferred to the United Nations in 1946 and are housed at the UN office in Geneva. They were inscribed on the UNESCO Memory of the World register in 2010.
+digital_id[0]: https://hdl.loc.gov/loc.wdl/wdl.11595
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-07-24T04:39:09.544Z
+extract_urls[0]: http://lccn.loc.gov/2021667901#wdlpartner
+extract_urls[1]: http://lccn.loc.gov/2021667901#catalog-split-02
+format[0].book: https://www.loc.gov/search/?fa=original_format:book&fo=json
+group[0]: wdlpartner
+group[1]: catalog-split-02
+group[2]: catalog
+group[3]: world-digital-library-partners
+group[4]: main-catalog-split-02
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2021667901/
+iiif_manifest_url: https://www.loc.gov/item/2021667901/manifest.json
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:6.25/0/default.jpg
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:6.25/0/default.jpg#h=265&w=198
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:12.5/0/default.jpg#h=531&w=397
+image_url[3]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:25/0/default.jpg#h=1062&w=794
+image_url[4]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:50/0/default.jpg#h=2125&w=1588
+image_url[5]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:100/0/default.jpg#h=4250&w=3177
+index: 1
+item.contributors[0]: Einstein, Albert, 1879-1955 Author.
+item.created_published[0]: [place of publication not identified] : [publisher not identified], 1924-06-25.
+item.date: 1924
+item.digital_id[0]: https://hdl.loc.gov/loc.wdl/wdl.11595
+item.format[0]: text
+item.language[0]: ger
+item.medium[0]: 1 online resource.
+item.notes[0]: Title devised, in English, by Library staff.
+item.notes[1]: Original resource extent: 1 page : handwritten in ink.
+item.notes[2]: Reference extracted from World Digital Library: League of Nations Secretariat, Intellectual Cooperation and International Bureaux Section, 1919--1946, http://biblio-archive.unog.ch/detail.aspx?ID=408.
+item.notes[3]: Original resource at: United Nations Office at Geneva Library.
+item.notes[4]: Content in German.
+item.notes[5]: Description based on data extracted from World Digital Library, which may be extracted from partner institutions.
+item.source_collection[0]: League of Nations Archives
+item.subjects[0]: Germany
+item.subjects[1]: 1924-06-25
+item.subjects[2]: Correspondence
+item.subjects[3]: League of Nations
+item.subjects[4]: League of Nations. Committee on Intellectual Co-operation
+item.subjects[5]: Letters
+item.subjects[6]: Memory of the World
+item.subjects[7]: Physicists
+item.subjects[8]: Scientists
+item.summary[0]: The document shown here is a short, handwritten letter, dated June 25, 1924, from Albert Einstein to Sir Eric Drummond, secretary-general of the League of Nations, written on the occasion of Einstein's reelection to the Committee on Intellectual Cooperation. The text reads: "I hereby thankfully accept the renewed election to the Committee on Intellectual Cooperation. In light of my past behavior, the election means an act of special generosity of spirit, and filled me with joy as a result. I shall always try to give my best in the service of this good cause. With best high regards, A. Einstein." The committee was established in 1922 by the League of Nations for the purpose of building international relations among teachers, artists, scientists, and members of other intellectual professions. Einstein, a citizen of Germany, had resigned from the committee in 1923 to protest the re-occupation of the Ruhr by the French army, hence the reference his "past behavior." A committed pacifist who enjoyed enormous international prestige for his scientific discoveries, Einstein was an appealing figure to represent the League of Nations and its ideals. The letter is preserved in the archives of the League, which were transferred to the United Nations in 1946 and are housed at the UN office in Geneva. They were inscribed on the UNESCO Memory of the World register in 2010.
+item.title: Letter from Albert Einstein to the Secretary-General of the League of Nations in Geneva.
+language[0]: german
+languages[0].german: https://www.loc.gov/search/?fa=language:german&fo=json
+library_of_congress_control_number: 2021667901
+location[0]: germany
+location_country[0]: germany
+locations[0].germany: https://www.loc.gov/search/?fa=location:germany&fo=json
+locations_country[0].germany: https://www.loc.gov/search/?fa=location_country:germany&fo=json
+medium[0]: 1 online resource.
+mime_type[0]: application/zip
+mime_type[1]: image/jpeg
+mime_type[2]: image/jp2
+notes[0]: Title devised, in English, by Library staff.
+notes[1]: Original resource extent: 1 page : handwritten in ink.
+notes[2]: Reference extracted from World Digital Library: League of Nations Secretariat, Intellectual Cooperation and International Bureaux Section, 1919--1946, http://biblio-archive.unog.ch/detail.aspx?ID=408.
+notes[3]: Original resource at: United Nations Office at Geneva Library.
+notes[4]: Content in German.
+notes[5]: Description based on data extracted from World Digital Library, which may be extracted from partner institutions.
+number[0]: 2021-06-01t15:57:40
+number[1]: 2021667901
+number_lccn[0]: 2021667901
+number_source_modified[0]: 2021-06-01t15:57:40
+online_format[0]: compressed data
+online_format[1]: image
+original_format[0]: book
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2021667901/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2021667901/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2021667901/dc
+partof[0].count: 44
+partof[0].title: united nations office at geneva library
+partof[0].url: https://www.loc.gov/search/?fa=partof:united+nations+office+at+geneva+library&fo=json
+partof[1].count: 5089
+partof[1].title: world digital library - partner items
+partof[1].url: https://www.loc.gov/search/?fa=partof:world+digital+library+-+partner+items&fo=json
+partof[2].count: 20940
+partof[2].title: world digital library
+partof[2].url: https://www.loc.gov/collections/world-digital-library/?fo=json
+partof[3].count: 1909372
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/gdcwdl.wdl_11595/
+resources[0].zip: https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/59/5/wdl_11595/wdl_11595.zip
+rights[0]: The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners
+
+The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here.
+
+Credit Line: [Original Source citation], World Digital Library
+
+More about Copyright and other Restrictions
+
+For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021.
+
+For guidance about compiling full citations consult Citing Primary Sources.
+score: 17.031187
+shard: 01
+shelf_id: http://lccn.loc.gov/2021667901
+site[0]: catalog
+source_collection[0]: League of Nations Archives
+subject[0]: memory of the world
+subject[1]: scientists
+subject[2]: correspondence
+subject[3]: letters
+subject[4]: 1924-06-25
+subject[5]: germany
+subject[6]: league of nations
+subject[7]: physicists
+subject[8]: league of nations. committee on intellectual co-operation
+subject_headings[0]: Germany
+subject_headings[1]: 1924-06-25
+subject_headings[2]: Correspondence
+subject_headings[3]: League of Nations
+subject_headings[4]: League of Nations. Committee on Intellectual Co-operation
+subject_headings[5]: Letters
+subject_headings[6]: Memory of the World
+subject_headings[7]: Physicists
+subject_headings[8]: Scientists
+subjects[0].1924-06-25: https://www.loc.gov/search/?fa=subject:1924-06-25&fo=json
+subjects[1].correspondence: https://www.loc.gov/search/?fa=subject:correspondence&fo=json
+subjects[2].germany: https://www.loc.gov/search/?fa=subject:germany&fo=json
+subjects[3].league of nations: https://www.loc.gov/search/?fa=subject:league+of+nations&fo=json
+subjects[4].league of nations. committee on intellectual co-operation: https://www.loc.gov/search/?fa=subject:league+of+nations.+committee+on+intellectual+co-operation&fo=json
+subjects[5].letters: https://www.loc.gov/search/?fa=subject:letters&fo=json
+subjects[6].memory of the world: https://www.loc.gov/search/?fa=subject:memory+of+the+world&fo=json
+subjects[7].physicists: https://www.loc.gov/search/?fa=subject:physicists&fo=json
+subjects[8].scientists: https://www.loc.gov/search/?fa=subject:scientists&fo=json
+summary[0]: The document shown here is a short, handwritten letter, dated June 25, 1924, from Albert Einstein to Sir Eric Drummond, secretary-general of the League of Nations, written on the occasion of Einstein's reelection to the Committee on Intellectual Cooperation. The text reads: "I hereby thankfully accept the renewed election to the Committee on Intellectual Cooperation. In light of my past behavior, the election means an act of special generosity of spirit, and filled me with joy as a result. I shall always try to give my best in the service of this good cause. With best high regards, A. Einstein." The committee was established in 1922 by the League of Nations for the purpose of building international relations among teachers, artists, scientists, and members of other intellectual professions. Einstein, a citizen of Germany, had resigned from the committee in 1923 to protest the re-occupation of the Ruhr by the French army, hence the reference his "past behavior." A committed pacifist who enjoyed enormous international prestige for his scientific discoveries, Einstein was an appealing figure to represent the League of Nations and its ideals. The letter is preserved in the archives of the League, which were transferred to the United Nations in 1946 and are housed at the UN office in Geneva. They were inscribed on the UNESCO Memory of the World register in 2010.
+timestamp: 2022-09-11T21:38:03.364Z
+title: Letter from Albert Einstein to the Secretary-General of the League of Nations in Geneva.
+type[0]: text
+url: https://www.loc.gov/item/2021667901/
+resources[0].files[0][0].height: 265
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/jpeg
+resources[0].files[0][0].url: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:6.25/0/default.jpg
+resources[0].files[0][0].width: 198
+resources[0].files[0][1].height: 531
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].url: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:12.5/0/default.jpg
+resources[0].files[0][1].width: 397
+resources[0].files[0][2].height: 1062
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].url: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:25/0/default.jpg
+resources[0].files[0][2].width: 794
+resources[0].files[0][3].height: 2125
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].url: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:50/0/default.jpg
+resources[0].files[0][3].width: 1588
+resources[0].files[0][4].height: 4250
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].url: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:100/0/default.jpg
+resources[0].files[0][4].width: 3177
+resources[0].files[0][5].height: 4250
+resources[0].files[0][5].info: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/info.json
+resources[0].files[0][5].levels: 7
+resources[0].files[0][5].mimetype: image/jp2
+resources[0].files[0][5].size: 2581783
+resources[0].files[0][5].url: https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/59/5/wdl_11595/LONDWDL34_0001.jp2
+resources[0].files[0][5].width: 3177
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:11:59:5:wdl_11595:LONDWDL34_0001/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/gdcwdl.wdl_11595/
+resources[0].zip: https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/59/5/wdl_11595/wdl_11595.zip
+cite_this.apa: Einstein, A. (1924) Letter from Albert Einstein to the Secretary-General of the League of Nations in Geneva. [Place of Publication Not Identified: Publisher Not Identified, -06-25] [Image] Retrieved from the Library of Congress, https://www.loc.gov/item/2021667901/.
+cite_this.chicago: Einstein, Albert, Author. Letter from Albert Einstein to the Secretary-General of the League of Nations in Geneva. [Place of Publication Not Identified: Publisher Not Identified, -06-25, 1924] Image. https://www.loc.gov/item/2021667901/.
+cite_this.mla: Einstein, Albert, Author. Letter from Albert Einstein to the Secretary-General of the League of Nations in Geneva. [Place of Publication Not Identified: Publisher Not Identified, -06-25, 1924] Image. Retrieved from the Library of Congress, <www.loc.gov/item/2021667901/>.

@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/445648685",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=445648685",
+  "method": "api",
+  "fetched_at": "2026-10-20T22:47:49Z",
+  "sha256": "9134f4d769afb4ae43fdb71af2333d8715deeb497dd18980febd69731c116768",
+  "bytes": 3486,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=445648685"
+}

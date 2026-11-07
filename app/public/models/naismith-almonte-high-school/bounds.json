@@ -1,0 +1,109 @@
+{
+  "$comment": "Walkable bounds for free roam in naismith-almonte-high-school.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 12.0,
+  "walkable": {
+    "x_min": -30.0,
+    "x_max": 30.0,
+    "z_min": 0.4,
+    "z_max": 32.0
+  },
+  "obstacles": [
+    {
+      "name": "school",
+      "x_min": -11.85,
+      "x_max": 11.85,
+      "z_min": -16.15,
+      "z_max": 0.45
+    },
+    {
+      "name": "stair_enclosure",
+      "x_min": -3.15,
+      "x_max": 3.15,
+      "z_min": 0.15,
+      "z_max": 6.15
+    },
+    {
+      "name": "fence_left",
+      "x_min": -30.15,
+      "x_max": -12.35,
+      "z_min": 1.75,
+      "z_max": 2.25
+    },
+    {
+      "name": "tree_trunk_0",
+      "x_min": -16.15,
+      "x_max": -14.85,
+      "z_min": 3.35,
+      "z_max": 4.65
+    },
+    {
+      "name": "tree_trunk_1",
+      "x_min": 15.85,
+      "x_max": 17.15,
+      "z_min": -2.65,
+      "z_max": -1.35
+    },
+    {
+      "name": "tree_trunk_2",
+      "x_min": 20.35,
+      "x_max": 21.65,
+      "z_min": -4.65,
+      "z_max": -3.35
+    },
+    {
+      "name": "tree_trunk_3",
+      "x_min": -17.65,
+      "x_max": -16.35,
+      "z_min": -6.65,
+      "z_max": -5.35
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": 30.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "Across the road, near where the photograph was taken"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 0.0,
+      "z": 9.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "On the sidewalk before the entrance"
+    },
+    {
+      "name": "hotspot_3",
+      "x": -10.5,
+      "z": 9.0,
+      "look_at": {
+        "x": -8.3,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "On the sidewalk at the left, by the elm"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 12.0,
+      "z": 12.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -2.0
+      },
+      "note": "On the road at the right"
+    }
+  ]
+}

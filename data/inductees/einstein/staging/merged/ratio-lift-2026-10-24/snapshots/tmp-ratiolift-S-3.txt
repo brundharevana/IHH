@@ -1,0 +1,1127 @@
+_version_: 1832788767342067712
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn84020097/1933-03-31/ed-1/
+aka[1]: http://www.loc.gov/resource/sn84020097/1933-03-31/ed-1/
+batch[0]: iune_fluorite_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/new york/
+composite_location[2]: 2/united states/new york/new york/
+composite_location[3]: 3/united states/new york/new york/new york/
+composite_location[4]: 1/united states/illinois/
+composite_location[5]: 2/united states/illinois/cook/
+composite_location[6]: 3/united states/illinois/cook/chicago/
+contributor_names[0]: University of Illinois at Urbana-Champaign Library, Urbana, IL
+contributors[0].university of illinois at urbana-champaign library, urbana, il: https://www.loc.gov/search/?fa=contributor:university+of+illinois+at+urbana-champaign+library,+urbana,+il&fo=json
+created_published[0]: Chicago, Ill.;New York, N.Y., March 31, 1933
+date: 1933-03-31
+date_issued: 1933-03-31
+dates[0].1933-03-31: https://www.loc.gov/search/?dates=1933-03-31/1933-03-31&fo=json
+dates_of_publication: 1924-1958
+description[0]: Chicago, Ill.;New York, N.Y.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-05-21T10:20:31.070Z
+extract_urls[0]: file:/service/ndnp//iune/batch_iune_fluorite_ver01/data/sn84020097/0033289741A/1933033101/1933033101_1.xml#ndnp/iune
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/iune
+group[1]: university-of-illinois-at-urbana-champaign-library-urbana-il-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn84020097/1933-03-31/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289741A:1933033101:0321/full/pct:3.125/0/default.jpg#h=266&w=208
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289741A:1933033101:0321/full/pct:6.25/0/default.jpg#h=532&w=417
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289741A:1933033101:0321/full/pct:12.5/0/default.jpg#h=1065&w=834
+index: 4
+item.batch[0]: iune_fluorite_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: University of Illinois at Urbana-Champaign Library, Urbana, IL
+item.contributors[0]: Workers (Communist) Party of America
+item.contributors[1]: Communist Party of the United States of America
+item.created_published[0]: Chicago, Ill.;New York, N.Y., March 31, 1933
+item.date: 1924
+item.date_issued: 1933-03-31
+item.dates[0]: 1933-03-31
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn84020097
+item.location[0]: United States
+item.location[1]: New York (N.Y.)
+item.location[2]: Chicago (Ill.)
+item.location[3]: Illinois--Chicago
+item.location[4]: New York (State)--New York
+item.medium: 4 pages
+item.newspaper_title[0]: The daily worker
+item.notes[0]: Daily (except Saturday and Sunday), Oct. 20, 1947-
+item.notes[1]: Vol. 1, no. 311 (Jan. 13, 1924)-v. 35, no. 7 (Jan. 13, 1958).
+item.notes[2]: "Worker's Communist Party."
+item.notes[3]: Some issues accompanied by supplements.
+item.notes[4]: Available on microfilm; Graphic Microfilm of New England, Library of Congress Photoduplication Service, and UMI.
+item.notes[5]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[6]: Sunday eds.: Sunday worker, 1936-Apr. 12, 1942; Worker (New York, N.Y. : 1942), Apr. 19, 1942-1958.
+item.notes[7]: Absorbed in 1958 by: The Worker (New York, N.Y. : 1942).
+item.notes[8]: Worker (New York, N.Y. : 1942) (DLC)sn 86071659 (OCoLC)13777362
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//iune/batch_iune_fluorite_ver01/data/sn84020097/0033289741A/1933033101/1933033101_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn84020097/marcxml
+item.place_of_publication: Chicago, Ill.;New York, N.Y.
+item.raw_lccn: sn 84020097
+item.reel_numbers[0]: 0033289741a
+item.source_group: ndnp/iune
+item.subjects[0]: Communism--Newspapers
+item.subjects[1]: Labor movement--Newspapers
+item.subjects[2]: Labor unions--United States--Newspapers
+item.subjects[3]: New York (N.Y.)--Newspapers
+item.subjects[4]: Chicago (Ill.)--Newspapers
+item.subjects[5]: Communism
+item.subjects[6]: Labor movement
+item.subjects[7]: Labor unions
+item.subjects[8]: Illinois--Chicago
+item.subjects[9]: New York (State)--New York
+item.subjects[10]: United States
+item.subjects[11]: United States--New York--New York--New York
+item.subjects[12]: United States--Illinois--Cook--Chicago
+item.title: The daily worker (Chicago, Ill.;New York, N.Y.), March 31, 1933
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn84020097
+location[0]: illinois
+location[1]: united states
+location[2]: cook
+location[3]: chicago
+location[4]: new york
+location[5]: new york city
+location_city[0]: new york
+location_city[1]: chicago
+location_country[0]: united states
+location_county[0]: new york
+location_county[1]: cook
+location_state[0]: new york
+location_state[1]: illinois
+locations[0].chicago: https://www.loc.gov/search/?fa=location:chicago&fo=json
+locations[1].cook: https://www.loc.gov/search/?fa=location:cook&fo=json
+locations[2].illinois: https://www.loc.gov/search/?fa=location:illinois&fo=json
+locations[3].new york: https://www.loc.gov/search/?fa=location:new+york&fo=json
+locations[4].new york city: https://www.loc.gov/search/?fa=location:new+york+city&fo=json
+locations[5].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].chicago: https://www.loc.gov/search/?fa=location_city:chicago&fo=json
+locations_city[1].new york: https://www.loc.gov/search/?fa=location_city:new+york&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].cook: https://www.loc.gov/search/?fa=location_county:cook&fo=json
+locations_county[1].new york: https://www.loc.gov/search/?fa=location_county:new+york&fo=json
+locations_state[0].illinois: https://www.loc.gov/search/?fa=location_state:illinois&fo=json
+locations_state[1].new york: https://www.loc.gov/search/?fa=location_state:new+york&fo=json
+medium: 4 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The daily worker
+notes[0]: Daily (except Saturday and Sunday), Oct. 20, 1947-
+notes[1]: Vol. 1, no. 311 (Jan. 13, 1924)-v. 35, no. 7 (Jan. 13, 1958).
+notes[2]: "Worker's Communist Party."
+notes[3]: Some issues accompanied by supplements.
+notes[4]: Available on microfilm; Graphic Microfilm of New England, Library of Congress Photoduplication Service, and UMI.
+notes[5]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[6]: Sunday eds.: Sunday worker, 1936-Apr. 12, 1942; Worker (New York, N.Y. : 1942), Apr. 19, 1942-1958.
+notes[7]: Absorbed in 1958 by: The Worker (New York, N.Y. : 1942).
+notes[8]: Worker (New York, N.Y. : 1942) (DLC)sn 86071659 (OCoLC)13777362
+number[0]: sn84020097
+number[1]: 0033289741a
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn84020097
+number_reel[0]: 0033289741a
+numeric_shelf_id: 193303311
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//iune/batch_iune_fluorite_ver01/data/sn84020097/0033289741A/1933033101/1933033101_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn84020097/marcxml
+partof[0].count: 3484
+partof[0].title: the daily worker (chicago, ill.;new york, n.y.) 1924-1958
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+daily+worker+%28chicago,+ill.%3Bnew+york,+n.y.%29+1924-1958&fo=json
+partof[1].count: 3210990
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232495
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the daily worker (chicago, ill.;new york, n.y.) 1924-1958
+place_of_publication: Chicago, Ill.;New York, N.Y.
+publication_frequency[0]: daily
+raw_lccn: sn 84020097
+reel_numbers[0]: 0033289741a
+resources[0].files: 4
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289741A:1933033101:0321/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn84020097/1933-03-31/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.678137
+shard: 05
+shelf_id: sn84020097, 1933-03-31, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/iune
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: illinois
+subject[1]: labor movement
+subject[2]: communism
+subject[3]: united states
+subject[4]: labor unions
+subject[5]: new york (n.y.)
+subject[6]: cook
+subject[7]: chicago
+subject[8]: new york
+subject[9]: chicago (ill.)
+subject[10]: new york (state)
+subject[11]: newspapers
+subject_headings[0]: Communism--Newspapers
+subject_headings[1]: Labor movement--Newspapers
+subject_headings[2]: Labor unions--United States--Newspapers
+subject_headings[3]: New York (N.Y.)--Newspapers
+subject_headings[4]: Chicago (Ill.)--Newspapers
+subject_headings[5]: Communism
+subject_headings[6]: Labor movement
+subject_headings[7]: Labor unions
+subject_headings[8]: Illinois--Chicago
+subject_headings[9]: New York (State)--New York
+subject_headings[10]: United States
+subject_headings[11]: United States--New York--New York--New York
+subject_headings[12]: United States--Illinois--Cook--Chicago
+subjects[0].chicago: https://www.loc.gov/search/?fa=subject:chicago&fo=json
+subjects[1].chicago (ill.): https://www.loc.gov/search/?fa=subject:chicago+%28ill.%29&fo=json
+subjects[2].communism: https://www.loc.gov/search/?fa=subject:communism&fo=json
+subjects[3].cook: https://www.loc.gov/search/?fa=subject:cook&fo=json
+subjects[4].illinois: https://www.loc.gov/search/?fa=subject:illinois&fo=json
+subjects[5].labor movement: https://www.loc.gov/search/?fa=subject:labor+movement&fo=json
+subjects[6].labor unions: https://www.loc.gov/search/?fa=subject:labor+unions&fo=json
+subjects[7].new york: https://www.loc.gov/search/?fa=subject:new+york&fo=json
+subjects[8].new york (n.y.): https://www.loc.gov/search/?fa=subject:new+york+%28n.y.%29&fo=json
+subjects[9].new york (state): https://www.loc.gov/search/?fa=subject:new+york+%28state%29&fo=json
+subjects[10].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[11].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+timestamp: 2025-05-22T03:12:46.115Z
+title: The daily worker (Chicago, Ill.;New York, N.Y.), March 31, 1933
+type[0]: issue
+url: https://www.loc.gov/item/sn84020097/1933-03-31/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/0033289741A/1933033101/0324.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn84020097/1933-03-31/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_fluorite_ver01:data:sn84020097:0033289741A:1933033101:0321/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/0033289741A/1933033101/0324.pdf
+resources[0].segment_count: 4
+resources[0].url: https://www.loc.gov/resource/sn84020097/1933-03-31/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1933, March 31) The Daily Worker. Retrieved from the Library of Congress, https://www.loc.gov/item/sn84020097/1933-03-31/ed-1/.
+cite_this.chicago: The Daily Worker. (New York, NY), Mar. 31 1933. https://www.loc.gov/item/sn84020097/1933-03-31/ed-1/.
+cite_this.mla: The Daily Worker. (New York, NY) 31 Mar. 1933, p. 4. Retrieved from the Library of Congress, www.loc.gov/item/sn84020097/1933-03-31/ed-1/.
+
+segment_id: /service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/0033289741A/1933033101/0324.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/iune/batch_iune_fluorite_ver01/data/sn84020097/0033289741A/1933033101/0324.xml&format=alto_xml&full_text=1
+full_text:
+Page Four
+Litvinov Rebuffs
+British Effort
+At Intimidation
+Tells Ovey That Case Is in Soviet Courts;:
+British Ambassador Leaves for London
+BULLETIN
+LONDON, March 30.—Sir John Simon, British Foreign Secretary,
+informed the Douse of Commons that Sir Esmond Ovey, British Am
+bassador to Moscow, was leaving for London today.
+Sir John added that in the meantime he woidd refrain from fur
+ther announcements on the British endeavor to foree Russia to free
+’he British engineers arrested in Moscow on charges of sabotage
+By N. BUCHWALD
+Special Correspondent of the Daily Worker
+MOSCOW, March 30. —Tass, the official Soviet news
+agency, issues the following communique:
+Sir Esmond Ovey, British Ambassador, visited Maxim
+Litvinov, Soviet Commissar for Foreign Affairs, on March 28
+and stated that he had come to inform him of the steps that
+the British Government in-«
+tends to take in case the pro- j
+posed trial of the British em-i
+ployees of the Metropolitan-Vickers:
+Corporation charged with sabotage is j
+not cancelled.
+Commissar Litvinov replied that he j
+could remove all doubts from the Am-
+bossador’s mind at onee. He in- j
+formed him that the final decision
+of the Public Prosecutor was already
+at hand, stating that the case is set
+for a hearing in the immediate fu
+ture.
+Livinov added that if the British
+Ambassador intended to influence
+that decision by his statement of the j
+British Government's proposed steps, I
+he could rest assured that nothing
+would come of it. The Foreign Com- I
+missar stated that such diplomatic j
+methods—crude outside pressure—;
+might sometimes be effective in I
+Mexico, but they were fated in ad- j
+vance to fail in the U.S.S.R.
+After tills statement, Sir Esmond
+did not insist on communicating the I
+contents of the proposed British j
+measures.
+Judging by statements in the Brit
+ish press, it 'may be assumed that i
+these steps involve creating further j
+obstacles to the development of trade i
+between the U. S. S. R. and Great i
+Britain or even the complete can
+Churchill Warns India;
+Threatens “Czarist Rule”
+LONDON, March 30—Winston Churchill, leader of the Die-Hard Tories,
+in the House of Commons yesterday outlined the British rule of iron re
+pression in India.
+Churchill warned that future Viceroys and Provincial Governors would
+“be autocrats like the Czar of Russia.” This is the mailed fist behind the
+papier-mache Federal Constitution planned for India by the British Gov
+ernment. This is the “pacifist” MacDonald’s reply to the millionfold de
+mand of the Indian workers end peasants for real freedom from colonial
+oppression.
+FASCISTS BURN CONNOLLY HOUSE,
+DUBLIN COMMUNIST HEADQUARTERS
+Mob Attacks, Singing “God Bless Pope”; 14
+Communists Defend Headquarters
+DUBLIN, 'larch 30.—A mob of Irish Fascists, members of the reac
+tionary Cosgyave organization, the Army Comrades’ Association, attacked
+Connolly Hall, Communist headquarters, here last night and set the build
+ing on fire. The fire spread to adjacent structures and the entire block
+was burned down.
+Fourteen Communists in the building defended the hall against over-
+whelming odds, seventeen of the at-.
+tackers being injured, as well as some
+Civic Guards drawn up in front of
+the building. The attackers marched
+on the hall, singing "God Bless our
+Pope." The police made only half
+hearted efforts to protect the work
+ers’ property.
+After driving the Communists out
+of the building, the Fascists demol
+ished the entire interior, and then
+set fire to the top floor
+Connolly Hall was named after
+James Connolly, noted Irish Commu
+nist and leader of the famous Easter
+’916 Rebellion against British impe
+rialist rule. He was shot by a British
+To the Lettish Workers
+Statement of the Central Committee of the
+CPUSA on the Position of the Lettish
+Federation leaders
+Under the influence of the unpre
+•.edented economic crisis, the Lettish
+workers in America, the same as the
+■intire working class of America ot
+which they arc a part, are becoming
+more and more radicalized. They
+sincerely want to join in the daily
+struggles of the toiling masses and
+to participate actively in the revo
+lutionary movement.
+Pressed by these workers, the lead
+ers of the Lettish Federation have
+been compelled, in the course of the
+last two years or so, to play with
+various unity maneuvers, the latest
+of these being an invitation to the
+Central Committee of the Communist
+Party of the United States of America
+to send a representative to their
+Boston branch meeting.
+The Party knows the position of
+these renegade leaders since 1922.
+Yet, distinguishing between these
+leaders and the rank and file of the
+Federation, the Party agreed to fiend
+its representative to the Boston
+meeting
+At the meeting, when the repre
+sentative declared the line and pro
+posals for unity as Identical with that
+of the Latvian Section of the Com
+munist International: namely, com
+plete repudiation of the counter
+revolutionary renegade leaders and
+unification with the locnl organiza
+tion of the Lettish Workers' Alii
+,nce; these renegade leaders rose
+in slanderous attacks against, the Let
+tish Buro and the Party
+They succeeded In l aving me
+lon adopted which reiterated 'heir
+irerioti' despicable slander* and
+y
+Dy the ton. pro daily Publishing CJ«., Ine., dally exoept Sunday, at
+St., New Xerk City, N. Y. Telephone ALfonquin 4-7956. Cable “DAI WORK.' 1
+tfldress and mail cheeks to the Daily Worker. SO V. ISth St., New Tori. N. X
+collation of all trade.
+Finnish Investigation
+It is officially announced that the
+preliminary investigation in the cases
+of Vitvitzky, Volkhovsky, Gregory,
+Gusev, Zorin, MacDonald and the
+other engineers charged with the
+crime ol sabotage according to Ar
+tide 58. Secs. 6-11, of the Soviet
+Criminal Code, is being completed.
+The case will be submitted to the
+i Supreme Revolutionary Tribunal, Su
+preme Court of the Soviet Union,
+within a few days.
+Members of Tribunal.
+The case will be heard before a
+special session of the Supreme Court,
+i the members of which will be Ulrich,
+I member of the plenum of the Su
+preme Court of the U.S.S.R., as Pre
+siding Justice; Professor Martens,
+i Director of the .Diesel Institute, and
+Dimitriev, Director of the Thermo-
+Projecting Trust, as Associate Jus
+tices. Zelikov, Chairman of the
+j Central Committee of the trade union
+of workers, engineers and techni
+j cians in the electrical industry and
+central power stations, will act as
+alternate justice.
+Vishinsky, Prosecuting Attorney of
+i the Republic, will conduct the prose-
+I cution for the State.
+1 ’i'he trial fs scheduled to com
+on April 9 or 10.
+—l h
+firing squad after the crushing of the
+uprising.
+s
+The Irish Fascists are taking les
+sons from the German Nazis, burning
+down halls and resorting to mob
+j violence in their efforts to check the
+rapid spread of Communism thru
+ou 1 the Irish Free State. This terror
+11 wiil not intimidate the revolutionary
+workers of Ireland, who are proceed
+i'i ing with preparations for the found
+ing of the Communist Party of Ire
+I land, which is to be formed at a na
+tion-wide congress to be held next
+i! month.
+plainly dishonest ‘answer’ to the
+Latvian Section of the C. 1., although
+the representative of the Central
+Committee had warned the meeting
+that, such a decision would give the
+Party no other alternative than to
+fight for the destruction of the Fed
+eration as disrupters of working
+class unity and, objectively, as agents
+of the bourgeoisie.
+In this situation, the Central Com
+mittee of the Communist Party of
+the United States of America ap
+peals to the sincere rank and file
+of the Lettish Federation and to the
+Lettish workers in general to break
+completely with the leadership of
+the Fede ration, who for years have
+continued a struggle against the
+Party and against unity.
+Those of the Federation members
+who sincerely want to join the Party
+should know that their first task is
+to repudiate this action and ask In
+dividually for re-admission into the
+Communist Party, which lias the
+right and the duty to examine each
+applicant.
+On the olher hand, if a whole
+group breaks away from the rene
+gade leadership of the Federation
+and wishes to become a part of the
+revolutionary movement led by the
+Party, then it should follow the pro
+posals of the Latvian Section of the
+Communist, International and join
+the local organization of the Lettish
+Workers’ Alliance, the Lettish mass
+organization, which since its incep
+tion has followed the Party line and
+i« actively participating in all the:
+campotcn' «f the Amerire- vmfebgg
+4LLAY OOP! By Bard
+X
+Anglo-Italian Four-Power Pact
+Strikes At French Hegemony;
+Cloaks Anti-Soviet Bloc
+■By ROBERT HAMILTON)
+The Disarmament Conference in
+Geneva has adjourned to April 25,
+with the unspoken understanding
+that this interval was wanted by the
+Anglo-German-Italian bloc newly
+formed in Rome by Prime Minister
+MacDonald and Premier Mussolini.
+The openly admitted shift in em
+phasis from Geneva and the League
+to the Foreign Offices of Rome and
+London puts the seal on the virtual
+collapse of the Disarmament Con
+ference.
+Called after 12 years of procrasti
+nation, and four years of so-called
+“preparatory work,” the Conference
+found its efforts, to hoodwink the
+peoples of the world into believing
+that the imperialists powers really
+wanted to disarm, paralyzed from
+the start by the Japanese seizure of
+Manchuria.
+Silent On Soviet Union’s Proposals
+Litvinoff’s proposals, as chief Sov
+iet delegate at the Conference, for
+complete disarmament, were passed
+over in embarrassed silence, for the
+capitalist powers dare not disarm as
+long as the system of imperialist ri
+valries dominates the world, as long
+as the capitalist system still exists.
+Even the subsequent Soviet propo
+sals for a proportional reduction of
+armaments met with no response.
+Since then, even the so-called “li
+mitation of armaments,” which is
+nothing more than an attempt to
+remain armed to the teeth but save
+some money in doing so, has met
+with the obstacles inherent in the
+rivalries of the various imperialist
+powers.
+Two Rival Camps
+Today, instead of so-called “dis
+armament,” capitalist Europe is di
+vided into two armed camps.
+One camp, comprising France and
+her allies: Poland, Czechoslovakia,
+Jugoslavia, and Roumania, includes
+most of the victors of the World
+War, who gained territory in the
+peace treaties of Versailles.
+The rival camp includes those
+capitalist countries that lost territory
+as a result of the war, in addition to
+Italy, which feels that it was cheated
+in the Versailes land-grab. MacDo
+nald and Mussolini are collaborat
+ing in building this Fascist bloc of
+Germany, Austria, Hungary and
+Italy, with active support of “demo
+cratic” Britain.
+The British are also motivated in
+aiding this new bloc by their fear of
+continued French hegemony in Eu
+rope.
+Forging the Anti-Soviet Front,
+What is more, the new British ef
+fort to intimidate the Soviet Union
+in the case of the British engineers
+arrested in Moscow for damaging
+Soviet electrical machinery is per
+fectly timed to coincide with Mac-
+Donald’s support of the new Fascist
+European Bloc. Sir John Simon
+threatens the Soviet Union with a
+break in diplomatic relations, while
+Mussolini and Hitler, MacDonald’s
+partners in the bloc, loudly proclaim
+the need for a holy crusade against
+Communism.
+This is borne out by Mussolini’s
+plan to recompense Poland for the
+loss of Corridor territory. Italy and
+Britain propose that Poland recoup
+its losses by seizing parts of Soviet
+White Russia and the Soviet
+Ukraine, with the support of the new
+Fascist bloc.
+The new alignment in Europe bears
+a pronounced anti-Soviet imprint.
+Nazi threats against the Soviet
+Union, the British steps In Moscow
+In the engineers’ case, and Musso
+lini’s call for a holy antl-Communist
+war are all parts of one big anti-
+Soviet front.
+Pistol Aimed at France
+The proposed Four-Power Pact, to
+include France, Germany, Italy and
+Oreat Britain, really Is a pistol a:med
+at France’s head. It uses the usual
+phrases of “cooperation for peace”
+to enforce the rearming of Germany,
+Austria and Hungary, and the ter
+ritorial revision of the Versailles
+treaties.
+According to u semi-official report,
+Mussolini's proposals to MacDonald
+In Rome envisaged far-reaching
+changes in the map at Europe, all
+at the expense of France and her
+*)Se* TV Four-Pew** .w*s hb-
+DaUij,^Worker
+Confo* cwoiyF«■* A
+eluded:
+1. The establishment of a German
+Corridor within the Polish Corridor,
+extending from Marienwerder to
+Konitz.
+2. The creation of an independent
+Croatia, centered in Zagreb. This
+would effectively cripple Jugoslavia,
+Little Entente member and Italy’s
+Balkan rival, as a military power.
+Would Split France’s Allies
+3. Lopping Herzegovina and Mon
+tenegro off Jugoslavia and Incorpo
+rating them In Albania, which would
+be officially recognized as under Ita
+lian protectorate.
+4. Hungary gets back most of
+Transylvania, including Temesvar,
+Grosswardein, and Kiausenburg, at
+the expense of Rumania, France’s
+ally and member of the Little En
+tente.
+5. Jugoslavs and Rumania also
+hand back to Hungary most of the
+Banat region, thus giving Hungary
+control of both banks of the Danube
+from the Austrian frontier to a few
+miles north of Belgrade, Jugoslavian
+capital.
+Sow Rivalry
+6. Austria is to be recompensed for
+its loss of the South Tyrol by re
+ceiving Krain Mountain, as well as
+an outlet to the sea in Fiume. This
+would effectively sow permanent ri
+valry between Austria and Jugo
+slavia, as Fiume is a thorn In Jugo
+slavia’s Adriatic coastline.
+We see that these territorial re
+visions would cripple both Jugoslavia
+and Rumania, making them wholly
+worthless as military allies of France,
+while Austria and Hungary, members
+of the new Fascist bloc, would become
+so strong as to resist German in
+fluence at Anschluss.
+Rush Orders for War
+Munitions and Arms
+Lead Manufacturer Has Sold His Whole Stock
+for Next Six Months; Bosses Hear War Near
+By LABOR RESEARCH ASSOCIATION
+There is a strong impression in informed quarters that a European
+war within sixty days is far from improbable.” So reads a recent news
+item from a confidential news service for business men. To confirm the
+fact that imperialist war is brewing, the same source reveals that a prom
+inent European lead producer is about to elose his New York office after
+contracting with a Japanese agent)
+for the company’s entire production
+during the next 14 months.
+The Far East export department of
+the I. G Chemical Trust In Germany
+is operating' full blast on the manu
+facture of war materials, it is re
+ported. “The powder keg is all set
+for an explosian,” is the way the
+European situation is summed up by
+this news service.
+U. S. Ordering Munitions
+At the same time there is now
+pending before the Military Affairs
+Committee of the House of Represen
+tatives a bill (H. R. 123) on “Educa
+tional Orders,” introduced by Rep
+resentative Goss of Connecticut. It
+calls for a $10,000,000 appropriation
+for five years to cover orders placed
+with private firms and government
+arsenals for the manufacture of guns,
+ammunition and other war materials.
+This is similar to plans drawn up in
+previous Congresses.
+Speeding Preparation
+The idea behind all such proposals
+is the gearing up of factories in peace
+time for instant conversion to the
+manufacture of war materials upon
+receipt of telegraphic messages fol
+lowing the outbreak of war. The
+Dally Worker has previously revealed
+the fact that some 17,000 factory allo
+cations had already been made in
+1931 by the War Department. On
+May 18, 1932, the Daily Worker pub
+lished photostatic copies of the War
+Department's map outlining the areas
+into which the country had been di
+vided lor the purpose of securing war
+supplies. There also appeared a copy
+of the Accepted Sdhedule of Produc
+tion, Signal Corps form to ascertain
+the production ce.pe.dty of each com
+pear dMrtoa: /tv <*artw gacetfet
+Italy’s whole policy for the past
+few years has been to combat the
+union of Austria with Germany. For
+this reason, it has supported the
+Legitimists’ efforts to restore Otto
+von Hapsburg to the Hungarian, and
+later to the Austrian throne. For
+this same reason, it has conspired
+with Austria to ship hundreds of
+thousands of rifles, as well as ma
+chine guns and airplanes to Hungary,
+as recently revealed in the Hirten
+berg affair.
+All of Italy’s support has been
+predicated however, on no Anschluss.
+Hence Mussolini’s support of the
+Christian-Social Party of Seipel and
+Dolfuss against the Pan-Germans and
+Nazis in Austria.
+Munitions Plants Speeding Up
+All this shows us capitalist Europe
+on the verge of a new and bigger war.
+The lines are being drawn; the mu
+nitions plants all over the continent
+are the only factories without any
+unemployment, working day and
+night.
+It most not be forgotten that in
+cessant talk about “the preservation
+of peace” is the most effective way
+to mask preparations for war. The
+Russian Czar founded the Hague
+Peace Court in 1899 at the same time
+that Russia was borrowing billions
+of francs from France to build mili
+tary railroads, munitions plants and
+a bigger fleet.
+Ail this
+reckoning is done without consulting
+the workers and peasants of the So
+viet Union, as well as the class-con
+scious workers of the whole world.
+Any attack upon Soviet territory
+will be met by the the world-shaking
+reply DEFEND THE SOVIET
+UNION!
+“emergency”—war
+Under the current “industrial mo
+bilization” bill, as reported by a U. S.
+Chamber of Commerce publication,
+“As means of national defense the
+Secretary of War would be authorized
+to solicit bids” from war supply firms.
+And with the approval of the Presi
+dent, the Secretary of War could also
+arrange lor manufacture of special
+ordnance at government arsenals.
+The war plans of the United States
+capitalists thus continue unabated
+despite demagogic statements on "re
+duction” and the like.
+Mexico Police Seize j
+20 Communists for j
+Protesting Daniels
+MEXICO CITY, March 30.--The
+police have arrested twenty Com
+munists for participation in the
+demonstration before the Ameri
+can Embassy last Friday night in
+protest against President Rooae
+vent’s appointment of ex-Secre
+tary of the Navy Josephus Daniels
+as Ambassador to Mexico.
+Daniels is chiefly responsible
+for the bombardment and seizure
+of the city df Vera Cruz by the
+United States fleet in 1914.
+The Mexican Government, cur
+rying favor with the Yankee Gov
+ernment, mi departing the Com
+munists wrested to Us* Marias
+Island pass! ootaar. «h* Mmttean
+'Twin* Utood.’
+ANTI-FASCIST
+CONGRESS BURO
+ISSUES APPEAL
+French, Czech, Other!
+Union Centers Rally;
+Set Date Soon
+COPENHAGEN, Denmark, Mar.
+15 (By Mall). —The organizing bur
+eau of the European Workers’ Anti-
+Fascist Congress has issued an ap
+peal to the workers of the world to
+aid in the organization of the Anti-
+Fascist Congress, originally sponsored
+by the German Revolutionary Trade i
+Union Opposition, the League
+Against Fascism in Germany, the
+General Confederation in Italy, and
+the Revolutionary Trade Union Op
+position of Poland.
+Other organizations have already
+signified their readiness to join in
+the congress, including the Confed
+eration General du Travail Unitaire
+(the revolutionary trade union fed
+eration of France), the revolutionary
+trade union federation of Czecho
+slovakia, and the Seamen’s and Dock
+Workers’ International.
+On February 27th a meeting of 800
+members of Berlin factory councils
+voted their support and approval of
+the Congress. Numerous local or
+ganizations and branches of the A.
+D. G. 8., reformist labor federation
+In Germany, have also promised
+their support.
+1,500 Delegates Meet.
+An anti-war conference in London
+on March 5, with 1500 delegates pre
+sent, inclffiuding 300 delegates from
+trade union locals, welcomed the pro
+posed Congress, and pledged their
+support.
+Anti-Fascist Day.
+A special Anti-Fascist Day will" be
+held throughout Sweden on March
+24. The Norwegian Anti-War Com
+mittee has issued a call for a Scandi
+navian Congress Against Fascism to
+be held in Copenhagen on April 15.
+A strong committee of opposition
+al trade union officials, together with
+a number of trade union local chair
+men and prominent left-wing intel
+lectuals, has been formed to conduct
+the anti-Fascist campaign in Den
+mark.
+Send Delegates.
+All working class organizations are
+invited to send delegates to a pre
+’iminary conference to fix the date
+for the Congress and to outline the
+continuation of the anti-Fascist
+campaign.
+All communications in connection
+with the Congress should be ad
+dressed to the Secretariat of the or
+ganizing bureau: Axel Larsen, Cop
+enhagen, Yorkspossage A. No. 17.
+KILL COMMUNIST
+ON WAY TO JAIL
+Nazis Imprison 1,000
+More in Labor Camp
+BERLIN, March 22 (By Mail).—
+The bourgeois “Vossiche Zeitung”
+reports that “several Communists
+were arrested by a Nazi storm troop
+detachment in the Socialist “Volks
+zeitung” building in Loebau, Saxony
+One of the arrested workers, Walter
+Boege, is said “to have tried to
+escape” on Monday. Nazi troopers
+fired several shots at Boege, killing
+him.”
+A Communist worker named Dres
+cher was attacked in his own home
+in Britz, near Berlin, by “unknown
+men,” who shot and gravely wounded
+him. Drescher Is in a hospital in a
+critical condition.
+The “Frankfurter Zeitung” reports
+that over one thousand Communist
+officials have been arrested in Thu
+ringia. They are now held in a con
+centration camp.
+Numerous "Marxist officials” were
+arrested in Wurttemberg yesterday.
+Together with the Communists pre
+viously arrested, they were taken to
+a concentration camp on the Heu
+berg. The press reports that this
+camp is planned for 5,000 prisoners.
+Titulescu in Paris
+to Weld Opposition
+to MacDonald Bloc
+PARIS, March 30.—Foreign Min
+ister Titulescu of Roumania arrived
+here last night for important con
+ferences with the French Cabinet.
+Titulescu will confer with Paul
+Boncour, the French Foreign Min
+ister, on plans for close co-operation
+between France and its vassal, the
+Little Entente, comprising Rouma
+nia, Czechoslovakia and Jugoslavia,
+in opposing the new Italo-German-
+Austrian—Hungarian Fascist. Bloc
+being formed by Mussolini with Brtt
+ish assistance.
+Program Is to Starve
+Out Palatinate Jews
+i
+BERLIN, Mar. 30.—The Hitler Ca
+binet has taken the first step in a
+methodical campaign to expel East
+ern European Jews from Germany.
+Hitler’s Commissioner for the Pala
+tinate, near the French Frontier, has
+stopped the withdrawal of all bank
+or postal funds by Eastern Jews “un
+til all their business obligations have
+been settled.”
+This measure is designed to starve
+the Palatinate Jews into leaving Ger
+many without actually enforcing m
+deportation order.
+Threaten to Deport 62
+OanadianMine Strikers
+VANCOUVER, B. C„ March 30.
+Sixty-two striking miners have been
+threatened with deportation unless
+they return, to work in the Anyox
+strike area, according to a telegram
+received today from Prince R.upert,
+b. a.
+The open role of the government of
+Oetamtot* mm iM to the
+«n» to (tote tank
+■DBsciiiraoN eat**.
+By Mail trcrjwkera: One year, W; etx month!, M.s*; S month!. s*; 1 month, We,
+exception Boroegh es Manhattan and Brnnx, New York City. Feretfß end
+Canada: One year, Ik; month!, IS; f month!, 18.
+REVOLT OF THE RANK
+AND FILE GROWING I
+IN THE STAHLHELM
+Nazi Central Organ Already Warns Against
+“Attempt at Revolution” Against Fascism
+BULLETIN
+BERLIN, Mar. 22 (By Mail).—The Association of Rnhr Mine Ownere
+announces that the wage dispute with the trade unions “has been set
+tled favorably.” The existing wage agreement and working conditlonc
+•re to remain in force until September 30th.
+The operators had demanded a 15 per cent wage cut, and had ter
+minated the old agreement, expiring April 1, but even the Fascist cen
+sorship cannot conceal the fact that determined mass resistance of the
+miners has won a great victory, smashing the proposed cut.
+
+BERLIN, March 30.—The Nazi police today arrested two major lead
+ers of the Hugenberg Nationalist Party, Dr. Ernst Oberfohren, national
+chairman of the party, and Dr. Friedrich Everting, noted attorney for
+Kaiser Wilhelm II and member of the Executive Committee of the Na- I
+tionaiist Party, charged with a royalist conspiracy to restore the Hoben- I
+zoilern dynasty. They were placed under "protective arrest” and their
+homes were searched. 1
+BERLIN, Mar. 30.—Reports from various parts of
+Germany prove that the conflict between the Nazis and th«
+Stahlhelm is not “localized,” as Hitler and Seldte, Steel Helmet
+leader, both claim, but is raging over a large part of the
+country.
+The Nazi Minister of the Interior for Thuringia yesterday
+prohibited the enrolment of Socialists and Communists in the
+Thuringian Stahlhelm, while a similar order was issued by the
+Nazi State Government of Oldenburg.
+A number of local Stahlhelm leaders have been arrested ia
+the Bavarian Palatinate, including the towns of Speyer, Neu
+stadt, Zweibrucken, and Landstuhl.
+The leftward trend among the Stahlhelm rank and file
+forces the Voelkische Beobachter, Nazi central organ in Mun
+ich, to issue a warning to Nazi storm troopers "to nip any at
+tempt at counter-revolution in the bud!” i
+FASCIST GOVERNMENT OFFICIALLY
+DECLARES BOYCOTT ON ALL JEWS
+Savage Attacks by Storm Troopers Multiply;
+Russian Music Barred from Orchestras
+BERLIN, Mar. 30.—The Nazi official anti-.lewish boycott, set for Sat
+urday, April 1, started ahead of schedule yesterday all through Germany.
+In Breslau, the Chief of Police ordered all Jews and Jewish convert*!
+to Christianity to turn in their passports to be stamped “not good for
+foreign travel.”
+The official Wolff news agency admits that "In the last few days,
+countle&s Jewish shop windows have®
+been broken,” thus contradicting the
+Nazi propaganda tales that no out
+rages were being committed. The i
+Hitler censorship only let this report
+through because it was officially
+stated that Nazi window-smashing
+was not hurting the Jews, "but the
+German insurance companies.”
+Burn “AII Quiet.”
+Seven copies of Remarque’s war
+novel, “All Quiet On the Western
+Front,” were publicly burned In the
+central square of Kaiserslautern in
+the Rhine Palatinate.
+Bar Russian Music.
+The anti-Soviet trend of the Nazi
+regime is shown in the following in
+cident: A Borodin symphony was
+dropped from the program of the
+Berlin Philharmonic, Herr Hoerber,
+manager of the orchestra, stating
+in reply to musicians’ protest: “Don’t
+you know we have almost been at
+war and you cannot play Russ ’an
+music?”
+Hitler declared that the Govern
+ment had to make the boycott offi
+cial “because if it had originated as
+a spontaneous movement among the
+people themselves, it might have
+PROTEST ALL OVER WORLD AGAINST
+FASCIST MURDER OF WORKERS, JEWS
+PARIS, Mar. 30.—The Jewish Volunteers of the World War will hold
+a mass meeting Monday in Paris's biggest hail, the Salle Wagram, to pro
+test against the ‘unrestrained violence of Hitler troops against German Jews.’
+
+Boycott in Saionica.
+BALONICA, Greece, Mar. 30. —The
+Jews of this city yesterday decided
+to boycott all German goods, includ
+ing moving pictures, as an effective
+protest against the anti-Semitic out
+rages of the German Fascist Gov
+ernment
+C
+Parade in Philadelphia.
+PHILADELPHIA, Mar. 30.—Phila
+delphia Jews today paraded to a
+mass-meeting protesting against the
+Nazi anti-Semitic persecution in
+Germany Prominent speakers de
+nounced the Hitlerites for their out
+rages against German minorities.
+9
+Einstein Renounces German
+Citizenship.
+ANTWERP. Belgium, Mar. 30.
+Professor Albert Einstein, world
+famous scientist, has informed the
+German Consulate in Brussels, that
+he Is renouncing his German citi
+zenship in protest against the anti-
+Jewlsh terror in Germany.
+Before accepting German citizen
+ship, Professor Einstein was of Swiss
+nationality, and taught in the Uni
+versity of Zurich.
+
+Protest to Roosevelt.
+WASHINGTON, Mar. 30.—A dele
+gation from the Jewish War Veter
+MANCHUKUO FRONTIER GUARDS SEIZE
+SOVIET TRAIN ON CHINESE EASTERN
+TOKYO, Mar. 30.—Frontier guards of the Manchnkno Government
+today seized a Russian freight train at Manchnll, at the western end
+of the Chinese Eastern Railway.
+The train was not allowed to continue until freight was unloaded
+from four cars and returned east to Vladivostok. The Japanese lord*
+of Manchuria charge that the Soviet Government was making “unau
+thorized shipments of war materials” over the Soviet-owned railroad.
+o
+This unwarranted act of invaakm of Soviet sovereignty on the Chtm
+dn Eastern Railway by the gaarda of the Japanese, whom* abate d
+Manchnkno la the lata* ttnk iu ffca aaita of wmrtOu nm mm j
+wakad by «ha Japanese wfHtetate *ba total tJMw dtefew MtaM
+Mi Me* atoae «mdi iwnujlhMij to
+taken on undesirable forms.” Thte
+is obviously a pretext for a delib
+erate governmental anti-Jewish cam
+paign.
+The news of the anti-Semitic boy
+cott caused a small panic on the
+Berlin Stock Exchange, prices drop
+ping sharply. Big businessmen fear
+that the boycott will react disas
+trously upon German foreign trade,
+as the result of foreign reprisals.
+Rich Crawl to Hlndenburg.
+The bourgeois Jews of Germany
+yesterday appealed pathetically to
+von Hindenburg to save them, saying’
+“we are a purely patriotic group. We
+lost 12,000 Jewish soldiers in the
+World War. Jews have always fought;
+for their Fatherland.” This appeal
+to the class solidarity of the bour
+geoisie throws striking light upon the
+true attitude of the rich German
+Jews to the Fascist Government
+Hindenburg and Hitler conferred
+last night on an unannounced sub
+ject, it was officially stated today.
+The Stahlhelm-Nazi conflict and the
+international repercussions of the
+Nazi terror were doubtless the sub
+ject of their talk.
+ans of the United States today pro
+tested to President Roosevelt at the
+White House against the maltreat
+ment of German Jews by the Nasi
+Government.
+The ex-servicemen left at the
+White House a resolution condemn
+ing the behavior of the Hitler Gov
+ernment and calling on President
+Roosevelt to take action to "effec
+tively terminate these conditions”
+
+New York Cigar Worker*. Pro*eeU
+NEW YORK.—A resolution de
+nouncing the Hitler terror against
+workers and Jews in Germany was
+unanimously passed at a meeting of
+the 150 strikers of the Edwin Cigar
+Co., at their meeting Hall, 16 W. 12*
+Street.
+
+Cleaners and Dyers.
+NEW YORK.—At a Joint meeting
+of drivers and Inside workers be
+longing to the Cleaners, Dyers and
+Pressers Union, which is affiliated to
+the United Hebrew Trades, a reso
+lution against the fascist terror in
+Germany was passed, one copy being
+sent to the Hitler government and
+the other to the German consul. Th*
+workers paid tribute to the memory
+of the martyrs of the Hitler atroci
+ties by rising and standing in silence
+for a few moments.

@@ -1,0 +1,10 @@
+{
+  "url": "https://harriman.columbia.edu/in-memoriam-madeleine-albright-1937-2022/",
+  "fetch_url": "https://harriman.columbia.edu/in-memoriam-madeleine-albright-1937-2022/",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:34:56Z",
+  "sha256": "8c42bd0bcc18847dc38a9cedb9d2b143c3ebaa57a3031a35704005eef5c886e5",
+  "bytes": 8656,
+  "http_status": 200,
+  "final_url": "https://harriman.columbia.edu/in-memoriam-madeleine-albright-1937-2022/"
+}

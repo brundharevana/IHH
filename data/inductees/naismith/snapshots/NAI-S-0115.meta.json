@@ -1,0 +1,10 @@
+{
+  "url": "https://archive.org/details/McGillLibrary-rbsc_calendar-mcgill-college_1889-90_octavo13936-20801",
+  "fetch_url": "https://archive.org/details/McGillLibrary-rbsc_calendar-mcgill-college_1889-90_octavo13936-20801",
+  "method": "http",
+  "fetched_at": "2026-10-30T18:59:04Z",
+  "sha256": "5d0d367b592e3027f15008a61d5b362aa5559ca7f0abb3cca84bd970d81e412b",
+  "bytes": 5290,
+  "http_status": 200,
+  "final_url": "https://archive.org/details/McGillLibrary-rbsc_calendar-mcgill-college_1889-90_octavo13936-20801"
+}

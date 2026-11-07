@@ -1,0 +1,248 @@
+_version_: 1731565340103540736
+access_restricted: false
+aka[0]: http://www.loc.gov/pictures/collection/pan/item/2007660474/
+aka[1]: http://www.loc.gov/item/2007660474/
+aka[2]: http://www.loc.gov/pictures/item/2007660474/
+aka[3]: https://hdl.loc.gov/loc.pnp/pan.6a19572
+aka[4]: http://www.loc.gov/resource/pan.6a19572/
+aka[5]: http://lccn.loc.gov/2007660474
+call_number: PAN US GEOG - California no. 51 (F size) [P&P]
+contributor_names[0]: Wolfskill, Matt Ashby, copyright claimant
+contributors[0].wolfskill, matt ashby: https://www.loc.gov/search/?fa=contributor:wolfskill,+matt+ashby&fo=json
+created: 2016-04-21 07:33:56
+created_published[0]: c1911.
+created_published_date: c1911.
+date: 1911-01-01
+dates[0].1911: https://www.loc.gov/search/?dates=1911/1911&fo=json
+description[0]: 1 photographic print : gelatin silver ; 15.5 x 46.5 in.
+digital_id[0]: pan 6a19572 //hdl.loc.gov/loc.pnp/pan.6a19572
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-09-01T22:57:34.555Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/pan/item/2007660474/#pan
+extract_urls[1]: http://lccn.loc.gov/2007660474#catalog-split-04
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Gelatin silver prints.
+format_headings[1]: Landscape photographs.
+format_headings[2]: Panoramic photographs.
+genre[0]: Landscape photographs
+genre[1]: Panoramic photographs
+genre[2]: Gelatin silver prints
+group[0]: pan
+group[1]: catalog-split-04
+group[2]: catalog
+group[3]: panoramic-photographs
+group[4]: main-catalog-split-04
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2007660474/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572_150px.jpg#h=58&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572t.gif#h=58&w=150
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572v.jpg#h=398&w=1024
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572r.jpg#h=420&w=1082
+index: 1
+item.call_number: PAN US GEOG - California no. 51 (F size) [P&P]
+item.contributor_names[0]: Wolfskill, Matt Ashby, copyright claimant
+item.contributors[0]: Wolfskill, Matt Ashby, copyright claimant.
+item.control_number: 2007660474
+item.created: 2016-04-21 07:33:56
+item.created_published: c1911.
+item.created_published_date: c1911.
+item.creators[0].link: //www.loc.gov/pictures/related/?fi=name&q=Wolfskill%2C%20Matt%20Ashby&co=pan
+item.creators[0].role: copyright claimant
+item.creators[0].title: Wolfskill, Matt Ashby
+item.date: c1911.
+item.digital_id[0]: pan 6a19572 //hdl.loc.gov/loc.pnp/pan.6a19572
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: //www.loc.gov/pictures/related/?fi=format&q=Gelatin%20silver%20prints.&co=pan
+item.formats[0].title: Gelatin silver prints.
+item.formats[1].link: //www.loc.gov/pictures/related/?fi=format&q=Landscape%20photographs.&co=pan
+item.formats[1].title: Landscape photographs.
+item.formats[2].link: //www.loc.gov/pictures/related/?fi=format&q=Panoramic%20photographs.&co=pan
+item.formats[2].title: Panoramic photographs.
+item.genre[0]: Landscape photographs
+item.genre[1]: Panoramic photographs
+item.genre[2]: Gelatin silver prints
+item.id: 2007660474
+item.language[0]: eng
+item.link: //www.loc.gov/pictures/item/2007660474/
+item.marc: //www.loc.gov/pictures/item/2007660474/marc/
+item.medium[0]: 1 photographic print : gelatin silver ; 15.5 x 46.5 in.
+item.medium_brief: 1 photographic print :
+item.mediums[0]: 1 photographic print : gelatin silver ; 15.5 x 46.5 in.
+item.modified: 2016-04-21 07:33:57
+item.notes[0]: J163877 U.S. Copyright Office
+item.notes[1]: "Film No. 15, 1911" on front.
+item.notes[2]: Copyright claimant's address: Box 208, Santa Monica, Calif.
+item.notes[3]: Copyright deposit; Matt Ashby Wolfskill; December 26, 1911; DLC/PP-1911:44381.
+item.number_former_id[0]: https://www.loc.gov/item/2007660474
+item.number_former_id[1]: https://www.loc.gov/item/pan1993000071/PP
+item.part_of: Panoramic photographs (Library of Congress)
+item.place[0].link: //www.loc.gov/pictures/related/?fi=place&q=California--Hetch%20Hetchy%20Valley&co=pan
+item.place[0].title: California--Hetch Hetchy Valley
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/pan.6a19572
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572r.jpg
+item.sort_date: 1911
+item.source_collection[0]: Panoramic photographs (Library of Congress)
+item.source_created: 1990-10-16 00:00:00
+item.source_modified: 2009-10-01 16:58:02
+item.subject_headings[0]: Valleys.
+item.subject_headings[1]: Mountains.
+item.subject_headings[2]: United States--California--Hetch Hetchy Valley.
+item.subject_headings[3]: California--Hetch Hetchy Valley
+item.subjects[0]: Valleys
+item.subjects[1]: Mountains
+item.subjects[2]: United States--California--Hetch Hetchy Valley
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572_150px.jpg
+item.title: Hetch - Hetchy Valley, Sierra Nevada Mts., Calif.
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2007660474
+link: //www.loc.gov/pictures/item/2007660474/
+location[0]: united states
+location[1]: california
+location[2]: hetch hetchy valley
+location_country[0]: united states
+location_county[0]: hetch hetchy valley
+location_state[0]: california
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].hetch hetchy valley: https://www.loc.gov/search/?fa=location:hetch+hetchy+valley&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].hetch hetchy valley: https://www.loc.gov/search/?fa=location_county:hetch+hetchy+valley&fo=json
+locations_state[0].california: https://www.loc.gov/search/?fa=location_state:california&fo=json
+marc: //www.loc.gov/pictures/item/2007660474/marc/
+medium[0]: 1 photographic print : gelatin silver ; 15.5 x 46.5 in.
+medium_brief: 1 photographic print :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-21 07:33:57
+notes[0]: J163877 U.S. Copyright Office
+notes[1]: "Film No. 15, 1911" on front.
+notes[2]: Copyright claimant's address: Box 208, Santa Monica, Calif.
+notes[3]: Copyright deposit; Matt Ashby Wolfskill; December 26, 1911; DLC/PP-1911:44381.
+number[0]: http://www.loc.gov/item/2007660474
+number[1]: http://www.loc.gov/item/pan1993000071/pp
+number[2]: 2009-10-01t16:58:02
+number[3]: 2007660474
+number_former_id[0]: http://www.loc.gov/item/2007660474
+number_former_id[1]: http://www.loc.gov/item/pan1993000071/pp
+number_lccn[0]: 2007660474
+number_source_modified[0]: 2009-10-01t16:58:02
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2007660474/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2007660474/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2007660474/dc
+partof[0].count: 4300
+partof[0].title: taking the long view: panoramic photographs, 1851-1991
+partof[0].url: https://www.loc.gov/search/?fa=partof:taking+the+long+view:+panoramic+photographs,+1851-1991&fo=json
+partof[1].count: 4323
+partof[1].title: panoramic photographs
+partof[1].url: https://www.loc.gov/collections/panoramic-photographs/?fo=json
+partof[2].count: 419054
+partof[2].title: american memory
+partof[2].url: https://www.loc.gov/search/?fa=partof:american+memory&fo=json
+partof[3].count: 910731
+partof[3].title: prints & photographs online catalog (library of congress)
+partof[3].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[4].count: 1162489
+partof[4].title: prints and photographs division
+partof[4].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[5].count: 1910629
+partof[5].title: catalog
+partof[5].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: //www.loc.gov/pictures/related/?fi=place&q=California--Hetch%20Hetchy%20Valley&co=pan
+place[0].title: California--Hetch Hetchy Valley
+related.neighbors: //www.loc.gov/pictures/related/?&co=pan&pk=2007660474&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+resource_links[0]: //hdl.loc.gov/loc.pnp/pan.6a19572
+resources[0].caption: digital file from intermediary roll film copy
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572_150px.jpg
+resources[0].url: https://www.loc.gov/resource/pan.6a19572/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Panoramic Photograph Filing Series - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.459465
+shard: 00
+shelf_id: PAN US GEOG - California no. 51 (F size) [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1911
+source_collection: Panoramic photographs (Library of Congress)
+source_created: 1990-10-16 00:00:00
+source_modified: 2009-10-01 16:58:02
+subject[0]: panoramic photographs
+subject[1]: california
+subject[2]: mountains
+subject[3]: valleys
+subject[4]: gelatin silver prints
+subject[5]: united states
+subject[6]: landscape photographs
+subject[7]: hetch hetchy valley
+subject_headings[0]: Valleys
+subject_headings[1]: Mountains
+subject_headings[2]: United States--California--Hetch Hetchy Valley
+subjects[0].california: https://www.loc.gov/search/?fa=subject:california&fo=json
+subjects[1].gelatin silver prints: https://www.loc.gov/search/?fa=subject:gelatin+silver+prints&fo=json
+subjects[2].hetch hetchy valley: https://www.loc.gov/search/?fa=subject:hetch+hetchy+valley&fo=json
+subjects[3].landscape photographs: https://www.loc.gov/search/?fa=subject:landscape+photographs&fo=json
+subjects[4].mountains: https://www.loc.gov/search/?fa=subject:mountains&fo=json
+subjects[5].panoramic photographs: https://www.loc.gov/search/?fa=subject:panoramic+photographs&fo=json
+subjects[6].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[7].valleys: https://www.loc.gov/search/?fa=subject:valleys&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572_150px.jpg
+timestamp: 2022-04-30T20:09:51.502Z
+title: Hetch - Hetchy Valley, Sierra Nevada Mts., Calif.
+unrestricted: true
+url: https://www.loc.gov/item/2007660474/
+resources[0].caption: digital file from intermediary roll film copy
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 3759371
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/pan/6a19000/6a19500/6a19572u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 58
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 2915
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 58
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 8044
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572t.gif
+resources[0].files[0][2].width: 150
+resources[0].files[0][3].height: 398
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 160264
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572v.jpg
+resources[0].files[0][3].width: 1024
+resources[0].files[0][4].height: 420
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 167834
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572r.jpg
+resources[0].files[0][4].width: 1082
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/pan/6a19000/6a19500/6a19572_150px.jpg
+resources[0].url: https://www.loc.gov/resource/pan.6a19572/
+cite_this.apa: Wolfskill, M. A. (ca. 1911) Hetch - Hetchy Valley, Sierra Nevada Mts., Calif. United States California Hetch Hetchy Valley, ca. 1911. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2007660474/.
+cite_this.chicago: Wolfskill, Matt Ashby, Copyright Claimant. Hetch - Hetchy Valley, Sierra Nevada Mts., Calif. United States California Hetch Hetchy Valley, ca. 1911. Photograph. https://www.loc.gov/item/2007660474/.
+cite_this.mla: Wolfskill, Matt Ashby, Copyright Claimant. Hetch - Hetchy Valley, Sierra Nevada Mts., Calif. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2007660474/>.

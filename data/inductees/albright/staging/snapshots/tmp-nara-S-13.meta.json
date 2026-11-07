@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/844775",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=844775",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:25:50Z",
+  "sha256": "43714c19e550377dd09623efd01829b5c23aecc0d4aa38a25a4e466e334d2a4f",
+  "bytes": 4641,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=844775"
+}

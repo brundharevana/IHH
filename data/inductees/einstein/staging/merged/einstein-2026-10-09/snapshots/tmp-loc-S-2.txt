@@ -1,0 +1,200 @@
+_version_: 1869153589108146176
+access_restricted: true
+aka[0]: https://www.loc.gov/pictures/item/00652204/
+aka[1]: http://www.loc.gov/item/00652204/
+aka[2]: http://www.loc.gov/pictures/item/00652204/
+aka[3]: https://www.loc.gov/pictures/collection/hlb/item/00652204/
+aka[4]: http://www.loc.gov/pictures/collection/hlb/item/00652204/
+aka[5]: https://hdl.loc.gov/loc.pnp/cph.3c26902
+aka[6]: https://hdl.loc.gov/loc.pnp/cph.3c26902
+aka[7]: http://www.loc.gov/resource/cph.3c26902/
+aka[8]: http://lccn.loc.gov/00652204
+aka[9]: https://search.catalog.loc.gov/instances/3f750fae-d15e-5a5e-85d7-190b2b74dc33
+call_number: BLOCK, no. 14332 (C size) [P&P]
+contributor_names[0]: Block, Herbert, 1909-2001, artist
+contributors[0].block, herbert: https://www.loc.gov/search/?fa=contributor:block,+herbert&fo=json
+created: 2026-06-23T06:02:30Z
+created_published[0]: 1955 April 19, c1955.
+created_published_date: 1955 April 19, c1955.
+date: 1955-04-19
+dates[0].1955: https://www.loc.gov/search/?dates=1955/1955&fo=json
+dates[1].1955-04-19: https://www.loc.gov/search/?dates=1955-04-19/1955-04-19&fo=json
+description[0]: 1 drawing on layered paper : ink, graphite, and opaque white over graphite underdrawing ; 57.8 x 36.6 cm (sheet) | Editorial cartoon showing Earth from outer space, with a sign proclaiming "Albert Einstein lived here".
+digital_id[0]: cph 3c26902 https://hdl.loc.gov/loc.pnp/cph.3c26902
+digitized: true
+display_offsite: false
+extract_timestamp: 2026-06-27T12:35:21.538Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/hlb/item/00652204/#hlb
+extract_urls[1]: http://lccn.loc.gov/00652204#catalog-split-03
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Editorial cartoons--American--1950-1960.
+format_headings[1]: Ink drawings--American--1950-1960.
+genre[0]: Editorial cartoons--American--1950-1960
+genre[1]: Ink drawings--American--1950-1960
+group[0]: hlb
+group[1]: catalog-split-03
+group[2]: catalog
+group[3]: herblock-cartoon-drawings
+group[4]: main-catalog-split-03
+hassegments: false
+id: http://www.loc.gov/item/00652204/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c26000/3c26900/3c26902_150px.jpg#h=150&w=121
+index: 1
+item.call_number: BLOCK, no. 14332 (C size) [P&P]
+item.contributors[0]: Block, Herbert, 1909-2001, artist
+item.control_number: 00652204
+item.created: 2026-06-23T06:02:30Z
+item.created_published: 1955 April 19, c1955.
+item.created_published_date: 1955 April 19, c1955.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Block%2C%20Herbert%2C%201909-2001&co=hlb
+item.creators[0].role: artist
+item.creators[0].title: Block, Herbert, 1909-2001
+item.date: 1955 April 19, c1955.
+item.digital_id[0]: cph 3c26902 https://hdl.loc.gov/loc.pnp/cph.3c26902
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Editorial%20cartoons--American--1950-1960.&co=hlb
+item.formats[0].title: Editorial cartoons--American--1950-1960.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Ink%20drawings--American--1950-1960.&co=hlb
+item.formats[1].title: Ink drawings--American--1950-1960.
+item.genre[0]: Editorial cartoons--American--1950-1960
+item.genre[1]: Ink drawings--American--1950-1960
+item.id: 00652204
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/00652204/
+item.marc: https://www.loc.gov/pictures/item/00652204/marc/
+item.medium[0]: 1 drawing on layered paper : ink, graphite, and opaque white over graphite underdrawing ; 57.8 x 36.6 cm (sheet)
+item.medium_brief: 1 drawing on layered paper :
+item.mediums[0]: 1 drawing on layered paper : ink, graphite, and opaque white over graphite underdrawing ; 57.8 x 36.6 cm (sheet)
+item.modified: 2026-06-23T06:02:31Z
+item.notes[0]: Caption label from exhibit "Herblock's History Tick Tock": Herb Block pays tribute to scientist Albert Einstein, possibly the greatest man of the twentieth century. With the rise of Adolf Hitler and Nazism, Einstein left Germany in 1932 to move to America where he took part in the Institute for Advanced Studies of Princeton. He became a U.S. citizen in 1940. Einstein's theories, especially the Special Theory of Relativity, expanded the scope of thinking, revolutionized scientific ideas, and provided the basis for the development and use of nuclear energy. On the basis of urgent appeals and information from fellow scientists in Europe who knew that the Nazis were working on the development of nuclear fission, Einstein wrote a letter to President Franklin Delano Roosevelt that resulted in the U.S. project to build "the bomb." The cartoon appeared on news of Einstein's death on April 18, 1955.
+item.notes[1]: Published in the Washington Post, April 19, 1955.
+item.notes[2]: Copyright 1955 by The Washington Post Co.; renewed by Herblock.
+item.notes[3]: Forms part of: Herbert L. Block (Herblock) collection (Library of Congress).
+item.notes[4]: Exhibited in: Herblock's History: Political Cartoons from the Crash to the Millennium, Library of Congress 2000-2001. (37)
+item.number_former_id[0]: https://www.loc.gov/item/00652204
+item.number_former_id[1]: https://www.loc.gov/item/12166465
+item.other_control_numbers[0]: 12166465
+item.part_of: Block, Herbert, 1909-2001. Herbert L. Block (Herblock) collection (Library of Congress)
+item.raw_collections[0]: exh
+item.raw_collections[1]: hlb
+item.raw_collections[2]: l4294
+item.raw_collections[3]: pp
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-USZ62-126902 (b&w film copy neg.)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/cph.3c26902
+item.rights_advisory: Publication may be restricted. For information see "Herbert Block ("Herblock") Rights and Restrictions," https://www.loc.gov/rr/print/res/271_herb.html
+item.rights_information: Publication may be restricted. For information see "Herbert Block ("Herblock") Rights and Restrictions," https://www.loc.gov/rr/print/res/271_herb.html
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c26000/3c26900/3c26902_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c26000/3c26900/3c26902r.jpg
+item.sort_date: 19550419
+item.source_collection[0]: Block, Herbert, 1909-2001. Herbert L. Block (Herblock) collection (Library of Congress)
+item.source_created: 2000-09-07T00:00:00Z
+item.source_modified: 2026-06-18T20:17:53Z
+item.stmt_of_responsibility: Herblock.
+item.subject_headings[0]: Einstein, Albert,--1879-1955.
+item.subject_headings[1]: Earth--1950-1960.
+item.subjects[0]: Einstein, Albert,--1879-1955
+item.subjects[1]: Earth--1950-1960
+item.summary: Editorial cartoon showing Earth from outer space, with a sign proclaiming "Albert Einstein lived here".
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c26000/3c26900/3c26902_150px.jpg
+item.title: Albert Einstein lived here
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 00652204
+link: https://www.loc.gov/pictures/item/00652204/
+marc: https://www.loc.gov/pictures/item/00652204/marc/
+medium[0]: 1 drawing on layered paper : ink, graphite, and opaque white over graphite underdrawing ; 57.8 x 36.6 cm (sheet)
+medium_brief: 1 drawing on layered paper :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2026-06-23T06:02:31Z
+notes[0]: Caption label from exhibit "Herblock's History Tick Tock": Herb Block pays tribute to scientist Albert Einstein, possibly the greatest man of the twentieth century. With the rise of Adolf Hitler and Nazism, Einstein left Germany in 1932 to move to America where he took part in the Institute for Advanced Studies of Princeton. He became a U.S. citizen in 1940. Einstein's theories, especially the Special Theory of Relativity, expanded the scope of thinking, revolutionized scientific ideas, and provided the basis for the development and use of nuclear energy. On the basis of urgent appeals and information from fellow scientists in Europe who knew that the Nazis were working on the development of nuclear fission, Einstein wrote a letter to President Franklin Delano Roosevelt that resulted in the U.S. project to build "the bomb." The cartoon appeared on news of Einstein's death on April 18, 1955.
+notes[1]: Published in the Washington Post, April 19, 1955.
+notes[2]: Copyright 1955 by The Washington Post Co.; renewed by Herblock.
+notes[3]: Forms part of: Herbert L. Block (Herblock) collection (Library of Congress).
+notes[4]: Exhibited in: Herblock's History: Political Cartoons from the Crash to the Millennium, Library of Congress 2000-2001. (37)
+number[0]: online resource
+number[1]: sheet
+number[2]: 00652204
+number[3]: 2026-06-18t20:17:53.600000
+number[4]: http://www.loc.gov/item/00652204
+number[5]: http://www.loc.gov/item/12166465
+number_carrier_type[0]: sheet
+number_carrier_type[1]: online resource
+number_former_id[0]: http://www.loc.gov/item/12166465
+number_former_id[1]: http://www.loc.gov/item/00652204
+number_lccn[0]: 00652204
+number_source_modified[0]: 2026-06-18t20:17:53.600000
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 12166465
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/00652204/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/00652204/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/00652204/dc
+partof[0].count: 9296
+partof[0].title: cartoon drawings: herblock collection
+partof[0].url: https://www.loc.gov/collections/herblock-cartoon-drawings/?fo=json
+partof[1].count: 1161938
+partof[1].title: prints and photographs division
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[2].count: 1909372
+partof[2].title: catalog
+partof[2].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+raw_collections[0]: exh
+raw_collections[1]: hlb
+raw_collections[2]: l4294
+raw_collections[3]: pp
+related.neighbors: https://www.loc.gov/pictures/related/?&co=hlb&pk=00652204&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-USZ62-126902 (b&w film copy neg.)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/cph.3c26902
+resources[0].caption: digital file from b&w film copy neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c26000/3c26900/3c26902_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3c26902/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Herbert Block ("Herblock") - Rights and Restrictions Information
+rights_advisory: Publication may be restricted. For information see "Herbert Block ("Herblock") Rights and Restrictions," https://www.loc.gov/rr/print/res/271_herb.html
+rights_information: Publication may be restricted. For information see "Herbert Block ("Herblock") Rights and Restrictions," https://www.loc.gov/rr/print/res/271_herb.html
+score: 18.877445
+shard: 00
+shelf_id: BLOCK, no. 14332 (C size) [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 19550419
+source_collection: Block, Herbert, 1909-2001. Herbert L. Block (Herblock) collection (Library of Congress)
+source_created: 2000-09-07T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+stmt_of_responsibility: Herblock.
+subject[0]: editorial cartoons
+subject[1]: earth
+subject[2]: ink drawings
+subject[3]: american
+subject[4]: einstein, albert
+subject_headings[0]: Einstein, Albert,--1879-1955
+subject_headings[1]: Earth--1950-1960
+subjects[0].american: https://www.loc.gov/search/?fa=subject:american&fo=json
+subjects[1].earth: https://www.loc.gov/search/?fa=subject:earth&fo=json
+subjects[2].editorial cartoons: https://www.loc.gov/search/?fa=subject:editorial+cartoons&fo=json
+subjects[3].einstein, albert: https://www.loc.gov/search/?fa=subject:einstein,+albert&fo=json
+subjects[4].ink drawings: https://www.loc.gov/search/?fa=subject:ink+drawings&fo=json
+summary: Editorial cartoon showing Earth from outer space, with a sign proclaiming "Albert Einstein lived here".
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c26000/3c26900/3c26902_150px.jpg
+timestamp: 2026-06-27T12:36:11.321Z
+title: Albert Einstein lived here / Herblock.
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/00652204/
+resources[0].caption: digital file from b&w film copy neg.
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c26000/3c26900/3c26902_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3c26902/
+cite_this.apa: Block, H. (ca. 1955) Albert Einstein lived here / Herblock. , ca. 1955. 1955 April 19. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/00652204/.
+cite_this.chicago: Block, Herbert, Artist. Albert Einstein lived here / Herblock. , ca. 1955. 1955 April 19. Photograph. https://www.loc.gov/item/00652204/.
+cite_this.mla: Block, Herbert, Artist. Albert Einstein lived here / Herblock. 1955 April 19. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/00652204/>.

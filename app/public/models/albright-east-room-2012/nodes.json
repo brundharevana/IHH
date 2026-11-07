@@ -1,0 +1,27 @@
+{
+  "$comment": "Named nodes in albright-east-room-2012.glb / albright-east-room-2012-mobile.glb (glTF Y-up, metres). hotspot_* are standing viewpoints at eye height 1.6 m whose local -Z axis faces the view direction (camera convention); artifact_* are framable objects; label_recreation carries the recreation label in extras.text. Walkable bounds: bounds.json.",
+  "hotspots": [
+    "hotspot_1",
+    "hotspot_2",
+    "hotspot_3",
+    "hotspot_4"
+  ],
+  "artifacts": [
+    "artifact_chandelier_0",
+    "artifact_chandelier_1",
+    "artifact_chandelier_2",
+    "artifact_doors",
+    "artifact_flag_presidential",
+    "artifact_flag_us",
+    "artifact_gold_drapes",
+    "artifact_lectern",
+    "artifact_lectern_seal",
+    "artifact_mirror_frame_0",
+    "artifact_mirror_frame_1",
+    "artifact_mirror_frame_2",
+    "artifact_mirror_frame_3"
+  ],
+  "label": [
+    "label_recreation"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn83045462/1933-03-30/ed-1/?sp=3",
+  "fetch_url": "https://www.loc.gov/resource/sn83045462/1933-03-30/ed-1/?sp=3&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T18:56:36Z",
+  "sha256": "ec2484d6b6e8f82ddcf8d259b244c9d8dda2f9415c920a2bd500eefe30e9371a",
+  "bytes": 43848,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn83045462/1933-03-30/ed-1/?sp=3&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601019/1933033001/0676.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601019/1933033001/0676.xml"
+}

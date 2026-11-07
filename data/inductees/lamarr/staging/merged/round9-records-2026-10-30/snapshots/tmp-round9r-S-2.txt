@@ -1,0 +1,955 @@
+_version_: 1775293398848110592
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn85042243/1937-10-04/ed-1/
+aka[1]: http://www.loc.gov/resource/sn85042243/1937-10-04/ed-1/
+batch[0]: ndhi_jemhadar_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/north dakota/
+composite_location[2]: 2/united states/north dakota/burleigh/
+composite_location[3]: 3/united states/north dakota/burleigh/bismarck/
+composite_location[4]: 2/united states/north dakota/morton/
+composite_location[5]: 3/united states/north dakota/morton/mandan/
+contributor_names[0]: State Historical Society of North Dakota
+contributors[0].state historical society of north dakota: https://www.loc.gov/search/?fa=contributor:state+historical+society+of+north+dakota&fo=json
+created_published[0]: Bismarck, N.D., October 4, 1937
+date: 1937-10-04
+date_issued: 1937-10-04
+dates[0].1937-10-04: https://www.loc.gov/search/?dates=1937-10-04/1937-10-04&fo=json
+dates_of_publication: 1916-current
+description[0]: Bismarck, N.D.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-08-25T19:28:40.852Z
+extract_urls[0]: file:/service/ndnp//ndhi/batch_ndhi_jemhadar_ver01/data/sn85042243/00383346162/1937100401/1937100401_1.xml#ndnp/ndhi
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ndhi
+group[1]: state-histrorical-society-of-north-dakota-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn85042243/1937-10-04/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jemhadar_ver01:data:sn85042243:00383346162:1937100401:0290/full/pct:6.25/0/default.jpg#h=422&w=323
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jemhadar_ver01:data:sn85042243:00383346162:1937100401:0290/full/pct:12.5/0/default.jpg#h=845&w=646
+index: 1
+item.batch[0]: ndhi_jemhadar_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: State Historical Society of North Dakota
+item.created_published[0]: Bismarck, N.D., October 4, 1937
+item.date: 1916
+item.date_issued: 1937-10-04
+item.dates[0]: 1937-10-04
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn85042243
+item.location[0]: Bismarck (N.D.)
+item.location[1]: North Dakota--Bismarck
+item.medium: 10 pages
+item.newspaper_title[0]: The Bismarck tribune
+item.notes[0]: Daily, <1982>-
+item.notes[1]: Vol. 36, no. 281 (Nov. 21, 1916)-
+item.notes[2]: Sometimes published a morning edition and Sunday edition.
+item.notes[3]: "Official newspaper for Bismarck and Mandan, N.D."
+item.notes[4]: Volume numbering irregular.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Also issued on microfilm from the Library of Congress, Photoduplication Service.
+item.notes[7]: Weekly ed.: Bismarck weekly tribune (Bismarck, N.D. : 1884), 1916-1943.
+item.notes[8]: Monthly ed.: Bismarck tribune (Bismarck, N.D. : 1943), 1943-1946.
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ndhi/batch_ndhi_jemhadar_ver01/data/sn85042243/00383346162/1937100401/1937100401_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn85042243/marcxml
+item.other_title[0]: Bismarck daily tribune
+item.other_title[1]: Bismarck evening tribune
+item.place_of_publication: Bismarck, N.D.
+item.raw_lccn: sn 85042243
+item.reel_numbers[0]: 00383346162
+item.source_group: ndnp/ndhi
+item.subjects[0]: Bismarck (N.D.)--Newspapers
+item.subjects[1]: North Dakota--Bismarck
+item.subjects[2]: United States--North Dakota--Burleigh--Bismarck
+item.subjects[3]: United States--North Dakota--Morton--Mandan
+item.title: The Bismarck tribune (Bismarck, N.D.), October 4, 1937
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn85042243
+location[0]: bismarck
+location[1]: mandan
+location[2]: north dakota
+location[3]: burleigh
+location[4]: morton
+location[5]: united states
+location_city[0]: bismarck
+location_city[1]: mandan
+location_country[0]: united states
+location_county[0]: burleigh
+location_county[1]: morton
+location_state[0]: north dakota
+locations[0].bismarck: https://www.loc.gov/search/?fa=location:bismarck&fo=json
+locations[1].burleigh: https://www.loc.gov/search/?fa=location:burleigh&fo=json
+locations[2].mandan: https://www.loc.gov/search/?fa=location:mandan&fo=json
+locations[3].morton: https://www.loc.gov/search/?fa=location:morton&fo=json
+locations[4].north dakota: https://www.loc.gov/search/?fa=location:north+dakota&fo=json
+locations[5].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].bismarck: https://www.loc.gov/search/?fa=location_city:bismarck&fo=json
+locations_city[1].mandan: https://www.loc.gov/search/?fa=location_city:mandan&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].burleigh: https://www.loc.gov/search/?fa=location_county:burleigh&fo=json
+locations_county[1].morton: https://www.loc.gov/search/?fa=location_county:morton&fo=json
+locations_state[0].north dakota: https://www.loc.gov/search/?fa=location_state:north+dakota&fo=json
+medium: 10 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Bismarck tribune
+notes[0]: Daily, <1982>-
+notes[1]: Vol. 36, no. 281 (Nov. 21, 1916)-
+notes[2]: Sometimes published a morning edition and Sunday edition.
+notes[3]: "Official newspaper for Bismarck and Mandan, N.D."
+notes[4]: Volume numbering irregular.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Also issued on microfilm from the Library of Congress, Photoduplication Service.
+notes[7]: Weekly ed.: Bismarck weekly tribune (Bismarck, N.D. : 1884), 1916-1943.
+notes[8]: Monthly ed.: Bismarck tribune (Bismarck, N.D. : 1943), 1943-1946.
+number[0]: 00383346162
+number[1]: sn85042243
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn85042243
+number_reel[0]: 00383346162
+numeric_shelf_id: 193710041
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ndhi/batch_ndhi_jemhadar_ver01/data/sn85042243/00383346162/1937100401/1937100401_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn85042243/marcxml
+other_title[0]: Bismarck daily tribune
+other_title[1]: Bismarck evening tribune
+partof[0].count: 6530
+partof[0].title: the bismarck tribune (bismarck, n.d.) 1916-current
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+bismarck+tribune+%28bismarck,+n.d.%29+1916-current&fo=json
+partof[1].count: 3210944
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232456
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the bismarck tribune (bismarck, n.d.) 1916-current
+place_of_publication: Bismarck, N.D.
+publication_frequency[0]: daily
+raw_lccn: sn 85042243
+reel_numbers[0]: 00383346162
+resources[0].files: 10
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jemhadar_ver01:data:sn85042243:00383346162:1937100401:0290/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn85042243/1937-10-04/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.3663845
+shard: 07
+shelf_id: sn85042243, 1937-10-04, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ndhi
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: bismarck
+subject[1]: mandan
+subject[2]: north dakota
+subject[3]: burleigh
+subject[4]: newspapers
+subject[5]: bismarck (n.d.)
+subject[6]: morton
+subject[7]: united states
+subject_headings[0]: Bismarck (N.D.)--Newspapers
+subject_headings[1]: North Dakota--Bismarck
+subject_headings[2]: United States--North Dakota--Burleigh--Bismarck
+subject_headings[3]: United States--North Dakota--Morton--Mandan
+subjects[0].bismarck: https://www.loc.gov/search/?fa=subject:bismarck&fo=json
+subjects[1].bismarck (n.d.): https://www.loc.gov/search/?fa=subject:bismarck+%28n.d.%29&fo=json
+subjects[2].burleigh: https://www.loc.gov/search/?fa=subject:burleigh&fo=json
+subjects[3].mandan: https://www.loc.gov/search/?fa=subject:mandan&fo=json
+subjects[4].morton: https://www.loc.gov/search/?fa=subject:morton&fo=json
+subjects[5].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[6].north dakota: https://www.loc.gov/search/?fa=subject:north+dakota&fo=json
+subjects[7].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+timestamp: 2023-08-26T12:08:33.677Z
+title: The Bismarck tribune (Bismarck, N.D.), October 4, 1937
+type[0]: issue
+url: https://www.loc.gov/item/sn85042243/1937-10-04/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ndhi/batch_ndhi_jemhadar_ver01/data/sn85042243/00383346162/1937100401/0290.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn85042243/1937-10-04/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jemhadar_ver01:data:sn85042243:00383346162:1937100401:0290/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ndhi/batch_ndhi_jemhadar_ver01/data/sn85042243/00383346162/1937100401/0290.pdf
+resources[0].segment_count: 10
+resources[0].url: https://www.loc.gov/resource/sn85042243/1937-10-04/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1937, October 4) The Bismarck tribune. Retrieved from the Library of Congress, https://www.loc.gov/item/sn85042243/1937-10-04/ed-1/.
+cite_this.chicago: The Bismarck tribune. (Bismarck, ND), Oct. 4 1937. https://www.loc.gov/item/sn85042243/1937-10-04/ed-1/.
+cite_this.mla: The Bismarck tribune. (Bismarck, ND) 4 Oct. 1937, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn85042243/1937-10-04/ed-1/.
+
+segment_id: /service/ndnp/ndhi/batch_ndhi_jemhadar_ver01/data/sn85042243/00383346162/1937100401/0290.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ndhi/batch_ndhi_jemhadar_ver01/data/sn85042243/00383346162/1937100401/0290.xml&format=alto_xml&full_text=1
+full_text:
+WELCOMED TO CITY
+BY GROUP GOVERNOR
+HL LANGER HEADS
+National Guardsmen Line Sta
+tfon Platform 35XWO
+Hear Speech
+DRIVES THROUGH CITY
+Mayor of Winnipeg Present*
+Roosevelt With Key to
+Canadian Metropolis
+Fargo, N. D., Oct. 4.—40—
+PmMnt Koawnlt told the hap
+fui* crowd which assembled at
+4m Great Northern station that
+be tatoM to keep on making
+the transcontinental tripe with
+Midi he hae liberally sprinkled
+his administration to lite.
+Te Fkrgo personally, he hM,
+1 em fled to come here again.
+1 am particularly dad to note
+that North Dakota la so much
+better off than It was last year."
+The president waa introduced
+to the (heating, milling Fargo
+erowd which had difficulty catch
+ing his words because of the hab
+bub, by GOT. William Longer. who
+Joined the train at Grand Forb.
+(By the Associated Press)
+President Roosevelt arrived in Grand
+Forks at 9:30 a. m. (central standard
+time) Monday for a two-and-a-half*
+hour stop on his eastward journey.
+He drove about the city before he
+dedicated a new grandstand at the
+fair grounds.
+The president was welcomed to the
+eity by a committee of Republicans
+and Democrats headed by Repub
+lican Governor William Langer.
+Others in the group were J. P. T.
+O'Connor, comptroller of the cur?
+xency and a native of Grand Porks
+Mayor E. A. Flanland WlUlam E.
+Glotzbach, Democratic national com'
+mttteeman John O. Eaton, Demo
+cratic state chairman, and Miss Ger
+trude Dwire, Democratic national
+commltteewoman.
+National guardsmen lined the sta
+tion platform as thousfcndft Mthered
+In the streets for the, pMeMton to
+thefalr grounds.
+Senator Gerald P. Nye (Repi.-N. D.)
+took part in the prooesslon and ar
+ranged to ride en the presidential
+special to Fargo.
+Special Session Problematical
+While the president addressed a
+great outdoor Red river valley throng
+hare in dedicating a WPA-financed
+grandstand at the state fair grounds,
+officials close to him said the ques
+tion of an extraordinary session still
+wis an "open" one.
+Gov. William Langer, a Republican,
+Introduced the president as the "great
+friend of the people not only of the
+northwestern part of the United
+States, but of Canada as well."
+Polioe officials estimated the crowd
+at the fair grounds at 35,000.
+Before his speech, the president
+drove through crowd-lined streets
+of Grand Porks,' N. D., and East Grand
+Porks, Minn., across the Red River of
+the North. Seventeen bands were
+on the route. The route carried him
+to the campus of the University of
+North Dakota, where he was greeted
+by President John C. West and mem
+bers of the faculty.
+Digressing from his prepared ad
+dress at the start, the president paid
+tribute to J. P. T. O'Connor, comp
+troller of the currency, a former resi
+dent of Grand Porks, who was on the
+speakers' stand.
+WPA'i Pint Mistake
+He said O'Connor had been "keep
+ing the banks solvent and your money
+(Continued on Page Two)
+Washington, Oct 4.—*—The su
+preme court deferred action Mon
+day on a motion by Albert Levitt de
+signed to compel Associate Justice
+Hugo L. Black to show cause why he
+should be permitted to sit on the high
+tribunal.
+Whether the court will grant or
+deny the motion probably will bq an
+nounced next Monday.
+Action could be taken at any time,
+however.
+Proceedings were brief. Levitt
+merely arose and said he had submit
+ted the motion asking permission to
+file a petition challenging the Black
+appointment. He did not read the
+motion.
+"You may submit the papers," Chief
+Justice Hughes told him.
+Levitt acted a few minutes after
+Bm»K imt fai™ bis Hat on the high
+bench.
+The Justice, whose appointment by
+President Rooeevelt aroused a storm
+of controversy over whether he had
+been, or was still, connected with the
+Xu Klux Klan, entered the room with
+the other members of the court just
+after the noon hour.
+The new Justice entered the packed
+to the accompaniment of the
+crier's traditional "Oyex, oyes, oves,"
+which opens the daily sessions.
+Mrs. Black smiled happily as she
+watched the proceedings.
+The session was the first of a new
+eight months' term.
+Preceded by Justices Butler and
+Roberts. Black entered the chamber
+looking solemn.
+Chief Justice Hughes announced
+formally after the Justices were seated
+that Black had been nominated and
+confirmed and had presented his
+credentials
+(Continued on Pags Two)
+Jailed for Murder
+William Hawthorne (above), De
+troit probationary patrolman and
+former Michigan Normal college
+pole vaulter, was stripped of his
+badge and jailed after Detective
+Lieut. Earl Sweitser said he ad
+mitted killing his 21-year-old
+wife, Catherine, and John Bar
+rett, branch bank manager, at
+Barrett's home.
+2 DESPERADOS DIE
+IN PRISON BREAK
+ATTEMPT IN TEXAS
+Quick-Shooting Guards Halt
+Rush by 27 Inmates of
+InchrrtgibU Wing
+Huntsville, Tex., Oct. 4.—£»—Two
+desperado convicts, pals of the lats
+Raymond Hamilton and cigar-smok
+ing gun-woman Bonnie Parker, ngre
+dead Monday and a third convict was
+near death, victims of two quick
+shooting guards at Eastham state pri
+son.
+The dead men, shot 8unday as they
+led an attempted mass break by the
+27 Inmates of the prison's special
+wing for incorrlgibles, were Roy
+Thornton, Bonnie Parker's husband,
+and Austin Avers, sentenced for a
+part in the death house escape of
+Hamilton, southwest bandit. Thorn
+ton was serving SO years for burglary.
+Porrest Gibson, serving a sentence
+for slaying a guard at Retrive prison
+farm in a break there last June, was
+shot three times and was not expected
+to live,
+Clyde Thompson, convicted of kill
+ing two brothers "just to see them
+kitik," wts slightly wounded.
+The men had fashioned a crude
+key" to the gate of the incorrigible
+wing.
+Thornton and Gibson overpowered
+Guard Theo Williams, took his pistol
+and walked 85 feet to jam it Into the
+ribs of Guard W. A. Waller. They
+then released their comrades and ran
+outside.
+Guard J. M. Thomas, atop the In
+mates' quarters, saw Thornton first,
+and killed him instantly. He then
+shot Avers, and wounded Gibson.
+Black Takes Seat Court Defers
+Action on Levitt Ouster Motion
+TRADE BALANCE ADVERSE
+Chinese Threaten to Destroy
+Harbor Breakwater in
+North China
+(By the Associated Press)
+The Japanese trade commission
+ordered curtailment of Imports Mon
+day, and it appeared likely that
+American cotton would be one of the
+products hardest hit.
+8eeking to put Japan on a self'
+sufficiency basis, the commission de
+creed that importation of more than
+300 commodities must be prohibited
+or reduced to a minimum.
+The ministry of commerce was ex
+pec ted to have the gigantic list of
+prohibitions in effect by Oct. 10 un
+der the laws authorizing import and
+export control passed by the recently
+ended extraordinary session of parlia
+ment.
+The move was designed to concen
+trate Japan's financial resource! be
+hind Its war machine in China. Ja
+pan's total adverse trade balance for
+1837 Is $217,000,000.
+With only a few exceptions the
+articles listed will be admitted only
+by permission.
+Importation of cotton, lumber and
+wool will be authorized only cargo by
+cargo, each shipment requiring
+separate permit.
+Safety Threatened
+The safety of American refugees
+at the port of Chefoo, in Shantung
+province, 400 miles north of Shang
+hai, was imperilled Monday by
+Chinas* threat to dostoer*ho*wto
+water protecting the harbor.
+Chinese military authorities Mon
+day morning warned the United
+States destroyer squadron No. 6 to
+evacuate the harbor within 48 hdurs
+as they might find it necessary to
+blow up the whole wharf, making tha
+harbor unsafe for shipping.
+Admiral Harry Yarnell, commander
+of the United States Asiatic fleet,
+expressed the fear that destruction of
+the breakwater within the time limit
+would seriously handicap evacuation
+of American civilians as It would
+make landing rescue boats almost im
+possible.
+Approximately 80 American civil
+ians are now at Chefoo, which has
+been used as summer harbor by
+the American fleet since 1907. Some
+of these are missionaries and the
+others are businessmen and naval V.
+M. C. A. officials.
+Shipe Not in Danger
+The squadron was thought by Ad'
+mlral Yarnell not to be in any danger
+as it is already anchored outside the
+breakwater. The squadron is com'
+mended by Commander H. M. Brlggs
+and is made up of the 8,900-ton
+mother ship Black Hawk and the
+destroyers, Pillsbury, Pope, Ford and
+Paul Jones.
+American naval authorities saw in
+the threat indications the Chinese are
+preparing for a Japanese invasion of
+Shantung province from the sea u
+bolster land forces which Sunday
+claimed the capture of Tehchow, an
+(Continued on Page Two)
+Storm Center
+V. 8. He's Net
+ESTABLISHED 187S BISMARCK, N. D- MONDAY, OCTOBER 4,1937
+CURTAILED 300
+COMMODITIES HIT
+American Cotton Will Apparent'
+ly Be One of Products to
+Suffer Most
+THE BISMARCK TRIBUNE
+London observers saw little evidence
+in Mussolini's note of congratulations
+to Insurgent Generalissimo Franciscd
+Franco of that change of heart which
+the British and French have tried to
+persuade themselves they had seen in
+lis attitude since their determined
+stand at the Nyon conference brought
+Italy Into the Mediterranean anti
+piracy patrol.
+There was still hope, however, that
+the reply would not be a blunt refusal
+to join France and Britain around a
+conference table at which there were
+only three chairs, but would be a sug
+gestion that the question of with'
+drawal of volunteers as well as to
+the whole Spanish problem -be re
+ferred once again to the London 27
+natlon non-intervention committee.
+Both London and Paris were await
+ing the arrival of II Duce's note with
+ill-concealed impatience. It was ex
+pected within the next few days after
+Italy had conferred with Germany.
+Both France and Britain have In
+dicated they would block an effort to
+relegate the withdrawal of volun
+teers to the unwleldly non-interven
+tion committee. The sudden attack
+made by Russia on the committee
+Saturday added to the diplomatic
+anxiety here.
+RuSsia chose just the moment the
+Anglo-French invitation was dis
+patched to inform the committee
+members she no longer saw any use
+ful point in complying with the regu
+lations requiring her to embark ob
+servation officers on her ships bound
+for Spain.
+Over $400,000 Paid
+In Unemployment Tax
+More than MOO,000 in unemploy
+ment compensation insurance taxes
+were paid by 1,211 North Dakota em
+loyers since the program became el
+ective this spring, Alvln Purcell, state
+director, announced.
+Purcell reported that of 10,578 em
+ployer* who reported to the bureau,
+1,211 were found liable for the tax.
+He said $175,000 has been transferred
+to the U. S. treasury trust fund for
+North Dakota.
+Stork Catches Up
+With N. D. Auto
+Fargo, N. D., Oct. 4.—*)—The
+stork caught up with them be
+fore they got to the hospital but
+Mrs. Dennis Schulze, 21, Maple
+ton, and her new baby son were
+recovering from the open-air or
+deal in St. John's hospital here
+Monday.
+Schulae was driving his wife to
+Fargo when the new passenger
+North Dakota's Oldest Newspaper
+President Hints at Special Session
+Warring Japan Seeks Self'Sufficiency
+UPORTSORDERED.
+Five Die in Sewer Collapse
+Five men were killed and at least a doaen workers were injured in
+Detroit when a new interceptor sewer trapped the crew. Workmen
+said hydraulic pressure destroyed an air lock and a huge shield being
+pushed through clay collapsed when it reached a point five feet
+from the completed section of the sewer. The main entrance to the
+project is shown here, with arrow pointing to Injured worker being
+brought to the surface.
+Withdrawal Hope
+Blasted
+Note to Franco Indicates II Duo*
+Won't Remove Volunteer*
+London, Oct. 4.—VP)—A. message
+from Premier Mussolini expressing
+'most fervent wishes" for an insur
+gent victory was considered Monday
+to have dashed the strong Anglo
+French move to force withdrawal of
+Italian volunteers from the Spanish
+civil war.
+The informed Italian press in
+dicated II Duce would turn down the
+French and British Invitation to
+three-power conference on lending aid
+to both Spanish factions despite a
+hint his refusal would bring a re
+taliatory opening of the ftench bor
+der to supplies of war for the Ma
+drid-Valencia government.
+by Italy
+IIC.
+EXTTOON WORKER
+AT NDAC, RESIGNS
+District Supervisor 'Disgusted
+Since the A. C. Became
+a Political Pasture*
+Fargo, N. D., Oct. 4.—(*•—Howard
+G. Lewis, district supervisor of ex
+tension work, planned to leave Mon
+day for Bowman, Mont., where he
+v/ill take up his duties as livestock
+specialist in the extension division,
+He resigned Saturday from the staff
+of the North Dakota Agriculture col
+lege, because, he said, he was "dis
+couraged and disgusted since the A. C.
+became a political pasture."
+A graduate of N.D.A.C. and a former
+county agent in Pembina county, Lewis
+bad worked under N. D. Gorman,
+county agent leader, who was among
+seven faculty members dismissed re
+cently by the state board of adminis
+tration.
+W. W. Brown, Amenla livestock
+raiser, was named district supervisor
+of extension work at the North Da
+kota Agricultural college by the
+board of administration. He will lm
+mediately replace Howard G. Lewis,
+resigned.
+R.
+A.
+Kinzer, board member, said
+the group had not "officially" re
+ceived notice of resignation of A. P.
+Yeager, N.D.A.C. horticulturist, and
+that no action will be taken for the
+present.
+Klnser also refused to comment
+on Yeager's statement that he was
+resigning because "to anyone familiar
+with the situation at the A.C., my
+reasons should be obvious."
+Devils Lake Resident
+Killed in California
+Los Angeles, Oct. 4.—(/P)—Orville
+Jorgenson, 23, Devils Lake, N. D., was
+killed here Sunday when his automo
+bile collided with a freight train at
+an intersection.
+Cash Awards for
+The Best Pickers
+In quest of cash awards, foot
+ball fans Monday were exported to
+get to work en their foretaste of
+winners for next week-end's lead
+ing games.
+A score of Bismarck's
+merchants, tfcrengh the
+Tribute, are offering cash
+to the two fsnsne nsmln
+winners oat of
+for this week-end.
+Details of the neatest are
+ge 8 the Blsa
+Trlbime today.
+Each Monday In October
+same merchants wU
+similar esnlssf
+for the coming Satarday.
+Winners of tho cash awards wH
+be annenneed each Monday
+throngh the news rslemni of the
+Tribana. Presotation of the
+awards will be made by the Trft-
+Eaeh of the 88 awrehaata par
+tleiyating In the eontoot Is sap
+plied with official entry blanks.
+Frognootlestors have nntll p. m.
+Friday to fU e*t their Masks
+and have thsas In the Trlbnne of-
+NICHOLSON LAUDS
+RECOGNITION OF
+CHILD AH) NEEDS
+Speaks at Second Session of N
+D. Social Workers in Man
+dan Monday
+JUDGE HUTCHINSON TALKS
+Reviews 8 Years of Juvenile
+Work in District Group
+Hears Father Ryan
+Lauding state and federal govern
+ments for recognising need for aid to
+dependent children, L. I. Nicholson of
+the state public welfare board told
+North Dakota social workers Monday
+no better Investment could be made
+than in the nation's future citizens.
+Opening the second session of the
+state conference of social work
+Nicholson outlined the state and fed
+eral governments' work in aiding chil
+dren to live decent, normal lives in
+typical American homes. There are
+more than a million children in the
+United States who are to be provided
+care in their own homes under terms
+of the social security act, he said,
+District Judge William Hutchin
+son of Wahpeton reviewed the last
+eight years of juvenile work In the
+third district for case workers during
+Which period he declared 1,607 cases
+Involving 2,820 children had been
+handled in his court.
+The aim of the juvenile program
+is to rehabilitate the home and re
+build the community where delin
+quency and pre-delinquency grow up,
+the Judge asserted. He explained
+patrol and temporary guardianship
+system under supervision of his court
+usee ministers and businessmen of the
+community as advisors to children.
+The three-day session opened Sun
+tiNLwMa mther Vincent J, Ryan,
+Fargo, declared the "iMht lebor
+to a living wage is not a right de
+rived through statute." It is an in
+alienable right that rests upon the
+fundamental principles of national
+Justice, he asserted.
+"Hie wealth produced by Industry
+id business Is a Joint product of
+capital and labor. It Is self-evident
+that labor is entitled to at least the
+minimum necessary to support a fam
+ily In decency and to provide Insur
+ance for old age," the priest declared.
+ME KILLED AS
+PLANES COUJDE
+400 FEET IN AIR
+Tragedy Occurs Over Austin,
+Minn., Airport Boy, 1C,
+Piloting One Ship
+Austin, Minn., Oct. 4.—*—Three
+persons were killed by a plane collis
+ion in mid-air near the municipal air
+port.
+Planes piloted by Ephie Hull, about
+28, and Duane Wshner, about 18, both
+cf Austin, came together about 400
+feet In the air and tumbled to earth.
+Mrs. Hull, who was flying with her
+husband, was killed instantly. Hull
+and Wehner died a short time later
+n a local hospital.
+New York, Oct. 4.—*—Reports the
+exiled former British monarch, the
+Duke of Windsor and his American
+bride, might become part-time resi
+dents of the United States were re
+vived Monday as they planned an
+American visit.
+While the terse announcement of
+their projected trip here gave no
+hint of their plans beyond a study
+by Windsor of housing and working
+conditions In the United States, it
+•owed speculation that the ptln
+cipals in the meet famous romance
+of this generation might purchase a
+home in America.
+The definite announcement by the
+Duke in Paris, where the Duchess
+went on a shopping tour to add new
+creations to her already famous
+wardrobe, loosed a flood of specula
+tion on their plans and tho Implica
+tion of their visit
+It was taken as a matter of eourse
+at Baltimore that "Aunt Boosts," Mrs.
+D. B. Merryman, who returned only
+last week from Bfope. silent about
+her niece and her husband, had
+charge of axranpmente, but the
+question "where will they live while
+in Americaf,went unanswered.
+Just when the royal couple would
+arrive was not known—sometime this
+fall or winter—but society in Baltl
+re, Washington and New York
+smilingly contemplated the glittering
+possibilities of a merry social whirl
+enhanced by their presence.
+Three times since the World war,
+the Duke as the heir apparent to the
+British throne and the world's most
+eligible bachelor, visited Uw United
+PRICE FIVE CENTS
+Ecstatic
+i.
+V.
+•J*,
+America's first introduction to
+Austrian Hedy Klesler through
+the film, "Ecstasy," was marred
+by censors who thought her lack
+of clothes and celluloid love
+scenes a touch too torrid. Now
+Miss Kiesler is here in person
+(above as New York saw her) and
+nary a censor in sight. "Ecstasy"
+also disrupted her marriage to
+FHts Mandel, munitions maker.
+No Southwestern
+Meeting: of NDEA
+New Salem, N. D., Oct. 4.—'There
+will be no meeting of the South
+western division of the North Dakota
+Educational association this fall, W.
+L.
+Jacobson, secretary-treasurer, an
+nounced here.
+The convention was to have been
+held In Mandan, Jacobson urged that
+all teachers In the area attend the
+state convention in Minot Oct. 27-29,
+the golden jubilee meeting of the
+state organisation.
+Other officers of the Southwest
+em division are R. J. Hanson, Dick
+inson, president, and Miss Ruth Tay
+lor, Dunn Center, vice president.
+Society Smiles in Anticipation
+As Windsors Plan Visit to U. S.
+The Weather
+Rain tonight or Tues
+day colder.
+ADDRESSES THRONG
+IN GRAND FORKS AT
+Says Crop Control Legislation
+Should Be Passed at 'Ear*
+liest Possible Moment'
+HITS AAA INVALIDATION
+Stresses Importance of Better
+Land Use Regrets Coming
+Through N. D. 'by Dark'
+By HAROLD OLIVER
+Grand Forks, N. D., Oct. 4.——In
+ar address strongly hinting at a spec
+ial session of congress, President
+Roosevelt asserted Monday surplus
+crop control legislation "ought to be
+passed at the earliest possible mo
+ment."
+Mentioning the supreme court—
+convening Monday for its fall term—
+for the first time on his western trip,
+he disagreed with its majority ruling
+invalidating the AAA form of produc
+tion control. He also quoted excerpts
+from a letter from a retired member
+of that court—John H. Clarke—saying
+ne saw "eye to eye" with the president
+as to his social-economic and peace
+program.
+The president spoke in dedicating a
+federally-sponsored grandstand at the
+fair grounds, coming here from Fort
+Peck dam, Mont., where he rebuked
+"Doubting Thomases" who have been
+critical of his objectives.
+Here's Text of Speech
+The text of the president's address
+follows:
+I regret that the necessities of the
+schedule brought me through the
+greater part of North Dakota by dark.
+Last night, however, I saw a portion
+of the drought area of eastern Mon
+tana—a situation akin to your*s is
+the western part of this state. We eaa
+at least be thankful that the rains and
+the ceope in this valley and. indeed,
+in the eastern part of both Dakota*
+and most of Minnesota, have been far
+more plentiful than last year.
+On this intensely interesting trip 1
+have had another view of that north
+ern "and western part of the United
+Mates which to so greatly dependant
+for its prosperity on agriculture and
+its sister, forestry. I am more than
+ever convinced of the lmportanoe cf
+continuing our national policy of
+working towards a better economy by
+stabilizing and Improving the life of
+the average family.
+Cites Three Sentencee
+received the other day a latter
+from one of the only two living former
+members of the supreme court of the
+United States.
+I have not asked his permission but
+I am certain that he will not mind
+my reading to you three sentences from
+his letters because they express so
+beautifully the thoughts of so many
+of us. He says:
+"In this seeson of grave reflection it
+gives me greatest comfort and hap
+piness to realize that politically and
+socially, through all my long life, my
+earnest sympathies have gone out and
+my earnest efforts have been exercised
+for the great numbers of my neigh
+bors who were living In Intolerable
+conditions while a few of us, under
+discriminating laws of our own mak
+ing, were enjoying much more than a
+fair share of the bounties of nature
+and governments.
+"The confidence that this has been
+and is unnecessary and socially un
+wise, and can and should be corrected
+in large measure by rational and social
+legislation, is at bottom the reason, my
+dear Mr. President, why I see eye to
+eye with you in your effort to accom
+plish in eight years what should have
+been in process of accomplishment
+through the last 40 or 50 years.
+"My conviction is definite that the
+most difficult charges for our poll
+(Continued on Page Two)
+U. S. Residents1
+DUCHESS OP WINDSOR
+eigner has been greeted with such
+acclaim.
+MAY OPEN NEW
+LIFE TO WINDSOR
+Paris, Oct. 4.—(#—The Duke of
+Windsor's intention to take his Amer
+ican bride to the United States to
+study labor problems in her native
+land was believed by foreign ob
+servers Monday to open a broad, new
+political life for the labor-minded for
+mer British emperor.
+The announcement that the Duke
+DUKE OF WINDSOR
+of housing and working conditions In
+Germany and the United States
+"soon" locoed a flood of speculation
+on Edward's future.
+Observers predicted the trip was
+certain to lift Edward from the lim
+ited social circle in which he has
+mingled since he abdicated the throne
+last December to marry the former
+Wallie Warfield, Baltimore-born di
+vorcee.
+With another week's stay In Paris
+his only known engagement, the
+duke is expected to start shortly on

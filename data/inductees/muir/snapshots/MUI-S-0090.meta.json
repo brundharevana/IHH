@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/jomu/planyourvisit/the-historic-home-of-john-muir.htm",
+  "fetch_url": "https://www.nps.gov/jomu/planyourvisit/the-historic-home-of-john-muir.htm",
+  "method": "http",
+  "fetched_at": "2026-10-15T04:17:25Z",
+  "sha256": "8ab0f017c9c068f80f71aad7fe7b3b5cda8ff87c61ec27aa894b85c287f72bb1",
+  "bytes": 5966,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/jomu/planyourvisit/the-historic-home-of-john-muir.htm"
+}

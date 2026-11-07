@@ -1,0 +1,10 @@
+{
+  "url": "https://blogs.loc.gov/loc/2016/03/a-voice-from-hoops-history/",
+  "fetch_url": "https://blogs.loc.gov/loc/2016/03/a-voice-from-hoops-history/",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:18:04Z",
+  "sha256": "415f0363ff885ad36d639c3bd94647781cb6c805e7ef9534d05e44a3a9711667",
+  "bytes": 13680,
+  "http_status": 200,
+  "final_url": "https://blogs.loc.gov/loc/2016/03/a-voice-from-hoops-history/"
+}

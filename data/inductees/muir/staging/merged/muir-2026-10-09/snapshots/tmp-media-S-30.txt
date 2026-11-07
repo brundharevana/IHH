@@ -1,0 +1,26 @@
+title: File:Muir & family c1888.jpg
+DateTime: 2010-08-05 22:50:40
+ObjectName: Muir & family c1888
+CommonsMetadataExtension: 1.2
+Categories: John Muir|PD US unpublished|1888 photographs|PD-US missing SDC copyright status
+ImageDescription: John Muir with wife (Louisa Wanda Strentzel) and children Wanda &amp; Helen
+DateTimeOriginal: circa 1888
+date QS:P,+1888-00-00T00:00:00Z/9,P1480,Q5727902
+Credit: Holt-Atherton Special Collections, University of the Pacific Library
+Artist: JG Lemon
+Permission: Public domainPublic domainfalsefalse
+
+This work is not known to have been published prior to January 1, 2003, and is currently in the public domain in the United States because it meets one of the following conditions:
+
+its author died before 1956;
+
+the death date of its author is not known, and it was created before 1906;
+
+it is an anonymous work, a pseudonymous work, or a work made for hire, and it was created before 1906.
+
+The above provisions are contained in 17 U.S.C. § 303. See also this page for more information.
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

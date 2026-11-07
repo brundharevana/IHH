@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_on_a_1966_stamp.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein_on_a_1966_stamp.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:21:59Z",
+  "sha256": "d2a52b92e36c6fae8b2daec72f3bacdad8424d3a32d2439be5f213af48252af4",
+  "bytes": 548,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein_on_a_1966_stamp.jpg&format=json"
+}

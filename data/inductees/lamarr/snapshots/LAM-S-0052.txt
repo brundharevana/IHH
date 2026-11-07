@@ -1,0 +1,346 @@
+_version_: 1859925105486856192
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82016181/1937-09-20/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82016181/1937-09-20/ed-1/
+batch[0]: dlc_bullock_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json
+created_published[0]: Washington, D.C., September 20, 1937
+date: 1937-09-20
+date_issued: 1937-09-20
+dates[0].1937-09-20: https://www.loc.gov/search/?dates=1937-09-20/1937-09-20&fo=json
+dates_of_publication: 1921-1972
+description[0]: Washington, D.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-09-28T04:47:48.729Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_bullock_ver01/data/sn82016181/00516999603/1937092001/1937092001_1.xml#ndnp/dlc-2020_now
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2020_now
+group[1]: library-of-congress-washington-dc-awardee-8
+hassegments: true
+id: http://www.loc.gov/item/sn82016181/1937-09-20/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bullock_ver01:data:sn82016181:00516999603:1937092001:0637/full/pct:6.25/0/default.jpg#h=332&w=229
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bullock_ver01:data:sn82016181:00516999603:1937092001:0637/full/pct:12.5/0/default.jpg#h=665&w=458
+index: 1
+item.batch[0]: dlc_bullock_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington, D.C., September 20, 1937
+item.date: 1921
+item.date_issued: 1937-09-20
+item.dates[0]: 1937-09-20
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn82016181
+item.location[0]: Washington (D.C.)
+item.medium: 36 pages
+item.newspaper_title[0]: The Washington daily news
+item.notes[0]: Daily (except Sunday)
+item.notes[1]: Vol. 1, no. 1 (Nov. 8, 1921)-v. 51, no. 211 (July 12, 1972).
+item.notes[2]: Nov. 8, 1971 issue called also "Golden anniversary edition."
+item.notes[3]: "Independent."
+item.notes[4]: Also issued on microfilm from the Library of Congress Photoduplication Service and Microfilming Corp. of America.
+item.notes[5]: Evening star (Washington, D.C.) 2331-9968 (DLC)sn 83045462 (OCoLC)2260929
+item.notes[6]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_bullock_ver01/data/sn82016181/00516999603/1937092001/1937092001_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82016181/marcxml
+item.place_of_publication: Washington, D.C.
+item.raw_lccn: sn 82016181
+item.reel_numbers[0]: 00516999603
+item.source_group: ndnp/dlc-2020_now
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: The Washington daily news (Washington, D.C.), September 20, 1937
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn82016181
+location[0]: washington d.c.
+location[1]: district of columbia
+location[2]: washington
+location[3]: united states
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+medium: 36 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Washington daily news
+notes[0]: Daily (except Sunday)
+notes[1]: Vol. 1, no. 1 (Nov. 8, 1921)-v. 51, no. 211 (July 12, 1972).
+notes[2]: Nov. 8, 1971 issue called also "Golden anniversary edition."
+notes[3]: "Independent."
+notes[4]: Also issued on microfilm from the Library of Congress Photoduplication Service and Microfilming Corp. of America.
+notes[5]: Evening star (Washington, D.C.) 2331-9968 (DLC)sn 83045462 (OCoLC)2260929
+notes[6]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+number[0]: sn82016181
+number[1]: 1
+number[2]: 00516999603
+number_edition[0]: 1
+number_lccn[0]: sn82016181
+number_reel[0]: 00516999603
+numeric_shelf_id: 193709201
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_bullock_ver01/data/sn82016181/00516999603/1937092001/1937092001_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82016181/marcxml
+partof[0].count: 9019
+partof[0].title: the washington daily news (washington, d.c.) 1921-1972
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+washington+daily+news+%28washington,+d.c.%29+1921-1972&fo=json
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the washington daily news (washington, d.c.) 1921-1972
+place_of_publication: Washington, D.C.
+publication_frequency[0]: daily
+raw_lccn: sn 82016181
+reel_numbers[0]: 00516999603
+resources[0].files: 36
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bullock_ver01:data:sn82016181:00516999603:1937092001:0637/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82016181/1937-09-20/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn82016181, 1937-09-20, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2020_now
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: district of columbia
+subject[1]: washington
+subject[2]: united states
+subject[3]: newspapers
+subject[4]: washington (d.c.)
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+timestamp: 2026-03-17T15:53:07.191Z
+title: The Washington daily news (Washington, D.C.), September 20, 1937
+type[0]: issue
+url: https://www.loc.gov/item/sn82016181/1937-09-20/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_bullock_ver01/data/sn82016181/00516999603/1937092001/0637.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82016181/1937-09-20/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bullock_ver01:data:sn82016181:00516999603:1937092001:0637/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_bullock_ver01/data/sn82016181/00516999603/1937092001/0637.pdf
+resources[0].segment_count: 36
+resources[0].url: https://www.loc.gov/resource/sn82016181/1937-09-20/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1937, September 20) The Washington daily news. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82016181/1937-09-20/ed-1/.
+cite_this.chicago: The Washington daily news. (Washington, DC), Sep. 20 1937. https://www.loc.gov/item/sn82016181/1937-09-20/ed-1/.
+cite_this.mla: The Washington daily news. (Washington, DC) 20 Sep. 1937, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn82016181/1937-09-20/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_bullock_ver01/data/sn82016181/00516999603/1937092001/0637.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_bullock_ver01/data/sn82016181/00516999603/1937092001/0637.xml&format=alto_xml&full_text=1
+full_text:
+SCRIPPS HOWARD
+Testerday
+High
+72
+Last Night
+Low
+Today
+9:30
+10:30
+Noon
+45
+58
+60
+.63
+1:00 p. m. .65
+The
+WE
+=aponi
+DAASE2
+OWS
+Served by Four Trunk Wires of United Press Associations
+Forecast
+Fair tonight
+and tomorrow.
+Continued cool
+with
+gentle
+northeast
+winds.
+Details on
+Page 29.
+16th Year
+—No. 272
+2 Cents
+WASHINGTON, D. C., MONDAY, SEPTEMBER 20, 1937
+Entered
+Second
+Class
+Matter by D C. Post Otfice
+HOME
+EDITION
+U. S. Envoys Flee Nanking
+After Japan Warns City’s
+Destruction Begins Tonight
+Mellon’s Will Gives
+Millions to Charity
+By United Press
+PITTSBURGH, Sept. 20—A 12-page
+will, giving virtually all the Andrew
+W. Mellon estate to charitable and
+educational institutions, was filed in
+Allegheny County today.
+A memorandum to the will gave
+$50,000 for use of persons employed
+in his Pittsburgh and Washington
+residences. Executors are empowered
+to increase these sums to employes in
+an amount not to exceed 20 per cent.
+Shepard's statement pointed out
+that since Mellon’s will was executed,
+all of his works suitable for exhibi
+tion in the National Gallery of Art,
+which will be built in Washington to
+house Mellon’s $50,000,000 collection,
+have been deeded to the A. W. Mel
+lon Educational and Charitable Trust.
+Six Die and 35 Are Hurt
+in Week-End Accidents
+Week-end traffic accidents killed six persons in
+nearby Maryland and Virginia, two of whom drowned
+today when their auto crashed into a concrete bridge
+and plunged into Four Mile Run creek near Alexandria.
+Thirty-five others
+were
+injured,
+several critically, here and nearby,;
+tho few serious crashes were report-
+ed in the District. i
+The dead:
+1
+Mrs. Joan Darby, 34, of 1440 20th-st'
+nw.
+Seabod Brown, 22. of 330 M-st sw.
+Marion Vass, 15, of 1023 Madison-st,
+Alexandria.
+J. B. Redman, 56, of Jainesville, Va.
+O. B. Allison, 60, of Leesburg. Va
+Ashby Quade, 52, of Oakley, Md.
+Mrs. Darby died at 6:30 a. m. today
+Continued Cool
+Washington’s weather will continue
+cool and fair today and tomorrow, the
+Weather Bureau reports. Lowest tem
+perature of the last 24 hours was 45
+at 6:30 a. m. today.
+DMXX!!
+
+$35
+it
+I
+i
+Begin Today
+on Page 13
+‘War
+Madness1
+A study of the merchandizing of
+death, based on revelations made
+at the Senate munitions inquiry.
+From the book written by
+Stephen and Joan Raushenbush.
+i
+from a skull fracture received yester
+day when the auto in which she was
+(Continued on Page 29)
+LOST AND FOUND
+Additional Ads on Pace 30
+Ads Accepted Up to 11:30 a. m.
+CAT—Male, black stripe with white front:
+name "Crybaby.”
+Reward.
+ADams 5539.
+DIAMOND ring.
+rest room Garfinckel’s.
+MEt. 1881
+lady's, platinum:
+ladies'
+Generous reward.
+part collie;
+I DOG-Brown. male; part collie; strayed
+Aug. 28th; child's pet; SHepherd 1476.
+*1
+The World’s Tempo
+Loyalists are ousted from the League Council. The
+vote of South American democracies was the de
+ciding factor. Page 3.
+Berlin “enjoys” a make-believe air raid. Page 12.
+Ray Clapper sends in his first piece from Geneva.
+He finds pessimism is the keynote. Page 19.
+Editorial, “The Real Terms of Peace,” appears on
+Page 19, based on Secretary Hull's speech on the
+Story on Hull’s speech, Page 11.
+way to peace.
+Combined fleets hunt subs. Page 3.
+Sailor foils a plot to steal a sub. Page 12.
+Read “War Madness” on Page 13.
+Bombing to Be Most
+Terrible in History,
+Observers Say
+By United Press
+NANKING, Sept. 20—The United States embassy
+staff moved today to the gunboat Luzon, anchored in
+the river, as a result of the Japanese warning that
+Nanking would be destroyed by aerial bombs.
+The Luzon will remain in mid-stream until tomorrow
+morning, when it probably will go up river for safety.
+The bombing was to begin at Tuesday noon, Shanghai
+time, or Monday midnight, Washington time.
+OTHER NATIONALS REMAIN
+The Chinese foreign office announced that the British
+and Soviet embassies had given notice of their intention
+of remaining. The French, German and Italian embas
+sies are awaiting instructions from their governments.
+The Americans were the only ones to leave their em
+bassy today.
+Chinese officials resented the evacuation. One high
+(Continued on Page 29)
+WWW
+wo
+Br News A' mf
+ROMANCE WORE THIN—This is Hedi Kiesler, the star of
+the film “Ecstasy,” who has filed suit for divorce from her
+munitions-making Austrian husband, Fritz Mandle.
+The
+husband has filed for divorce, too. Her desire to make more
+films was said to be the reason for the split.

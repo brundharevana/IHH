@@ -1,0 +1,190 @@
+_version_: 1731573391077408768
+access_restricted: false
+aka[0]: http://www.loc.gov/pictures/collection/pgz/item/2002720824/
+aka[1]: http://www.loc.gov/item/2002720824/
+aka[2]: http://www.loc.gov/pictures/item/2002720824/
+aka[3]: https://hdl.loc.gov/loc.pnp/ppmsca.01198
+aka[4]: http://www.loc.gov/resource/ppmsca.01198/
+aka[5]: http://lccn.loc.gov/2002720824
+call_number: LOT 13411, no. 1198 [item] [P&P]
+created: 2016-04-20 10:34:31
+created_published[0]: [between ca. 1890 and ca. 1900].
+created_published_date: [between ca. 1890 and ca. 1900].
+date: 1890-01-01
+dates[0].1890: https://www.loc.gov/search/?dates=1890/1890&fo=json
+description[0]: 1 photomechanical print : photochrom, color.
+digital_id[0]: ppmsca 01198 //hdl.loc.gov/loc.pnp/ppmsca.01198
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-09-01T22:59:47.690Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/pgz/item/2002720824/#pgz
+extract_urls[1]: http://lccn.loc.gov/2002720824#catalog-split-11
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Photochrom prints--Color--1890-1900.
+genre[0]: Photochrom prints--Color--1890-1900
+group[0]: pgz
+group[1]: catalog-split-11
+group[2]: catalog
+group[3]: photochrom
+group[4]: main-catalog-split-11
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2002720824/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198_150px.jpg#h=111&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198t.gif#h=111&w=150
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198r.jpg#h=473&w=640
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198v.jpg#h=756&w=1024
+index: 1
+item.call_number: LOT 13411, no. 1198 [item] [P&P]
+item.control_number: 2002720824
+item.created: 2016-04-20 10:34:31
+item.created_published: [between ca. 1890 and ca. 1900].
+item.created_published_date: [between ca. 1890 and ca. 1900].
+item.date: [between ca. 1890 and ca. 1900].
+item.digital_id[0]: ppmsca 01198 //hdl.loc.gov/loc.pnp/ppmsca.01198
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: //www.loc.gov/pictures/related/?fi=format&q=Photochrom%20prints--Color--1890-1900.&co=pgz
+item.formats[0].title: Photochrom prints--Color--1890-1900.
+item.genre[0]: Photochrom prints--Color--1890-1900
+item.id: 2002720824
+item.link: //www.loc.gov/pictures/item/2002720824/
+item.marc: //www.loc.gov/pictures/item/2002720824/marc/
+item.medium[0]: 1 photomechanical print : photochrom, color.
+item.medium_brief: 1 photomechanical print :
+item.mediums[0]: 1 photomechanical print : photochrom, color.
+item.modified: 2016-04-20 10:34:32
+item.notes[0]: Title from the Detroit Publishing Co., catalogue J foreign section. Detroit, Mich. : Detroit Photographic Company, 1905.
+item.notes[1]: Print no. "1813".
+item.notes[2]: Forms part of: Views of Germany in the Photochrom print collection.
+item.number_former_id[0]: https://www.loc.gov/item/2002720824
+item.number_former_id[1]: https://www.loc.gov/item/12951033
+item.part_of: Views of Germany
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-DIG-ppmsca-01198 (digital file from original)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/ppmsca.01198
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198r.jpg
+item.sort_date: 1890
+item.source_collection[0]: Views of Germany
+item.source_created: 2002-09-30 00:00:00
+item.source_modified: 2009-11-04 10:45:55
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198_150px.jpg
+item.title: [Ulm, Wurtemburg, Germany]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2002720824
+link: //www.loc.gov/pictures/item/2002720824/
+marc: //www.loc.gov/pictures/item/2002720824/marc/
+medium[0]: 1 photomechanical print : photochrom, color.
+medium_brief: 1 photomechanical print :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-20 10:34:32
+notes[0]: Title from the Detroit Publishing Co., catalogue J foreign section. Detroit, Mich. : Detroit Photographic Company, 1905.
+notes[1]: Print no. "1813".
+notes[2]: Forms part of: Views of Germany in the Photochrom print collection.
+number[0]: 2002720824
+number[1]: http://www.loc.gov/item/12951033
+number[2]: 2009-11-04t10:45:55
+number[3]: http://www.loc.gov/item/2002720824
+number_former_id[0]: http://www.loc.gov/item/2002720824
+number_former_id[1]: http://www.loc.gov/item/12951033
+number_lccn[0]: 2002720824
+number_source_modified[0]: 2009-11-04t10:45:55
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2002720824/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2002720824/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2002720824/dc
+partof[0].count: 1214
+partof[0].title: lot 13411
+partof[0].url: https://www.loc.gov/search/?fa=partof:lot+13411&fo=json
+partof[1].count: 7501
+partof[1].title: photochrom prints
+partof[1].url: https://www.loc.gov/collections/photochrom-prints/?fo=json
+partof[2].count: 910731
+partof[2].title: prints & photographs online catalog (library of congress)
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[3].count: 1162489
+partof[3].title: prints and photographs division
+partof[3].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[4].count: 1910629
+partof[4].title: catalog
+partof[4].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.group_record: //www.loc.gov/pictures/search/?q=LOT 13411&fi=number&op=PHRASE&va=exact&co=coll&sg=true
+related.neighbors: //www.loc.gov/pictures/related/?&co=pgz&pk=2002720824&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-DIG-ppmsca-01198 (digital file from original)
+resource_links[0]: //hdl.loc.gov/loc.pnp/ppmsca.01198
+resources[0].caption: digital file from original
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.01198/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Photochrom Collection - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.459465
+shard: 00
+shelf_id: LOT 13411, no. 1198 [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1890
+source_collection: Views of Germany
+source_created: 2002-09-30 00:00:00
+source_modified: 2009-11-04 10:45:55
+subject[0]: photochrom prints
+subject[1]: color
+subjects[0].color: https://www.loc.gov/search/?fa=subject:color&fo=json
+subjects[1].photochrom prints: https://www.loc.gov/search/?fa=subject:photochrom+prints&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198_150px.jpg
+timestamp: 2022-04-30T22:17:49.659Z
+title: [Ulm, Wurtemburg, Germany]
+unrestricted: true
+url: https://www.loc.gov/item/2002720824/
+resources[0].caption: digital file from original
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 29263855
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/ppmsca/01100/01198u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 111
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 5011
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 111
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 13642
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198t.gif
+resources[0].files[0][2].width: 150
+resources[0].files[0][3].height: 473
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 75865
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198r.jpg
+resources[0].files[0][3].width: 640
+resources[0].files[0][4].height: 756
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 186640
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198v.jpg
+resources[0].files[0][4].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/01100/01198_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.01198/
+cite_this.apa: (ca. 1890) Ulm, Wurtemburg, Germany. , ca. 1890. [Between and Ca. 1900] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2002720824/.
+cite_this.chicago: Ulm, Wurtemburg, Germany. , ca. 1890. [Between and Ca. 1900] Photograph. https://www.loc.gov/item/2002720824/.
+cite_this.mla: Ulm, Wurtemburg, Germany. [Between and Ca. 1900] Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2002720824/>.

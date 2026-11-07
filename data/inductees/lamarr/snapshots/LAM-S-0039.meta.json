@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/38919",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=38919",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:43:11Z",
+  "sha256": "ba9d9771fac7f80417371084b9cee0495dd44db613831c94656227db4c647440",
+  "bytes": 7701,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=38919"
+}

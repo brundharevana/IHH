@@ -1,0 +1,886 @@
+_version_: 1844554342704611328
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn92070146/1914-12-24/ed-1/
+aka[1]: http://www.loc.gov/resource/sn92070146/1914-12-24/ed-1/
+batch[0]: curiv_mesquite_ver02
+call_number[0]: Newspaper
+call_number[1]: F868.I2
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/california/
+composite_location[2]: 2/united states/california/imperial/
+composite_location[3]: 3/united states/california/imperial/el centro/
+contributor_names[0]: University of California, Riverside; Riverside, CA
+contributors[0].university of california, riverside; riverside, ca: https://www.loc.gov/search/?fa=contributor:university+of+california,+riverside%3B+riverside,+ca&fo=json
+created_published[0]: El Centro, Calif., December 24, 1914
+date: 1914-12-24
+date_issued: 1914-12-24
+dates[0].1914-12-24: https://www.loc.gov/search/?dates=1914-12-24/1914-12-24&fo=json
+dates_of_publication: 1907-current
+description[0]: El Centro, Calif.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-09-02T13:57:44.639Z
+extract_urls[0]: file:/service/ndnp//curiv/batch_curiv_mesquite_ver02/data/sn92070146/00414189453/1914122401/1914122401_1.xml#ndnp/curiv
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Electronic journals
+genre[1]: Periodicals
+genre[2]: Newspapers
+group[0]: ndnp/curiv
+group[1]: university-of-california-riverside-riverside-ca-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn92070146/1914-12-24/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mesquite_ver02:data:sn92070146:00414189453:1914122401:1021/full/pct:6.25/0/default.jpg#h=466&w=371
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mesquite_ver02:data:sn92070146:00414189453:1914122401:1021/full/pct:12.5/0/default.jpg#h=932&w=743
+index: 1
+item.batch[0]: curiv_mesquite_ver02
+item.call_number[0]: Newspaper
+item.call_number[1]: F868.I2
+item.contributor_names[0]: University of California, Riverside; Riverside, CA
+item.created_published[0]: El Centro, Calif., December 24, 1914
+item.date: 1907
+item.date_issued: 1914-12-24
+item.dates[0]: 1914-12-24
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Electronic journals
+item.genre[1]: Periodicals
+item.genre[2]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn92070146
+item.location[0]: Imperial County (Calif.)
+item.location[1]: San Diego County (Calif.)
+item.location[2]: California--Imperial County
+item.location[3]: California--San Diego County
+item.medium: 6 pages
+item.newspaper_title[0]: Imperial Valley press
+item.notes[0]: Daily, Sept. 30, 1911-
+item.notes[1]: Vol. 7, no. 14 (July 17, 1907)-
+item.notes[2]: Published as: Imperial Valley press and El Centro progress, Jan. 16-Oct. 25, 1922.
+item.notes[3]: Published combined issues on holidays: The morning post-Imperial Valley press, Nov. 28, 1935 and Dec. 25, 1935. On Sundays published as: The Post-press, Jan. 12, 1936-Oct. 30, 1960; Imperial Valley news-press, Nov. 6, 1960-Feb. 26/27, 1967; Imperial Valley press/The Brawley news, Oct. 2, 1988-June 7, 1992; published as combined Sat./Sun. ed., Apr. 29/30, 1961-
+item.notes[4]: Sunday issues have their own numbering.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Master negatives are available for duplication from: California Newspaper Microfilm Archive; positive copies may be purchased by the reel; for further information consult the CNMA at: http://cbsr.ucr.edu
+item.notes[7]: Oct. 7, 1993.
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//curiv/batch_curiv_mesquite_ver02/data/sn92070146/00414189453/1914122401/1914122401_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn92070146/marcxml
+item.other_title[0]: Imperial Valley press and El Centro progress
+item.other_title[1]: Post-press
+item.other_title[2]: Imperial Valley news-press
+item.other_title[3]: Imperial Valley press/Brawley news
+item.other_title[4]: Morning post-Imperial Valley press
+item.other_title[5]: At head of title: Extra Imperial Valley press
+item.place_of_publication: El Centro, Calif.
+item.raw_lccn: sn 92070146
+item.reel_numbers[0]: 00414189453
+item.source_group: ndnp/curiv
+item.subjects[0]: Imperial County (Calif.)--Newspapers
+item.subjects[1]: San Diego County (Calif.)--Newspapers
+item.subjects[2]: California--Imperial County
+item.subjects[3]: California--San Diego County
+item.subjects[4]: United States--California--Imperial--El Centro
+item.title: Imperial Valley press (El Centro, Calif.), December 24, 1914
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn92070146
+location[0]: california
+location[1]: imperial county
+location[2]: san diego county
+location[3]: imperial
+location[4]: el centro
+location[5]: united states
+location_city[0]: el centro
+location_country[0]: united states
+location_county[0]: imperial
+location_state[0]: california
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].el centro: https://www.loc.gov/search/?fa=location:el+centro&fo=json
+locations[2].imperial: https://www.loc.gov/search/?fa=location:imperial&fo=json
+locations[3].imperial county: https://www.loc.gov/search/?fa=location:imperial+county&fo=json
+locations[4].san diego county: https://www.loc.gov/search/?fa=location:san+diego+county&fo=json
+locations[5].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].el centro: https://www.loc.gov/search/?fa=location_city:el+centro&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].imperial: https://www.loc.gov/search/?fa=location_county:imperial&fo=json
+locations_state[0].california: https://www.loc.gov/search/?fa=location_state:california&fo=json
+medium: 6 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Imperial Valley press
+notes[0]: Daily, Sept. 30, 1911-
+notes[1]: Vol. 7, no. 14 (July 17, 1907)-
+notes[2]: Published as: Imperial Valley press and El Centro progress, Jan. 16-Oct. 25, 1922.
+notes[3]: Published combined issues on holidays: The morning post-Imperial Valley press, Nov. 28, 1935 and Dec. 25, 1935. On Sundays published as: The Post-press, Jan. 12, 1936-Oct. 30, 1960; Imperial Valley news-press, Nov. 6, 1960-Feb. 26/27, 1967; Imperial Valley press/The Brawley news, Oct. 2, 1988-June 7, 1992; published as combined Sat./Sun. ed., Apr. 29/30, 1961-
+notes[4]: Sunday issues have their own numbering.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Master negatives are available for duplication from: California Newspaper Microfilm Archive; positive copies may be purchased by the reel; for further information consult the CNMA at: http://cbsr.ucr.edu
+notes[7]: Oct. 7, 1993.
+number[0]: 00414189453
+number[1]: sn92070146
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn92070146
+number_reel[0]: 00414189453
+numeric_shelf_id: 191412241
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//curiv/batch_curiv_mesquite_ver02/data/sn92070146/00414189453/1914122401/1914122401_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn92070146/marcxml
+other_title[0]: Imperial Valley press and El Centro progress
+other_title[1]: Post-press
+other_title[2]: Imperial Valley news-press
+other_title[3]: Imperial Valley press/Brawley news
+other_title[4]: Morning post-Imperial Valley press
+other_title[5]: At head of title: Extra Imperial Valley press
+partof[0].count: 10381
+partof[0].title: imperial valley press (el centro, calif.) 1907-current
+partof[0].url: https://www.loc.gov/search/?fa=partof:imperial+valley+press+%28el+centro,+calif.%29+1907-current&fo=json
+partof[1].count: 3210944
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232456
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: imperial valley press (el centro, calif.) 1907-current
+place_of_publication: El Centro, Calif.
+publication_frequency[0]: daily
+raw_lccn: sn 92070146
+reel_numbers[0]: 00414189453
+resources[0].files: 6
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mesquite_ver02:data:sn92070146:00414189453:1914122401:1021/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn92070146/1914-12-24/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.3663845
+shard: 07
+shelf_id: sn92070146, 1914-12-24, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/curiv
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: imperial county (calif.)
+subject[1]: california
+subject[2]: imperial county
+subject[3]: san diego county (calif.)
+subject[4]: san diego county
+subject[5]: newspapers
+subject[6]: imperial
+subject[7]: el centro
+subject[8]: united states
+subject_headings[0]: Imperial County (Calif.)--Newspapers
+subject_headings[1]: San Diego County (Calif.)--Newspapers
+subject_headings[2]: California--Imperial County
+subject_headings[3]: California--San Diego County
+subject_headings[4]: United States--California--Imperial--El Centro
+subjects[0].california: https://www.loc.gov/search/?fa=subject:california&fo=json
+subjects[1].el centro: https://www.loc.gov/search/?fa=subject:el+centro&fo=json
+subjects[2].imperial: https://www.loc.gov/search/?fa=subject:imperial&fo=json
+subjects[3].imperial county: https://www.loc.gov/search/?fa=subject:imperial+county&fo=json
+subjects[4].imperial county (calif.): https://www.loc.gov/search/?fa=subject:imperial+county+%28calif.%29&fo=json
+subjects[5].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[6].san diego county: https://www.loc.gov/search/?fa=subject:san+diego+county&fo=json
+subjects[7].san diego county (calif.): https://www.loc.gov/search/?fa=subject:san+diego+county+%28calif.%29&fo=json
+subjects[8].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+timestamp: 2025-09-29T00:01:36.943Z
+title: Imperial Valley press (El Centro, Calif.), December 24, 1914
+type[0]: issue
+url: https://www.loc.gov/item/sn92070146/1914-12-24/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_mesquite_ver02/data/sn92070146/00414189453/1914122401/1021.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn92070146/1914-12-24/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mesquite_ver02:data:sn92070146:00414189453:1914122401:1021/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/curiv/batch_curiv_mesquite_ver02/data/sn92070146/00414189453/1914122401/1021.pdf
+resources[0].segment_count: 6
+resources[0].url: https://www.loc.gov/resource/sn92070146/1914-12-24/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1914, December 24) Imperial Valley press. Retrieved from the Library of Congress, https://www.loc.gov/item/sn92070146/1914-12-24/ed-1/.
+cite_this.chicago: Imperial Valley press. (El Centro, CA), Dec. 24 1914. https://www.loc.gov/item/sn92070146/1914-12-24/ed-1/.
+cite_this.mla: Imperial Valley press. (El Centro, CA) 24 Dec. 1914, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn92070146/1914-12-24/ed-1/.
+
+segment_id: /service/ndnp/curiv/batch_curiv_mesquite_ver02/data/sn92070146/00414189453/1914122401/1021.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_mesquite_ver02/data/sn92070146/00414189453/1914122401/1021.xml&format=alto_xml&full_text=1
+full_text:
+International News Service
+And Illustrations
+Gives Fully the Latest Facts
+VOLUME xrv
+Imperial County Passes
+34 Counties In Population
+The rise of Imperial county in rela
+tive position in California is the most
+amazing colonization fact in the
+state.
+Fourteen years ago there was not
+a resident voter in what now consti
+tutes this county. Today out of 120
+voters in the state one lives in this
+county, according to the figures on
+registration just issued by the state
+printer.
+In the fourteen years this county
+has been rapidly rushing past other
+counties in population, and today it
+lias passed thirty-four counties, and
+fWrmjdlfristmas In All
+Again comes the period of alleged
+place and good will.
+In Europe the human butchery will
+go on uninterrupted and in America
+alone can the spirit of Christmas find
+its due expression.
+Let us, then, make a special ef
+fort in this land to keep alive interest
+in and benevolence toward all hu
+manity.
+It is out of the ordinary for us to
+have in this peaceful and productive
+valley need for relieving actual dis-!
+tress, but the war has brought priva- j
+t;on even in this country, and as a re
+sult there are so many laboring people
+who have come to the valley in search
+of work that all could not find places,
+and it behooves every family to cast 1
+an eye about its neighborhood to see 1
+that any possible suffering is relieved.
+A great deal of charitable work is i
+being done by individuals and through
+the churches and other societies, but it
+is a year that calls for an unusual
+amount of this work, and especially
+at this period should the hearts of all
+be touched.
+Let tomorrow be a day of happr j
+ness and may all share in its pleas-;
+ures.
+Conforming to practice, there will
+be no issue of the “Press” tomorrow
+evening, the staff taking the day for
+the pleasure which they wish for all.
+Union Rescue Mission.
+A large Christmas dinner will be
+given to poor men at 11:30 tomorrow.
+The mission has been generously as- j
+sisted by the Associated Charities, by
+merchants and others. We wish you
+a happy Christmas and a prosperous
+New Year. D. O’CONNOR,
+Superintendent.
+Ten Thousand Club.
+Members of the Women’s Ten Thou
+sand Club have filled many stockings
+with candies, fruits and toys, and these
+will be distributed among the chil
+dren who might otherwise be over
+looked by Mrs. Flora McKusick of the
+philanthropic department of the club.
+Great Floods Throughout
+All Southern Arizona
+Reports from southern Arizona in
+dicate that the storm which passed
+over the valley developed great pre
+cipitation in that state, giving the
+heaviest downpour and floods known
+for years.
+That being the case, Bill Williams
+Fork, the Hassayampa, Salt and Gila
+rivers will be discharging a big vol
+ume of water into the Colorado for
+some days, and a quick rise and sub
+sidence of that stream may be looked
+for.
+This will differ from the summer
+flood, as it will be of short duration,
+and probably will not last long enough
+to flood the delta or let any part of
+the water find its way to the val
+ley.
+No damage is anticipated from this
+flood.
+Tucson, Ariz., Dec. 24.—A1l traffic
+on the Southern Pacific main line was
+halted last night, when a culvert at!
+Millito, nine miles west of here, went
+out about 8 o’clock, as’ a result of
+the strain caused by the flood in this
+country. Considerable other damage
+also is reported, such as track being
+washed out between here and Rillito.
+As soon as it is possible wrecking
+VALLEY PRESS FOUNDED MAY, 1»01
+there are but twenty-three counties of
+greater population.
+At no period has the county been
+growing so rapidly as it now is, and a
+conservative estimate of the growth of
+the counjy is that it will double in
+population in the next four years.
+When it shall have doubled, the coun
+ty will have passed eleven more coun
+ties and will rank as the thirteenth
+in the state, it now ranks as the
+twenty-fourth in a total of fifty-eight
+counties.
+The following list shows the order
+of registration in the state and the
+position Imperial county holds now
+and will hold within four years: Los
+Christian Church.
+The annual Christmas entertainment
+of the Sunday school of the Christian
+church will be held this evening at 7
+o’clock. The program will be fur
+nished by the children of the school
+and by Miss Bertha McGrew, a, pupil
+in the School of Oratory of the Uni
+versity of Southern California, who
+will recite several Christmas stories.
+This is the program:
+Song, “All Hail the Power of Je
+sus’ Name” Audience
+“Happy Christmas to All”.lsabel Ross
+Speech Selwin Bowles
+Speech Lucile Henley
+Scripture and Song, “Praise Him”
+Primary Class
+Story, “Why the Chimes Rang”..
+Miss Bertha McGrew
+Exercise, “Set the Bells Ringing”
+Some Primary Children
+Recitation Clement Cass
+Recitation Robert Vaile
+Exercise, three small girls and
+primary class in song and
+recitation, “We Are Only Lit
+tle Children.”
+Recitation Lyndon Shafer
+Recitation Leo Adams
+Recitation Inez Weir
+Song. .Miss Lois Leffingwell’s Class
+Recitation Dorothy Adams
+Recitation Billy Burke Poison
+Story, “The Ruggles’ Dinner Par
+ty” Miss McGrew
+Recitation Anna Egerer
+Recitation Bessie Weist
+Song, “Mrs. O’Flannigan’s Nine”
+Nine boys and girls
+M. E. Church.
+Christmas at the M. E. church will
+be observed this afternoon at 2:30
+by the Primary department of the
+Sunday School entertaining with an
+unique program. The decorations rep
+resent an Esquimo hut covered with
+snow, with drifts of snow on all sides
+and two Christmas trees.
+Mrs. Delozier and Miss Watkins
+have spared no pains to make the
+afternoon one long remembered by the
+little folks.
+1 At 7:30 this evening the main Sun
+crew will be rushed to the accident,
+and the damage repaired.
+The Santa Cruz river has invaded
+buildings of all descriptions and driv
+en many persons to the roof tops.
+Two Mexicans were reported drowned.
+A tract of 30,000 acres, developed
+at a cost of $2,000,000, is inundated.
+Railroad men rescued five persons in
+I this section who had climbed a wind*
+j mill tower.
+A relief train was sent out here at
+2:30 o’clock this afternoon with doc-
+I tors and medical supplies to make its
+way as far as it could in the flood
+swept region.
+Torrents of rain falling almost con
+tinuously since Saturday last have
+flooded vast areas in this section of
+Arizona.
+The Santa Cruz river, ordinarily a
+dry bed, was a roaring watercourse
+a mile and a half wide today. Many
+houses and stores along its banks
+were wrecked or washed away, al
+though no lives were lost, according to
+reports up to noon.
+hTe desert country between this city
+and Phoenix is a veritable sea.
+Phoenix, Ariz., Dec. 24.—Several
+hundred head of cattle were drowned
+in floods caused by the heaviest rains
+in the history of this section of Ari
+nmmnMaißigy mss
+]t INDEPENDENT industrialpro<;-?ksT|^
+Angeles, San Francisco, Alameda, San
+Diego, Sacramento, Santa Clara, Fres
+no, San Bernardino, San Joaquin, Kern,
+Orange, Sonoma, (Imperial in 1918),
+Tulare, Riverside, Contra Costa, Hum
+boldt, Butte, Stanislaus Solano, San
+Mateo, Santa Cruz, Santa Barbara,
+Mendocino, (Imperial at present), Ma
+rin, Monterey, Napa, San Luis Obis
+po, Ventura, Placer, Siskiyou, Kings,
+Merced, Shasta, Yolo, Tehama, Ne
+vada, Yuba, Tuolumne, Glenn, Ma
+dera, Colusa, Calaveras, El Dorado,
+Amador, San Benito, Sutter, Lassen,
+Modoc, Lake, Inyo, Plumas, Mariposa,
+Trinity, Sierra, Del Norte, Mono and
+Alpine.
+oay school will give a program of
+songs and recitations. Each class will
+put on some kind of a stunt as the
+gifts are brought forward. Some of
+these are very original and comical.
+I These gifts will be distributed to the
+poor Christmas day.
+Christmas at St. Mary’s.
+First mass, 5:30. Second mass,
+10:30. The choir will render Leon
+ard’s “Mass in E Flat” at first mass:
+Gorza’s mass at 10:30; prelude and
+offertory, “Adeste Fidelis”; choral,
+Lenediction. Choral at 7:30.
+Fair Christmas.
+Los Angeles, Dec. 24. —The forecast
+for southern California is: Fair to
+i night and Friday.
+Christmas Weather.
+Washington, Dec. 24.—Sleighbells
+will jingle Christmas in the Middle
+.Atlantic states, northwestern Maine
+and throughout the Ohio valley.
+South of the James river rains will
+prevail today and tomorrow, but in
+the northern part of the United States
+clearing weather will bring Christmas
+sunshine. The thick covering of snow
+over the northern states is expected
+to remain indefinitely, but in the Mid
+dle Atlantic states it will thaw in the
+lace of warmer weather and rain.
+Snow began falling here this morn
+ing and soon an old fashioned snow
+storm was in progress.
+Los Angeles, Dec. 24. —John Muir,
+one of America’s greatest naturalists,
+father of the Sequoia and Yosemite
+national parks' and discoverer of
+Muir’s glacier in Alaska, died today
+in Los Angeles. He was famous as
+a geologist, explorer and author. He
+was stricken with pneumonia at Dag
+get, on the Mojave desert. Friend?,
+fearing the end was near, brought him
+to the California hospital here last
+r.ight, where he died at 10:30 today.
+His body will be taken back to the
+famous Muir ranch home at Martinez,
+Contra Costa county, tomorrow. Muir
+was 76 years old, a widower, his wife
+having died in 1904.
+C. W. Baldridge left this morning
+i for Escondido, where he will spend the
+holidays.
+zona. One rancher alone lost a herd
+of 100 head.
+Traffic between Phoenix and Flor- j
+ence was suspended on account of
+washed-out roads and bridges. The
+canals of the Salt River Valley irri- j
+gation works have been seriously dam- j
+aged.
+The Salt river, Gila and Santa
+Cruz rivers have reached the highest I
+levels ever recorded.
+Nogales, a town on the border, was
+isolated today by the heavy rains, i
+Wires were down for several hours.
+The United States army forces at
+Naco suffered considerably. Several
+head of mules belonging to the ar-1
+tillery were lost in a deep wash ere-'
+a ted by the storm.
+A cavalry trooper also was reported
+drowned.
+Landslides in the vicinity of Ray.'-a
+mining camp near here, cut off com
+munication with that point.
+Both approaches to the new state
+highway bridge at Florence have been
+i washed out. The Gila river at that
+point was higher today than during
+the flood season of 1891.
+Unusually heavy falls of snow have
+been reported from the higher alti
+tudes in the northern part of the
+lstate.
+EL CENTRO, CALIFORNIA, THURSDAY EVENING, I)ECEMB,ER 24, 1914.
+John Muir Dead.
+EMPEROR WILLI AM OF GERMANY,
+Who is recovering from pneumonia, according to Berlin reports.
+Bomb Dropped on Dover
+From German Aeroplane
+London, Dec. 24. —A German aero- 1
+plane made a sky raid over Dover to I
+day and dropped a bomb. The offi
+cial announcement of the aerial attack
+made by the government press bureau
+is as follows:
+“One of the enemy’s aeroplanes flew i
+over Dover this morning and dropped j
+a bomb, but no damage was done.
+“A British aeroplane ascended as
+soon as the presence of the German
+machine was known, but the English
+aviator did not catch sight of the
+hostile machine, as the weather was
+foggy.
+“The German aeroplane dropped a
+bomb which exploded in a garden, then
+j disappeared towards the North sea.’’
+Consternation was caused by the
+German airman, who fled after drop-1
+ping the bomb. The bomb evidently
+I was aimed over Dover castle. It ex-
+Iploded 400 yards from the castle, but
+fragments broke many windows. No
+one was injured. The explosion caused
+lan enormous excavation in the garden
+of St. James rectory, where it lit.
+Fighting on Frontier.
+Berlin, Dec. 24. —It is officially an
+j r.ounced today that desperate fighting
+jis in progress at several points on
+jihe Prussian frontier. A Vienna dis
+patch states that the Austro-German
+forces at Cracow are successfully beat
+-1 ing hack the Russians and all of the
+j Russian invasion of Silesia is averted.
+Battle of Yser Resumed.
+Amsterdam, Dec. 24.—A Sluis tele- 1
+gram from Handelsblad reports that
+the Battle of the Yser between the
+Germans and allies has been resumed
+violently north of East Nieuport. i
+There was hand-to-hand fighting be
+tween Lombartzyde and the sea. The
+allies are fighting among the dunes
+in an effort to cut their way through
+j to Westende.
+
+Warship Torpedoed.
+Vienna, Dec. 24.—An Austrian sub
+marine torpedoed a French warship in
+the Gulf of Otranto today, but the
+vessel did not sink.
+It is announced here that the Aus
+trian shore batteries near Cattaro
+jhave sunk a submarine attached to
+the allied fleet in the Adriatic.
+French Statement.
+Paris, Dec. 24.—Gains for the al j
+lies at numerous points' on the battle
+front, the repulse of fierce German
+counter attacks and the silencing of
+the German artillery are reported in
+the official statement this afternoon.
+“In the region of Arras and Ver- j
+dun fog caused a lull in the fighting.
+Between the North sea and Lys the
+Anglo-French forces' have gained
+through sapping operations. In the
+region of Lessigny there is a a fierce
+Artillery duel in progress, reports in
+dicating that the Germans are trying
+to resume the offensive in that dis
+trict.”
+The Belgian army evidently has
+been shifted from the North Sea
+oast, as the report says the Belgians
+have advanced south of Dixmude.
+Hitherto they have been reported op
+crating near Nieuport.
+Russians Repulsed.
+Vienna, Dec. 24.—An official report
+from the war office today reads:
+“We have repulsed numerous Rus
+sian night attacks on the lower Duna
+jec river,
+“A new battle is developing in the
+district of the Bzura and Kawa riv
+ers.
+“In the Carpathians we have taken
+a number of prisoners, but fighting
+there is still without decisive result.”
+Jews Deported.
+Washington, Dec. 24. —A cablegram
+from Alexandria, Egypt, received to-,
+day by Louis Marshall, president of
+the American Jewish Relief Society,
+announced the arrival at Alexandria
+of fi8() Jews, deported from Jaffa, Pal
+estine, by the Turks. All their prop
+erty had been confiscated and they
+arrived destitute. Marshall stated
+the matter would be taken up with
+Ambassador Morgenthau, in whose
+hands the society has placed funds for
+emergency relief.
+i
+Prisoners Captured.
+Berlin, Dec. 24. —The capture of
+ever 1,330 prisoners is reported in the]
+official statement issued this after
+!noon. The statement says' in part:
+“In the western theatre the enemy
+renewed attacks in the neighborhood
+DAILY STANDARD FOUNDED AUGUST, 190*
+Arizona Prohibition Law
+Upheld by Federal Court
+Los Angeles, Dee. 24. —The Arizona
+prohibition amendment was upheld, so
+far as the triple federal court, sit
+ting here, is concerned. The court
+today held that the amendment is le
+gal and valid.
+The same proposition that was pre
+sented to Judges Wellborn, Ross and
+Sawtelle will now be presented to the
+supreme court of the United States.
+This will act as a stay to the en
+forcement of the prohibition law for
+a short time.
+The opinion handed down is ex
+tremely short and concise. The court
+had refused a temporary injunction
+and, replying to the request for a stay
+preventing the enforcement of the
+new amendment, it said:
+“It would be plainly inconsistent for
+this court? to grant such an order in
+face of the fact that we have just
+refused a temporary injunction.”
+of Nieuport yesterday. At Bixschoote]
+we took 230 prisoners. The trenches!
+were retaken by us and abandoned be
+cause of continuous artillery fire di- i
+rected against them.
+“After several days' fighting we
+have repulsed the enemy’s attacks
+near Mlawa and the Russian positions
+there have been taken by us. Over
+1,000 prisoners were taken in these i
+battles.”
+To Invade England.
+London, Dec. 24.—A news agency
+dispatch states that Germany has as
+sembled sixty-four Zeppelins for the
+invasion of England.
+Bombarding Turks.
+Athens, Dec. 24.—A French torpedo
+boat destroyer today bombarded the
+Turkish troops concentrated at Geiklu,
+south of the western entrance to the
+Dardanelles. Turkish artillery replied,
+hut the Turkish troops were soon dis
+!persed.
+War Risk Goes Up.
+London, Dec. 23.—Rates of insur
+ance against Italy’s participation in
+the great war took a sudden leap to
+day. Lloyd’s underwriters quoted 30
+guineas (31%) per cent to insure
+against a declaration of war between
+Italy and Germany or Austria and be
+tween Italy and Turkey within a
+month. The .sudden increase is due to
+information that has reached diplo
+mats in London. It is plainly the im
+pression in diplomatic circles that
+Italy, Roumania and Greece intend to
+cast their lot with the allies.
+Baseball Tomorrow—El Centro will
+meet Brawley on the local diamond
+tomorrow afternoon. El Centro and
+Imperial will play Sunday, the result
+of the game determining the pennant,
+leader.-
+To Succeed McKeeby.
+Los Angeles, Dec. 24.—Carrying out
+his intention to eliminate George Me-
+Keeby as city prosecutor, Mayor Rose
+today sent the nomination of Leon
+French to the council to succeed Mc-
+Keeby January 1. The council de
+ferred action on the nomination for
+one week.
+It is believed the council will con
+firm the appointment.
+French served as harbor attorney
+under former City Attorney John W.
+Shenk.
+Trapped on Roof.
+New York, Dec. 24.—Trapped on the
+top floor of a tenement in West Forty
+ninth street by fire, five persons were
+suffocated to death today. The dead
+were all Greeks. Twenty families were
+sleeping in the tenement. Most of
+them were rescued, being carried down
+a single narrow fire escape and exten
+sion ladders.
+Brings Ashes Back.
+San Francisco, Dec. 23.—Carrying
+cthe funeral urn containing the ashes
+of her husband, Mrs. W. W. Rock
+hill arrived here today on the liner
+Matsonia. Mr. Rockhill, who was Unit
+ed States minister for China for many
+years and had been appointed financial
+j adviser to President Yuan Shi Kai of
+[the Chinese republic, died at Honolulu
+|on his way to take the Chinese post.
+iThe funeral party will leave here to
+j morrow to Ditchfield, Conn., Mr. Rock
+j bill’s former home, where the funeral
+will be held.
+Visiting the President.
+Washington, Dec. 24.—Mr. and Mrs.
+Francis B. Sayre arrived at the White
+House today as guests of the chief
+executive over the Christmas' season.,
+Most Complete Telegraph
+In the Southwest
+Outside the Big Cities
+Said Judge Ross’, presiding: “To
+grant such a request would in effect
+be giving the injunction prayed for.”
+The opinion of the court stated:
+“We have listened with care to the
+able arguments advanced by attorneys
+representing both sides and should
+like to review in detail the several
+questions involved, but have not time
+to do so. Where the federal court is
+asked to interfere with a state law
+the law must clearly justify such in
+terference. The evidence is not suf
+ficient to justify injunctions in the
+four case} presented here. The ap
+plication for injunction in each case
+therefore i? denied.”
+The amendment complained of by
+the wets wa: passed at the last elec
+tion and is attacked on the ground
+of unconstitutional interference with
+religious liberty, in that it prevents
+the use of wine at sacramertts and is
+in effect confiscatory.
+MEXICANS PROVE
+POOR MARKSMEN
+Struck down by the murderous as
+sault of his two companions, Fran
+cisco Sabales', a Mexican, lies at St.
+Thomas hospital with three bullet
+wounds in his body, while officers are
+scouring the country to locate his as
+sailants. The shooting occurred near
+the Wilsie ranch, three miles west of
+this city.
+From what the officers have been
+able to learn, the Mexican and his
+two companions were encamped a lit
+tle more than a mile from the Wilsie
+ranch. According to the story of the
+wounded Mexican, his assailants had
+been drinking heavily. An altercation
+arose between the three men and Sa
+beles, who is said to have been un
+armed, fled.
+Angered, the two men pursued him
+and, overtaking him, fired, two of the
+bullets lodging in Sabales' arms’, while
+the third passed longitudinally
+through his body. This bullet was
+found in the wounded man’s shirt,
+where it had fallen after its force
+was s*pent.
+Weakened by the shock of the bul
+lets and loss of blood, Sabales dragged
+himself to the Wilsie ranch, nearly a
+mile and a quarter distant. Deputies
+from the sheriff’s 1 office scoured the
+surrounding country, but were unable
+to find any trace of the two men.
+Where the conflict had begun offi
+cers found more than fifty empty
+cartridges strewn about the tent, most
+of which were believed to have been
+fired at Sabales when he fled.
+CHINESE WILL HAVE
+BLEAK CHRISTMAS
+The coming Christmas will indeed
+be a bleak Yuletide for Lee Kurn Sing,
+who lies at St. Thomas hospital re
+covering from the effects of a bullet
+wound inflicted by two bandits when
+he refused to divulge the hiding place
+of his money. The crowning blow,
+however, transpired when miscreants
+last night entered the restaurant of
+the aged Chinese and made way with
+nearly his entire stock of goods.
+The cycle of misfortune made its?
+initial revolution when Sing was shot
+on December 13, when two masked
+men entered his restaurant. Follow
+ing his refusal to comply with their
+requests, one of the men opened fire
+on the Chinese, the first bullet lodg
+ing in his side. Since that time Sing
+has been convalescing at St. Thomas
+hospital.
+During his absence the little res
+taurant has been unguarded and la ft
+night thieves, taking advantage of the
+opportunity, gained entrance with a
+pass key. Ransacking the place, they
+carried off nearly the entire stock
+belonging to the unfortunate Chinese,
+together with an electric fan.
+At the time Sing was shot one of
+the bullets fired by his arsailants
+struck one blade of the fan and ac
+cording to the officers only this part
+|of the loot could be identified.
+Mexico City Quiet.
+Washington, Dec. 24.—The state de
+partment reports that Mexico City to
+day gave no indication of clashes be
+tween Villa and Gutierrez. Silliman
+cabled that the capital is quiet, with
+no disturbances-.
+Mr. and Mrs. J. F. Seymour, Jr.,
+are entertaining Mr. Seymour’s par
+ents, Mr. and Mrs. J. F. Seymour, of
+Los Angeles, and their nephew, Mas
+ter Seymour Liddicote. Mr. and Mrs.
+Seymour will remain until after New
+Year’s.
+NUMBER 202

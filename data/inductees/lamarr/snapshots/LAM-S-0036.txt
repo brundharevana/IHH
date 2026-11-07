@@ -1,0 +1,20 @@
+title: File:De-at Hedy Lamarr.ogg
+DateTime: 2016-03-06 18:17:14
+ObjectName: De-at Hedy Lamarr
+CommonsMetadataExtension: 1.2
+Categories: Hedy Lamarr|Austrian pronunciation|Supported by Wikimedia Österreich|Items with VRTS permission confirmed
+ImageDescription: Pronunciation of "Hedy Lamarr" in Austrian German. Female voice. Speaker from Vienna, Austria.
+DateTimeOriginal: 2015-10-23
+Credit: Katharina Liebert
+Artist: Katharina Liebert
+Permission: This work is free and may be used by anyone for any purpose. If you wish to use this content, you do not need to request permission as long as you follow any licensing requirements mentioned on this page.
+The Wikimedia Foundation has received an e-mail confirming that the copyright holder has approved publication under the terms mentioned on this page. This correspondence has been reviewed by a Volunteer Response Team (VRT) member and stored in our permission archive. The correspondence is available to trusted volunteers as ticket #2016031110010343.
+
+If you have questions about the archived correspondence, please use the VRT noticeboard. Ticket link: https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2016031110010343
+Find other files from the same ticket:
+LicenseShortName: CC BY-SA 4.0
+UsageTerms: Creative Commons Attribution-Share Alike 4.0
+AttributionRequired: true
+LicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
+Copyrighted: True
+License: cc-by-sa-4.0

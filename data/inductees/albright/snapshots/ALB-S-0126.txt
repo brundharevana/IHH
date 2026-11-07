@@ -1,0 +1,67 @@
+title: Memo from Madeleine Albright to President Clinton
+dataControlGroup.groupName: William J. Clinton Library
+dataControlGroup.groupId: ou=NLWJC,ou=groups
+dataControlGroup.groupCd: LPWJC
+generalRecordsTypes[0]: Textual Records
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+digitalObjects[0].objectFilename: 131043614_Page_1.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-whorm/1127707/131043614_Page_1.jpg
+digitalObjects[0].objectFileSize: 887155
+digitalObjects[0].objectId: 131493955
+digitalObjects[0].objectType: Image (JPG)
+digitalObjects[1].objectFilename: 131043614_Page_2.jpg
+digitalObjects[1].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-whorm/1127707/131043614_Page_2.jpg
+digitalObjects[1].objectFileSize: 615055
+digitalObjects[1].objectId: 131493956
+digitalObjects[1].objectType: Image (JPG)
+digitalObjects[2].objectFilename: 131043614_Page_3.jpg
+digitalObjects[2].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-whorm/1127707/131043614_Page_3.jpg
+digitalObjects[2].objectFileSize: 446973
+digitalObjects[2].objectId: 131493957
+digitalObjects[2].objectType: Image (JPG)
+digitalObjects[3].objectFilename: 131043614.pdf
+digitalObjects[3].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-whorm/1127707/131043614.pdf
+digitalObjects[3].objectFileSize: 1951518
+digitalObjects[3].objectId: 131493954
+digitalObjects[3].objectType: Portable Document File (PDF)
+ancestors[0].collectionIdentifier: WJC-WHORM
+ancestors[0].inclusiveStartDate.year: 1993
+ancestors[0].inclusiveStartDate.logicalDate: 1993-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.year: 2001
+ancestors[0].inclusiveEndDate.logicalDate: 2001-12-31
+ancestors[0].title: Records of the White House Office of Records Management (Clinton Administration)
+ancestors[0].naId: 594462
+ancestors[1].inclusiveStartDate.year: 1993
+ancestors[1].inclusiveStartDate.logicalDate: 1993-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: President (1993-2001 : Clinton). White House Office of Records Management. 1993-2001
+ancestors[1].creators[0].abolishDate.year: 2001
+ancestors[1].creators[0].abolishDate.logicalDate: 2001-12-31
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 1993
+ancestors[1].creators[0].establishDate.logicalDate: 1993-01-01
+ancestors[1].creators[0].naId: 10462067
+ancestors[1].inclusiveEndDate.year: 2001
+ancestors[1].inclusiveEndDate.logicalDate: 2001-12-31
+ancestors[1].title: Subject Files on Meetings and Conferences
+ancestors[1].naId: 1127707
+naId: 131043614
+physicalOccurrences[0].referenceUnits[0].city: Little Rock
+physicalOccurrences[0].referenceUnits[0].phone: 501-244-2877
+physicalOccurrences[0].referenceUnits[0].address1: 1200 President Clinton Avenue
+physicalOccurrences[0].referenceUnits[0].postalCode: 72201
+physicalOccurrences[0].referenceUnits[0].name: William J. Clinton Library
+physicalOccurrences[0].referenceUnits[0].state: AR
+physicalOccurrences[0].referenceUnits[0].fax: 501-244-2881
+physicalOccurrences[0].referenceUnits[0].email: clinton.library@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Loose Sheets
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted

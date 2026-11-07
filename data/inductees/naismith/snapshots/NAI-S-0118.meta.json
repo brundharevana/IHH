@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn83045462/1961-11-05/ed-1/?sp=50",
+  "fetch_url": "https://www.loc.gov/resource/sn83045462/1961-11-05/ed-1/?sp=50&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T18:59:21Z",
+  "sha256": "1b14d7163a6237f244a6f7988e4eb7199a16f7e544d6197f7fd43dd1cd2ba628",
+  "bytes": 40781,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn83045462/1961-11-05/ed-1/?sp=50&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_fellini_ver02/data/sn83045462/00280609043/1961110501/0318.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/dlc/batch_dlc_fellini_ver02/data/sn83045462/00280609043/1961110501/0318.xml"
+}

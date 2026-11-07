@@ -1,0 +1,1569 @@
+_version_: 1747588715181506560
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045462/1933-10-17/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045462/1933-10-17/ed-1/
+batch[0]: dlc_1duchamp_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json
+created_published[0]: Washington, D.C., October 17, 1933
+date: 1933-10-17
+date_issued: 1933-10-17
+dates[0].1933-10-17: https://www.loc.gov/search/?dates=1933-10-17/1933-10-17&fo=json
+dates_of_publication: 1854-1972
+description[0]: Washington, D.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2020-09-15T06:36:58.433Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933101701/1933101701_1.xml#ndnp/dlc-2018_2019
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2018_2019
+group[1]: library-of-congress-washington-dc-awardee-7
+hassegments: true
+id: http://www.loc.gov/item/sn83045462/1933-10-17/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1duchamp_ver01:data:sn83045462:00280601305:1933101701:0477/full/pct:6.25/0/default.jpg#h=487&w=361
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1duchamp_ver01:data:sn83045462:00280601305:1933101701:0477/full/pct:12.5/0/default.jpg#h=975&w=723
+index: 2
+item.batch[0]: dlc_1duchamp_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington, D.C., October 17, 1933
+item.date: 1854
+item.date_issued: 1933-10-17
+item.dates[0]: 1933-10-17
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045462
+item.location[0]: Washington (D.C.)
+item.medium: 38 pages
+item.newspaper_title[0]: Evening star.
+item.notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+item.notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+item.notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+item.notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+item.notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+item.notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+item.notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933101701/1933101701_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045462/marcxml
+item.other_title[0]: Sunday star
+item.other_title[1]: Star
+item.place_of_publication: Washington, D.C.
+item.raw_lccn: sn 83045462
+item.reel_numbers[0]: 00280601305
+item.source_group: ndnp/dlc-2018_2019
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: Evening star (Washington, D.C.), October 17, 1933
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn83045462
+location[0]: washington d.c.
+location[1]: district of columbia
+location[2]: washington
+location[3]: united states
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+medium: 38 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Evening star.
+notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+number[0]: sn83045462
+number[1]: 00280601305
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn83045462
+number_reel[0]: 00280601305
+numeric_shelf_id: 193310171
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933101701/1933101701_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045462/marcxml
+other_title[0]: Sunday star
+other_title[1]: Star
+partof[0].count: 36935
+partof[0].title: evening star (washington, d.c.) 1854-1972
+partof[0].url: https://www.loc.gov/search/?fa=partof:evening+star+%28washington,+d.c.%29+1854-1972&fo=json
+partof[1].count: 3210938
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232450
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: evening star (washington, d.c.) 1854-1972
+place_of_publication: Washington, D.C.
+publication_frequency[0]: daily
+raw_lccn: sn 83045462
+reel_numbers[0]: 00280601305
+resources[0].files: 38
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1duchamp_ver01:data:sn83045462:00280601305:1933101701:0477/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045462/1933-10-17/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn83045462, 1933-10-17, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2018_2019
+subject[0]: washington
+subject[1]: district of columbia
+subject[2]: washington (d.c.)
+subject[3]: newspapers
+subject[4]: united states
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+timestamp: 2022-10-24T16:51:48.438Z
+title: Evening star (Washington, D.C.), October 17, 1933
+type[0]: issue
+url: https://www.loc.gov/item/sn83045462/1933-10-17/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933101701/0478.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045462/1933-10-17/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1duchamp_ver01:data:sn83045462:00280601305:1933101701:0477/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933101701/0478.pdf
+resources[0].segment_count: 38
+resources[0].url: https://www.loc.gov/resource/sn83045462/1933-10-17/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1933, October 17) Evening Star. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045462/1933-10-17/ed-1/.
+cite_this.chicago: Evening Star. (Washington, DC), Oct. 17 1933. https://www.loc.gov/item/sn83045462/1933-10-17/ed-1/.
+cite_this.mla: Evening Star. (Washington, DC) 17 Oct. 1933, p. 2. Retrieved from the Library of Congress, www.loc.gov/item/sn83045462/1933-10-17/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933101701/0478.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933101701/0478.xml&format=alto_xml&full_text=1
+full_text:
+1, __
+Institutions Shut This Year
+fjj to Get Loans Under Im
+mediate Plan.
+Vr
+The new Federal Liquidator* Board
+1* speeding plans to release $1,000,000,
+000 of frozen deposits.
+following a meeting of the board
+yesterday. Chairman Jones of the Re
+construction Finance Corporation an
+nounced machinery for getting ap
+praisals of bank assets to the new board
+would be accelerated by the Reconstruc
+tion Corporation, the Treasury Depart
+ment, the controller of the currency,
+the Deposit Guarantee Commission,
+and other related agencies of the Gov
+ernment The new liquidating board
+is a division of the R. F. C.
+Jones said the plan of operation
+would be to select a chairman of the
+Deposit Liquidation Committee for each
+Federal Reserve district, who in turn
+would select local chairmen if he de
+,i!The district chairman and his com
+mittee would assume responsibility for
+aopratslng and certifying as to the
+value of the assets of banks in his dis
+trict that have closed since January
+R. F. C. Offers Facilities.
+The immediate plan contemplates
+dealing only with those banks that
+have closed this year, the inference
+being that banks which closed prior
+to that are already far along in the
+process of liquidation or reorganization.
+The corporation mav later look into the
+status of those banks, however.
+The Reserve District Liquidating
+chairman will be offered the facilities
+of the Reconstruction Corporation, in
+cluding office space and clerks and ex
+aminers. Under his direction local
+committees will contact State banking
+commissioners and the controller of the
+currency, urging that receivers make
+applications for loans from the R. f. l.
+with as little delay as possible
+“Given the co-operation of depositots
+and State banking authorities, there
+appears to be no reason why there
+should be any undue delay,” Jones said.
+The exact amount to be distributed,
+he added, depends upon the appraisal
+of the actual assets of each bank.
+President Roosevelt, announcing the
+formation of the board, said its pur
+poses would be to bring about an or
+derly liquidation, and to lend up to
+-the reasonable liquidating value of the
+collateral, reserving what seems to be
+necessary to provide for taxes, interest,
+and expenses during the period of
+liquidation.” The board has fixed five
+years as a “probable period for orderly
+liquidation."
+Appraisals on Hand.
+The controller of the currency al
+ready has in hand appraisals of the
+assets of the 778 national banks that
+are still unlicensed. They have depots
+of $671,000,000. At the suggestion of
+the President, these appraisals will be
+re-examined by the District Advisory
+Committees.
+Jones said this meant a reappraisal
+In the light of changed conditions rather
+than liberalization of the old appraisal.
+He said it would not be necessary where
+such appraisals had already been made
+to go through all the b:oks again to
+arrive at a "sound liquidating value.”
+Money will be lent to the receivers
+and conservators on a basis of 4 per
+cent. Loans will be made up to a maxi
+mum of 50 per cent of banks' deposits,
+inclusive of distributions heretofore
+made. Where remaining assets are
+worth less than 50 per cent, depositors
+will get only their share in the remain
+ing assets, with the deductions for
+liquidating expenses and taxes.
+present plans call for the Deposit In
+surance Corporation to take over the
+functions ol the Liquidating B:ard
+after January 1.
+Jones said the board had available
+all the money that would be necessary
+until Congress meets.
+Text of Statement.
+Jones' statement follows:
+“The first meeting of the Deposit
+Liquidation Board was held this morn
+ing to consider the program assigned
+to It by the President. It will, througn
+the existing agencies of the Reconstruc
+tion Finance Corporation and the new
+appraisal boards suggested by the Pres
+ident, proceed at once to bring about
+the release of deposits frozen in closed
+banks wherever possible.
+“The agencies of the Government
+represented on the Deposit Liquidation
+Board already have in their hands a
+great deal of the information which
+will be required for the task.
+"The Reconstruction Finance Corpo
+ration previously has made many loans
+to closed banks for liquidating pur
+poses. It is not anticipated, therefore,
+that many new problems will arise
+in connection with the intensive effort
+which will now be made to get into
+the hands of closed bank depositors
+every ddllar which the assets of such
+institutions will justify.
+No Reason for Delay Seen.
+“The machinery of the Reconstruc
+tion Finance Corporation, the Treasury
+Department, the controller of the cur
+rency, the Deposit Guarantee Commis
+sion and every other related agency
+of the Government Is ready to proceed
+with all possible dispatch.
+“Given the co-operation of deposi
+tors and State banking authorities,
+there appears to be no reason why
+there should be any reason for undue
+delay.
+'"While every effort will be made to
+establish the full value of closed bank
+assets the exact amount that can be
+distributed will be governed by the
+appraisal of the actual assets of each
+closed bank.
+"The plan of operation will be to
+select a chairman of the Deposit Liqui
+dation Committee in each Federal Re
+serve district, this chairman and his
+committee to assume responsibility for
+appraising and certifying as to the
+value of the assets of banks in his
+district that have closed since January
+1. 1933,
+“It will be suggested to this chair
+man that he use the facilities of the
+R. F. C. agency, including office space
+and such clerks and examiners as In
+his opinion will enable him to expedi
+tiously do the work.
+Duties Are Outlined.
+“He will have the authority to ap
+point such committee or committees
+as he wishes both at the home office
+of the Federal Reserve district and
+branches thereof as well as such other
+sections of the district as would seem
+advisable.
+“It will be the duty of these com
+mittees. acting under their chairman,
+to contact State banking commissioners
+and the controller of the currency,
+urging that they have their receivers
+make application for loans to the
+R. F. C. with as little delay as possible.
+“When applications are In form they
+should be forwarded to Mr. C. B. Mer
+riam, director of the R. F. C. and head
+of the Deposit Liquidation Board, In
+Washington, for consideration by the
+Deposit Liquidation Board and approval
+by the directors of the R. F. C.
+“As stated In the President's an
+nouncement, it will be the purpose to
+lend up to the reasonable liquidating
+value of the collateral, reserving what
+seems to be necessary to provide for
+taxes, interest and expenses during Jhe
+period of liquidation.
+“The board feels that a period of
+five years should be set as the probable
+period for orderly liquidation."
+
+Venezuela Has Surplus.
+That it has no international debts, a
+Surplus in its budget and no taxes as
+such, has been announced by Ven
+ezuela.
+What’s What
+Behind News
+in
+Undisputed Control of
+All Germany,
+Hitler’s Aim.
+BY PAUL MALLON.
+THE best political joke of the Fal
+season is the Cermet electior
+called by Von Hindenburg t<
+see if Hitler's stand is approved
+You can imagine what wril
+happen to any anti-Nazi who dare:
+show his face at the voting booth. Als<
+what will occur to any election officia
+who fails to give the ballots a good old'
+fashioned Philadelphia accounting. Ii
+will be the biggest shotgun electior
+ever held.
+But there is a trick in it which
+goes deeper than that. Hitler is
+submitting the question o) elimi
+nating various state governments.
+He wants undisputed central con
+trol in Berlin. He will get it
+German insiders say Von Hinder
+burg still hates Hitler, but is too ol(
+and tired to do anything about it.
+Hitler gives him papers to sign ant
+he signs Only once has he demurred
+That was when the naive Nazi decider
+that all religions were all wrong ant
+that there should be a new Hitler re
+llgion. Von Hindenburg protested, bu
+his voice was so weak nobody heart
+him.
+Friends Put in Obscurity.
+j His friends, Von Papen and Vor
+Sleicher, have slid back into obscurity
+If they are organizing any opposition
+it is so secret that Hitler's spies canno
+find out about it.
+i
+The best diplomatic'guessers here be
+lieve results from the Hitler defiance o
+the world will be a long time coming
+The way they figured it out, Hitle
+probably will proceed with rearming ii
+a moderate way. He has no means o
+making himself a serious menace fo
+a while yet.
+If he gets near the danger
+point. France will act. probably
+through the League of Nations.
+Reoccupation of the Ruhr is con
+sidered hardly likely. It will be
+much easier for France to share
+the responsibility with other na
+tions.
+Howe\er, the situation constitutes i
+constantly menacing sword over Europi
+and no prophesies can be guaranteed
+Certain Senate nationalists are pre
+paring some fireworks against Normal
+Davis.
+They believe the evidence indicate
+the disarmament question has becomi
+a Europeon political question and tha
+Davis is up to his neck in it. Agita
+tion will start soon to have us keei
+our hands entirely off.
+Simultaneously there will be renewe<
+cheering in the same quarters about tin
+"death” of the League of Nations
+Japan and Germany ara crawling out
+The United States and Russia neve:
+went in. Only Britain. France ant
+Italy, of the big powers, are still hang
+ing on.
+X. R. A. Publicity Slowing Up.
+The hot publicity campaign of th<
+N. R. A. is cooling.
+Gen. Johnson has been easing out o
+his regular bi-weekly press conferences
+Since he was sick, they have been helt
+irregularly. Last Friday one was sched
+uled for 4 p.m. The general canceled i
+and invited a chosen few press repre
+sentatives to his office at noon.
+There are several reasons. One is tha'
+the N. R. A. is becoming a local story
+Developments are largely confined to in
+dividual locality interests. The nation
+1 al sales campaign is no longer needed
+Another reason appears to be that
+Johnson is getting nervous on the sub
+ject of publicity. His blow-up with th<
+Business Letter Services suggests that
+W M. Kiplinger, who writes a weekl;
+confidential letter to business execu
+tives. was told he could see no one ai
+the N. R. A. but Johnson and the pub
+licity man. Charles Michaelson. John
+son did the telling, with gestures.
+Revealed Sachs Resignation.
+Apparently Kiplinger had been ob
+taining information from Johnson';
+subordinates. One item thus obtainec
+was the resignation of Alexander Sach;
+as deputy administrator.
+It seems Sachs submitted a resigna
+tion all right, but few knew about it
+Johnson apparently prevailed on Sachs
+j to stay a while longer Sachs went tc
+New York to clean up some business h<
+had to attend to. It was agreed an
+nouncement of the resignation would b<
+I withheld for the time being.
+The general naturally was displeased
+when the news got around.
+Johnson contends the Sachs
+resignation yarn was inaccurate,
+as were some others used by Kip
+linger. On the same charge, he
+alsb completely barred from N.
+R. A. James True, who writes a
+confidential letter somewhat simi
+lar to Kiplinger's. Those who
+have read the two competing let
+ters regularly seem to believe Kip
+linger has been fair to the N. R.
+A. in a general way, but that True
+has been extremely critical.
+Interest in the matter will be largel;
+confined to business executives through
+out the country who subscribe to th<
+confidential letters. But those are th<
+men with whom the N. R. A. is dealing
+daily.
+The first result of the affair was i
+lot of valuable publicity for the Busi
+ness Letter Services, which hardlj
+helped Johnson’s purpose.
+Rail Co-ordinator Eastman is one o;
+the few new dealers who does not havi
+a press agent. His statements are is
+sued through the publicity office of thi
+I. C C.
+i
+A new political p“lay will be publishec
+shortly by George Middleton, brother
+in-law of Senator La Follette. It i:
+entitled "Hiss! Boom! Blah!" and is i
+strong satire of the past 15 years. Thi
+character of the Senator in it is un
+identified. but it represents the eldei
+Senator La Follette.
+The War Department has cancelei
+those two insulation contracts witl
+firms outside the insulation lndustr;
+code. Gen. Johnson ordered it.
+I Caprrisht. 1933.)
+MASONS10 HONOR
+BISHOP FREEMAN
+Thirty-Third Degree Will Be
+Conferred Friday by
+Scottish Rite.
+William N. Doak former Secretary'
+of Labor and Right Rev. James E. Free
+man. Bishop of Washington, will re
+ceive Masonry’s highest honor Friday
+night when the thirty-third degree will
+be conferred upon them by the Supreme
+Council of the Scottish Rite, Southern
+Jurisdiction. They are two of four
+Masons chosen “at large” in the South
+ern Jurisdiction by the grand com
+mander. John H. Cowles, for the honor
+and were named with the other nomi
+nees by the grand commander and
+nominees from ea-h State in the Juris-
+ditlon at an executive session of the
+Supreme Council today at the Scottish
+Rite Temple. Sixteenth and S streets.
+The others chosen at large are Dr.
+Joseph Fort Newton, Philadelphia, and
+Christian F Kleinknecht. Washington.
+The four Washingtonians nominated
+from the District to receive the thirty
+third degree are Carl H. Claudey,
+1 Charles C. Coombs, past grand master
+of the District of Columbia; Melville D.
+1 Hensey and Dr. William L. Robins.
+The next highest honorary degree,
+l that of Knight Commander of the Court
+1 of Honor, will be conferred upon eight
+Washingtonians. Besides the bishop,
+those nominated at large by the com
+l mander are Elmer Ellsworth Rogers and
+Leslie Dunn Waudby. and the five nom
+inated from the District are Ralph H.
+Gauker, Arthur B. Hayes, jr.. Chevy
+i Chase; Albert R. Merz, Homer S. Pope
+and Dr. Hector G. Spaulding of the
+Law School. George Washington Uni
+versify. Also nominated for the honor
+at large was Jacob H. Tatsch, New York
+City.
+The Council named, in all. 189 to
+the thirty-third degree and 373 to the
+K. C C. H
+Today was the second of the week
+long biennial convention of the council,
+and while the members of the Supreme
+Council were in their deliberative ex
+ecutive session. Scottish Rite Masons
+of lesser rank followed no set program,
+but fraternized in the temple and about
+the city
+Tomorrow night the investiture of the
+Knights Commander of the Court of
+I Honor will be held by the Albert Pike
+Consistory' of Washington Like all
+other sessions of the convention, it will
+be held at the temple
+1 The Supreme Council will confer the
+thirty-third degree Friday night at the
+tenmle.
+The closing sessions are to be held
+Saturday’.
+Last night an organ recital and re
+ception were held at the temple for the
+delegates and other Masons of t.ie city
+with their wives. Edmund S. Ender,
+Baltimore, was musician.
+About 400 visitors are registered for
+the sessions.
+CAPITAL TRANSIT CO.
+PROMISES SYSTEM
+OF FREE TRANSFERS
+i
+_i Continued From First Page _
+1 the uniform policy of the old companies
+of paying a fair wage to those who work
+for us. We do not propose to discharge
+any workers on December 1. Economies
+in operation must follow the merger.!
+and to accomplish them some pay roll
+I reductions must be made unless our
+business substantially increases. Re
+duction in personnel which may follow
+as a result of economies will be brought
+about gradually and with as little dis
+turbance as possible.”
+Extracts From Speech.
+Other important extracts from Mr.
+I Hanna's speech are:
+j "The company is financially sound, its
+aggregate bonds and stock are less than
+values which have been fixed in the
+past, and its bonded indebtedness rela
+tively low. What its earnings will be
+cannot be prophesied, but economies.
+relief from some of the burdens the
+1 merger grants, with a reasonable in
+j crease in the number of passengers will
+insure its financial stability
+"Whether or not busses will ulti
+mately supersede surface rail lines is a
+matter for future engineering develop
+ments to determine. At present rail
+service is more efficient and satisfactory
+for handling heavy traffic.
+"The name 'Capital Transit Co.’ was
+chosen definitely to signify that this
+new agency stands ready to furnish
+mass transportation facilities to the city
+of Washington, using whatever vehicles
+may be best adapted to the parl'ular
+service required and which may meet
+with public approval.
+"A double-track surface railway can
+readily carry 9,000 seated passengers
+per hour in each direction: a roadway
+80 feet between curbr will accommo
+date 2.800 vehicles per hour, each of
+them carrying an average of 1.7 pas-
+sengers. These figures prove that two
+additional 80-foot streets would be in
+1 sufficient to carry in individual vehicles,
+either private cars or taxicabs, the num
+ber of passengers now carried on one
+double-track street railway line."
+"The three local transportation sys
+tems still carry approximately 270.000
+pa .sengers per day, or about 40 per cent
+of the total number of persons coming
+into and leaving the business center.
+In other cities of comparative size, mass
+transportation vehicles carry from 60
+to 80 per cent.”
+Mi. Hanna was introduced to the club
+i by President Walter D. Barkdull.
+620,000 WORKERS
+RETURNED TO JOBS
+DURING SEPTEMBER
+_f Continued From First Page.)
+awarded on September 15, and the in
+crease in employment resulting from
+these contracts is not reflected in the
+September employment tabulations."
+The statement continued:
+"The gains in the pay rolls in the
+17 groups surveyed indicate that ap
+proximately $10,000,000 more was paid
+out in weekly pay envelopes in Septem
+ber than in August.
+"Measured from the low point of
+March. 1933. the bureau's September
+employment figures show an estimated
+gain of more than 2,700,000 workers in
+the industrial groups surveyed over this
+six-month interval and an increase of
+nearly $64,000,000 in total weekly wages
+dispersed in September over the weekly
+pay roll aggregates of march."
+Employment in all industrial groups
+except building construction in the Dis.
+trlct of Columbia increased 5.4 per
+cent during the month of September,
+with a corresponding increase of 3 per
+cent in the pay roll total, according to
+the figures
+The District figures showed a total of
+617 eslablishments with 31,861 on the
+pay rolls. The pay roll total was
+$707,608.
+FETE QUEEN BETROTHED
+ST. WJUIS, October 17 (A5).—The
+engagement of Miss Myrtle McGrew
+Lambert, 1932 veiled prophet queen, to
+Gustave Henry Boehmer. jr., St. Louis
+tennis star, was announced yesterday.
+Miss Lambert's father, Maj. Albert
+I Bond Lambert, long has been St.
+1 Louis' foremost aviation enthusiast. He
+was one of the backers of Col. Charles
+A. Lindbergh's flight to Paris.
+The bride-to-be is 20, Boehmer 22.
+She was educated in the primary
+schools here, the Bennett School in
+i1 New York and the Washington Uni
+versity Fine Arts School.
+Maj. Lambert retired as president of
+the Lambert Pharmacal Co. in 1925.
+Einstein Is Hurried
+Through Nett? York
+Without Reception
+Scientist Arrives to Take
+Chair at Princeton
+Institution.
+By the Auoclited Press.
+NEW YORK. October 17.—When
+Prof. Albert Einstein arrived from Eu
+rope on the Westemland today he was
+hurried off the liner into a tug. avoid
+ing the usual landing procedure. No
+explanation was offered about whether
+this was done to avert a possible dem
+onstration by sympathizers with Ger
+man Nazis, or whether the renowned
+mathematician merely wished to escape
+the crowds at the pier.
+Dr. Einstein is in the United States
+to take a chair at the Institute for Ad
+vanced Study, Princeton, N. J. Dr.
+Abraham Plexner, director of the insti
+tute, had said he wished the scientist
+to get through New York with mini
+mum fuss that he might “take up his
+scientific work without any distrac
+tion
+With Dr. Einstein were his wife and
+his coworker. Dr. Walther Mayer of
+Vienna, who will be his assistant at the
+institute.
+scenkThighway
+Representatives of Three
+States Meet in Office of
+Senator Byrd.
+Representatives of Virginia, North j
+Carolina and Tennessee were meeting
+in the office of Senator Harry F. Byrd I
+at the Capitol today to draft recom- j
+mendations requested last week by Pub-
+lie Works Administrator Ickes for con
+struction of a great scenic highway
+across the ridge of the Blue Ridge
+Mountains from Virginia through North
+Carolina to Tennessee
+Confirming Senator Byrd's report that
+the public works administrator ap
+peared favorably inclined toward the
+project. Secretary Iekes today declared
+that Senator Byrd had proposed what
+appeared to him to be "a grand scheme
+for a scenic highway.'■
+Secretary Ickes' apparent interest in
+the project gives the proposal of the
+Virginia Senator, backed up by officials
+of the two neighboring States, a flrst
+class chance of approval by the Public
+Works Board at an early date.
+The meeting today at Senator Byrd's i
+office is expected to result in the draw
+ing up of an actual request for the
+project to be submitted in the formal
+manner to the Public Works Board.
+Senator Byrd's proposal is that Sky
+line Drive, which now extends along the
+crest of the Blue Ridge Mountains from
+Thornton's Gap. just above Luray, Va.. j
+down to Swift Run Gap, a distance of
+more than 30 miles, be continued along
+the top of the mountains linking to
+gether by a scenic route the two great
+est of the three Eastern national parks,
+the proposed Shenandoah National
+Park and the Great Smokies National
+Park, which lies along the boundary of
+North Carolina-Tennessee.
+The road would extend approximate
+ly 400 miles and it has been estimated i
+that the cost would be in the neighbor- i
+hood of $4,000,000.
+EX-NAT IS SENTENCED
+ON ASSAULT CHARGE
+Hay Morgan Given Three Months
+on Complaint of Baltimore
+Woman.
+Special Dispatch to The Star.
+BALTIMORE. October 17 Ray Mor
+gan. former second baseman for the
+Washington Senators, today was sen
+tenced to three month* In the House of
+Correction by Judge George A. Solter
+in Criminal Court, after he was con
+victed on an assault charge.
+Mrs. Anna M. Creagh. who said she
+operates a confectionery store here, was
+the prosecuting witness. She charged
+Morgan attacked and beat her last Sep
+tember 4 after he and another man
+had been drinking at her place.
+The woman declared Morgan hit her
+“in the mouth and nose" and threw her
+on the floor. Later, after she had sent
+her young son for a policeman, she said,
+he kicked her and the other man. a
+bulky locomotive engineer, off the steps
+of her house as he attempted to leave.
+Morgan denied striking the woman.
+Saying he was drunk, he declared she
+was intoxicated also and had fallen
+down several times. He declared that
+when he tried to leave the house, he
+had fallen down the steps into Mrs.
+Creagh and the other man. Morgan
+was represented by Samuel S. Levin,
+attorney.
+DALL FIRM NAMED
+DEFENDANT IN SUIT
+D. C. Man Charges He lost $5,883
+as Kesult of False State
+ments.
+Declaring he was defrauded of $5,883
+as a result of false statements made to
+him concerning Senator Elmer Thomas
+of Oklahom- and Curtis Dali, son-in
+law of the Pre'.dent, Arthur P. Dono
+van. 1424 Parkwood place, today filed
+in District Supreme Court a suit for
+damages against the brokerage firm of
+Fenner. Beane Sc Ungerleider, in which
+Mr. Dali is a partner.
+Defendants named were the 23 part
+ners in the firm, which has offices in
+New York and at 807 Fifteenth street.
+Donovan said that prior to last July
+7 he had an account aggregating $4,489
+in stocks and cash with another firm.
+Or July 6, he said, he met John D.
+Mothershed. Washington representative
+for the defenJant firm.
+Mothershed. the suit alleges, induced
+him to transfer his account by making
+two false statements. The first was
+that 8enator Thomas, author of the in
+flation bill, was a customer of the de
+fendants, and that if stocks went down
+he would induce President Roosevelt to
+put the inflation bill into effect, thereby
+checking the fall of the market. The
+other allegedly false statement was that
+Mr. Dali, one of the partners, could get
+information from the White House con
+cerning Government policies affecting
+the stock market before any other
+broker, thereby placing his Arm in a
+better position to protect its customers
+Relying upon these statements, Don
+ovan said, he transferred his account,
+stipulating that it should be handled
+in a manner to protect him from losing
+more than $1,000. He also said it was
+stipulated that no stocks be bought
+for his account without his consent.
+His suit charges that Mothershed failed
+to abide by these agreements and that
+he suffered a total lass of $5,883. The
+suit was filed through Attorney Edwin
+C. Dutton.
+Nine Institutions Accept Plan
+Which May Cost Only 75
+Cents a Month.
+_(Continued From First Page) _
+titled with the employer group and a
+third an outstanding physician or sur
+geon. The remaining members will be
+representatives of the public.
+As soon as the corporation is formed
+and works out the detailed plan of
+operation employes in private industry
+as well as Government service will be
+solicltled to subscribe. Mr. Himes said
+that private employers as well as offi
+cials in the departments had promised
+to co-operate to make the plan a success.
+All hospitals in Washington qualified
+to Join the movement were invited. Mr.
+Himes pointed out, and nearly all of
+them Indorsed the plan. Government
+hospitals, charitable hospitals and chil
+dren's hospitals, he said, were not
+qualified.
+‘‘The hospitals are enthusiastic about
+the plan, and we are assured of their
+co-operatloa,” Mr. Himes declared. "We
+also have the support of the medical
+profession and all big employers of
+labor, Federal as well as private.
+Flan Wide in Scope.
+"The plan means so much to the hos
+pitals. the employer group and the pub
+lic. and no city. I believe, promises such
+a large degree of success as Washington
+because of the large group of Govern
+ment employes."
+Data gathered by the group hos
+pitalization committee. Mr. Himes said,
+show that the average stay of a pa
+tient in a hospital in Washington is
+12 days, whereas the plan adopted will
+assure a subscriber-patient 21 days of
+rare. If a subscriber-patient is forced
+to remain beyond that period he will
+receive hospital treatment at a sub
+stantial discount under the regular
+rates.
+The hospitals co-operating, accord
+ing to Mr. Himes, have agreed to ac
+commodate the subscriber-patients in
+semi-private rooms or rooms having
+two beds.
+The group hospitalization plan was
+worked out by a general committee
+headed by Mr Himes, a former mem
+ber of Congress from Ohio, and now
+president of Columbia Hospital. E. J.
+Henryson is secretary of the commit
+tee He has just completed a trip to
+all cities in the Eastern and Middle
+Western States where the group hospi
+talization program has been adopted or
+is under consideration, where he gath
+ered information about the plan for the
+use of the incorporators
+The benefits to be offered subscribers,
+and the conditions under which such
+benefits are to be available, were' an
+nounced as follows:
+"1. Hospital care, as defined below,
+shall be available 15 days after the ap
+proval of the contract, except, that in
+case of accident, such care shall be
+provided immediately after the approval
+of the contract.
+"2. The subscriber may select any
+hospital having a contract with the
+Hospital Service Association in force at
+the time hospital service is required:
+however, such service is subject to the
+rules and regulations of the hospital
+selected by the subscriber, and Includes
+only the care of illness and injuries now
+accepted for treatment by such hospital.
+Res frictions Are Few.
+"3 Services shall be rendered under
+this contract only upon the authoriza
+tion and request of the subscriber's phy
+sician. who must be a member of the
+medical staff or council of, or accept
+able to. the selected hospital. Hospital
+care shall continue only during the time
+that the subscriber is under treatment
+and care of such physician in accord
+ance with his staff privileges at such
+hospital, and will end at the time that
+the subscriber is discharged as a hos
+pital patient by his physician. After
+the date of such discharge the sub
+scriber will be responsible to the hospi
+tal for payment of its regular charges.
+“4. If the hospital selected by the sub
+scriber is not in a position to furnish
+the required service, the subscriber, op
+the recommendation of his physician,
+shall be free to utilize the services of
+any other hospital equipped to give such
+service and participating in the Hos
+pital Service plan.
+"5. Hospital care will be furnished up
+to and including 21 days for each con
+tract year, during the time that this
+subscription is in force; such care may
+be given on one or more admissions,
+provided the aggregate days in any con
+tract year shall not exceed 21. Addi
+tional hospital care in excess of the
+stipulated 21 days, if needed, will be
+furnished to the subscriber at a dis
+count of 25 per cent from the regular
+hospital charge for similar accommo
+dations as provided for in the contract.
+To Get Private Room.
+"6. When admitted to a hospital, a
+subscriber shall be entitled tj occupy
+a bed in private or semi-private ac
+commodations. If the subscriber de
+sires to use more expensive accommoda
+tions. he may do so by paying, in ac
+cordance with the terms of the hospital,
+the difference between the accommoda
+tions occupied and the regular rate for
+the room and service desired.
+“7. Hospital care shall be construed
+to mean:
+"a. Bed and board, general nursing
+care, use of the operating room, sur
+gical dressings, ordinary medications,
+routine laboratory examinations and
+other customary routine care.
+"b. Obstetrical cases after the first
+10 months of the existence of this con
+tract.
+"8. Services not included:
+"a. The Hospital Service Association
+assumes no obligation other than those
+afore set forth.
+“b. The benefits offered by this con
+tract shall not include the services of
+the subscriber’s attending physician or
+surgeon, anesthetist, special nurses, or
+their board.
+“c. Hospital care for pulmonary tu
+berculosis (after diagnosis as such),
+acute veneral diseases, qu&rantinable
+diseases, alcoholic or drug addict cases,
+mental or nervous disorders, or hospital
+care provided for under workmen’s com
+pensation law are not included in the
+benefits offered by this contract.
+Altered During Disasters.
+"9. In the event of widespread disas
+ter. where the demands upon the Hos
+pital Service Association hospitals have
+exceeded their utmost capacity, and
+after all efforts have been exhausted in
+meeting the pressing situation, the re
+sponsibility of providing hospital care
+under this contract may be discharged
+by refunding to the subscriber needing
+hospitalization a sum equivalent to the
+amount that has been paid by him dur
+ing the current contract year, and such
+payment shall constitute a full and final
+discharge of all obligations of the Hos
+pital Service Association under this con
+tract.”
+The movement for group hospitaliza
+tion was first sponsored in Washington
+by the Council of Social Agencies. The
+organization which will put the plan
+into operation, however, will be separate
+from all existing social agencies.
+In working out the plan, a group
+headed by Dr. Francis J. Eisenman of
+Garfield Hospital, made an exhaustive
+research into the records of all Wash
+ington hospitals and the fee to sub
+scribers has been based on the figures
+compiled.
+Another subgroup, headed by Walter
+B. Clarkson, vice president of the C.
+P. Telephone Co., already has contact
+ed employers and employes. Dr. S. B.
+Ragsdale of Columbia Hospital was
+chairman of a group which drew up
+provisions of the contracts to be offered
+subscribers and hospitals.
+Dr. Charles Stanley White, promi
+nent Washington surgeon, was in
+charge of I subcommittee, .which en
+listed the support of the medical pro
+fes'ion. y
+Kidnaped Heir Found
+ILLIAM WALTON HALL, law student, shown above with one of hi
+two children. Hall, heir to a S200.000 Freeport. 111., estate, had been ir
+the hands of kidnapers since October 13. Federal agents are assistini
+police of Chicago. Forest Park and Freeport, in running down thi
+extortionists, who officials say. demanded $5,000 ransom.—A. P. Photo
+A
+TAMMANY LOOKS
+“Will He Come to Rescue?”
+Is Burning Question—Mc
+Kee Denounces La Guardia.
+By the Associated Press.
+NEW YORK. October 17.—Tammany
+Hall, fighting the most potent threat
+to Its power ,;i years, will open Its
+formal mayoralty campaign tonight
+with its strategists groping for an
+answer to the all-important question:
+"Will A1 Smith come to the rescue
+of the organization?”
+Tammany had no word as to whether
+former Gov. Smith would appear to
+night at the opening rally for Mayor
+John P. O'Brien at "the hall.’’ Some
+1 of Smith's intimates were of the opin
+Ilon that he would not appear.
+The campaigns of Tammany's two
+foes. Fusion and the Recovery party,
+continued to get up steam today.
+Parading to Queens amid streams of
+red fire last night. Fiorello H.
+La Guardia. Fusion nominee, accused
+the city government of bilking small
+home owners to hand tax cuts to big
+property owners.
+McKee Denies Anti-Semitism.
+Joseph V. McKee. Recovery party
+candidate, again denied La Guardia's
+charge of anti-Semitism. He said an
+article he wrote in 1915. while a school
+teacher, did not criticize the ethical
+i outlook of Jewish school children, but
+j criticized “only those who abandoned
+I Judaism.”
+"The charge is woven entirely out of
+the whole cloth.” he said in a speech
+to all New York City last night.
+McKee denounced La Guardia. as
+serting that he had injected the issue
+into the campaign, and called on voters
+not to be diverted from the main issue
+of overcoming "bossism" in the city gov
+ernment.
+No attempt was made by McKee sup
+porters to minimize the damage which
+might be done to his campaign as a re
+sult of the racial controversy.
+La Guardia followed up McKee's ex
+I planatory speech by declaring, as did
+Samuel Untermyer. prominent Jewish
+i leader and attorney, that it "explained
+nothing.” "McKee ought to be twice
+ashamed of himself,” La Guardia said.
+“Mr. McKee's charges that some one
+else had injected the religious issue in
+the campaign are like the pickpocket
+who shouts thief to avoid detection,”
+he said.
+Watch Election Board Session.
+In the background today, watched
+I closely by fusion and McKee managers,
+was the scheduled meeting of the Board
+of Elections to decide on the use of
+paper ballots or voting machines No
+vember 7.
+The filing of 28 party designations,
+including such original appellations as
+“Stork and Baby,” and "Goat,” might
+I overtax the capacity of the machines,
+i it was feared, and necessitate a return
+l to the old paper ballot.
+The anti-Semitic dispute arose over
+a portion of an article written by Mc
+Kee in 1915. when he was a public
+school teacher, in which, after stating
+that 75 f>er cent of the public school
+pupils were of Jewish extraction, he
+went on to say:
+"In oral discussions on such topics
+as 'Is Lying Justifiable?’ or ‘Is It Wrong
+to Cheat?’ their words consistently show
+that they recognize no code of morals,
+and are governed by no motives higher
+than those originating from fear of de- I
+tection and consequent loss in money.
+Surely we cannot look for ideal results
+from such material. It is to such as
+these that our children who are without
+the benefits of education must bow in
+later years.”
+McKee Explains Article.
+McKee accused La Guardia of mak-
+ing political capital of the issue.
+"My article was contributed to the
+Catholic World and it urged parents to
+see to it that their children received
+not only the benefits of secular educa
+tion in the grammar and high schools,
+but also the great advantages of reli
+gious education.” he said.
+“I realized then, as I do today, that
+religious education is a most powerful
+factor in the development of fine char
+acter. It was in that spirit that I point
+ed out that when the Jewish youth left
+the great teachings of Judaism, they lost
+the moral fiber which the precepts of
+Judaism inculcate.
+“I did not criticize Jews or Judism. I
+I criticized only those who abandoned
+i Judaism. Do Jews do less?"
+In Brooklyn, where yesterday insur
+gent district leaders took no action to
+ward unseating John H. McCooey as.
+leader, the so-called "revolt” appeared
+to have died quietly, or at least col
+lapsed until after November 7. Mean
+while, it appeared probable a steering
+committee would be set up to take over
+the duties left undirected because of
+McCnoey’s illness
+BABY UPSETS JURY
+Philadelphia Woman Can’t Serve
+Because Stork Interferes.
+PHILADELPHIA, October 17 UP).—
+Mr?.' Mary Widmann failed to show up
+for jury duty yesterday, but. instead of
+issuing a bench warrant, the court sent
+her congratulations.
+On the back of the jury notice Judge
+Raymond MacNeille penned a note to
+her new-born baby, telling him hi*
+mother was “excused to stay at borne I
+and love you.”
+Renewal of Campaign by Ex
+tortionist Who Threatened
+Life Reported.
+By the Associated Press.
+PHILADELPHIA, October 17—Thi
+Philadelphia Inquirer says Bett;
+Downes, 15-year-old daughter of i
+Pennsylvania Railroad official, is thi
+object of a renewed campaign by thi
+extortionist who threatened her life tw<
+months ago.
+As a result, the girl's bodyguard ha
+been recalled and armed men are as
+signed to protect her to and from schoo
+in the Chestnut Hill section of the city
+the Inquirer says.
+Despite a widespread search by loca
+police and Federal agents, the man re
+mains at large who demanded $15.00i
+from the girl's father. James R. Downes
+chief of freight transportation of thi
+Pennsylvania Railroad, as the price o
+her safety.
+The paper says he communicated b;
+telephone with the Downes home oi
+September 24 and Mrs. Downes mad
+an appointment to meet him in th
+lobby of the Du Pont Hotel in Wllming
+ton. Del. She kept the appointment
+escorted by Department of Justici
+agents, but the man did not appear, th
+paper adds. Two days later, he callei
+again with a promise that "you wil
+hear from me again."
+The girl first was threatened Augus
+5 while she was at a girl's camp li
+New Hampshire and National Guards
+men and deputy sheriffs were assignei
+to guard her and about 100 of he
+companions.
+KIDNAP STORY PROBED.
+Part Heir U $20J M* Says No Ransoi
+Was Paid.
+CHICAGO. October 17 (A>).—Williai
+Walton Hall wa3 reunited with his farm
+ily today while Federal and State au
+thorities investigated his story of hav
+ing been kidnaped by three men wh
+first demanded ransom of $15,000 an
+later reduced it to *9,000, only to re
+lease him without obtaining anythin*
+His bedraggled appearance when h
+appeared at a tavern late last nigh
+bore out the truth of his story, rela
+tives said, despite earlier assertions b
+his business partner, Harry De Lisle
+that he doubted if the 31-year-old lai
+student had actually been kidnaped.
+Later Federal agents took Hall, par
+heir to a 3200.000 Freeport, 111., estate
+and his attorney, J. G. Latimer, t
+headquarters for questioning.
+The story told by Hall was that th
+trio approached him last Friday nigh
+as he was driving away in his automo
+bile after attending a class at the Kent]
+College of Law and forced him to ac
+company them tc a house where the
+held him prisoner until shortly befor
+he appeared las; night.
+His release, he said, was effects
+when he spent all day Sunday impress
+ing upon the lone jailer left to guar
+him the seriousness of the crime o
+kidnaping. Last night, he said, th
+other two returned, blindfolded hin
+and put him out of their machine afte
+driving around les.-; than an hour.
+ICKES SEEKS CURB
+ON OUTPUT OF OIL;
+PLANS EMBARGOES
+_(Continued From First Page.) _
+for dther classes ranged up and dowi
+according to their quality, with a basi
+of $2.15 for Pennsylvania crude of thi
+Eureka grade.
+Prices for these base grades have riser
+in recent weeks to slightly more than
+and $2, respectively, as the result o
+Federal regulation of production ant
+sharp curtailment of the flow of oil ti
+market
+Differentials were set up throughou
+the wholesale field to govern the fllllni
+station price as well as quotations a
+refineries.
+7!i Cents From Tanks.
+The price of 60-64 Octane gasolin
+in the midcontinent area, one of thi
+major bases, was put at 6*2 cents 1
+gallon, while for the Eastern Seaboart
+it was placed at 7*4 cents for termina
+or barge deliveries, and 7(4' cents to
+tank car deliveries.
+The Pacific Coast was allowed 7>
+cents for tanker gasoline and 7% cent
+for tank-car prices, while varying sched
+ules were established for areas in whicl
+special factors such as transportatloi
+coats were above or below tbe genera
+level.
+Net prices to consumers will be gov
+erned by the spread allowed between th
+wholesale prices, to which taxes will b
+added by the retail dealer.
+For gasoline within the 50 to 59J
+octane rating, in which falls a larg
+share of that consumed, a spread of a
+least 5 <4 cents a gallon was allowed
+of which 3 cents shall be the mini
+mum allowance to the retail dealer.
+High-Test Figure*.
+Gasoline between 60 and 70 octam
+rating, or the high-test types, wa
+allowed a spread of 6*2 cents or more
+of which 4 cents was stipulated as thi
+minimum allowance to the retail dealer
+Special diflepentials were provided fai
+Colorado, Wyoming, Montana, Utah
+STRIKE MEDIATORS
+SCORE VICTORIES
+Weirton Workers to Return.
+Trouble Involving 9,000 in
+New York Settled.
+By the Associated Press.
+Peacemakers between capital and
+labor claimed several victories today
+and turned their attention to other
+points of friction in the Industrial
+machine.
+Striking steel workers at Weirton. W.
+Va., hailed a settlement announced yes
+terday by the National Labor Board.
+Chairman Robert F. Wagner said the
+workers would return at once.
+N. R. A. headquarters in New York
+announced settlement of four strikes in
+volving 9,000 bread makers, teamsters,
+market porters and shoe workers.
+Violence flared in scattered strike
+areas yesterday. Some high spots fol
+low.
+Los Angeles.—Pickets and workers
+clashed in a garment strike.
+Wilkes-Barre, Pa.—Dynamite dam
+aged homes of two miners.
+Brockton, Mass.—Heavy police details
+guarded W. L. Douglas Shoe Co.
+San Joaquin Valley, Calif.—12.000 cot
+ton pickers still remained away from
+fields.
+Disorder at Paterson.
+Paterson, N. J.—Meeting of striking
+dye workers broke up in disorder when
+Miss Ann Burlak, left wing leader, took
+I rostrum.
+Among other strikes still going on
+were: Coal miners in Indiana, silk or
+rayon workers in Rhode Island, Penn
+sylvania and New Jersey, garment work
+ers in Quincy, 111., sardine fishermen at
+Monterey, Calif.
+A signed contract with employers and
+the Government bound thousands of
+Weirton strikers to return to work.
+The agreement pledged the Weirton
+Co. to take the strikers back with
+out discrimination. It further prom
+ised that the board would supervise a
+December election at which employes
+will select representatives for collective
+bargaining with their employers.
+The settlement, which also refers
+any future disputes to the board, was
+signed by E. T. Weir, chairman of the
+National Steel Corporation and its sub
+sidiary, Weirton Steel: by William J.
+Long, for the strikers, and Wagner
+Quick disposition of the strike, after
+Weir first said he would not submit to
+arbitration, was regarded as a sig
+nificant victory for the board. The
+Strikers’ Committee, headed by Long,
+said it considered its case won.
+i Weir had told the Board the strike
+was called by 39 men "without most of
+the employes knowing what is was about
+without warning, notice or de
+mand of any kind.”
+Weir said company employes elected
+representatives last June, but Long con
+tended this election was unfair and that
+company officials refused to recognize a
+1 committee of the Amalgamated Associa
+tion of Iron. Steel and Tin Workers,
+later chosen by workers to represent
+them.
+1 The agreement reached was proposed
+by Wagner who congratulated both sides
+1 on their willingness to make concessions.
+Meanwhile, protests against delay in
+approving codes for the construction
+industries were filed with Hugh S John
+son. N. R. A. head, by a delegation
+representing the building trades.
+Separate Code Asked.
+Headed by M. J. McDonough, presi
+dent of the building trades department
+of the American Federation of Labor.
+the delegiaton asked a separate code
+for building construction, protested
+against the construction league master
+1 code, now under consideration, and took
+a stand against expressions of deputv
+administrators handling these industries
+for lower wages as an inducement to
+j capital to invest in construction.
+After the conference McDonough said
+Johnson had assured them that when
+the codes reach him he would give
+the union leaders an opportunity to
+voice their objections in detail.
+A particular protest made by the
+union men was against delay in ap
+j proval of subcontractor codes, which
+have been held up. while Deputy Ad
+1. mlnistrators Malcolm Muir and Mal
+colm Pimie work out their plan for
+keeping all construction wages at a low
+level for a period of one year, with
+progressive increases at stated inter
+vals after that time. This policy has
+1 not officially been passed upon vet bv
+Johnson.
+!n the delegation were John Coefleld.
+president of the Plumbers’ Union; P. J.
+Morrin of the Structural Iron Work
+t era; M. J. Colleran. plasterers; Dan
+Tracy, electricians: Harry Bates, brick
+1 layers; John Garvan, representing la
+borers and hod carriers, and John
+WorkersPrMident °f the Sheet Metal
+1 Ready to Attend Hearing.
+Disposal by the Labor Board of the
+weirton case postponed action again on
+the refusal of Western Kentucky coal
+T operators to attend an arbitration
+hearing, but it was learned that several
+of these already had informed Wagner
+m(,an to challenge the
+£?ar?, I™1 md,cated readiness to attend
+ircalledagain. Wagner expressed con
+fldence he would have then all in soon
+bearing on their refusal to deal
+with the United Mine Workers
+b°ard settled the Weirton
+strike- the heads of N. R. A. itself were
+seeking a solution t>f difficulties over
+price regulation in the codes for retail
+1 trade.
+ALABAMA MINERS RETURN.
+BIRMINGHAM. October 17 OP)_
+Striking coal miners have returned to
+work in Alabama
+k strikers, numbering approxi
+mately 1,200, agreed yesterday to re
+enter the shafts after placing their
+troubles in the hands of mediators.
+i “FRONT PORCH BOMBING.”
+j SCRANTON. Pa., October 17 C4>)
+Another in this area's mounting list
+i of “front porch bombings" today dam
+aged the home of Nicholas Bartocci of
+1 South Scranton. No one was injured.
+I An employe of the Grassv Island
+i Colliery at Olymphant. Bartocci haa
+refused to join the strike of a recently
+organized miners’ union in progress
+here.
+VIOLENCE IS RENEWED.
+UNIONTOWN, Pa., October 17 OP).
+—Bombs and gunfire shattered the
+quiet in the strike-bound coal fields of
+Fayette County last night and earlv
+today. One man was slightly hurt and
+several women suffered from shock.
+8everal bombs were exploded in the
+Colonial district, near mines of the
+H. C. Frick Coke Co. Gunfire was re
+ported at Rowes Run. not far away.
+and a bomb was thrown near a picket
+1 line there.
+J All of the explosions occurred in the
+1 open and were described by people who
+live in the region as having been caused
+by “scare bombs.”
+I
+ft
+1 Washington, Oregon. Idaho, Nevada,
+California, Arizona, New Mexico, Alaska
+i and the Hawaiian Islands, which in the
+main corresponded to the general levels
+provided.
+Ickes ruled in the order that any
+objections to the price levels would have
+to be filed in writing, accompanied by
+a statement of facts on which they were
+i based, before November 15.
+The Petroleum Administrative Board,
+i of which Nathan Margold, Interior
+.'Department solicitor, is chairman, was
+authorised to begin h—rtwge October
+SO on objections that may be presented.

@@ -1,0 +1,189 @@
+---
+// "How this was made": fixed copy about our own process. It makes no claim about any inductee.
+// Links to the public fact log exports (src/pages/data/[file].js: verified records only).
+// The room credits are read from the manifests that ship (content/scans/<id>.json, the
+// study-corner records), so this page cannot describe rooms the site no longer shows.
+import Base from '../layouts/Base.astro';
+import { listChapters, loadChapter, loadScan, listInductees, loadStudyCorner, usedScanIds } from '../content/load.js';
+import { loadHall } from '../content/hall.js';
+
+// Every scanned room a page shows, with where it is used (the rooms the production build ships:
+// usedScanIds).
+const uses = new Map(usedScanIds().map(id => [id, new Set()]));
+const hall = loadHall();
+if (hall && hall.scan) uses.get(hall.scan).add('the hallway');
+for (const { slug, n } of listChapters()) {
+  const room = loadChapter(slug, n).room;
+  if (room && typeof room === 'object' && room.scan) uses.get(room.scan).add('the chapter rooms');
+}
+const rooms = [...uses].map(([id, where]) => ({ m: loadScan(id), where: [...where].join(' and ') }));
+const masked = n => (n ? `${n} region${n === 1 ? '' : 's'} covered with a flat colour` : 'nothing covered');
+
+// The recreated study corners: which pieces come from a model kit, which we made.
+const words = k => k.replace(/-/g, ' ');
+const corners = listInductees().map(loadStudyCorner).filter(Boolean).map(c => {
+  const models = c.models || {};
+  const included = new Set(Object.values(models).flatMap(m => m.includes || []));
+  const kit = c.objects.filter(o => o.model).map(o => words(o.kind) + ((models[o.model].includes || []).length ? ` (with its ${models[o.model].includes.map(words).join(', ')})` : ''));
+  const ours = c.objects.filter(o => !o.model && !included.has(o.id)).map(o => words(o.kind));
+  const used = new Set(Object.values(models).map(m => m.source));
+  return { label: c.label, kit, ours, sources: (c.sources || []).filter(s => used.has(s.id)) };
+});
+const list = xs => (xs.length < 2 ? xs.join('') : `${xs.slice(0, -1).join(', ')} and ${xs[xs.length - 1]}`);
+---
+<Base title="How this was made" description="How the facts, scanned rooms, portraits and voices in IHH: Voices of Arrival were made and checked.">
+  <article class="method">
+    <h1>How this was made</h1>
+    <p class="lede">Every sentence, label and caption in these rooms comes from a fact we can show you. This page explains how
+      those facts were collected and checked, and what the rooms, portraits and voices are made of.</p>
+
+    <section aria-labelledby="facts">
+      <h2 id="facts">Facts first</h2>
+      <p>Each fact is one short claim, stored with the exact words from its source, a link to that source and a saved copy of
+        the page. An AI agent searches archives, libraries, museums and government records and extracts candidate facts.</p>
+      <p>A second AI model then checks every fact on its own: a different model, run in a separate session, that sees the
+        claim and the evidence but never the first model's reasoning, and is told to refute the fact if it can. Automatic
+        checks confirm that the quoted words really appear in the saved source and that the source is the kind it claims to be.</p>
+      <p>A fact is used only when both models agree and every check passes. When they disagree, nothing is published on its
+        own: the fact waits for a person to decide.</p>
+      <p>Before the site is built, a final check compares every sentence with the facts it cites. A sentence that contains a
+        word, date or number its facts do not contain stops the build. Quotes must match their source word for word.</p>
+      <p>Next to each sentence, a <strong>Source</strong> button opens the source's title, holder, date and link.</p>
+    </section>
+
+    <section aria-labelledby="evidence">
+      <h2 id="evidence">Evidence tiers</h2>
+      <dl class="tiers">
+        <dt>Verified</dt>
+        <dd>Backed by the original record itself, or by two independent holders, at least one of them an archive, library,
+          museum or government body. Only verified facts appear on this site.</dd>
+        <dt>Single source</dt>
+        <dd>Found in one source only. Not shown.</dd>
+        <dt>Disputed</dt>
+        <dd>Sources or checks disagree. Not shown.</dd>
+        <dt>Rejected</dt>
+        <dd>Failed a check. Not shown.</dd>
+      </dl>
+      <p>Exhibits carry one of three labels: <strong>Original record</strong> (a scan of the document),
+        <strong>Original photograph</strong>, or <strong>Reconstruction</strong> (made by us, always with a link to the original).</p>
+    </section>
+
+    <section aria-labelledby="rooms">
+      <h2 id="rooms">The rooms are scans of real rooms</h2>
+      <p>The rooms you walk through are 3D scans of historic rooms in Swedish museums, published by the museums themselves
+        under the Creative Commons Attribution 4.0 licence (CC BY 4.0). They are not places any inductee lived or worked in,
+        and the museums are not connected to the Immigrant Hall of Honor or its inductees; each room says so on its label.</p>
+      <ul class="credits">
+        {rooms.map(({ m, where }) => (
+          <li><strong>{m.place}</strong>, used for {where}. Published by {m.publisher}:
+            <a href={m.sketchfab_url}>{m.title}</a>, <a href={m.licence_url}>{m.licence}</a>; {masked((m.crops || []).length)}.
+            <span class="credit-text">{m.credit}</span></li>
+        ))}
+      </ul>
+      <p>What we changed is listed in each credit. We stood each room upright and centred it, set its scale from a height
+        we could check (a table top or a seat), simplified and recompressed the mesh for the web (more for phones), and
+        resized, colour-balanced and recompressed its photographs. The room is shown as it was photographed, without our lighting: the light you see is
+        the light the museum's scan recorded. A small preview loads first, then the full room for your device.</p>
+      <p>Before a room was used, we listed every painting, tapestry and painted or carved piece visible in the scan and
+        matched each to the museum's catalogue record. A work is shown only if its artist died more than 70 full years ago
+        or, with no known artist, the catalogue dates it at least 191 years back, so no one who made it can still hold a
+        copyright. Anything that does not clear, and any modern sign we could read, is covered with a flat colour in the
+        files we ship. Rooms where too much could not be cleared are not used. The build refuses a room whose list has
+        changed since it was reviewed, or whose files differ from the ones reviewed.</p>
+      <p>Our own exhibits stand on easels and stands we model, lit to sit with the scan. Letters and documents shown in 3D
+        are a sheet of paper we model, printed with the holder's scan. The original record is always one link away.</p>
+    </section>
+
+    <section aria-labelledby="reconstructions">
+      <h2 id="reconstructions">The recreated study corner</h2>
+      {corners.map(c => (
+        <>
+          <p>In one room, a corner is set out like a study shown in two archive photographs ({c.label.replace(/^Recreation based on photographs: /, '')}).
+            It is a recreation, not the room in the photographs. We placed only the kinds of furniture the photographs show,
+            at sizes and positions estimated from them. The pieces are modern stand-ins, not the original designs: the
+            {' '}{list(c.kit)} come from a ready-made furniture kit, each used on its own and resized, and the {list(c.ours)} are
+            simple shapes we generate. The kit's paintings, whose origin and rights are unknown, are never shipped.</p>
+          <ul class="credits">
+            {c.sources.map(s => (
+              <li><a href={s.url}>{s.title}</a> by {s.author}, <a href={s.licence_url}>{s.licence}</a>. {s.changes}</li>
+            ))}
+          </ul>
+        </>
+      ))}
+      <p>The corner's plaque names the photographs it is based on, with their holder and date, and links to each untouched
+        original ("See the original").</p>
+    </section>
+
+    <section aria-labelledby="portraits">
+      <h2 id="portraits">Painted portraits</h2>
+      <p>Each portrait is painted by our own software filter from an archive photograph that is in the public domain or under
+        an open licence. The filter repaints the photograph's own pixels; no face, expression or feature is generated.</p>
+      <p>The slight movement comes from a depth estimate made by an AI model (Depth Anything V2 Small, Apache-2.0 licence),
+        which shifts the painting in layers. The mouth never moves. If your device asks for reduced motion, the portrait stays
+        still, and you can pause the motion at any time.</p>
+      <p>The people shown did not pose for or approve these paintings. Each portrait names the holder and date of the photograph it was made from.</p>
+    </section>
+
+    <section aria-labelledby="voices">
+      <h2 id="voices">Voices</h2>
+      <p>The guide's narration and the spoken quotes use AI-generated voices from Kokoro-82M (Apache-2.0 licence), generated
+        in advance on our own computer, not live. They are stock voices that come with the model; none is cloned from, or made to imitate, a real
+        person's recordings.</p>
+      <p>A quote voice reads only a cited quote, word for word, and is labeled "AI-generated voice, not [name]'s voice", with
+        the source and date of the words. Every recording has captions and a written transcript.</p>
+    </section>
+
+    <section aria-labelledby="rights">
+      <h2 id="rights">Images and rights</h2>
+      <p>We show an image only when its holder marks it public domain or under a CC0, CC BY or CC BY-SA licence. Credits and
+        rights statements are shown in the holder's exact wording. Anything else is linked, not shown.</p>
+      <p>The optional room sound is brown noise generated by our own script; no recording is used. It is off until you turn it on.</p>
+    </section>
+
+    <section aria-labelledby="globe">
+      <h2 id="globe">Journey globe</h2>
+      <p>The Earth on each journey page is NASA's Blue Marble: Next Generation (July 2004, with topography and bathymetry), from
+        <a href="https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-topography-bathymetry/">NASA Visible Earth / Blue Marble</a>.
+        As a work of NASA it is in the public domain in the United States; we only resized it. NASA does not endorse this project.</p>
+      <p>A stop gets a pin only when one of its cited facts names the place. The pin sits at that place's published coordinates
+        (from Wikidata, linked from each stop), so its position is approximate and is not a claim about where exactly anyone stood.
+        The travel lines join the pins in order along the shortest path over the globe; they show sequence, not the route taken.
+        Without 3D, or if your device asks for reduced motion, the same stops appear on a flat drawn map.</p>
+    </section>
+
+    <section aria-labelledby="typeface">
+      <h2 id="typeface">Typeface</h2>
+      <p>The home page, the timelines and the site's header and footer are set in Poppins (Copyright 2020 The Poppins Project
+        Authors, Indian Type Foundry), under the SIL Open Font License 1.1. We serve the font files from this site, from the
+        Fontsource 5.3.0 build; no font is loaded from another host. The licence text is at
+        <a href="/fonts/poppins/OFL.txt">/fonts/poppins/OFL.txt</a>.</p>
+    </section>
+
+    <section aria-labelledby="fact-log">
+      <h2 id="fact-log">The fact log</h2>
+      <p>These files list the verified facts and media used across the project, with their sources, evidence quotes and the
+        results of each check. Candidates that are not verified are left out. Every fact and media row names its
+        review state; only rows marked approved or edited have passed review by the Immigrant Hall of Honor team, and rows marked
+        pending have not yet been reviewed.</p>
+      <ul class="downloads">
+        <li><a href="/data/facts.csv" download>Facts (CSV)</a></li>
+        <li><a href="/data/sources.csv" download>Sources (CSV)</a></li>
+        <li><a href="/data/media.csv" download>Media (CSV)</a></li>
+        <li><a href="/data/provenance.jsonld" download>Provenance (JSON-LD, schema.org and PROV-O)</a></li>
+      </ul>
+    </section>
+  </article>
+</Base>
+
+<style is:global>
+  .method { padding: var(--space-4); max-width: 760px; margin: 0 auto; line-height: 1.55; }
+  .method h1, .method h2 { font-family: var(--f-serif); }
+  .method h2 { margin-top: var(--space-6); scroll-margin-top: var(--space-4); }
+  .method .lede { font-size: 1.1rem; }
+  .method .tiers dt { font-weight: bold; margin-top: var(--space-3); }
+  .method .tiers dd { margin: var(--space-1) 0 0; }
+  .method a { color: var(--c-accent); }
+  .method .downloads a { display: inline-block; min-height: 24px; padding: var(--space-1) 0; }
+  .method .credits li { margin-bottom: var(--space-3); }
+  .method .credit-text { display: block; font-size: 0.9rem; color: var(--c-muted); overflow-wrap: anywhere; }
+</style>

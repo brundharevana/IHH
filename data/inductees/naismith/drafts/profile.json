@@ -1,0 +1,120 @@
+{
+  "slug": "naismith",
+  "generated": "2026-10-09",
+  "run_id": "naismith-2026-10-09",
+  "summary": [
+    {
+      "text": "James Naismith was born in Almonte, Ontario on November 6, 1861.",
+      "fact_ids": [
+        "NAI-F-0035"
+      ]
+    },
+    {
+      "text": "James Naismith invented the game of basketball in 1891.",
+      "fact_ids": [
+        "NAI-F-0067"
+      ]
+    },
+    {
+      "text": "He coached basketball at the University of Kansas.",
+      "fact_ids": [
+        "NAI-F-0051"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "basketball",
+      "title": "The first game of basketball",
+      "sentences": [
+        {
+          "text": "The assignment was to create a game that could be played indoors between the football and baseball seasons.",
+          "fact_ids": [
+            "NAI-F-0078"
+          ]
+        },
+        {
+          "text": "The first game of basketball was played in 1891.",
+          "fact_ids": [
+            "NAI-F-0079"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "title": "Author of Basket ball",
+      "sentences": [
+        {
+          "text": "James Naismith is the author of Basket ball, with Luther Halsey Gulick as joint author.",
+          "fact_ids": [
+            "NAI-F-0071"
+          ]
+        },
+        {
+          "text": "Basket ball was published in New York City by American sports publishing company, c1894.",
+          "fact_ids": [
+            "NAI-F-0072"
+          ]
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1861-11-06",
+      "title": "Born in Almonte, Ontario",
+      "text": "James Naismith was born in Almonte, Ontario on November 6, 1861.",
+      "fact_ids": [
+        "NAI-F-0035"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1891",
+      "title": "Invented the game of basketball",
+      "text": "James Naismith invented the game of basketball in 1891.",
+      "fact_ids": [
+        "NAI-F-0067"
+      ],
+      "media_ids": []
+    }
+  ],
+  "artifacts": [
+    {
+      "media_id": "NAI-M-0003",
+      "caption": "Basket ball by James Naismith, with Luther Halsey Gulick as joint author, was published in New York City by American sports publishing company, c1894.",
+      "fact_ids": [
+        "NAI-F-0071",
+        "NAI-F-0072"
+      ]
+    }
+  ],
+  "avatar_lines": [
+    {
+      "speaker": "guide",
+      "kind": "narration",
+      "text": "James Naismith was born in Almonte, Ontario on November 6, 1861.",
+      "fact_ids": [
+        "NAI-F-0035"
+      ]
+    }
+  ],
+  "how_to_cite": null,
+  "gaps": [
+    "Family (parents, siblings, upbringing, marriages, children): no verified fact yet; 13 candidates deferred in staging, several conflicting with each other on the year he was orphaned and the day of his first marriage.",
+    "Education (McGill, Presbyterian College, YMCA Training School, Gross Medical College): no verified fact yet; 22 candidates deferred, with conflicts on the year and subject of the McGill degree; IHH page degree claims (physical education degree 1888, M.D. 1898) not independently confirmed.",
+    "Arrival in the United States: no verified source yet; NAI-F-0001 (IHH page) is single-source and gives a settlement place, not an entry date, port or mode; NAI-F-0006 is disputed (compound claim); NAI-F-0007, NAI-F-0039 and NAI-F-0040 are single-source.",
+    "Citizenship: no verified fact yet; NAI-F-0008, NAI-F-0064 and NAI-F-0065 are disputed (compound claim or live catalogue record unreadable) and NAI-F-0041 is single-source.",
+    "Legacy: no verified fact yet; NAI-F-0069 is disputed and legacy candidates (hall of fame naming, stamps, Olympic appearance, rules document, National Historic Person designation, audio recording) were deferred over the fact cap.",
+    "Career: Denver YMCA (NAI-F-0049), McGill athletics (NAI-F-0020), Kansas National Guard and Mexican frontier service (NAI-F-0025, NAI-F-0057), ordination (NAI-F-0058) and France 1917-1919 (NAI-F-0026, NAI-F-0059) are single-source; retirement date is disputed (NAI-F-0056) and single-source (NAI-F-0023, NAI-F-0024).",
+    "Awards: FIBA Hall of Fame (NAI-F-0028), Canada's Sports Hall of Fame (NAI-F-0029), Ottawa Sport Hall of Fame (NAI-F-0030), McGill Sports Hall of Fame (NAI-F-0031), McGill 1938 degree (NAI-F-0033), FIBA honorary president (NAI-F-0063) and the honorary MPE (NAI-F-0062) are single-source; the honorary degree year is disputed (NAI-F-0032, NAI-F-0077).",
+    "Invention details: date of the first game (NAI-F-0015), December 1891 dating (NAI-F-0009, NAI-F-0013), ten-foot height (NAI-F-0011), team size (NAI-F-0068) and influences (NAI-F-0016) are single-source.",
+    "Death: place of burial (NAI-F-0004), home address (NAI-F-0002) and cause of death (NAI-F-0038) are single-source; NAI-F-0076 is disputed (live catalogue record unreadable).",
+    "IHH page claims not independently confirmed: NAI-F-0001 (settlement 1890); deferred IHH claims on a football helmet (1893), Head of Physical Education at the Training School (1891), Kansas department chairmanship, M.D. 1898 and a 1991 Canadian stamp.",
+    "Single-fact sections: the summary and the author section rest on one fact each per sentence; the McGill and Springfield section has two facts and none on his studies there.",
+    "Media: 18 of 32 items disputed and 7 rejected (no rights statement); NAI-M-0001 and NAI-M-0002 carry no confirmed licence (rights not evaluated or unknown); most Springfield College digital collection items need live confirmation of the catalogue record.",
+    "Search families: identify produced nothing (discovery only); NARA produced one item from 33 searches; 71 of 75 corroboration searches added no new source.",
+    "Quotes: no verified quote in Naismith's own words; candidates from the 1939 radio interview transcript and secondary quotations were deferred."
+  ]
+}

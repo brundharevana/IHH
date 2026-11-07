@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Painted Mouth Warp</title>
+<link rel="stylesheet" href="common.css">
+</head>
+<body>
+<main>
+  <p class="kicker">Prototype P2 · painted portrait with mouth warp (test only)</p>
+  <h1>Albert Einstein</h1>
+  <p class="label warn">AI voice reading Einstein's own words, from his letter to President Franklin D. Roosevelt, 2 August 1939. The voice is synthetic, not Einstein's, and the mouth movement is computer-generated: Einstein was not filmed saying this.</p>
+  <figure>
+    <canvas id="c" role="img" aria-label="Painted portrait of Albert Einstein whose lower lip and chin move with the synthetic voice."></canvas>
+    <img id="still" src="portrait.webp" alt="Painted portrait of Albert Einstein, older, with white hair and a dark coat." hidden>
+    <div class="caption" id="cap" aria-hidden="true"></div>
+  </figure>
+  <div class="controls">
+    <button id="play" type="button">Play voice</button>
+    <button id="slow" type="button" class="secondary" aria-pressed="false">Exaggerate x2</button>
+  </div>
+  <audio id="a" src="einstein.mp3" preload="auto">
+    <track kind="captions" src="einstein.vtt" srclang="en" label="English" default>
+  </audio>
+  <details>
+    <summary>How the mouth is driven</summary>
+    <p>The ONNX export of Kokoro returns audio only, no phoneme durations. The timeline is therefore approximate: each caption phrase's Kokoro phonemes are spread evenly over that phrase's measured duration, mapped to an openness value (open vowels high, p/b/m closed), then gated by the audio loudness so silence closes the mouth.</p>
+    <p class="source">Quote and source as in P1: Einstein to Roosevelt, 2 August 1939, checked 2026-10-09 at <a href="https://germanhistorydocs.org/en/nazi-germany-1933-1945/letter-from-albert-einstein-to-us-president-roosevelt-on-the-prospect-of-an-atomic-bomb-august-2-1939">GHDI</a>.</p>
+  </details>
+  <p class="stats" id="stats" aria-hidden="true"></p>
+</main>
+<script type="module">
+import { reduceMotion, loadImage, loadTiming, makeGL, wireAudio, envAt, makeStats } from './common.js';
+
+// Mouth line measured on the 648x800 painted portrait: centre (370, 401) px, half-width about 42 px.
+const FS = `#version 300 es
+precision highp float;
+in vec2 vUv; out vec4 o;
+uniform sampler2D uImg; uniform float uOpen;
+const vec2 M = vec2(370.0/648.0, 401.0/800.0);
+const float HW = 42.0/648.0, H = 50.0/800.0;
+void main(){
+  vec2 p = vUv;
+  float dx = (vUv.x - M.x) / HW, dy = vUv.y - M.y;
+  float fx = 1.0 - smoothstep(0.55, 1.0, abs(dx));
+  float below = step(0.0, dy) * (1.0 - smoothstep(0.0, H, dy));
+  float shift = uOpen * 0.014 * fx;          // jaw drop, in uv
+  p.y -= shift * below;                      // pull lip and chin content down
+  vec3 c = texture(uImg, p).rgb;
+  // Dark gap between upper and lower lip.
+  float gap = fx * step(0.0, dy) * (1.0 - smoothstep(shift * 0.55, shift * 0.9 + 0.0005, dy));
+  c = mix(c, vec3(0.10, 0.07, 0.09), 0.85 * gap * smoothstep(0.0, 0.002, shift));
+  o = vec4(c, 1.0);
+}`;
+
+const OPEN = { 'ɑ':1, 'a':1, 'æ':.95, 'ɐ':.8, 'ʌ':.8, 'ɒ':.85, 'ɔ':.75, 'ɜ':.6, 'ɛ':.7, 'e':.55, 'ə':.45, 'ɪ':.35, 'i':.3, 'ʊ':.4, 'u':.35, 'o':.6,
+  'p':0, 'b':0, 'm':0, 'f':.12, 'v':.12, 'w':.2, 'θ':.2, 'ð':.2, 's':.18, 'z':.18, 'ʃ':.22, 'ʒ':.22, 'tʃ':.2, 'l':.3, 'ɹ':.25, 'j':.25, 'k':.3, 'g':.3, 'ŋ':.25, 'n':.22, 't':.2, 'd':.2, 'h':.4 };
+
+const canvas = document.getElementById('c'), still = document.getElementById('still');
+const audio = document.getElementById('a'), cap = document.getElementById('cap');
+wireAudio(audio, cap, document.getElementById('play'));
+const stats = makeStats(document.getElementById('stats'));
+const [img, timing] = await Promise.all([loadImage('portrait.webp'), loadTiming()]);
+const g = makeGL(canvas, FS, [['uImg', img]]);
+
+// Build the viseme timeline: [time, openness] keyframes.
+const keys = [];
+for (const c of timing.cues) {
+  const toks = [...c.ph.replace(/[ˈˌː.,]/g, '')];
+  const step = (c.end - c.start) / toks.length;
+  toks.forEach((ch, i) => keys.push([c.start + i * step, ch === ' ' ? 0.1 : (OPEN[ch] ?? 0.25)]));
+  keys.push([c.end, 0]);
+}
+function visemeAt(t) {
+  let lo = 0, hi = keys.length - 1;
+  while (hi - lo > 1) { const m = (lo + hi) >> 1; if (keys[m][0] <= t) lo = m; else hi = m; }
+  return keys[lo][1];
+}
+
+let gain = 1, cur = 0;
+document.getElementById('slow').addEventListener('click', (e) => {
+  gain = gain === 1 ? 2 : 1; e.target.setAttribute('aria-pressed', String(gain === 2));
+});
+if (!g || reduceMotion.matches) { still.hidden = false; canvas.hidden = true; }
+else {
+  const frame = () => {
+    const a = performance.now();
+    const t = audio.currentTime;
+    const target = audio.paused ? 0 : visemeAt(t) * Math.min(1, envAt(timing, t) * 1.8) * gain;
+    cur += (target - cur) * (target > cur ? 0.55 : 0.35);   // fast open, slower close
+    g.draw({ uOpen: cur });
+    stats.frames++; stats.jsMs += performance.now() - a;
+    requestAnimationFrame(frame);
+  };
+  requestAnimationFrame(frame);
+}
+</script>
+</body>
+</html>

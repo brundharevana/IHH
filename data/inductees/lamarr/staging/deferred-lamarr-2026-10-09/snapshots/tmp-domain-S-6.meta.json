@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.afi.com/Catalog/moviedetails/7907",
+  "fetch_url": "https://catalog.afi.com/Catalog/moviedetails/7907",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:51:21Z",
+  "sha256": "94eac93a6b31e607350c7e466e0c6537acf28d68f2a56162f6e1550925daa9a5",
+  "bytes": 18428,
+  "http_status": 200,
+  "final_url": "https://catalog.afi.com/Catalog/moviedetails/7907"
+}

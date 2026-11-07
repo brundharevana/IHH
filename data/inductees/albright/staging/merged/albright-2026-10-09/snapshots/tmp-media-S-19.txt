@@ -1,0 +1,35 @@
+title: File:Madeleine Albright and Daniel Goldin Wait for STS-88 Launch - GPN-2002-000091.jpg
+DateTime: 2009-04-09 22:30:13
+ObjectName: Madeleine Albright and Daniel Goldin Wait for STS-88 Launch - GPN-2002-000091
+CommonsMetadataExtension: 1.2
+Categories: PD NASA|STS-88|Michael Lopez-Alegria|Daniel Goldin|December 1998 in Florida|Images with extracted images|Great Images in NASA|Madeleine Albright in 1998|Kennedy Space Center in 1998|Apollo/Saturn V Center|Files from NASA with known IDs
+ImageDescription: U.S. Secretary of State Madeleine Albright talks with NASA Administrator Daniel Goldin (left) in the VIP lounge at the Kennedy Space Center's Apollo/Saturn V Facility while awaiting launch of STS-88, the first U.S. launch for the International Space Station. Astronaut Michael Lopez-Alegria and an along with an unidentified man (on the right) are in the background.
+DateTimeOriginal: 1998-12-03
+Credit: https://images.nasa.gov/details/KSC-98pc1769
+
+http://dayton.hq.nasa.gov/IMAGES/LARGE/GPN-2002-000091.jpg on the Wayback Machine at the Wayback Machine
+
+http://grin.hq.nasa.gov/ABSTRACTS/GPN-2002-000091.html on the Wayback Machine at the Wayback Machine
+Artist: NASA
+Permission: Public domainPublic domainfalsefalse
+
+This file is in the public domain in the United States because it was solely created by NASA. NASA copyright policy states that "NASA material is not protected by copyright unless noted". (See Template:PD-USGov, NASA copyright policy page or JPL Image Use Policy.)
+
+Warnings:
+
+Use of NASA logos, insignia and emblems is restricted per U.S. law 14 CFR 1221.
+
+The NASA website hosts a large number of images from the Soviet/Russian space agency, and other non-American space agencies. These are not necessarily in the public domain.
+
+Materials based on Hubble Space Telescope data may be copyrighted if they are not explicitly produced by the STScI.[1] See also {{PD-Hubble}} and {{Cc-Hubble}}.
+
+The SOHO (ESA & NASA) joint project implies that all materials created by its probe are copyrighted and require permission for commercial non-educational use. [2]
+
+Images featured on the Astronomy Picture of the Day (APOD) web site may be copyrighted. [3]
+
+The National Space Science Data Center (NSSDC) site has been known to host copyrighted content. Its photo gallery FAQ states that all of the images in the photo gallery are in the public domain "Unless otherwise noted."
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

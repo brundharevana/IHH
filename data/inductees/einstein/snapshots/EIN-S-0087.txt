@@ -1,0 +1,1244 @@
+_version_: 1844574894428258304
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn92070146/1931-01-01/ed-1/
+aka[1]: http://www.loc.gov/resource/sn92070146/1931-01-01/ed-1/
+batch[0]: curiv_paperflower_ver01
+call_number[0]: Newspaper
+call_number[1]: F868.I2
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/california/
+composite_location[2]: 2/united states/california/imperial/
+composite_location[3]: 3/united states/california/imperial/el centro/
+contributor_names[0]: University of California, Riverside; Riverside, CA
+contributors[0].university of california, riverside; riverside, ca: https://www.loc.gov/search/?fa=contributor:university+of+california,+riverside%3B+riverside,+ca&fo=json&st=text
+created_published[0]: El Centro, Calif., January 1, 1931
+date: 1931-01-01
+date_issued: 1931-01-01
+dates[0].1931-01-01: https://www.loc.gov/search/?dates=1931-01-01/1931-01-01&fo=json&st=text
+dates_of_publication: 1907-current
+description[0]: El Centro, Calif.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-09-02T13:59:03.180Z
+extract_urls[0]: file:/service/ndnp//curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1931010101/1931010101_1.xml#ndnp/curiv
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Electronic journals
+genre[1]: Periodicals
+genre[2]: Newspapers
+group[0]: ndnp/curiv
+group[1]: university-of-california-riverside-riverside-ca-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn92070146/1931-01-01/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_paperflower_ver01:data:sn92070146:0041418859A:1931010101:1209/full/pct:6.25/0/default.jpg#h=454&w=355
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_paperflower_ver01:data:sn92070146:0041418859A:1931010101:1209/full/pct:12.5/0/default.jpg#h=909&w=710
+index: 1
+item.batch[0]: curiv_paperflower_ver01
+item.call_number[0]: Newspaper
+item.call_number[1]: F868.I2
+item.contributor_names[0]: University of California, Riverside; Riverside, CA
+item.created_published[0]: El Centro, Calif., January 1, 1931
+item.date: 1907
+item.date_issued: 1931-01-01
+item.dates[0]: 1931-01-01
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Electronic journals
+item.genre[1]: Periodicals
+item.genre[2]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn92070146
+item.location[0]: Imperial County (Calif.)
+item.location[1]: San Diego County (Calif.)
+item.location[2]: California--Imperial County
+item.location[3]: California--San Diego County
+item.medium: 6 pages
+item.newspaper_title[0]: Imperial Valley press
+item.notes[0]: Daily, Sept. 30, 1911-
+item.notes[1]: Vol. 7, no. 14 (July 17, 1907)-
+item.notes[2]: Published as: Imperial Valley press and El Centro progress, Jan. 16-Oct. 25, 1922.
+item.notes[3]: Published combined issues on holidays: The morning post-Imperial Valley press, Nov. 28, 1935 and Dec. 25, 1935. On Sundays published as: The Post-press, Jan. 12, 1936-Oct. 30, 1960; Imperial Valley news-press, Nov. 6, 1960-Feb. 26/27, 1967; Imperial Valley press/The Brawley news, Oct. 2, 1988-June 7, 1992; published as combined Sat./Sun. ed., Apr. 29/30, 1961-
+item.notes[4]: Sunday issues have their own numbering.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Master negatives are available for duplication from: California Newspaper Microfilm Archive; positive copies may be purchased by the reel; for further information consult the CNMA at: http://cbsr.ucr.edu
+item.notes[7]: Oct. 7, 1993.
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1931010101/1931010101_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn92070146/marcxml
+item.other_title[0]: Imperial Valley press and El Centro progress
+item.other_title[1]: Post-press
+item.other_title[2]: Imperial Valley news-press
+item.other_title[3]: Imperial Valley press/Brawley news
+item.other_title[4]: Morning post-Imperial Valley press
+item.other_title[5]: At head of title: Extra Imperial Valley press
+item.place_of_publication: El Centro, Calif.
+item.raw_lccn: sn 92070146
+item.reel_numbers[0]: 0041418859a
+item.source_group: ndnp/curiv
+item.subjects[0]: Imperial County (Calif.)--Newspapers
+item.subjects[1]: San Diego County (Calif.)--Newspapers
+item.subjects[2]: California--Imperial County
+item.subjects[3]: California--San Diego County
+item.subjects[4]: United States--California--Imperial--El Centro
+item.title: Imperial Valley press (El Centro, Calif.), January 1, 1931
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn92070146
+location[0]: imperial county
+location[1]: united states
+location[2]: el centro
+location[3]: california
+location[4]: imperial
+location[5]: san diego county
+location_city[0]: el centro
+location_country[0]: united states
+location_county[0]: imperial
+location_state[0]: california
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json&st=text
+locations[1].el centro: https://www.loc.gov/search/?fa=location:el+centro&fo=json&st=text
+locations[2].imperial: https://www.loc.gov/search/?fa=location:imperial&fo=json&st=text
+locations[3].imperial county: https://www.loc.gov/search/?fa=location:imperial+county&fo=json&st=text
+locations[4].san diego county: https://www.loc.gov/search/?fa=location:san+diego+county&fo=json&st=text
+locations[5].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].el centro: https://www.loc.gov/search/?fa=location_city:el+centro&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].imperial: https://www.loc.gov/search/?fa=location_county:imperial&fo=json&st=text
+locations_state[0].california: https://www.loc.gov/search/?fa=location_state:california&fo=json&st=text
+medium: 6 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Imperial Valley press
+notes[0]: Daily, Sept. 30, 1911-
+notes[1]: Vol. 7, no. 14 (July 17, 1907)-
+notes[2]: Published as: Imperial Valley press and El Centro progress, Jan. 16-Oct. 25, 1922.
+notes[3]: Published combined issues on holidays: The morning post-Imperial Valley press, Nov. 28, 1935 and Dec. 25, 1935. On Sundays published as: The Post-press, Jan. 12, 1936-Oct. 30, 1960; Imperial Valley news-press, Nov. 6, 1960-Feb. 26/27, 1967; Imperial Valley press/The Brawley news, Oct. 2, 1988-June 7, 1992; published as combined Sat./Sun. ed., Apr. 29/30, 1961-
+notes[4]: Sunday issues have their own numbering.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Master negatives are available for duplication from: California Newspaper Microfilm Archive; positive copies may be purchased by the reel; for further information consult the CNMA at: http://cbsr.ucr.edu
+notes[7]: Oct. 7, 1993.
+number[0]: sn92070146
+number[1]: 0041418859a
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn92070146
+number_reel[0]: 0041418859a
+numeric_shelf_id: 193101011
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1931010101/1931010101_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn92070146/marcxml
+other_title[0]: Imperial Valley press and El Centro progress
+other_title[1]: Post-press
+other_title[2]: Imperial Valley news-press
+other_title[3]: Imperial Valley press/Brawley news
+other_title[4]: Morning post-Imperial Valley press
+other_title[5]: At head of title: Extra Imperial Valley press
+partof[0].count: 10381
+partof[0].title: imperial valley press (el centro, calif.) 1907-current
+partof[0].url: https://www.loc.gov/search/?fa=partof:imperial+valley+press+%28el+centro,+calif.%29+1907-current&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: imperial valley press (el centro, calif.) 1907-current
+place_of_publication: El Centro, Calif.
+publication_frequency[0]: daily
+raw_lccn: sn 92070146
+reel_numbers[0]: 0041418859a
+resources[0].files: 6
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_paperflower_ver01:data:sn92070146:0041418859A:1931010101:1209/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn92070146/1931-01-01/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.850525
+shard: 07
+shelf_id: sn92070146, 1931-01-01, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/curiv
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: imperial county
+subject[1]: newspapers
+subject[2]: imperial
+subject[3]: el centro
+subject[4]: imperial county (calif.)
+subject[5]: california
+subject[6]: united states
+subject[7]: san diego county
+subject[8]: san diego county (calif.)
+subject_headings[0]: Imperial County (Calif.)--Newspapers
+subject_headings[1]: San Diego County (Calif.)--Newspapers
+subject_headings[2]: California--Imperial County
+subject_headings[3]: California--San Diego County
+subject_headings[4]: United States--California--Imperial--El Centro
+subjects[0].california: https://www.loc.gov/search/?fa=subject:california&fo=json&st=text
+subjects[1].el centro: https://www.loc.gov/search/?fa=subject:el+centro&fo=json&st=text
+subjects[2].imperial: https://www.loc.gov/search/?fa=subject:imperial&fo=json&st=text
+subjects[3].imperial county: https://www.loc.gov/search/?fa=subject:imperial+county&fo=json&st=text
+subjects[4].imperial county (calif.): https://www.loc.gov/search/?fa=subject:imperial+county+%28calif.%29&fo=json&st=text
+subjects[5].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[6].san diego county: https://www.loc.gov/search/?fa=subject:san+diego+county&fo=json&st=text
+subjects[7].san diego county (calif.): https://www.loc.gov/search/?fa=subject:san+diego+county+%28calif.%29&fo=json&st=text
+subjects[8].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2025-09-29T05:28:18.206Z
+title: Imperial Valley press (El Centro, Calif.), January 1, 1931
+type[0]: issue
+url: https://www.loc.gov/item/sn92070146/1931-01-01/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1931010101/1209.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn92070146/1931-01-01/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_paperflower_ver01:data:sn92070146:0041418859A:1931010101:1209/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1931010101/1209.pdf
+resources[0].segment_count: 6
+resources[0].url: https://www.loc.gov/resource/sn92070146/1931-01-01/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1931, January 1) Imperial Valley press. Retrieved from the Library of Congress, https://www.loc.gov/item/sn92070146/1931-01-01/ed-1/.
+cite_this.chicago: Imperial Valley press. (El Centro, CA), Jan. 1 1931. https://www.loc.gov/item/sn92070146/1931-01-01/ed-1/.
+cite_this.mla: Imperial Valley press. (El Centro, CA) 1 Jan. 1931, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn92070146/1931-01-01/ed-1/.
+
+segment_id: /service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1931010101/1209.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1931010101/1209.xml&format=alto_xml&full_text=1
+full_text:
+United Press
+Leased Wire
+Pthirtieth year
+AMERICA!
+f ACCEPTS
+TREATY
+President Hoover Signs
+Proclamation To People
+On Subject.
+NATIONS”™ PACT
+Great Britain And Japan
+Chief Members Of
+Treaty On Armament.
+WASHINGTON. Jan. 1. (U.R)-
+President Hoover today signed a
+proclamation informing the Ameri
+can people that the United States
+has entered a treaty with Great Bri
+tain and Japan for the limitation of
+naval armament. His action formal
+ly promulgated the Lotylon naval
+treaty in the United States.
+The treaty applies also to Prance
+and Italy insofar as it affects “hu
+manization” of submarine warfare
+Only Great Britain, Japan and the
+United States, however, signed the
+limitation clauses.
+The proclamation was signed by
+Mr. Hoover without ceremony short
+__ ly after 10 a. m.. his uctlon merely
+advised the public of the document,
+which became fully effective yester
+day when the Irish Free State de
+posited its ratification at the foreign
+office in London.
+It was the last of the British do
+minions to do so.
+The President's proclamation read
+in part as follows:
+“Whereas a treaty for the limita
+tion and reduction of naval arma
+i ments was concluded and signed at
+1 London on April 22, 1930. by the
+respective plenipotentiaries of the
+President of the United Btates of
+America, the president of the French
+republic. His Majesty the King of
+Great Britain. Ireland and the
+British dominions beyond the seas
+Emperor of India. His Majesty the
+I King of Italy, and His Majesty the
+Emperor of Japan, the original ol
+which treaty being in French and
+English languages.
+“And whereas it is provided in
+Article 24 of the said treaty that
+as soon as the ratifications of
+the United States of America, of
+His Majesty the King of Great
+Britain, Ireland and the Brit
+ish Dominions beyond the seas.
+Emperor of India, in respect of
+earh and all of the members of
+the British commonwealth of
+nations as enumerated in the
+preamble of the said treaty, and
+of His Majesty the Emperor of
+Japan have been deposited, the
+treaty shall come into force in
+respect of the said high con
+tracting parties.
+“And whereas the ratifications by
+the United States of America sub
+ject to the understandings set forth
+therein, that there are no secret files
+documents, letters, understandings
+or agreements which in any way, di
+rectly or indirectly, modify, change
+add to, or take from any of the
+stipulations, agreements or state
+ments in said treaty, and that ex
+cepting the agreements brought
+about through the exchange of notes
+between the governments of the
+United States of America. Great
+Britain and Japan, having reference
+to Ai'icle 19, there is no agreement,
+recret or otherwise, expressed or lm- j
+(Continued on Page Six)
+Two Are First
+To Shake Hands
+With President
+WASHINGTON, Jan. 1. (U.P.)
+Two plain citizens of Washington
+were honored by President Hoover
+this morning In a manner usually
+reserved for high government ofti*
+eials.
+The pair, Arthur Denials and
+Charles T. Rubey, both in their
+uly thirties, appeared at the west
+.ate of the White House before
+.awn in hope of being the first
+*o shake the President's hand at 1
+m„ when he receives the public.
+The President's secretary, Lawr
+ence Richey, on his way to the ex
+ecutive offices, saw them shivering
+in an icy wind and notified Mr.
+Hoover of their presence.
+The President ordered that' they
+be shown in, chatted with them a
+few minutes, and then had break
+fast served them while they toasted
+their toes in the warmth of the
+White House.
+Meanwhile outside, stood a small
+man with a straw-colored rnutache,
+who for three previous years was
+the first to greet the President on
+New' Year’s day. He though lie
+would be this year, but youth had
+its day.
+The little man was J. W. lluiic
+feld. a painter. He reached the
+White House gate nt 7:35. blissful
+ly ignorant of the fact that two
+others had preceded him and were
+actually inside having breakfast.
+Right behind him was Andrew
+Mack, a student attending a Wash
+ington college, who makes his home
+in San Pedro, Calif.
+Imperial Valley Pr ess
+OFFICER KILLED,
+SIX WOUNDED IN
+CHICAGO BATTLE
+Policemen Guarding Taxi
+Office Shot By Gang
+sters During Hold-Up.
+CHICAGO, Jan. 1. (U.R> —A police
+man was killed and six men, one
+a notorious gangster, were wounded
+in New Year’s Day battle between
+officers and holdup men in Chicago.
+John Dondruska, an officer de
+tailed to guard a west side taxicab
+office, was slain in a battle which
+he started with five bandits who at
+tempted to hold up the office. It
+was believed he wounded at least
+one of the gunmen before he fell
+himself, a bullet through his head.
+Another policeman was shot
+through the stomach, two cabaret
+patrons were wounded, Sam Battag
+lia and another bandit were shot
+and another reveler was hit on the
+head in a battle that developed
+when Battaglia, one of the most no
+torious gangsters in the city, led
+two others in an attempt to hold
+up a New Year's party on North
+Clark street.
+Battaglia and his pals ate a mid
+night lunch at the C. O. cabaret
+and at 4 a. m„ when the New Year’s
+Eve celebration was at its height, at
+tempted the holdup. A squad of
+police from the East Chicago avenue
+station happened in a few minutes
+later and the battle began.
+Battaglia was shot in the right
+arm and right side. George Geordo.
+his partner, was shot in the mouth.
+The third member of the holdup
+band escaped.
+Policeman John Maier, who re
+cently gained much notoriety in
+connection with the suicide of a ti
+tled English woman, was shot in the
+stomach. He was not with the
+squad, but was celebrating with
+other revelers in the cabaret.
+Mathew Joyce, a policeman, was
+shot in the stomach; John Rup
+pert, a patron, also was hit in the
+stomach by a bullet and Eugene
+Brooks, another patron, was injured
+when one of the bandits hit him on
+the head with a gun.
+The bandits with whom Dondrtts
+ka fought entered the cab office at
+6 a. at. as drivers were turning in
+their receipts for the night. They
+left without obtaining any loot.
+Witness** believed Dondruska, who
+shot three times, wounded at least
+one of them.
+Endurance Bug
+Hits Feminine
+Plane Pilots
+LOS ANGELES. Jan. 1. (U.R)
+Two women flyers, Edna May Coop
+er and Bobbie Trout, plan to take
+off front the Los Angeles munici
+pal airport at noon today in an at
+tempt to shatter the world s air en
+durance record.
+Just before the tato-off their
+Robin monoplane was to be chris
+tened Lady Rolph. A bottle of sea
+water taken from San Francisco
+bay by James Rolph 111, son of
+Governor-elect Rolph was to be
+broken over the propellor by Anita
+Page, movie actress.
+Miss Cooper said today that she
+and Miss Trout were determined to
+stay aloft until their motor stops
+running.
+"We feel certain we will have no
+trouble in setting a new world’s
+mark for women,” Miss Cooper
+said, “as the present one is only 42
+hours, 18 minutes. We will keep
+right on going with the intention
+of breaking the international rec
+ord for men. That record is more
+than 600 hours.”
+Gasoline, oil and food will be
+supplied by a refueling plane man
+ned by Ralph De Rose and Bud
+Hussey.
+Miss Cooper was one of the first
+Hollywood actresses to be awarded
+a pilot’s license.
+Miss Tkout at one time held the
+solo air endurance record for wom
+en. She and Elinor Smith of New
+York set the present refueling mark
+several months ago.
+Sykes Named As
+Prison Director
+By Gov. Young
+SACRAMENTO, Jail. 1. (U.R>—
+Frank C. Sykes, member of San
+Francisco’s outgoing harbor board
+has been appointed to a place on
+the California board of prison di
+rectors by Governor C. C. Young, it
+was confirmed today.
+He will succeed Judge Charles E.
+McLaughlin of Sacramento, who re
+cently tendered his resignation be
+cause of ill-health.
+The appointment, subject to con
+firmation by the State Senate, will
+be for a term ending January 12
+1938. It was dated by Governor
+Young December 29.
+Sykes, a contractor, has long been
+active in civic affairs. He has served
+as San Francisco police commis
+sioner, president of the San Fran
+cisco fire commission and harbor
+commissioner.
+The State Senate at its next ses
+sion will pass on the names ol
+Syke3. Henry Kickoff and R. A.
+Leonard, unless Governor-elect
+James Rolph should withdraw the n.
+All directors of the prison board
+serve without compensation.
+Mrs. Ford Aids Charity Drive
+Mrs Henry Ford, national president of the Woman’s National Farm and
+Garden association, is shown here at Ferndale, Mich., arranging a wreath
+made by Michigan farm women. The wreath is one of a number of
+holiday decorations being sold to aid the poor.
+EL CENTRANS GIVE BIG
+HAND TO NEW YEAR KID
+El Centrans sent 1931 on its
+way last night with one of the
+most enthusiastic celebrations
+ever staged here in honor of the
+New Year. The town turned out
+almost 100 per cent to attend
+the various functions planned in
+honor of the event.
+The Barbara Worth hotel was the
+scene of one of the important par
+ties of the evening. Members of the
+Junior Chamber of Commerce
+sponsored the affair and that organ
+ization was well represented.
+Brilliant decorations transformed
+the lower floor of the hostelry intto
+a bower of loveliness and (hundreds
+of beautifully gowned women anti
+men in holiday attire danced there
+following the New Year's dinner, j
+This annual party again provfti
+to be one of the outstanding social
+events of the year. The lobby was
+BOTH OUTSIDE
+AND IN NOT SO
+GOOD FOR HIM
+Ralph E. Hunt was on the inside
+looking out at the U. S. Grant
+Auto Supply last night and liked it
+until he thought a policeman was
+on the outside looking in.
+He then made a hurried exit
+through a skylight and slid down
+a telephone post to land in the
+arms of L. L. Gillett, city policeman,
+said Gillett today.
+What Hunt would have done to
+the safe in the office is problem
+atical if he had not been disturbed.
+He is said to have completely ruin
+ed the combination with two sledge
+hammers.
+A passerby saw Hunt within r.he
+steel gates used to close the park
+ing space at the plant and asked
+him what he was doing inside. Gil
+lett was watching the men during
+the conversation but remained out
+of sight. Hunt explained that he
+had been on a New Year's celebra
+tion and was so inebriated that his
+friends left him inside.
+He asked for a match and the
+passerby told him he had none but
+would go get one. When he de
+parted Hunt beat a hasty retreat,
+which landed him in the city jail.
+Two Trees Are
+Baffling To
+Merry Driver
+One more Christmas tree down!
+is the verdict after N. S. Dodd, one
+of the merriest of New Year cele
+brants, ran into the tree in the in
+tersection at Fifth and Main streets
+and carried it half a block on the
+front of his automobile.
+When admonished by city police
+he said, "Yeah. I saw those two trees
+and tried my best to run between
+them but I couldn’t moke it.”
+He spent the night in the eitv jail
+(after having exhibited many a scar
+won in the skirmish with the trees'.
+PAT KELLY GETS
+CHANCE TO WORK
+AS XMAS PRESENT
+SAN QUENTIN STATE PRISON.
+Jan. 1. (U.R)—Leo Pat Kelly, con
+victed of the slaying of Mis. Myr
+tle Melius, Los Angeles society
+woman was awarded a belated
+Christmas present today—the priv
+ilege of leaving the prison walls to
+work on a convict road gang.
+The award, made for good be
+havior, was the first of its k.nd
+ever given to a man sen! cured to
+die upon tke gallows. Last year
+the supremf' court changed Kelly’s
+chai'ge froitt first degree murder to
+manslaughiT -with a maximum
+term of lclyears.
+COVERS THE VALLEY LIKE THE SUNSHINE
+EL CENTKO, CALIFORNIA, THURSDAY, JANUARY 1, 1931
+crowded to capacity through the
+evening.
+Many large parties enjoyed the
+New Year’s dinner before scattering
+to private homes for dancing and
+cards.
+Mr. and Mrs. El Centro and
+all the youngsters donned pa
+per raps at rakish angles and
+ushered the New Year in with
+vim and vigor at the midnight
+matinee staged by the manage
+ment of the Fox Imperial thea
+tre.
+Enlivening airs such as “Hap
+py Days,” “Yes, We Have No
+Bananas” and “Hot Time” would
+have been a success as examples
+of community singing if it had
+not been for certain youths able
+to whistle through their teeth.
+It might be said that Clements’
+Austin automobile was the diminu
+tive star of the show. The minia
+ture machine appeared on the stage
+for the prologue and posed grace
+fully.
+"Min and Bill,” a perfect vehicle
+for Marie Dressier and Wallace
+Beery, was a riot of fun with the
+necessary touches of tragedy and
+pathos for excellent entertainment.
+Judging by the enthusiasm of the
+audience, the management made a
+wise selection. The two leading
+characters were the whole show and
+delivered characterizations which
+must be the envy of all Hollywood.
+Taking everything into considera
+tion, it certainly may be said that
+the midnight matinee was a howling
+success.
+Other Attractions
+Ten big ’acts of vaudeville en
+livened the bill at Brunk’s tent show
+at, the city limits. The frolic was
+attended by an enthusiastic audi
+ence which apparently approved of
+every offering.
+Among the attractions was that
+of the recording and radio artists,
+the "Musical Fools.”
+Homes throughout the city were
+the scenes of private dinner parties,
+dances and bridge parties. New
+Year's decorations graced many
+tables where groups of friends
+gathered for watch parties.
+ROMNEY IS NAMED
+GRID ASSOCIATION
+PROXY AT MEETING
+LOS ANGELES, Jan. 1. (U.R)—E.
+L. Romney, of Utah University, was
+elected president of the Rocky
+Mountain and Pacific Coast States
+Football Coaches association in an
+nual meeting here yesterday.
+Eugene Nixon of Pomona college
+was elected vice president and A. J.
+Sturzenegger of the University of
+California at Los Angeles was
+named secretary-treasurer.
+WHATAMAN SHIRES
+FINED FOR DRUNK
+LOS ANGELES, Jan. 1. (U.R)—
+Arthur “The Great” Shires, ball
+player, boxer and newlywed, was
+found guilty in municipal court
+last night on a charge of intoxica
+tion and paid a $lO fine rather than
+go to jail for 10 days.
+Shires was arrested Monday when
+ho wandered into the Hollywood po
+lice station. A charge of carrying
+brass knuckles was dismissed.
+BABY COMES AS
+FIRST OF YEAR
+Running a close second to
+His Majesty, the baby New
+Year, El Centro’s first 1931 in
+fant arrived at 2 o’clock this
+morning. The young ni a n
+weighed 7*l pounds. Mr. and
+Mrs. Clarence Parsley of 819
+South Fifth street are his par
+ents. lie was born at the La-
+Blanc Maternity cottage.
+The last baby to be born in
+1930 was an eight pound girl,
+born yesterday to Mr. and Mrs.
+Thedore Thompson of 478 Hell
+at (he Laßlanc cottage.
+CONTROVERSY IS
+EXPECTED WHEN
+CONGRESS MEETS
+Many Debated Issues To
+Be Considered By Law
+Making Body
+WASHINGTON, Jan. 1. ;y.R)—
+Injection of so many controversial
+issues during the recess into al
+ready crowded congressional cal
+endars confronted Republican lead
+ers today with a real problem in
+preventing an extra session after
+March 4. Some of them were
+frankly skeptical of being able to
+avert it.
+When congress reconvenes Mon
+day, it will have but 51 legislative
+days to transact a mass of neces
+sary routine business. This could
+b e accomplished easily enough
+were it not for the additional mat
+ters which have forged to the fore
+front and which are sure to cause
+protracted debate, especially in the
+senate.
+Not in recent years has a Christ
+mas recess produced such a number
+of incipient legislative volcanoes.
+During the few days usually set
+aside for a quiet vacation, there
+have been four major controver
+sies added to a number which Re
+publican leaders had agreed prev
+iously must be acted upon.
+These are the old railroad con
+solidation issue, revived now for
+congressional airing in the new
+eastern trunk line set-up approved
+by President Hoover; the old soldier
+bonus row, appearing in new dress
+in the proposals for cash payment
+of adjusted service certificates; the
+renewed controversy over govern
+ment water power dismissal of
+three employees of the newly or
+ganized federal power commission,
+the political quarrel between the
+veteran insurgent Senator George
+W. Norris, on one hand, and Robert
+H. Lucas, executive secretary of
+the Republican national committee
+and regular Republicans, on the
+other, and the expected report of
+the Wickersham law enforcement
+commission on prohibition.
+INSANE MAN IS
+RESPONSIBLE FOR
+CONFLAGRATIONS
+PASADENA. Calif.. Jan. 1. !U.R>—A
+30-year-old World War veteran was
+held in a South Pasadena sanitari
+um under guard today, accused by
+deputy sheriffs of having started
+seven fires on Mt. Wilson trail.
+They said the suspect, James Wil
+son, hiked up the trail Tuesday and
+from time to time lighted pieces of
+paper and tossed them into the
+brush. As fast as a crew of 80 fire
+fighters could extinguish one blaze,
+another would break out ahead.
+Fire crew members said that they
+finally skirted one fire and found
+Wilson ahead of them, holding a
+lighted paper.
+Forest service officials said Wilson
+had been an inmate of the sani
+tarium for mentally afflicted for
+three years, but had been permitted
+to take hikes alone. They declared
+they would ask that he be moved to
+another institution and that they
+would guard him meanwhile.
+Deny Themselves
+To See Doomed
+Son Once Again
+KANSAS CITY. Jan. 1. (U.R)—A
+mother and father who have been
+months saving enough money to
+come here from Columbia, Pa., are
+staying in Kansas City for two
+days so that the mother can kiss
+her son once more before he is
+hanged for murder.
+The son is Paul Kauffman, a
+World War veteran, sentenced to
+die for killing Avis Woolery, Webb
+City, Mo., girl he enticed to Kan
+sas City from her home.
+The parents, Mr. and Mrs. Harry
+Kauffman, arrived yesterday. They
+have not seen their son for four
+years, but they expected to spend
+just a few minutes with him and
+then return to Columbia, where the
+father is a laborer. But yesterday
+was not visitors’ day at the jail and
+they could talk to their son only
+through steel netting. Paul said he
+wanted to kiss his mother once
+more, so she is staying until tomor
+row, when he may have the chance.
+The mother believes her son
+should be punished for the murder
+although she is hoping his sentence
+may be changed. She says his
+mind has not been right since lie
+came back from the war, suffering
+from gas.
+The date of the hanging is not
+set. pending an appeal. Kauffman
+once served a prison sentence in
+Colorado.
+WHAT’S DOING
+c
+TONIGHT
+R. A. M. No. 109. 8, Masonic
+Temple.
+Barbara Worth Kebekahs, 8,
+Davis hall. I
+Troop 14, 8.5. A., 7:30, Scoil
+hut.
+Fox Imperial Theatre, ‘‘Part
+Time Wife".
+TOMORROW
+Kiwanis club. Jtarbara Worth.
+Westsido ho:iß< departments,
+10:30, A. R. KWmer home.
+FAMOUS GERMAN SCIENTIST
+WATCHES ANNUAL PARADE
+By LEICESTER WAGNER
+United Press Staff Correspondent
+PASADENA. Calif., Jan. 1. (U.R)
+The work which Dr. Albert Einstein
+hopes to accomplish in Southern
+California was put to one side today
+that the famous physicist might see
+the annual Tournament of Roses
+parade.
+Accompanied by Mrs. Einstein,
+the German scientist came here by
+automobile last night from San Di
+ego, where he was given an enthus
+iastic reception when he arrived
+from Europe aboard the liner Bel
+genland.
+Dr. Einstein's party went to the
+home of Arthur Fleming, a member
+of the executive council of Califor
+nia Institute of Technology, im
+mediately upon arrival here. The
+scientist, tired by his public appear
+ances yesterday and naturally shy,
+expressed a desire for as much ex
+clusion as possible.
+It was understood that he would
+witness the Tournament of Roses
+from a carefully chosen vantage
+point, probably withdrawn from
+public gaze.
+The Einstein party will move in
+to a house to be selected from one
+of several offered. The move will
+be made in a day or so and Dr.
+Einstein has indicated that his stay
+will be of about six weeks.
+During that time he plans to
+confer with physicists who have
+been working out materially the
+theories he evolved mathematic
+ally.
+“His work will be more of dis
+cussion than anything else,”
+Frau Einstein explained in in
+terpreting her husband’s re
+marks.
+He speaks only German, she
+FRENCH MARSHAL
+MAY DIE TODAY
+SAY PHYSICIANS
+By RICHARD D. McMILLAN
+United Press Staff Correspondent
+PARIS, Jan. 1. (U.R)—Marshal
+Joseph Joffre's condition became
+critical today, but art official bulle
+tin announced that the veteran sol
+dier was “resting quietly.”
+Despite tne courage with which
+the hero .of the Marne has held to
+live since he became gravely ill last
+Saturday, most of his close friends
+believed he was losing ground.
+“It Is nearly the end,” said Mme.
+Alexander Millerand, wife of the
+former president of the republic, as
+she left the hospital sobbing.
+The police assigned to duty near
+the hospital cleared the streets at
+noon when a false rumor of the
+death of Marshal Joffre was circu
+lated in Paris and abroad. The
+baseless rumor, which was an
+nounced on the radio as allegedly
+‘'official" news, caused Premier
+Theodore Steeg to drive to the hos
+pital. The premier's chauffeur said
+Steeg had arrived “to salute the
+dead.” As a result of the false ru
+mor, an announcement of Joffre's
+condition was issued later from the
+premier's office for the first time.
+The capital was confused by the
+erroenous reports, recalling that a
+similarly false report of the death
+of the late Georges Clemenceau,
+war-time premier, was circulated in
+Paris and abroad some hours be
+fore the “Tiger actually died. The
+correspondents in touch with the
+hospital authorities were informed
+that Joffre was in a critical condi
+tion, but still fighting bravely.
+In the meantime a flood of mes
+sages of condolence arrived for
+Madame Joffre.
+Members of the cabinet, including
+Aristide Briand, Henri Cheron and
+others, arrived at the hospital.
+"We found Marshal Joffre feeble
+but alive,” said Minister of Marine
+Charles Danielou, as he departed.
+The false report of Marshal Jof
+fre's death was circulated in Am
+erica by others than the United
+Press today, but was soon followed
+by a doctors’ bulletin disproving the
+rumor.
+An announcement at the office of
+Premier Theodore Steeg, who has
+been in constant contact with at
+tendants at the bedside of Marshal
+Joseph Joffre, said that at 1:05 p. m.
+(8:05 a. m„ E. S. T.) today the gen
+eral was extremely low. The an
+nouncement said he was suffering
+no pain, however.
+A bulletin issued by four of his
+physicians said his pulse was 140 and
+his respiration 35.
+Bulletin
+PARIS. Jan. I. (U.R) —The follow
+ing communique was issued at 4:30
+p. in. (11:30 a. m. EST.) by the five
+doctors attending Marshal Joffre:
+“The patient has been unconsci
+ous since 11 a. m. Respiration 35,
+pulse 140.”
+Dr. Fontain?, leaving the bedside
+after the issuing of the communique,
+told the United Press it was impos
+sible to forecast developments more
+than an hour ahead.
+“He might even survive the
+night,” Fontaine said.
+WIFE OF INDIAN
+OFFICIAL JAILED
+ALLAHABAD, India, Jan. 1. (U.R)
+—Mine. Jawaharlal Nehru, wife of
+the president of the Indian con
+gress, was arrested today and
+placed in the district jail.
+The arrest was understood to be
+due to a speech Madame Nehru
+made recently. She has been
+prominent in the independence
+I movement
+acts as a smiling buffer, coach
+ing and aiding, when he is in
+terviewed by newspapermen.
+From the moment the huge Bel
+genland entered quarantine yester
+day, Dr. Einstein's day was a busy
+one. He was barraged with ques
+tions by reporters, photographed
+innumerable times and then taken
+for an automobile tour of San Di
+ego.
+On the tour a stop was made at
+Balboa Park, where 8,000 persons
+greeted the famous visitor. He
+was so moved by the demonstration
+that his eyes were misty when he
+rose to speak a few words in Ger
+man. He praised the present age
+lor its recognition of men who
+think—of men who may only orig
+inate the thought.
+“I am a simple man,” he said.
+“You do not know how your recep
+tion moves me.” “It is plain the
+world is growing in its recognition
+of education and is placing mental
+progress in its proper place. I
+speak not for myself, but for sci
+ence and divinity.”
+Later, he made a brief radio ad
+dress, also in German, and said:
+“I am delightfully moved by the
+wonderful and hearty reception ac
+corded me here in San Diego. I
+am stepping today for the first
+time on California soil and it was
+a beautiful gesture to receive the
+greetings of a group of young peo
+ple.”
+He referred to hundreds of high
+school girls, all clad in middie uni
+forms, who sang at the dock.
+Aboard the Belgenland, newspa
+permen asked him such questions
+as:
+“Is Europe approaching war?”
+He replied: “This is a time for
+action, not waiting.”
+“Have you any new announce
+ments to make?”
+“I am not a politician. I cannot
+say something new every day.”
+COLD WAVE IN
+NORTHERN PART
+OF STATE ENDS
+SAN FRANCISCO, Jan. 1. (U.R>
+The cold wave that has enshrouded
+Northern California for the past
+several days had disappeared today
+in the wake of a blinding rainstorm
+that swept across that portion of
+the state last night.
+In San Francisco heavy wind and
+sheet-like rain drenched the city
+causing considerable damage. Roofs
+were torn and trees uprooted.
+Thunder and lightning accom
+panied a freak outburst of rain in
+Napa, while several sections of the
+bay region were almost flooded from
+the downpour.
+Storm warnings were issued to
+small boats and fishing craft along
+the coast from San Francisco to
+Washington by the United States
+weather bureau.
+Rain in the mountainous regions
+changed to snow, four inches being
+reported at Lake Tahoe.
+The thermometer .continued to
+rise early today. Citrus and fruit
+growers, who have suffered heavily
+from frosts, rejoiced as the warmth
+set in.
+The total rainfall in all sections
+of the state was far below normal
+despite last night s blast.
+A southwest wind and soaring j
+temperature gave promise of im- 1
+mediate rain in the southern part'
+of the state.
+Tournament Of
+Roses Parade
+Attracts Many
+PASADENA, Calif., Jan. 1. (U.R)—
+The city of Glendale won the sweep
+stakes prize for the most beautiful
+I float in the Tournament of Roses
+parade here today.
+Glendale's entry was a model of
+the stadium at Athens where the
+Olympic games were held in ancient
+days.
+Hundreds of elaborate floral crea
+tions were entered in the parade.
+PASADENA. Jan. 1. tU.R) —Mare
+than a million persons lined the
+streets of Pasadena today to witness
+the 42nd annual .Tournament of
+Roses pageant.
+The parade, composed of more
+than 300 units, including 60 major
+floral floats, 20 bands and thousands
+of marchers, was scheduled to start
+at 10 a. m., and require more than
+two hours to pass.
+The parade was divided into seven
+divisions and 20 classes. Civic lead
+ers of San Francisco, Los Angeles
+Long Beach, Pasadena. Glendale
+Burbank and other communities
+rode in flower decked automobiles
+in the first division.
+One of the most beautiful floats in
+the parade was Glendale's reproduc
+tion of the Olympic Stadium ot An
+cient Greece. It was 52 feet long
+20 feet wide and 15 feet high.
+Flowers used to decorate the vari
+ous floats cost more than SIOO,OOO
+it was estimated.
+Following the parade, Alabama
+was to meet Washington State this
+afternoon in the annual football
+game in Rose Bowl.
+Members of the Crowley County-
+Turkey Growers Association, Ord
+way, Colorado, received from 16 to
+25 cents a pound for Thanksgiving
+shipments.
+Bank Clearings
+Holiday
+PRICE FIVE CENTS
+SLEUTHS
+LOOK FOR
+ABDUCTOR
+Kidnaping Of Boy Inside
+Job, Think Detectives
+Working On Case.
+NO CLUES FOUND
+Grandson Of August A.
+Busch On Way To At
+tend Holiday Affair.
+ST. LOUIS, Mo., Jan. 1. <U.R>—
+The kidnaping of Adolphus Busch
+Orthwein. grandson of Adolphus
+Busch, well known brewer, here last
+night was an “inside job,” Chief of
+Detectives Robert A. Kaiser, said to
+day.
+Kaiser admitted that a search for
+the man who kidnaped the 13-year
+old son of Mr. and Mrs. Percy J.
+Orthwein so far has been unsuc
+cessful.
+Kaiser said that it was apparent
+that whoever abducted the heir to
+the Busch millions was familiar
+with the New Year celebration plans
+of the boy, who was kidnaped as he
+started by automobile to visit his
+grandfather at a party in his honor.
+ST. LOUIS. Jan. 1. (U.R>— Thirteen
+year old Adolphus Busch Orthwein,
+scien of one of the wealthiest fami
+lies in the middlewest, was kidnaped
+last night, as he was being driven
+to the home of his grandfather,
+August A. Busch, for a New Year’s
+Eve dinner party.
+One of the most intensive police
+searches in years here failed to re
+veal a clue today to the whereabout*
+of the blonde, handsome boy. Hie
+father thereupon capitulated to the
+unknown kidnaper with an offer “to
+reward generously and absolutely no
+questions asked, for information**
+leadingto the child's safe return.
+The boy. grandson of the president
+of Anheuser-Busch, Inc., and great
+grandson of the late Adolphus
+Busch, millionaire brewer, was kid
+naped shortly before 7 p. m.
+The Orthwein family chauffeur,
+Roy Yowell, called for the lad at
+the front door of the Orthwein man
+sion in exclusive HuntleigH Village,
+and Adolphus jumped in the front
+seat of the limousine.
+As the car slowed down to leave
+the estate, Yowell later told police,
+“a negro or dark complexioned man
+tried to wave me down, but I didn't
+stop.
+“The man then climbed on a
+trunk at the back of the car and
+(Continued on page 6)
+MEXICAN KILLED
+IN NORTH END
+AUTO ACCIDENT
+Tragedy entered the scene of
+New Year’s festivity last night
+when Jose G. Gaitan. Mexican
+musician, was instantly killed when
+.Mruck by an automobile driven by
+William Nishmonger near Second
+and K. streets in Brawiey, accord
+ing to police records.
+Gaitan s neck and both were
+broken.
+Gaitan and a friend were walk
+ing into Brawiey tor gasoiine fer
+the machine in which the mem
+bers of a Brawiey Mexican orches
+tra were returning to town after
+playing for a dance- Nishmonger,
+accompanied by his family, is said
+to have approached the two from
+the rear as they were walking down
+th" same side of the highway.
+Neither group was aware of the
+other.
+An inquest was to be held this
+afternoon at Hoopes Funeral home
+in Brawiey, according to an an
+nouncement made by C. C. Cock
+ley. deputy county coroner.
+Nichmonger reported to police
+and was released to appear when
+called, it is reported.
+Gaitan is survived by his widow,
+who resides in Brawiey.
+Four Hold Up
+Filipinos On
+Valley Ranch
+Making a belated report to the
+sheriff's office, a woman who gave
+her name as Mrs. Lane, of the Mt.
+Signal stove, yesterday afternoon
+cold deputies that two white men
+and two Mexicans Tuesday held up
+a Filipino camp on the Bruce Ranch
+one mile south of the store, escap
+ing with $33.
+All of the robbers were armed,
+and threatened to use their arms if
+their victims did not pass over their
+money.
+The party of holdup men arrived
+in two cars, jftie wiut** men in a new
+yellow Mater and the Me.xicana in
+an old caytng car Wlien leaving
+they do toward Cr.lexico. No de
+scription Of the men wax available.

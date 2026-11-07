@@ -1,0 +1,894 @@
+{
+ "_about": "Shared reconstructed-place rules: site/src/museum/reconstruction.js validatePlace and tools/content_check.py validate_place must give the same verdicts. 'match' is a substring of the joined errors; null means no errors. 'exhibits' are the chapter exhibits checked against items standing against their wall. 'constants' must equal both implementations' constants.",
+ "basis": [
+  "TST-M-0001",
+  "TST-M-0002"
+ ],
+ "base": {
+  "w": 4,
+  "d": 5,
+  "h": 3,
+  "items": [
+   {
+    "kind": "desk",
+    "x": 0,
+    "z": -1,
+    "rotY": 0,
+    "w": 1.2,
+    "d": 0.6,
+    "h": 0.75,
+    "basis": "TST-M-0001"
+   }
+  ],
+  "unseen": [
+   "south"
+  ]
+ },
+ "cases": [
+  {
+   "name": "valid desk",
+   "item": {},
+   "match": null
+  },
+  {
+   "name": "valid lamp standing on the desk",
+   "item": {
+    "kind": "lamp",
+    "y": 0.75,
+    "w": 0.2,
+    "d": 0.2,
+    "h": 0.4,
+    "basis": "TST-M-0002"
+   },
+   "match": null
+  },
+  {
+   "name": "valid rotated desk against the east wall",
+   "item": {
+    "x": 1.69,
+    "z": 0,
+    "rotY": 1.5707963267948966
+   },
+   "match": null
+  },
+  {
+   "name": "valid blackboard",
+   "item": {
+    "kind": "blackboard",
+    "x": 0,
+    "z": -2.45,
+    "y": 0.9,
+    "w": 2,
+    "d": 0.05,
+    "h": 1.2
+   },
+   "match": null
+  },
+  {
+   "name": "empty basis",
+   "item": {
+    "basis": ""
+   },
+   "match": "needs a basis photo id"
+  },
+  {
+   "name": "missing basis",
+   "item": {
+    "basis": null
+   },
+   "match": "needs a basis photo id"
+  },
+  {
+   "name": "basis not a cited photo",
+   "item": {
+    "basis": "TST-M-0009"
+   },
+   "match": "basis TST-M-0009 is not one of the reconstruction basis photos"
+  },
+  {
+   "name": "outside in x",
+   "item": {
+    "x": 9
+   },
+   "match": "outside the room"
+  },
+  {
+   "name": "rotated footprint crosses the east wall",
+   "item": {
+    "x": 1.69,
+    "z": 0,
+    "rotY": 0
+   },
+   "match": "outside the room"
+  },
+  {
+   "name": "taller than the room",
+   "item": {
+    "y": 2.5
+   },
+   "match": "outside the room"
+  },
+  {
+   "name": "below the floor",
+   "item": {
+    "y": -0.1
+   },
+   "match": "outside the room"
+  },
+  {
+   "name": "unknown kind",
+   "item": {
+    "kind": "dragon"
+   },
+   "match": "kind dragon is not one of"
+  },
+  {
+   "name": "non-numeric x",
+   "item": {
+    "x": "0"
+   },
+   "match": "item 0: x must be a number"
+  },
+  {
+   "name": "boolean rotY",
+   "item": {
+    "rotY": true
+   },
+   "match": "item 0: rotY must be a number"
+  },
+  {
+   "name": "zero width",
+   "item": {
+    "w": 0
+   },
+   "match": "item 0: w must be a positive number"
+  },
+  {
+   "name": "unseen wall name",
+   "place": {
+    "unseen": [
+     "up"
+    ]
+   },
+   "match": "place unseen: up is not a wall"
+  },
+  {
+   "name": "unseen wall twice",
+   "place": {
+    "unseen": [
+     "south",
+     "south"
+    ]
+   },
+   "match": "place unseen: south listed twice"
+  },
+  {
+   "name": "unseen not a list",
+   "place": {
+    "unseen": "south"
+   },
+   "match": "place unseen must be a list of walls"
+  },
+  {
+   "name": "no items",
+   "place": {
+    "items": []
+   },
+   "match": "place items must be a non-empty list"
+  },
+  {
+   "name": "room depth below minimum",
+   "place": {
+    "d": -1
+   },
+   "match": "place d must be at least 2"
+  },
+  {
+   "name": "no place",
+   "replace": null,
+   "match": "place must be an object"
+  },
+  {
+   "name": "room narrower than minimum",
+   "place": {
+    "w": 1.9
+   },
+   "match": "place w must be at least 2"
+  },
+  {
+   "name": "room lower than minimum",
+   "place": {
+    "h": 2.1,
+    "items": [
+     {
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     }
+    ]
+   },
+   "match": "place h must be at least 2.2"
+  },
+  {
+   "name": "valid minimum room",
+   "place": {
+    "w": 2,
+    "d": 2,
+    "h": 2.2
+   },
+   "item": {
+    "z": 0
+   },
+   "match": null
+  },
+  {
+   "name": "array item",
+   "place": {
+    "items": [
+     [
+      1,
+      2
+     ]
+    ]
+   },
+   "match": "item 0: must be an object"
+  },
+  {
+   "name": "frame covers a window against the north wall",
+   "item": {
+    "kind": "window",
+    "x": -1.2,
+    "z": -2.47,
+    "y": 1.0,
+    "w": 1,
+    "d": 0.06,
+    "h": 1.2
+   },
+   "exhibits": [
+    {
+     "id": "ex1",
+     "type": "framed-photograph",
+     "wall": "north",
+     "slot": 1
+    }
+   ],
+   "match": "exhibit ex1: covers item 0 (window) on the north wall"
+  },
+  {
+   "name": "frame clear of the window in another slot",
+   "item": {
+    "kind": "window",
+    "x": -1.2,
+    "z": -2.47,
+    "y": 1.0,
+    "w": 1,
+    "d": 0.06,
+    "h": 1.2
+   },
+   "exhibits": [
+    {
+     "id": "ex1",
+     "type": "framed-photograph",
+     "wall": "north",
+     "slot": 4
+    }
+   ],
+   "match": null
+  },
+  {
+   "name": "frame above a desk against the wall",
+   "item": {
+    "z": -2.15
+   },
+   "exhibits": [
+    {
+     "id": "ex1",
+     "type": "framed-photograph",
+     "wall": "north",
+     "slot": 2
+    }
+   ],
+   "match": null
+  },
+  {
+   "name": "360 document plinth covers a desk against the wall",
+   "item": {
+    "z": -2.15
+   },
+   "exhibits": [
+    {
+     "id": "ex1",
+     "type": "360-document",
+     "wall": "north",
+     "slot": 2
+    }
+   ],
+   "match": "exhibit ex1: covers item 0 (desk) on the north wall"
+  },
+  {
+   "name": "frame over a tall bookcase standing in the room, not against the wall",
+   "item": {
+    "kind": "bookcase",
+    "z": -1,
+    "h": 2
+   },
+   "exhibits": [
+    {
+     "id": "ex1",
+     "type": "framed-photograph",
+     "wall": "north",
+     "slot": 2
+    }
+   ],
+   "match": null
+  },
+  {
+   "name": "frame covers a blackboard against the east wall",
+   "item": {
+    "kind": "blackboard",
+    "x": 1.97,
+    "z": -0.5,
+    "rotY": -1.5707963267948966,
+    "y": 0.9,
+    "w": 2,
+    "d": 0.05,
+    "h": 1.2
+   },
+   "exhibits": [
+    {
+     "id": "ex1",
+     "type": "framed-photograph",
+     "wall": "east",
+     "slot": 2
+    }
+   ],
+   "match": "exhibit ex1: covers item 0 (blackboard) on the east wall"
+  },
+  {
+   "name": "frame covers a door against the south wall",
+   "item": {
+    "kind": "door",
+    "x": 1.2,
+    "z": 2.45,
+    "rotY": 0,
+    "w": 0.9,
+    "d": 0.1,
+    "h": 2.1
+   },
+   "exhibits": [
+    {
+     "id": "ex1",
+     "type": "framed-photograph",
+     "wall": "south",
+     "slot": 1
+    }
+   ],
+   "match": "exhibit ex1: covers item 0 (door) on the south wall"
+  },
+  {
+   "name": "valid sub-objects declared on their parents (books, papers, book-stack)",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "kind": "books",
+      "parent": "b1",
+      "basis_media_ids": [
+       "TST-M-0001"
+      ]
+     },
+     {
+      "kind": "papers",
+      "parent": "d1",
+      "basis_media_ids": [
+       "TST-M-0001"
+      ]
+     },
+     {
+      "kind": "book-stack",
+      "parent": "d1",
+      "basis_media_ids": [
+       "TST-M-0001",
+       "TST-M-0002"
+      ]
+     }
+    ]
+   },
+   "match": null
+  },
+  {
+   "name": "sub-object of an undeclared kind",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "kind": "curtain",
+      "parent": "d1",
+      "basis_media_ids": [
+       "TST-M-0001"
+      ]
+     }
+    ]
+   },
+   "match": "kind curtain is not one of"
+  },
+  {
+   "name": "sub-object without basis photos",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "kind": "papers",
+      "parent": "d1"
+     }
+    ]
+   },
+   "match": "needs basis_media_ids"
+  },
+  {
+   "name": "sub-object with empty basis photos",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "kind": "papers",
+      "parent": "d1",
+      "basis_media_ids": []
+     }
+    ]
+   },
+   "match": "needs basis_media_ids"
+  },
+  {
+   "name": "sub-object citing a photo outside the room's basis",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "kind": "papers",
+      "parent": "d1",
+      "basis_media_ids": [
+       "TST-M-0001",
+       "TST-M-0009"
+      ]
+     }
+    ]
+   },
+   "match": "basis TST-M-0009 is not one of the reconstruction basis photos"
+  },
+  {
+   "name": "sub-object without a parent",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "kind": "papers",
+      "basis_media_ids": [
+       "TST-M-0001"
+      ]
+     }
+    ]
+   },
+   "match": "needs a parent item id"
+  },
+  {
+   "name": "sub-object whose parent is no item",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "kind": "papers",
+      "parent": "nope",
+      "basis_media_ids": [
+       "TST-M-0001"
+      ]
+     }
+    ]
+   },
+   "match": "parent nope is not an item"
+  },
+  {
+   "name": "papers on a bookcase",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "kind": "papers",
+      "parent": "b1",
+      "basis_media_ids": [
+       "TST-M-0001"
+      ]
+     }
+    ]
+   },
+   "match": "papers must stand on a desk"
+  },
+  {
+   "name": "books on a desk",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "kind": "books",
+      "parent": "d1",
+      "basis_media_ids": [
+       "TST-M-0001"
+      ]
+     }
+    ]
+   },
+   "match": "books must stand on a bookcase"
+  },
+  {
+   "name": "sub-object standing on another sub-object",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "kind": "papers",
+      "parent": "d1",
+      "basis_media_ids": [
+       "TST-M-0001"
+      ],
+      "id": "p1"
+     },
+     {
+      "kind": "book-stack",
+      "parent": "p1",
+      "basis_media_ids": [
+       "TST-M-0001"
+      ]
+     }
+    ]
+   },
+   "match": "parent p1 is not an item"
+  },
+  {
+   "name": "item id used twice",
+   "replace": {
+    "w": 4,
+    "d": 5,
+    "h": 3,
+    "unseen": [
+     "south"
+    ],
+    "items": [
+     {
+      "id": "d1",
+      "kind": "desk",
+      "x": 0,
+      "z": -1,
+      "rotY": 0,
+      "w": 1.2,
+      "d": 0.6,
+      "h": 0.75,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "b1",
+      "kind": "bookcase",
+      "x": 0,
+      "z": -2.3,
+      "rotY": 0,
+      "w": 2,
+      "d": 0.4,
+      "h": 2.3,
+      "basis": "TST-M-0001"
+     },
+     {
+      "id": "d1",
+      "kind": "chair",
+      "x": 1,
+      "z": 0,
+      "rotY": 0,
+      "w": 0.45,
+      "d": 0.45,
+      "h": 0.9,
+      "basis": "TST-M-0001"
+     }
+    ]
+   },
+   "match": "id d1 used twice"
+  }
+ ],
+ "constants": {
+  "min_size": {
+   "w": 2,
+   "d": 2,
+   "h": 2.2
+  },
+  "against_wall": 0.3,
+  "exhibit_footprint": {
+   "default": {
+    "halfWidth": 0.6,
+    "bottom": 1.1,
+    "top": 2.3
+   },
+   "360-document": {
+    "halfWidth": 0.3,
+    "bottom": 0,
+    "top": 1.45
+   }
+  },
+  "sub_kinds": {
+   "books": "bookcase",
+   "papers": "desk",
+   "book-stack": "desk"
+  }
+ }
+}

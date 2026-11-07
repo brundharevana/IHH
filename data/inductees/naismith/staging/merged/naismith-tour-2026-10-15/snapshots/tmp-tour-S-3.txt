@@ -1,0 +1,1117 @@
+_version_: 1746960296540372992
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82016014/1898-09-10/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82016014/1898-09-10/ed-1/
+batch[0]: khi_jesse_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/kansas/
+composite_location[2]: 2/united states/kansas/shawnee/
+composite_location[3]: 3/united states/kansas/shawnee/topeka/
+contributor_names[0]: Kansas State Historical Society; Topeka, KS
+contributors[0].kansas state historical society; topeka, ks: https://www.loc.gov/search/?fa=contributor:kansas+state+historical+society%3B+topeka,+ks&fo=json&st=text
+created_published[0]: Topeka, Kansas, September 10, 1898
+date: 1898-09-10
+date_issued: 1898-09-10
+dates[0].1898-09-10: https://www.loc.gov/search/?dates=1898-09-10/1898-09-10&fo=json&st=text
+dates_of_publication: 1892-1980
+description[0]: Topeka, Kansas
+digitized: true
+digitized_label: Present
+display_offsite: true
+essay_contributor[0]: Kansas State Historical Society
+extract_timestamp: 2021-06-18T06:07:37.095Z
+extract_urls[0]: file:/service/ndnp//khi/batch_khi_jesse_ver01/data/sn82016014/00295871404/1898091001/1898091001_1.xml#ndnp/khi
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/khi
+group[1]: kansas-state-historical-society-topeka-ks-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn82016014/1898-09-10/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871404:1898091001:0502/full/pct:6.25/0/default.jpg#h=407&w=352
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871404:1898091001:0502/full/pct:12.5/0/default.jpg#h=815&w=704
+index: 7
+item.batch[0]: khi_jesse_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Kansas State Historical Society; Topeka, KS
+item.created_published[0]: Topeka, Kansas, September 10, 1898
+item.date: 1892
+item.date_issued: 1898-09-10
+item.dates[0]: 1898-09-10
+item.digitized_label: Present
+item.essay_contributor[0]: Kansas State Historical Society
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn82016014
+item.location[0]: Topeka (Kan.)
+item.location[1]: Shawnee County (Kan.)
+item.location[2]: Kansas--Shawnee County
+item.location[3]: Kansas--Topeka
+item.medium: 8 pages
+item.newspaper_title[0]: The Topeka state journal.
+item.notes[0]: Daily, Dec. 5, 1935-1980
+item.notes[1]: Vol. XX, no. 218 (September 10, 1892)-v. 103, no. 171 (Aug. 21, 1980)
+item.notes[2]: Published on Sunday with: Topeka daily capital, as: Topeka Sunday capital-journal, Sept. 7, 1958-Sept. 1, 1980; published on Saturday with: Topeka daily capital, as: Topeka Saturday capital-journal, May 7, 1977-Sept. 1, 1980.
+item.notes[3]: Fiftieth anniversary edition published, Oct. 30, 1935.
+item.notes[4]: Title from masthead, newspapers.com, viewed June 25, 2020
+item.notes[5]: Also on microfilm: Micro Photo Division, Bell & Howell Co.
+item.notes[6]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[7]: Weekly edition: Topeka State journal (Topeka, Kan. : Weekly), Sept. 15, 1892-.
+item.notes[8]: Merged with: The Topeka daily capital, to form: Topeka capital-journal (Topeka, Kan. : Morning ed.), and: Topeka capital-journal (Topeka, Kan. : Evening ed.).
+item.notes[9]: Topeka daily capital 2640-8368 (DLC)sn 82015487 (OCoLC)8817493
+item.notes[10]: Topeka capital-journal (Topeka, Kan. : Morning ed.) 1067-1994 (DLC)sn 82014720 (OCoLC)8787195
+item.notes[11]: Topeka capital-journal (Topeka, Kan. : Evening ed.) (DLC)sn 85067244 (OCoLC)12833181
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//khi/batch_khi_jesse_ver01/data/sn82016014/00295871404/1898091001/1898091001_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82016014/marcxml
+item.other_title[0]: Topeka Sunday capital-journal
+item.other_title[1]: Topeka Saturday capital-journal
+item.place_of_publication: Topeka, Kansas
+item.raw_lccn: sn 82016014
+item.reel_numbers[0]: 00295871404
+item.source_group: ndnp/khi
+item.subjects[0]: Topeka (Kan.)--Newspapers
+item.subjects[1]: Shawnee County (Kan.)--Newspapers
+item.subjects[2]: Kansas--Shawnee County
+item.subjects[3]: Kansas--Topeka
+item.subjects[4]: United States--Kansas--Shawnee--Topeka
+item.title: The Topeka state journal (Topeka, Kansas), September 10, 1898, (THIRD EDITION)
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn82016014
+location[0]: topeka
+location[1]: kansas
+location[2]: united states
+location[3]: shawnee
+location[4]: shawnee county
+location_city[0]: topeka
+location_country[0]: united states
+location_county[0]: shawnee
+location_state[0]: kansas
+locations[0].kansas: https://www.loc.gov/search/?fa=location:kansas&fo=json&st=text
+locations[1].shawnee: https://www.loc.gov/search/?fa=location:shawnee&fo=json&st=text
+locations[2].shawnee county: https://www.loc.gov/search/?fa=location:shawnee+county&fo=json&st=text
+locations[3].topeka: https://www.loc.gov/search/?fa=location:topeka&fo=json&st=text
+locations[4].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].topeka: https://www.loc.gov/search/?fa=location_city:topeka&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].shawnee: https://www.loc.gov/search/?fa=location_county:shawnee&fo=json&st=text
+locations_state[0].kansas: https://www.loc.gov/search/?fa=location_state:kansas&fo=json&st=text
+medium: 8 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Topeka state journal.
+notes[0]: Daily, Dec. 5, 1935-1980
+notes[1]: Vol. XX, no. 218 (September 10, 1892)-v. 103, no. 171 (Aug. 21, 1980)
+notes[2]: Published on Sunday with: Topeka daily capital, as: Topeka Sunday capital-journal, Sept. 7, 1958-Sept. 1, 1980; published on Saturday with: Topeka daily capital, as: Topeka Saturday capital-journal, May 7, 1977-Sept. 1, 1980.
+notes[3]: Fiftieth anniversary edition published, Oct. 30, 1935.
+notes[4]: Title from masthead, newspapers.com, viewed June 25, 2020
+notes[5]: Also on microfilm: Micro Photo Division, Bell & Howell Co.
+notes[6]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[7]: Weekly edition: Topeka State journal (Topeka, Kan. : Weekly), Sept. 15, 1892-.
+notes[8]: Merged with: The Topeka daily capital, to form: Topeka capital-journal (Topeka, Kan. : Morning ed.), and: Topeka capital-journal (Topeka, Kan. : Evening ed.).
+notes[9]: Topeka daily capital 2640-8368 (DLC)sn 82015487 (OCoLC)8817493
+notes[10]: Topeka capital-journal (Topeka, Kan. : Morning ed.) 1067-1994 (DLC)sn 82014720 (OCoLC)8787195
+notes[11]: Topeka capital-journal (Topeka, Kan. : Evening ed.) (DLC)sn 85067244 (OCoLC)12833181
+number[0]: 00295871404
+number[1]: 1
+number[2]: sn82016014
+number_edition[0]: 1
+number_lccn[0]: sn82016014
+number_reel[0]: 00295871404
+numeric_shelf_id: 189809101
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//khi/batch_khi_jesse_ver01/data/sn82016014/00295871404/1898091001/1898091001_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82016014/marcxml
+other_title[0]: Topeka Sunday capital-journal
+other_title[1]: Topeka Saturday capital-journal
+partof[0].count: 9129
+partof[0].title: the topeka state journal (topeka, kansas) 1892-1980
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+topeka+state+journal+%28topeka,+kansas%29+1892-1980&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the topeka state journal (topeka, kansas) 1892-1980
+place_of_publication: Topeka, Kansas
+publication_frequency[0]: daily
+raw_lccn: sn 82016014
+reel_numbers[0]: 00295871404
+resources[0].files: 8
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871404:1898091001:0502/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82016014/1898-09-10/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.3352585
+shard: 07
+shelf_id: sn82016014, 1898-09-10, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/khi
+subject[0]: topeka
+subject[1]: kansas
+subject[2]: united states
+subject[3]: shawnee
+subject[4]: shawnee county (kan.)
+subject[5]: shawnee county
+subject[6]: topeka (kan.)
+subject[7]: newspapers
+subject_headings[0]: Topeka (Kan.)--Newspapers
+subject_headings[1]: Shawnee County (Kan.)--Newspapers
+subject_headings[2]: Kansas--Shawnee County
+subject_headings[3]: Kansas--Topeka
+subject_headings[4]: United States--Kansas--Shawnee--Topeka
+subjects[0].kansas: https://www.loc.gov/search/?fa=subject:kansas&fo=json&st=text
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[2].shawnee: https://www.loc.gov/search/?fa=subject:shawnee&fo=json&st=text
+subjects[3].shawnee county: https://www.loc.gov/search/?fa=subject:shawnee+county&fo=json&st=text
+subjects[4].shawnee county (kan.): https://www.loc.gov/search/?fa=subject:shawnee+county+%28kan.%29&fo=json&st=text
+subjects[5].topeka: https://www.loc.gov/search/?fa=subject:topeka&fo=json&st=text
+subjects[6].topeka (kan.): https://www.loc.gov/search/?fa=subject:topeka+%28kan.%29&fo=json&st=text
+subjects[7].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2022-10-17T18:25:54.886Z
+title: The Topeka state journal (Topeka, Kansas), September 10, 1898, (THIRD EDITION)
+type[0]: issue
+url: https://www.loc.gov/item/sn82016014/1898-09-10/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/khi/batch_khi_jesse_ver01/data/sn82016014/00295871404/1898091001/0508.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82016014/1898-09-10/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871404:1898091001:0502/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/khi/batch_khi_jesse_ver01/data/sn82016014/00295871404/1898091001/0508.pdf
+resources[0].segment_count: 8
+resources[0].url: https://www.loc.gov/resource/sn82016014/1898-09-10/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1898, September 10) The Topeka state journal. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82016014/1898-09-10/ed-1/.
+cite_this.chicago: The Topeka state journal. (Topeka, KS), Sep. 10 1898. https://www.loc.gov/item/sn82016014/1898-09-10/ed-1/.
+cite_this.mla: The Topeka state journal. (Topeka, KS) 10 Sep. 1898, p. 7. Retrieved from the Library of Congress, www.loc.gov/item/sn82016014/1898-09-10/ed-1/.
+
+segment_id: /service/ndnp/khi/batch_khi_jesse_ver01/data/sn82016014/00295871404/1898091001/0508.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/khi/batch_khi_jesse_ver01/data/sn82016014/00295871404/1898091001/0508.xml&format=alto_xml&full_text=1
+full_text:
+TTOPEKA STATE JOURNAL, SATURDAY EVENING, SEPTEMBER 10, 189S.
+;i VvOS" 1,1
+TROOPS LANDIXG AT MONTAUK POINT. FEEDING THE SOLDIERS. From HARPER'S WEEKLY.
+After a Drawing by W. A. Rogers. Reproduced from Harper's Weekly. By Permission. Copyright, 1893, by Harper Brothers.
+QUEEN 1SSH0T AT
+tVilhelmina's Troubles Hare
+Begun Already.
+Attempt Made to Assassinate
+Her Two Weeks Ago.
+JUST COME TO LIGHT.
+Was Kept Quiet Until After the
+Enthronement
+The Assassin Fired at Her
+From Ambush.
+Berlin, Sept. 10. The Local Anzeiger
+pays that a fortnight ago an attempt
+was made to assassinate Queen Wilhel
+mina, near Amersfort, province of
+Utrecht, on the road between Castle
+Soostdyt and Baar.
+A man emerged from behind a tree
+and fired a revolver at her majesty.
+The bullet missed the queen but plowed
+the cheek of a lady in attendance. The
+would-be assassin was arrested. He is
+supposed to be an English anarchist.
+The strictest secrecy has been main
+tained hitherto as to the affair, in order
+not to disturb the enjoyment of the en
+thronement festivities.
+WILL GO TO PARIS.
+Editors Decide to Make the Trip Next
+Year.
+Denver, Col., Sept. 10. The National
+Editorial association adopted the re
+port presented by William L. Eaton of
+Illinois, chairman of the committee or.
+press laws providing for a. standing
+committee of three to confer with the
+various state press associations with
+reference to bringing about uniformity
+of press laws by concurrent action of
+states legislatures.
+The committee appointed to consider
+ways and means of a trip to Paris rec
+ommended that the trip be made in
+1899 instead of 1900. The report was
+adopted. The editors expect to start
+in June. Already 160 applications for
+tickets have been received. The trip
+will consume 52 days and it is expected
+to limit the expense to $100 for each
+tourist.
+Officers were elected as follows:
+President J. B. MacCabe, editor of
+the Argus-Advocate, East Boston, Mas
+sachusetts. First vice president Arthur H. Pierce,
+editor of the Record, Denver, Col.
+Second vice president R. H. Henry,
+editor of the Clarion Ledger, Jackson,
+Miss.
+Third vice president P. H. Baillio,
+editor of the Review, Cleburne. Texas.
+Corresponding secretary J. M. Page,
+Illinois.
+Recording secretary R. M. White,
+editor of the Ledger, Mexico, Mis
+souri. Treasurer James G. Gibbs, Ohio.
+Portland, Oregon, was decided on as
+the place for holding the next meeting.
+The convention closed and the dele
+gates will go on a ten days' tour of
+Colorado.
+Robbed the Grave.
+A startling incident, of which Mr. John
+Oliver of Philadelphia was 'he subject is
+narrated by him as follows: "I was' in
+a most dreadful condition, My skin was
+almost yellow, eyes sunken, tongue coat
+ed, pain continually In back and sine
+no appetite gradually growing weaker
+lay by day. Three physicians hart given
+me up. Fortunatelv a friend advertised
+trying 'Electric Bitters." and to mv great
+joy and surprise the first bottle made a
+decided improvement. I continued their
+use for three weeks and am now a well
+man. I know they saved my life and
+robbed the grave of another victim." No
+one should fail to try them. Only 50 cents
+per bottle at Swift Holliday's drus
+tore.
+Not how cheap but how good is the
+way we try to do opr work. Peerless
+Bteam Laundry, 112 and 114 West 8th.
+City of Mexico and Return $48.65
+By the Santa Fe route. Tickets on sale
+September 8, 9 and 10. Depot 'phone 6S2.
+We will Jo your laundry work on
+short order without extra charge
+Peerless Steam Laundry.
+THE CAMP AT J10XTAUK.
+The soldiers who come up on the or
+dinary transports usually arrive fam
+ished. Upon reaching at the dock, they
+have to tramp a mile or more in heavy
+marching order to the detention camp.
+At the dock it is their good fortune to
+meet a kind friend. Mrs. Valentine
+Mott stands, day after day, early and
+late, with milk, beef extract, and sand
+wiches, to brace the poor weak fellows
+for their weary march over the hills.
+Our picture, taken from Harper's Wreek
+ly, gives one an excellent idea of this
+woman's charitable service.
+It is, of course, impossible for the
+regimental surgeons to talk, except in
+confidence, about the lack of medicines
+and food before and after the fight at
+Santiago, on the voyage home, and here
+in camp, but it is also just as impossible
+for them to keep still about it in talk
+ing privately. The one cheerful feature
+of the camp is the black soldier; he,
+as a general thjng, came through but
+little the worse of the pestilent climate
+of Cuba, and coming of a race used to
+privations, stood the starvation rations
+better than his white brother.
+He is looked upon by the white soldier
+with positive affection and pride.
+The gallant conduct of the black man,
+his hunting out and exterminating the
+sharpshooters and guerillas who were
+picking off the officers and wounded
+from the trees, is a story that every
+white soldier will tell you with kindling
+eyes. To see the colored troopers bring
+ing a hundred horses down to the wa
+ter, singing and laughing as they swing
+along at a canter, is a sight pleasant
+to remember. Not one good word is to
+be heard in the whole camp for the Cu
+ban. "Cubans! Well, if I have to go
+back to Cuba, I hope it'll be to lick
+those horse thieves. The Spaniards are
+all right: I haven't a word to say
+against them. In fact, we all liked the
+Spanish boys when we got to know
+them." This was what you might hear
+all over the camp.
+TO DRIVE OUT SPANIARDS.
+France is Being Overrun With. Refu
+gees. Perpignan, France, Sept. 10. The au
+thorities are taking steps to drive out
+the numberless Spanish reservists who
+have been seeking refuge in France
+since the recent call to the colors of
+Spain of 100.000 men, of which number
+20,000 are said to be intended for the
+Philippine islands.
+A li-ely Catholic propaganda is in
+progress at Cordegne. in the Pyrenees,
+under the auspices of the friars who re
+cently returned from the Philippine is
+lands. Wrell known Carlists have held
+frequent secret meetings there.
+Afraid of Hi3 Own People.
+London, Sept. 10. A special to a news
+agency from Shanghai says that Clar
+ence R. Greathouse, the American ad
+visor of the king of Korea, has recruit
+ed a strong force of foreigners at
+Shanghai, to act as a body guard of the
+king,"" who is said to be afraid to trust
+the Coreans.
+Jews Shut Out of Palestine.
+Washington. Sept. 10. The Turkish
+legation has issued the following state
+ment" The entrance into Palestine is
+formally prohibited to foreign Israelites
+and consequently the imperial ottoman
+authorities have received orders to pre
+vent the landing of immigrant Jews in
+that province.
+Died of Yellow Fever.
+Washington, Sept. 10. General Law
+ton, in his bulletin from Santiago to
+night, reports the death of Dr. lu. b.
+Tyner, acting assistant surgeon, from
+yellow fever. Two other deaths are re
+ported as follows: Douglas, Frank W.,
+civilian, chronic dysentery: Houghton,
+Clifford, private, company F, Ninth in
+fantry, typhoid fever.
+The Direct Line
+to Denver, Salt Lake City, San Fran
+cisco and Portland, is via the Union
+Pacific. The service of the Union
+Pacific to all principal western points
+is unexcelled by any other line and con
+sists of Pullman Palace Sleepers. Pull
+man Tourist Sleepers, Chair Cars, Din
+ing Cars. (Meals a la carte.)
+For time table and full information
+call on F. A. Lewis, City Ticket Agent,
+J. C. Fulton, Depot Agent.
+Cool and comfortable dining cars on
+Santa Fe Route are obtained by use of
+electric fans.
+l AW I I
+STAR POINTER SUCCEEDS.
+Famous Pacer Breaks His Record by
+Going a Mile in 2:00 1-2.
+Hartford, Conn., Sept. 10. The event
+of greatest interest in the Charter Oak
+race meeting yesterday was the attempt
+of Star Pointer to lower the track rec
+ord of 2:03, which was successful, the
+mile being made in 2:00. The quarters
+were iOV, 1:01. 1:31. Results:
+2:08 pace, purse $1,500: Quadridga
+won fourth, sixth and seventh heats.
+Time, 2:08, 2:10, 2:10. Nicol B,
+won third and fifth heats. Time 2:09,
+2:08. Giles Noyes won first and sec
+ond heats. Time 2:08, 2:07. Cour
+ier Journal. Charles B., and Bright
+Light also started.
+Handicap, purse $1,000: Helen R, won
+first, second and fourth heats. Time
+2:18, 2:17, 2:17. Monopole won
+third heat in 2:22. Special Boy, third.
+Hal C, and Emma M also started.
+2:13 trot, purse $1,500: Bingen won'
+first, fourth and fifth heats. Time 2:09,
+2:10, 2:12. Cut Glass won second
+and third heats. Time 2:11, 2:12.
+Fred Kohl, third. General Alrich, Lap.
+abie. The Great, D. L. C. and Dick also
+started.
+2:19 trot, purse $1,500: Improvidence
+won in straight heats. Time 2:13,
+2:14, 2:13. Charity, second: Alert,
+third; Confessor, Guenn, My Lady, Par
+nell and. Ellert also started.
+NAISMITH WILL COACH.
+New K. TT. Physical Director is a
+Football Fan.
+Lawrence, Sept. 10. Football interest
+took another upward turn when it be
+came known that Dr. J. Naismith, the
+new director of physical culture, who
+succeeds Rev. Hector Cowan, is an old
+player, and takes much interest in the
+game. Dr. Naismith played on Cana
+dian teams for a number of years, and
+was in many hard games. He has
+since a resident of Denver taken much
+interest in football work of the Den
+ver Athletic association "team, and will
+aid in training the Kansas players for
+their season's work.
+SCEANTON WON TWO.
+Exhibition Games Played at the Burl
+ingame Fair.
+The Scranton and Auburn base ball
+teams played exhibition games at Bur
+lingame Thursday and Friday, Scanton
+winning both games.
+The score of the first game was 13-6;
+second game 29-3.
+New Short Stop for Kansas City.
+Kansas City, Mo., Sept. 10. James H.
+Klopf, a pitcher for the Richmond team
+at the Athletic league has been signed
+to succeed .Connaughton, as the Kan
+sas City team's short stop, the latter
+having quit the team under the pretext
+that Manager Manning did not fulfill
+his contract. The latter declares that
+Connaughton's claims are false.
+NATIONAL LEAGUE.
+Cincinnati 6; Chicago 4.
+Boston 3; New York 0.
+Brooklyn 8; Baltimore 5.
+Philadelphia 8; Washington 5.
+WESTERN LEAGUE.
+Milwaukee 8: St. Paul 4.
+Indianapolis 3: Minneapolis 0.
+Kansas City 8; Detroit 7.
+Columbus 7; St. Joseph 1.
+BEGIN S SUNDAY.
+The Spiritualist Camp Meeting at the
+Fairground.
+The state Spiritualists convention will
+commence its session in Topeka tomor
+row. Among those mediums and lead
+ers who will be here are the following:
+Mrs. A. Gillman, Mrs. Hoopis, Mrs. J.
+F. Fooshee, Mr. B. F. McMarn, Mrs. O.
+L. Concannon, Mr. and Mrs. L. H.
+Bellman, Mr. Davis, Mr. and Mrs. Cla
+man, Mr. W. P. Sairling, Mr. W. J.
+Holman, Prof. W'alran, Mrs. Alice Cary,
+Mr. James M. Allen, Mrs. Rowell, Dr.
+C. M. Folsom, Rev. J. M. Folsom, Mr.
+G. H. Walrer. Mr. D. W. Hall, Prof. W.
+J. Buck, Mrs. Rodgers.
+Procure the Bets.
+If you the best Baking Powder on earth
+desire.
+For "Gipsy Queen" you had better In
+quire, Favorite with the ladies it always has
+"Gypsy Queen."
+1IALF OR NOTHING.
+Nevada Democrats Reject Proposi
+tion for Fusion.
+Reno, Nev., Sept. 10. The Democratic
+state convention nominated as follows:
+Governor George Russell.
+Lieutenant governor C. M. Grimes.
+Secretary of state John Webber.
+State treasurer W. G. Thompson.
+State controller G. M. Humphreys.
+Surveyor general T. K. Stewart.
+State printer James Morris.
+Regents- university F. H. Triplett,'
+long term; G. H. Haist, short term.
+The Democratic committee on fusion
+reported that the' silver Republicans
+nominees for lieutenant governor, staldl
+controller, short term regent of the
+university and superintendent of pub
+lic instruction.
+None of the convention seemed wil
+ling to accept less than half the ticket
+and after some vigorous speeches a
+motion was made that the silver Re
+publicans proposition to fuse be re
+jected and it prevailed almost unani
+mously. FUSION IS COMPLETE.
+Democrats Get the Best of the Deal
+in Washington.
+Ellensburg, Wash., Sept. 10. The
+Democratic, Populist and Silver Repub
+lican state conventions representing the
+silver forces of the state of Washington
+formed fusion and nominated the fol
+lowing ticket:
+Congressman, James Hamilton, Dem
+ocrat, of Seattle: W. C. Jones, Silver
+Republican, of Spokane.
+Supreme judges, B. F. Houston, Pop
+ulist, of Tacoma; M. M. Goodman,
+Democrat, of Dayton.
+Fusion was accomplished by the Pop
+ulists conceding the Democrats, after a
+very stubborn contest, one of the nomi
+nees for supreme judge. After the indi
+vidual conventions had adopted the
+formal motions of closing, a joint meet
+ing was held in the Populist hall, at
+which the ticket was formally ratified.
+The conventions then adjourned sine
+die.
+COMMISSIONERS CHOSEN
+To Investigate the Conduct of the
+War Department
+Washington, Sept. 10. President Mc
+Kinley has tendered places on the pro
+posed commission to investigate the war
+department in relation to the conduct of
+the Hispano-Ameriean war, to Major
+General Schofield, former commanding
+general of the army, and to ex-Senator
+John B. Gordon of Georgia
+Brings Gold From Klondike.
+Arkansas City, Sept. 10. C. S. Red
+mon has returned here from the gold
+fields in Alaska. He left here last
+April and went to Juneau, where he re
+mained for. four months prospecting up
+and down the Stikeen river. His clear
+ings were about $8,000.
+AMUSEMENIl
+N
+EW CRAWFORD THEATER
+One Nigltt Only.
+Tuesday, Sept. 13.
+PITZ WEBSTER'S
+Unrivaled company of comedians in
+that musical comedy surprise
+A BREEZY TirViE
+Entirely rewritten and tuned up to date.
+Prices a, 35c. 50c and 75c. Scats on sale at
+Eowiey Snow's dniK store.
+One Week, Commencing
+Monday, September 5th.
+ENGAGEMENT
+EXTRAORDINARY
+GAY RHEA,
+And Her Own Company in Repertory
+First Time at
+ropniar Prices, 10, 20 and 30 &nts.
+An-V rlir free firot nirrhf
+one paid SOc ticket.
+Heats,
+o
+Situations,
+Real Estate,
+Auction Sales,
+AND OTHER
+Classified Advertisements.
+WANTED HEXP.
+WANTED A position as housekeeper or
+day's work, by an elderly person, near
+city. Address 714 Hancock st.
+TEACHERS Assistants and grade teach
+ers for public and private schools this
+month. Interstate Teachers Agency, 126
+Washington St., Chicago.
+WANTED A place to work In grocery
+store -by a boy 15 years old. 222 Mon
+roe St.
+WANTED A position by a boy of IS.
+Address A H. S., care Journal.
+WANTED To sew out by the day: will
+work cheap. Address I. TJ., care Jour
+nal. PLEASANT home work for men or wo
+men, day or evening: $6 to $15 weekly:
+no canvassing or experience needed: plain
+instructions and work mailed on applica
+tion. Brazilian Mfg. Co., New York City.
+WANTED Teamster, a good steady man;
+job for the winter. Chappell Coal Co.
+WANTED By physician, good unoccupied
+field to practice medicine and surgery in
+small Kansas town. Address P. O. Box
+105. Omaha, Neb.
+WANTED FEMALE HELP.
+WANTED Immediately, good girl for
+general housework. 634 Clay.
+WANTED A girl for general housework
+at 511 West Eighth.
+WANTED White girl, general housework,
+at once, small family. 1264 Buchanan st.
+WANTED White girl for dishwashing at
+204 West Sixth St.
+WANTED Woman to cook; no washing;
+light work. Box 135, North Topeka.
+WANTED 3 millinery apprentices at
+once, at the Golden Rod, 433 Kansas are.
+WANTED An expert lady stenographer
+who is a good accountant. Address N.,
+care Journal.
+WANTED Dining room girls, southeast
+corner Eighth and Quincy.
+WANTED At the National, two experi
+enced dining room waitresses.
+WArTEMLSCELLANEUS
+WANTED You to know that we buy, sell
+and exchange stoves, furniture and
+household goods. See us if in need of
+anvthing in our line, Magill Rhea, 115
+East Sixth St.
+WANTED When ordering pancake flour
+to have you get the best. The Ralston
+Health Pancake Flour. Sold by all gro
+cers and flour dealers. Try it.
+WANTED Case of indigestion that the
+continued use of bread properly made
+from Ralston Health Flour will not re
+lieve. Order from your grocer. It's na
+ture's remedy.
+WANTED Lady boarder, reasonable. 524
+Madison.
+WANTED Immediately, good furnished
+or unfurnished rooms. Address "B.,"
+care Journal.
+WANTED Guns to repair, sell, buy or
+exchange, at the "Golden Rule" Ma
+chine Works, 514 Kansas ave.
+WANTED Everyone to know that In re
+plying to an advertisement which reads
+to address "Care Journal" the reply must
+be made in writing and sent through the
+?nail postpaid, or left at this office. It
+will then be placed In one of the boxes
+set aside for replies to classified advertise
+ments. WANTED AGENTS.
+$15 WEEKLY and expenses to active
+workers appointing agents; something
+new; sales big: state previous business ex
+perience. Address Keeler Kirkpatrick,
+Philadelphia, Pa.
+TRAVELING salesmen, country agents
+and county fair workers wanted to sell
+our evaporating nest eggs. Address Nest
+Egg Factory, Wahoo, Neb.
+$13 TO $35 weekly and expenses paid sales
+men to sell toilet soap to dealers; ex
+perience unnecessary. Louis Ernst Co.,
+St. Louis, Mo.
+AGENTS WANTED A substitute for the
+corset which improves health and form;
+newly patented. Wright Bust Form Co.,
+St. Louis, Mo.
+"THE CONFLICT WITH SPAIN," by
+Henry F. Keenan. The only genuine
+History of the War. Over 600 pp.. over 150
+illus. Authentic, accurate, official, com
+plete. Of thrilling interest. Outfit now
+ready. Agents wanted. Liberal terms. P.
+W. Ziegler Co., 326 Dearborn St., Chi
+cago, 111.
+AGENTS can make big money taking or
+ders for our ladies' and gents' mackin
+toshes: established twelve years; reliabil
+ity guaranteed; we sell only through
+agents; buy at headquarters; send for
+terms. Pond Rubber Co., 4S8 Washington
+St., Boston, Mass.
+WANTED SALESMEN.
+WANTED Experienced and successful
+solicitors to call or write us for informa
+tion regarding our new library. Exclusive
+territory and liberal contract. D. Apple
+ton Co., 101S Walnut st.. Kansas City,
+Mo., subscription department.
+SALESMEN WANTED Our line of ad
+vertising thermometer novelties for 1898
+1899 is now ready. We pay liberal com
+mission to competent salesmen; send 10
+cents in stamps for catalogue, sample and
+terms. Taylor Bros. Co., Rochester, N. Y.
+WANTED 6 gentlemen to roomandboard
+at 222 Monroe St. Santa Fe men pre
+ferred. $15 TO $35 a week and expenses paid men
+to sell cigars on time: experience unnec
+essary. W. L. Kline Co., St. Louis. Mo.
+BUSINESS OPPORTUNITIES.
+QUICK MONEY can be made in wheat
+pork and stocks. The war is over. Don't
+be afraid to invest. Our customers made
+2i0 per cent profit in ten days. It sounds
+big but it's true. Small capital will earn
+an Income. Don't hesitate, but write to
+us. Our advice, always good, can be had
+free of chariee. We are known from the
+Atlantic to the Pacific and need no intro
+duction. Our customers are our references.
+The G. W. Wylie Co., 11 Wall st.. New
+York.
+OVERCOATS cleaned, repaired. A. Hir
+bour. 'Phone 152. 115 W. Seventh st,
+WANTED Partner: live young man with
+small capital, assist me selling goods in
+and around Topeka; investigate Sunday.
+Adams House, North Topeka. Greene.
+WANTED Capable man with $1,000 to
+carry stock of goods and manage branch
+of Chicagro house: $125 per month and all
+expenses: also extra percentage: perma
+nent position, .with good future prospects.
+Address James Barton, 113 Dearborn St.,
+Chicago.
+OVERCOATS cleaned, repaired. A. Hir
+bour. 'Phone 152. 115 W. Seventh st.
+FOR RENT ROOMS.
+FOR RENT 1 large front room on first
+floor, furnished or unfurnished, with
+board. Miss Hughes, 516 Harrison.
+FOR RENT Furnished room with mod
+ern conveniences, northeast corner Sev
+enth and Harrison sts.
+FOR RENT Rooms, with or without
+board. 526 Madison.
+FOR RENT Very pleasant upper east
+front room, 421 Quincy st.
+FOR RENT Three unfurnished rooms,
+first floor, between Sixth and Seventh
+on Jackson. Inquire 616 Jackson.
+OVERCOATS cleaned, repaired. A. Hir
+bour. 'Phone 102. 115 W. Seventh St.
+FOR RENT HOUSES.
+FOR RENT A fine 8 room house. No. 1315
+Topeka ave., all modern conveniences.
+Inquire room 41, Columbian building.
+FOR RENT Furnished S room house.
+steam heat, electric light. Inquire S26
+Monroe.
+FOR RENT 6 room cottage, $10, 916 West
+Eighth.
+FOR RENT Modern 8 room house on
+Western ave. Call 706 Madison.
+OVERCOATS cleaned, repaired. A. Hir.
+bour. 'Phone 152. 115 W. Seventh st.
+LOST AND FOUND.
+FOUND The umbrella repairer and jew
+eler. W. S. McCormick. at S13 Kan. ave.
+OVERCOATS cleaned, repaired. A. Hir
+bour. 'Phone 152. 115 W. Seventh st.
+FOR SALE MISCELLANEOUS.
+FOR SALE Pure blood Jersey cow. Just
+fresh. J. M. Foster, 4 miles south on
+Burlingame road.
+FOR SALE 2 fine Washburn mandolins
+with leather cases, 1 good guitar, 2 al
+most new Singer sewing machines, 1 good
+double-barrel 12 gauge hammerless shot
+gun. All of these will be sold cheap for
+cash or on payments. L. Biscoe 523 Kan
+sas ave.
+FOR SALE A very large glass front
+bookcase, suitable for a doctor or law
+yer: 1 large office desk, 1 walnut desk and
+bookcase combined, also a full line of new
+and second hand furniture, stoves, tin
+ware., etc. Magill Rhea, 115 East
+Sixth st.
+FOR SALE Hard and soft coal stoves,
+heaters, ranges and cook stoves. Magill
+Rhea, 115 East Sixth St.
+FOR SALE Ralston Health Pancake
+Flour, by all grocers and flour dealers.
+It aids rather than impairs digestion.
+FOR SALE Lady's brand new Bellts bi
+cycle. Address L. M. B-, care Journal.
+FOR SALE One four-year-old black driv
+ing horse, city broke: a set of harness
+and a buggy almost new. Inquire at 805
+Kansas ave.,, upstairs.
+FOR SALE Boarding house furnishings,
+complete. Address S. B., care Journal.
+FOR SALE Good milch cow. 314 Fill
+more st.
+FOR SALE Good driving team. 409 East
+Thicd street.
+FOR SALE Stand on corner Fifth and
+Kansas ave., cheap for cash; must be
+sold soon.
+FOR SALE 2 bed room sets, rocking
+chairs, soft coal heater, hard coal heater,
+etc. 1268 Van Buren street.
+FOR SALE 2 good milch cows, 1 Jersey,
+1 Shorthorn, at 801 Morris ave.
+FOR SALE REAL ESTATE.
+FOSALRALES?ArT&!
+Modern house on Van Buren of 8 rooms,
+good barn, just south of state house, $4,500.
+Cottage on Van Buren of 6 rooms. 2 lots,
+good home, $1,900. 80 acres southwest 10
+miles, good house, barn and orchard, 30
+acres bottom land, $18 per acre. 4 room
+house. 1H lots, on corner, in Walnut
+Grove; must be sold: make us an offer
+and you will get it. 5 acre tract close in,
+on north side, to trade for house and lot
+on south side. Store room on corner on
+Tenth St.. $300. 4 lots and store building
+on East Sixth. $500. 3 lots. 7 room 2 story
+house in Martin Place addition, $900. Good
+2 story house of 6 rooms, 2 lots, in Shorey,
+$401).
+We have cash customers for property in
+west part of city ranging in price from
+$1,000 to $3,500. If you have such a prop
+erty for sale come in and list it with us.
+PAYNE THOMPSON,
+627 Kansas ave.
+FOR SALE
+Two properties on Madison st. between
+First and Second. Houses newly papered
+and finished inside and out; new roofs on
+houses; all in nice condition. $700 each.
+A good property on West Eighth St.,
+five block from Kansas ave. ,7 room house,
+well, cistern and barn, all in good repair.
+$1,500.
+A first class property on Monroe, 3 lots
+and 9 room house; $3,600.
+A fine 80 acre farm just oer the line in
+Osage county; fine orchard 19 acres; good
+7 room house, stable, cow sheds. S good
+wells, 1 miles Wakarusa station.
+I have a number of other good bargains
+in farm and city property; also a large
+list of properties for rent.
+WALTER T. NOBLE,
+611 Kansas ave.
+FOR SALE SPECIAL BARGAIN:
+Van Buren St., 24 blocks south of state
+house, 1 lots, nice 2 story house, cistern
+and city water in kitchen, hydrant and
+sewer connection, brick sidewalk, large
+trees, all in good repair. Price $1,600;
+very small cash payment.
+J. E. TORRINGTON, 109 West 6th St.
+FOR SALE
+Several small properties from 3 to 5
+rooms at very low prices and on easy
+terms.
+W. M. FORBES, 116 W. Sixth st.
+FOR SALE Or exchange for Topeka
+property, 440 acres, Butler county; 80
+acres bottom land, never failing creek and
+spring: $12 per acre. W. H. Bennington,
+807 Kansas ave.
+SEE THOSE eight nice lots for $1,000, if
+taken now. Corner Huntoon and Mul
+vane streets. Worth $1,500. Brown, 17
+Columbian.
+FOR SALE
+Fine residence lot in Potwin.
+BARNES REAL ESTATE CO.,
+Tel. 262. 113 East Fourth st.
+FOR SALE
+We have extra choice building lots to
+sell at right prices.
+BARNES REAL ESTATE CO.
+FOR SALE 35 lots near the Santa Fo
+Ehops, 35 lots Twenty-first and Madison
+sts., 60 lots near Shorey, 8 room house and
+acres near city limits. 80 acres 6 miles
+north, all on time payments or cheap for;
+cash. M. Heery. 109 East Third.
+OBALE MLSELLAITEOUS
+FOR SALE Gas stoves at cost, to close
+out, at Prescott Co.s'
+FOP SALE Ten R.I.P.A.N.'S for S cents
+at Jruggists; one gives relief.
+FOR SALE Choice eastern Kansas farm
+mortgages. T. E. BOWMAN CO.
+FLORISTS.
+MRS. J. R. HAGUE. Florist, successor to
+R J. Groves. 817 Kansas ave.. Phone 603.
+MISCELLANEOUS.
+ROUDEBUSH WANTS
+You to list your houses for sale between
+Jefferson and Western avenue. I have
+several purchasers for inside bargains.
+Houses to put on the rent list.
+Purchasers for some bargains In vacant
+building sites and houses.
+Private money to loan on first mortgage
+security.
+To write your fire, accident or life in
+surance. EMMETT E. ROUDEBUSH.
+Successor to J. S. Collins Co.
+115 West Sixth ave. 'Phone 267.
+M. ALEXANDER, dealer In ell kinds Jet
+feed. I make good oats a specie It v.
+Wholesale and retail. 'Phone 590. 113 E.
+Fourth st.
+WANTED
+A purchaser for the best "snap" in a
+business rental property in Topeka. Will
+net 10 per cent above taxes and all repairs.
+Call on or address
+W. M. FORBES, 116 W. Sixth st.
+BRING in your fall overcoat and have a
+new velvet collar put on. Lltten's, 429
+Kansas ave.
+OVERCOATS cleaned, repaired. A. Hir
+bour. 'Phone 162. 115 W. Seventh st.
+NOTICE There is but one Litten doing
+business in the city. You will find him
+at 429 Kansas ave. Anyone else doing
+doing business under the name of Litten
+is a fraud.
+OVERCOATS defined, repaired. A. Hir
+bour. 'Phone 152. 115 W. Seventh st.
+HO! HO! What about your full over
+coats now? You had better have them
+cleaned and pressed. A. Hirbour 115
+West Seventh st.
+PERSONAL The merits of "Ralston
+Health Flour and Pancake Flour appeal
+alike to the delicate and strong, and thus
+appeal to you. At your grocer's.
+OVERCOATS cleaned, repaired. Av Hir
+bour. 'Phone 152. 115 W. Seventh st.
+FOR EXCHANGE A very neat 5 room
+cottage on Fillmore and cash difference
+for 7 room residence. T. J. Nichols, 509
+Kansas ave.
+TROUSERS steam scoured, 50c. Litten s,
+429 Kansas ave.
+OVERCOATS cleaned, repaired. A. Hir
+bour. 'Phone 152. 115 AV. Seventh st.
+PRACTICAL lessons in French. To read,
+to speak and to write, commencing Oc
+tober 4. 3221 Polk st. Mrs. E. S. Robin
+son, Teacher.
+BRING in your baggy trousers and have
+them cut down to the latest style. Econ
+omy Dye Works, 429 Kansas ave.
+MRS. O'BRIEN Is now in New York look
+ing after fall styles. Will return Sep
+tember 15. Shop open to receive work
+September 8.
+OVERCOATS cleaned, repaired. A. Hir
+bour. 'Phone 152. 115 W. Seventh st.
+WEIBLE HORNER. 113 East Seventh
+St., make all sizes of door and window
+screens, mouldings, brackets, sash and
+doors, wood carving and turning.
+DOUTHITT PLACE Has been opened.
+Your choice of Iota $150 to $-160. Eugena
+Wolfe, 617 Kansas ave.
+STALL IN GOOD BARN for rent cheapu
+421 Quincy st.
+FREE DISPENSARY of Kansas Medical
+College, corner of Twelfth and Tyler. Is
+open daily except Sunday, from 1 to i p.
+ru. E. M. Brockett. M. D.
+(First publication In Topeka State Journal,
+September 5.)
+PROPOSALS FOR TENTS.
+NOTICE The Committee of Fifteen
+Fall Festival Association will receive bids
+at the office of the secretary. Room 3ti,
+Columbian building, Topeka, Kansas, for
+furnishing five hundred wall tents and
+not more than twenty "headquarters'"
+tents, to be used for the G. A R. reunion,
+September 26 to inclusive. Said tents
+to be delivered on board the cars at Tope
+ka. All bids will be opened at the regu
+lar meeting of the committee. No. 6-'7 Kan
+sas avenue, Tuesday evening. September
+13. 1S98. at 8 o'clock, at which time the con
+tract for furnishing said tents will ba
+awarded to the lowest and best bidder.
+The committee reserves the right to re
+ject any and all bids.
+T. J. ANDERSON, President.
+C. A. MAGAW, Secretary.
+PHYSICIAN AND SURGEONS.
+R. E. MASSET, M. D.. 810 East Fourth
+St., Physician and Surgeon.
+L. A. RYDER, M. D.
+OFFICE and residence corner Gordon St.
+and Central ave.. North Topeka. 'Phone
+S14. Uses the Brinkerhoff system of rec
+tal treatment, a successful and painless
+treatment for piles, fistula, fishnre, ul
+ceration, etc
+S. E. SHELDON. M. D.
+Surgery and diseases of women. wltH
+private hospital. Office No. 720 Kan. ave.
+IDA C. BARNES.' M. D.
+Office 732 Kansas ave. Residence Thir
+teenth and Clay. Office hours; 9 a. m. to
+11 a. m., and 3 p. m. to 5. p. m. Telephone
+598 residence and 16 office.
+JjXOjtfET
+REAL estate and mortgage brokers and
+promoters should write for circular. In
+vestors Directory Co., New York.
+LOANS on pianos, typewriters, bicycles.
+guns, watches, diamonds and any per
+sonal property. L. Biscoe, 623 Kansas ave.
+WANTED We want to make good farm
+loans In eastern Kansas. Money on
+hand and very accommodation to bOT
+rower. T. E. BOWMAN CO..
+Columbian Building.
+MILO NORTON, at 40B West Sixth ave..
+will make farm loans of $1,500 or over
+at 6 per cent interest.
+STORAGE.
+STORAGE The Toppka Storage and
+Warehouse Co. 'formerly Topeka Stor
+age Co., 305 Kas. ave.) store stoves, house
+hold goods etc. On June 1 removed to
+new fireproof stone building, 212 and 214
+Kas. ave. C. D. Skinner, Prop.
+FUEL AND FEED.
+LEAVE your orders for coal, flour, feed
+and seeds with Van Slyck, 5o9 W. 10th.
+JEWELERS
+JAMES B. HAYDEN, Jeweler and Op
+tician. Complete stock of watches, dia
+monds, silverware, etc. Eyes examined
+and spectacles aroperly fitted.
+STAMPS, SEALS AND STENCILS.
+THE J. C. PARTING CO.. 734 KAN. AV.
+High Grade Rubber Stamps; prompt work,
+low price. Catalogue free. 'Phone 292.
+BICYCLES.
+TOPEKA CYCLE CO., 112 W. 8th St.
+Bicycles and Sundries: bicycles and
+tandems for rent: repairing of all kinds.
+TIN SHOPS
+J. M. BAIRD. hot eir furnaces, pumps
+and tin roonng. Zli w. ma. ei. ao.
+WATCHMAKER.
+WATCHES cleaned, 75c: clocks, 50c;
+mainsprings. 75c: crystals, 10c. Cash
+paid for old gold or silver. All work guar
+anteed. Old jewelry exchanged for new.
+If bard up, see Uncle Sam. 512 Kan. ave.
+PXANO
+MISS MABEL MARTIN, teacher of Piano
+and Harmony. 407 Greenwood ave., Potwin.
+We'll Do Tour Hauling Right!
+TOPEKA TRANSFER CO.
+Telephones
+F. I. BACOIT, Prop.
+""See me about atoraga.

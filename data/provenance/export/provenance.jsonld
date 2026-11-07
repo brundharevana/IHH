@@ -1,0 +1,178 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "ihh": "https://immigranthallofhonor.org/ns#"
+  },
+  "@graph": [
+    {
+      "@id": "ihh:S-0001",
+      "@type": "CreativeWork",
+      "name": "Declaration of Intention and Petition for Naturalization for Albert Einstein",
+      "url": "https://catalog.archives.gov/id/596270",
+      "publisher": {
+        "@type": "Organization",
+        "name": "U.S. National Archives and Records Administration"
+      },
+      "identifier": "NAID 596270",
+      "ihh:sourceType": "primary",
+      "prov:atTime": "2026-10-08"
+    },
+    {
+      "@id": "ihh:S-0002",
+      "@type": "CreativeWork",
+      "name": "Petition for Naturalization for Hedwig Maria Stauffer",
+      "url": "https://catalog.archives.gov/id/335708097",
+      "publisher": {
+        "@type": "Organization",
+        "name": "U.S. National Archives and Records Administration"
+      },
+      "identifier": "NAID 335708097",
+      "ihh:sourceType": "primary",
+      "prov:atTime": "2026-10-08"
+    },
+    {
+      "@id": "ihh:S-0003",
+      "@type": "CreativeWork",
+      "name": "US2292387A - Secret communication system",
+      "url": "https://patents.google.com/patent/US2292387A/en",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Google Patents"
+      },
+      "identifier": "US 2,292,387",
+      "ihh:sourceType": "secondary",
+      "prov:atTime": "2026-10-08"
+    },
+    {
+      "@id": "ihh:F-0001",
+      "@type": "Claim",
+      "text": "The U.S. National Archives holds Albert Einstein's naturalization record, which includes a Certificate of Arrival, Declaration of Intention, Petition for Naturalization, and Oath of Allegiance.",
+      "about": {
+        "@type": "Person",
+        "name": "einstein"
+      },
+      "citation": [
+        {
+          "@id": "ihh:S-0001"
+        }
+      ],
+      "ihh:status": "verified",
+      "ihh:category": "immigration",
+      "ihh:eventDate": null,
+      "ihh:verifiedOn": "2026-10-08",
+      "prov:wasDerivedFrom": [
+        {
+          "@id": "ihh:S-0001"
+        }
+      ]
+    },
+    {
+      "@id": "ihh:F-0002",
+      "@type": "Claim",
+      "text": "The U.S. National Archives holds Hedy Lamarr's naturalization file under the name Hedwig Maria Stauffer; NARA lists her other names as Hedy Lamarr, Hedwig Kiesler Mandl Markey, Hedy Kiesler, Hedy Mandl, and Hedy Markey. The file contains a certificate of arrival, declaration of intention, affidavits of witnesses, and petition for naturalization.",
+      "about": {
+        "@type": "Person",
+        "name": "lamarr"
+      },
+      "citation": [
+        {
+          "@id": "ihh:S-0002"
+        }
+      ],
+      "ihh:status": "verified",
+      "ihh:category": "immigration",
+      "ihh:eventDate": null,
+      "ihh:verifiedOn": "2026-10-08",
+      "prov:wasDerivedFrom": [
+        {
+          "@id": "ihh:S-0002"
+        }
+      ]
+    },
+    {
+      "@id": "ihh:F-0003",
+      "@type": "Claim",
+      "text": "U.S. Patent 2,292,387 was filed on June 10, 1941 and granted on August 11, 1942.",
+      "about": {
+        "@type": "Person",
+        "name": "lamarr"
+      },
+      "citation": [
+        {
+          "@id": "ihh:S-0003"
+        }
+      ],
+      "ihh:status": "single-source",
+      "ihh:category": "invention",
+      "ihh:eventDate": "1942-08-11",
+      "ihh:verifiedOn": null,
+      "prov:wasDerivedFrom": [
+        {
+          "@id": "ihh:S-0003"
+        }
+      ]
+    },
+    {
+      "@id": "ihh:Q-0001",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-10-08",
+      "instrument": "NARA catalog API (catalog.archives.gov/proxy/records/search)",
+      "query": "naId=596270",
+      "prov:generated": [
+        {
+          "@id": "ihh:S-0001"
+        },
+        {
+          "@id": "ihh:F-0001"
+        }
+      ]
+    },
+    {
+      "@id": "ihh:Q-0002",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-10-08",
+      "instrument": "NARA catalog API (catalog.archives.gov/proxy/records/search)",
+      "query": "naId=335708097",
+      "prov:generated": [
+        {
+          "@id": "ihh:S-0002"
+        },
+        {
+          "@id": "ihh:F-0002"
+        }
+      ]
+    },
+    {
+      "@id": "ihh:Q-0003",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-10-08",
+      "instrument": "Google Patents",
+      "query": "US2292387A",
+      "prov:generated": [
+        {
+          "@id": "ihh:S-0003"
+        },
+        {
+          "@id": "ihh:F-0003"
+        }
+      ]
+    },
+    {
+      "@id": "ihh:Q-0004",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-10-08",
+      "instrument": "Web search",
+      "query": "Hebrew University v. General Motors Einstein right of publicity ruling 50 years",
+      "prov:generated": []
+    },
+    {
+      "@id": "ihh:Q-0005",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-10-08",
+      "instrument": "Web search",
+      "query": "Einstein name likeness licensing Hebrew University Greenlight rights 2025",
+      "prov:generated": []
+    }
+  ]
+}

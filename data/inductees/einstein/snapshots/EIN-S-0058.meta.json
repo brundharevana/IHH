@@ -1,0 +1,10 @@
+{
+  "url": "https://www.ias.edu/albert-einstein-great-works",
+  "fetch_url": "https://www.ias.edu/albert-einstein-great-works",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:53:18Z",
+  "sha256": "c9082f68469de3609ba0ca5f324676554695fd316c47b33fa0b884b7070d1b67",
+  "bytes": 6609,
+  "http_status": 200,
+  "final_url": "https://www.ias.edu/albert-einstein-great-works"
+}

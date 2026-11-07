@@ -1,0 +1,16 @@
+{
+  "$comment": "Named nodes in muir-glacier-point-1903.glb / muir-glacier-point-1903-mobile.glb (glTF Y-up, metres). hotspot_* are standing viewpoints at eye height 1.6 m whose local -Z axis faces the view direction (camera convention); artifact_* are framable objects; label_recreation carries the recreation label in extras.text. Walkable bounds: bounds.json.",
+  "hotspots": [
+    "hotspot_1",
+    "hotspot_2",
+    "hotspot_3",
+    "hotspot_4"
+  ],
+  "artifacts": [
+    "artifact_granite_ledge",
+    "artifact_view_1903"
+  ],
+  "label": [
+    "label_recreation"
+  ]
+}

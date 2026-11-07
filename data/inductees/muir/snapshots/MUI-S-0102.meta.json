@@ -1,0 +1,11 @@
+{
+  "url": "https://catalog.archives.gov/id/7268060",
+  "fetch_url": "https://catalog.archives.gov/proxy/contributions/targetNaId/7268060",
+  "method": "api",
+  "fetched_at": "2026-10-20T20:54:48Z",
+  "sha256": "31d4e40746dfbe2085b40c1a388db6b7d206ce152753168b2adf9091ae8b28c1",
+  "bytes": 7142,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/contributions/targetNaId/7268060",
+  "record_url": "https://catalog.archives.gov/proxy/records/search?naId=7268060"
+}

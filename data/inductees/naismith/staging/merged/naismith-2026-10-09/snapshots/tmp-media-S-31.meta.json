@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:James_Naismith.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:James_Naismith.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:22:19Z",
+  "sha256": "59ce050294d42a4ce6884ace1b2ed6fe70b3dbbebf29edf3774e0eede408f282",
+  "bytes": 748,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:James_Naismith.jpg&format=json"
+}

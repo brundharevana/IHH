@@ -1,0 +1,24 @@
+{
+  "$comment": "Named nodes in einstein-trenton-courtroom.glb / einstein-trenton-courtroom-mobile.glb (glTF Y-up, metres). hotspot_* are standing viewpoints at eye height 1.6 m whose local -Z axis faces the view direction (camera convention); artifact_* are framable objects; label_recreation carries the recreation label in extras.text. Walkable bounds: bounds.json.",
+  "hotspots": [
+    "hotspot_1",
+    "hotspot_2",
+    "hotspot_3",
+    "hotspot_4"
+  ],
+  "artifacts": [
+    "artifact_clerks_desk",
+    "artifact_eagle",
+    "artifact_judges_bench",
+    "artifact_lamp_0",
+    "artifact_lamp_1",
+    "artifact_marble_panel",
+    "artifact_pendant",
+    "artifact_wainscot",
+    "artifact_window_left",
+    "artifact_witness_box"
+  ],
+  "label": [
+    "label_recreation"
+  ]
+}

@@ -1,0 +1,121 @@
+title: M-92 Hedwig Loder (Née Lamarr)
+onlineResources[0].note: This file was scanned as part of a collaboration effort between Fold3 and the National Archives.
+onlineResources[0].description: Fold3
+onlineResources[0].url: https://www.fold3.com/image/312278286
+levelOfDescription: fileUnit
+recordType: description
+useRestriction.status: Unrestricted
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-3510
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Textual Reference
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-1752
+physicalOccurrences[0].referenceUnits[0].email: Archives2reference@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Loose Sheets
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupId: ou=RDTP2,ou=groups
+dataControlGroup.groupCd: RDTP2
+generalRecordsTypes[0]: Textual Records
+microformPublications[0].identifier: DN1929
+microformPublications[0].note: The start of this file can be found on Disk 242.
+microformPublications[0].title: DN1929 - Records of the Property Control Branch of the U.S. Allied Commission for Austria (USACA) Section, 1945-1950.
+variantControlNumbers[0].number: Fold3 2017
+variantControlNumbers[0].type: Search Identifier
+digitalObjects[0].objectFilename: dn1929-d-242-00668.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00668.jpg
+digitalObjects[0].objectFileSize: 1977686
+digitalObjects[0].objectDesignator: Fold3 File #312278286
+digitalObjects[0].objectId: 74395328
+digitalObjects[0].objectDescription: Image provided by Fold3.
+digitalObjects[0].objectType: Image (JPG)
+digitalObjects[1].objectFilename: dn1929-d-242-00669.jpg
+digitalObjects[1].objectUrl: https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00669.jpg
+digitalObjects[1].objectFileSize: 1314092
+digitalObjects[1].objectDesignator: Fold3 File #312278289
+digitalObjects[1].objectId: 74395329
+digitalObjects[1].objectDescription: Image provided by Fold3.
+digitalObjects[1].objectType: Image (JPG)
+digitalObjects[2].objectFilename: dn1929-d-242-00670.jpg
+digitalObjects[2].objectUrl: https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00670.jpg
+digitalObjects[2].objectFileSize: 1500200
+digitalObjects[2].objectDesignator: Fold3 File #312278292
+digitalObjects[2].objectId: 74395330
+digitalObjects[2].objectDescription: Image provided by Fold3.
+digitalObjects[2].objectType: Image (JPG)
+digitalObjects[3].objectFilename: dn1929-d-242-00671.jpg
+digitalObjects[3].objectUrl: https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00671.jpg
+digitalObjects[3].objectFileSize: 1575372
+digitalObjects[3].objectDesignator: Fold3 File #312278295
+digitalObjects[3].objectId: 74395331
+digitalObjects[3].objectDescription: Image provided by Fold3.
+digitalObjects[3].objectType: Image (JPG)
+digitalObjects[4].objectFilename: dn1929-d-242-00672.jpg
+digitalObjects[4].objectUrl: https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00672.jpg
+digitalObjects[4].objectFileSize: 1166683
+digitalObjects[4].objectDesignator: Fold3 File #312278298
+digitalObjects[4].objectId: 74395332
+digitalObjects[4].objectDescription: Image provided by Fold3.
+digitalObjects[4].objectType: Image (JPG)
+digitalObjects[5].objectFilename: dn1929-d-242-00673.jpg
+digitalObjects[5].objectUrl: https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00673.jpg
+digitalObjects[5].objectFileSize: 1380560
+digitalObjects[5].objectDesignator: Fold3 File #312278300
+digitalObjects[5].objectId: 74395333
+digitalObjects[5].objectDescription: Image provided by Fold3.
+digitalObjects[5].objectType: Image (JPG)
+digitalObjects[6].objectFilename: dn1929-d-242-00674.jpg
+digitalObjects[6].objectUrl: https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00674.jpg
+digitalObjects[6].objectFileSize: 1289067
+digitalObjects[6].objectDesignator: Fold3 File #312278303
+digitalObjects[6].objectId: 74395334
+digitalObjects[6].objectDescription: Image provided by Fold3.
+digitalObjects[6].objectType: Image (JPG)
+digitalObjects[7].objectFilename: dn1929-d-242-00675.jpg
+digitalObjects[7].objectUrl: https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00675.jpg
+digitalObjects[7].objectFileSize: 1637346
+digitalObjects[7].objectDesignator: Fold3 File #312278306
+digitalObjects[7].objectId: 74395335
+digitalObjects[7].objectDescription: Image provided by Fold3.
+digitalObjects[7].objectType: Image (JPG)
+digitalObjects[8].objectFilename: dn1929-d-242-00676.jpg
+digitalObjects[8].objectUrl: https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00676.jpg
+digitalObjects[8].objectFileSize: 1443283
+digitalObjects[8].objectDesignator: Fold3 File #312278309
+digitalObjects[8].objectId: 74395336
+digitalObjects[8].objectDescription: Image provided by Fold3.
+digitalObjects[8].objectType: Image (JPG)
+ancestors[0].inclusiveStartDate.year: 1923
+ancestors[0].inclusiveStartDate.logicalDate: 1923-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 260
+ancestors[0].inclusiveEndDate.year: 1972
+ancestors[0].inclusiveEndDate.logicalDate: 1972-12-31
+ancestors[0].title: Records of U.S. Occupation Headquarters, World War II
+ancestors[0].naId: 587
+ancestors[1].inclusiveStartDate.year: 1945
+ancestors[1].inclusiveStartDate.logicalDate: 1945-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of Defense. European Command. U.S. Element, Allied Commission for Austria. Reparations, Deliveries, and Restitutions Division. Property Control Branch. (3/15/1947 - ca. 9/20/1950)
+ancestors[1].creators[0].abolishDate.month: 9
+ancestors[1].creators[0].abolishDate.year: 1950
+ancestors[1].creators[0].abolishDate.day: 20
+ancestors[1].creators[0].abolishDate.logicalDate: 1950-09-20
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 3
+ancestors[1].creators[0].establishDate.year: 1947
+ancestors[1].creators[0].establishDate.day: 15
+ancestors[1].creators[0].establishDate.logicalDate: 1947-03-15
+ancestors[1].creators[0].naId: 10497951
+ancestors[1].inclusiveEndDate.year: 1950
+ancestors[1].inclusiveEndDate.logicalDate: 1950-12-31
+ancestors[1].title: Correspondence Relating to Claims and Queries
+ancestors[1].naId: 5686195
+naId: 74395327

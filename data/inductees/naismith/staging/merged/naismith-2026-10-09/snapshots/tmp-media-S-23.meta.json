@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Naismith_Rules_of_Basketball_1892_first_draft.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Naismith_Rules_of_Basketball_1892_first_draft.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:17:08Z",
+  "sha256": "63374892836cdfda2c9ff2088fc38ddf51de777f40b6c9f8a65b3fa495127fa6",
+  "bytes": 711,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Naismith_Rules_of_Basketball_1892_first_draft.jpg&format=json"
+}

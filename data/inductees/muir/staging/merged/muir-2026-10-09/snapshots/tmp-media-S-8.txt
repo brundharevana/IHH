@@ -1,0 +1,198 @@
+_version_: 1731714847731613696
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/91784654/
+aka[1]: http://www.loc.gov/item/91784654/
+aka[2]: http://www.loc.gov/pictures/item/91784654/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/91784654/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/91784654/
+aka[5]: http://www.loc.gov/resource/cph.3c03951/
+aka[6]: https://hdl.loc.gov/loc.pnp/cph.3c03951
+aka[7]: http://lccn.loc.gov/91784654
+call_number: BIOG FILE - Burroughs, John, 1837-1921 [P&P]
+created: 2016-04-20T22:29:37Z
+created_published[0]: c1912.
+created_published_date: c1912.
+date: 1912-01-01
+dates[0].1912: https://www.loc.gov/search/?dates=1912/1912&fo=json
+description[0]: 1 photographic print.
+digital_id[0]: cph 3c03951 //hdl.loc.gov/loc.pnp/cph.3c03951
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-08-24T21:12:14.897Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/91784654/#cph
+extract_urls[1]: http://lccn.loc.gov/91784654#catalog-split-12
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Group portraits--1910-1920.
+format_headings[1]: Photographic prints--1910-1920.
+format_headings[2]: Portrait photographs--1910-1920.
+genre[0]: Portrait photographs--1910-1920
+genre[1]: Group portraits--1910-1920
+genre[2]: Photographic prints--1910-1920
+group[0]: cph
+group[1]: catalog-split-12
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-12
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/91784654/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951_150px.jpg#h=150&w=120
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951t.gif#h=150&w=120
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951r.jpg#h=640&w=510
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951v.jpg#h=1024&w=817
+index: 1
+item.call_number: BIOG FILE - Burroughs, John, 1837-1921 [P&P]
+item.control_number: 91784654
+item.created: 2016-04-20T22:29:37Z
+item.created_published: c1912.
+item.created_published_date: c1912.
+item.date: c1912.
+item.digital_id[0]: cph 3c03951 //hdl.loc.gov/loc.pnp/cph.3c03951
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Group%20portraits--1910-1920.&co=cph
+item.formats[0].title: Group portraits--1910-1920.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1910-1920.&co=cph
+item.formats[1].title: Photographic prints--1910-1920.
+item.formats[2].link: https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs--1910-1920.&co=cph
+item.formats[2].title: Portrait photographs--1910-1920.
+item.genre[0]: Portrait photographs--1910-1920
+item.genre[1]: Group portraits--1910-1920
+item.genre[2]: Photographic prints--1910-1920
+item.id: 91784654
+item.link: https://www.loc.gov/pictures/item/91784654/
+item.marc: https://www.loc.gov/pictures/item/91784654/marc/
+item.medium[0]: 1 photographic print.
+item.medium_brief: 1 photographic print.
+item.mediums[0]: 1 photographic print.
+item.modified: 2016-04-20T22:29:37Z
+item.notes[0]: J169745 U.S. Copyright Office.
+item.notes[1]: Copyright by Underwood & Underwood, New York, N.Y.
+item.number_former_id[0]: https://www.loc.gov/item/91784654
+item.number_former_id[1]: https://www.loc.gov/item/11580496
+item.other_control_numbers[0]: 11580496
+item.reproduction_number: LC-USZ62-103951 (b&w film copy neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3c03951
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951r.jpg
+item.sort_date: 1912
+item.source_created: 1991-08-12T00:00:00Z
+item.source_modified: 2005-01-28T08:40:40Z
+item.subject_headings[0]: Burroughs, John,--1837-1921--Commemoration.
+item.subject_headings[1]: Muir, John,--1838-1914.
+item.subjects[0]: Burroughs, John,--1837-1921--Commemoration
+item.subjects[1]: Muir, John,--1838-1914
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951_150px.jpg
+item.title: [John Burroughs, on his 75th birthday, and John Muir, half-length, standing]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 91784654
+link: https://www.loc.gov/pictures/item/91784654/
+marc: https://www.loc.gov/pictures/item/91784654/marc/
+medium[0]: 1 photographic print.
+medium_brief: 1 photographic print.
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-20T22:29:37Z
+notes[0]: J169745 U.S. Copyright Office.
+notes[1]: Copyright by Underwood & Underwood, New York, N.Y.
+number[0]: 2005-01-28t08:40:40
+number[1]: http://www.loc.gov/item/11580496
+number[2]: http://www.loc.gov/item/91784654
+number[3]: 91784654
+number_former_id[0]: http://www.loc.gov/item/11580496
+number_former_id[1]: http://www.loc.gov/item/91784654
+number_lccn[0]: 91784654
+number_source_modified[0]: 2005-01-28t08:40:40
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 11580496
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/91784654/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/91784654/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/91784654/dc
+partof[0].count: 110701
+partof[0].title: miscellaneous items in high demand
+partof[0].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=91784654&st=gallery&sb=call_number#focus
+reproduction_number: LC-USZ62-103951 (b&w film copy neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3c03951
+resources[0].caption: b&w film copy neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3c03951/
+score: 19.46323
+shard: 00
+shelf_id: BIOG FILE - Burroughs, John, 1837-1921 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1912
+source_created: 1991-08-12T00:00:00Z
+source_modified: 2005-01-28T08:40:40Z
+subject[0]: portrait photographs
+subject[1]: photographic prints
+subject[2]: burroughs, john
+subject[3]: group portraits
+subject[4]: muir, john
+subject[5]: commemoration
+subject_headings[0]: Burroughs, John,--1837-1921--Commemoration
+subject_headings[1]: Muir, John,--1838-1914
+subjects[0].burroughs, john: https://www.loc.gov/search/?fa=subject:burroughs,+john&fo=json
+subjects[1].commemoration: https://www.loc.gov/search/?fa=subject:commemoration&fo=json
+subjects[2].group portraits: https://www.loc.gov/search/?fa=subject:group+portraits&fo=json
+subjects[3].muir, john: https://www.loc.gov/search/?fa=subject:muir,+john&fo=json
+subjects[4].photographic prints: https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json
+subjects[5].portrait photographs: https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951_150px.jpg
+timestamp: 2022-05-02T11:46:13.520Z
+title: [John Burroughs, on his 75th birthday, and John Muir, half-length, standing]
+unrestricted: true
+url: https://www.loc.gov/item/91784654/
+resources[0].caption: b&w film copy neg.
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 13379468
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3c00000/3c03000/3c03900/3c03951u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 150
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 4850
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951_150px.jpg
+resources[0].files[0][1].width: 120
+resources[0].files[0][2].height: 150
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 19349
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951t.gif
+resources[0].files[0][2].width: 120
+resources[0].files[0][3].height: 640
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 35781
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951r.jpg
+resources[0].files[0][3].width: 510
+resources[0].files[0][4].height: 1024
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 79268
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951v.jpg
+resources[0].files[0][4].width: 817
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c03000/3c03900/3c03951_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3c03951/
+cite_this.apa: (ca. 1912) John Burroughs, on his 75th birthday, and John Muir, half-length, standing. , ca. 1912. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/91784654/.
+cite_this.chicago: John Burroughs, on his 75th birthday, and John Muir, half-length, standing. , ca. 1912. Photograph. https://www.loc.gov/item/91784654/.
+cite_this.mla: John Burroughs, on his 75th birthday, and John Muir, half-length, standing. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/91784654/>.

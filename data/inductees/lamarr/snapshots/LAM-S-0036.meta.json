@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:De-at_Hedy_Lamarr.ogg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:De-at_Hedy_Lamarr.ogg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:53:37Z",
+  "sha256": "83999cc998f955236127e3091badf7e60f960c88059cdf2cff000fe63cb2f738",
+  "bytes": 1456,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:De-at_Hedy_Lamarr.ogg&format=json"
+}

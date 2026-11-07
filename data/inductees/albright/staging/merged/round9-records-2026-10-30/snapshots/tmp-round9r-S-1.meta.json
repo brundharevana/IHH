@@ -1,0 +1,10 @@
+{
+  "url": "https://www.govinfo.gov/content/pkg/CHRG-105shrg46832/html/CHRG-105shrg46832.htm",
+  "fetch_url": "https://www.govinfo.gov/content/pkg/CHRG-105shrg46832/html/CHRG-105shrg46832.htm",
+  "method": "http",
+  "fetched_at": "2026-10-30T19:00:34Z",
+  "sha256": "58c42c264623d4156ebc00963ac92ae8751843d17f34719310a4ea88eb74bab8",
+  "bytes": 2047094,
+  "http_status": 200,
+  "final_url": "https://www.govinfo.gov/content/pkg/CHRG-105shrg46832/html/CHRG-105shrg46832.htm"
+}

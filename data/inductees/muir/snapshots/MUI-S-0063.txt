@@ -1,0 +1,15 @@
+title: File:John Muir at Merced River.jpg
+DateTime: 2024-07-05 18:53:36
+ObjectName: John Muir at Merced River
+CommonsMetadataExtension: 1.2
+Categories: John Muir|Merced River|PD US expired|Template Unknown (author)|California Faces (Bancroft Library)
+ImageDescription: John Muir at the Merced River
+DateTimeOriginal: before 1915
+date QS:P,+1915-00-00T00:00:00Z/7,P1326,+1915-00-00T00:00:00Z/9
+Credit: https://digicoll.lib.berkeley.edu/record/42328?ln=en&v=uv#?xywh=-916%2C0%2C2896%2C1500
+Artist: Unknown authorUnknown author
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

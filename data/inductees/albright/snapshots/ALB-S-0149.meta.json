@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/674695910",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=674695910",
+  "method": "api",
+  "fetched_at": "2026-10-24T06:16:53Z",
+  "sha256": "e9979aa29643c31887082932031911011994740fd963cf8a4adefd1cb49d2ee0",
+  "bytes": 4175,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=674695910"
+}

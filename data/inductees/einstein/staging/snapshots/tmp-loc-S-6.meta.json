@@ -1,0 +1,10 @@
+{
+  "url": "https://guides.loc.gov/einstein-annus-mirabilis",
+  "fetch_url": "https://guides.loc.gov/einstein-annus-mirabilis",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:24:34Z",
+  "sha256": "59c5fb1b885267a177a87d5f5e6d182ce516c531eb3aebe79c774a8c70e3ff9d",
+  "bytes": 3232,
+  "http_status": 200,
+  "final_url": "https://guides.loc.gov/einstein-annus-mirabilis"
+}

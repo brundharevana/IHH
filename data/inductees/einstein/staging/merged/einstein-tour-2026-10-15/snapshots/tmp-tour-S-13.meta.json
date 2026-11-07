@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/16608874",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=16608874",
+  "method": "api",
+  "fetched_at": "2026-10-15T04:06:01Z",
+  "sha256": "aeea5aadc33124724d3f48bddcf25da46a2da1e36adadeb558bc6749f75f84ce",
+  "bytes": 2596,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=16608874"
+}

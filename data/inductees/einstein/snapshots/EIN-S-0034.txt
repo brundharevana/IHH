@@ -1,0 +1,14 @@
+title: File:Albert Einstein - Passport issued by the Swiss Embassy in Berlin, Germany, 1923.jpg
+DateTime: 2019-06-05 15:03:06
+ObjectName: Albert Einstein - Passport issued by the Swiss Embassy in Berlin, Germany, 1923
+CommonsMetadataExtension: 1.2
+Categories: Documents related to Albert Einstein|Passports of Switzerland|PD-old-70-expired|Template Unknown (author)|CC-PD-Mark|Portrait photographs of Albert Einstein|Trilingual French-German-Italian signs in Switzerland|Albert Einstein in 1923|PD-old missing SDC copyright status
+ImageDescription: Passport of Albert Einstein issued by the Swiss embassy in Berlin.
+DateTimeOriginal: 1923-06-23
+Credit: mymodernmet.com
+Artist: Unknown authorUnknown author
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

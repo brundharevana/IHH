@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-s-books-and-publications.htm",
+  "fetch_url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-s-books-and-publications.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T20:12:59Z",
+  "sha256": "765f9e94b71dfe905526f4952e666f830b1aab2b62102bbd9e8e4ae90c1df0c8",
+  "bytes": 4996,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-s-books-and-publications.htm"
+}

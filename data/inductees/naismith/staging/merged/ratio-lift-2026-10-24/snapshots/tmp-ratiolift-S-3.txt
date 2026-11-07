@@ -1,0 +1,1182 @@
+_version_: 1769973950610145280
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82014085/1939-11-28/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82014085/1939-11-28/ed-1/
+batch[0]: ct_hepburn_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/connecticut/
+composite_location[2]: 2/united states/connecticut/new haven/
+composite_location[3]: 3/united states/connecticut/new haven/waterbury/
+contributor_names[0]: Connecticut State Library, Hartford, CT
+contributors[0].connecticut state library, hartford, ct: https://www.loc.gov/search/?fa=contributor:connecticut+state+library,+hartford,+ct&fo=json
+created_published[0]: Waterbury, Conn., November 28, 1939
+date: 1939-11-28
+date_issued: 1939-11-28
+dates[0].1939-11-28: https://www.loc.gov/search/?dates=1939-11-28/1939-11-28&fo=json
+dates_of_publication: 1917-1946
+description[0]: Waterbury, Conn.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-06-01T13:38:57.777Z
+extract_urls[0]: file:/service/ndnp//ct/batch_ct_hepburn_ver01/data/sn82014085/00393347582/1939112801/1939112801_1.xml#ndnp/ct
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ct
+group[1]: connecticut-state-library-hartford-ct-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn82014085/1939-11-28/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hepburn_ver01:data:sn82014085:00393347582:1939112801:0426/full/pct:6.25/0/default.jpg#h=454&w=331
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hepburn_ver01:data:sn82014085:00393347582:1939112801:0426/full/pct:12.5/0/default.jpg#h=909&w=663
+index: 18
+item.batch[0]: ct_hepburn_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Connecticut State Library, Hartford, CT
+item.created_published[0]: Waterbury, Conn., November 28, 1939
+item.date: 1917
+item.date_issued: 1939-11-28
+item.dates[0]: 1939-11-28
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn82014085
+item.location[0]: Waterbury (Conn.)
+item.location[1]: Connecticut--Waterbury
+item.medium: 22 pages
+item.newspaper_title[0]: The Waterbury Democrat.
+item.notes[0]: Daily (except Sun.)
+item.notes[1]: Vol. 36, no. 56 (Mar. 7, 1917)-v. 44, no. 301 (Dec. 28, 1946).
+item.notes[2]: "Independent Democratic."
+item.notes[3]: Description based on: Vol. 63, no. 85 (Apr. 13, 1945).
+item.notes[4]: Waterbury Republican (Waterbury, Conn. : 1896) (DLC)sn 82014095 (OCoLC)8769351
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_hepburn_ver01/data/sn82014085/00393347582/1939112801/1939112801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82014085/marcxml
+item.place_of_publication: Waterbury, Conn.
+item.raw_lccn: sn 82014085
+item.reel_numbers[0]: 00393347582
+item.source_group: ndnp/ct
+item.subjects[0]: Waterbury (Conn.)--Newspapers
+item.subjects[1]: Connecticut--Waterbury
+item.subjects[2]: United States--Connecticut--New Haven--Waterbury
+item.title: The Waterbury Democrat (Waterbury, Conn.), November 28, 1939
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn82014085
+location[0]: waterbury
+location[1]: connecticut
+location[2]: united states
+location[3]: new haven
+location_city[0]: waterbury
+location_country[0]: united states
+location_county[0]: new haven
+location_state[0]: connecticut
+locations[0].connecticut: https://www.loc.gov/search/?fa=location:connecticut&fo=json
+locations[1].new haven: https://www.loc.gov/search/?fa=location:new+haven&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[3].waterbury: https://www.loc.gov/search/?fa=location:waterbury&fo=json
+locations_city[0].waterbury: https://www.loc.gov/search/?fa=location_city:waterbury&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].new haven: https://www.loc.gov/search/?fa=location_county:new+haven&fo=json
+locations_state[0].connecticut: https://www.loc.gov/search/?fa=location_state:connecticut&fo=json
+medium: 22 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Waterbury Democrat.
+notes[0]: Daily (except Sun.)
+notes[1]: Vol. 36, no. 56 (Mar. 7, 1917)-v. 44, no. 301 (Dec. 28, 1946).
+notes[2]: "Independent Democratic."
+notes[3]: Description based on: Vol. 63, no. 85 (Apr. 13, 1945).
+notes[4]: Waterbury Republican (Waterbury, Conn. : 1896) (DLC)sn 82014095 (OCoLC)8769351
+number[0]: 00393347582
+number[1]: sn82014085
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn82014085
+number_reel[0]: 00393347582
+numeric_shelf_id: 193911281
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_hepburn_ver01/data/sn82014085/00393347582/1939112801/1939112801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82014085/marcxml
+partof[0].count: 4932
+partof[0].title: the waterbury democrat (waterbury, conn.) 1917-1946
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+waterbury+democrat+%28waterbury,+conn.%29+1917-1946&fo=json
+partof[1].count: 3210990
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232495
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the waterbury democrat (waterbury, conn.) 1917-1946
+place_of_publication: Waterbury, Conn.
+publication_frequency[0]: daily
+raw_lccn: sn 82014085
+reel_numbers[0]: 00393347582
+resources[0].files: 22
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hepburn_ver01:data:sn82014085:00393347582:1939112801:0426/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82014085/1939-11-28/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.336405
+shard: 07
+shelf_id: sn82014085, 1939-11-28, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ct
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: newspapers
+subject[1]: united states
+subject[2]: new haven
+subject[3]: waterbury
+subject[4]: waterbury (conn.)
+subject[5]: connecticut
+subject_headings[0]: Waterbury (Conn.)--Newspapers
+subject_headings[1]: Connecticut--Waterbury
+subject_headings[2]: United States--Connecticut--New Haven--Waterbury
+subjects[0].connecticut: https://www.loc.gov/search/?fa=subject:connecticut&fo=json
+subjects[1].new haven: https://www.loc.gov/search/?fa=subject:new+haven&fo=json
+subjects[2].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[3].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[4].waterbury: https://www.loc.gov/search/?fa=subject:waterbury&fo=json
+subjects[5].waterbury (conn.): https://www.loc.gov/search/?fa=subject:waterbury+%28conn.%29&fo=json
+timestamp: 2023-06-28T18:58:11.461Z
+title: The Waterbury Democrat (Waterbury, Conn.), November 28, 1939
+type[0]: issue
+url: https://www.loc.gov/item/sn82014085/1939-11-28/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_hepburn_ver01/data/sn82014085/00393347582/1939112801/0443.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82014085/1939-11-28/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hepburn_ver01:data:sn82014085:00393347582:1939112801:0426/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ct/batch_ct_hepburn_ver01/data/sn82014085/00393347582/1939112801/0443.pdf
+resources[0].segment_count: 22
+resources[0].url: https://www.loc.gov/resource/sn82014085/1939-11-28/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1939, November 28) The Waterbury Democrat. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82014085/1939-11-28/ed-1/.
+cite_this.chicago: The Waterbury Democrat. (Waterbury, CT), Nov. 28 1939. https://www.loc.gov/item/sn82014085/1939-11-28/ed-1/.
+cite_this.mla: The Waterbury Democrat. (Waterbury, CT) 28 Nov. 1939, p. 18. Retrieved from the Library of Congress, www.loc.gov/item/sn82014085/1939-11-28/ed-1/.
+
+segment_id: /service/ndnp/ct/batch_ct_hepburn_ver01/data/sn82014085/00393347582/1939112801/0443.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_hepburn_ver01/data/sn82014085/00393347582/1939112801/0443.xml&format=alto_xml&full_text=1
+full_text:
+A Little Of Thu And That
+Apparently, Crosby and Wllby Is going to provide two distinct types
+Of football offensives when the boys meet on the new Municipal Stadium
+Field Thanksgiving morning of this week. In its initial winning effort
+over Leavenworth, Wllby's 12 points came through the air. Crosby’s
+ground game has been strong all year, with spinners, reverses and kick
+ing the big factors in the attack. Therefore, with 7,500 looking on, it
+should be not only a colorful game, as always, under better playing con
+ditions that have been possible in 20 years, but some very good football
+is not only possible, but probable, now that Wilby has found itself.
+Allle Stoltz, the little Hebrew who has won 33 bouts in 35 starts,
+his latest last night in Newark, gets the main bout in Madison Square
+Garden Friday night, with Pete Scalzo as his opponent, and all because
+of the phenagling attending the Armstrong-Ambers bout which was
+supposed to go on for the welter title, but won't. What might interest
+some of you fight fans, is that Stoltz is none other than the New
+Haven amaeur boxing sensation of two years ago, Abcy Kosen, who
+changed his name when he turned professional. He has been coming
+along great guns, and gets his "big" chance much sooner than he
+expected.
+After that Ambers-Vaughn smelleroo in Hartford, no one has much
+sympathy for Manager Alfonso Weill, who, every once in a while dumps
+a bout mto Connecticut that smells from here to Helsingfors..
+Look Alikes— Joe "Buck" Cunningham, the well known refresh
+ment connoisseur and Ills best friend, "Jacko” Fltz, the New Haven
+boss of an eating emporium. Incidentally Jacko was the Yankee Divi
+sion lightweight boxing champion while "Buck" used to belt those
+Camp Devens pancakes to a fare thee well.
+A Miami card from A1 Labutls, Chase C. C. golf professional indicates
+that he is having a "Barrel of fun” before going to Key West soon with
+Eddie Busch of Hamden. The experelnce will be invaluable to him, while
+the weather Is something we all envy.
+Red Burman, Jack Dempsey's protege, easily beat Bridgeport A1
+Boros last night in Baltimore, and could have done it in Bildgeport a
+lew weeks ago, but kept him up because the boys were signed for
+two fights.
+PLYMOUTH TEAMS
+DUCKPIN WINNERS
+Thoma.ston, Nov. 28.—Plymouth
+Men took four points from the Ber
+lin Juniors In a Orange League
+match last night at the Central
+Alleys In New Britain by winning
+by 33 pins the roll-olf In the tied
+second game of the match.
+A. Skllton of Plymouth has high
+single with 118 and high three of
+342.
+The Plymouth women also took
+four points In their match with the
+Junior women of Berlin. D. Bennett
+of Plymouth had high single with
+114 and high three with 289.
+The scores:
+PLYMOUTH MU (4)
+W. Dickinson
+E. Mattoon
+V. Atwood
+Q. Axelby
+O. Skllton
+90 93 106 295
+91 100 100 297
+90 72 88 250
+92 99 108 299
+118 118 106 342
+487 482 614 1483
+BERLIN JUNIORS
+B. Brown 98 87 95 280
+R. Palmer. 87 107 90 284
+L. Clark 100 98 101 299
+M. Brown 100 103 117 320
+W. Zehner 93 87 110 290
+478 482 513 1473
+PLYMOUTH WOMEN (4)
+D. Bennett. 112 83 94 289
+R. Wtndness 65 65
+M. Mat toon 89
+H. Dickinson 105
+B. Zelner 84
+M. Rayder
+97
+87
+85
+8
+79 265
+88 280
+94 263
+87 175
+455 440 442 1337
+BERLIN JUNIOR WOMEN
+D. Sugenhelm 74
+J. Palmer 79
+E. Barattlero 77 97
+J. Thomson 72
+M. Zehner .'._ 85
+78 79 231
+77 58 214
+89 263
+84 232
+75 253
+76
+93
+387 421 385 1193
+College Football
+DARTMOUTH
+Hanover, N. H„ Nov. 28.—(UP)—
+Pm* Interception was stressed at
+Dartmouth again today as Coach
+Earl Blaik prepared his charges for
+the Stanford football clash In New
+York Saturday. Wild BUI Hutchin
+son, Buford Hayden and Jim Bau
+man excelled In knocking down the
+passes of Jayvee Coach Eddie Cham
+berlain yesterday. No lineup changes
+were made, and the squad engaged
+In no contact work.
+B. U.
+Boston. Nov. 28—(UP)—Sopho
+more BUI Puller of Peabody was
+nominated as a surprise starter at
+end In the Boston university lineup
+today as Coach Pat Hanley and a
+27-man squad prepared to entrain
+for Tampa, Fla., where they meet
+the University of Tampa eleven In
+an Intersections! clash Friday night.
+Quarterback John Connenrncy of
+Waltham will be kept home by In
+juries and BUI Barry of South Bos
+ton and John Wedemeyer of Chi
+cago were expected to call the sig
+nals.
+BROWN
+Providence, K. I„ Nov. 28 —(UP)—
+With Its last contact drill over, the
+Brown eleven prepared today for
+Anal driis before Thursday’s game
+with Rutgers here. Casuatles Nick
+Prodgers, Tom Nash, Bill Bates.
+Bones Stepczyk, and Jon McNeil
+were back In the lineup and ex
+pected to start.
+HOLY CROSS
+Worcester, Mass., Nov. 28—(UP)
+—Intensive drills in defensive tac
+tics were underway at Holy Cross j
+today as Coach Joe Sheeketskl and
+the Crusaders, who saw Boston col
+lege wallop Kansas St-.te made
+ready to meet Ihe Eagles for New
+England honors Saturday. The Cru
+saders had contact work yesterday
+for the first time in th’-ee weeks
+Center 81 Titus who suffered a leg
+injury In the clash against Temple,
+was back in the line.
+B. C.
+Boston, Nov. 28—(UP)—A light
+contact workout was planned for
+the Boston coUege Eagles by Coach
+Frank Leahy today. Groundwork
+for the Holy Cross clash Saturday
+was laid yesterday with a two-hour
+lecture on the Crusaders' attack
+Reserve left end Alex Lukachlk was
+back with the squad after being dis
+charged from the hospital where he
+was treated for a back strain suf
+fered in the Kansas State gaipe.
+Sports
+QUESTIONS
+Answered
+Have you a sports question you
+want answered? Write your ques
+tion elearly, sign your name' and
+nddress and mail your query to
+Sports Tan Question Man, Sports
+Service Rureuu, The W’nterbury
+Democrat, 1013 I3tli street, Wash
+ington, D. C., enclosing a 3-cent
+postage stamp for personal reply.
+Don't telephone: write as directed.
+Q. Which horses finished second
+and third In the 1939 Kentucky
+Derby?
+A. Challedon nnd Heather Broom,
+respectively. Johnstown was the
+winner.
+Q. What weight did Battleship
+carry when he won the Grand Na
+tional Steeplechase at Alntree, Eng
+land?
+A. He carried 160 pounds.
+Q. What Is the record for substi
+tutions In a college football game?
+A. In the 1930 game against Navy,
+Notre Dame made 145 substitutions,
+winning by a score of 20 to 2. This
+Is believed to be a record for substl
+tlons in one game.
+Q. Is Challedon, champion three
+year-old race horse of 1939, a stal
+lion or a gelding?
+A. He Is a stallion.
+Inventor Of Basketball Dead At 78
+DR. JAMES
+NAISMITH
+Lawrence, Kans., Nov. 28—(UP)—
+Dr. James A. Nalsmlth, 78, who In
+vented basketball 48 years ago, died
+early today.
+He had been critically ill since last
+Thursday when hesuffered a heart
+attack which followed an amazing
+recovery from a cerebral hemor
+rhage.
+He died in his home Just off the
+University of Kansas campus, the
+school he served for years as physical
+education director. His second wife,
+Florence, three married daughters
+an dtwo sons, were at his bedside.
+Mrs. Nalsmlth, whom he married
+only last summer is housemother for
+Sigma Phi Epsilon social fraternity
+at the university.
+Naismiih invented basketball in
+1891. He was an assistant to Luther
+W. GulL:k, head of the physical edu
+cation department of the Y. M. C. A.
+college at Springfield, Mass. Oullck
+asked him to devise an Indoor game
+to be played between football in the
+fall and baseball in the spring that
+would be vigorous, yet not too rough
+for the 18 young men then training
+to become Y. M. C. A. secretaries
+Nalsmlth combined the funda
+mentals of duck-on-the-rock, la
+crosse and soccer. Goals on the floor
+made the game too easy, so he ele
+vated them—one at each end ot a
+rectangular ccftirt. The height he se
+lected was nine feet, still standard.
+For goals he used peach baskets.
+All ot the 18 men In the class par
+ticipated in Nalsmith’s first game of
+basketball with n:ne on each side,
+but in later years the number was
+reduced to seven and then to the
+present five. Naismlth made 13 rules,
+12 of which survive.
+Game Named
+Frank Mahan, a member of the
+class, said the game needed a name
+and he suggested “Naismlth ball."
+Naismlth objected, and it was agreed
+that since the game was played with
+a basekt and a ball it should be
+called basketball.
+The game spread until it became
+one of the most popular in the
+United States. Many schools too
+small to produce baseball or football
+teams concentrated on basketball.
+Naismlth was a naltve of Almonte,
+Ontario, Canaoa. He received his
+A. B. degree from McGill university
+in 1887. and he also received degrees
+from Presbyterian college. Montreal,
+and the Y. M. C. A. college. Spring
+field. Mass.
+Water bury Democrat Sports
+■::W f) I
+Cornell Coach Hero Again
+Two jitn ago, Waterburjrt Cornell graduateo
+football coach, Cart D. Snarely at which time addremed Cornell
+men Iron the Naugatuck Valley at a meeting held In The Uton. Right
+now, the aamo group Is working "tooth and nail* to got Coach Snavely
+to come again as Cornell has Just closed Its greatest football
+tho team being unbeaten and untied.
+PAGE EIGHTEEN
+WATERBUBY EVENING DEMOCRAT. TUESDAY. NOVEMBER 28. 1839
+FOR DEMOCRAT WANT ADS DIAL 4-2121
+Weill, Ambers “Peeved” By Postponement I
+WOFFORDCHOSEN
+TO TAKE EATMAN
+Texas Ringman Headlines
+Arena Show Tonight;
+Ciarlo Meets Andrews
+C'
+New Haven Nov. 28.—Jack Wof
+ford, former Texas A. M. football
+star, regarded one of the best youth
+ful heavyweight contenders In the
+country today, faces Eldridge Eat
+man, Norwalk Bomber in a 10-round
+bout on tonight’s proflght car at the
+Arena. Action will start at 8:30.
+Wofford, the fellow who actually
+chased Nathan Mann out of the
+originally scheduled bout with Eat
+man. The six foot, three Inch
+Texan, battered Mann around in
+workouts last week, and made the
+Hamden heavyweight look so bad
+that Mann was discouraged after
+Thursday's workouts. Late Saturday
+night, Mann pulled out of the match
+with Batman, displaying a swollen
+left hand, which didn't show after
+his workqut Thursday.
+Promising
+A protege of Jimmy Bronson, Wof
+ford defeated Bill Boyd and Mario
+Llanl In New York starts, and pre
+vious to that kayoed Chuck Crowell
+and decisloned Bob Nestell on the
+Pacific coast. He will rule a 7 to 5
+favorite to defeat hard-hhtlng negro
+lad from Norwalk, who makes his
+first aid for "big time’’ honors.
+Lee Murray, Chlcngo heavyweight,
+will box Domenlf Ceccarelll of Italy,
+In one of three six-rounders. Red
+Moffct, undefeated Devon Irishman,
+meets Chet O'Rourke, Worcester
+welterweight, while Angelo Rodano,
+takes on Larry Carlinl, Stamford
+lightweight, it) a four, The third
+six will bring together Tommy
+Ciarlo, Waterbury welterweight, and
+Willie Andrews of New Haven.
+OAKVILLE BIG FIVE
+OPPOSES WONDERS
+The Oakville Big Five will play
+host to the fast-stepping Wonder A.
+C„ tomorrow night at 7:00 p. m. at
+the Bunker Hill school gym,
+The Wonder A. C„ managed by
+Jake Stsko. Includes in It; line-up,
+several high school stars of last year
+wl$h Industrial players making up
+the rest of the squad.
+The Oakville Big Five will have a
+strong combination on the floor
+with the following performers seeing
+action for the Imblmbomen, Capt
+George Pierce, Vln Krul, Jim Lla
+kos, Gordon Eurkc, Rlt Zlello, Mike
+Marens, Joe Binder, Tom Starry
+and Mike Lauflattl, a valuable new
+comer to the hoop outfit.
+RECEIVES RARE HONOR
+Sonja Hcnle, queen of figure skat
+ers, Is the only woman ever to re
+ceive Norway most coveted decora
+tion—the Order of St. Olaf, first
+class.
+BEARDED BEAUTY
+I
+
+ABBEY ACKER
+Bristol. Nov. 28—The House of
+David hoopsters will show at the
+high school gym Saturday evening
+against the Bristol Pros who
+trounced the Jersey City Giants
+here last Saturday. The only new
+man with the bearded beauties
+this year will be Abbey Aclfer who
+formerly starred with the King
+ston Colonials.
+C. L. P. Mixed
+Bowling Loop
+BY LEFTY
+"Phwliat gives oo' strlnght, bye?"
+asked Carl Dillon as he watched Ed
+Culliane bowling. "Oo' hurl a bahll
+strong as Fin McCool who threw
+the sthone beyant Lundon an’ ahll
+the tolme It nlver left his hand."
+"Sure It's the pigs’ crubeens Ol’h
+afther atechln’ an’vthe buther Ol
+puts on me praties that do fer me,"
+said Ed generously sharing his se
+cret with one who. although he
+might be a potential opponent, was
+nevertheless a member of Ed's own
+race.
+"Oo' do have accuracy as will,"
+observed Dillon. "Sure Oo’ made
+that lave nate as llnepince,”
+"An' phwhat Use would Ol be af
+ther din’ an’ a lave fernlnst me?"
+asked Ed with true Celtic confi
+dence.
+"The grand shame It is thin," said
+Dillon, that mahr uf our own kind
+don't do the same. Sure ahll the
+good bowlers are ’Hightalan’ min."
+"There do be Jim Harmon, avlcl"
+replied Culhane, ‘‘art’ Slattery an'
+Scvully as will.”
+"Ooor county Mayo man, Lord
+help us," said Culhane, "but good
+man yeTself aren’t Oo’ afther
+beathln’ Will Knight a munth now
+come St. Felix's day?"
+and cess to the gossoon," cried
+Dillon, "sure he's not half the man
+was his father before him; an’ Isn’t
+It the great pity that’s in It? A dls
+grace to the Irish he is. But till me
+Edcen." he continued, getting off the
+subject of Knight which had been
+extremely distasteful, "are Oo' afthei
+radein’ in the papers that we should
+ahll be prlslnt on Munday nights
+when we came here to bowl?”
+"Ol am^hat," said Ed, "an’ tls loikj
+when Win McCool went over tc
+Scotland. Sure an' Fin got then
+folve hours before he arrived,"
+"Faith thin! Tls mesilf will bat(
+his rlcurd,” said Dillon, "an1 th<
+immepltly if not sooner.” And sc
+sayln, he hastened away.
+OUR QUESTIONS WITHOU1
+ANSWERS" DEPT. (No extra
+charge for comments)
+Do the other bowlers realize th(
+fine Job that Angle Mambruno Is do
+ing as secretary? It’s conslderabh
+work to compile average every week
+keep a record of teams' standing
+and arrange a bowling schedule
+Why Is Helen Roberts so qule» fhli
+year? Two years ago Helen was un<
+of our noisiest bowlers but to date
+Helen has cried out not once.
+Is there a nicer disposition In th<
+league than the one belonging tc
+Ruth Bowen?
+Did or did not Alice Benson applj
+to Tom Egan the well-known Scan
+dinavian squige?
+The much abused Switches reared
+right up and took four points from
+the Sockets. Patrick Francii
+Dwyer found Raymond Mills' 33'
+slightly devastating.
+The Killys took three points from
+the Plugs In a match which feat
+ured good bowling by the girls
+Angle Mambruno had a 104 and a
+101 game. Madeline Murphy's last
+string was a 104, and Alice Benson
+had a 116 game.
+The acquisition of -Russ Hickock
+has considerably strengthened the
+Bulbs. They lost the first game tc
+the Fuses by 22 pins, but won the
+second by fifty. Hlckock's 133 pul
+the third game on Ice and gave the
+Bulbs two games and plnfall. Inci
+dents, Bill Egan 1s still the best
+anchor man in the League.
+In spite of Jack Kearney’s 363,
+the Jets took four points from the
+Sparks. The Hugh Leonard Joe
+May combination was too good for
+Jack’s scores and an average. These
+two boys (Joe and “Doc”) knocked
+down 226 pins In the first game, 221
+in the second, and Joe's 152 In the
+last game made it a perfect evening
+for the Jets.
+Thirty-six bowlers were present
+Monday a creditable showing.
+Let’s keep up this fine work and
+guarantee the League's success.
+Pat Dwyer’s bowling proves con
+clusively that he has been converted
+to the doctrine of low average and
+large handicap!
+See-you next Monday!
+RECORD FOR JOCKEY
+Horses ridden by Jockey Nick Wall
+won a total of $385,161 in purses last
+year—a record that is expected to
+last a long time.
+MARATHON KICK
+Harry DunWle. 200-pound sopho
+more fullback of the University of
+North Carolina, kicked elghty-two
+yards against Tulane, seventy yards
+of which was on the fly.
+MAJOR LEAGUES
+MEETING NEARS
+Every Club Ready to “Do
+Business” Dec. 4-6 at
+Cincinnati
+New York, Nov. 28—(UP)—Major
+league baseball clubs come out of
+hibernation for the annual winter
+meetings at Cincinnati, December
+4-8.
+Every club has weak spots to for
+tify and from the last place Phila
+delphia Phillies in the National
+league to the champion New York
+Yankees In the American league, Is
+willing to trade, buy or sell.
+The particular problem In the
+American league right now Is how
+to "stop the Yankees." The four
+time world champions appear strong
+enough at this poAtt to breeze on
+to four more championships. Their
+most Important problem is pitching.
+Charley Ruffing, mainstay of the
+staff, will be 36 when next season
+begins and how long he can last
+Is a vital question. Whether Lefty
+Uomez, who showed only flashes of
+brilliance last year, will come back
+to winning form Is another. Steve
+Sundra, Marius Russo, Atley Don
+ald and Spud Chandler will be ex
+pected to take up the slack.
+The National league, whose com
+parison to the junior circuit ends
+when the world series begins, needs
+a general overhauling. Last year's
+pennant winner, the Cincinnati Reds,
+lack hltltng power and the runner
+up St. Louis Cardinals need pitching.
+NAUGY Y POOL
+TOURNEYSTARTS
+Naugatuck, Nov. 28.—-The annual
+billiard tourney of the Naugatuck
+“Y” la now In full swing. Twelve
+of the most proficient players who
+have shown an Interest in match
+play have been signed up, Play
+stars this week and the following
+contestants will compete:
+A1 Lallberte, Len Renfroe, Let
+Howard, J. A. Durr, Jim Klely,
+George Hunt, Charles Ware, Jhn
+Parachenlan, H. C. Miller, Steve
+Sweeney, Edward Burns, Joe Rico.
+Last year’s champ was Len Ren
+froe, but there has been consider
+able Improvement In the ranks of
+this year's aspirants—so It would be
+quite hard to choose the probable
+winner of the 1939 crown.
+Winners of other years are: Joe
+Rico, Jim Klely.
+Matches arc for 100 points and
+the tournament Is being played on
+an elimination basts.
+“INT” LEAGUE GETS
+21 PLAYER LIMIT
+Newark, N. J., Nov. 28—(UP)—
+Only one Important change went
+Into the International league rule
+books today after the first session
+of the league’s annual meeting ad
+journed yesterday.
+The player limit was raised from
+20 to 21 and will take the place of
+a non-active coach which was aban
+doned. A utility player, who may
+devote part time to coaching, may
+be signed, however.
+The same playoff system will be
+continued and the 154-game sched
+ule will open on April 18 next year.
+The regular season will end Sep
+tember 8 and the playoffs will open
+September 10.
+WHITEMAN NAMED
+YALE GRID CAPTAIN
+New Haven, Conn., Nov. 28— (UP)
+—Harold Whiteman, Jr„ Nashville,
+Tenn., Junior, was elected captain
+of the 1940 Yale University foot
+ball team at a lettermen's dinner
+last night. He succeeds Capt. BUI
+Stack, East Lansing, Mich.
+Whiteman played wlngback on
+this year’s Yale team, and was a
+vital factor In the Ell defeat of
+Harvard. He is 19 and weighs 185
+pounds.
+Yale's 1940 gridiron schedule was
+announced:
+Oct. 5, Virginia; Oct. 12, Pennsyl
+vania. away; Oct. 19, Dartmouth;
+Oct. 26, Navy; Nov. 2, Brown; Nov.
+9. Cornell; Nov. 18, Princeton, away;
+Nov. 23, Harvard.
+LAST NIGHT’S FIGHTS
+(By United Press)
+Portland. Me,, Nov. 28—(UP)
+Paul Junior of Lewiston, New Eng
+land lightweight titllst, won an un
+animous 12-round decision over Pat
+Foley of Worcester, Mass., last night.
+Junior weighed 134, Foley 132.
+Holyoke, Mass.. Nov. 28— (UP)—
+Jimmy Leto, Hartford, Conn., Wel
+terweight, and Dem Wakerlls, Bos
+ton Greek, fought to a draw In 10
+rounds here last night. Leto weigh
+ed 149, Wakerlls, 150.
+New York Tony Marteliano,
+139 1-4, New York, outpointed Quen
+tin Breese, 139 3-4, Milwaukee (8);
+Bill Pound, 194 1-2, New York,
+knocked out Alex Yussem, 196 1-2,
+Russia (3).
+Passaic, N. J.—Tippy Larkin, 137,
+Garfield, N. J., knocked out Steve
+Halaiko, 142, Syracuse, N. Y. (2).
+Newark, N. J,—Allie Stolz. 129,
+Newark, N. J., knocked out Lee
+Harper, 130, New York, (6).
+Toronto Dave Castilloux 135.
+Montreal, outpointed Wally Hally,
+138, CalifornU (10); Steve Sloan.
+168. NUgara Falls, N. Y„ technically
+kayoed Howard Spenceley, 166,
+Toronto (6).
+Redskins Retain Position
+•.S' V. .M£V.£ 'Vis v
+—By downing: the Detroit Lion* at WuMigton, D. C., the Red Skin*
+retained their tie-hold on flrat place. Wayne Miller, at left, la ihown
+about to catch a pasa tor Washington, despite Interference.
+Chase Office
+Girls’ League
+END OF FIRST ROUND—1989
+Standing
+W L
+Reymond 16 S
+Myr Vera .N.16 S
+O. L. As P. Co. 13 8
+8. N. E. Tel. Co. 11 10
+Chase 9 12
+Waterbury Tool. 8 13
+B. L. B. 5 16
+TEAM TOTALS
+CHASE
+Myr Vera
+M. Conway 95
+K. Bouley 108
+M. Jullen 95
+D. Palmer 98
+O. Arsenault 92
+488
+Reymondi
+R. Foley 94
+E. Cestar 95
+E. Sullivan 101
+Fernandez 1$3
+A. Mlkolsky 94
+487
+C L. Sc P. Co.
+A. Benson 97
+L. Ledoux 88
+M. Putettl 89
+D. Braun 96
+P. Dunn 98
+468
+B. L. B
+B. Smith 86
+F. Brovlck 80
+E. Healey 86
+R. Smith 93
+B. Neal 91
+436
+Chase
+M. Powers 89
+Fltzmaurlce 79
+M. Burns 86
+C. Collins 90
+M. Roberts 102
+446
+Wtby Tool
+E. Donnelly 80
+O. Meyers 95
+R. Brosseau 97
+M. Cronin 88
+H. Dorouln 89
+458
+S. N. E. L. Co.
+M. Green 86
+R. Reid 95
+P. Sandulll 94
+Van Weymar 90
+P. Moore 108
+473
+Noera
+P. Raster 83
+W. Majewskl 91
+E. Lawrence 83
+N. Sheehan 83
+D. Case 96
+436
+First Division
+P Moore
+K. Bouley
+A. Fernendez
+M, Roberts
+E. Sullivan
+P. Dunn
+D. Palmer
+A Bcnsen
+R. Brousseau
+R. Case
+Av. 8.. Av. H.T.H.8.
+108 12 108 354 120
+108 18 107.18 348 132
+103 21 103.7 321 124
+102 21 101.18 331 130
+101 21 101.4 333 130
+98 21 97.19 307 117
+98 21 97.12 313 115
+97 21 97.7 301 115
+97 15 98.11 434 116
+96 21 98.7 337 122
+Second Division
+D. Braun
+B. Reid
+M. Jullen
+O. Meyers
+M. Conway
+E. Cestar
+P. Sandulll
+A. Mikolsky
+R. Foley
+R. Smith
+96 21 95.14 302 112
+95 21 95.7 302 109
+95 18 95.6 308 112
+95 18 95 313 131
+95 21 94.18 317 112
+95 18 94.15 308 120
+94 21 94.5 317 135
+94 3 94 319 111
+94 15 93.11 199 107
+93 21 93.10 308 121
+Third Division
+O. Arsenault 92 21
+B. Neal 91 21
+W. Majewskl 91 18
+O. Collins 90 21
+B. Van Weymar 90 15
+M. Putettl 89 21
+M. Powers 89 15
+H. Derouln 89 21
+E. Donnelly 89 21
+L. Ledoux 88 21
+92.7 309 111
+91.10 284 108
+91.1 299 109
+90 275 111
+89.12 298 182
+89.7 277 102
+89.5 272 103
+89.6 300 107
+89.4 294 112
+87.17 277 105
+M. Cronin
+B. Smith
+M. Burns
+E. Healey
+M. Oreen
+E. Lawrence
+N. Sheehan
+P. Razler
+F. Brovlck
+B. Fitzmaurlce
+Fourth Division
+88 21
+87 21
+86 21
+86 15
+86 18
+83 15
+83 18
+83 15
+80 21
+79 15
+87.12
+86.11
+86
+85.14
+86.10
+83.3
+82.15
+82.12
+79.13
+79.4
+282 114
+287 100
+279 101
+268 100
+281 107
+265 96
+276 110
+264 106
+253 105
+250 94
+POND ACES BOW
+Olastonbury, Nov. 28.—The Glas
+tonbury Grads outaoored the Pond
+Aces of Waterbury from the foul
+line here last night to pull out a 40
+to 36 victory. Each team scored 16
+field goals.
+TWO CAPTAINS
+Springfield. Mass., Nov. 27—(UP)
+—Grant Chaumont of New York
+and Richard Walker of New Lon
+don. Conn., were elected oo-captalns
+of the 1940 Springfield College foot
+ball team yesterday. Both also are
+wrestling team members.
+N. Y. U. Star Hat
+Score To Settle
+With Fordham Ram
+(By NBA Service
+New York, Nov. 88—Ed Boell,
+more then anyone elie on the
+New York university squad,
+want* to beat Fordham, Thurs
+day, November 30. The Violet
+passer has taken part In seven
+football and baseball contests
+against the Ram as a fresh
+man, sophomore and Junior,
+and has yet to be on the vic
+torious side.
+LOVETT LEADS FOR
+HARVARD CAPTAIN
+Cambridge, Mass., Nov, 28—(UP)
+-Twenty-two Harvard lettermen
+neet today to elect a 1940 football
+■aptaln to succeed Torblc Macdon
+ild with end, Clone Lovett the
+'most nicely" choice.
+Three other Juniors also were in
+he running, but Lovett was the only
+nember of the quartet that started
+he Yale game. Close to Lovett wu
+Jack. Joe Qardella of Arlington
+rhc other two players were substl
+ute guard, Don Lowry of Liberty
+tfo„ and sub back, BUI Brown ol
+Jrew, Miss.
+Possibility of the election of s
+lophomore for the first time In more
+han 28 years was lessened by theli
+ihowlngs In the Ell defeat.
+STOLTZ, FORMER
+STATE FIGHTER,
+GETS MAIN GO
+Boxing Commission Is Ex
+pected to Sanction New
+Card Today
+BY JACK CUDDY
+(United Praia Staff Correspondent!
+New York, November 28. (UP;
+Postponement of Friday nlght’a
+Henry Armstrong-Lou Ambers Wel
+terweight title fight was virtually
+certain to be granted at today’s box
+ing commission meeting because of
+champion Armstrong's bad cold.
+It was Just as certain that the
+commission would approve a substi
+tute main event for Madison Square
+Garden Friday night, matching
+Allie Stolz, young Newark light
+weight contender, and Petey Scalzo
+of New York, outstanding United
+States featherweight challenger.
+Armstrong's manager, Eddie Mead,
+demanded the postponement because
+Armstrong Is so sick "that he can
+not leave his bed and probably will
+not be able to fight again until Jan
+uary."
+Half Price Now
+Promoter Mike Jacobs arranged
+for the substitute 10-round bout late
+yesterday when It became apparent
+that Armstrong would not be ready
+to tackle Ambers In their third tilt
+Friday night before "an assured
+sell-out crowd and a gate of $91,000."
+Ticket prices will be halved for the
+Scalzo-Stolz brawl and the gate is
+not expected to exceed $30,000. Scalzo
+and Stolz were originally slated to
+clash at the Oarden on December
+22, and the forward shift come on
+such short notice that Stolz had tc
+go through with a bout last night at
+Newark where he stopped Lee Hel
+per of New York in the sixth round.
+It was young Allie s 33rd victory In
+35 fights.
+Meanwhile, Manager Mead ex
+plained to the conimlsslon that
+Armstrong had been bothered with
+a cold since his last bout In Denver
+on October 30, against Bobby Pacho.
+He said lie took Armstrong to Hot
+Springs, Ark., to break up the cold,
+but It rained there during their two
+weeks stay. Still hopeful that
+strenuous training might relieve
+Henry’s condition, they came to New
+York, but the champion was In such
+bad shape Sunday night, he was
+forced to bed under a physician's
+care.
+Ambers, the lightweight king, and
+his manager, Al Weill, were ultra
+Eseved over the delay because little
+ou had interrupted his honeymoon
+to begin training. Lou, who had
+recaptured the lightweight crown
+from Henry In August after losing
+It to henry the year before, was
+confident of annexing Armstrong's
+welterweight tiara also In this their
+rubber meeting.
+STANLEY NEW CAPTAIN
+Princeton, N. J., Nov. 28—(UP)—
+Howard J. Stanley, Chanford, N. J„
+will captain the 1940 Princeton
+football team, It was announced to
+day. Stanley, a right end, succeed
+ed Robert F. Tierney, Pearl River,
+N. Y.
+150 BANK ST. hX&M* PHONE 3-1766
+THANKSGIVING
+LIQUOR SALE
+OVER 4 YEARS OLD
+GENUINE HUNTER
+RYE WHISKEY
+3 STAR
+Straight Whiskey
+Ref. |2.45
+Full qt.
+90 Proof
+Ref. 91.49
+Full qt.
+
+119
+9 YEAR OLD STRAIGHT WHISKEY
+Full Quart
+Ref. 99.75
+BOTTLED IM BOND
+RYE WHISKEY 100 PROOF
+OVER 4 YEARS OLD
+Ref. 93.00
+Full qt.
+*19S
+HIRAM WALKER
+9)4 YE.-R OLD
+WHISKEY
+Ref. 92.00 1 dL**!
+Full Qt.
+15 YEAR OLD
+Imported Scotch Whiskey
+Ref. 93.49
+Fifth
+
+247
+5 YEAR OLD
+Cognac Type Brandy
+Ref. 92 JO
+Larfe Bottle
+
+I49
+PERINET FILS IMPORTED CHAMPAGNE
+(1928 Vlntafe). Ref. 93.98 Larfe Bottle
+$2.47
+5 YEAR OLD
+CALIFORNIA WINES
+All Flarera
+Qt. 39c Vi gal 75c
+Full gal. $1.39
+Distilled London
+DRY GIN
+Ref. 91.39 Q7p
+Full qt. v 1
+RUM—larfe 97C
+IMPORTED ITALIAN SWEET VERMOUTH
+Ref. $1.19 larfe bottle
+79c

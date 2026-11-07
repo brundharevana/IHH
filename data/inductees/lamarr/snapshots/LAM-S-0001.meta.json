@@ -1,0 +1,9 @@
+{
+  "url": "https://catalog.archives.gov/id/335708097",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=335708097",
+  "method": "api",
+  "fetched_at": "2026-10-08T22:30:14Z",
+  "sha256": "955dd7d5dcbec88a165f67816e6e064c0a31c1e0eefde9bec0a7d6ab63770bda",
+  "bytes": 6372,
+  "http_status": 200
+}

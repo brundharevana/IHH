@@ -1,0 +1,51 @@
+title: Sachs, Alexander
+dataControlGroup.groupId: ou=NLFDR,ou=groups
+dataControlGroup.groupCd: LPFDR
+generalRecordsTypes[0]: Textual Records
+levelOfDescription: fileUnit
+recordType: description
+useRestriction.status: Unrestricted
+digitalObjects[0].objectFilename: psfa0064.pdf
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialive/74/6088/16608874/content/arcmedia/presidential-libraries/roosevelt/psf/psfa0064.pdf
+digitalObjects[0].objectFileSize: 3428369
+digitalObjects[0].objectId: 16608873
+digitalObjects[0].objectType: Portable Document File (PDF)
+ancestors[0].collectionIdentifier: FDR-FDRPSF
+ancestors[0].inclusiveStartDate.year: 1933
+ancestors[0].inclusiveStartDate.logicalDate: 1933-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.year: 1945
+ancestors[0].inclusiveEndDate.logicalDate: 1945-12-31
+ancestors[0].title: President's Secretary's File (Franklin D. Roosevelt Administration)
+ancestors[0].naId: 567623
+ancestors[1].inclusiveStartDate.year: 1933
+ancestors[1].inclusiveStartDate.logicalDate: 1933-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: President (1933-1945 : Roosevelt). 1933-1945
+ancestors[1].creators[0].abolishDate.year: 1945
+ancestors[1].creators[0].abolishDate.logicalDate: 1945-12-31
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 1933
+ancestors[1].creators[0].establishDate.logicalDate: 1933-01-01
+ancestors[1].creators[0].naId: 10447966
+ancestors[1].inclusiveEndDate.year: 1945
+ancestors[1].inclusiveEndDate.logicalDate: 1945-12-31
+ancestors[1].title: Safe Files
+ancestors[1].naId: 578413
+naId: 16608874
+physicalOccurrences[0].referenceUnits[0].city: Hyde Park
+physicalOccurrences[0].referenceUnits[0].phone: 845-486-7770
+physicalOccurrences[0].referenceUnits[0].address1: 4079 Albany Post Road
+physicalOccurrences[0].referenceUnits[0].postalCode: 12538-1999
+physicalOccurrences[0].referenceUnits[0].name: Franklin D. Roosevelt Library
+physicalOccurrences[0].referenceUnits[0].state: NY
+physicalOccurrences[0].referenceUnits[0].fax: 845-486-1147
+physicalOccurrences[0].referenceUnits[0].email: roosevelt.library@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Loose Sheets
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].mediaOccurrences[0].containerId: 5
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted

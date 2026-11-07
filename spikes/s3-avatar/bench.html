@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>S3 mouth-swap micro-benchmark</title>
+<style>body{margin:16px;font:14px system-ui}#slot{height:300px;display:flex;justify-content:center}#slot svg{height:100%;width:auto}</style></head>
+<body>
+<p>Spike micro-benchmark. ?s=none|href|visibility|display &amp; ui=1 (time readout + range updates every 120 ms)</p>
+<div id="slot"></div>
+<label>Position <input type="range" id="pos" min="0" max="27" step="0.1" value="0"></label> <output id="time">0:00 / 0:27</output>
+<script>
+(async () => {
+  const q = new URLSearchParams(location.search), strat = q.get('s') || 'href', ui = q.get('ui') === '1';
+  const NS = 'http://www.w3.org/2000/svg', pfx = 'guide-L2';
+  const [txt, doc] = await Promise.all([fetch('characters/guide-L2.svg').then(r => r.text()), fetch('data/lines.json').then(r => r.json())]);
+  const slot = document.getElementById('slot'); slot.innerHTML = txt;
+  const svg = slot.firstElementChild, use = svg.querySelector('use.mouth'), cues = [];
+  for (const l of doc.lines) for (const c of l.mouthCues) cues.push({ s: c.start, e: c.end, v: c.value });
+  let groups = null;
+  if (strat === 'visibility' || strat === 'display') {
+    const wrap = document.createElementNS(NS, 'g'); groups = {};
+    for (const s of 'XABCDEFGH') {
+      const g = svg.querySelector(`#${pfx}-m-${s}`).cloneNode(true); g.removeAttribute('id');
+      if (strat === 'visibility') g.setAttribute('visibility', s === 'X' ? 'visible' : 'hidden'); else g.setAttribute('display', s === 'X' ? 'inline' : 'none');
+      wrap.appendChild(g); groups[s] = g;
+    }
+    use.parentNode.replaceChild(wrap, use);
+  }
+  const attr = strat === 'visibility' ? 'visibility' : 'display', on = strat === 'visibility' ? 'visible' : 'inline', off = strat === 'visibility' ? 'hidden' : 'none';
+  function shapeAt(t) { let lo = 0, hi = cues.length - 1; while (lo <= hi) { const m = (lo + hi) >> 1; if (t < cues[m].s) hi = m - 1; else if (t >= cues[m].e) lo = m + 1; else return cues[m].v; } return 'X'; }
+  const fmt = (t) => `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}`;
+  let cur = 'X', swaps = 0, frames = 0, last = 0; const t0 = performance.now(), len = doc.duration;
+  function apply(s) {
+    if (strat === 'href') use.setAttribute('href', `#${pfx}-m-${s}`);
+    else if (groups) { groups[cur].setAttribute(attr, off); groups[s].setAttribute(attr, on); }
+  }
+  function frame(now) {
+    frames++;
+    const t = (((now - t0) / 1000) % len), s = shapeAt(t);
+    if (s !== cur) { if (strat !== 'none') apply(s); cur = s; swaps++; }
+    if (ui && now - last > 120) { last = now; document.getElementById('pos').value = t; document.getElementById('time').textContent = `${fmt(t)} / ${fmt(len)}`; }
+    requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(frame);
+  window.__bench = { strat, ui, stats: () => ({ strat, ui, swaps, frames }) };
+  document.documentElement.dataset.ready = 'true';
+})();
+</script></body></html>

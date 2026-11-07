@@ -1,0 +1,176 @@
+_version_: 1731652912750264320
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2002705615/
+aka[1]: http://www.loc.gov/item/2002705615/
+aka[2]: http://www.loc.gov/pictures/item/2002705615/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/2002705615/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/2002705615/
+aka[5]: http://www.loc.gov/resource/cph.3b24875/
+aka[6]: http://lccn.loc.gov/2002705615
+aka[7]: https://hdl.loc.gov/loc.pnp/cph.3b24875
+call_number: LOT 9066 [item] [P&P]
+created: 2016-04-20T23:16:03Z
+created_published[0]: [ca. 1900]
+created_published_date: [ca. 1900]
+date: 1900-01-01
+dates[0].1900: https://www.loc.gov/search/?dates=1900/1900&fo=json
+description[0]: 1 photographic print : color.
+digital_id[0]: cph 3b24875 //hdl.loc.gov/loc.pnp/cph.3b24875
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-08-25T19:57:07.083Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/2002705615/#cph
+extract_urls[1]: http://lccn.loc.gov/2002705615#catalog-split-12
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+group[0]: cph
+group[1]: catalog-split-12
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-12
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2002705615/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875_150px.jpg#h=109&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875t.gif#h=109&w=150
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875r.jpg#h=463&w=640
+index: 1
+item.call_number: LOT 9066 [item] [P&P]
+item.control_number: 2002705615
+item.created: 2016-04-20T23:16:03Z
+item.created_published: [ca. 1900]
+item.created_published_date: [ca. 1900]
+item.date: [ca. 1900]
+item.digital_id[0]: cph 3b24875 //hdl.loc.gov/loc.pnp/cph.3b24875
+item.display_offsite: true
+item.format[0]: still image
+item.id: 2002705615
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2002705615/
+item.marc: https://www.loc.gov/pictures/item/2002705615/marc/
+item.medium[0]: 1 photographic print : color.
+item.medium_brief: 1 photographic print :
+item.mediums[0]: 1 photographic print : color.
+item.modified: 2016-04-20T23:16:04Z
+item.notes[0]: Photograph copyrighted by the Detroit Publishing Co.
+item.notes[1]: Detroit Publishing Company Photograph Collection (Library of Congress).
+item.notes[2]: This record contains unverified data from caption card.
+item.number_former_id[0]: https://www.loc.gov/item/2002705615
+item.number_former_id[1]: https://www.loc.gov/item/12687559
+item.number_former_id[2]: https://www.loc.gov/item/3540
+item.other_control_numbers[0]: 12687559
+item.other_control_numbers[1]: 3540
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-USZ62-77750 (b&w film copy neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3b24875
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875r.jpg
+item.sort_date: 1900
+item.source_created: 2002-02-26T00:00:00Z
+item.source_modified: 2016-03-01T19:51:43Z
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875_150px.jpg
+item.title: Glacier Point, Yosemite Valley, California
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2002705615
+link: https://www.loc.gov/pictures/item/2002705615/
+marc: https://www.loc.gov/pictures/item/2002705615/marc/
+medium[0]: 1 photographic print : color.
+medium_brief: 1 photographic print :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-20T23:16:04Z
+notes[0]: Photograph copyrighted by the Detroit Publishing Co.
+notes[1]: Detroit Publishing Company Photograph Collection (Library of Congress).
+notes[2]: This record contains unverified data from caption card.
+number[0]: 2016-03-01t19:51:43
+number[1]: http://www.loc.gov/item/2002705615
+number[2]: http://www.loc.gov/item/3540
+number[3]: http://www.loc.gov/item/12687559
+number[4]: 2002705615
+number_former_id[0]: http://www.loc.gov/item/12687559
+number_former_id[1]: http://www.loc.gov/item/3540
+number_former_id[2]: http://www.loc.gov/item/2002705615
+number_lccn[0]: 2002705615
+number_source_modified[0]: 2016-03-01t19:51:43
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 12687559
+other_control_numbers[1]: 3540
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2002705615/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2002705615/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2002705615/dc
+partof[0].count: 10
+partof[0].title: lot 9066
+partof[0].url: https://www.loc.gov/search/?fa=partof:lot+9066&fo=json
+partof[1].count: 110659
+partof[1].title: miscellaneous items in high demand
+partof[1].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[2].count: 910712
+partof[2].title: prints & photographs online catalog (library of congress)
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[3].count: 1162609
+partof[3].title: prints and photographs division
+partof[3].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[4].count: 1911021
+partof[4].title: catalog
+partof[4].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.group_record: https://www.loc.gov/pictures/search/?q=LOT 9066&fi=number&op=PHRASE&va=exact&co=coll&sg=true
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=2002705615&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-USZ62-77750 (b&w film copy neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3b24875
+resources[0].caption: b&w film copy neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3b24875/
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.461555
+shard: 00
+shelf_id: LOT 9066 [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1900
+source_created: 2002-02-26T00:00:00Z
+source_modified: 2016-03-01T19:51:43Z
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875_150px.jpg
+timestamp: 2022-05-01T19:21:47.739Z
+title: Glacier Point, Yosemite Valley, California
+unrestricted: true
+url: https://www.loc.gov/item/2002705615/
+resources[0].caption: b&w film copy neg.
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 1710266
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3b20000/3b24000/3b24800/3b24875u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 109
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 4390
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 109
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 17202
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875t.gif
+resources[0].files[0][2].width: 150
+resources[0].files[0][3].height: 463
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 37447
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875r.jpg
+resources[0].files[0][3].width: 640
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b24000/3b24800/3b24875_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3b24875/
+cite_this.apa: (ca. 1900) Glacier Point, Yosemite Valley, California. , ca. 1900. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2002705615/.
+cite_this.chicago: Glacier Point, Yosemite Valley, California. , ca. 1900. Photograph. https://www.loc.gov/item/2002705615/.
+cite_this.mla: Glacier Point, Yosemite Valley, California. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2002705615/>.

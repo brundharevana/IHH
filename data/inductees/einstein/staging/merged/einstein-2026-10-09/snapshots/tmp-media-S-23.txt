@@ -1,0 +1,15 @@
+title: File:Albert Einstein and Elsa Einstein arriving by ship, San Diego, 1930.jpg
+DateTime: 2023-07-06 06:07:53
+ObjectName: Albert Einstein and Elsa Einstein arriving by ship, San Diego, 1930
+CommonsMetadataExtension: 1.2
+Categories: Elsa Einstein|Images with extracted images|Albert Einstein in 1930
+ImageDescription: Albert Einstein and Elsa Einstein arriving by ship, the SS Belgenland, upon their arrival in San Diego, 1930
+DateTimeOriginal: 1930
+Credit: https://digital.library.ucla.edu/catalog/ark:/21198/zz002dd690
+Artist: Los Angeles Times
+LicenseShortName: CC BY 4.0
+UsageTerms: Creative Commons Attribution 4.0
+AttributionRequired: true
+LicenseUrl: https://creativecommons.org/licenses/by/4.0
+Copyrighted: True
+License: cc-by-4.0

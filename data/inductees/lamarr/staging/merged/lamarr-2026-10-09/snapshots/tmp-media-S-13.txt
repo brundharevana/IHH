@@ -1,0 +1,14 @@
+title: File:Hedy Kiesler 1933.jpg
+DateTime: 2025-02-06 20:55:24
+ObjectName: Hedy Kiesler 1933
+CommonsMetadataExtension: 1.2
+Categories: Hedy Lamarr|Czechia in the 1930s|PD-anon-70-EU
+ImageDescription: Hedy Kiesler (Hedy Lamarr) in the movie Extase (Czechoslovakia, 1933)
+DateTimeOriginal: 1933
+Credit: https://ndk.cz/view/uuid:8acf07b0-7e41-11dc-b23b-000d606f5dc6?page=uuid:eb9de80c-43ca-4cf5-8489-c6f757eca791&fulltext=extase%20machat%C3%BD
+Artist: AnonymousUnknown author
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

@@ -1,0 +1,87 @@
+---
+// Timeline: /<slug>/timeline/ (the home page's Info button). The journey's dated stops in journey
+// order, from content/<slug>/journey.json: each stop's date and place as its cited facts state them
+// (tools/content_check.py grounds them; factChips re-checks they are verified), its cited lines, and
+// a link into its room where it has one. Fixed interface copy only; no text is composed here.
+import Base from '../../layouts/Base.astro';
+import FactChips from '../../components/FactChips.astro';
+import { listInductees, loadInductee, loadJourney, loadChapter, listChapters, factIndex } from '../../content/load.js';
+import { journeyView } from '../../content/journey.js';
+import { timelineStops } from '../../content/home.js';
+
+export function getStaticPaths() {
+  return listInductees().filter(slug => loadJourney(slug)).map(slug => ({ params: { slug }, props: { slug } }));
+}
+const { slug } = Astro.props;
+const inductee = loadInductee(slug);
+const chapters = new Map(listChapters().filter(c => c.slug === slug).map(c => [c.n, loadChapter(slug, c.n).title]));
+const { stops } = journeyView(loadJourney(slug), factIndex(slug), { slug, chapters });
+const dated = timelineStops(stops);
+// A machine-readable date only where the label is an ISO date (YYYY, YYYY-MM or YYYY-MM-DD).
+const isoDate = d => (/^\d{4}(-\d\d)?(-\d\d)?$/.test(d) ? d : undefined);
+---
+<Base title={`${inductee.name}: timeline`} description={`Timeline of ${inductee.name}'s journey: dated stops from verified records.`} theme="dark">
+  <div slot="backdrop" class="tl-backdrop" aria-hidden="true"></div>
+  <div class="tl">
+    <header class="tl-head">
+      <p class="eyebrow">Timeline</p>
+      <h1>{inductee.name}</h1>
+      <p class="tl-intro">The dated stops of the journey, in order. Each date and place carries the source it comes from.</p>
+      <p class="tl-actions">
+        <a class="btn btn-primary" href={`/${slug}/`}>Open the journey map</a>
+        <a class="btn btn-glass" href="/">All inductees</a>
+      </p>
+    </header>
+
+    <ol class="timeline" data-timeline>
+      {dated.map((s, i) => (
+        <li class="stop" style={`--i:${i}`}>
+          <span class="dot" aria-hidden="true"></span>
+          <article class="stop-card" data-glass aria-labelledby={`stop-${s.id}`}>
+            <time datetime={isoDate(s.date)}>{s.date}</time>
+            <h2 id={`stop-${s.id}`}>{s.label} <FactChips chips={s.chips} prefix={`tl-${s.id}`} /></h2>
+            {s.lines.map((l, j) => <p>{l.text} <FactChips chips={l.chips} prefix={`tl-${s.id}-${j}`} /></p>)}
+            {s.room && <p class="stop-room"><a class="btn btn-glass" href={s.room.href}>{s.room.text}</a></p>}
+          </article>
+        </li>
+      ))}
+    </ol>
+  </div>
+</Base>
+
+<script>
+  import { initToggletips } from '../../ui/sources.js';
+  initToggletips(document.querySelector('.tl') || document.body);
+</script>
+
+<style is:global>
+  .tl-backdrop { position: fixed; inset: 0; z-index: -1;
+    background: radial-gradient(90% 60% at 15% 0%, rgb(217 110 44 / .16), transparent 60%),
+      radial-gradient(80% 70% at 100% 40%, rgb(60 90 140 / .18), transparent 65%), var(--voa-bg); }
+  .tl { font-family: var(--f-ui); color: var(--voa-text); max-width: 880px; margin: 0 auto; padding: var(--space-9) var(--space-8) var(--space-9); box-sizing: border-box; }
+  .tl-head { margin-bottom: var(--space-8); }
+  .tl .eyebrow { margin: 0 0 var(--space-3); font-size: var(--t-label); font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--voa-accent-text); }
+  .tl h1 { margin: 0 0 var(--space-3); font-size: var(--t-hero); font-weight: 600; line-height: 1.1; letter-spacing: -0.02em; }
+  .tl-intro { margin: 0 0 var(--space-5); max-width: 36rem; color: var(--voa-text-2); line-height: 1.6; }
+  .tl-actions { display: flex; flex-wrap: wrap; gap: var(--space-2); margin: 0; }
+
+  .timeline { position: relative; list-style: none; margin: 0; padding: 0 0 0 var(--space-8); }
+  .timeline::before { content: ''; position: absolute; left: 11px; top: 8px; bottom: 8px; width: 2px;
+    background: linear-gradient(to bottom, var(--voa-orange-1), rgb(255 255 255 / .18)); border-radius: 2px; }
+  .stop { position: relative; margin: 0 0 var(--space-5); animation: stop-rise 700ms var(--ease-out) both; animation-delay: calc(100ms + var(--i) * 70ms); }
+  .stop .dot { position: absolute; left: calc(-1 * var(--space-8) + 4px); top: 22px; width: 16px; height: 16px; box-sizing: border-box;
+    border-radius: 50%; background: var(--voa-bg); border: 3px solid var(--voa-accent-text); box-shadow: 0 0 0 4px rgb(255 197 138 / .15); }
+  .stop-card { padding: var(--space-4) var(--space-5) var(--space-5); background: var(--glass-panel); border: 1px solid var(--glass-border);
+    border-radius: var(--radius-card); box-shadow: var(--card-shadow); backdrop-filter: var(--glass-blur); -webkit-backdrop-filter: var(--glass-blur); }
+  .stop-card time { display: block; font-size: clamp(1.5rem, 2.4vw, 2rem); font-weight: 600; letter-spacing: -0.02em; color: var(--voa-accent-text); line-height: 1.2; }
+  .stop-card h2 { margin: var(--space-1) 0 var(--space-3); font-size: var(--t-card); font-weight: 600; line-height: 1.3; }
+  .stop-card p { margin: 0 0 var(--space-2); color: var(--voa-text-2); line-height: 1.6; font-size: .9375rem; }
+  .stop-card .stop-room { margin-top: var(--space-4); }
+  @keyframes stop-rise { from { transform: translateY(16px); } to { transform: none; } }
+  @media (max-width: 640px) {
+    .tl { padding: var(--space-7) var(--space-4) var(--space-8); }
+    .timeline { padding-left: var(--space-7); }
+    .stop .dot { left: calc(-1 * var(--space-7) + 4px); }
+    .stop-card { padding: var(--space-3) var(--space-4) var(--space-4); }
+  }
+</style>

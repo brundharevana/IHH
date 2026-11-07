@@ -1,0 +1,195 @@
+_version_: 1733367033180979200
+access_restricted: false
+aka[0]: http://www.loc.gov/pictures/collection/stereo/item/2019632509/
+aka[1]: http://www.loc.gov/item/2019632509/
+aka[2]: http://www.loc.gov/pictures/item/2019632509/
+aka[3]: https://hdl.loc.gov/loc.pnp/stereo.1s17205
+aka[4]: http://www.loc.gov/resource/stereo.1s17205/
+aka[5]: http://lccn.loc.gov/2019632509
+call_number: STEREO FOREIGN GEOG FILE - Austria--Vienna [item] [P&P]
+created: 2019-03-26T05:46:50Z
+created_published[0]: [1902]
+created_published_date: [1902]
+date: 1902-01-01
+dates[0].1902: https://www.loc.gov/search/?dates=1902/1902&fo=json
+description[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+digital_id[0]: stereo 1s17205 //hdl.loc.gov/loc.pnp/stereo.1s17205
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-09-01T20:19:54.197Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/stereo/item/2019632509/#stereo
+extract_urls[1]: http://lccn.loc.gov/2019632509#catalog-split-05
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Photographic prints--1900-1910.
+format_headings[1]: Stereographs--1900-1910.
+genre[0]: Stereographs--1900-1910
+genre[1]: Photographic prints--1900-1910
+group[0]: stereo
+group[1]: catalog-split-05
+group[2]: catalog
+group[3]: stereograph-cards
+group[4]: main-catalog-split-05
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2019632509/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205_150px.jpg#h=78&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205r.jpg#h=332&w=640
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205v.jpg#h=532&w=1024
+index: 1
+item.call_number: STEREO FOREIGN GEOG FILE - Austria--Vienna [item] [P&P]
+item.control_number: 2019632509
+item.created: 2019-03-26T05:46:50Z
+item.created_published: [1902]
+item.created_published_date: [1902]
+item.date: [1902]
+item.digital_id[0]: stereo 1s17205 //hdl.loc.gov/loc.pnp/stereo.1s17205
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: //www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1900-1910.&co=stereo
+item.formats[0].title: Photographic prints--1900-1910.
+item.formats[1].link: //www.loc.gov/pictures/related/?fi=format&q=Stereographs--1900-1910.&co=stereo
+item.formats[1].title: Stereographs--1900-1910.
+item.genre[0]: Stereographs--1900-1910
+item.genre[1]: Photographic prints--1900-1910
+item.id: 2019632509
+item.language[0]: eng
+item.link: //www.loc.gov/pictures/item/2019632509/
+item.location[0]: Vienna (Austria)
+item.marc: //www.loc.gov/pictures/item/2019632509/marc/
+item.medium[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+item.medium_brief: 1 photograph :
+item.mediums[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+item.modified: 2019-03-26T05:46:50Z
+item.notes[0]: Title from item.
+item.notes[1]: No. 4532.
+item.other_control_numbers[0]: 20899184
+item.place[0].link: //www.loc.gov/pictures/related/?fi=place&q=Vienna%20%28Austria%29&co=stereo
+item.place[0].title: Vienna (Austria)
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-stereo-1s17205 (digital file from original)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/stereo.1s17205
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205r.jpg
+item.sort_date: 1902
+item.source_created: 2019-03-21T00:00:00Z
+item.source_modified: 2019-03-21T17:00:13Z
+item.subject_headings[0]: Vienna (Austria)--1900-1910.
+item.subject_headings[1]: Vienna (Austria)
+item.subjects[0]: Vienna (Austria)--1900-1910
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205_150px.jpg
+item.title: The busy Graben, Vienna, Austria.
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2019632509
+link: //www.loc.gov/pictures/item/2019632509/
+location[0]: vienna
+location[1]: austria
+locations[0].austria: https://www.loc.gov/search/?fa=location:austria&fo=json
+locations[1].vienna: https://www.loc.gov/search/?fa=location:vienna&fo=json
+marc: //www.loc.gov/pictures/item/2019632509/marc/
+medium[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+medium_brief: 1 photograph :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2019-03-26T05:46:50Z
+notes[0]: Title from item.
+notes[1]: No. 4532.
+number[0]: sheet
+number[1]: 2019-03-21t17:00:13
+number[2]: 2019632509
+number[3]: http://www.loc.gov/item/20899184
+number_carrier_type[0]: sheet
+number_former_id[0]: http://www.loc.gov/item/20899184
+number_lccn[0]: 2019632509
+number_source_modified[0]: 2019-03-21t17:00:13
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 20899184
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2019632509/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2019632509/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2019632509/dc
+partof[0].count: 55799
+partof[0].title: stereograph cards
+partof[0].url: https://www.loc.gov/collections/stereograph-cards/?fo=json
+partof[1].count: 910731
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1162489
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1910629
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: //www.loc.gov/pictures/related/?fi=place&q=Vienna%20%28Austria%29&co=stereo
+place[0].title: Vienna (Austria)
+related.neighbors: //www.loc.gov/pictures/related/?&co=stereo&pk=2019632509&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-stereo-1s17205 (digital file from original)
+resource_links[0]: //hdl.loc.gov/loc.pnp/stereo.1s17205
+resources[0].caption: digital file from original
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205_150px.jpg
+resources[0].url: https://www.loc.gov/resource/stereo.1s17205/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Stereographs - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.459465
+shard: 00
+shelf_id: STEREO FOREIGN GEOG FILE - Austria--Vienna [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1902
+source_created: 2019-03-21T00:00:00Z
+source_modified: 2019-03-21T17:00:13Z
+subject[0]: stereographs
+subject[1]: vienna (austria)
+subject[2]: photographic prints
+subject_headings[0]: Vienna (Austria)--1900-1910
+subjects[0].photographic prints: https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json
+subjects[1].stereographs: https://www.loc.gov/search/?fa=subject:stereographs&fo=json
+subjects[2].vienna (austria): https://www.loc.gov/search/?fa=subject:vienna+%28austria%29&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205_150px.jpg
+timestamp: 2022-05-20T17:27:00.279Z
+title: The busy Graben, Vienna, Austria.
+unrestricted: true
+url: https://www.loc.gov/item/2019632509/
+resources[0].caption: digital file from original
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 54246722
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/stereo/1s10000/1s17000/1s17200/1s17205u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 78
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 71021
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 332
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].size: 112369
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205r.jpg
+resources[0].files[0][2].width: 640
+resources[0].files[0][3].height: 532
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 347736
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205v.jpg
+resources[0].files[0][3].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/stereo/1s10000/1s17000/1s17200/1s17205_150px.jpg
+resources[0].url: https://www.loc.gov/resource/stereo.1s17205/
+cite_this.apa: (1902) The busy Graben, Vienna, Austria. Vienna Austria, 1902. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2019632509/.
+cite_this.chicago: The busy Graben, Vienna, Austria. Vienna Austria, 1902. Photograph. https://www.loc.gov/item/2019632509/.
+cite_this.mla: The busy Graben, Vienna, Austria. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2019632509/>.

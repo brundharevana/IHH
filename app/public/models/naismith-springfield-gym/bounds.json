@@ -1,0 +1,179 @@
+{
+  "$comment": "Walkable bounds for free roam in naismith-springfield-gym.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 5.8,
+  "walkable": {
+    "x_min": -5.9,
+    "x_max": 5.9,
+    "z_min": -5.15,
+    "z_max": 5.2
+  },
+  "obstacles": [
+    {
+      "name": "artifact_parallel_bars",
+      "x_min": -3.524,
+      "x_max": 0.124,
+      "z_min": -2.867,
+      "z_max": -1.533
+    },
+    {
+      "name": "artifact_vaulting_buck",
+      "x_min": -1.325,
+      "x_max": -0.275,
+      "z_min": 1.221,
+      "z_max": 2.179
+    },
+    {
+      "name": "artifact_column_center",
+      "x_min": 0.19,
+      "x_max": 0.81,
+      "z_min": 0.69,
+      "z_max": 1.31
+    },
+    {
+      "name": "low_box",
+      "x_min": -0.309,
+      "x_max": 1.009,
+      "z_min": -3.238,
+      "z_max": -2.262
+    },
+    {
+      "name": "low_platform",
+      "x_min": 2.05,
+      "x_max": 3.45,
+      "z_min": -4.475,
+      "z_max": -3.225
+    },
+    {
+      "name": "staircase",
+      "x_min": -0.55,
+      "x_max": 3.65,
+      "z_min": -5.65,
+      "z_max": -4.1
+    },
+    {
+      "name": "column_-2.6_+3.5",
+      "x_min": -3.0,
+      "x_max": -2.2,
+      "z_min": -3.92,
+      "z_max": -3.12
+    },
+    {
+      "name": "column_-2.6_-3.5",
+      "x_min": -3.0,
+      "x_max": -2.2,
+      "z_min": 3.12,
+      "z_max": 3.92
+    },
+    {
+      "name": "column_+0.3_+3.5",
+      "x_min": -0.1,
+      "x_max": 0.7,
+      "z_min": -3.92,
+      "z_max": -3.12
+    },
+    {
+      "name": "column_+0.3_-3.5",
+      "x_min": -0.1,
+      "x_max": 0.7,
+      "z_min": 3.12,
+      "z_max": 3.92
+    },
+    {
+      "name": "column_+2.8_+3.5",
+      "x_min": 2.4,
+      "x_max": 3.2,
+      "z_min": -3.92,
+      "z_max": -3.12
+    },
+    {
+      "name": "column_+2.8_-3.5",
+      "x_min": 2.4,
+      "x_max": 3.2,
+      "z_min": 3.12,
+      "z_max": 3.92
+    },
+    {
+      "name": "column_+4.2_-1.6",
+      "x_min": 3.82,
+      "x_max": 4.62,
+      "z_min": 1.2,
+      "z_max": 2.0
+    },
+    {
+      "name": "column_-4.2_-1.6",
+      "x_min": -4.62,
+      "x_max": -3.82,
+      "z_min": 1.2,
+      "z_max": 2.0
+    },
+    {
+      "name": "column_+4.2_+1.4",
+      "x_min": 3.82,
+      "x_max": 4.62,
+      "z_min": -1.8,
+      "z_max": -1.0
+    },
+    {
+      "name": "column_-4.2_+1.4",
+      "x_min": -4.62,
+      "x_max": -3.82,
+      "z_min": -1.8,
+      "z_max": -1.0
+    },
+    {
+      "name": "weight_frame_and_radiator",
+      "x_min": -5.25,
+      "x_max": -0.65,
+      "z_min": -5.65,
+      "z_max": -4.75
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.1,
+      "z": 3.5,
+      "look_at": {
+        "x": -0.3,
+        "y": 1.5,
+        "z": -5.5
+      },
+      "note": "Photo viewpoint SC-695 (c. 1887): the north gallery, the stair and the apparatus"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -0.6,
+      "z": 0.6,
+      "look_at": {
+        "x": -0.6,
+        "y": 1.5,
+        "z": -5.5
+      },
+      "note": "Middle of the floor, facing the north gallery rail (10 ft lower rail)"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 3.3,
+      "z": -1.6,
+      "look_at": {
+        "x": -1.7,
+        "y": 1.5,
+        "z": -2.2
+      },
+      "note": "By the stair, facing the parallel bars and the weight frame"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -3.6,
+      "z": -2.0,
+      "look_at": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 4.0
+      },
+      "note": "North-west of the floor, looking back across the room to the south gallery"
+    }
+  ]
+}

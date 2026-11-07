@@ -1,0 +1,1109 @@
+_version_: 1747626109942366208
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045462/1942-09-13/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045462/1942-09-13/ed-1/
+batch[0]: dlc_1warhol_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json
+created_published[0]: Washington, D.C., September 13, 1942
+date: 1942-09-13
+date_issued: 1942-09-13
+dates[0].1942-09-13: https://www.loc.gov/search/?dates=1942-09-13/1942-09-13&fo=json
+dates_of_publication: 1854-1972
+description[0]: Washington, D.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2020-09-15T06:40:53.366Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_1warhol_ver01/data/sn83045462/00280603648/1942091301/1942091301_1.xml#ndnp/dlc-2018_2019
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2018_2019
+group[1]: library-of-congress-washington-dc-awardee-7
+hassegments: true
+id: http://www.loc.gov/item/sn83045462/1942-09-13/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1warhol_ver01:data:sn83045462:00280603648:1942091301:0495/full/pct:6.25/0/default.jpg#h=512&w=377
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1warhol_ver01:data:sn83045462:00280603648:1942091301:0495/full/pct:12.5/0/default.jpg#h=1024&w=754
+index: 70
+item.batch[0]: dlc_1warhol_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington, D.C., September 13, 1942
+item.date: 1854
+item.date_issued: 1942-09-13
+item.dates[0]: 1942-09-13
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045462
+item.location[0]: Washington (D.C.)
+item.medium: 146 pages
+item.newspaper_title[0]: Evening star.
+item.notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+item.notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+item.notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+item.notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+item.notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+item.notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+item.notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_1warhol_ver01/data/sn83045462/00280603648/1942091301/1942091301_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045462/marcxml
+item.other_title[0]: Sunday star
+item.other_title[1]: Star
+item.place_of_publication: Washington, D.C.
+item.raw_lccn: sn 83045462
+item.reel_numbers[0]: 00280603648
+item.source_group: ndnp/dlc-2018_2019
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: Evening star (Washington, D.C.), September 13, 1942
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn83045462
+location[0]: washington
+location[1]: district of columbia
+location[2]: united states
+location[3]: washington d.c.
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+medium: 146 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Evening star.
+notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+number[0]: 1
+number[1]: 00280603648
+number[2]: sn83045462
+number_edition[0]: 1
+number_lccn[0]: sn83045462
+number_reel[0]: 00280603648
+numeric_shelf_id: 194209131
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_1warhol_ver01/data/sn83045462/00280603648/1942091301/1942091301_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045462/marcxml
+other_title[0]: Sunday star
+other_title[1]: Star
+partof[0].count: 36935
+partof[0].title: evening star (washington, d.c.) 1854-1972
+partof[0].url: https://www.loc.gov/search/?fa=partof:evening+star+%28washington,+d.c.%29+1854-1972&fo=json
+partof[1].count: 3210990
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232495
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: evening star (washington, d.c.) 1854-1972
+place_of_publication: Washington, D.C.
+publication_frequency[0]: daily
+raw_lccn: sn 83045462
+reel_numbers[0]: 00280603648
+resources[0].files: 146
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1warhol_ver01:data:sn83045462:00280603648:1942091301:0495/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045462/1942-09-13/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn83045462, 1942-09-13, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2018_2019
+subject[0]: washington
+subject[1]: newspapers
+subject[2]: district of columbia
+subject[3]: united states
+subject[4]: washington (d.c.)
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+timestamp: 2022-10-25T02:47:42.343Z
+title: Evening star (Washington, D.C.), September 13, 1942
+type[0]: issue
+url: https://www.loc.gov/item/sn83045462/1942-09-13/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1warhol_ver01/data/sn83045462/00280603648/1942091301/0564.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045462/1942-09-13/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1warhol_ver01:data:sn83045462:00280603648:1942091301:0495/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_1warhol_ver01/data/sn83045462/00280603648/1942091301/0564.pdf
+resources[0].segment_count: 146
+resources[0].url: https://www.loc.gov/resource/sn83045462/1942-09-13/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1942, September 13) Evening Star. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045462/1942-09-13/ed-1/.
+cite_this.chicago: Evening Star. (Washington, DC), Sep. 13 1942. https://www.loc.gov/item/sn83045462/1942-09-13/ed-1/.
+cite_this.mla: Evening Star. (Washington, DC) 13 Sep. 1942, p. 70. Retrieved from the Library of Congress, www.loc.gov/item/sn83045462/1942-09-13/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_1warhol_ver01/data/sn83045462/00280603648/1942091301/0564.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1warhol_ver01/data/sn83045462/00280603648/1942091301/0564.xml&format=alto_xml&full_text=1
+full_text:
+Hedy Lamarr Sees Real America on Bond Tour Adventures
+Star Finds 1 hat People Are Kind and Generous,
+But She Enjoys the Strenuous Work Involved in U. S. Travel
+Ry Hedy Lamarr,
+Wide World.
+NEW YORK—Once upon a time I
+thought that if ever I were asked
+to write a newspaper story I’d try
+to be funny, to make people laugh
+and forget their troubles for the
+moment; but now that I'm actually
+writing one, I don’t want to be witty
+or clever.
+For. you see. I’ve been learning for
+the first time what America and
+Americans are like. I’m beginning
+to feel very small and humble in
+this great United States. I don’t
+want to play the role of a comedi
+enne in this story.
+Tells of Experiences.
+I want to tell you about my ex
+periences as a salesman for Uncle
+Sam—selling War bonds—and then
+perhaps you will understand some
+thing of what I feel, since the
+United States is my adopted coun
+try.
+At times I'm sure that I know
+more about the freedom we are
+fighting for than millions who were
+born in the United States and who
+have come to accept liberty as their
+rightful heritage. They have known
+nothing else but “government of the
+people, by the people and for the
+people.”
+I have seen the other side of the
+picture. I have seen enough in
+Europe to know that freedom isn't
+a heritage. It must be fought for,
+won and then cherished. America
+got to fight to protect it. and that
+is why I was glad to help in the
+Government’s campaign to sell a
+billion dollars’ worth of War bonds.
+It is the least I can do.
+Touching Incident.
+I was delighted when Secretary
+of the Treasury Morgenthau asked
+the industry of which I am a part
+to lead the billion-dollar “Salute to
+the Heroes’’ month. But this month.
+and every month. Americans should
+“buy a bond to honor every mother’s
+eon in service.”
+I'll never forget the little woman
+In Orange, N. J. She broke through
+the police line holding back the
+crowds. Her shoes were worn and
+scuffed. She wore a cheap gingham
+dress. She wasn’t old, but the lines
+In her face were deep.
+A policeman started to pull her
+back, but something in the woman’s
+eyes made me stop him.
+“Miss Lamarr,” she said slowly.
+“I have already lost a son in this
+war. I wanted to give you this
+$500 to buy a War bond.”
+The money must have represented
+a fortune to her, the savings of years
+of toil. But it was the only way
+she knew to get back at the dirty
+little men who killed her son.
+Workers Contribute.
+There was another wonderful ex
+perience, too, when I visited the
+York Safe Lock Co., in York,
+Pa. The visit was timed so that I
+arrived during a change of shifts.
+These men were doing important
+war work. I was told that as a re
+suit of my visit 1.000 of these work
+men had pledged at least $25 of
+their wages to buy War bonds—
+$25,000 from one plane. It was a
+
+THEATER PARKING
+I 35c i
+6 P.M. lo 1 A.M.
+CAPITAL GARAGE:
+1320 N. Y. Ave.. Bet. 13th 14th:
+SPEAKING FOR UNCLE S'AM—Hedy Lamarr has been a remarkable success on the September
+bond, selling tour of the motion picture stars. This photo shows her during a rally at Military
+Common, Orange, N. J. Miss Lamarr told her listeners, “The United States is the last stop for
+treedom.”
+tremendous thrill. I shook hands
+with each one of them to try to
+express my appreciation.
+A great many people ask If selling
+bonds is a harder job than acting.
+I wouldn’t know'. Because I’m not
+acting in this job. You’ve got to be
+sincere to get your message across
+to the people. They know insincer
+ity when they see it.
+Busy Schedule.
+There's just no time for play sell
+ing bonds. Your schedule is ar
+ranged so that you can see and talk
+to the greatest number of people in
+the shortest possible time. It means
+riding a train at night, getting up
+early, rarely finding time for any
+rest, and going to sleep early in
+order to be fresh for the next day's
+work.
+Tire people have a wonderful sense
+of humor and are so responsive. I
+know most of them come to the
+rallies to see if I have freckles, if
+I’m fat or thin, or if I'm as. glam
+orous in person as on the screen.
+But it doesn’t matter so long as they
+come and buy bonds. That is the
+important thing.
+The pledges have poured in. Phil
+adelphia pledged $7,000,000. In
+York and Trenton it was some
+thing like $4,000,000. Essex County,
+XT T *0 A fifi AAA
+Everywhere the people were gen
+erous.
+I’ve heard the totals of so many
+millions my head is dizzy. I've got
+ten so that when I want to thank
+any one I feel I’ve got to say
+"Thanks a billion.”
+Starts Salute Vogue.
+And there's something else I’ve
+tried to do—to start the “V for
+victory” salute as a Nation-wide
+CONSTITUTION HALL, Sund»> Aft.. Oct. 4th
+IN PERSON—JEANNETTE
+MacDONALD
+Benefit Army Emergency Relief Fund
+SEATS: $1.50, $2. $2.50. plus tax
+Wr». Doraey'i, 1300 G (Dronp't), NA, 7151
+I Constitution Hall/ 18th Jk C Sts. 1
+1ST SUNDAY StRltS: friesler, Don Cot 1
+»oclt Chorut, Horowitz, Traubel, Iturbi. 5
+2ND SUNDAY SfftffS: Rachmaninoff,
+Heifetz, Swarthout, Thomat, Rubmttem.
+Sene, tea', S3 30, $4.75, $6 60, $9, JIT. j|
+Deposit of $1 holds any tenet ticket to
+Ocf. T. illustrated circular on request.
+Mri. Dorsey's Concert Bureau, 1300 0
+in Droops, Tel. NAtional 7I3T-7T52
+means of greeting, with two fingers
+raised in a “V.”
+I was in York. Pa., when I realized
+I was giving the V-salute to the
+crow'ds—and they were answering
+with the same signal.
+Instead of a handclasp, wrhy don’t
+we greet our friends with the vic
+tory salute? The British give
+thumbs up. but this can be our sig
+nal that we’ve got to buy bonds
+and more bonds, that we’ve got to
+get in this fight to win the war—at
+home. And we can make the Nazi
+stiff-arm look like a signal for sur
+render.
+I don't want to preach, but as
+Americans say, I'm all steamed up
+over the bond drive. From the time
+I met with a group of Hollywood
+I friends in Washington and received
+instructions from Secretary Morgen
+thau it has been a wonderful ex
+perience.
+And, of course, I've been spoiled.
+Every one has been thoughtful.
+There were those two detectives
+in Philadelphia who were assigned
+i to be my personal bodyguards. They
+escorted me everywhere, and I fell
+i in love with both of them. I almost
+burst into tears when I had to
+leave.
+When I return to Hollywood to
+start work on my next picture. I’ll
+be grateful for the memories of this
+bond tour. It has taught me Amer
+ica is even greater than I had
+thought—and Americans are a kind,
+generous people, who won't give up
+their freedom.
+And that, my friends, is some
+thing worth knowing.
+C. C. CAPPEL Announces
+The Concert Guild Series
+In Constitution Hall
+Nov. 10: First Piano Quartet.
+Dec. 9: Argentinita and Company of
+Spanish Dancers ana Musicians.
+Jan. 20: “Marriage of Figaro," Opera in
+English.
+Feb. 8: Pla toff's Don Cossack Chorus.
+Season Tickets for 1 Concerts,
+*2. *3.50, *5
+Now on sale a: Cappel Concert Bureau
+In Ballard's. 1340 O St. N.W. RE. 3503
+Broadway Still Hopes for
+New Drama From Maugham
+Playwright, Show Shopping,
+May Change Mind About
+Writing Another Play
+By Mark Barron,
+Wide World.
+NEW YORK—There arrived on Broadway this week a distinguished
+journeyman playwright., taking a busman's holiday, a dramatist who
+said the other night at his home in Edgartown, Mass., that he wasn't
+certain if he would ever again write for the theater.
+Well. W. Somerset Maugham has made such declarations before and
+then changed his mind, and now that he is on Broadway for a siege of
+seeing uie cujieiu. suuwa uie pxu-*.
+ducers are pursuing him for a
+new play. Inspired by such per
+suasion the odds are that he will go
+back to Edgartown and postpone his
+retirement for “just one more play.” j
+In the tiny Edgartown movie
+house, nearby the resort homes of
+Katharine Cornell. Guthrie McClin
+tic and other stage celebrities.
+Maugham saw the other night the
+world premiere of the United Artists
+motion picture version of his novel,
+“The Moon and Sixpence,” an ex
+citing story of the South Seas, which
+he wrote shortly after coming out
+of the British secret service in the
+First World War.
+May Write Again.
+Maugham, visiting Broadway
+again, seemed to regain his enthusi
+asm for the theater. Anyway he
+would talk about it, and when
+Maugham will talk he usually pro
+ceeds from there to his desk and
+starts writing. Among the Broad
+W'ay crowds, which are plentifully
+sprinkled with men in uniform, he
+seemed like the country gentleman
+of 68 years that he now is, for he
+nearly always wears sports clothes
+or tweeds and seldom do the rialto
+crowds see him in evening clothes.
+Being a constant world-wide trav
+eler until the wars settled him in
+Massachusetts and on Broadway, he
+t said he always travels with a scant
+j wardrobe.
+“Although I thought I was fin
+ished with the theater,” he said,
+“that may not happen as soon as I
+expected. Most of my money has
+f’Tost Feature Tonight To*P*M^3i
+gone to the British government and
+plays, if they are hits, is a quick
+way to make more money.”
+Jn the 40 of his 68 years that he
+has been writing Maugham has
+turned out about 30 plays, of which
+20 were profitable—and that is a
+high average indeed.
+“Lady Frederick.” in 1907. was
+his first hit play, but. he said, his
+favorites of his plays are "The
+Circle,” “Our Betters,” “The Con
+stant Wife” and “The Letter.” He
+has never seen “The Circle” on
+stage because when it was done in
+London he was in New' York and
+when it was done on Broadway he
+was in London.
+Maugham is one dramatist who
+has the enthusiasm of a stage-door
+fan for good performances in the
+theater.
+“I thought Jeanne Eagels was
+such a wonderful actress,” he said,
+and well he might for her electric
+performance as Sadie Thompson
+made “Rain” one of the theater’s
+outstanding hits for season after
+season.
+“I was most surprised when I got a
+90% allure
+10% sarong
+addsuptoLURONG!
+cablegram in Bangkok aaying ’Rain’
+was such a hit. because when I
+wrote it as a magazine story I really
+didn’t think it could be transferred
+to the stage,” he said. However,
+John Colton and Clemence Ran
+dolph dramatized the story and it
+whs an instant success with Miss
+Engels and later was revived with
+Tallulah Bankhead in the leading
+role.
+"The performance of Ethel Barry
+more." Maugham said in his chat
+ting about the stage, "in my 'The
+Constant Wife’ was the most satis
+factory one I ever saw. She got
+every ipflection. ev.erv gesture into
+that character as I really saw her in
+my own mind when I was writing it.
+Her performance in that supported
+what I have always contended, that
+a successful play is really a collabo
+ration between authors, actors and
+audiences. If either one of the three
+waver in their co-operation then a
+play has a difficult time.
+Audiences Change.
+"Audiences today, I think, have
+changed from when I began writing
+plays. They think along with the
+'See BARRON. Page E-3>
+ELENA DE SAYN, V.olinut
+TAMARA DMITRIEFF, HELEN GRIMES,
+Piomsts
+Mfeital. Saturday. Srpt. id. t:SO PM.
+Dmitrieff Studio Hall, 5612 Conn. A»t.
+Ticket*. *1.10 and JWe on «a!e Mr*. Dnraee a
+C*nwrt R«rno. l.'«m G 8tr*#t.
+Opening Concert Nov. I
+HANS KINDLER, Conductor
+TWELFTH SEASON, 1942-41
+SOLOISTS Helfeti. Petr;. Irurbi.
+Milateln, Oratneer. Nash. Melton,
+8*.<rtl-><yi‘, q*rbnn.'<ov» Glenn
+I WEDNESDAY EVENINGS
+(All Subscription tHO—ilftt
+10 SUNDAY AFTERNOONS
+BttTHOVtN FtSTIVAl Jan }0. II. ij
+CONSTITUTION HALL
+
+▼▼TTTT▼▼▼▼~▼▼▼▼▼▼▼▼▼▼▼▼▼|
+LOANS
+76 years of buying, selling and
+lending on diamonds, jewelry, etc.;
+Libert) Loans at Lowest Possible Bates
+GASH FOR OLD GOLD
+Government License Est. 1860
+E. HEIDENHEIMER
+loan office 1215 H St. N.W.
+alexanpkIaV'va._NA. 1527
+COAL
+The Government forecasts a cool
+shortage. To assist you in storing
+your next winter's coal, we now
+have a long-term finance plan.
+Phone us for details.
+BLUE RIDGE VA. HARD
+Special Stove_$10.00
+Special Furnace_$9.85
+Egg_$10.50 Stove--$l 0.75
+Chestnut_$l 0.75 Pea_$9.25
+Buckwheat_$7.60
+BITUMINOUS BLUE EGG
+Bard Structure. Light Smoke
+Egg Six#-$9.00
+75% _..$8.25 50%-$7.75
+BLUE RIDGE SMOKELESS
+Egg_$10.25 80%_$9.25
+Stovo _$10.25
+POCAHONTAS
+Egg_$11.81 Stove -.$11.56
+Pea, $8.51
+Delivered in bags to your bln, no extra
+charge.
+We aell all sixes of Penna. Anthracite.
+Call u» for our low prices.
+Money-Back Guarantee,
+:l World s Largest Retailers of Va.
+Anthracite.
+BLUE RIDGE COAL CO., Inc.
+Miners of Virginia Anthracite Hard
+Coal. Alexandria Rd., So. Wash., Va
+ME. 3545. JAck. 1900.
+Orders Taken I)ar and Night.
+NOW—TICKETS AVAILABLE
+FOR
+WASKIKGTON’S FIRST
+MILLION DOLLAR PREMIERE*
+J 5
+BUY A WAR BOND
+At Any Bank or Loew Theater
+■4c And Receive a Guest Ticket for
+THE VICTORY WORLD PREMIERE
+Of Metro-Goldvryn-Mayer's
+“THE WAR AGAINST
+MRS. HADLEY” J
+•4c Wednesday, Sept. 23 at 8:30 P.M.
+Loew's CAPITOL Theater J
+
+i
+I
+t
+PHILADELPHIA
+ORCHESTRA
+EUGENE ORMANDY
+Conductor
+ARTURO TOSCANINI,
+Guest Conductor
+Oct. 20, Dec. 1,
+Feb. 9, March 2 30
+Price,: $5 50 to $15 10. Inctudinc T»x
+CONSTITUTION HALL
+Tuesdays, 8:45
+NEW ADDRESS
+Snow’s Concert Bureau
+741 Eleventh St. N W.
+Same phone—REpublic 4433
+Same hours—0:30-5:30 Daily
+1 iast_^3^.oays/ I
+L—^JEAN GASIN^^W
+f inn SALUTE TO OUR ~^1
+HEROES MONTH!
+jk #U* 4 *4# *ONO fO MONO#
+fVf#T *0»M|»S SON »N Ufvtcf
+0« Sill AT Gh1 THIATtC
+J* RKO KEITH'S
+BUD LOU
+ABBOn COSTELLO
+faidonIfySrfong
+VIRGINIA BRUCE
+Thot# Sensational Harmony Hit**
+THE FOUR INK SPOTS
+
+added a REVIVAL
+"LA CUCARACHA"
+ablaze with TECHNICOLOR
+Comini:... WALT DISNEY'S "BAMBI"
+r«s K SALUTE TO OUR
+7\ 1 HEROES MONTH!
+*UY t Wit (ON0 ro MONO*
+fvi»r Momtrs son in sreviat
+tj Now—Doors open 1:3n _ B
+II If Th* Phantom f
+^^B If Commando GoeilAyA^ P
+If Into Action \'"T
+E (INVISIBLE)
+■I AGENT” V
+Vl KRUPArf
+f And His Orchestra J
+1:30 it
+/%rO&\ Clark CABLE f
+[\0?W| U«a TURNER J
+\m4F SOMEWHERE
+VrW I'LL FIND YOU’’
+tl/L^H MOW frit UTAWE It
+mt^^jwiuoKYmHrJt
+M NOW Doors open 1:30 jP
+/“Hgr»3i8niver*/
+_J ONE WEEK ONLY
+'"w BEG. TOMOR. EVE., 8:30
+^tODIf^ Jutll
+POWLI no^ayd
+W w"i.T»“V 55c, $uo, SI .65
+ONE WEEK ONLY BEG. MON., SEPT. 21st. MAIL ORDERS
+NOW
+The Producer of “My Sister Eileen” and
+Junior Miss offers his newest hilarious play!
+MAX GORGON presents
+(I*wm«<fo+«ty lM*r T# H* N. Y. Opnluf)
+"Franklin Street"
+A New Comedy by ARTHUR SHEEKMAN
+and R. G.-A. O. GOETZ
+Sieged by GEORGE S. KAUFMAN
+SEAT SALE THURS. i ’TStLTXSTtfiS,
+Evas., 55c, 1.10, Matlnaas ee. e i a a ai a>/ t.,\
+$1.85, $2.20
+4
+'Mi 'J i'll
+I^ut>' *f.l iTT-t-■
+WSY Continuous Xll _
+By p«ffftrmann*< \\1 Presented here at
+Wl ttno,mancK V followin* Prices.
+r# JAMES I
+If willfifcw I Opening to closing
+CAGNEY /J A"
+I in tratm ms Men Women in
+I It U. S. Armed Forces
+ki YANKEE /I -4,,c
+II innnkh If Children—40c
+DOODLE If Ptaxes)
+DANDY1 Now showinsr In
+ij Based on story of 1 N Y c at
+fj GEO. M. COHAN I This picture win not be
+I _ I shown except at Road
+I LIMITED I, show Prices during 1942
+I IOADSIOV m
+yr^y j
+"YMtRtl SMDU tmr atsaTWayat massaSr
+i. ^1.1
+jBea^anlreeOoodte Dandy"- Byy VM MUSS
+I at Any Warner Bros. Theatre and
+Honor Every Mother’s Son in Service1 J
+gun amn^owioitffiin iw i.
+I IS. G«Yin*«t jj WRECTfR«Lw5]
+1. Presets <4je ij Humphrey J
+llwORLDkl BOGART I
+Pat w»« I'JCRflw1" I
+AvirfC H
+a tt t with Ibr, Icfnr p
+g!*.* a. hart tar*’j
+^MTGmmw^xjregnstreet 1
+i
+Wait till
+you see
+Hedy Lamarr
+wear it in M-G-M’s
+WHITE CARGO
+Co-starring Walter Pidgeon
+BOAT TRIPS
+VCDM-.. Special 60-Mile MOONLIGHTS
+Ml. VtKINUN Cruise Sunday. Monday.
+to Quantieo, Va. Tuwd.y SaUtnr time
+One trip daily today c. r In- r,e
+(No Stops) dancinr to Davy
+EIO A M. Week days K C rocker and His Wit- __
+2 P.M. Round trio. I, e a T e Washinrton son Line Orchestra. All/I
+O.,, 2:15 P.M. Adults ADULTS. Round W'HM
+adults. fi~c. plus 3c r0und trjp establish. Trip- gg,. .Children
+tax. Total 65c. ed price SI, tax flc. under 12. 35c). Sun- 4p
+Children under J2. total SI.05. Children day and Holidays. fP
+round trip, establish- Adults 'tic, tc tax. r
+35c, plus ~5c admts- f^ price 52c, tax 3c, Total 80c: Children C
+ilon to Mt. Vernon, total 65c. under 12, t3e.
+W%WWW 13th and H N.W.
+■Hi Doors Open 1 :B0 NOW
+THEATER Cent, to 11:30
+BLAZING' ROMANCE. AGAINST
+AFRICA’S BLAZING
+DESERT WAR! Wm&MWm
+BUY WAR BONDS AND STAMPS AT ANY LOCAL THEATER
+r AKIM IN A nth N- c A"' 8E
+Air-Conditioned
+BROADWAY,” GEORGE RAFT PAT
+i OBRIEN Also VALLEY OP THE
+SUN.” LUCILLE BALL. JAMES CRAIG
+PfDPf F *106 P> At*. N.W. RE. 0184
+lelltliLL Air-Conditioned.
+Matinee 2 PM. a
+BARBARA STANWYCK GEORGE BRENT.
+GERALDINE FITZGERALD in "GAY
+SISTERS Feature at 2:30. 4.50. 7:15,
+9:35. "Information. Please."
+CONGRESS 2931 NTiRh087^‘- w
+HENRY FONDA DON AMECHE. LYNN
+BARI in “THE MAGNIFICENT DOPE
+At 2:23, 4:15. 8 07. 7:59, 9150. Also
+i _ News and Buga Bunny.__
+DUNBARTON ^idr-Conditioned. I
+Double Feature Program
+SPENCER TRACY. HEDY LAMARR In
+TORTILLA FLAT.” Also "FLY BY
+NIGHT.” _
+FAIRLAWN 1342 G*i,i 8 E
+JEAN CABIN. IDA LUPINO. "THOMAS
+MITCHELL in "MOONTIDE.” At 2:07,
+4. 5:53. 7:48. 9:39,
+PDFFUDF1 T Adults 25e. Free Parking,
+lilt LLUdEUi 1 Air-Conditioned.
+B DAVIS, G BRENT In IN THIS OUR
+LIFE.” Cont. 3:00. Last Complete
+Show 9:00.
+HIGHLAND 2833 81
+BARBARA STANWYCK and GEORGE
+BRENT In THE GAY SISTERS." At
+2:25. 4:46, 7:05, 0:25. News and
+Comedy.
+inn 3^27 M St. N.W. WHITE ONLY
+lalUU Air-Cooled.
+Double Feature Program
+"HENRY ALDRICH FOR PRESIDENT."
+Also "CYCLONE KID.”_
+LITTLE 60getw? .sidNGW
+Double Feature.
+"WOMAN ALONE” and "NIGHT TRAIN.”
+ml 3th A H Sts. N.W.
+Continuous 2-11.
+RALPH CLEMENTS. JUNE DUPREZ In
+“FOUR FEATHERS.”
+i
+■FT 48th Mass. Are. N.W.
+HTM Air Conditioned
+"THEY ALL KISSED THE BRIDE."
+with JOAN CRAWFORD. MELVYN
+DOUGLAS. Plus "NEW SOLDIERS
+ARE TOUGH Showing How U. 8
+Builds Men of Muscle. Doors Open
+at 1:30 P.M. Feature at 2. 4:05.
+6:10. 8:15. 10:20._ __
+k XI AC 1331 H st- N E- At 33018
+RIUU Continuous 1 to 11 P.M.
+Scientiflcally Air-Conditioned.
+"LADY IN A JAM.” with IRENE
+DUNNE, PATRIC KNOWLES. RALPH
+BELLAMY. Also on Same Program
+—JUDY CANOVA and JOE E
+BROWN In "JOAN OF THE OZARK
+PRINCESS
+Continuous 1 to 11 P.M.
+"SONG OF THE ISLANDS. with
+BETTY GRABLE. VICTOR MATURE.
+JACK OAKIE. Also on Same Pro
+gram—"STARDUST ON THE SAGE.”
+with GENE AUTRY_.
+CrVRTflD Minn. Are. at Bennlng
+aUlAfVH Rd. N.E. TR 2600
+Selentifleally Air-Conditioned.
+Free Parkin* for SOO Cars.
+"THEY ALL KISSED THE BRIDE.”
+with JOAN CRAWFORD. MELVYN
+DOUGLAS. Added Attraction—
+"DIVIDE AND CONQUER." One of
+the Outstanding Featurette Hits.
+Doors Open at 1:30 P.M. Feature
+at 2:58. 5:11. 7:24. 8:37..
+(flTT Ample Free Parking.
+alAIli Shows 2-11.
+"THE GAY SISTERS." BARBARA
+STANWYCK. GEORGE BRENT
+f I*P A Treat for the Entiro Family
+Shows 2-11.
+"SMART ALECKS.” EAST SIDE
+KIDS.
+ARLINGTON SMrMJSk
+Ample Free Parking
+"JACKASS MAIL” WALLACE
+BERRY. MARJORIE MAIN.
+Uni Fftlf 1729 Wilson Bird.
+TV ILdUfl Phone OX. 1480.
+"TRUE TO THE ARMY.” JUDY
+CANOVA. ALLAN JONES.
+ASHTON 8186 wlu,n B,Td
+"WINGS FOR THE EAGLE.” ANN
+SHERIDAN. DENNIS MORGAN.
+ROCKINGHAM
+"THEY ALL KISSED THE BRIDE.”
+JOAN CRAWFORD. MELVYN DOUG
+LAS
+PARISH HALL, McLean, Va.
+Old Dominion Drive A Fairfax Rd.
+Shows Every Mon., Tues.. Fri. and Sat.
+7,.and 9 P M Tomorrow and Tues.,
+••MAYOR OF 44th STREET.” GEO
+MURJPHY. ANNE SHIRLEY. WILLIAM
+GARGAN and Freddie Martins Or
+chestra.
+THE VILLAGE fcj ft*
+Scientifically Air-Conditioned
+Phone Mich. 9337.
+“THIS ABOVE ALL,”
+TYRONE POWER. JOAN FONTAINE
+NEWTON 12V,nNEewton
+Scientifically Air-Conditioned
+Phone Mich. 1839.
+“TARZAN’S NEW YORK
+ADVENTURE,”
+J. WEISSMULLER and
+_ M O'SULLIVAN._
+JESSE THEATER ST
+Scientifically Air-Conditioned
+Phone DUd. 9861.
+Double Feature.
+“MY GAL SAL,”
+RITA HAYWORTH and
+VICTOR MATURE
+‘ESCAPE FROM CRIME,’
+RICHARD TRAVIS. ANN COCKRA N
+VT VHH lat St. and R. I. Are N.W.
+aiiiTHn Phone NOrth 9689
+Scientifically Air-Conditioned
+Double Feature
+“THE MAGNIFICENT
+DOPE,”
+HENRY FONDA. DON AMECHE.
+“BUTCH MINDS THE
+BABY”.
+BROD CRAWFORD arid
+VIRGINIA__ BRUCE_
+VERNON 37A0yI MAt.exv,v,on
+One Block from Presidential Garden*
+Phone Alex. 24‘il.
+Free Parking: in Rear of Theater.
+“BROADWAY,”
+GEORGE RAFT PAT OBRIEN.
+■Hi ll Mt. Vernon Are.
+PALPI Alex.. Va. Alex. 0^67_
+“TARZAN’S NEW YORK
+ADVENTURE,”
+J- m^osullivan and_
+ACADEMY
+Healthfully Air-Conditioned.
+Double Feature
+“THE GOLD RUSH,
+CHARLIE CHAPLIN.
+“MY FAVORITE SPY,”
+KAY KYSER. ELLEN_ DREW_
+STANTON 8I8» 83t7N E
+Scientifically Air-Conditioned.
+Double Feature.
+“HOME IN WYOMIN
+GENE AUTRY. SMILEY BURNETTE
+"SABOTEUR,”
+ROBERT CUMMINGS and
+PRISCILLA LANE_
+ALEXANDRIA, VA.
+REED p^n?
+Air-Conditioned.
+MONTY WOOLLY. RODDY McDOWELL.
+ANN BAXTER in "PIED PIPER."
+RICHMOND wSSHUr&T
+_ Air-Cooled.
+eARLSON
+i
+Salute to Our Heroes
+Month!
+Be a "Yankee Doodle Dandy”—
+Buy WAR BONDS in Any Warner
+Bros. Theater and Honor Every
+Mother's Son in Service!
+All Time Schedules Given In Warner
+Bros.’ Ads indicate Time Feature
+Is Presented.
+THEATER8 HAVING MATINEES
+AMBASSADOR
+Matinee 2 P.M.
+JAMES CAGNEY in "YANKEE
+DOODLE DANDY." with JOAN
+LESLIE WALTER HUSTON. At
+2.10, 4:40. no. 9 (6. Prices for
+This Picture Only—All Scats §1.10
+Incl. Tax: Men and Women in U S.
+'Armed Forces and Children. 40a
+Inci Tax,
+APM TO B St. N.E.
+ATUliLU n, 5300. Mat. 2 P.M
+JOHNNY WEISSMULLER. MAUREEN
+O'SULLIVAN in "TARZANS NEW
+YORK ADVENTURE." At 2:35.
+4:25. 0:10, 8, 8:45_
+AVAIMI 8813 Conn. Ave. N.W.
+HTIUdin wo 2600. Mat. 2 P.M.
+BARBARA STANWYCK. GEOROE
+BRENT GERALDINE FITZGERALD
+In "THE GAY SISTERS At 2:30.
+4:55. 7:15, 9:35. "Unusual Occupa
+tions."
+»VP HR Alin <5*0 Pa. Ave. S.t.
+HTKb UlUUlUu.2400Mat.2PM.
+JOHN CARROLL. RUTH HUSSEY in
+"PIERRE OF PLAINS." At 2 30.
+4:20, 6:10, 8. 9:50._
+RPVPRV V loth A E N.E.
+DEiTIilUal u. 3300. Mat. 2 PM.
+Parkins Space Available to Patrons.
+TYRONE POWER. JOAN FONTAINE
+in "THIS ABOVE ALL” At 2:30.
+4:55. 7:15. 9:40. Cartoon._
+rAl VPRT 3324 Wia. Ave. N.W.
+•AliTUIl WO. 2345. Mat. 2 P.M.
+Parkins Space Available to Patrons.
+TYRONE POWER JOAN FONTAINE
+in "THIS ABOVE ALL.” At 2:30,
+4:55. 7:15, 9:40.
+rrWTRAI 425 Oth St. N.W
+IrUIIDHL ME. 2841. Mat. 2 P M,
+RICHARD TRAVIS. JULIE BISHOP
+in "BUSSES ROAR," At 2:25. 6:25.
+8:25. ROSALIND RUSSELL. FRED
+MacMURRAY in “TAKE A LETTER
+DARLING." At 3:25, 6:25. 9:25.
+m AMY 4938 G»- Ave. N.W.
+i GE. Mat. 2 PM.
+ROSALIND RUSSELL. FRED Mac
+MURRAY in "TAKE A LETTER
+DARLING.” At 2. 3:50. 5:45, 7:40.
+m crvmvr Pnrfnoo
+HAMF 1230 c st. m.
+aunt, TB. siss. Mat. 2 P.M.
+RITA HAYWORTH. VICTOR MA
+TURE in "MY GAL SAL." At 2:20,
+5.30. 9:20. VICTOR McLAGLEN.
+EDMUND OBRIEN in POWDER
+TOWN." At 4:10. 7:40.
+irnramv Kennedy, Nr. 4tb N.W.
+nuifluii ra. eooo. Mat. 2 p.m.
+Parkin* Snare Available to Patrons.
+"WINGS FOR THE EAGLE." with
+ANN SHERIDAN. DENNIS MORGAN.
+At 3. 3:55. 5:55, 7:50, 9:45,
+Drill! Pa. Ave. at 7th S.E.
+■*»an FR. 5200 MatP2 P.M.
+Parkin* Space Available to Patrons.
+TYRONE POWER. JOAN FONTAINE
+in "THIS ABOVE ALL." at 2.30,
+4:55. 7:15. 9:40
+CAVflV 3030 14th St. N.W.
+OftTUI CO. 4908. Mat. 2 P.M.
+MARGIE HART in "LURE OF THB
+ISLANDS At 2. 3:35. 5:15, 8:50,
+8:30, 9:55.
+Crpfl 8244 Ga. Ave., Silver Serin*.
+AfclvU sh. 2540. Parkin* Spaoo.
+Matinee 2 P M
+JOHN WAYNE, BINNIE BARNES in
+"IN OLD CALIFORNIA” At 2.
+4:30. 7:10. 9:55. LEO CARRILLO.
+ANDY DEVINE in “DANGER IN THB
+PACIFIC." At 3:35. 8:05, 8:50.
+CRmTHAN Ga. at*. A Sheridan.
+MUUIIAn RA. 2400. Mat. 2 P.M.
+BARBARA STANWYCK. GEORGE
+BRENT. GERALDINE FITZGERALD
+in THE GAY SISTERS." At 2:30,
+4:50. 7:15, 9:35._
+CIV ITS Ga. Are. A Colesville Pike.
+OllsTbn SH. 5500 Mat. 2 P.M.
+Parkin* Space Available to Patrons,
+BARBARA STANWYCK. GEORGE
+BRENT GERALDINE FITZGERALD
+in "THE GAY SISTERS.” At 2:30,
+4:50. 7:10, 0 35. Cartoon.__
+TAdflMA 4th it Butternut Sts.
+ttlVUnH GE.4312. Perkin*Space.
+Matinee 2 PM.
+BARBARA STANWYCK JOEL Mc
+CREA in "GREAT MAN'S LADY"
+At 2, 3:55. 5:50. 7:45. 9:45. "In.
+formation. Please."
+TVVM I 14th A Park Rd. N.W.
+IlTUlsl COl. 1800. Mat. 2 P.M.
+TYRONE POWER. JOAN FONTAINE
+in "THIS ABOVE ALL At 2:30.
+4:55. 7:15. 9:40 Cartoon
+nnrnuri! Conn. Are. A Newark,
+uriurrn wo. 5400. Mat. 2 p.m.
+Parkin* Spare Available to Patron*.
+TYRONE POWER JOAN FONTAINE
+in "THIS ABOVE ALL.” At 2:30,
+4:55. 7:15. 9:40. Cartoon._
+VimV Ga. Ave. A Quebec PI. N-W.
+X lilt A RA. 4400. Mat. 2 P.M
+GEORGE MONTGOMERY. MAUREEN
+O'HARA in "TEN GENTLEMEN
+FROM WEST POINT At 2. 3 45.
+5:40, 7:35, 9:30. Cartoon._
+H1SERBETHESDA Bethesda. Md*'
+WIs 4818. BRad. 0105 Air-Conditioned.
+At 2 00. 4:00. fi:00 8:00. 0:50 PM.
+TYRONE POWER,
+JOAN FONTAINE,
+“THIS ABOVE ALL.”
+_Extra—Disney_Cartoon.____
+—SIDNEY LUST THEATERS—,
+BITlirCnd 7719 Wisconsin Are.
+OXiIflEiijUii Bethesda. Md.
+WI ‘1868 #r BRad. 9B3B.
+Air-Conditioned. Free Parkin*
+Today-Tomor.-Tues Double Feature.
+BARBARA STANWYCK
+and JOEL McCREA in
+“GREAT MAN’S LADY.”
+VIRGINIA BRUCE, DICK
+FORAN in “BUTCH
+MINDS yiE BABY.”_
+HIPPODROME
+Today-Tomorrow. Continuous 2-11.
+Double Feature
+ANN SHERIDAN and
+RONALD REAGAN in
+“JUKE GIRL.”
+The FIGHTING ANZACS in
+(un non TTAnnm rnuT
+"IU,UUU llWilOUiUlji’l
+PHMrn **t. Rainier. Md. WA. BI46
+vrll'iLU Air-Conditioned.
+Cont. 2-11. Last Complete Show R.45.
+Today-Tomor.-Tues Double Feature.
+BARBARA STANWYCK
+and JOEL McCREA in
+"GREAT MAN’S LADY.”
+RICARDO CORTEZ and ROCHELU6
+HUDSON in
+‘RUBBER RACKETEERS.’
+HYATTS VILLE *Hy a t!2Ifll j
+Union 1330 or Hyatts, 0503.
+Air-Conditioned—Free Parkin*.
+Today-Tomor.-Tues 3 Big Days.
+TYRONE POWER and
+JOAN FONTAINE in
+"THIS ABOVE ALL.”
+_At 2:30. 4 45. 7:10. 9:35.
+MTI n Rockville, Md. Rock IBt
+Free Parkin*—Air-Conditioned
+Today-Tomor.-Tues.-Wed,
+PAULETTE GODDARD
+and RAY MILLAND in
+‘REAP THE WILD WIND.’
+At 2. 4:20 0:40. p. Admissions—
+Adults. 63c; Children and Balcony
+same _as_u*ual._
+MARLBORO Ui
+Free Parkin*—Air-Conditioned
+Today and Tomorrow. 2 Days Only
+GEORGE MONTGOMERY. MAUREEN
+O'HARA In “TEN GENTLEMEN
+FROM VEST POINT.,r At 2 35.
+4 45. 6:45. 9 0S.
+i

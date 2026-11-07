@@ -1,0 +1,66 @@
+title: Dr. Albert Einstein With Captain Geoffrey E. Sage
+scopeAndContentNote: Original Caption: DATE 24 July 1943  SUBJECT: Dr. Albert Einstein, who is doing research for the Bureau of Ordnance, in his study at Princeton, N.J.  Capt. Geoffrey E. Sage, USN, Commanding Officer, NTS, Princeton, and Lieut. Comdr. Frederick L. Douthit, USNR, Executive Officer, at left.
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-0561
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Still Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3621
+physicalOccurrences[0].referenceUnits[0].email: stillpix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Photographic Materials
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Photographic Print
+physicalOccurrences[0].copyStatus: Preservation-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Still Pictures
+dataControlGroup.groupId: RRAM–S
+dataControlGroup.groupCd: RRAM–S
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+localIdentifier: 80-G-42919
+productionDates[0].month: 7
+productionDates[0].year: 1943
+productionDates[0].day: 24
+productionDates[0].logicalDate: 1943-07-24
+digitalObjects[0].objectFilename: 80-G-0042919_001.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/stillpix/111-c/Batch0006/80-G-0042919_001.jpg
+digitalObjects[0].objectFileSize: 1234
+digitalObjects[0].objectId: 276538329
+digitalObjects[0].objectType: Image (JPG)
+digitalObjects[1].objectFilename: 80-G-0042919_002.jpg
+digitalObjects[1].objectUrl: https://catalog.archives.gov/medialz/stillpix/111-c/Batch0006/80-G-0042919_002.jpg
+digitalObjects[1].objectFileSize: 1234
+digitalObjects[1].objectId: 276538330
+digitalObjects[1].objectType: Image (JPG)
+ancestors[0].inclusiveStartDate.year: 1804
+ancestors[0].inclusiveStartDate.logicalDate: 1804-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 80
+ancestors[0].inclusiveEndDate.year: 1983
+ancestors[0].inclusiveEndDate.logicalDate: 1983-12-31
+ancestors[0].title: General Records of the Department of the Navy
+ancestors[0].naId: 409
+ancestors[1].inclusiveStartDate.year: 1943
+ancestors[1].inclusiveStartDate.logicalDate: 1943-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of Defense. Department of the Navy. Naval Photographic Center. (12/01/1959 - ca. 1998)
+ancestors[1].creators[0].abolishDate.year: 1998
+ancestors[1].creators[0].abolishDate.logicalDate: 1998-12-31
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 12
+ancestors[1].creators[0].establishDate.year: 1959
+ancestors[1].creators[0].establishDate.day: 1
+ancestors[1].creators[0].establishDate.logicalDate: 1959-12-01
+ancestors[1].creators[0].naId: 10466012
+ancestors[1].inclusiveEndDate.year: 1968
+ancestors[1].inclusiveEndDate.logicalDate: 1968-12-31
+ancestors[1].title: General Photographic Files
+ancestors[1].naId: 520587
+naId: 276538328

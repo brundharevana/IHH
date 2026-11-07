@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Room viewer (S1 spike) - illustrative reconstruction</title>
+<link rel="stylesheet" href="viewer.css">
+<script type="importmap">
+{"imports":{
+  "three":"https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.module.js",
+  "@photo-sphere-viewer/core":"https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core@5.15.1/index.module.js",
+  "@photo-sphere-viewer/markers-plugin":"https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/markers-plugin@5.15.1/index.module.js"
+}}
+</script>
+</head>
+<body>
+<a class="skip" href="#hs-h">Skip to the points of interest</a>
+<header>
+  <h1>Gymnasium-like room <span class="sub">(S1 spike)</span></h1>
+  <p class="badge"><strong>Illustrative reconstruction (spike).</strong> A generic stand-in room. It is not a picture of any real place.</p>
+  <div class="mode">
+    <label class="switch"><input type="checkbox" id="lite" aria-labelledby="lite-label"> <span id="lite-label">Lite mode: flat image and list, no 3D viewer</span></label>
+    <p id="mode-note" role="status"></p>
+  </div>
+</header>
+
+<main>
+  <section id="stage" aria-labelledby="stage-h">
+    <h2 id="stage-h" class="sr-only">360 degree view</h2>
+
+    <div id="view3d">
+      <div id="viewer-box">
+        <div id="viewer" role="group" aria-roledescription="360 degree panorama" aria-label="Interactive 360 degree view of the room" aria-describedby="viewer-help" tabindex="0"></div>
+      </div>
+      <p id="viewer-help" class="help">Focus the view, then use the arrow keys to turn, plus and minus to zoom, Home to reset. Or use the buttons below, or the list of points of interest.</p>
+      <div class="toolbar" role="toolbar" aria-label="View controls">
+        <button type="button" data-act="left" aria-label="Turn left"><span aria-hidden="true">&larr;</span></button>
+        <button type="button" data-act="right" aria-label="Turn right"><span aria-hidden="true">&rarr;</span></button>
+        <button type="button" data-act="up" aria-label="Look up"><span aria-hidden="true">&uarr;</span></button>
+        <button type="button" data-act="down" aria-label="Look down"><span aria-hidden="true">&darr;</span></button>
+        <button type="button" data-act="in" aria-label="Zoom in"><span aria-hidden="true">+</span></button>
+        <button type="button" data-act="out" aria-label="Zoom out"><span aria-hidden="true">&minus;</span></button>
+        <button type="button" data-act="reset">Reset view</button>
+      </div>
+      <p id="pos" class="pos" aria-hidden="true"></p>
+    </div>
+
+    <figure id="viewlite" hidden>
+      <img id="lite-img" src="pano/room-1024.webp" loading="lazy" decoding="async" width="1024" height="512" alt="Flat 2 to 1 preview of the whole room: a wooden floor, a raised balcony with a rail running round all four sides, tall windows, and chalkboards. Illustrative reconstruction (spike).">
+      <figcaption>Whole room flattened into one picture (1024 by 512). The list shows what is in it.</figcaption>
+    </figure>
+  </section>
+
+  <nav id="hotspots" aria-labelledby="hs-h">
+    <h2 id="hs-h">Points of interest</h2>
+    <p class="help" id="hs-help">Each button turns the view to the thing and opens its details.</p>
+    <ul id="hs-list" aria-describedby="hs-help"></ul>
+  </nav>
+</main>
+
+<p id="live" class="sr-only" role="status" aria-live="polite"></p>
+
+<details class="credits">
+  <summary>Credits and build checks</summary>
+  <div id="credits"></div>
+</details>
+
+<dialog id="dlg" aria-labelledby="dlg-title" aria-describedby="dlg-desc">
+  <div class="dlg-body">
+    <div class="dlg-head">
+      <div><p class="kicker" id="dlg-kicker"></p><h2 id="dlg-title"></h2></div>
+      <button type="button" id="dlg-close" autofocus>Close</button>
+    </div>
+    <p id="dlg-desc"></p>
+    <dl>
+      <dt>Where</dt><dd id="dlg-dir"></dd>
+      <dt>Evidence</dt><dd id="dlg-evidence"></dd>
+      <dt>Verified facts</dt><dd id="dlg-facts"></dd>
+      <dt>Artifact</dt><dd id="dlg-artifact"></dd>
+    </dl>
+  </div>
+</dialog>
+
+<script type="module" src="viewer.js"></script>
+</body>
+</html>

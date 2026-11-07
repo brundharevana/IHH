@@ -1,0 +1,272 @@
+_version_: 1733365973144043520
+access_restricted: false
+aka[0]: http://www.loc.gov/pictures/collection/stereo/item/2017645522/
+aka[1]: https://hdl.loc.gov/loc.pnp/cph.3a27377
+aka[2]: http://www.loc.gov/item/2017645522/
+aka[3]: http://www.loc.gov/pictures/item/2017645522/
+aka[4]: https://hdl.loc.gov/loc.pnp/stereo.1s05767
+aka[5]: http://www.loc.gov/resource/stereo.1s05767/
+aka[6]: http://www.loc.gov/resource/cph.3a27377/
+aka[7]: http://lccn.loc.gov/2017645522
+call_number: STEREO SUBJ FILE - Photography--Photographers [item] [P&P]
+contributor_names[0]: Underwood & Underwood.
+contributors[0].underwood & underwood: https://www.loc.gov/search/?fa=contributor:underwood+%26+underwood&fo=json
+created: 2018-04-17T03:26:57Z
+created_published[0]: New York : Underwood & Underwood, publishers, [1902]
+created_published_date: [1902]
+date: 1902-01-01
+dates[0].1902: https://www.loc.gov/search/?dates=1902/1902&fo=json
+description[0]: 1 photograph : print ; mount 9 x 18 cm (stereograph format) | Stereograph shows man photographing Yosemite Valley.
+digital_id[0]: stereo 1s05767 //hdl.loc.gov/loc.pnp/stereo.1s05767
+digital_id[1]: cph 3a27377 //hdl.loc.gov/loc.pnp/cph.3a27377
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-09-01T20:19:02.929Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/stereo/item/2017645522/#stereo
+extract_urls[1]: http://lccn.loc.gov/2017645522#catalog-split-02
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Photographic prints--1900-1910.
+format_headings[1]: Stereographs--1900-1910.
+genre[0]: Stereographs--1900-1910
+genre[1]: Photographic prints--1900-1910
+group[0]: stereo
+group[1]: catalog-split-02
+group[2]: catalog
+group[3]: stereograph-cards
+group[4]: main-catalog-split-02
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2017645522/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767_150px.jpg#h=77&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767r.jpg#h=330&w=640
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767v.jpg#h=528&w=1024
+index: 1
+item.call_number: STEREO SUBJ FILE - Photography--Photographers [item] [P&P]
+item.contributors[0]: Underwood & Underwood.
+item.control_number: 2017645522
+item.created: 2018-04-17T03:26:57Z
+item.created_published: New York : Underwood & Underwood, publishers, [1902]
+item.created_published_date: [1902]
+item.creators[0].link: //www.loc.gov/pictures/related/?fi=name&q=Underwood%20%26%20Underwood.&co=stereo
+item.creators[0].title: Underwood & Underwood.
+item.date: [1902]
+item.digital_id[0]: stereo 1s05767 //hdl.loc.gov/loc.pnp/stereo.1s05767
+item.digital_id[1]: cph 3a27377 //hdl.loc.gov/loc.pnp/cph.3a27377
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: //www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1900-1910.&co=stereo
+item.formats[0].title: Photographic prints--1900-1910.
+item.formats[1].link: //www.loc.gov/pictures/related/?fi=format&q=Stereographs--1900-1910.&co=stereo
+item.formats[1].title: Stereographs--1900-1910.
+item.genre[0]: Stereographs--1900-1910
+item.genre[1]: Photographic prints--1900-1910
+item.id: 2017645522
+item.language[0]: eng
+item.link: //www.loc.gov/pictures/item/2017645522/
+item.location[0]: New York (State)--New York
+item.location[1]: Yosemite Valley (Calif.)
+item.location[2]: Glacier Point (Calif.)
+item.marc: //www.loc.gov/pictures/item/2017645522/marc/
+item.medium[0]: 1 photograph : print ; mount 9 x 18 cm (stereograph format)
+item.medium_brief: 1 photograph :
+item.mediums[0]: 1 photograph : print ; mount 9 x 18 cm (stereograph format)
+item.modified: 2018-04-17T03:26:57Z
+item.notes[0]: H15666 U.S. Copyright Office.
+item.notes[1]: Title from item.
+item.notes[2]: Exhibited as a digital copy in: "Not an Ostrich: And Other Images from America's Library" at the Annenberg Space for Photography, 2018;  Photographers section.
+item.notes[3]: Annenberg batch 9
+item.other_control_numbers[0]: 19434468
+item.place[0].link: //www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--New%20York&co=stereo
+item.place[0].title: New York (State)--New York
+item.place[1].link: //www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+item.place[1].title: California--Yosemite Valley
+item.place[2].link: //www.loc.gov/pictures/related/?fi=place&q=California--Glacier%20Point%20&co=stereo
+item.place[2].title: California--Glacier Point
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-stereo-1s05767 (digital file from original)
+LC-USZ62-26579 (b&w film copy neg. of half stereo)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/stereo.1s05767
+item.resource_links[1]: //hdl.loc.gov/loc.pnp/cph.3a27377
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767r.jpg
+item.sort_date: 1902
+item.source_created: 2017-01-09T00:00:00Z
+item.source_modified: 2018-04-16T19:53:40Z
+item.subject_headings[0]: Photographers--New York (State)--New York--1900-1910.
+item.subject_headings[1]: Yosemite Valley (Calif.)--1900-1910.
+item.subject_headings[2]: Glacier Point (Calif.)--1900-1910.
+item.subject_headings[3]: New York (State)--New York
+item.subject_headings[4]: California--Yosemite Valley
+item.subjects[0]: Photographers--New York (State)--New York--1900-1910
+item.subjects[1]: Yosemite Valley (Calif.)--1900-1910
+item.subjects[2]: Glacier Point (Calif.)--1900-1910
+item.summary: Stereograph shows man photographing Yosemite Valley.
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767_150px.jpg
+item.title: On the overhanging rocks, Glacier Point, 3,300 ft. above valley - showing Yosemite Falls - photographing the wonderful Yosemite, Cal.
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2017645522
+link: //www.loc.gov/pictures/item/2017645522/
+location[0]: new york
+location[1]: yosemite valley
+location[2]: california
+location[3]: glacier point
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].glacier point: https://www.loc.gov/search/?fa=location:glacier+point&fo=json
+locations[2].new york: https://www.loc.gov/search/?fa=location:new+york&fo=json
+locations[3].yosemite valley: https://www.loc.gov/search/?fa=location:yosemite+valley&fo=json
+marc: //www.loc.gov/pictures/item/2017645522/marc/
+medium[0]: 1 photograph : print ; mount 9 x 18 cm (stereograph format)
+medium_brief: 1 photograph :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2018-04-17T03:26:57Z
+notes[0]: H15666 U.S. Copyright Office.
+notes[1]: Title from item.
+notes[2]: Exhibited as a digital copy in: "Not an Ostrich: And Other Images from America's Library" at the Annenberg Space for Photography, 2018;  Photographers section.
+notes[3]: Annenberg batch 9
+number[0]: 2017645522
+number[1]: sheet
+number[2]: 2018-04-16t19:53:40
+number_carrier_type[0]: sheet
+number_lccn[0]: 2017645522
+number_source_modified[0]: 2018-04-16t19:53:40
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 19434468
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2017645522/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2017645522/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2017645522/dc
+partof[0].count: 55799
+partof[0].title: stereograph cards
+partof[0].url: https://www.loc.gov/collections/stereograph-cards/?fo=json
+partof[1].count: 910712
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1162609
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1911021
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: //www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--New%20York&co=stereo
+place[0].title: New York (State)--New York
+place[1].link: //www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+place[1].title: California--Yosemite Valley
+place[2].link: //www.loc.gov/pictures/related/?fi=place&q=California--Glacier%20Point%20&co=stereo
+place[2].title: California--Glacier Point
+related.neighbors: //www.loc.gov/pictures/related/?&co=stereo&pk=2017645522&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-stereo-1s05767 (digital file from original)
+LC-USZ62-26579 (b&w film copy neg. of half stereo)
+resource_links[0]: //hdl.loc.gov/loc.pnp/stereo.1s05767
+resource_links[1]: //hdl.loc.gov/loc.pnp/cph.3a27377
+resources[0].caption: digital file from original
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767_150px.jpg
+resources[0].url: https://www.loc.gov/resource/stereo.1s05767/
+resources[1].caption: digital file from b&w film copy neg. of half stereo
+resources[1].files: 1
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a27000/3a27300/3a27377_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3a27377/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Stereographs - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.461555
+shard: 00
+shelf_id: STEREO SUBJ FILE - Photography--Photographers [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1902
+source_created: 2017-01-09T00:00:00Z
+source_modified: 2018-04-16T19:53:40Z
+subject[0]: new york
+subject[1]: photographers
+subject[2]: yosemite valley (calif.)
+subject[3]: stereographs
+subject[4]: new york (state)
+subject[5]: photographic prints
+subject[6]: glacier point (calif.)
+subject_headings[0]: Photographers--New York (State)--New York--1900-1910
+subject_headings[1]: Yosemite Valley (Calif.)--1900-1910
+subject_headings[2]: Glacier Point (Calif.)--1900-1910
+subjects[0].glacier point (calif.): https://www.loc.gov/search/?fa=subject:glacier+point+%28calif.%29&fo=json
+subjects[1].new york: https://www.loc.gov/search/?fa=subject:new+york&fo=json
+subjects[2].new york (state): https://www.loc.gov/search/?fa=subject:new+york+%28state%29&fo=json
+subjects[3].photographers: https://www.loc.gov/search/?fa=subject:photographers&fo=json
+subjects[4].photographic prints: https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json
+subjects[5].stereographs: https://www.loc.gov/search/?fa=subject:stereographs&fo=json
+subjects[6].yosemite valley (calif.): https://www.loc.gov/search/?fa=subject:yosemite+valley+%28calif.%29&fo=json
+summary: Stereograph shows man photographing Yosemite Valley.
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767_150px.jpg
+timestamp: 2022-05-20T17:10:09.305Z
+title: On the overhanging rocks, Glacier Point, 3,300 ft. above valley - showing Yosemite Falls - photographing the wonderful Yosemite, Cal.
+unrestricted: true
+url: https://www.loc.gov/item/2017645522/
+resources[0].caption: digital file from original
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 53238626
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/stereo/1s00000/1s05000/1s05700/1s05767u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 77
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 76976
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 330
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].size: 111894
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767r.jpg
+resources[0].files[0][2].width: 640
+resources[0].files[0][3].height: 528
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 362605
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767v.jpg
+resources[0].files[0][3].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s05000/1s05700/1s05767_150px.jpg
+resources[0].url: https://www.loc.gov/resource/stereo.1s05767/
+resources[1].caption: digital file from b&w film copy neg. of half stereo
+resources[1].files[0][0].height: 0
+resources[1].files[0][0].levels: 1
+resources[1].files[0][0].mimetype: image/tiff
+resources[1].files[0][0].size: 2174818
+resources[1].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3a20000/3a27000/3a27300/3a27377u.tif
+resources[1].files[0][0].width: 0
+resources[1].files[0][1].height: 150
+resources[1].files[0][1].levels: 1
+resources[1].files[0][1].mimetype: image/jpeg
+resources[1].files[0][1].size: 5063
+resources[1].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a27000/3a27300/3a27377_150px.jpg
+resources[1].files[0][1].width: 138
+resources[1].files[0][2].height: 150
+resources[1].files[0][2].levels: 1
+resources[1].files[0][2].mimetype: image/gif
+resources[1].files[0][2].size: 22375
+resources[1].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a27000/3a27300/3a27377t.gif
+resources[1].files[0][2].width: 138
+resources[1].files[0][3].height: 640
+resources[1].files[0][3].levels: 1
+resources[1].files[0][3].mimetype: image/jpeg
+resources[1].files[0][3].size: 77714
+resources[1].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a27000/3a27300/3a27377r.jpg
+resources[1].files[0][3].width: 589
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a27000/3a27300/3a27377_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3a27377/
+cite_this.apa: Underwood & Underwood. (1902) On the overhanging rocks, Glacier Point, 3,300 ft. above valley - showing Yosemite Falls - photographing the wonderful Yosemite, Cal. New York Yosemite Valley California Glacier Point, 1902. [New York: Underwood & Underwood, publishers] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017645522/.
+cite_this.chicago: Underwood & Underwood. On the overhanging rocks, Glacier Point, 3,300 ft. above valley - showing Yosemite Falls - photographing the wonderful Yosemite, Cal. New York Yosemite Valley California Glacier Point, 1902. [New York: Underwood & Underwood, publishers] Photograph. https://www.loc.gov/item/2017645522/.
+cite_this.mla: Underwood & Underwood. On the overhanging rocks, Glacier Point, 3,300 ft. above valley - showing Yosemite Falls - photographing the wonderful Yosemite, Cal. [New York: Underwood & Underwood, publishers] Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2017645522/>.

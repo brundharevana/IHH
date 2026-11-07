@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.hathitrust.org/api/volumes/brief/htid/uc1.31822005489497.json",
+  "fetch_url": "https://catalog.hathitrust.org/api/volumes/brief/htid/uc1.31822005489497.json",
+  "method": "api",
+  "fetched_at": "2026-10-27T13:02:26Z",
+  "sha256": "9ac85ef8a43841018b95935f7e63a0ea0133dd1899f643226dd17fe27569444e",
+  "bytes": 187167,
+  "http_status": 200,
+  "final_url": "https://catalog.hathitrust.org/api/volumes/brief/htid/uc1.31822005489497.json"
+}

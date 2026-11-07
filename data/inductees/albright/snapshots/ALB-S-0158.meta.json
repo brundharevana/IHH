@@ -1,0 +1,10 @@
+{
+  "url": "https://www.govinfo.gov/content/pkg/DCPD-201200430/html/DCPD-201200430.htm",
+  "fetch_url": "https://www.govinfo.gov/content/pkg/DCPD-201200430/html/DCPD-201200430.htm",
+  "method": "http",
+  "fetched_at": "2026-10-30T19:00:38Z",
+  "sha256": "a8f26991863d894fbe1a63a23d7380be855d05a940077b71fbfd9b0370f694d0",
+  "bytes": 16328,
+  "http_status": 200,
+  "final_url": "https://www.govinfo.gov/content/pkg/DCPD-201200430/html/DCPD-201200430.htm"
+}

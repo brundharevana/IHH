@@ -1,0 +1,10 @@
+{
+  "url": "https://obamawhitehouse.archives.gov/blog/2011/09/23/celebrating-citizenship-day-and-outstanding-american-choice-initiative",
+  "fetch_url": "https://obamawhitehouse.archives.gov/blog/2011/09/23/celebrating-citizenship-day-and-outstanding-american-choice-initiative",
+  "method": "http",
+  "fetched_at": "2026-10-09T20:19:31Z",
+  "sha256": "5dec1266dea2364269687bad2b8c9cd9d669067e97231dac40246905a0e9fecd",
+  "bytes": 7284,
+  "http_status": 200,
+  "final_url": "https://obamawhitehouse.archives.gov/blog/2011/09/23/celebrating-citizenship-day-and-outstanding-american-choice-initiative"
+}

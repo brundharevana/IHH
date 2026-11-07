@@ -1,0 +1,10 @@
+{
+  "url": "https://lemelson.mit.edu/resources/hedy-lamarr",
+  "fetch_url": "https://lemelson.mit.edu/resources/hedy-lamarr",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:50:43Z",
+  "sha256": "8abcdf9af65c5ff5d683deb5ea3ed8dcf16026f80ffbf89cc6c7f9fef9681b78",
+  "bytes": 4361,
+  "http_status": 200,
+  "final_url": "https://lemelson.mit.edu/resources/hedy-lamarr"
+}

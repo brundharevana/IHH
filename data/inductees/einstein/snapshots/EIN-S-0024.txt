@@ -1,0 +1,191 @@
+_version_: 1731673855473221632
+access_restricted: true
+aka[0]: https://www.loc.gov/pictures/item/2004672479/
+aka[1]: http://www.loc.gov/item/2004672479/
+aka[2]: http://www.loc.gov/pictures/item/2004672479/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/2004672479/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/2004672479/
+aka[5]: http://www.loc.gov/resource/ppmsca.05640/
+aka[6]: http://www.loc.gov/resource/cph.3a09208/
+aka[7]: https://hdl.loc.gov/loc.pnp/cph.3a09208
+aka[8]: http://lccn.loc.gov/2004672479
+aka[9]: https://hdl.loc.gov/loc.pnp/ppmsca.05640
+call_number: LOT 3561, no. 48 [P&P]
+contributor_names[0]: Kastor, Robert, artist
+contributors[0].kastor, robert: https://www.loc.gov/search/?fa=contributor:kastor,+robert&fo=json
+created: 2016-04-20T23:52:08Z
+created_published[0]: 1922 Janvier 21.
+created_published_date: 1922 Janvier 21.
+date: 1922-01-01
+dates[0].1922: https://www.loc.gov/search/?dates=1922/1922&fo=json
+description[0]: 1 drawing : ink.
+digital_id[0]: ppmsca 05640 //hdl.loc.gov/loc.pnp/ppmsca.05640
+digital_id[1]: cph 3a09208 //hdl.loc.gov/loc.pnp/cph.3a09208
+digitized: true
+display_offsite: false
+extract_timestamp: 2021-08-26T01:49:57.769Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/2004672479/#cph
+extract_urls[1]: http://lccn.loc.gov/2004672479#catalog-split-09
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Autographs--1920-1930.
+format_headings[1]: Ink drawings--1920-1930.
+format_headings[2]: Portrait drawings--1920-1930.
+genre[0]: Autographs--1920-1930
+genre[1]: Portrait drawings--1920-1930
+genre[2]: Ink drawings--1920-1930
+group[0]: cph
+group[1]: catalog-split-09
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-09
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2004672479/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/05600/05640_150px.jpg#h=150&w=123
+index: 1
+item.call_number: LOT 3561, no. 48 [P&P]
+item.contributors[0]: Kastor, Robert, artist.
+item.control_number: 2004672479
+item.created: 2016-04-20T23:52:08Z
+item.created_published: 1922 Janvier 21.
+item.created_published_date: 1922 Janvier 21.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Kastor%2C%20Robert&co=cph
+item.creators[0].role: artist
+item.creators[0].title: Kastor, Robert
+item.date: 1922 Janvier 21.
+item.digital_id[0]: ppmsca 05640 //hdl.loc.gov/loc.pnp/ppmsca.05640
+item.digital_id[1]: cph 3a09208 //hdl.loc.gov/loc.pnp/cph.3a09208
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Autographs--1920-1930.&co=cph
+item.formats[0].title: Autographs--1920-1930.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Ink%20drawings--1920-1930.&co=cph
+item.formats[1].title: Ink drawings--1920-1930.
+item.formats[2].link: https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20drawings--1920-1930.&co=cph
+item.formats[2].title: Portrait drawings--1920-1930.
+item.genre[0]: Autographs--1920-1930
+item.genre[1]: Portrait drawings--1920-1930
+item.genre[2]: Ink drawings--1920-1930
+item.id: 2004672479
+item.language[0]: ger
+item.link: https://www.loc.gov/pictures/item/2004672479/
+item.marc: https://www.loc.gov/pictures/item/2004672479/marc/
+item.medium[0]: 1 drawing : ink.
+item.medium_brief: 1 drawing :
+item.mediums[0]: 1 drawing : ink.
+item.modified: 2016-04-20T23:52:09Z
+item.notes[0]: Title devised by Library staff.
+item.notes[1]: Includes holograph inscription and signature of sitter: Die Natur ist von einer so wunderbaren inneren Harmonie, dass man zuweilen uns scheinbar ganz fernliegenden Thatsachen auf noch nicht beobachtete Erscheinungen schliessen kann mit einem solchen Gefühl von Sicherheit, dass man ohne Herzklopfen, ja sogar ohne Neugier den Vergleich mit der Erfahrung erwartet.
+item.notes[2]: Exhibited: "From Haven to Home : A Library of Congress Exhibition Marking 350 Years of Jewish Life in America" at the Library of Congress, 2004.
+item.other_control_numbers[0]: 13614167
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-DIG-ppmsca-05640 (digital file from original drawing)
+LC-USZ62-5910 (b&w film copy neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/ppmsca.05640
+item.resource_links[1]: //hdl.loc.gov/loc.pnp/cph.3a09208
+item.rights_advisory: Rights status not evaluated. For general information see "Copyright and Other Restrictions...," https://www.loc.gov/rr/print/195_copr.html
+item.rights_information: Rights status not evaluated. For general information see "Copyright and Other Restrictions...," https://www.loc.gov/rr/print/195_copr.html
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/ppmsca/05600/05640_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/ppmsca/05600/05640r.jpg
+item.sort_date: 1922
+item.source_created: 2004-06-04T00:00:00Z
+item.source_modified: 2005-06-23T11:31:58Z
+item.stmt_of_responsibility: R. Kastor.
+item.subject_headings[0]: Einstein, Albert,--1879-1955.
+item.subjects[0]: Einstein, Albert,--1879-1955
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/05600/05640_150px.jpg
+item.title: [Albert Einstein, head-and-shoulders portrait, facing front]
+language[0]: german
+language[1]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+languages[1].german: https://www.loc.gov/search/?fa=language:german&fo=json
+library_of_congress_control_number: 2004672479
+link: https://www.loc.gov/pictures/item/2004672479/
+marc: https://www.loc.gov/pictures/item/2004672479/marc/
+medium[0]: 1 drawing : ink.
+medium_brief: 1 drawing :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-20T23:52:09Z
+notes[0]: Title devised by Library staff.
+notes[1]: Includes holograph inscription and signature of sitter: Die Natur ist von einer so wunderbaren inneren Harmonie, dass man zuweilen uns scheinbar ganz fernliegenden Thatsachen auf noch nicht beobachtete Erscheinungen schliessen kann mit einem solchen Gefühl von Sicherheit, dass man ohne Herzklopfen, ja sogar ohne Neugier den Vergleich mit der Erfahrung erwartet.
+notes[2]: Exhibited: "From Haven to Home : A Library of Congress Exhibition Marking 350 Years of Jewish Life in America" at the Library of Congress, 2004.
+number[0]: 2004672479
+number[1]: http://www.loc.gov/item/13614167
+number[2]: 2005-06-23t11:31:58
+number_former_id[0]: http://www.loc.gov/item/13614167
+number_lccn[0]: 2004672479
+number_source_modified[0]: 2005-06-23t11:31:58
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 13614167
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2004672479/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2004672479/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2004672479/dc
+partof[0].count: 49
+partof[0].title: lot 3561
+partof[0].url: https://www.loc.gov/search/?fa=partof:lot+3561&fo=json
+partof[1].count: 110701
+partof[1].title: miscellaneous items in high demand
+partof[1].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[2].count: 911026
+partof[2].title: prints & photographs online catalog (library of congress)
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[3].count: 1161937
+partof[3].title: prints and photographs division
+partof[3].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[4].count: 1909372
+partof[4].title: catalog
+partof[4].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.group_record: https://www.loc.gov/pictures/search/?q=LOT 3561&fi=number&op=PHRASE&va=exact&co=coll&sg=true
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=2004672479&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-DIG-ppmsca-05640 (digital file from original drawing)
+LC-USZ62-5910 (b&w film copy neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/ppmsca.05640
+resource_links[1]: //hdl.loc.gov/loc.pnp/cph.3a09208
+resources[0].caption: digital file from original drawing
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/05600/05640_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.05640/
+resources[1].caption: digital file from b&w film copy neg.
+resources[1].files: 1
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a09000/3a09200/3a09208_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3a09208/
+rights_advisory: Rights status not evaluated. For general information see "Copyright and Other Restrictions...," https://www.loc.gov/rr/print/195_copr.html
+rights_information: Rights status not evaluated. For general information see "Copyright and Other Restrictions...," https://www.loc.gov/rr/print/195_copr.html
+score: 19.460701
+shard: 00
+shelf_id: LOT 3561, no. 48 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1922
+source_created: 2004-06-04T00:00:00Z
+source_modified: 2005-06-23T11:31:58Z
+stmt_of_responsibility: R. Kastor.
+subject[0]: portrait drawings
+subject[1]: ink drawings
+subject[2]: einstein, albert
+subject[3]: autographs
+subject_headings[0]: Einstein, Albert,--1879-1955
+subjects[0].autographs: https://www.loc.gov/search/?fa=subject:autographs&fo=json
+subjects[1].einstein, albert: https://www.loc.gov/search/?fa=subject:einstein,+albert&fo=json
+subjects[2].ink drawings: https://www.loc.gov/search/?fa=subject:ink+drawings&fo=json
+subjects[3].portrait drawings: https://www.loc.gov/search/?fa=subject:portrait+drawings&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/05600/05640_150px.jpg
+timestamp: 2022-05-02T00:54:39.951Z
+title: [Albert Einstein, head-and-shoulders portrait, facing front] / R. Kastor.
+unrestricted: true
+url: https://www.loc.gov/item/2004672479/
+resources[0].caption: digital file from original drawing
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/05600/05640_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.05640/
+resources[1].caption: digital file from b&w film copy neg.
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a09000/3a09200/3a09208_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3a09208/
+cite_this.apa: Kastor, R. (1922) Albert Einstein, head-and-shoulders portrait, facing front / R. Kastor. , 1922. Janvier 21. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2004672479/.
+cite_this.chicago: Kastor, Robert, Artist. Albert Einstein, head-and-shoulders portrait, facing front / R. Kastor. , 1922. Janvier 21. Photograph. https://www.loc.gov/item/2004672479/.
+cite_this.mla: Kastor, Robert, Artist. Albert Einstein, head-and-shoulders portrait, facing front / R. Kastor. Janvier 21. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2004672479/>.

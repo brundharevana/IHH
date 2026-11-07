@@ -1,0 +1,10 @@
+{
+  "url": "https://www.jmw.at/en/news/letters_from_hollywood",
+  "fetch_url": "https://www.jmw.at/en/news/letters_from_hollywood",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:51:51Z",
+  "sha256": "37f843f5887f16a4cb1f104aa91a79005fe2c77e589245a0e776b3979e3b870a",
+  "bytes": 5136,
+  "http_status": 200,
+  "final_url": "https://www.jmw.at/en/news/letters_from_hollywood"
+}

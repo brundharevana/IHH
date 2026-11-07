@@ -1,0 +1,189 @@
+_version_: 1743710537002254336
+access_restricted: false
+aka[0]: http://www.loc.gov/item/2021667583/
+aka[1]: http://lccn.loc.gov/2021667583
+aka[2]: http://www.loc.gov/resource/wdl.2745/
+aka[3]: https://hdl.loc.gov/loc.wdl/wdl.2745
+aka[4]: http://www.loc.gov/resource/gdcwdl.wdl_02745/
+contributor_names[0]: District Court for the Trenton Division of the District of New Jersey, United States Creator.
+contributors[0].district court for the trenton division of the district of new jersey, united states: https://www.loc.gov/search/?fa=contributor:district+court+for+the+trenton+division+of+the+district+of+new+jersey,+united+states&fo=json
+created_published[0]: [place of publication not identified] : [publisher not identified], 1936-01-15.
+date: 1936-01-01
+dates[0].1936: https://www.loc.gov/search/?dates=1936/1936&fo=json
+description[0]: In 1936, German-born physicist Albert Einstein filed this Declaration of Intention to become an American citizen. Following the Nazi takeover of political power in Germany in 1933 and the onset of persecution of the German Jews, Einstein renounced his German citizenship and immigrated to the United States to take the position of Professor of Theoretical Physics at Princeton. On the basis of this declaration, the man who had first proposed the theory of relativity in 1905 became a U.S. citizen in 1940.
+digital_id[0]: https://hdl.loc.gov/loc.wdl/wdl.2745
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-07-24T02:49:01.218Z
+extract_urls[0]: http://lccn.loc.gov/2021667583#wdlpartner
+extract_urls[1]: http://lccn.loc.gov/2021667583#catalog-split-08
+format[0].book: https://www.loc.gov/search/?fa=original_format:book&fo=json
+group[0]: wdlpartner
+group[1]: catalog-split-08
+group[2]: catalog
+group[3]: world-digital-library-partners
+group[4]: main-catalog-split-08
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2021667583/
+iiif_manifest_url: https://www.loc.gov/item/2021667583/manifest.json
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:12.5/0/default.jpg
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:12.5/0/default.jpg#h=276&w=212
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:25/0/default.jpg#h=553&w=425
+image_url[3]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:50/0/default.jpg#h=1107&w=851
+image_url[4]: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:100/0/default.jpg#h=2215&w=1702
+index: 1
+item.contributors[0]: District Court for the Trenton Division of the District of New Jersey, United States Creator.
+item.created_published[0]: [place of publication not identified] : [publisher not identified], 1936-01-15.
+item.date: 1936
+item.digital_id[0]: https://hdl.loc.gov/loc.wdl/wdl.2745
+item.format[0]: text
+item.language[0]: eng
+item.medium[0]: 1 online resource.
+item.notes[0]: Title devised, in English, by Library staff.
+item.notes[1]: Original resource extent: 1 document (1 page).
+item.notes[2]: Original resource at: U.S. National Archives and Records Administration.
+item.notes[3]: Content in English.
+item.notes[4]: Description based on data extracted from World Digital Library, which may be extracted from partner institutions.
+item.subjects[0]: United States of America--New Jersey--Trenton
+item.subjects[1]: 1936
+item.subjects[2]: Citizenship
+item.subjects[3]: Einstein, Albert, 1879-1955
+item.subjects[4]: Emigration and immigration
+item.subjects[5]: Naturalization
+item.subjects[6]: Physicists
+item.subjects[7]: Scientists
+item.summary[0]: In 1936, German-born physicist Albert Einstein filed this Declaration of Intention to become an American citizen. Following the Nazi takeover of political power in Germany in 1933 and the onset of persecution of the German Jews, Einstein renounced his German citizenship and immigrated to the United States to take the position of Professor of Theoretical Physics at Princeton. On the basis of this declaration, the man who had first proposed the theory of relativity in 1905 became a U.S. citizen in 1940.
+item.title: Declaration of Intention for Albert Einstein.
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2021667583
+location[0]: trenton
+location[1]: united states of america
+location[2]: new jersey
+location_city[0]: trenton
+location_country[0]: united states of america
+location_state[0]: new jersey
+locations[0].new jersey: https://www.loc.gov/search/?fa=location:new+jersey&fo=json
+locations[1].trenton: https://www.loc.gov/search/?fa=location:trenton&fo=json
+locations[2].united states of america: https://www.loc.gov/search/?fa=location:united+states+of+america&fo=json
+locations_city[0].trenton: https://www.loc.gov/search/?fa=location_city:trenton&fo=json
+locations_country[0].united states of america: https://www.loc.gov/search/?fa=location_country:united+states+of+america&fo=json
+locations_state[0].new jersey: https://www.loc.gov/search/?fa=location_state:new+jersey&fo=json
+medium[0]: 1 online resource.
+mime_type[0]: application/zip
+mime_type[1]: image/jpeg
+mime_type[2]: image/jp2
+notes[0]: Title devised, in English, by Library staff.
+notes[1]: Original resource extent: 1 document (1 page).
+notes[2]: Original resource at: U.S. National Archives and Records Administration.
+notes[3]: Content in English.
+notes[4]: Description based on data extracted from World Digital Library, which may be extracted from partner institutions.
+number[0]: 2021667583
+number[1]: 2021-06-01t15:55:34
+number_lccn[0]: 2021667583
+number_source_modified[0]: 2021-06-01t15:55:34
+online_format[0]: compressed data
+online_format[1]: image
+original_format[0]: book
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2021667583/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2021667583/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2021667583/dc
+partof[0].count: 48
+partof[0].title: u.s. national archives and records administration
+partof[0].url: https://www.loc.gov/search/?fa=partof:u.s.+national+archives+and+records+administration&fo=json
+partof[1].count: 5089
+partof[1].title: world digital library - partner items
+partof[1].url: https://www.loc.gov/search/?fa=partof:world+digital+library+-+partner+items&fo=json
+partof[2].count: 20940
+partof[2].title: world digital library
+partof[2].url: https://www.loc.gov/collections/world-digital-library/?fo=json
+partof[3].count: 1909372
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:12.5/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/gdcwdl.wdl_02745/
+resources[0].zip: https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/74/5/wdl_02745/wdl_02745.zip
+rights[0]: The Library of Congress is unaware of any copyright or other restrictions in the World Digital Library Collection. Absent any such restrictions, these materials are free to use and reuse. Researchers are encouraged to review the source information attached to each item. For information on contacting WDL partner organizations, see this archived list of partners
+
+The Library asks that researchers approach the materials in this collection with respect for the culture and sensibilities of the people whose lives, ideas, and creativity are documented here.
+
+Credit Line: [Original Source citation], World Digital Library
+
+More about Copyright and other Restrictions
+
+For additional information and contact information for many of the partner organizations, see this archived capture of the World Digital Library site from 2021.
+
+For guidance about compiling full citations consult Citing Primary Sources.
+score: 17.031187
+shard: 01
+shelf_id: http://lccn.loc.gov/2021667583
+site[0]: catalog
+subject[0]: united states of america
+subject[1]: scientists
+subject[2]: emigration and immigration
+subject[3]: trenton
+subject[4]: physicists
+subject[5]: einstein, albert
+subject[6]: naturalization
+subject[7]: new jersey
+subject[8]: citizenship
+subject_headings[0]: United States of America--New Jersey--Trenton
+subject_headings[1]: 1936
+subject_headings[2]: Citizenship
+subject_headings[3]: Einstein, Albert, 1879-1955
+subject_headings[4]: Emigration and immigration
+subject_headings[5]: Naturalization
+subject_headings[6]: Physicists
+subject_headings[7]: Scientists
+subjects[0].citizenship: https://www.loc.gov/search/?fa=subject:citizenship&fo=json
+subjects[1].einstein, albert: https://www.loc.gov/search/?fa=subject:einstein,+albert&fo=json
+subjects[2].emigration and immigration: https://www.loc.gov/search/?fa=subject:emigration+and+immigration&fo=json
+subjects[3].naturalization: https://www.loc.gov/search/?fa=subject:naturalization&fo=json
+subjects[4].new jersey: https://www.loc.gov/search/?fa=subject:new+jersey&fo=json
+subjects[5].physicists: https://www.loc.gov/search/?fa=subject:physicists&fo=json
+subjects[6].scientists: https://www.loc.gov/search/?fa=subject:scientists&fo=json
+subjects[7].trenton: https://www.loc.gov/search/?fa=subject:trenton&fo=json
+subjects[8].united states of america: https://www.loc.gov/search/?fa=subject:united+states+of+america&fo=json
+summary[0]: In 1936, German-born physicist Albert Einstein filed this Declaration of Intention to become an American citizen. Following the Nazi takeover of political power in Germany in 1933 and the onset of persecution of the German Jews, Einstein renounced his German citizenship and immigrated to the United States to take the position of Professor of Theoretical Physics at Princeton. On the basis of this declaration, the man who had first proposed the theory of relativity in 1905 became a U.S. citizen in 1940.
+timestamp: 2022-09-11T21:32:34.335Z
+title: Declaration of Intention for Albert Einstein.
+type[0]: text
+url: https://www.loc.gov/item/2021667583/
+resources[0].files[0][0].height: 276
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/jpeg
+resources[0].files[0][0].url: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:12.5/0/default.jpg
+resources[0].files[0][0].width: 212
+resources[0].files[0][1].height: 553
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].url: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:25/0/default.jpg
+resources[0].files[0][1].width: 425
+resources[0].files[0][2].height: 1107
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].url: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:50/0/default.jpg
+resources[0].files[0][2].width: 851
+resources[0].files[0][3].height: 2215
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].url: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:100/0/default.jpg
+resources[0].files[0][3].width: 1702
+resources[0].files[0][4].height: 2215
+resources[0].files[0][4].info: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/info.json
+resources[0].files[0][4].levels: 7
+resources[0].files[0][4].mimetype: image/jp2
+resources[0].files[0][4].size: 559821
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/74/5/wdl_02745/07365_xxxx_001_pr.jp2
+resources[0].files[0][4].width: 1702
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:5:wdl_02745:07365_xxxx_001_pr/full/pct:12.5/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/gdcwdl.wdl_02745/
+resources[0].zip: https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/02/74/5/wdl_02745/wdl_02745.zip
+cite_this.apa: District Court For The Trenton Division Of The District Of New Jersey, U. S. C. (1936) Declaration of Intention for Albert Einstein. [Place of Publication Not Identified: Publisher Not Identified, -01-15] [Image] Retrieved from the Library of Congress, https://www.loc.gov/item/2021667583/.
+cite_this.chicago: District Court For The Trenton Division Of The District Of New Jersey, United States Creator. Declaration of Intention for Albert Einstein. [Place of Publication Not Identified: Publisher Not Identified, -01-15, 1936] Image. https://www.loc.gov/item/2021667583/.
+cite_this.mla: District Court For The Trenton Division Of The District Of New Jersey, United States Creator. Declaration of Intention for Albert Einstein. [Place of Publication Not Identified: Publisher Not Identified, -01-15, 1936] Image. Retrieved from the Library of Congress, <www.loc.gov/item/2021667583/>.

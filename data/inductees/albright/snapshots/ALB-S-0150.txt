@@ -1,0 +1,76 @@
+title: President Obama Hosts the 2012 Presidential Medal of Freedom Ceremony
+scopeAndContentNote: President Barack Obama presents the Presidential Medal of Freedom to Pat Summitt during a ceremony in the East Room of the White House, May 29, 2012. Other recipients are: Madeleine Albright, John Doar, Bob Dylan, William Foege, John Glenn, Gordon Hirabayashi (accepted by wife Susan Carnahan), Dolores Huerta, Jan Karski (accepted by Adam Daniel Rotfeld, former Polish foreign minister), Juliette Gordon Low (accepted by her great nephew Richard Platt), Toni Morrison, Shimon Peres (not present), and John Paul Stevens. Military Aide Major Samuel L. "Lee" Meyer assists.
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].city: Hoffman Estates
+physicalOccurrences[0].referenceUnits[0].phone: 847-252-5700
+physicalOccurrences[0].referenceUnits[0].address1: 2500 W. Golf Road
+physicalOccurrences[0].referenceUnits[0].postalCode: 60169
+physicalOccurrences[0].referenceUnits[0].name: Barack Obama Presidential Library
+physicalOccurrences[0].referenceUnits[0].state: IL
+physicalOccurrences[0].referenceUnits[0].fax: 847-252-5799
+physicalOccurrences[0].referenceUnits[0].email: obama.library@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Magnetic Media
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Magnetic Disk: Hard Drive
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: Barack Obama Presidential Library
+dataControlGroup.groupId: PL-BHO
+dataControlGroup.groupCd: PL-BHO
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+productionDates[0].month: 5
+productionDates[0].year: 2012
+productionDates[0].day: 29
+productionDates[0].logicalDate: 2012-05-29
+variantControlNumbers[0].note: This is the roll and frame number assigned by the White House Photo Office.
+variantControlNumbers[0].number: P052912LJ-0354
+variantControlNumbers[0].type: Agency-Assigned Identifier
+variantControlNumbers[1].number: 26-00005-P
+variantControlNumbers[1].type: FOIA Tracking Number
+contributors[0].heading: Jackson, Lawrence
+contributors[0].contributorType: Photographer
+contributors[0].authorityType: person
+contributors[0].naId: 118720060
+digitalObjects[0].objectFilename: M1X182_4D80_9.JPG
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/obama/81145631/Batch_0011/M1X182_4D80_9.JPG
+digitalObjects[0].objectFileSize: 89952
+digitalObjects[0].objectId: 674695913
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].collectionIdentifier: BHO-WHPO
+ancestors[0].inclusiveStartDate.month: 1
+ancestors[0].inclusiveStartDate.year: 2009
+ancestors[0].inclusiveStartDate.day: 20
+ancestors[0].inclusiveStartDate.logicalDate: 2009-01-20
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.month: 1
+ancestors[0].inclusiveEndDate.year: 2017
+ancestors[0].inclusiveEndDate.day: 20
+ancestors[0].inclusiveEndDate.logicalDate: 2017-01-20
+ancestors[0].title: Records of the White House Photo Office (Obama Administration)
+ancestors[0].naId: 63542089
+ancestors[1].inclusiveStartDate.month: 1
+ancestors[1].inclusiveStartDate.year: 2009
+ancestors[1].inclusiveStartDate.day: 20
+ancestors[1].inclusiveStartDate.logicalDate: 2009-01-20
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: President (2009-2017 : Obama). Office of Management and Administration. Office of White House Personnel. Photography Office. (ca. 2010 - 01/20/2017)
+ancestors[1].creators[0].abolishDate.month: 1
+ancestors[1].creators[0].abolishDate.year: 2017
+ancestors[1].creators[0].abolishDate.day: 20
+ancestors[1].creators[0].abolishDate.logicalDate: 2017-01-20
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 2010
+ancestors[1].creators[0].establishDate.logicalDate: 2010-01-01
+ancestors[1].creators[0].naId: 66391679
+ancestors[1].inclusiveEndDate.month: 1
+ancestors[1].inclusiveEndDate.year: 2017
+ancestors[1].inclusiveEndDate.day: 20
+ancestors[1].inclusiveEndDate.logicalDate: 2017-01-20
+ancestors[1].title: Presidential Photographs
+ancestors[1].naId: 81145631
+naId: 674695912

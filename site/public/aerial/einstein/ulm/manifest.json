@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "slug": "einstein",
+  "stop": "ulm",
+  "country": "DE",
+  "precision": "city",
+  "centre": {
+    "lat": 48.398611,
+    "lon": 9.991111
+  },
+  "coord_source": "https://www.wikidata.org/wiki/Q3012",
+  "levels": [
+    {
+      "extent_m": 300000,
+      "file": "0.webp"
+    },
+    {
+      "extent_m": 60000,
+      "file": "1.webp"
+    },
+    {
+      "extent_m": 10000,
+      "file": "2.webp"
+    },
+    {
+      "extent_m": 2000,
+      "file": "3.webp"
+    },
+    {
+      "extent_m": 300,
+      "file": "4.webp",
+      "labels": "labels-4.webp"
+    },
+    {
+      "extent_m": 100,
+      "file": "5.webp",
+      "labels": "labels-5.webp"
+    }
+  ],
+  "credits": [
+    {
+      "source": "nasa-bmng",
+      "text": "NASA Earth Observatory, Blue Marble Next Generation (via NASA GIBS)",
+      "url": "https://www.earthdata.nasa.gov/engage/open-data-services-software-policies/data-use-guidance",
+      "licence": "CC0 (NASA)"
+    },
+    {
+      "source": "lgl-bw",
+      "text": "LGL-BW (2026) Datenlizenz Deutschland - Namensnennung - Version 2.0, www.lgl-bw.de",
+      "url": "https://www.govdata.de/dl-de/by-2-0",
+      "licence": "dl-de/by-2-0"
+    },
+    {
+      "source": "osm",
+      "text": "(c) OpenStreetMap contributors",
+      "url": "https://www.openstreetmap.org/copyright",
+      "licence": "ODbL 1.0"
+    }
+  ],
+  "fetched_at": "2026-10-10T22:16:22Z",
+  "source_urls": [
+    "https://gibs.earthdata.nasa.gov/wms/epsg3857/best/wms.cgi?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=BlueMarble_NextGeneration&STYLES=&CRS=EPSG:3857&BBOX=886282.837,5947505.012,1338127.941,6399350.116&WIDTH=1024&HEIGHT=1024&FORMAT=image/jpeg",
+    "https://gibs.earthdata.nasa.gov/wms/epsg3857/best/wms.cgi?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=BlueMarble_NextGeneration&STYLES=&CRS=EPSG:3857&BBOX=1067020.879,6128243.053,1157389.899,6218612.074&WIDTH=1024&HEIGHT=1024&FORMAT=image/jpeg",
+    "https://owsproxy.lgl-bw.de/owsproxy/ows/WMS_LGL-BW_ATKIS_DOP_20_C?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=IMAGES_DOP_20_RGB&STYLES=&CRS=EPSG:3857&BBOX=1104674.637,6165896.812,1119736.141,6180958.315&WIDTH=1024&HEIGHT=1024&FORMAT=image/jpeg",
+    "https://owsproxy.lgl-bw.de/owsproxy/ows/WMS_LGL-BW_ATKIS_DOP_20_C?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=IMAGES_DOP_20_RGB&STYLES=&CRS=EPSG:3857&BBOX=1110699.239,6171921.413,1113711.539,6174933.714&WIDTH=1024&HEIGHT=1024&FORMAT=image/jpeg",
+    "https://owsproxy.lgl-bw.de/owsproxy/ows/WMS_LGL-BW_ATKIS_DOP_20_C?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=IMAGES_DOP_20_RGB&STYLES=&CRS=EPSG:3857&BBOX=1111979.466,6173201.641,1112431.312,6173653.486&WIDTH=1024&HEIGHT=1024&FORMAT=image/jpeg",
+    "https://owsproxy.lgl-bw.de/owsproxy/ows/WMS_LGL-BW_ATKIS_DOP_20_C?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&LAYERS=IMAGES_DOP_20_RGB&STYLES=&CRS=EPSG:3857&BBOX=1112130.081,6173352.256,1112280.696,6173502.871&WIDTH=1024&HEIGHT=1024&FORMAT=image/jpeg",
+    "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3Bway%5B%22highway%22%5D%5B%22name%22%5D%2848.396927%2C9.988574%2C48.400295%2C9.993648%29%3Bout+geom%3B"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+ "$comment": "Exhibit image files built by tools/fetch_media.py from the holder's own files. key = file name in site/public/media/ (media id, or <id>-p<page> for one page of a multi-page record); page = the holder's page/object number.",
+ "files": [
+  {
+   "key": "ALB-M-0001",
+   "media_id": "ALB-M-0001",
+   "download": "https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014v.jpg"
+  },
+  {
+   "key": "ALB-M-0002",
+   "media_id": "ALB-M-0002",
+   "download": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/65000/65042v.jpg"
+  },
+  {
+   "key": "ALB-M-0010",
+   "media_id": "ALB-M-0010",
+   "download": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03800:03820/full/pct:50/0/default.jpg"
+  },
+  {
+   "key": "ALB-M-0014",
+   "media_id": "ALB-M-0014",
+   "download": "https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-whpo/594653/Batch0002/P49689_09A_23JAN1997_H.jpg"
+  },
+  {
+   "key": "ALB-M-0015",
+   "media_id": "ALB-M-0015",
+   "download": "https://catalog.archives.gov/medialive/56/4967/6496756/content/arcmedia/stillpix/330-cfd/1998/DA-ST-98-04103.jpeg"
+  },
+  {
+   "key": "ALB-M-0016",
+   "media_id": "ALB-M-0016",
+   "download": "https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-whpo/594653/P67327-14_15Oct1998.jpg"
+  },
+  {
+   "key": "ALB-M-0017",
+   "media_id": "ALB-M-0017",
+   "download": "https://catalog.archives.gov/medialz/stillpix/064-cfda/2016/Batch0002/20160914-01/64-CFDA-20160914-01-100.jpg"
+  },
+  {
+   "key": "ALB-M-0018",
+   "media_id": "ALB-M-0018",
+   "download": "https://catalog.archives.gov/medialz/presidential-libraries/obama/bho-whpo/81145631/Batch0024/P040610PS-0846.JPG"
+  },
+  {
+   "key": "ALB-M-0057",
+   "media_id": "ALB-M-0057",
+   "download": "https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-whpo/594653/Batch0002/P02724_26_20Apr1993_H.jpg"
+  },
+  {
+   "key": "ALB-M-0058-p1",
+   "media_id": "ALB-M-0058",
+   "page": 1,
+   "download": "https://catalog.archives.gov/medialive/93/3260/24326093/content/presidential-libraries/foia/2007-0002-F/ag-av-7349218-20070002f-v000113-2015_001.jpg"
+  },
+  {
+   "key": "ALB-M-0058-p2",
+   "media_id": "ALB-M-0058",
+   "page": 2,
+   "download": "https://catalog.archives.gov/medialive/93/3260/24326093/content/presidential-libraries/foia/2007-0002-F/ag-av-7349218-20070002f-v000113-2015_002.jpg"
+  },
+  {
+   "key": "ALB-M-0059",
+   "media_id": "ALB-M-0059",
+   "download": "https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-whpo/594653/P49689-09a_23Jan1997.jpg"
+  },
+  {
+   "key": "ALB-M-0060",
+   "media_id": "ALB-M-0060",
+   "download": "https://catalog.archives.gov/medialz/stillpix/059-pa/Batch0002/059-PA-366-3.tif"
+  },
+  {
+   "key": "ALB-M-0061-p1",
+   "media_id": "ALB-M-0061",
+   "page": 1,
+   "download": "https://catalog.archives.gov/medialz/stillpix/059-pa/Batch0001/59-PA-0367-1_001.jpg"
+  },
+  {
+   "key": "ALB-M-0061-p2",
+   "media_id": "ALB-M-0061",
+   "page": 2,
+   "download": "https://catalog.archives.gov/medialz/stillpix/059-pa/Batch0001/59-PA-0367-1_002.jpg"
+  }
+ ]
+}

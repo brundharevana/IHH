@@ -1,0 +1,6 @@
+id,date,tool,query,results,produced,notes
+Q-0001,2026-10-08,NARA catalog API (catalog.archives.gov/proxy/records/search),naId=596270,1,S-0001; F-0001,Lead from discovery research 04-content-availability-A.md.
+Q-0002,2026-10-08,NARA catalog API (catalog.archives.gov/proxy/records/search),naId=335708097,1,S-0002; F-0002,Lead from discovery research 04-content-availability-B.md; confirmed alias via NARA scope note.
+Q-0003,2026-10-08,Google Patents,US2292387A,1,S-0003; F-0003,Filing and grant dates read from page.
+Q-0004,2026-10-08,Web search,Hebrew University v. General Motors Einstein right of publicity ruling 50 years,10,,"Legal context for DECISIONS.md, not a profile fact."
+Q-0005,2026-10-08,Web search,Einstein name likeness licensing Hebrew University Greenlight rights 2025,10,,"Legal context for DECISIONS.md, not a profile fact."

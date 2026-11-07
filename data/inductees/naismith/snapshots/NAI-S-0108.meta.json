@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn82014085/1939-11-28/ed-1/?sp=18",
+  "fetch_url": "https://www.loc.gov/resource/sn82014085/1939-11-28/ed-1/?sp=18&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-24T06:16:12Z",
+  "sha256": "3b21391d715095559156f7e6c6e9157f65cbae6a4225f4b4256911f1bb13d8a1",
+  "bytes": 37581,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn82014085/1939-11-28/ed-1/?sp=18&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_hepburn_ver01/data/sn82014085/00393347582/1939112801/0443.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/ct/batch_ct_hepburn_ver01/data/sn82014085/00393347582/1939112801/0443.xml"
+}

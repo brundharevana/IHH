@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_as_a_child.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein_as_a_child.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:22:32Z",
+  "sha256": "1701fc18922cfa985791be1346326801de88a1785fc1bd0c3aa06984cc76b747",
+  "bytes": 711,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein_as_a_child.jpg&format=json"
+}

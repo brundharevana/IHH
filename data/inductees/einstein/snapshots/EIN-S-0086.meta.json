@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn92070146/1930-12-31/ed-1/?sp=6&st=text",
+  "fetch_url": "https://www.loc.gov/resource/sn92070146/1930-12-31/ed-1/?sp=6&st=text&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-10T21:43:48Z",
+  "sha256": "7dbf5882e7863ed65471e139b8d4ff9f7e7c3311640842405de8f295a0c40fdf",
+  "bytes": 32568,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn92070146/1930-12-31/ed-1/?sp=6&st=text&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1930123101/1208.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1930123101/1208.xml"
+}

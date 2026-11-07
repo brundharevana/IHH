@@ -1,0 +1,37 @@
+---
+// Phrasing content only (spans), so chips can sit inside a paragraph.
+// Fact chips with click toggletips (src/ui/sources.js). Text comes from fact and source records.
+// Each chip's accessible name is its visible label then the start of its claim (load.js chipName),
+// so several chips side by side can be told apart.
+const { chips = [], prefix } = Astro.props;
+---
+{chips.length > 0 && (
+  <span class="chips">
+    {chips.map((c, i) => (
+      <span class="chip" data-chip-wrap>
+        <button type="button" class="chip-btn" data-chip aria-expanded="false" aria-controls={`${prefix}-${i}`} aria-label={c.name || undefined}>
+          {c.label}
+        </button>
+        <span role="status" id={`${prefix}-${i}`} class="tip">
+          <span class="tip-body" data-tip-body hidden>
+            <span class="tip-src">{`Fact ${c.factId}`}</span>
+            {c.sources.map(s => (
+              <span class="tip-src"><a href={s.url}>{s.title}</a>{`, ${s.institution}, ${s.dateKind} ${s.date}`}</span>
+            ))}
+          </span>
+        </span>
+      </span>
+    ))}
+  </span>
+)}
+
+<style is:global>
+  .chips { display: inline-flex; flex-wrap: wrap; gap: var(--space-1); vertical-align: middle; }
+  .chip-btn { min-height: 24px; min-width: 24px; padding: 2px var(--space-2); font: inherit; font-size: 0.8rem;
+    color: var(--c-accent); background: transparent; border: 1px solid var(--c-accent); border-radius: 12px; cursor: pointer; }
+  .tip-body { display: block; margin-top: var(--space-1); padding: var(--space-2); background: var(--c-tip-bg); color: var(--c-ink); border: 1px solid var(--c-muted);
+    border-radius: 6px; font-size: 0.9rem; }
+  .tip-body[hidden] { display: none; }
+  .tip-src { display: block; margin: var(--space-1) 0; }
+  .tip-src a { color: var(--c-accent); }
+</style>

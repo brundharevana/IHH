@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn84026749/1933-10-17/ed-1/?sp=1&st=text",
+  "fetch_url": "https://www.loc.gov/resource/sn84026749/1933-10-17/ed-1/?sp=1&st=text&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-15T04:05:50Z",
+  "sha256": "13d77f81b5a1525b88107b80c1c1b38a2cedc8e1113e45d1298cd4f38f339c89",
+  "bytes": 30837,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn84026749/1933-10-17/ed-1/?sp=1&st=text&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101701/1195.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101701/1195.xml"
+}

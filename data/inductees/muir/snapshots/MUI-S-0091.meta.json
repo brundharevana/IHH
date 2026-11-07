@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/jomu/learn/education/education-the-strentzel-and-muir-home.htm",
+  "fetch_url": "https://www.nps.gov/jomu/learn/education/education-the-strentzel-and-muir-home.htm",
+  "method": "http",
+  "fetched_at": "2026-10-15T04:17:26Z",
+  "sha256": "f8fcbf0732aa68c95a1ac322734f1269c8feafa49a0c0c75083ebae31f6be540",
+  "bytes": 4060,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/jomu/learn/education/education-the-strentzel-and-muir-home.htm"
+}

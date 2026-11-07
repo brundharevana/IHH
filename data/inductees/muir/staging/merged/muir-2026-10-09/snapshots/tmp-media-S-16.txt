@@ -1,0 +1,342 @@
+_version_: 1821163961481953280
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/ca4264/
+aka[1]: http://www.loc.gov/item/ca4264/
+aka[2]: http://www.loc.gov/pictures/item/ca4264/
+aka[3]: https://www.loc.gov/pictures/collection/hh/item/ca4264/
+aka[4]: http://www.loc.gov/pictures/collection/hh/item/ca4264/
+aka[5]: https://cdn.loc.gov/master/pnp/habshaer/ca/ca4200/ca4264/data/ca4264data.pdf
+aka[6]: http://cdn.loc.gov/master/pnp/habshaer/ca/ca4200/ca4264/data/ca4264data.pdf
+aka[7]: http://www.loc.gov/resource/hhh.ca4264data/
+call_number: HALS CA-132
+contributor_names[0]: Historic American Landscapes Survey, creator
+contributor_names[1]: Martinez, Ygnacio
+contributor_names[2]: Smith, William A.
+contributor_names[3]: Martinez, Susana
+contributor_names[4]: Tennent, Samuel
+contributor_names[5]: Martinez, Rafaela
+contributor_names[6]: Martinez, Vicente
+contributor_names[7]: Franklin, Edward
+contributor_names[8]: Strentzel, John
+contributor_names[9]: Strentzel, Louisa Wanda (Louie)
+contributor_names[10]: Strentzel, Louisiana Erwin
+contributor_names[11]: Muir, Helen
+contributor_names[12]: Muir, John
+contributor_names[13]: Muir, David
+contributor_names[14]: Muir, Sarah
+contributor_names[15]: Stevens, Christopher M., transmitter
+contributor_names[16]: Rachman, Fred, historian
+contributor_names[17]: McPartland, Mary, transmitter
+contributors[0].franklin, edward: https://www.loc.gov/search/?fa=contributor:franklin,+edward&fo=json
+contributors[1].historic american landscapes survey: https://www.loc.gov/search/?fa=contributor:historic+american+landscapes+survey&fo=json
+contributors[2].martinez, rafaela: https://www.loc.gov/search/?fa=contributor:martinez,+rafaela&fo=json
+contributors[3].martinez, susana: https://www.loc.gov/search/?fa=contributor:martinez,+susana&fo=json
+contributors[4].martinez, vicente: https://www.loc.gov/search/?fa=contributor:martinez,+vicente&fo=json
+contributors[5].martinez, ygnacio: https://www.loc.gov/search/?fa=contributor:martinez,+ygnacio&fo=json
+contributors[6].mcpartland, mary: https://www.loc.gov/search/?fa=contributor:mcpartland,+mary&fo=json
+contributors[7].muir, david: https://www.loc.gov/search/?fa=contributor:muir,+david&fo=json
+contributors[8].muir, helen: https://www.loc.gov/search/?fa=contributor:muir,+helen&fo=json
+contributors[9].muir, john: https://www.loc.gov/search/?fa=contributor:muir,+john&fo=json
+contributors[10].muir, sarah: https://www.loc.gov/search/?fa=contributor:muir,+sarah&fo=json
+contributors[11].rachman, fred: https://www.loc.gov/search/?fa=contributor:rachman,+fred&fo=json
+contributors[12].smith, william a.: https://www.loc.gov/search/?fa=contributor:smith,+william+a.&fo=json
+contributors[13].stevens, christopher m.: https://www.loc.gov/search/?fa=contributor:stevens,+christopher+m.&fo=json
+contributors[14].strentzel, john: https://www.loc.gov/search/?fa=contributor:strentzel,+john&fo=json
+contributors[15].strentzel, louisa wanda (louie): https://www.loc.gov/search/?fa=contributor:strentzel,+louisa+wanda+%28louie%29&fo=json
+contributors[16].strentzel, louisiana erwin: https://www.loc.gov/search/?fa=contributor:strentzel,+louisiana+erwin&fo=json
+contributors[17].tennent, samuel: https://www.loc.gov/search/?fa=contributor:tennent,+samuel&fo=json
+control_number: ca4264
+created: 2024-05-20T17:10:48Z
+created_published[0]: Documentation compiled after 2000
+created_published_date: Documentation compiled after 2000
+description[0]: Data Page(s): 14
+digitized: true
+display_offsite: true
+extract_timestamp: 2025-01-13T19:18:32.488Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/hh/item/ca4264/#hh-1
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+group[0]: hh-1
+group[1]: habshaer-group-1
+hassegments: false
+id: http://www.loc.gov/item/ca4264/
+index: 1
+item.call_number: HALS CA-132
+item.contributor_names[0]: Martinez, Ygnacio,
+item.contributor_names[1]: Smith, William A.,
+item.contributor_names[2]: Martinez, Susana,
+item.contributor_names[3]: Tennent, Samuel,
+item.contributor_names[4]: Martinez, Rafaela ,
+item.contributor_names[5]: Martinez, Vicente,
+item.contributor_names[6]: Franklin, Edward,
+item.contributor_names[7]: Strentzel, John,
+item.contributor_names[8]: Strentzel, Louisa Wanda (Louie),
+item.contributor_names[9]: Strentzel, Louisiana Erwin,
+item.contributor_names[10]: Muir, Helen,
+item.contributor_names[11]: Muir, John,
+item.contributor_names[12]: Muir, David,
+item.contributor_names[13]: Muir, Sarah,
+item.contributor_names[14]: Stevens, Christopher M., transmitter
+item.contributor_names[15]: Rachman, Fred, historian
+item.contributor_names[16]: McPartland, Mary, transmitter
+item.control_number: ca4264
+item.created: 2024-05-20T17:10:48Z
+item.created_published: Documentation compiled after 2000
+item.created_published_date: Documentation compiled after 2000
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Landscapes%20Survey&co=hh
+item.creators[0].role: creator
+item.creators[0].title: Historic American Landscapes Survey
+item.creators[1].link: https://www.loc.gov/pictures/related/?fi=name&q=Martinez%2C%20Ygnacio&co=hh
+item.creators[1].title: Martinez, Ygnacio
+item.creators[2].link: https://www.loc.gov/pictures/related/?fi=name&q=Smith%2C%20William%20A.&co=hh
+item.creators[2].title: Smith, William A.
+item.creators[3].link: https://www.loc.gov/pictures/related/?fi=name&q=Martinez%2C%20Susana&co=hh
+item.creators[3].title: Martinez, Susana
+item.creators[4].link: https://www.loc.gov/pictures/related/?fi=name&q=Tennent%2C%20Samuel&co=hh
+item.creators[4].title: Tennent, Samuel
+item.creators[5].link: https://www.loc.gov/pictures/related/?fi=name&q=Martinez%2C%20Rafaela%20&co=hh
+item.creators[5].title: Martinez, Rafaela
+item.creators[6].link: https://www.loc.gov/pictures/related/?fi=name&q=Martinez%2C%20Vicente&co=hh
+item.creators[6].title: Martinez, Vicente
+item.creators[7].link: https://www.loc.gov/pictures/related/?fi=name&q=Franklin%2C%20Edward&co=hh
+item.creators[7].title: Franklin, Edward
+item.creators[8].link: https://www.loc.gov/pictures/related/?fi=name&q=Strentzel%2C%20John&co=hh
+item.creators[8].title: Strentzel, John
+item.creators[9].link: https://www.loc.gov/pictures/related/?fi=name&q=Strentzel%2C%20Louisa%20Wanda%20%28Louie%29&co=hh
+item.creators[9].title: Strentzel, Louisa Wanda (Louie)
+item.creators[10].link: https://www.loc.gov/pictures/related/?fi=name&q=Strentzel%2C%20Louisiana%20Erwin&co=hh
+item.creators[10].title: Strentzel, Louisiana Erwin
+item.creators[11].link: https://www.loc.gov/pictures/related/?fi=name&q=Muir%2C%20Helen&co=hh
+item.creators[11].title: Muir, Helen
+item.creators[12].link: https://www.loc.gov/pictures/related/?fi=name&q=Muir%2C%20John&co=hh
+item.creators[12].title: Muir, John
+item.creators[13].link: https://www.loc.gov/pictures/related/?fi=name&q=Muir%2C%20David&co=hh
+item.creators[13].title: Muir, David
+item.creators[14].link: https://www.loc.gov/pictures/related/?fi=name&q=Muir%2C%20Sarah&co=hh
+item.creators[14].title: Muir, Sarah
+item.creators[15].link: https://www.loc.gov/pictures/related/?fi=name&q=Stevens%2C%20Christopher%20M.&co=hh
+item.creators[15].role: transmitter
+item.creators[15].title: Stevens, Christopher M.
+item.creators[16].link: https://www.loc.gov/pictures/related/?fi=name&q=Rachman%2C%20Fred&co=hh
+item.creators[16].role: historian
+item.creators[16].title: Rachman, Fred
+item.creators[17].link: https://www.loc.gov/pictures/related/?fi=name&q=McPartland%2C%20Mary&co=hh
+item.creators[17].role: transmitter
+item.creators[17].title: McPartland, Mary
+item.display_offsite: true
+item.id: ca4264
+item.latitude / longitude: 37.991292,-122.131352
+item.link: https://www.loc.gov/pictures/item/ca4264/
+item.medium_brief: Data Page(s): 14
+item.mediums[0]: Data Page(s): 14
+item.modified: 2024-05-20T17:10:48Z
+item.notes[0]: See also HABS CA-1890 for additional documentation.
+item.notes[1]: 2016 HALS Challenge Entry: Documenting National Register Listed Landscapes
+item.notes[2]: Significance: The John Muir National Historic Site is significant as the site of the earliest settlements in Contra Costa County and as the place where the renowned Scottish-American naturalist and preservationist, John Muir, composed his writings from his journals of experiences traveling the wilderness. The Martinez Adobe on the western edge of the site is California Registered Historical Landmark No. 511. The House on the knoll was listed in the National Register of Historic Places in 1966.
+item.notes[3]: Survey number: HALS CA-132
+item.notes[4]: Building/structure dates: 1883 Initial Construction
+item.notes[5]: National Register of Historic Places NRIS Number: 66000083
+item.other_title[0]: John Muir National Historic Site
+item.part_of: Historic American Landscapes Survey (Library of Congress)
+item.part_of_group: Survey Number ca4264
+item.place[0].latitude: 37.991292
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Contra%20Costa%20County--Martinez&co=hh
+item.place[0].longitude: -122.131352
+item.place[0].title: California--Contra Costa County--Martinez
+item.raw_collections[0]: diof
+item.raw_collections[1]: hh
+item.raw_collections[2]: survey
+item.repository: Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.resource_links[0]: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca4200/ca4264/data/ca4264data.pdf
+item.rights_advisory: No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html
+item.rights_information: No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html
+item.service_low: https://memory.loc.gov/pp/hhhtml/images/hh.gif
+item.service_medium: https://memory.loc.gov/pp/hhhtml/images/hh.gif
+item.source_created: 1970-01-01T00:00:00Z
+item.source_modified: 2024-05-20T18:10:00Z
+item.subject_headings[0]: estates
+item.subject_headings[1]: orchards
+item.subject_headings[2]: Apple orchards
+item.subject_headings[3]: orange orchards
+item.subject_headings[4]: peach orchards
+item.subject_headings[5]: mansions
+item.subject_headings[6]: adobe houses
+item.subject_headings[7]: trees
+item.subject_headings[8]: windmills
+item.subject_headings[9]: authors
+item.subject_headings[10]: wildlife conservation
+item.subject_headings[11]: natural landscapes
+item.subject_headings[12]: naturalists
+item.subject_headings[13]: national parks & reserves
+item.subject_headings[14]: historic house museums
+item.subject_headings[15]: California--Contra Costa County--Martinez
+item.thumb_gallery: https://www.loc.gov/pictures/images/item/habs_thumb_large.jpg
+item.title: John Muir National Historic Site, 4202 Alhambra Avenue, Martinez, Contra Costa County, CA
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+latitude / longitude: 37.991292,-122.131352
+latlong[0]: 37.991292
+latlong[1]: -122.131352
+link: https://www.loc.gov/pictures/item/ca4264/
+location[0]: martinez
+location[1]: california
+location[2]: contra costa county
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].contra costa county: https://www.loc.gov/search/?fa=location:contra+costa+county&fo=json
+locations[2].martinez: https://www.loc.gov/search/?fa=location:martinez&fo=json
+lonlat[0]: -122.131352
+lonlat[1]: 37.991292
+medium[0]: Data Page(s): 14
+medium_brief: Data Page(s): 14
+mime_type[0]: application/pdf
+modified: 2024-05-20T17:10:48Z
+notes[0]: See also HABS CA-1890 for additional documentation.
+notes[1]: 2016 HALS Challenge Entry: Documenting National Register Listed Landscapes
+notes[2]: Significance: The John Muir National Historic Site is significant as the site of the earliest settlements in Contra Costa County and as the place where the renowned Scottish-American naturalist and preservationist, John Muir, composed his writings from his journals of experiences traveling the wilderness. The Martinez Adobe on the western edge of the site is California Registered Historical Landmark No. 511. The House on the knoll was listed in the National Register of Historic Places in 1966.
+notes[3]: Survey number: HALS CA-132
+notes[4]: Building/structure dates: 1883 Initial Construction
+notes[5]: National Register of Historic Places NRIS Number: 66000083
+online_format[0]: pdf
+original_format[0]: photo, print, drawing
+other_title[0]: John Muir National Historic Site
+part_of_group: Survey Number ca4264
+partof[0].count: 45882
+partof[0].title: historic american buildings survey/historic american engineering record/historic american landscapes survey
+partof[0].url: https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json
+partof[1].count: 418988
+partof[1].title: american memory
+partof[1].url: https://www.loc.gov/search/?fa=partof:american+memory&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+place[0].latitude: 37.991292
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Contra%20Costa%20County--Martinez&co=hh
+place[0].longitude: -122.131352
+place[0].title: California--Contra Costa County--Martinez
+raw_collections[0]: diof
+raw_collections[1]: hh
+raw_collections[2]: survey
+related.neighbors: https://www.loc.gov/pictures/related/?&co=hh&pk=ca4264&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproductions[0]: If Digital Images Are Displaying
+
+You can download online images yourself. Alternatively, you can purchase copies of various types through Library of Congress Duplication Services.
+
+HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see Digitizing the Collection for further details about the digital images).
+
+Photographs--All photographs are printed from digital files to preserve the fragile originals.
+
+Make note of the Call Number and Item Number that appear under the photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2).
+
+If possible, include a printout of the photograph.
+
+Drawings--All drawings are printed from digital files to preserve the fragile originals.
+
+Make note of the Survey Number (e.g., HAER NY - 143) and Sheet Number (e.g., "Sheet 1 of 4"), which appear on the edge of the drawing. (NOTE: These numbers are visible in the Tiff "Reference Image" display.)
+
+If possible, include a printout of the drawing.
+
+Data Pages
+
+Make note of the Call Number in the catalog record.
+
+If Digital Images Are Not Displaying
+
+In the rare case that a digital image for HABS/HAER/HALS documentation is not displaying online, select images for reproduction through one of these methods:
+
+Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: https://www.loc.gov/rr/print/info/001_ref.html). It is best to contact reference staff in advance (see: https://www.loc.gov/rr/print/address.html) to make sure the material is on site. OR
+
+P&P reading room staff can provide up to 15 quick copies of items per calendar year (many original items in the holdings are too old or fragile to make such copies, but generally HABS/HAER/HALS materials are in good enough condition to be placed on photocopy machines). For assistance, see our Ask a Librarian page OR
+
+Hire a freelance researcher to do further selection for you (a list of researchers in available at: https://www.loc.gov/rr/print/resource/013_pic.html).
+
+You can purchase copies of various types, including quick copies, through Library of Congress Duplication Services (price lists, contact information, and order forms for Library of Congress Duplication Services are available on the Duplication Services Web site):
+
+Make note of the Call Number listed above.
+
+Look at the Medium field above. If it lists more than one item:
+
+The entire group can be ordered as photocopies or high-quality copies.
+
+All the items in a particular medium (e.g., all drawings, all photographs) can be ordered as photocopies or high-quality copies.
+resource_links[0]: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca4200/ca4264/data/ca4264data.pdf
+resources[0].caption: Data Pages from Survey HALS CA-132
+resources[0].files: 1
+resources[0].image: /static/images/original-format/manuscript-mixed-material.svg
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information
+rights_advisory: No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html
+rights_information: No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html
+score: 19.46323
+shard: 00
+shelf_id: HALS CA-132
+site[0]: pictures
+source_collection: Historic American Landscapes Survey (Library of Congress)
+source_created: 1970-01-01T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: apple orchards
+subject[1]: mansions
+subject[2]: estates
+subject[3]: peach orchards
+subject[4]: orange orchards
+subject[5]: windmills
+subject[6]: historic house museums
+subject[7]: authors
+subject[8]: naturalists
+subject[9]: natural landscapes
+subject[10]: national parks & reserves
+subject[11]: trees
+subject[12]: adobe houses
+subject[13]: wildlife conservation
+subject[14]: orchards
+subject_headings[0]: estates
+subject_headings[1]: orchards
+subject_headings[2]: Apple orchards
+subject_headings[3]: orange orchards
+subject_headings[4]: peach orchards
+subject_headings[5]: mansions
+subject_headings[6]: adobe houses
+subject_headings[7]: trees
+subject_headings[8]: windmills
+subject_headings[9]: authors
+subject_headings[10]: wildlife conservation
+subject_headings[11]: natural landscapes
+subject_headings[12]: naturalists
+subject_headings[13]: national parks & reserves
+subject_headings[14]: historic house museums
+subject_headings[15]: California--Contra Costa County--Martinez
+subjects[0].adobe houses: https://www.loc.gov/search/?fa=subject:adobe+houses&fo=json
+subjects[1].apple orchards: https://www.loc.gov/search/?fa=subject:apple+orchards&fo=json
+subjects[2].authors: https://www.loc.gov/search/?fa=subject:authors&fo=json
+subjects[3].estates: https://www.loc.gov/search/?fa=subject:estates&fo=json
+subjects[4].historic house museums: https://www.loc.gov/search/?fa=subject:historic+house+museums&fo=json
+subjects[5].mansions: https://www.loc.gov/search/?fa=subject:mansions&fo=json
+subjects[6].national parks & reserves: https://www.loc.gov/search/?fa=subject:national+parks+%26+reserves&fo=json
+subjects[7].natural landscapes: https://www.loc.gov/search/?fa=subject:natural+landscapes&fo=json
+subjects[8].naturalists: https://www.loc.gov/search/?fa=subject:naturalists&fo=json
+subjects[9].orange orchards: https://www.loc.gov/search/?fa=subject:orange+orchards&fo=json
+subjects[10].orchards: https://www.loc.gov/search/?fa=subject:orchards&fo=json
+subjects[11].peach orchards: https://www.loc.gov/search/?fa=subject:peach+orchards&fo=json
+subjects[12].trees: https://www.loc.gov/search/?fa=subject:trees&fo=json
+subjects[13].wildlife conservation: https://www.loc.gov/search/?fa=subject:wildlife+conservation&fo=json
+subjects[14].windmills: https://www.loc.gov/search/?fa=subject:windmills&fo=json
+thumb_gallery: https://www.loc.gov/pictures/images/item/habs_thumb_large.jpg
+timestamp: 2025-01-13T19:41:33.750Z
+title: John Muir National Historic Site, 4202 Alhambra Avenue, Martinez, Contra Costa County, CA
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/ca4264/
+resources[0].caption: Data Pages from Survey HALS CA-132
+resources[0].files[0][0].height: 1
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: application/pdf
+resources[0].files[0][0].size: 2020952
+resources[0].files[0][0].type: data
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca4200/ca4264/data/ca4264data.pdf
+resources[0].files[0][0].width: 1
+resources[0].image: /static/images/original-format/manuscript-mixed-material.svg
+cite_this.apa: Historic American Landscapes Survey, C., Martinez, Y., Smith, W. A., Martinez, S., Tennent, S., Martinez, R. [...] Rachman, F. (2000) John Muir National Historic Site, Alhambra Avenue, Martinez, Contra Costa County, CA. Martinez California Contra Costa County, 2000. Stevens, C. M. M. & McPartland, M., transs Documentation Compiled After. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/ca4264/.
+cite_this.chicago: Historic American Landscapes Survey, Creator, Ygnacio Martinez, William A Smith, Susana Martinez, Samuel Tennent, Rafaela Martinez, Vicente Martinez, et al. John Muir National Historic Site, Alhambra Avenue, Martinez, Contra Costa County, CA. Martinez California Contra Costa County, 2000. translateds by Stevens, Christopher M.Mitter, and Mcpartland, Marymitter Documentation Compiled After. Photograph. https://www.loc.gov/item/ca4264/.
+cite_this.mla: Historic American Landscapes Survey, Creator, et al. John Muir National Historic Site, Alhambra Avenue, Martinez, Contra Costa County, CA. trans by Stevens, Christopher M.Mitter, and Mcpartland, Marymitter Documentation Compiled After. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/ca4264/>.

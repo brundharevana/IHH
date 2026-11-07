@@ -1,0 +1,340 @@
+_version_: 1783543475550027776
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/95514320/
+aka[1]: http://www.loc.gov/item/95514320/
+aka[2]: http://www.loc.gov/pictures/item/95514320/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/95514320/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/95514320/
+aka[5]: https://hdl.loc.gov/loc.pnp/ppmsca.09982
+aka[6]: https://hdl.loc.gov/loc.pnp/ppmsca.09982
+aka[7]: https://hdl.loc.gov/loc.pnp/cph.3b52351
+aka[8]: https://hdl.loc.gov/loc.pnp/cph.3b52351
+aka[9]: https://hdl.loc.gov/loc.pnp/cph.3a47082
+aka[10]: https://hdl.loc.gov/loc.pnp/cph.3a47082
+aka[11]: http://www.loc.gov/resource/ppmsca.09982/
+aka[12]: http://www.loc.gov/resource/cph.3b52351/
+aka[13]: http://www.loc.gov/resource/cph.3a47082/
+aka[14]: http://lccn.loc.gov/95514320
+call_number: LOT 4590, no. 1 [P&P]
+contributor_names[0]: Watkins, Carleton E., 1829-1916, photographer
+contributors[0].watkins, carleton e.: https://www.loc.gov/search/?fa=contributor:watkins,+carleton+e.&fo=json
+created: 2023-11-21T06:47:07Z
+created_published[0]: [ca. 1865]
+created_published_date: [ca. 1865]
+date: 1865
+dates[0].1865: https://www.loc.gov/search/?dates=1865/1865&fo=json
+description[0]: 1 photographic print : albumen ; 52.1 x 39.9 cm (photo), 68 x 54.7 cm (mount) | Photo shows reflection of trees and mountains on Mirror Lake, Yosemite National Park, Calif. Exhibit caption: Carleton Watkins, an early photographer of Yosemite, captured this pristine view of Mirror Lake while most of the country was engaged in the Civil War. One of the best landscape photographers of the 19th century, Watkins used the cumbersome, demanding technology of his era, which required large glass wet plate negatives, and produced some of the most stunning images of this extraordinary wilderness. His views are credited with inducing members of Congress to pass legislation in 1864 that required California to protect the area from development. Abraham Lincoln signed the bill and was also reported to have been very taken with the beauty of the images. Subsequent efforts by landscape designer Frederick Law Olmsted and naturalist John Muir resulted in Yosemite being proclaimed a national park in 1890.
+digital_id[0]: ppmsca 09982 https://hdl.loc.gov/loc.pnp/ppmsca.09982
+digital_id[1]: cph 3b52351 https://hdl.loc.gov/loc.pnp/cph.3b52351
+digital_id[2]: cph 3a47082 https://hdl.loc.gov/loc.pnp/cph.3a47082
+digitized: true
+display_offsite: true
+extract_timestamp: 2023-11-25T13:38:24.460Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/95514320/#cph
+extract_urls[1]: http://lccn.loc.gov/95514320#catalog-split-13
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Albumen prints--1860-1870.
+format_headings[1]: Landscape photographs--1860-1870.
+format_headings[2]: Mammoth plates--1860-1870.
+genre[0]: Landscape photographs--1860-1870
+genre[1]: Mammoth plates--1860-1870
+genre[2]: Albumen prints--1860-1870
+group[0]: cph
+group[1]: catalog-split-13
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-13
+hassegments: false
+id: http://www.loc.gov/item/95514320/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982_150px.jpg#h=150&w=118
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982t.gif#h=150&w=118
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982r.jpg#h=640&w=504
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982v.jpg#h=1024&w=807
+index: 1
+item.call_number: LOT 4590, no. 1 [P&P]
+item.contributors[0]: Watkins, Carleton E., 1829-1916, photographer
+item.control_number: 95514320
+item.created: 2023-11-21T06:47:07Z
+item.created_published: [ca. 1865]
+item.created_published_date: [ca. 1865]
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Watkins%2C%20Carleton%20E.%2C%201829-1916&co=cph
+item.creators[0].role: photographer
+item.creators[0].title: Watkins, Carleton E., 1829-1916
+item.date: [ca. 1865]
+item.digital_id[0]: ppmsca 09982 https://hdl.loc.gov/loc.pnp/ppmsca.09982
+item.digital_id[1]: cph 3b52351 https://hdl.loc.gov/loc.pnp/cph.3b52351
+item.digital_id[2]: cph 3a47082 https://hdl.loc.gov/loc.pnp/cph.3a47082
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Albumen%20prints--1860-1870.&co=cph
+item.formats[0].title: Albumen prints--1860-1870.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Landscape%20photographs--1860-1870.&co=cph
+item.formats[1].title: Landscape photographs--1860-1870.
+item.formats[2].link: https://www.loc.gov/pictures/related/?fi=format&q=Mammoth%20plates--1860-1870.&co=cph
+item.formats[2].title: Mammoth plates--1860-1870.
+item.genre[0]: Landscape photographs--1860-1870
+item.genre[1]: Mammoth plates--1860-1870
+item.genre[2]: Albumen prints--1860-1870
+item.id: 95514320
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/95514320/
+item.location[0]: California
+item.location[1]: Yosemite National Park (Calif.)
+item.marc: https://www.loc.gov/pictures/item/95514320/marc/
+item.medium[0]: 1 photographic print : albumen ; 52.1 x 39.9 cm (photo), 68 x 54.7 cm (mount)
+item.medium_brief: 1 photographic print :
+item.mediums[0]: 1 photographic print : albumen ; 52.1 x 39.9 cm (photo), 68 x 54.7 cm (mount)
+item.modified: 2023-11-21T06:47:10Z
+item.notes[0]: Plate 2.
+item.notes[1]: Published in: The Joy of Looking: Great Photographs from the Library of Congress, 2023.
+item.number_former_id[0]: https://www.loc.gov/item/95514320
+item.number_former_id[1]: https://www.loc.gov/item/11655390
+item.other_control_numbers[0]: 11655390
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California&co=cph
+item.place[0].title: California
+item.place[1].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20National%20Park%20&co=cph
+item.place[1].title: California--Yosemite National Park
+item.raw_collections[0]: ammem
+item.raw_collections[1]: amrvp
+item.raw_collections[2]: cph
+item.raw_collections[3]: diof
+item.raw_collections[4]: flickrmirror
+item.raw_collections[5]: pp
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-ppmsca-09982 (digital file from original photograph)
+LC-USZC4-842 (color film copy transparency)
+LC-USZ62-46914 (b&w film copy neg.)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/ppmsca.09982
+item.resource_links[1]: https://hdl.loc.gov/loc.pnp/cph.3b52351
+item.resource_links[2]: https://hdl.loc.gov/loc.pnp/cph.3a47082
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982r.jpg
+item.sort_date: 1865
+item.source_created: 1995-09-25T00:00:00Z
+item.source_modified: 2023-11-16T16:21:11Z
+item.subject_headings[0]: Reflections--1860-1870.
+item.subject_headings[1]: Mountains--California--1860-1870.
+item.subject_headings[2]: Lakes & ponds--California--1860-1870.
+item.subject_headings[3]: Trees--California--1860-1870.
+item.subject_headings[4]: Yosemite National Park (Calif.)--1860-1870.
+item.subject_headings[5]: California
+item.subject_headings[6]: California--Yosemite National Park
+item.subjects[0]: Reflections--1860-1870
+item.subjects[1]: Mountains--California--1860-1870
+item.subjects[2]: Lakes & ponds--California--1860-1870
+item.subjects[3]: Trees--California--1860-1870
+item.subjects[4]: Yosemite National Park (Calif.)--1860-1870
+item.summary: Photo shows reflection of trees and mountains on Mirror Lake, Yosemite National Park, Calif.
+Exhibit caption: Carleton Watkins, an early photographer of Yosemite, captured this pristine view of Mirror Lake while most of the country was engaged in the Civil War. One of the best landscape photographers of the 19th century, Watkins used the cumbersome, demanding technology of his era, which required large glass wet plate negatives, and produced some of the most stunning images of this extraordinary wilderness. His views are credited with inducing members of Congress to pass legislation in 1864 that required California to protect the area from development. Abraham Lincoln signed the bill and was also reported to have been very taken with the beauty of the images. Subsequent efforts by landscape designer Frederick Law Olmsted and naturalist John Muir resulted in Yosemite being proclaimed a national park in 1890.
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982_150px.jpg
+item.title: Mirror Lake, Yosemite
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 95514320
+link: https://www.loc.gov/pictures/item/95514320/
+location[0]: yosemite national park
+location[1]: california
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].yosemite national park: https://www.loc.gov/search/?fa=location:yosemite+national+park&fo=json
+marc: https://www.loc.gov/pictures/item/95514320/marc/
+medium[0]: 1 photographic print : albumen ; 52.1 x 39.9 cm (photo), 68 x 54.7 cm (mount)
+medium_brief: 1 photographic print :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2023-11-21T06:47:10Z
+notes[0]: Plate 2.
+notes[1]: Published in: The Joy of Looking: Great Photographs from the Library of Congress, 2023.
+number[0]: 95514320
+number[1]: http://www.loc.gov/item/11655390
+number[2]: 2023-11-16t16:21:11
+number[3]: http://www.loc.gov/item/95514320
+number_former_id[0]: http://www.loc.gov/item/11655390
+number_former_id[1]: http://www.loc.gov/item/95514320
+number_lccn[0]: 95514320
+number_source_modified[0]: 2023-11-16t16:21:11
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 11655390
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/95514320/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/95514320/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/95514320/dc
+partof[0].count: 29
+partof[0].title: lot 4590
+partof[0].url: https://www.loc.gov/search/?fa=partof:lot+4590&fo=json
+partof[1].count: 235
+partof[1].title: evolution of the conservation movement, 1850-1920
+partof[1].url: https://www.loc.gov/search/?fa=partof:evolution+of+the+conservation+movement,+1850-1920&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California&co=cph
+place[0].title: California
+place[1].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20National%20Park%20&co=cph
+place[1].title: California--Yosemite National Park
+raw_collections[0]: ammem
+raw_collections[1]: amrvp
+raw_collections[2]: cph
+raw_collections[3]: diof
+raw_collections[4]: flickrmirror
+raw_collections[5]: pp
+related.group_record: https://www.loc.gov/pictures/search/?q=LOT 4590&fi=number&op=PHRASE&va=exact&co=coll&sg=true
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=95514320&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-ppmsca-09982 (digital file from original photograph)
+LC-USZC4-842 (color film copy transparency)
+LC-USZ62-46914 (b&w film copy neg.)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/ppmsca.09982
+resource_links[1]: https://hdl.loc.gov/loc.pnp/cph.3b52351
+resource_links[2]: https://hdl.loc.gov/loc.pnp/cph.3a47082
+resources[0].caption: digital file from original photograph
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.09982/
+resources[1].caption: digital file from color film copy transparency
+resources[1].files: 1
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b52000/3b52300/3b52351_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3b52351/
+resources[2].caption: digital file from b&w film copy neg.
+resources[2].files: 1
+resources[2].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a47000/3a47000/3a47082_150px.jpg
+resources[2].url: https://www.loc.gov/resource/cph.3a47082/
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.46323
+shard: 00
+shelf_id: LOT 4590, no. 1 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1865
+source_created: 1995-09-25T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: yosemite national park (calif.)
+subject[1]: albumen prints
+subject[2]: mountains
+subject[3]: trees
+subject[4]: lakes & ponds
+subject[5]: landscape photographs
+subject[6]: mammoth plates
+subject[7]: reflections
+subject[8]: california
+subject_headings[0]: Reflections--1860-1870
+subject_headings[1]: Mountains--California--1860-1870
+subject_headings[2]: Lakes & ponds--California--1860-1870
+subject_headings[3]: Trees--California--1860-1870
+subject_headings[4]: Yosemite National Park (Calif.)--1860-1870
+subjects[0].albumen prints: https://www.loc.gov/search/?fa=subject:albumen+prints&fo=json
+subjects[1].california: https://www.loc.gov/search/?fa=subject:california&fo=json
+subjects[2].lakes & ponds: https://www.loc.gov/search/?fa=subject:lakes+%26+ponds&fo=json
+subjects[3].landscape photographs: https://www.loc.gov/search/?fa=subject:landscape+photographs&fo=json
+subjects[4].mammoth plates: https://www.loc.gov/search/?fa=subject:mammoth+plates&fo=json
+subjects[5].mountains: https://www.loc.gov/search/?fa=subject:mountains&fo=json
+subjects[6].reflections: https://www.loc.gov/search/?fa=subject:reflections&fo=json
+subjects[7].trees: https://www.loc.gov/search/?fa=subject:trees&fo=json
+subjects[8].yosemite national park (calif.): https://www.loc.gov/search/?fa=subject:yosemite+national+park+%28calif.%29&fo=json
+summary: Photo shows reflection of trees and mountains on Mirror Lake, Yosemite National Park, Calif.
+Exhibit caption: Carleton Watkins, an early photographer of Yosemite, captured this pristine view of Mirror Lake while most of the country was engaged in the Civil War. One of the best landscape photographers of the 19th century, Watkins used the cumbersome, demanding technology of his era, which required large glass wet plate negatives, and produced some of the most stunning images of this extraordinary wilderness. His views are credited with inducing members of Congress to pass legislation in 1864 that required California to protect the area from development. Abraham Lincoln signed the bill and was also reported to have been very taken with the beauty of the images. Subsequent efforts by landscape designer Frederick Law Olmsted and naturalist John Muir resulted in Yosemite being proclaimed a national park in 1890.
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982_150px.jpg
+timestamp: 2023-11-25T13:40:04.675Z
+title: Mirror Lake, Yosemite
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/95514320/
+resources[0].caption: digital file from original photograph
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 219440174
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/ppmsca/09900/09982u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 150
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 4783
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982_150px.jpg
+resources[0].files[0][1].width: 118
+resources[0].files[0][2].height: 150
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 14492
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982t.gif
+resources[0].files[0][2].width: 118
+resources[0].files[0][3].height: 640
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 52995
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982r.jpg
+resources[0].files[0][3].width: 504
+resources[0].files[0][4].height: 1024
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 143217
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982v.jpg
+resources[0].files[0][4].width: 807
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/09900/09982_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.09982/
+resources[1].caption: digital file from color film copy transparency
+resources[1].files[0][0].height: 0
+resources[1].files[0][0].levels: 1
+resources[1].files[0][0].mimetype: image/tiff
+resources[1].files[0][0].size: 5502938
+resources[1].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3b50000/3b52000/3b52300/3b52351u.tif
+resources[1].files[0][0].width: 0
+resources[1].files[0][1].height: 150
+resources[1].files[0][1].levels: 1
+resources[1].files[0][1].mimetype: image/jpeg
+resources[1].files[0][1].size: 5390
+resources[1].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b52000/3b52300/3b52351_150px.jpg
+resources[1].files[0][1].width: 117
+resources[1].files[0][2].height: 150
+resources[1].files[0][2].levels: 1
+resources[1].files[0][2].mimetype: image/gif
+resources[1].files[0][2].size: 16025
+resources[1].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b52000/3b52300/3b52351t.gif
+resources[1].files[0][2].width: 117
+resources[1].files[0][3].height: 640
+resources[1].files[0][3].levels: 1
+resources[1].files[0][3].mimetype: image/jpeg
+resources[1].files[0][3].size: 47699
+resources[1].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b52000/3b52300/3b52351r.jpg
+resources[1].files[0][3].width: 498
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b52000/3b52300/3b52351_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3b52351/
+resources[2].caption: digital file from b&w film copy neg.
+resources[2].files[0][0].height: 0
+resources[2].files[0][0].levels: 1
+resources[2].files[0][0].mimetype: image/tiff
+resources[2].files[0][0].size: 1821122
+resources[2].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3a40000/3a47000/3a47000/3a47082u.tif
+resources[2].files[0][0].width: 0
+resources[2].files[0][1].height: 150
+resources[2].files[0][1].levels: 1
+resources[2].files[0][1].mimetype: image/jpeg
+resources[2].files[0][1].size: 4362
+resources[2].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a47000/3a47000/3a47082_150px.jpg
+resources[2].files[0][1].width: 116
+resources[2].files[0][2].height: 150
+resources[2].files[0][2].levels: 1
+resources[2].files[0][2].mimetype: image/gif
+resources[2].files[0][2].size: 16990
+resources[2].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a47000/3a47000/3a47082t.gif
+resources[2].files[0][2].width: 116
+resources[2].files[0][3].height: 640
+resources[2].files[0][3].levels: 1
+resources[2].files[0][3].mimetype: image/jpeg
+resources[2].files[0][3].size: 34794
+resources[2].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a47000/3a47000/3a47082r.jpg
+resources[2].files[0][3].width: 493
+resources[2].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a47000/3a47000/3a47082_150px.jpg
+resources[2].url: https://www.loc.gov/resource/cph.3a47082/
+cite_this.apa: Watkins, C. E., photographer. (ca. 1865) Mirror Lake, Yosemite. Yosemite National Park California, ca. 1865. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/95514320/.
+cite_this.chicago: Watkins, Carleton E, photographer. Mirror Lake, Yosemite. Yosemite National Park California, ca. 1865. Photograph. https://www.loc.gov/item/95514320/.
+cite_this.mla: Watkins, Carleton E, photographer. Mirror Lake, Yosemite. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/95514320/>.

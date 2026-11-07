@@ -1,0 +1,7 @@
+# Cloudflare Pages custom headers (documented format; not exercised locally).
+# Needed so the page works inside WordPress's sandboxed (opaque-origin) oEmbed iframe:
+# module scripts, JSON, images used as WebGL textures, GLB files are all fetched in CORS mode from origin "null".
+/*
+  Access-Control-Allow-Origin: *
+  Cross-Origin-Resource-Policy: cross-origin
+  X-Content-Type-Options: nosniff

@@ -1,0 +1,30 @@
+{
+  "_comment": "Home page one-line fact per inductee: text is the verified fact's claim verbatim (tools/content_check.py --home; site/src/content/home.js).",
+  "lines": [
+    {
+      "slug": "einstein",
+      "fact_id": "EIN-F-0051",
+      "text": "On 1940 Oct. 1, Albert Einstein was photographed receiving from Judge Phillip Forman his certificate of American citizenship."
+    },
+    {
+      "slug": "lamarr",
+      "fact_id": "LAM-F-0084",
+      "text": "Lamarr and Antheil were awarded U.S. Patent 2,292,387 in 1942."
+    },
+    {
+      "slug": "muir",
+      "fact_id": "MUI-F-0082",
+      "text": "John Muir immigrated from Scotland to Wisconsin."
+    },
+    {
+      "slug": "albright",
+      "fact_id": "ALB-F-0026",
+      "text": "Albright became a U.S. citizen in 1957."
+    },
+    {
+      "slug": "naismith",
+      "fact_id": "NAI-F-0067",
+      "text": "James Naismith invented the game of basketball in 1891."
+    }
+  ]
+}

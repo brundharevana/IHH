@@ -1,0 +1,57 @@
+/* The two presentation demos (DemoTiers.jsx). Tokens only (app/src/design/tokens.css). */
+
+/* the switcher between the two presentations, top centre */
+.demo-switch {
+  display: flex; gap: 4px; padding: 4px; border-radius: var(--r-pill);
+  background-color: color-mix(in srgb, var(--bg) 60%, transparent);
+  pointer-events: auto; flex: none;
+}
+.demo-switch-item {
+  display: grid; gap: 0; padding: 6px 16px 7px; border-radius: var(--r-pill);
+  text-decoration: none; color: var(--text); border: 1px solid transparent;
+  transition: border-color .25s ease, background .25s ease;
+}
+.demo-switch-item:hover { border-color: var(--hairline); }
+.demo-switch-item.is-on { background: rgba(0,0,0,.35); border-color: var(--accent); box-shadow: var(--accent-glow); color: var(--ui-text); }
+.demo-switch-tier { font-size: 12px; font-weight: 500; letter-spacing: .02em; color: inherit; }
+.demo-switch-chapter { font-size: 10px; letter-spacing: .12em; text-transform: uppercase; color: var(--subtitle); }
+.demo-switch-item.is-on .demo-switch-chapter { color: var(--accent-soft); }
+.demo-switch-item:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: 2px; }
+
+.demo-tiers .hud-brand { max-width: min(380px, 100%); }
+.demo-tiers .hint-pill { top: 92px; }
+
+/* a soft vignette over the canvas: the photograph fades into the gallery dark */
+.demo-vignette {
+  position: absolute; inset: 0; pointer-events: none;
+  background: radial-gradient(130% 110% at 50% 45%, transparent 55%, rgba(13, 11, 9, .55) 100%);
+}
+.demo-gallery-case .demo-vignette { background: radial-gradient(120% 100% at 50% 45%, transparent 60%, rgba(11, 9, 7, .5) 100%); }
+
+/* gallery: the place card while the camera glides in from the door */
+.demo-arrive {
+  position: absolute; left: 50%; top: 42%; transform: translate(-50%, -50%);
+  display: grid; justify-items: center; gap: 6px; pointer-events: none;
+  transition: opacity 1.2s var(--ease-out), transform 1.6s var(--ease-out), visibility 1.2s;
+  text-shadow: 0 2px 18px rgba(0,0,0,.6);
+}
+.demo-arrive .eyebrow { color: var(--accent-soft); }
+.demo-arrive-place { font-family: var(--font-display); font-size: clamp(36px, 6vw, 64px); font-weight: 300; color: var(--title); letter-spacing: -.02em; }
+.demo-arrive.is-gone { opacity: 0; transform: translate(-50%, -58%); visibility: hidden; pointer-events: none; }
+
+@media (max-width: 720px) {
+  .demo-tiers .hud-brand { max-width: calc(100vw - 2 * var(--gutter) - 60px); }
+  .demo-tiers .recreation-note { font-size: 10px; }
+  .demo-switch {
+    position: absolute; left: var(--gutter); right: var(--gutter); bottom: 136px;
+    justify-content: stretch;
+  }
+  .demo-switch-item { flex: 1; padding: 5px 10px 6px; justify-items: center; }
+  .demo-switch-tier { font-size: 11px; }
+  .demo-switch-chapter { font-size: 9px; }
+  .demo-tiers .hint-pill { top: 116px; }
+  .demo-tiers.phase-room .bubble-slot, .demo-tiers .phase-room .bubble-slot { bottom: 196px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .demo-arrive { transition: none; }
+}

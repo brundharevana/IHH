@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/pefo/learn/historyculture/scientistsresearchers.htm",
+  "fetch_url": "https://www.nps.gov/pefo/learn/historyculture/scientistsresearchers.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:40:30Z",
+  "sha256": "14cb53bd2f812a2c2d3a9e65fadb905d957e6913d2a678ece704a77cc7446f4f",
+  "bytes": 4630,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/pefo/learn/historyculture/scientistsresearchers.htm"
+}

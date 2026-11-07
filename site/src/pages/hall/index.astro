@@ -1,0 +1,49 @@
+---
+// The hallway: /hall/ (real-scan museum Task 5). The five inductees' easels stand in the 3D scan of
+// the King's Hall, Skokloster Castle (content/hall.json, checked by tools/content_check.py --hall).
+// An easel shows the inductee's painted portrait only when its photo record passes the licence gate
+// (gatedPortrait), otherwise a name card; choosing it opens that inductee's journey map, or, while a
+// journey is in preparation, a card with the name and one verified line. Text about an inductee
+// comes only from records (src/content/hall.js); the rest is fixed interface copy. The page exists
+// with content/hall.json (the home page links /hall/ when that file exists).
+import Base from '../../layouts/Base.astro';
+import ChapterRoom from '../../components/ChapterRoom.astro';
+import { listPipelineInductees, listInductees, loadInductee, factIndex, mediaIndex, loadJourney, portraitFiles, loadScan } from '../../content/load.js';
+import { gatedPortrait } from '../../content/portrait.js';
+import { loadHomeLines } from '../../content/home.js';
+import { loadHall, hallView } from '../../content/hall.js';
+import { scanRuntime, scanCredit } from '../../museum/scanroom.js';
+
+const hall = loadHall();
+if (!hall) throw new Error('content/hall.json is missing: the hallway page needs it');
+const withContent = new Set(listInductees());
+const lines = loadHomeLines();
+const view = hallView({
+  hall, inductees: listPipelineInductees(),
+  built: s => withContent.has(s) && Boolean(loadJourney(s)),
+  portraitOf: s => (withContent.has(s) ? gatedPortrait(loadInductee(s), { ...factIndex(s), media: mediaIndex(s) }, x => Boolean(portraitFiles(x))) : null),
+  lineOf: s => lines.get(s), idxOf: factIndex,
+});
+const scan = loadScan(view.scan);
+const runtime = {
+  slug: 'hall', n: 0, hall: true,
+  chapter: {
+    room: { scan: view.scan, ...(view.stations.length ? { stations: view.stations } : {}) },
+    title: 'The hallway', quotes: [], narration: [], exhibits: view.exhibits,
+  },
+  scan: scanRuntime(scan),
+};
+const heading = { inductee: 'Immigrant Hall of Honor', title: 'The hallway', titleChips: [], accent: '#3a2a2a' };
+---
+<Base title="The hallway" description="The hallway: the inductees of the Immigrant Hall of Honor, each on an easel in a 3D scan of a historic hall.">
+  <ChapterRoom heading={heading} hall={view.items} runtime={runtime}
+    scan={scanCredit(scan, 'the Immigrant Hall of Honor or its inductees')} />
+  <nav class="chapter-nav" aria-label="Hallway">
+    <a href="/">Entrance</a>
+  </nav>
+</Base>
+
+<style>
+  .chapter-nav { display: flex; flex-wrap: wrap; gap: var(--space-5); max-width: 1200px; margin: 0 auto; padding: var(--space-4); }
+  .chapter-nav a { color: var(--c-accent); display: inline-block; min-height: 24px; padding: var(--space-1) 0; }
+</style>

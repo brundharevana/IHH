@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/167820368",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=167820368",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:43:10Z",
+  "sha256": "3d3737a84b28ad628091646edb8288c089d1b83d02fae696e42d20634a9269f9",
+  "bytes": 15891,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=167820368"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://fi.edu/en/awards/laureates/albert-einstein",
+  "fetch_url": "https://fi.edu/en/awards/laureates/albert-einstein",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:23:26Z",
+  "sha256": "21330fb97af2565a2f2f341e84c323c8455b440e3a6ca84dd30f163045e956f6",
+  "bytes": 6031,
+  "http_status": 200,
+  "final_url": "https://fi.edu/en/awards/laureates/albert-einstein"
+}

@@ -1,0 +1,105 @@
+_version_: 1878547571791626240
+access_restricted: false
+aka[0]: http://memory.loc.gov/ammem/today/apr03.html
+aka[1]: http://www.loc.gov/item/today-in-history/april-03/
+aka[2]: http://www.loc.gov/item/today-in-history/april-03/john-burroughs/
+articles[0]: John Burroughs
+
+Writer John Burroughs was born on April 3, 1837, in Roxbury, New York. Like Henry David Thoreau before him, Burroughs gained a wide following for his observations, in the form of nature essays, of the world around him. Burroughs published his first collection of nature writings, Wake-Robin, in 1871. Among his best known works are Birds and Poets (1877), Locusts and Wild Honey (1879), Signs and Seasons (1886), and Ways of Nature (1905).
+
+…man made the city, and after he became sufficiently civilized, not afraid of solitude, and knew on what terms to live with nature, God promoted him to life in the country…
+
+In the Catskills, Selections…, by John Burroughs. Boston, New York: Houghton Mifflin Co., 1910. Selected Digitized Books. Library of Congress General Collections
+
+Noon Meditations at Slabsides/Kellogg & Innes. (Portrait of John Burroughs, seated in rocking chair). c1901. Prints & Photographs Division
+
+In the Catskills. Phila.: J. Hoover, c1887. Popular Graphic Arts. Prints & Photographs Division
+
+In 1899, Burroughs joined a host of luminaries, including fellow naturalist John Muir and painter Louis Agassiz Fuertes, on a scientific expedition along the Alaska coast. Burroughs’ writing is one of several items featured in The Harriman Alaska Expedition: Chronicles and Souvenirs May to August 1899, a private souvenir album created by the members of the expedition.
+
+Learn More
+
+To learn more about Burroughs and the historical context of his career view the archived Documentary Chronology of Selected Events in the Development of the American Conservation Movement, 1847-1920.
+
+Some works by John Burroughs have been digitized and can be accessed through the collection, Selected Digitized Books. A more complete list can be found by searching the Library’s online catalog.
+
+The Harriman Alaska Expedition set forth to increase America’s understanding of the Alaska region’s natural history and native inhabitants. An album of photographs taken by various members of the expedition is presented in the collection, Meeting of Frontiers. Several of the pictures documenting the area’s cultural diversity were shot by soon-to-be-renowned photographer Edward S. Curtis.
+
+Search on Thoreau or Muir in the archived collection The Evolution of the Conservation Movement, 1850-1920 or Selected Digitized Books to find more examples of the American tradition of nature writing.
+dates[0].1837-04-03: https://www.loc.gov/search/?dates=1837-04-03/1837-04-03&fo=json
+description[0]: John Burroughs
+digitized: true
+display_offsite: true
+event_date[0]: 1837-04-03
+extract_timestamp: 2026-10-09T05:04:42.458Z
+extract_urls[0]: http://www.loc.gov/item/today-in-history/april-03/#today-in-history
+format[0].web page: https://www.loc.gov/search/?fa=original_format:web+page&fo=json
+group[0]: today-in-history
+hassegments: false
+id: http://www.loc.gov/item/today-in-history/april-03/
+image_url[0]: https://www.loc.gov/static/managed-content/uploads/sites/10/1837/04/noon-meditations.jpg#h=416&w=525
+index: 1
+item.aka[0]: https://memory.loc.gov/ammem/today/apr03.html
+item.aka[1]: https://www.loc.gov/item/today-in-history/april-03/
+item.aka[2]: https://www.loc.gov/item/today-in-history/april-03/john-burroughs/
+item.articles[0]: John Burroughs
+
+Writer John Burroughs was born on April 3, 1837, in Roxbury, New York. Like Henry David Thoreau before him, Burroughs gained a wide following for his observations, in the form of nature essays, of the world around him. Burroughs published his first collection of nature writings, Wake-Robin, in 1871. Among his best known works are Birds and Poets (1877), Locusts and Wild Honey (1879), Signs and Seasons (1886), and Ways of Nature (1905).
+
+…man made the city, and after he became sufficiently civilized, not afraid of solitude, and knew on what terms to live with nature, God promoted him to life in the country…
+
+In the Catskills, Selections…, by John Burroughs. Boston, New York: Houghton Mifflin Co., 1910. Selected Digitized Books. Library of Congress General Collections
+
+Noon Meditations at Slabsides/Kellogg & Innes. (Portrait of John Burroughs, seated in rocking chair). c1901. Prints & Photographs Division
+
+In the Catskills. Phila.: J. Hoover, c1887. Popular Graphic Arts. Prints & Photographs Division
+
+In 1899, Burroughs joined a host of luminaries, including fellow naturalist John Muir and painter Louis Agassiz Fuertes, on a scientific expedition along the Alaska coast. Burroughs’ writing is one of several items featured in The Harriman Alaska Expedition: Chronicles and Souvenirs May to August 1899, a private souvenir album created by the members of the expedition.
+
+Learn More
+
+To learn more about Burroughs and the historical context of his career view the archived Documentary Chronology of Selected Events in the Development of the American Conservation Movement, 1847-1920.
+
+Some works by John Burroughs have been digitized and can be accessed through the collection, Selected Digitized Books. A more complete list can be found by searching the Library’s online catalog.
+
+The Harriman Alaska Expedition set forth to increase America’s understanding of the Alaska region’s natural history and native inhabitants. An album of photographs taken by various members of the expedition is presented in the collection, Meeting of Frontiers. Several of the pictures documenting the area’s cultural diversity were shot by soon-to-be-renowned photographer Edward S. Curtis.
+
+Search on Thoreau or Muir in the archived collection The Evolution of the Conservation Movement, 1850-1920 or Selected Digitized Books to find more examples of the American tradition of nature writing.
+item.event_date[0]: 1837-04-03
+item.tag_line[0]: Essayist and naturalist John Burroughs was born.
+item.toc[0].slug: john-burroughs
+item.toc[0].title: John Burroughs
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+mime_type[0]: text/html
+mime_type[1]: image/jpeg
+mime_type[2]: image/png
+online_format[0]: web page
+online_format[1]: image
+original_format[0]: web page
+partof[0].count: 30
+partof[0].title: april
+partof[0].url: https://www.loc.gov/search/?fa=partof:april&fo=json
+partof[1].count: 368
+partof[1].title: today in history
+partof[1].url: https://www.loc.gov/collections/today-in-history/?fo=json
+partof[2].count: 418988
+partof[2].title: american memory
+partof[2].url: https://www.loc.gov/search/?fa=partof:american+memory&fo=json
+profile: today-in-history
+score: 14.524273
+shard: 01
+shelf_id: 2027-04-03
+short_title: April 3
+site[0]: ammem
+source_modified: 2000-01-01T12:00:00Z
+tag_line[0]: Essayist and naturalist John Burroughs was born.
+timestamp: 2026-10-09T05:09:31.342Z
+title: Today in History - April 3
+toc[0].slug: john-burroughs
+toc[0].title: John Burroughs
+type[0]: article
+url: https://www.loc.gov/item/today-in-history/april-03/
+cite_this.apa: () Today in History - April 3. [Image] Retrieved from the Library of Congress, https://www.loc.gov/item/today-in-history/april-03/.
+cite_this.chicago: Today in History - April 3. Image. https://www.loc.gov/item/today-in-history/april-03/.
+cite_this.mla: Today in History - April 3. Image. Retrieved from the Library of Congress, <www.loc.gov/item/today-in-history/april-03/>.

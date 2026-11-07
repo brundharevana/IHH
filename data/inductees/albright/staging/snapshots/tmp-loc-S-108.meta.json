@@ -1,0 +1,10 @@
+{
+  "url": "https://blogs.loc.gov/kluge/2014/12/vaclav-havel-legacies/",
+  "fetch_url": "https://blogs.loc.gov/kluge/2014/12/vaclav-havel-legacies/",
+  "method": "http",
+  "fetched_at": "2026-10-09T19:32:45Z",
+  "sha256": "bea60d78b3eb1e23e58a7fba604ac212a8493a11f027c11572f6d5ce64e474d6",
+  "bytes": 6964,
+  "http_status": 200,
+  "final_url": "https://blogs.loc.gov/kluge/2014/12/vaclav-havel-legacies/"
+}

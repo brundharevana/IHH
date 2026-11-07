@@ -1,0 +1,10 @@
+{
+  "url": "https://places.ku.edu/buildings/debruce-center",
+  "fetch_url": "https://places.ku.edu/buildings/debruce-center",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:15:03Z",
+  "sha256": "3f72e3ec899ca47c9f9ad89fd91ac289ed374407c5f980f2b57870ac32c05afc",
+  "bytes": 3001,
+  "http_status": 200,
+  "final_url": "https://places.ku.edu/buildings/debruce-center"
+}

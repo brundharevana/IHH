@@ -1,0 +1,10 @@
+{
+  "url": "https://about.fiba.basketball/en/fiba-hall-of-fame/hall-of-famers/james-naismith",
+  "fetch_url": "https://about.fiba.basketball/en/fiba-hall-of-fame/hall-of-famers/james-naismith",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:15:25Z",
+  "sha256": "3ef6506c9cc59240bc207b4f7c92646c003c48c8e404a8763bbf5f854433ea9d",
+  "bytes": 2808,
+  "http_status": 200,
+  "final_url": "https://about.fiba.basketball/en/fiba-hall-of-fame/hall-of-famers/james-naismith"
+}

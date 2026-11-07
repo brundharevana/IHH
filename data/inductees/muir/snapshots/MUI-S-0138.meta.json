@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn85066387/1903-05-18/ed-1/?sp=1",
+  "fetch_url": "https://www.loc.gov/resource/sn85066387/1903-05-18/ed-1/?sp=1&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T19:00:21Z",
+  "sha256": "a1a7861b2c04366e8820fdb76e94959be744b8e5d8a92518ab9ec88879e33d0c",
+  "bytes": 29222,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn85066387/1903-05-18/ed-1/?sp=1&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_etna_ver01/data/00100480402/1903051801/0347.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/curiv/batch_curiv_etna_ver01/data/00100480402/1903051801/0347.xml"
+}

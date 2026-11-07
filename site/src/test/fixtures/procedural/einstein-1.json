@@ -1,0 +1,45 @@
+{
+  "id": "einstein-1",
+  "title": "American citizenship",
+  "title_fact_ids": ["EIN-F-0051"],
+  "room": "chapter-gallery",
+  "accent": "#3E4A52",
+  "narration": [
+    {"cue": "c1", "text": "Albert Einstein immigrated to the United States.", "fact_ids": ["EIN-F-0108"], "reveals": ["ex1"]},
+    {"cue": "c2", "text": "In 1933 Albert Einstein renounced his German citizenship.", "fact_ids": ["EIN-F-0109"], "reveals": []},
+    {"cue": "c4", "text": "The record of naturalization for Albert Einstein at the National Archives at Philadelphia includes a Certificate of Arrival, Declaration of Intention, Petition for Naturalization, and Oath of Allegiance.", "fact_ids": ["EIN-F-0001"], "reveals": ["ex2"]},
+    {"cue": "c5", "text": "The Declaration of Intention for Albert Einstein is from 15 January 1936.", "fact_ids": ["EIN-F-0045"], "reveals": ["ex3"]},
+    {"cue": "c6", "text": "A photograph of Albert Einstein is affixed to the Declaration of Intention.", "fact_ids": ["EIN-F-0057"], "reveals": []},
+    {"cue": "c8", "text": "Albert Einstein's Petition for Naturalization has petition number 4009, assigned by the U.S. District Court for the District of New Jersey, Trenton.", "fact_ids": ["EIN-F-0056"], "reveals": ["ex4"]},
+    {"cue": "c10", "text": "Albert Einstein was photographed receiving from Judge Phillip Forman his certificate of American citizenship.", "fact_ids": ["EIN-F-0051"], "reveals": []}
+  ],
+  "exhibits": [
+    {"id": "ex1", "number": 1, "type": "framed-photograph", "wall": "north", "slot": 1,
+     "media_id": "EIN-M-0006", "original_media_id": "EIN-M-0006",
+     "title": "Albert Einstein, 1879-1955", "title_fact_ids": ["EIN-F-0005", "EIN-F-0006"],
+     "notes": [],
+     "evidence": "photograph"},
+    {"id": "ex2", "number": 2, "type": "framed-document", "wall": "north", "slot": 2, "page": 1,
+     "media_id": "EIN-M-0019", "original_media_id": "EIN-M-0019",
+     "title": "Certificate of Arrival", "title_fact_ids": ["EIN-F-0001"],
+     "notes": [
+       {"text": "The record of naturalization for Albert Einstein at the National Archives at Philadelphia includes a Certificate of Arrival, Declaration of Intention, Petition for Naturalization, and Oath of Allegiance.", "fact_ids": ["EIN-F-0001"]}
+     ],
+     "evidence": "record"},
+    {"id": "ex3", "number": 3, "type": "framed-document", "wall": "north", "slot": 3, "page": 2,
+     "media_id": "EIN-M-0019", "original_media_id": "EIN-M-0019",
+     "title": "Declaration of Intention and Petition for Naturalization for Albert Einstein", "title_fact_ids": ["EIN-F-0001"],
+     "notes": [
+       {"text": "A photograph of Albert Einstein is affixed to the Declaration of Intention.", "fact_ids": ["EIN-F-0057"]}
+     ],
+     "evidence": "record"},
+    {"id": "ex4", "number": 4, "type": "360-document", "wall": "north", "slot": 4, "pages": [3, 4],
+     "media_id": "EIN-M-0019", "original_media_id": "EIN-M-0019",
+     "title": "Petition for Naturalization, petition number 4009", "title_fact_ids": ["EIN-F-0056"],
+     "notes": [
+       {"text": "Albert Einstein's Petition for Naturalization has petition number 4009, assigned by the U.S. District Court for the District of New Jersey, Trenton.", "fact_ids": ["EIN-F-0056"]}
+     ],
+     "evidence": "record"}
+  ],
+  "quotes": []
+}

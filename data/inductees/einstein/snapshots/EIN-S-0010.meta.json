@@ -1,0 +1,10 @@
+{
+  "url": "https://www.einsteinturm.com/en/einstein-donation",
+  "fetch_url": "https://www.einsteinturm.com/en/einstein-donation",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:26:07Z",
+  "sha256": "c208d56250d712b89639e6c8389091226c6287ebf0429d0f41a4a0f34fa19e11",
+  "bytes": 9638,
+  "http_status": 200,
+  "final_url": "https://www.einsteinturm.com/en/einstein-donation"
+}

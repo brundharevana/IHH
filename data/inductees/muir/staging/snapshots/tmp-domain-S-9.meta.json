@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/articles/725020.htm",
+  "fetch_url": "https://www.nps.gov/articles/725020.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:37:23Z",
+  "sha256": "c0a9096c3b3ffec18dfaafa8de1a3b4edfe0f852810ce1c2c012e22eeab9ad01",
+  "bytes": 6752,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/articles/725020.htm"
+}

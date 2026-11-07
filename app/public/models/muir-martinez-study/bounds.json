@@ -1,0 +1,67 @@
+{
+  "$comment": "Walkable bounds for free roam in muir-martinez-study.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m. The washstand alcove lies outside the walkable rectangle (south of z_max).",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 3.353,
+  "walkable": {
+    "x_min": -1.922,
+    "x_max": 1.922,
+    "z_min": -2.442,
+    "z_max": 2.442
+  },
+  "obstacles": [
+    {
+      "name": "artifact_fireplace",
+      "x_min": -2.322,
+      "x_max": -1.112,
+      "z_min": -0.373,
+      "z_max": 1.627
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 1.1,
+      "z": -1.98,
+      "look_at": {
+        "x": -1.6,
+        "y": 1.2,
+        "z": 1.6
+      },
+      "note": "Viewpoint of HABS photograph 13 (October 1960): fireplace, window, washstand alcove"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 0.25,
+      "z": 0.63,
+      "look_at": {
+        "x": -1.622,
+        "y": 1.2,
+        "z": 0.627
+      },
+      "note": "In front of the fireplace and the overmantel mirror"
+    },
+    {
+      "name": "hotspot_3",
+      "x": -0.95,
+      "z": 1.05,
+      "look_at": {
+        "x": -1.72,
+        "y": 1.2,
+        "z": 2.992
+      },
+      "note": "The washstand alcove in the south-west corner"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 0.2,
+      "z": 1.6,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.2,
+        "z": -2.692
+      },
+      "note": "Facing the two north windows (front of the house)"
+    }
+  ]
+}

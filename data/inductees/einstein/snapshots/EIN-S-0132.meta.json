@@ -1,0 +1,10 @@
+{
+  "url": "https://archive.org/stream/sim_annalen-der-physik_1905_17_5/sim_annalen-der-physik_1905_17_5_djvu.txt",
+  "fetch_url": "https://archive.org/stream/sim_annalen-der-physik_1905_17_5/sim_annalen-der-physik_1905_17_5_djvu.txt",
+  "method": "http",
+  "fetched_at": "2026-10-27T13:02:25Z",
+  "sha256": "6be8abfe8839be07b66a4bb26462861b0590d45f58b7c28c0d9e637b59eac54f",
+  "bytes": 455604,
+  "http_status": 200,
+  "final_url": "https://archive.org/stream/sim_annalen-der-physik_1905_17_5/sim_annalen-der-physik_1905_17_5_djvu.txt"
+}

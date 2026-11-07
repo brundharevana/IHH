@@ -1,0 +1,89 @@
+---
+import '../styles/tokens.css';
+// theme: 'light' (rooms, Lite, method page; the original look) or 'dark' (home and timeline: the
+// glass design system of tokens.css). The shared chrome (header, footer, buttons) reads the tokens,
+// so it follows either theme.
+const { title, description, theme = 'light' } = Astro.props;
+const dark = theme === 'dark';
+---
+<!doctype html>
+<html lang="en" data-theme={dark ? 'dark' : undefined}>
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{title} | IHH: Voices of Arrival</title>
+{dark && <meta name="theme-color" content="#0b0f15">}
+{dark && <link rel="preload" href="/fonts/poppins/poppins-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>}
+{dark && <link rel="preload" href="/fonts/poppins/poppins-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>}
+<script is:inline>
+  // Story mode (?story=1): opt this page in to cross-document View Transitions before its first render,
+  // so the pages of the story cross-fade. Only story pages: other navigation is left as it was.
+  if (/[?&]story=1(&|$)/.test(location.search)) { var vt = document.createElement('style'); vt.id = 'voa-vt'; vt.textContent = '@view-transition { navigation: auto; }'; document.head.appendChild(vt); document.documentElement.dataset.storyFade = 'in'; }
+</script><meta name="description" content={description}><slot name="head" /></head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<slot name="backdrop" />
+<header class="site-header" data-glass={dark ? '' : undefined}>
+  <a class="brand" href="/">IHH: Voices of Arrival</a>
+  <button type="button" class="ambient-toggle" aria-pressed="false" data-ambient>Room sound</button>
+</header>
+<main id="main"><slot /></main>
+<footer class="site-footer"><a href="/how-this-was-made/">How this was made</a></footer>
+</body></html>
+
+<script>
+  import { mountAmbient } from '../ui/ambient.js';
+  mountAmbient(document.querySelector('[data-ambient]'));
+</script>
+
+<style is:global>
+  /* Story mode moves between pages with a cross-document fade where View Transitions are supported
+     (the default root cross-fade, kept short; the opt-in is the head script above and src/ui/story.js);
+     elsewhere it fades in itself. A fade, so it stays under reduced motion. */
+  ::view-transition-old(root), ::view-transition-new(root) { animation-duration: 300ms; }
+  body { margin: 0; background: var(--c-bg); color: var(--c-ink); font-family: var(--f-sans); }
+  /* Off-screen until focused; hides again on blur (no script). */
+  .skip-link { position: absolute; left: var(--space-2); top: -100px; z-index: 100; padding: var(--space-2) var(--space-4);
+    background: #fff; color: #1f1d1a; border: 2px solid var(--c-focus); border-radius: 6px; font-family: var(--f-ui); }
+  .skip-link:focus { top: var(--space-2); }
+
+  /* Shared chrome: Poppins, tokenised colours and radii, in both themes. */
+  .site-header { display: flex; align-items: center; justify-content: space-between; gap: var(--space-3);
+    padding: var(--space-2) var(--space-4); font-family: var(--f-ui); }
+  .site-header .brand { font-weight: 600; letter-spacing: -0.01em; }
+  .site-header a, .site-footer a { color: var(--c-accent); display: inline-block; min-height: 24px; padding: var(--space-1) 0; }
+  .ambient-toggle { min-height: 44px; min-width: 44px; padding: var(--space-2) var(--space-4); font: inherit; font-size: var(--t-small);
+    font-weight: 500; color: var(--c-ink); background: #fff; border: 1px solid var(--c-muted); border-radius: var(--radius-pill); cursor: pointer; }
+  .ambient-toggle[aria-pressed="true"] { background: var(--c-ink); color: #fff; border-color: var(--c-ink); }
+  .site-footer { padding: var(--space-4); font-family: var(--f-ui); }
+
+  /* Dark theme chrome: a glass bar over the page backdrop. */
+  [data-theme="dark"] body { -webkit-font-smoothing: antialiased; }
+  [data-theme="dark"] .site-header { position: sticky; top: 0; z-index: 10; padding: var(--space-2) var(--space-8);
+    background: var(--glass-panel); backdrop-filter: var(--glass-blur); -webkit-backdrop-filter: var(--glass-blur);
+    border-bottom: 1px solid var(--glass-border); }
+  [data-theme="dark"] .site-header .brand { color: var(--voa-text); text-decoration: none; font-size: 1.0625rem; }
+  [data-theme="dark"] .site-header .brand:hover { text-decoration: underline; text-underline-offset: 4px; }
+  [data-theme="dark"] .ambient-toggle { color: var(--voa-text); background: var(--glass-fill); border-color: var(--glass-border);
+    transition: background 200ms var(--ease-out), border-color 200ms var(--ease-out); }
+  [data-theme="dark"] .ambient-toggle:hover { background: var(--glass-fill-hover); border-color: var(--glass-border-hover); }
+  [data-theme="dark"] .ambient-toggle[aria-pressed="true"] { background: var(--voa-text); color: var(--voa-bg); border-color: var(--voa-text); }
+  [data-theme="dark"] .site-footer { position: relative; padding: var(--space-5) var(--space-8); color: var(--voa-text-2);
+    background: var(--glass-panel); border-top: 1px solid var(--glass-border); }
+  [data-theme="dark"] .site-footer a { color: var(--voa-text); }
+  @media (max-width: 768px) {
+    [data-theme="dark"] .site-header, [data-theme="dark"] .site-footer { padding-left: var(--space-4); padding-right: var(--space-4); }
+  }
+
+  /* Buttons of the design system. Primary: the orange gradient; secondary: glass. 44 px targets. */
+  .btn { display: inline-flex; align-items: center; justify-content: center; gap: var(--space-2); min-height: 44px; min-width: 44px;
+    box-sizing: border-box; padding: var(--space-2) var(--space-5); font-family: var(--f-ui); font-size: var(--t-small); font-weight: 600;
+    line-height: 1.2; text-decoration: none; border-radius: var(--radius-pill); cursor: pointer;
+    transition: transform 250ms var(--ease-out), box-shadow 250ms var(--ease-out), background 250ms var(--ease-out), border-color 250ms var(--ease-out); }
+  .btn-primary { color: var(--voa-on-accent); background: linear-gradient(135deg, var(--voa-orange-1), var(--voa-orange-2));
+    border: 1px solid rgb(255 255 255 / .18); box-shadow: 0 4px 16px var(--voa-orange-glow); }
+  .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 24px var(--voa-orange-glow-strong); }
+  .btn-glass { color: var(--voa-text); background: var(--glass-fill); border: 1px solid var(--glass-border);
+    border-radius: var(--radius-btn); box-shadow: var(--glass-shadow); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+  .btn-glass:hover { transform: translateY(-1px); background: var(--glass-fill-hover); border-color: var(--glass-border-hover); }
+  .btn:focus-visible { outline: 3px solid var(--c-focus); outline-offset: 3px; }
+  @media (prefers-reduced-transparency: reduce) { .btn-glass { backdrop-filter: none; -webkit-backdrop-filter: none; } }
+</style>

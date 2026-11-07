@@ -1,0 +1,1599 @@
+_version_: 1747588693088010240
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045462/1933-10-08/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045462/1933-10-08/ed-1/
+batch[0]: dlc_1duchamp_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json
+created_published[0]: Washington, D.C., October 8, 1933
+date: 1933-10-08
+date_issued: 1933-10-08
+dates[0].1933-10-08: https://www.loc.gov/search/?dates=1933-10-08/1933-10-08&fo=json
+dates_of_publication: 1854-1972
+description[0]: Washington, D.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2020-09-15T06:36:58.433Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933100801/1933100801_1.xml#ndnp/dlc-2018_2019
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2018_2019
+group[1]: library-of-congress-washington-dc-awardee-7
+hassegments: true
+id: http://www.loc.gov/item/sn83045462/1933-10-08/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1duchamp_ver01:data:sn83045462:00280601305:1933100801:0007/full/pct:6.25/0/default.jpg#h=489&w=363
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1duchamp_ver01:data:sn83045462:00280601305:1933100801:0007/full/pct:12.5/0/default.jpg#h=979&w=727
+index: 3
+item.batch[0]: dlc_1duchamp_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington, D.C., October 8, 1933
+item.date: 1854
+item.date_issued: 1933-10-08
+item.dates[0]: 1933-10-08
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045462
+item.location[0]: Washington (D.C.)
+item.medium: 102 pages
+item.newspaper_title[0]: Evening star.
+item.notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+item.notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+item.notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+item.notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+item.notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+item.notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+item.notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933100801/1933100801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045462/marcxml
+item.other_title[0]: Sunday star
+item.other_title[1]: Star
+item.place_of_publication: Washington, D.C.
+item.raw_lccn: sn 83045462
+item.reel_numbers[0]: 00280601305
+item.source_group: ndnp/dlc-2018_2019
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: Evening star (Washington, D.C.), October 8, 1933
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn83045462
+location[0]: washington d.c.
+location[1]: washington
+location[2]: district of columbia
+location[3]: united states
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+medium: 102 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Evening star.
+notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+number[0]: sn83045462
+number[1]: 00280601305
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn83045462
+number_reel[0]: 00280601305
+numeric_shelf_id: 193310081
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933100801/1933100801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045462/marcxml
+other_title[0]: Sunday star
+other_title[1]: Star
+partof[0].count: 36935
+partof[0].title: evening star (washington, d.c.) 1854-1972
+partof[0].url: https://www.loc.gov/search/?fa=partof:evening+star+%28washington,+d.c.%29+1854-1972&fo=json
+partof[1].count: 3210970
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232476
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: evening star (washington, d.c.) 1854-1972
+place_of_publication: Washington, D.C.
+publication_frequency[0]: daily
+raw_lccn: sn 83045462
+reel_numbers[0]: 00280601305
+resources[0].files: 102
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1duchamp_ver01:data:sn83045462:00280601305:1933100801:0007/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045462/1933-10-08/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn83045462, 1933-10-08, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2018_2019
+subject[0]: washington
+subject[1]: united states
+subject[2]: district of columbia
+subject[3]: washington (d.c.)
+subject[4]: newspapers
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+timestamp: 2022-10-24T16:51:48.438Z
+title: Evening star (Washington, D.C.), October 8, 1933
+type[0]: issue
+url: https://www.loc.gov/item/sn83045462/1933-10-08/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933100801/0009.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045462/1933-10-08/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1duchamp_ver01:data:sn83045462:00280601305:1933100801:0007/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933100801/0009.pdf
+resources[0].segment_count: 102
+resources[0].url: https://www.loc.gov/resource/sn83045462/1933-10-08/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1933, October 8) Evening Star. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045462/1933-10-08/ed-1/.
+cite_this.chicago: Evening Star. (Washington, DC), Oct. 8 1933. https://www.loc.gov/item/sn83045462/1933-10-08/ed-1/.
+cite_this.mla: Evening Star. (Washington, DC) 8 Oct. 1933, p. 3. Retrieved from the Library of Congress, www.loc.gov/item/sn83045462/1933-10-08/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933100801/0009.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1duchamp_ver01/data/sn83045462/00280601305/1933100801/0009.xml&format=alto_xml&full_text=1
+full_text:
+U.S. WHISKY OUTPUT
+MOUNTS 18 TIMES
+Commissioner Doran Author
+izes Total of 18,000,000
+Gallons This Year.
+By the Associated Press.
+At least 18,000.000 gallons of whisky
+Will be made by American distilleries
+this year, in contrast to an annual out
+put of 1.000.000 gallons for the last
+Jour years.
+The current year began with an al
+lotment of 4.000.000 gallons, which was
+increased two months ago to 11.000,000.
+Yesterday Dr. James M. Doran, com
+missioner of industrial alcohol, added
+another 7.000.000 to the year's author
+ized production.
+He explained his action was not dic
+tated by the possibility of early repeal,
+but by 'the rapidity with which stocks
+of aged domestic liquor were being re
+d iced through drug store sales.
+Until last Spring physicians were
+sharply limited in the amount of alco
+holic liquors they could prescribe within
+a given period. The Celler law en
+acted at the last session of Congress
+removed these restrictions, and phy
+sicians are now authorized to prescribe
+any quantity they believe a patient
+needs.
+Drug Store Sales.
+Frior to the passage of this measure
+liquor sales through the drug stores
+were a little less than a million gallons
+a year. It was with this rate of con
+sumption in mind that the million
+gallon quota was authorized through
+four successive years.
+But. under the Cellar law. basing
+their ligures on warehouse withdrawals,
+officials estimate consumption is now
+about 8.000.000 gallons annually.
+Aged stocks now aggregate from 4
+000.000 to 4.500.000 gallons, including
+1323's million-gallon output. Whisky
+must be four years old before it can be
+fif'd- #,,n
+Distilleries have been running at full
+speed all vear. Should the 18.000.000
+f'alien quota be exhausted before Jan
+uary 1. Dr. Doran indicated that a fur
+ther extension might be granted.
+Importation l onsitirrea.
+The commissioner and his advisers
+pre giving consideration to the pos
+sibility of authorizing liquor imports
+to increase further the stocks cn hand.
+The division has received many ap
+plications for permission to import,
+framed on the contention that repeal
+is inevitable and that the available sup
+ply wcuVI prove to be onlv a small per
+centage of the demand that would fol
+low. In 1917. the last full pre-prohibi
+tion year, whisky consumption totaled
+167.030.000 gallons._
+Dr. Doran already has authorized the
+importation of a small quantity of
+brandy, w'liich he said was to meet a
+shortage of such liquor for use in hos
+pitals. The shipment arrived at New
+York a few days ago.
+Imported liquors are being assessed
+a tarifl of $5 a gallon. In the event of
+repeal, the internal revenue tax of $1.10
+would be added, making a total levy of
+56.10 a gallon.
+Domestic distillers have raised their
+prices to such a peak in the last few
+months that officials of the division
+have estimated that the importers could
+match domestic prices even after pay
+ing these levies.
+Divorce Suit Looms.
+CHICAGO. October 7 i40. Norman
+H. Pritchard, attorney for Mrs. William
+M.tehfll Blair, prominent socially, said
+last night Mrs. Blair will file a suit for
+divorce within a week. Pritchard said
+the charge probably would be cruelty.
+The Blair's wedding in 1921 was a social
+event in fashionable Lake Forest. Blair
+was formerly president of the Dealers'
+Equipment Co.
+SPECIAL NOTICES.
+I AM NOT RESPONSIBLE FOR ANY DEBTS
+ri Jess contracted by myself LEWIS S.
+I OPLEY. HUM L st n.w. _8*
+I POSITIVELY WILL NOT BE RESPONSIBLE
+for anv bills contracted in my name unlecs
+ever my written signature. MARY F.
+MOORE. K>«ir, Shepherd st n.e_8*
+MOVING—LOADS WANTED TO AND FROM
+Baltimore. Pliiladelphia. New York. Harris
+mirc. Pa.. St. Petersburg. Fla.. Cleveland.
+Ohio and Intermediate points: reasonable
+rates: cargoes insured. CHEVY CHASE
+TRANSFER STORAGE CO. WI MU)
+8*
+\VE_HANDLE~ALL_ GRADES COAL AT
+ton discount for cash: call for prices.
+Central Coal Co. 4H‘.» School st. s.w.
+NAtional 11 IT. __ _ __ __
+HONEY. 5 LBS. 00c. COOKING. 10 LBS
+SI. O combs. Si: del. Call LYN. WEst
+OH54. bv 10 any morning. _ •_
+SPECIAL RETURN-LOAD RATES ON FULL
+and part loads to all points within l.Otio
+miles padded vans: guaranteed service: lo
+cal moving also. Phone NA. 1400. NAT
+DF.T, ASSOC INC 1017 N Y. ave.
+INVALID ROLLING CHAIRS FOR RENT OR
+sale; complete line of new and used chairs,
+pll sizes, styles and adjustments; reduced
+prices. Also folding chairs, wood or metal.
+UNITED STATES STORAGE CO..
+_418 loth Sr. N.W.__ME. 1*43.
+WHEN YOU NEED AN ELECTRICIAN CALL
+the Electric Shop on Wheels, Inc A complete
+shop on wheels will be sent to your door
+Phones_ Wisconsin 4*21 Columbia 2400
+UNICE BERLIN. FORMERLY WITH LIL
+]:an's Beauty Shop, is now with Norma
+Beauty Shop and would be clad to see her
+many patrons. 72* 11th st. n.w. ME *007.
+I AM A REGISTERED PLUMBER IN THE
+District. Will work by hour. day. or mb.
+4038 Gault pi. n.e. _
+FIRST CHURCH OF DIVINE METAPHY
+SICS. Rev. Dorothea P. Morse. M. D pas
+tor Praver mee:ing Thursdays. P m.
+1753 Corcoran st. n.w.. beginning Oct. 12.
+FURNITURE REPAIRED AND UPHOLSTER
+rd in your home; member N. R. A free
+estimates. Address Box 237-C, Star office._•
+No. 13782.
+TREASURY DEPARTMENT.
+Office of the Comptroller of the Currency
+Washington. D. C-. September 23. 1833.
+WHEREAS by satisfactory evidence pre
+sented to the t:ndersigned. it has been made
+to appear that
+•Hamilton National Bank of Washington
+in the c.tv of Washington, in the District
+of Columbia, has complied with all the pro
+visions of the statutes of the United States,
+required to he complied w*th before an as
+sociation shall be authorized to commence
+he business of banking;
+NOW THEREFORE I. J F. T. O Connor,
+Comptroller of the Currency, do hereby
+certify hat
+••Hamilton National Bank of Washington."
+In the citv of Washinaton. in the District
+of columb'a. is authorized to commence the
+business of bankina as provided in section
+fifty cne hundred and sixty nine of the
+Revised Statutes of the United States
+IN TESTIMONY WHEREOF, witness my
+hand and seal of office this twenty-third
+da- of September ln.d.'i
+.Seal) J F T O'CONNOR.
+Comptroller_of the Currency. _
+FURNACE CHIMNEY
+I'U CO. i'llb 1th n.w. STerlinc (Mini._•
+Caroenters and Joiners
+Local 15!mi International Brotherhood, in
+v von to join with them at open charter
+n of' s!<» until D c 1. Meet Tuesday. Oct.
+in. rt i;23 Ir.d. ave. n.w. After Oct. 10. at
+mu's Pmn ave. n.w._*__
+Crapes, Grape Juice, Apples,
+Cider at Quaint Acres
+On Silver Sprine-Cplesville Pike Route
+T’o 27 only 5 miles north of D. C. line.
+Telephone Ashton 24-F-2._
+.w -w .-Irimnoj k« vanium.
+rUr'NALW *2..V> Parts for every
+furnace. Heating systems instaU^d and re
+paired: 24-hour service. Carl Pcbey. Inc.,
+5 Fla, ave. n.e, Lincoln 1440._S*
+APPLES, SWEET CIDER
+Rockville Fruit Farm
+1 mile from Rockville. Md. Turn left on
+Potomac rd.. 2 blocks beyond Court House
+CONSOLIDATE YOUR BILLS THROUGH
+LINCOLN SERVICE CORP.,
+_200 Woodward Bldg.. NA. 2003.
+WEATHER STRIPPING
+Caulking stops dirt, drafts, leaks: est.
+furn TURBERVILLE. 117 11th s.e. LI. 4663
+At Gibson's, 917 G St. N.W.
+You will always be sure of getting a
+Truss. Elastic Stocking or Abdominal Sup
+port at the Lowest Possible Price consistent
+with quality and service rendered
+ELLETT FOR TILE WORK,
+REPAIRING.
+WA. 8731._llOfi Bth N.W.
+CHAMBFRS one of the larr
+VrfTXfVLYAJJXI.XViJ „t undertakeI1 in
+the world. Complete funerals as low as
+fw5 up. fl chapels. 17 parlors. 17 cere,
+hearses and ambulances 75 undertakers and
+assistant*.
+After Repeal—What?
+Capt. Stay ton Derides Prohibitionists Who Seek to
+Cure Liquor Evil by f,Get Good
+Quick” Remedy.
+I
+BY CAPT. WILLIAM H. STAYTOJf,
+Member of Executive Committee of Associa
+tion Against the Prohibition Amen iment.
+This is the ninth article of a
+scries on the subject "After Repeal,
+What?"
+History will help forecast the future.
+When in 1920 the Volstead act went
+into effect several million persons -vis
+ioned a nation of total abstainers. Yet
+I if any one of them had ‘‘thought
+I through” he would have realized he
+j was expecting some miracle to change
+I that human nature which has con
+tinued through the ages.
+Those who in 1920 expected the mil
+lennium then have seen their hopes
+j crushed Those who now expect it the
+day the thirty-sixth State ratifies re
+peal will merely repeat the disappoint
+ments of the drys.
+Ccmp -ed With Other Evils.
+Let us learn the possible future of the
+liquor evil by comparing it with other
+eviis. Outstanding evils include sin,
+poverty, sickness and drunkenness,
+i Sin. Have the clergy some plan for
+sudden abolition of sin? If so. let them
+announce it, and the wets will be quick
+to adopt it.
+Poverty. Its disappearance is net
+imminent. Thrift, hard work, earnest
+effort, home instruction, seem to prom
+ise more than any new scheme.
+Sickness. Doctors do not expect to
+exterminate cur bodily ills in a day.
+Legislation or no legislation, they know
+self-care, sanitation, scientific study
+laboratory research and education are
+I the bases of their hopes of progress,
+J which must be painfully slow.
+Drinking Declared Inherent.
+Drunkenness. It has many similari
+ties to these other ills. It will not
+disappear overnight. We must realize
+progress will be slow, for the evil is
+inherent in human nature. Training
+home influenc=, reliance upon the solid
+i virtues, are our hope. He who. hating
+the evils of liquor, lacks the fortitude
+to carry on a long campaign of edu
+cation and kindly persuasion, and who
+consequently seeks some quack "get
+good quick" rem°dy. does not belong
+in the struggle for real temperance.
+Fortunately, every one of the 48
+States will be trying out its own plans,
+and so there will b? set up, in a
+fashion, a scientific laboratory in each.
+If we watch those laboratories our pace
+toward the goal may be quickened. But
+lie who thinks human nature can be
+so changed that drunkenness will be
+stopped is deluding h mself and doing
+haim rather than good.
+The question so often addressed to
+the wets, "What, plan have 'ou to
+ofTer?” is best dfscr.b"d as glib.
+i paper Alliance. Inc.»
+(Copvrtaht. 1033. by North American News
+CAPT. WILLIAM H. STAYTON.
+I
+Reference to Van der Lubbe
+as Idiot Gets Laugh at
+Arson Trial.
+By the Associated Press.
+LEIPZIG. Germany. October 7.—
+The court pcunded away today in an
+attempt to leam whether the three
+Bulgarian defendants in the Reichstag
+fire trial were linked with the German
+Communists, but all stoutly denied it
+in testimony also designed to prove
+they could not have set the b'aze
+One of the three, the outspoken
+Georgi Dimitrofl. who was ousted from
+the court room yesterday after tan
+gling with the judges, made his peace'
+with Wilhelm Buenger. the presiding
+justice, at the start of the session, but
+it did not last. Before the day was out
+he ran afoul of the judges again and
+was warned he had better behave, j
+This reprimand followed a suggestion
+that the police, one of whom :i called
+a liar yesterday, had juggled som* of
+the trial exhibits. He said the officers
+might intentionally have removed seme
+of the cards to leave only those of the
+imperial palace and the Reichstag
+Building so as to incriminate him.
+Spectators Get Laugh.
+One of the belligerent sallies of
+Dimitrofl drew a laugh from the spec
+tators. Buenger was questioning
+Marinus van der Lubbe. young Dutch
+man, who has confessed firing the Par
+liament Building, concerning testimony
+of a waiter that he had been seen in
+a Berlin restaurant with Dimitroff.
+Blagoi Popoff and Wassil Taneff. the
+Bulgarians.
+After Van der Lubbe had denied it.
+Dimitrofl broke in with the suggestion
+Jacobus Kossner. an Austrian writer,
+might have been the man instead of the
+Dutchman.
+Buenger asked Van der Lubbe to
+hold his head up to show whether he
+bore a likeness to the Austrian. The
+Dutchman paid no heed to the de
+mand. whereupon Dimitrofl. with a
+contemptous gesture, said:
+"When I lo k at this idiot
+The rest of the remark was lost in the
+laughter of the spectators.
+Tell About Movements.
+Dimitroff. Popoff and Taneff gave de
+tailed accounts of their movements on
+the night of the fire in attempts to es
+tabalish alibis, but the court announced
+this did not end the matter.
+When the hearing is resumed Tues
+day in Eerlin, it was announced, they
+will be confronted with witnesses wh'«
+the prosecution claims will testify they
+were seen in the neighborhood of the
+All the Bulgarians denied the testi
+mony of witnesses in the preliminary
+examinations that they had gathered
+with a greup of Communists in the
+home of the former Communist Reich
+stag member. Willy Muenzenberg, on the
+day Chancellor Hitler swept into office.
+Dimitroff said he "merely knew" Musn
+zenberg “from Moscow" and that "this
+was the first time I have heard of that
+meeting."
+DimitrofT said he was in the Reich
+stag Building only one time, and that in
+1921. and that the first he knew of the
+fire was when he read newspapers while
+en rcute to Berlin on a train from
+Munich.
+Asked what his impressions were when
+he read of the blaze, he replied: “I
+thought It was the act of either provoc
+ateurs or madmep.”
+Popoff testified he had never been in
+the Reichstag Building and joined with
+Tareff in declaring they spent the night
+of the fire at a motion picture theater
+and in cafes.
+CHURCH MERGER VOTED
+Evangelical Conference Approves
+Joining With Reformed Body.
+CINCINNATI. October 7 OP).—The
+general conference of the Evangelical
+Synod of North America by unanimous
+vote today agreed to a proposed union
+with the reformed church, forming a
+new denomination of approximately
+9O0.CT0 communicants
+The merger previously had been ap
+proved by the reformed church.
+Actual consummation of the merger,
+however, will not be effected for ap
+proximately two years. It was said,
+pending adjustment on both sides,
+and the creation of a new governing
+body to take the place of the high
+councils of the two denominations.
+PLANES AWAIT MACON
+Arrive in Albuquerque on Transfer
+From Lakehurst.
+LAKEHURST. N. J„ October 7 0P)._
+Two fighting planes, transferred to the
+Naval Air Station. Sunnyvale, Calif.,
+arrived in Albuquerque. N. Mex.. yester
+day in their westward trek, piloted by
+Lieuts. Young and Larson, the naval air
+station here reported today.
+An observation land plane, piloted by
+Lieut. Kivette Robinic, left here yester
+day morning for the coast.
+The planes will await the arrival of
+the Navy Dirigible Macow, scheduled to
+leave here in a few days.
+REICH TREATMENT
+OF JEWS ATTACKED
+Senator Hubert of France:
+Expresses Regret in Speech
+Before League.
+By the Associated Press.
+GENEVA, Switzerland. October 7.—
+An additional attack on Germany's
+treatment of Jews, this time at a ple
+nary session of the League of Nations
+Assembly, by Senator Lucien Hubert of
+France, climaxed today's animated dis
+cussion of the Jewish problem.
+During a consideration of the British
+mandate in Palestine and alluding to
+Germany. Senator Hubert said he la
+mented that Jews everywhere were not
+completely accepted by the nations
+where they were asylumed.
+"When the great war broke out.” he
+said “their loyalism was proved on both
+sides of the barricades. Yet now we
+are confronted with a problem recall
+ing the Middle Ages which shocks our
+hearts and reason.”
+Germans Oppose Plan.
+Members of the German delegation
+said unofficially they did not wish to
+"smash" the plan for the relief of the
+Jews, but that they refuse to have such
+a plan officially linked with the League.
+Furthermore, they do not want the
+Jews singled out in Germany as a
+group which Is especially entitled to
+minority treatment under the French
+resolution adopted this morning.
+This resolution, which the German
+representatives did not oppose in a com
+mittee of the political commission, spe
+cified that equitable treatment of mi
+nority peoples promised by states sign
+ing the minority treaties should become
+a solemn obligation of states which are
+nonsignatories of such treaties. Ger
+many opposed another paragraph speci
+fying that no racial groups whatsoever
+should be excluded from this treatment.
+Insists on Own Program.
+“Germany Insists uoon settling this
+question as she sees best." said a Ger
+man spokesman informally. “Accept
+ance of the French idea would put us
+in the position of admitting we had
+dene wdong.”
+Dr. Alberto N. Guani of Uruguay,
+president of the League Council, con
+ferred with Dr. F. Friedrich von Kel
+ler of Germany, seeking to reach a com
+promise on the refugee formula, blocked
+earlier in the day by Germany, which
+categorically opposed interference by
+the League and insisted extension of re
+lief refugees from Germany should be
+handled "by interested states.”
+The questions were left open for fur
+ther discussions next week.
+THIRD OFM.E. CLERGY
+TO BE TRANSFERRED
+Bishop W. N. Ainsworth Says 30
+Per Cent of Holston Conference
+Will Be Shifted.
+By the Associated Press.
+KNOXVILLE, Tenn., October 7
+Bishop W. N. Ainsworth said today
+approximately 30 per cent of the 230
+pastors in the Holston Conference of
+the Methodist Episcopal Church, South,
+will be shifted this year.
+He will read the list of appoint
+ments at the close of the conference's
+110th annual session at Church Street
+Methodist Church tomorrow night.
+Among those whose assignments may
+be changed are: Rev. P. Y. Jackson
+and Rev. D. S. Dosser. Kingsport: Rev.
+P. H. Horner, Stonega: Rev. S. N.
+Hayne, Bluefleld, W. Va.; Rev. R. E.
+E3rly. Greenville. Tenn.. Rev. D. B.
+Wright, Morristown. Tenn.. Rev. M A
+Stevenson Pulaska. Va.; Rev. G. K.
+Patty. Etowah. Tenn.: Rev. E. A.
+Shugart. Marion. Va., and Rev. C. G.
+Eastwood, and Rev. C. E. Lundy of
+Chattanooga.
+Three presiding elders will be trans
+ferred to pastorates, having served
+their maximum terms of four years.
+They are J. W. Burrow. Bluefleld dis
+trict; J. M. Carter. Chattanooga dis
+trict. and S. D. Long, Tazewell dis
+trict.
+EINSTEIN SAILS FOR U. S.
+Leaves England to Pursue Scien
+tific Studies at Princeton.
+SOUTHAMPTON. England. October
+7 (/?•).—Prof. Albert Einstein sailed for
+New York tonight on the liner Western
+Land with his wife, who had embarked
+at Antwerp.
+The couple Is en route to Princeton.
+N. J.. where Dr. Einstein will carry out
+scientific studies and lecture.
+Special precautions were taken by
+the steamship officials to prevent pos
+sible trouble as the physicist embarked.
+(Einstein recently went to England
+frem Belgium after a Nazi organization
+a'l-rd to iuv; pal a p.ico upon
+his hcai.)
+BT STATES “BEST
+Rockefeller Study Favors
+System of Monopoly on Re
+tail Trade and Conditions.
+By the Associated Press.
+NEW YORK, October 7.—The best
+approach to the problem of heavy al
+coholic beverages, in the view of the
+Rockefeller liquor study, is through
+State control.
+The survey, published in sections, de
+fines State control as specifically a sys
+tem by which the State, through a cen
+tral authority, maintains an exclusive
+monopoly of retail sale for ofT-premises
+consumption.
+“This authority determines nrlces,”
+it says, "fixes the location of its stores,
+controls advertising and in general
+manages the trade in such a way as to
+meet a minimum, ur timulated demand
+within conditions e lablished solely in
+the Interests of sc .ety.”
+In Other Countries.
+The survey said “wide experience in
+many countries” indicates such con
+trol provides the best approach.
+Sponsored by John D. Rockefeller,
+Jr.—who in the interest of temperance,
+changed his stand to favor repeal—the
+study gathered the opinions of more
+than 400 Americans in every phase of
+national life to arrive at some objective
+viewpoint for liquor control.
+Among its recommendations were:
+“While many States will doubtless
+follow the license method in the con
+trol of beverages of higher alcoholic
+content, this method contains a funda
+mental flaw in that it retains the pri
+vate profit motive which makes inevi
+table the stimulation of sales.
+lilt? primaiy uujixuuu ui kiaaiiwu
+should be not revenue, but social con
+trol. Taxes should be levied not with
+the idea of filling th- public treasury at
+whatever cost to the public morality
+and efficiency, but as a method of re
+ducing the consumption of alcohol.
+Broad Education Value.
+‘•Education in its broadest sense has
+a greater pari to play in creating a
+sober Nation than has legislative en
+actment. It is a slow process,
+but it carries a heavier share of the
+burden than legal coercion.”
+Declaring that America "aspires to be
+a temperate Nation," the survey said
+the Nation is "inclined to believe that
+there is some definite solution for the
+liquor problem—some method other
+than bone-dry prohibition—that will
+allow a sane and moderate use of al
+cohol to those who desire it and at the
+same time minimize the evils of ex
+cess.”
+Despite the reaction from the eight
+eenth amendment, the survey set forth
+that America "is in no mood to stand
+any aggressiveness on the part of the
+brewers, the distillers and the liquor
+trade generally. Any indication that
+they are once more pushing their busi
+ness in volation of decent jocial stand
+ards will bring the pendulum swinging
+back again.”
+THREAT LETTER GETS
+BUS DRIVER ARRESTED
+Virginian Charged With Attempt
+ing to Extort $5,000 From
+State Senator.
+By the Associated Press.
+SUFFOLK. Va., October 7 —Archibald
+E. Sutton, driver of a Peninsula Transit
+Corporation bus, which operates through
+this city, was arrested yesterday on a
+charge of extortion, and last night was
+released after his arrest by Chief of
+Police Churn of Suffolk, on a bond of
+$1,000, with security given by a rela
+tive in West Point, Va.
+Col. E. E. Holland, State Senator
+from this district and president of the
+Farmers’ Bank of Nansemond. Thurs
+day received a typed letter mailed in
+the Suffolk post office, in which his
+life was threatened unless he personally
+placed in the hands of a certain Penin
+sula bus driver, at a time and place
+specified, an envelope containing $5,000.
+The matter was taken up with Po
+lice Chief Chum and at the appointed
+time, and on onee of the streets of Suf
+folk. Col. Holland delivered a sealed
+envelope to Sutton, driver of the bus.
+The only address on the envelope
+was “G. G. G.”
+Two passengers, who turned out to
+be officers, watched the proceedings and
+rode with Sutton to Newport News. At
+the end of the ran, they called him to
+one side and told him of what they
+had seen. He claimed he had been
+"framed,” according to the police, and
+that some one else would call for the
+sealed letter. The poli-e stated they
+would “hang around” until delivery was
+made, and until the certain things
+which Sutton said would happen came
+to pass.
+Nothing happened, whereupon Sut
+ton was brought to Suffolk. Sutton is
+about 23 years old and said he is a
+graduate of the Virginia Polytechnic
+institute at Blacksburg.
+Child, Involving
+Diplonuitic Ties.J
+Flies to Father
+Girl From South America
+Reunited With Parent
+in United States.
+By the Associated Press.
+MIAMI. Fla, October 7.—Carrying
+a big doll, a shy little Venezulean girl
+climbed out of an airplane upon her
+arrival here from South America late
+yesterday to make her home with her
+American father following a separation
+that ended only after three years of
+diplomatic negotiations between the
+United States and her native country.
+She is five-year-old Irma Frances
+Welch, brown eyed, golden haired
+daughter of James E. Welch of Shreve
+port, La, who was engaged in the oil
+business in Venezuela for years before
+he lost custody of his daughter and
+then went to Washington to wage a
+legal battle through the State Depart
+ment for her return.
+Irma was born in Ciudad Bolivar,
+where she lived with her father and
+mother, who was a Venezuelan girl.
+Welch said his wife left home when the
+child was eight months old and never
+returned. A year later Irma was placed
+in custody of Domingo Savelli by order
+of a Venezuelan court.
+Because of his difficulties with the
+Venezuelan government, it was not pos
+sible for Welch to return to that coun
+try. The child was taken to Trinidad,
+however, after Secretary Hull directed
+that, irresepctive of any claim Welch
+might have against the Venezuelan
+government, Immediate consideration
+should be given to the restoration of
+the child to her father.
+Welch said he had Instituted suit of
+$500,000 against the Venezuelan gov
+ernment for loss to his property In that
+country and that he also had asked
+Additional damages because his daughter
+had been kept from him.
+Welch and Irma left here last night
+'for Washington1*where Welch said he
+would continue to press his claim
+against the Venezuelan government.
+SEEKS EXTENSION
+OF STOCK INQUIRY
+Costigan Moves to Prolong
+Probe to Bring About
+i
+Wall Street Reforms.
+By the Associated Press.
+A move to prolong the Senate stock
+market Investigation In order to bring
+about Wall Street reforms, even if
+Ferdinand Pecora should resign as
+counsel January 1, was inaugurated
+yesterday by Senator Costigan of Colo
+rado, a Democratic member of the In
+quiry Committee.
+Under the present plans, the inquiry
+would be concluded by the end of the
+year. Since Pecora is running for dis
+trict attorney of New York, this would
+require him to resign at that time if
+elected.
+In a formal statement yesterday,
+however, Costigan called for pushing
+the inquiry even if it should be neces
+sary to go beyond January 1 in order
+to disclose and set up legislative bars
+against Wall Street practices that he
+said were destructive.
+Regrets Possible Resignation.
+Costigan, in the statement forwarded
+to his office here from a ship carrying
+him from Hawaii to San Francisco, ex
+pressed regret at the possibility of Pe
+cora's resignation, but said it would
+"merely have the effect of deepening
+I the determination of the controlling
+I votes on the committee to continue to
+press the investigation without tear or
+favor and with commanding thorough
+ness as the public Interest unmistakably
+requests.
+"If that course should prolong the
+inquiry beyond January 1.” he added,
+"the task must none the less be pur
+sued until Wail Street practices which
+have largely contr.buted to the need
+less waste of our Nation’s wealth and
+the destruction of our country's pros
+perity shall have been revealed and
+Chairman Fletcher has announced
+the committee would attempt to con
+clude hearings by the end of November
+in order to submit a report with legis
+lative recommendations at the opening
+of Congress in January.
+It is planned to conclude the current
+Dillon. Read St Co. inquiry this week,
+with hearings beginning
+then go into operations of the Chase
+Securities Corporation, an affiliate oi
+the Chase National Bank.
+No Conflict Between Groups.
+After that the committee has planned
+to make inquiries into the Associated
+Gas St Electric Co and Stock Exchange
+practices and collection of
+dence in the investigation of J. P. Mor
+gan St Co. and Kuhn. Loeb St Co.
+In a letter to Chairman Fletcher yes
+terday Secretary of Commerce Roper
+informed him there would be no con
+flict between his committee and the
+special group studying Stock Exchange
+practices for President Roosevelt.
+"It is the thought of this committee,
+of course." Roper said, "that no action
+will be taken in the matter of advising
+the President in advance of the results
+which your committee secures and in
+advance of any recommendation which
+you and your committee may make."
+Roper said the departmental group
+would study the testimony taken by the
+Senate Committee. This is being for
+warded to it daily by Chairman
+Fletcher.
+FORMER WASHINGTQjJIAN
+REPORTED DEAD ON C0fc$Is
+Joseph H. Hopkins, War Veteran,
+Was Connected With Post
+Office Department.
+Word was received here yesterday of
+the death Wednesday at Glendale.
+Calif., of Joseph H. Hopkins. 38. World
+War veteran and former resident of the
+Capital.
+Mr. Hopkins was connected with the
+Post Office Department here for many
+years before he was transferred to Price.
+Utah, where he became assistant super
+intendent in charge of automobile
+transportation of mail. When his
+health became bad. he was sent to the
+United States Veterans’ Hospital at
+San Fernando, Calif., near Los An
+geles.
+Mr. Hopkins is survived by his widow.
+Mrs. Margaret Whitwell Hopkins, whose
+father. Sanford M. Whitwell, was audi
+tor for many years for the Washing
+ton Gas Light Co. He also leaves two
+children. Sanford W., 8, and George
+Canby. 9.
+Funeral services are to be held here
+Thursday with burial in Arlington Na
+I tional Cemetery.
+_•_
+DENTAL STUDY CLUB
+HEARS RICHMOND MAN
+i
+Dr. Guy R. Harrison Is Speaker at
+Annual Session of Virginia
+Valley Group.
+Special Dispatch to The Star.
+WINCHESTER, Va., October 7.—Dr.
+Guy R. Harrison, oral surgical special
+ist. Richmond, was guest speaker last
+night ait the annual meeting of the
+Northern Virginia Valley Dental Study
+Club here. He discussed "Oral Surgery
+as an Aid in Prosthesis.”
+Dr. J. A. Richard, Winchester, was
+elected president for the ensuing year;
+Dr. B. Mitchell Knight, jr„ Winches
+ter, vice president; Dr. T. B. Turner.
+Front Royal, secretary-treasurer, and
+Dr. Ralph B. Snapp. Winchester, cor
+i responding secretary. Dr. George H.
+t Heist. Winchester, had charge of the
+program.
+GETS CRASH DAMAGES
+Boy Movie Actor, 8, Is Awarded
+$2,000 in $78,000 Suit.
+LOS ANGELES. October 7 (/P).—A
+jury verdict of $2,000 damages was re
+turned today in the $76,000 suit of
+Randolph Connolly, 8-year-old movie
+actor, for injuries received in a Holly
+wood automobile accident last June 27.
+I The accident was a collision be
+i tween a car driven by his mother. Mrs.
+11. E. Connolly, and one in which rode
+i Mrs. Clarlnda Mason and her daugh
+ter Frances. The Masons sued Mrs.
+t Connolly for $18,100. Mrs. Connolly
+I sued the Masons for $25,000 for her
+own injuries, but lost.
+Actor's Mother Dies.
+BEVERLY HILLS, Calif., October 7
+C4>).—Mrs. Mary Agnes McLaughlin, 80,
+died early today at the home of her
+1 son, Willard Mack, actor and play
+wright.
+She had lived with her son since the
+death cf her husband, nine years ago.
+He was street commissioner of New
+j York during Civil War days. She is
+to be buried by his side at Rosebud,
+Alberta, Canada.
+Well Trained Dog.
+CODY, Wyo., October 7 (*>).—Fred
+Oarlow has tangible reason to believe
+his Chesapeake retriever is some dog.
+Oarlow lost a $10 bill while shopping.
+He searched for it without success but
+next morning when he went to feed
+the dog. there was the animal carefully
+guarding the bill after carrying it
+home. Oarlow had trained the dog
+to pick up anything he dropped.
+Insects Cause loss.
+Insects have caused Belgian sugar
+beet growers considerable loss.
+
+Managed Currency Advocates
+Ignore Numerous Obstacles
+Commodity Dollar Theorists Held to
+Overlook Invitation to Speculation, Ex
+port Effect and Others Equally Costly.
+An increasing number of people
+in the United States are apprehen
+sive of currency inflation and fear
+ful of its results.
+Eight distinguished men, repre
+senting both major political parties,
+have approved and sponsored a series
+of articles piesenting their viewpoint
+on the money problems of the day
+as their contribution toward promot
+ing a clear understanding of the
+monetary system in the present con
+troversy.
+The series will appear in this news
+paper in 16 consecutive daily chap
+ters. The fourteenth is prc'ented
+today.
+ARTICLE NO. 14.
+Shall Thu United States Have A
+“Managed Currency”?
+Propsolas for inflation in the United
+States such as those contained in the
+Thomas amendment have been accom
+panied recently by demands in certain
+quarters for currency tinkering of a
+different and more permanent type.
+Once prices have been raised to a prede
+termined level by inflation, there are
+some who believe the country should
+“stabilize” them at the new level by
+monetary manipulation. In other words,
+they advocate a “managed currency.”
+What do its advocates mean by a
+"managed currency,” and what is to be
+said lor the merits of such proposals?
+The two most widely discussed schemes
+of this fort are the so-called “com
+modity dollar” plan of Prof. Irving
+Fisher of Yale, and proposals for central
+bank control advocated in fomewhat
+varying forms by Prof. Gustav Cas- j
+sel of Sweden and the British econo
+mist. John Maynard Keynes.
+Would Vary Gold Worth.
+Prof. Fisher's idea, briefly, is that
+the gold dollar should cease to be a
+constant weight of gold with fluctuating
+purchasing power, and should become a
+fluctuating weight of gold with a more
+or less constant purchasing power.
+There would be no actual coinage of
+gold under the Fisher scheme. The
+Government's gold supply would be kept
+in gold bars, and the actual circulation,
+then as now. would consist of represent
+ative money, i.e.. bank notes and token
+coins. All of the currency would be
+AVpVlUnOAoKlA fne nnlH U<<«
+the amount of gold for which it would
+exchange would vary with the price
+level. If prices, as measured by some
+generally accepted index, fell 1 per cent
+during the month, the weight of gold
+purchasable with the dollars would be
+decreased 1 per cent, and vice versa.
+How would such a plan be likely to
+work?
+In the first place, it would introduce
+a new and indeterminable fluctuating
+element in the foreign exchanges. In j
+Article VI of this series, in which the j
+mechanics of the international gold
+standard were discussed, we saw that
+the par of exchange betfe-'' two gold
+currencies was unchanging, smee it rep
+resented the ratio between the amount
+of gold in one to the amount of gold
+in the other. Under the Fisher plan,
+since the number of grains of gold in
+the dollar would fluctuate with the
+price level, there could, of course, be
+no fixed gold parity. Therefore, in
+stead of having one fluctuating element
+in the exchange—that of demand and
+■tmpply—there would be two. And the
+n^Lone would be much the more seri
+ous, since it would not be limited, as is
+that of demand and supply, by the up
+per and lower gold points.”
+Would Aid Speculators.
+A still more serious defect in the
+Fisher plan—assuming it to be adopted,
+say. by the United States acting alone—
+is that both American and foreign
+speculators could trade against the
+Government. Speculators could easily
+calculate, before the end of the month,
+whether or not the decline had ex
+ceeded 1 per cent (the limit by which
+Fisher would alter the dollar's weight
+in any one month*. They would, there
+fore. redeem their paper dollars in gold,
+knowing that after the end of the
+month they could turn the gold in again
+for more paper dollars. Moreover, the
+Fisher plan would invite raids on the
+gold stocks precisely when such raids
+would be most harmful, l.e., in periods
+of rapidly falling prices.
+If the Fisher plan were adopted in
+ternationallv the United States would
+be faced with the problem of choosing
+between separate price indices for dif
+ferent countries, or a single world in
+dex number. Adoption of separate in
+dices would mean that the exchange
+fluctuation problem would still exist.
+adoption of a single index would mean
+that the country should still have ex
+change confusion for another reason,
+namely, that because of their varying
+economies, different countries would be
+differently affected by changes in the
+general index.
+The Cassel-Keynes idea is that the
+central bank should keep prices on an
+even keel by manipulating the supp.y
+of credit and currency, with Keynes
+favoring arbitrary control, as well, ovei
+the Drice of gold.
+Old Theory Discredited.
+To the extent that these proposals
+rest on pure manipulation of the money
+supply their effects would be extremely
+uncertain We have seen in an earlier
+article of this series that, far from
+being an actual cause, or even barome
+ter of price levels, the money and
+credit supply has recently shown prac
+tically no direct relation at all to them.
+In other words, we have seen that the
+quantity theory of money, especially in
+its cruder form, has been totally dis
+credited by the facts of recent history.
+To talk of "stabilizing prices by such
+a mechanism is, therefore, patently
+absurd.
+As between the Fisher mechanism
+for controlling the price of gold and
+the Keynes mechanism, the former,
+with all its shortcomings, would be
+preferable, for it at least would have
+the merit of being automatic in its
+operations, whereas the Keynes scheme
+would almost certainly be afTected by
+political influences.
+Perhaps the chler underlying weak
+ness in plans for "managed curren
+cies,” however, is the sublime faith
+which they imply in price stability as
+a cure for all the world's ills. No bet
+ter antidote for this state of mind could
+be offered than the case of Sweden,
+where, disciples of stabilization insist,
+"currency management” has been car
+ried out successfully during the last
+two years.
+Analysts Shows Defect.
+The official price index of Sweden
+has. it is true, been exceptionally steady
+over recent months. But one economist
+who has taken the trouble to analyze
+the index finds that it conceals two
+widely divergent tendencies. The
+prices of Sweden’s imports have risen
+13 per cent since the country’s devalu
+ation of the currency in September,
+_ cot ms out r
+WITH THIS COUPON
+Monday and Tuesday
+i
+ANY MAKE
+WATCH I
+t _m x REPAIRED o
+S rnffi “"*3
+acvTFst! n.w.
+MaMfeala at Cast
+W> 4HJJ
+1931. but In the same period domes
+tically produced goods have fallen 'In
+price by 9 per cent. In other words,
+Sweden’s so-called “stability" of prices
+merely means that the country has had
+to pay 13 per cent more for what It
+buys and to take 9 per cent less for
+what it sells.
+Moreover, this same economist, hav
+ing looked Into the statistics of Swedish
+foreign trade, domestic Industrial ac
+tivity and employment, reports that
+“there Is strong reason to belie've thai
+Sweden is one of the three or four
+countries that have suffered most
+acutely in the last 18 months.”
+(The fifteenth article in this series
+will appear In The Star tomorrow.)
+iraliM
+'SITUATION TENSE
+O’Duffy, Defiant After Attack,
+Serves Notice He Will
+Protect Himself.
+By the Associated Press.
+DUBLIN, Irish Free State, October
+7.—The political situation throughout
+the Free State was tense tonight as ob
+servers wondered what tomorrow might
+bring with a scheduled speech at Cas
+tlebar by Gen. Eoin O'Dufly, who ar
+rived from Tralee with the declaration
+that he Intended to protect himself a«
+the result of an attack there last night
+The government ordered extra troop?
+frrvm Pnrlr n '1 Vo laa a mm rrl o rwT ioc
+barracks there which were struck by 40
+machine gun bullets in disorders this
+morning following O'Duffy’s visit.
+Civic guards lay on the floor of the
+building during the attack. Later thej
+rushed out. but failed to find the gun
+ners. believed to be opponents of Gen
+O'Duffy, who thought he had taker
+refuge in the police station. Theii
+quarry had already left for Killarney
+however.
+O’Duffy. organizer and leader of the
+banned Blue- Shirt National Guarc
+which recently merged with formei
+President William T. Cosgrave's follow
+ers and the Center party to form the
+United Ireland party, was thought like
+ly to reveal the next step of the new
+political group in tomorrow's speech.
+Police Laxity Charged.
+O'Duffy paused at Killarney en route
+to Dublin long enough to charge tha'
+police did not interfere when he anc
+his companions were attacked at the
+party rally at Tralee.
+"When I was on my way to the meet
+ing about 20 men came toward me,’
+said O'Duffy. "One of the party, i
+depraved looking creature with a ham
+mer in his hand, walked over an<
+struck me on the head from behind
+The culprit was not arrested."
+As the result of this, he continued
+he would take the necessary steps ti
+protect himself, adding: ‘‘I prefer t'
+be sentenced by a military tribunal fo
+possession of arms rather than to b
+assassinated."
+Stirs New Controversy.
+This charge of O'Duffy's aroused i
+new controversy among his friends an<
+opponents in Southern Ireland.
+Under the circumstances, political ob
+servers thought they saw a possibilit;
+of the latest developments possibly lead
+ing to a declaration by the governmen
+of the new party as an illegal organ
+ization. as was done in the case o
+the National Guard. They believed
+however, that the government wouli
+adopt a policy of toleration, at leas
+for the present.
+Tlie Ulster government, taking m
+I chances with the unrest in Souther]
+Ireland, banned a march of unem
+ployed to Belfast, Northern Ireland
+to support the unemployed there in i
+demand for better allowances for th
+unemployed.
+
+5>UlhtKN AIMU MAnLUWt
+BACK TO VISIT THEATEF
+Beturn From Europe to See Play
+From Other Side of Footlights.
+Glad of Change.
+By the Associated Press.
+NEW YORK. October 7.—Edward R
+i Sothem and his wife, the former Julii
+Marlowe, arrived from Europe yesterda
+for another visit to Broadway theaters
+on the audience side of the footlights.
+“We are still fond of the theater,
+said Sothem. “But we worked like th
+devil while we were at it. We are gla
+now to be able to rest and think."
+In 10 days they will start for Luxoi
+Egypt, to pass the Winter.
+SUSPECT DENIED RELEASI
+___________
+i Man Held in Price Slaying Is De
+nied Habeas Writ.
+WAYNESVILLE. N. C.. October
+M*).—Judge Felix Alley refused to gran
+Clarence Potter. 30. held in the slayin
+of Thomas Price, former Union Pacifi
+Railroad official, freedom oir a wri
+of habeas corpus here today.,
+W. E. Potter, father of Clarence, an
+other witnesses testified Clarence wa
+at a “singing convention” at Bal
+Mountain about the time Price wa
+shot to death on September 24 o:
+Lickstone Mountain.
+Judge Alley held, however, the ques
+tion of time element was not estab
+lished clearly enough.
+Potter’s brother. Dewey Potter, ha
+admitted shooting Price, claiming self
+defense.
+FOUR MORE CAUGHT
+DOLLFUSS PROBE
+Two Hotel Men and Relatives
+of Assassin Enmeshed in
+Police Net.
+By the Associated Press.
+VIENNA, October 7.—Two Carinthian
+hotel men who spoke with Chanchellor
+Engelbert Dollfuss last Tuesday a mo
+ment before he was shot twice by
+Rudolf Dertil have been requestioned
+and one has been Instructed to remain
+In Vienna for possible further ques
+tioning.
+This action was taken because of
+the suspicion they might have had a
+previous knowledge of the attempted
+assassination. The suspicion arose after
+it developed they both were from Nazi
+towns. Nothing definite had developed
+yet, however.
+Meanwhile, Vice Chancellor Emil Fey
+made public a statement stressing the
+possibility and the desirability of Austro
+German peace, but pointing out that a
+condition must be the cessation of Ger
+man Interference in Austrian affairs.
+Unions Are Disturbed.
+At the same time, the British chair
+man of a Special Committee of the In
+ternational Federation of Trade Unions
+at a meeting here voiced a warning that
+the federation was “gravely disturbed
+by the Austrian situation and the at
+tacks on the trade union movement
+here.”
+He expressed the opinion Dollfuss
+"was drifting more and more toward
+the Heimwehr (pro-Fascist government
+supporters) and alienating the very
+people from whom he could obtain the
+most valuable support against the Nazi
+movement.”
+(It was recalled that Gen. Karl
+Vaugoin, who was demoted from war
+I minister to president of the Federal
+Railways, recently Intimated that Aus
+trian patriotism might ae made a test
+j for railway employes holding their
+I iobs.)
+Mother Taken in Custodv.
+The mother and stepfather of Dertil,
+who were arrested in the interior yes
+terday. were brought to Vienna today
+to see the former army bugler at police
+headquarters. The outcome of this
+move was not immediately disclosed.
+An official communique revealed that
+Johann Presser had taken over the post
+of chief of the political police, re
+placing Herbert Heberich. who has gone
+on an indefinite “vacation Austrian
+newspapers were permitted only to re
+produce the brief announcement, com
+ment being barred.
+The communique was preceded by
+j rumors that Fey and Heberich were
+engaged in a spirited controversy re
+1 gardlng reputed police delay in pro
+ducing a Nazi membership card which
+the officers yesterday announced had
+been filled out by Dertii in 1932.
+Says He Is No Longer a Nazi.
+Dertil himself has said he resigned^H
+from the party r.x months ago. T^HH
+authorities said that, on the
+card, they have been 'finable yet to de
+termine definitely whether the at
+tempted assassin still is a Nazi party
+member.
+j Police announced they had uncovered
+I evidence that the Nazis were planning
+i i a membership drive through the arrest
+near Salzburg of three youths who were
+bringing counterfeit posters of the Aus
+trian patriotic front into the country.
+The text of the posters, the police
+said, contained an attack on the DoU
+fuss regime although the caption lead:
+“National Socialism in Austria is Dad."
+The special committee of the Jmer
+national League of Trade Uniqii in
+tends to join socialists tomorrow is a
+mass meeting at the stadium. Th^Mt
+ing has been described as the aMton-1
+I sarv singfest of the Workers’ aBbot!
+Club. 1_
+The chancellor's recovery fnstt k
+wounds has been so rapid he was able
+resume his regular duties today.
+JOB REPORTS EXPECTED 1 j
+f The revived Civil Service Reinstate-,
+ment League will meet at 8 p.m. tomor- i
+I row at the Arlington Hotel.
+II The league, which is seeking to place
+in employment those workers dropped x
+in the Government retrenchment, will
+1 have a report from a committee which
+j tomorrow plans to see Harry L. Hop?
+1 kins. Federal emergency relief adminis
+i trator. on the possibility of placing this
+class of idle in the relief agency.
+VERY IMPORTANT l
+DENTAL
+ANNOUNCEMENT
+Price* for dental material* and
+co*t of laboratory work have greatly
+advanced, gold jumping from a little
+over $20.00 to an uncertain price
+i between $30.00 and $40.00. J
+r? Regardless of these farts, my large
+j volume of busi
+ness enables me
+to continue my
+j very reasonable
+prices, and de
+liver that class
+of service for
+i which my office
+is so well and
+favorably known,
+based on long ex
+perience. ability
+and reputation.
+I have also
+been able to make
+7 an a r rangement
+1 for extended credit or easy payments.
+It is not necessary to neglect your teeth
+and injure your health because of lack
+t of all the money at once.
+j Free X-Ray*, Free Examination*,.
+s and Free Extraction* will be con
+J tinned with other work.
+“My Own Personal Attention to
+Every Patient.”
+DR. VAUGHAN,
+932 F St. N.W. MEt. 9S76
+I METROPOLITAN THEATER BLDG.
+There Must Be a Reason!
+Boyd Graduates Are Working 100%
+Find Employment Quickly
+Small class instruction, better instructors result in treater EFFICIENCY.
+No social functions to detract or to cause a student to waste his time
+A Boyd student of only a few months
+of school attendance recently left
+Washington as a Frigate Secretary to
+an American Ambassador. He was
+placed by Boyd’s Another former stu
+dent is in Mexico and others are in
+Central and South America.
+PRIZE POSITIONS go to those skilled
+in t'leir profession. Boyd specialises in
+training of EXPERTS.
+Bryd guarantees to PLACE -Its grad
+uates in a PERMANENT position; and
+like the IT. 8. A., It has NEVER once
+defaulted. Thousands hare been placed
+In SELECT POSITIONS in past 1«
+years.
+m o ^me A n
+BOYD OFFERS: The most modern
+courses, and they include EVERY
+THING the employer wants in his
+Secretary or Jr. Accountant. The
+best teaching staff, each instructor a i
+specialist. Instruction in small class
+units of 5-15 students. The student
+Is PROMOTED individually.
+EMPLOYMENT: Boyd graduates are
+not deserted after they receive their
+diploma. They are NOT left to shift
+tor themselves.
+Various Courses, 2 to 9 Months
+Boyd Graduates And employment
+quickly, tor they are EXPERTS
+r. m r?_11 _
+new Classes oiarun^ mununy. Aiiuvu oi y»vv. j
+Mumtss Itiiuersitu
+(\fraini/uj and Opportunities *AieetiA
+1333 F STREET, N.W {op*fox th&JK£) National 2340
+H T 'l
+i_i___•_J -A

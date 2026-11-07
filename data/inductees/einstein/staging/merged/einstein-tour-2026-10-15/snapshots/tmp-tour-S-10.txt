@@ -1,0 +1,514 @@
+_version_: 1872428081794252800
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82016181/1933-10-17/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82016181/1933-10-17/ed-1/
+batch[0]: dlc_drake_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json&st=text
+created_published[0]: Washington, D.C., October 17, 1933
+date: 1933-10-17
+date_issued: 1933-10-17
+dates[0].1933-10-17: https://www.loc.gov/search/?dates=1933-10-17/1933-10-17&fo=json&st=text
+dates_of_publication: 1921-1972
+description[0]: Washington, D.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2026-08-02T15:24:11.407Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_drake_ver01/data/sn82016181/00529046297/1933101701/1933101701_1.xml#ndnp/dlc-2020_now
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2020_now
+group[1]: library-of-congress-washington-dc-awardee-8
+hassegments: true
+id: http://www.loc.gov/item/sn82016181/1933-10-17/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_drake_ver01:data:sn82016181:00529046297:1933101701:1203/full/pct:6.25/0/default.jpg#h=265&w=185
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_drake_ver01:data:sn82016181:00529046297:1933101701:1203/full/pct:12.5/0/default.jpg#h=531&w=371
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_drake_ver01:data:sn82016181:00529046297:1933101701:1203/full/pct:25/0/default.jpg#h=1062&w=742
+index: 5
+item.batch[0]: dlc_drake_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington, D.C., October 17, 1933
+item.date: 1921
+item.date_issued: 1933-10-17
+item.dates[0]: 1933-10-17
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn82016181
+item.location[0]: Washington (D.C.)
+item.medium: 28 pages
+item.newspaper_title[0]: The Washington daily news
+item.notes[0]: Daily (except Sunday)
+item.notes[1]: Vol. 1, no. 1 (Nov. 8, 1921)-v. 51, no. 211 (July 12, 1972).
+item.notes[2]: Nov. 8, 1971 issue called also "Golden anniversary edition."
+item.notes[3]: "Independent."
+item.notes[4]: Also issued on microfilm from the Library of Congress Photoduplication Service and Microfilming Corp. of America.
+item.notes[5]: Evening star (Washington, D.C.) 2331-9968 (DLC)sn 83045462 (OCoLC)2260929
+item.notes[6]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_drake_ver01/data/sn82016181/00529046297/1933101701/1933101701_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82016181/marcxml
+item.place_of_publication: Washington, D.C.
+item.raw_lccn: sn 82016181
+item.reel_numbers[0]: 00529046297
+item.source_group: ndnp/dlc-2020_now
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: The Washington daily news (Washington, D.C.), October 17, 1933
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn82016181
+location[0]: washington d.c.
+location[1]: district of columbia
+location[2]: washington
+location[3]: united states
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json&st=text
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json&st=text
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json&st=text
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json&st=text
+medium: 28 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Washington daily news
+notes[0]: Daily (except Sunday)
+notes[1]: Vol. 1, no. 1 (Nov. 8, 1921)-v. 51, no. 211 (July 12, 1972).
+notes[2]: Nov. 8, 1971 issue called also "Golden anniversary edition."
+notes[3]: "Independent."
+notes[4]: Also issued on microfilm from the Library of Congress Photoduplication Service and Microfilming Corp. of America.
+notes[5]: Evening star (Washington, D.C.) 2331-9968 (DLC)sn 83045462 (OCoLC)2260929
+notes[6]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+number[0]: sn82016181
+number[1]: 1
+number[2]: 00529046297
+number_edition[0]: 1
+number_lccn[0]: sn82016181
+number_reel[0]: 00529046297
+numeric_shelf_id: 193310171
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_drake_ver01/data/sn82016181/00529046297/1933101701/1933101701_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82016181/marcxml
+partof[0].count: 9019
+partof[0].title: the washington daily news (washington, d.c.) 1921-1972
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+washington+daily+news+%28washington,+d.c.%29+1921-1972&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the washington daily news (washington, d.c.) 1921-1972
+place_of_publication: Washington, D.C.
+publication_frequency[0]: daily
+raw_lccn: sn 82016181
+reel_numbers[0]: 00529046297
+resources[0].files: 28
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_drake_ver01:data:sn82016181:00529046297:1933101701:1203/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82016181/1933-10-17/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn82016181, 1933-10-17, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2020_now
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: district of columbia
+subject[1]: washington
+subject[2]: united states
+subject[3]: newspapers
+subject[4]: washington (d.c.)
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json&st=text
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json&st=text
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json&st=text
+timestamp: 2026-08-02T16:02:33.411Z
+title: The Washington daily news (Washington, D.C.), October 17, 1933
+type[0]: issue
+url: https://www.loc.gov/item/sn82016181/1933-10-17/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_drake_ver01/data/sn82016181/00529046297/1933101701/1207.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82016181/1933-10-17/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_drake_ver01:data:sn82016181:00529046297:1933101701:1203/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_drake_ver01/data/sn82016181/00529046297/1933101701/1207.pdf
+resources[0].segment_count: 28
+resources[0].url: https://www.loc.gov/resource/sn82016181/1933-10-17/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1933, October 17) The Washington daily news. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82016181/1933-10-17/ed-1/.
+cite_this.chicago: The Washington daily news. (Washington, DC), Oct. 17 1933. https://www.loc.gov/item/sn82016181/1933-10-17/ed-1/.
+cite_this.mla: The Washington daily news. (Washington, DC) 17 Oct. 1933, p. 5. Retrieved from the Library of Congress, www.loc.gov/item/sn82016181/1933-10-17/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_drake_ver01/data/sn82016181/00529046297/1933101701/1207.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_drake_ver01/data/sn82016181/00529046297/1933101701/1207.xml&format=alto_xml&full_text=1
+full_text:
+National Drive to Block Shoals Project Revealed
+Power Stockholders’
+Organized to Defeat’
+Plan, Lilienthal Says
+TVA Director Says Electrical
+Industry Can Share in Bene-j
+fits by Co-Operative Action'
+s. oai in 7 s
+MEMPHIS—Revelation that
+there is a national movement
+on foot to organize holders of
+stocks and bonds in private
+power companies to d e f e a t
+President Roosevelt’s plan for
+development of the Tennessee
+Valley was made here today
+by David E. Lilienthal, a direc
+tor of the Tennessee Valley
+Authority.
+Speaking before the Memphis Ro
+tary Club, Lilienthal said that if
+private power interests had a genu
+ine desire to work with this project
+means could be found for expanding
+the industry without friction.
+“The Authority is not engaged in
+a punitive expedition against the
+utilities," Lilienthal said.
+PART OF PROGR \M I
+The Authority, he explained, rep-
+resents the result of more than a
+decade of debate and is an integral
+part of the Roosevelt program for
+economic development of the coun
+try.
+The director cited recent attacks
+upon TVA in newspapers and maga-1
+zines, and then asked: “What is the
+crime which led to (these) out
+bursts?”
+He answered his own question:
+“In the most matter-of-fact terms,
+the Authority has announced a
+standard for rates in which every
+item of cost to which private utili
+ties have been subjected is in
+cluded.
+GUILTY OF CHARGE
+If it is a crime thus to
+Work toward lower power rates
+which will promote the industrial
+and economic welfare of this area,
+then I, for one, am happy to plead
+guilty to the charge.”
+After saying that “there is a
+movement on foot to organize the
+security holders of the country to
+put a stop to this whole project,”
+Lilienthal declared that he wanted
+to “speak very frankly” to these in
+vestors in public utility stocks and
+bonds.”
+“After long deliberation," he said,
+“a national policy has been deter
+mined upon whereby a limited ex
+ample of public operation of the
+power business is to be set up and
+is to be given a chance to show
+what it can do. That national policy
+should have a fair chance.
+WIPE OFT RECORD
+“The Authority is ready to sit
+down with the leaders in the electric
+industry and discuss their respective
+problems as business men.
+“I appeal to the electrical indus
+try on behalf of the investors to
+Daily double Mm $5.00—Weekly $30.00
+Mezzanine Concert« and
+Refreshments Every Evening
+Is the seeial eenter everlees tag Central Park.
+BARBIZON-PLAZA
+HOTEL
+101 West 58th St., New York
+Write for booklet WN
+No Story/ Friends Plead,
+as Einstein Lands at N. Y.
+n United Press
+NEW YORK—Prof. Albert Ein
+stein was secretly taken off the liner
+Westernland at Quarantine today
+and sped ashore by tug in an ex
+l traordinary effort to avoid a press
+interview.
+I But at the Battery, where the
+party landed, stood a waiting re
+i porter.
+“Who told you we were coming
+here?” demanded Frau Einstein,
+waving a bunch of red carnations.
+“How did you know?”
+Herbert Maas, chairman of the
+board of the Institute for Advanced
+Study at Princeton, N. J., where
+Einstein will teach mathematics,
+said: I
+“Now, now, we don’t want any
+whom it is responsible to show a
+measure of business leadership
+which will make the country forget
+the disgrace which was cast on the
+industry during the past decade.
+“If the Authority succeeds in its
+plans to develop new uses for elec
+tricity, and by low rates and wide
+distribution of low cost appliances
+can increase existing uses, private
+utilities and the electrical manufac
+turers can both share in the bene
+fits.
+FR PRICE ASSURED
+“If in acquiring a. market we can
+use existing facilities of private
+utilities, of course we will pay a
+fair price for them. By contracts
+with private utilities for inter
+change of power, economies and
+service betterment can be effected
+in which the utilities will derive ben
+efits.
+“If there is a genuine desire to
+work with this project and not to
+obstruct or destroy it, ways and
+means can and will be fount! for the
+electrical industry and Government
+to work without friction in expand
+ing the use of electrical energy for
+the benefit of all our people.”
+Ironworkers’ Shifts
+Renew Labor Strife
+Altho 500 men went back t work
+on the new Labor Depaitment and
+Interstate Commerce buildings yes
+terday, the labor problem at sev
+eral Government projects is far
+from settled.
+Only one of four sub-contractors
+included its ironworkers in the 500
+resuming work yesterday. Others
+refused to hire men on the two-shift,
+four-hour-per-day schedule, main
+taining one shift must work eight
+hours daily, or none at all.
+No ironworkers will labor under
+the double shilt at the new Post
+Office Building today, it was an
+nounced last night by officials of the
+Coleman Bronze Co. At the Justice
+Department Building, no ironwork
+ers were on duty yesterday.
+Meantime, Leslie L. Meyers. busi
+ness agent for the ironworkers,
+hailed the new’ schedule as a boon to
+unemployed members of his craft,
+pointing out that dividing the work
+every day, has meant many men re
+turning to pay rolls. Contractors
+receive as good, if not better work
+than on the straight eight-hour hi ft,
+he insisted.
+Conferences between ironworkers
+and contractors will be held this
+week in an effort to settle the ques
+tion of the new shift.
+Mexican Rebels Kill Five
+MEXICO CITY—Five men, in
+cluding three municipal officials,
+were killed by rebels in Cadereyta
+de Montes, Queretaro State, the
+newspaper Universal's correspond
+enta telegraphed today. The. rebels
+looted the tax office and two com
+mercial establishments and set fire
+to the municipal offices.
+I
+Business Property
+for Trade or Exchange
+3 stores—three 1-story Brick Buildings, 17x60 ft., all
+rented—Lot 5200 square ft. 52x100. First commercial
+zone, subject to trust.
+Will trade for small house, land or farm.
+Write Box 301, Daily News
+publicity. Prof. Einstein is here to
+continue his scientific work and not
+to be exploited.’’
+Prof. Einstein, world famous
+physicist and recently a voluntary
+exile from Nazi Germany, smiled
+affably. A violin case under his
+arm, he resembled a musician look
+ing for work. Then they got into
+Autos and left for Princeton, where
+he will continue his scientific work.
+A welcoming delegation headed by
+Samuel Untermyer stood on the
+Westernland’s regular pier, arrayed
+in frock coats and silk hats, vainly
+awaiting their distinguished guest.
+A special detachment of police had
+been provided to escort the reticent
+scientist to his hotel.
+Federal Agents Question
+Student in Kidnaping
+i By I'M] Pr
+CHICAGO Justice Department
+agents questioned William Walton
+Hall, wealthy young law student, to*
+day concerning his reported abduc
+tion Friday night and his release
+after being held three days.
+Hall said he was entering his auto
+on a Loop street when several armed
+men forced him into their car. They
+blindfolded him, he said.
+The men, Hall said, demanded
+$15,000 for his release but last night
+he talked his lone guard into releas
+ing him. He was put out of an auto
+near a tavern owned by a law school
+classmate. Hall and members of hie
+family said the ransom was not paid.
+Fight Over Elkins’,
+$1,500,000 Will Ends
+in Court Formality
+Grandson Drops Contest Over
+Document, Settlement Having
+Been Made With Ex-Senator
+The will of Mrs. Hallie Davis El-
+kins, wife of one West Virginia Sen-
+ator and mother of another, was de-
+clared valid by a jury in District Su
+preme Court today.
+The will, leaving the greater part I
+of a $1,500,000 e-tate to her son, for
+mer Sen. Davis Elkins, had been
+contested by a grandson, Stephen B.
+Elkins IH, the son of a brother, who
+was left $50,000 in railroad bonds.
+He charged the will was obtained by
+exercise of undue influence and that I
+Mrs. Elkins was not of sound mind
+when she executed the testament.
+Following a compromise agree
+ment, between the former Senator
+and the grandson in which the latter
+was given an additional block of
+bonds with a par value of $56,000,
+the parties merely went thru a for
+mality today in order to give the
+will court sanction.
+The grandson offered no testi
+mony and Justice Luhring directed
+the verdict upholding the will.
+Another principal beneficiary un
+der the will was Mrs. Katherine El
+kins Hitt, a daughter of Mrs. Elkins,
+who was given one-half the proceeds
+from the -ale of certain real estate
+in addition to personal property. She
+did not attack the will.
+French Statesmar iies
+FONTAINEHLEAU, Fano Jean
+Cruppi, foreign minister in 1911
+when the French expedition to Fez
+led to French conquest of Morocee,
+died last night. He was 79. He had
+served in the cabinet also a- com
+merce minister and justice minister.
+He was the author of books on
+nomies and political eronomy.
+GIVE THAT
+GAS I
+il_JUST TWO MINUTES:
+Ilow old is your stomach Do
+grumblings and rumblings and
+belches after hearty meals tell its
+age? Then take one or two Stuart’s
+Dyspepsia Tablets, a modern anti
+acid. after meals and end such dis
+tress—every pang of indigestion i)
+just two minutes.
+Stuart’s Dyspepsia Tablets—just
+the right compound of Calcium
+Carbonate (2% times as effectivo
+as soda) and other soothing sub
+stances, provide swift and certain
+relief from sour stomach and at*
+tendant ills. Nothing equals them,
+and they are safe and harmless to
+use. Try them today.
+STUART'S DYSPEPSIA ABLET
+AT ALL DRUG STORES: 25c and s0c
+Tho Quuktst Relief for Gtifrtc disorder
+P FULL BOX FREE—,
+A regular 254 box. pocket size—emple tn tr
+there i iM braifia breart r— i. l
+t Table*. -Kill be sent fror If yin n i
+I this toupen and fo in :mpe Id teer Esilasy
+cast to the F A. Sluart Co, Dept. II-
+Morshali, Mich.
+l Nam. 4
+Addroma.. S
+Town. _
+WOODWARD Lothrop
+DOWN STAIRS STORE y
+Everyone Is Wearing j
+Sports Costumes
+Twin Sweaters
+$3.50
+Plain colored cardigan with
+striped slip-on. Brown, tile,
+green, wine, and blue. Sizes
+31 to 10.
+Others, $3.95 to $5.95
+Wool Skirts
+$3.25
+Flannels, wool crepes, bas
+ket weaves—brown, bright
+green, navy, black, and
+wine. Sizes 26 to 32.
+Other Skirts. $2.75-$5.95
+Suede Jackets
+$6.95
+The popular short style,
+with buckled sides—green,
+brown, black, wine, and
+gray. Sizes 11 to 20.
+DOWN STAIRS -TORK, sroRT-Wr
+t
+I
+f
+i

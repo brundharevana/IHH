@@ -1,0 +1,22 @@
+{
+  "$comment": "Exhibit image files built by tools/fetch_media.py from the holder's own files. key = file name in site/public/media/ (media id, or <id>-p<page>); page = the holder's image number (MUI-M-0062: image NNNN.jpg of Passport Applications vol. 995, NAID 235846313). NPGallery (MUI-M-0063, MUI-M-0018 to -0021), BRIT/TACC (MUI-M-0064), Wisconsin Historical Society (MUI-M-0034, -0035) and Smithsonian NPG (MUI-M-0042, -0043) files are not listed: tools/fetch_media.py does not accept those hosts yet (see data/inductees/muir/ARTIFACTS.md).",
+  "files": [
+    {
+      "key": "MUI-M-0062-p420",
+      "media_id": "MUI-M-0062",
+      "page": 420,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/M1372/export_M1372-PassportApps_1795-1905_0621_21117/images/0420.jpg"
+    },
+    {
+      "key": "MUI-M-0062-p421",
+      "media_id": "MUI-M-0062",
+      "page": 421,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/M1372/export_M1372-PassportApps_1795-1905_0621_21117/images/0421.jpg"
+    },
+    {
+      "key": "MUI-M-0013",
+      "media_id": "MUI-M-0013",
+      "download": "https://tile.loc.gov/storage-services/master/pnp/ppmsca/36400/36413u.tif"
+    }
+  ]
+}

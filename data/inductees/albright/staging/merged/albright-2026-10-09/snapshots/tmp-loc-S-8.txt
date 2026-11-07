@@ -1,0 +1,145 @@
+_version_: 1831662291775389696
+access_restricted: false
+aka[0]: http://lccn.loc.gov/2021692298
+aka[1]: http://www.loc.gov/item/2021692298/
+aka[2]: https://hdl.loc.gov/loc.gdc/gdcwebcasts.nbf2018_main_malbright
+aka[3]: http://www.loc.gov/resource/gdcwebcasts.nbf2018_main_malbright/
+contributor_names[0]: Library of Congress
+contributor_names[1]: National Book Festival (U.S.), sponsoring body
+contributors[0].library of congress: https://www.loc.gov/search/?fa=contributor:library+of+congress&fo=json
+contributors[1].national book festival (u.s.): https://www.loc.gov/search/?fa=contributor:national+book+festival+%28u.s.%29&fo=json
+created_published[0]: Washington, D.C. : Library of Congress, 2018-09-01.
+date: 2018
+dates[0].2018: https://www.loc.gov/search/?dates=2018/2018&fo=json
+description[0]: Madeleine Albright discusses "Fascism: A Warning" with David M. Rubenstein at the 2018 Library of Congress National Book Festival in Washington, D.C.
+digital_id[0]: https://hdl.loc.gov/loc.gdc/gdcwebcasts.nbf2018_main_malbright
+digitized: true
+display_offsite: true
+extract_timestamp: 2025-04-28T19:52:22.366Z
+extract_urls[0]: http://lccn.loc.gov/2021692298#gdc/webcasts
+extract_urls[1]: http://lccn.loc.gov/2021692298#catalog-split-09
+format[0].film, video: https://www.loc.gov/search/?fa=original_format:film,+video&fo=json
+group[0]: gdc/webcasts
+group[1]: catalog-split-09
+group[2]: catalog
+group[3]: cataloged-event-videos
+group[4]: main-catalog-split-09
+hassegments: false
+id: http://www.loc.gov/item/2021692298/
+image_url[0]: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/nb/f2/01/8_/ma/in/_m/al/br/ig/ht/nbf2018_main_malbright/nbf2018_main_malbright_2000.0_thumb.jpg
+index: 1
+item.contributors[0]: Library of Congress
+item.contributors[1]: National Book Festival (U.S.), sponsoring body
+item.created_published[0]: Washington, D.C. : Library of Congress, 2018-09-01.
+item.date: 2018
+item.digital_id[0]: https://hdl.loc.gov/loc.gdc/gdcwebcasts.nbf2018_main_malbright
+item.format[0]: moving image
+item.language[0]: eng
+item.medium[0]: 1 online resource
+item.notes[0]: Classification: Language and Literature.
+item.notes[1]: Madeleine Albright.
+item.notes[2]: Recorded on 2018-09-01.
+item.notes[3]: Kids, Families.
+item.notes[4]: Teachers.
+item.notes[5]: Madeleine Albright served from 1997 until 2001 as the first woman secretary of state. She was born in the former Czechoslovakia, and her family immigrated to the United States in 1948. She followed in her father's footsteps by also becoming a diplomat. Prior to being secretary of state, she was U.S. ambassador to the United Nations. She is the author of several books, including her newest: "Fascism: A Warning" (HarperCollins).
+item.number_former_id[0]: https://www.loc.gov/item/webcast-8464/
+item.subjects[0]: Literature
+item.subjects[1]: National Book Festival, literature, non-fiction
+item.summary[0]: Madeleine Albright discusses "Fascism: A Warning" with David M. Rubenstein at the 2018 Library of Congress National Book Festival in Washington, D.C.
+item.title: Madeleine Albright: 2018 National Book Festival
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2021692298
+medium[0]: 1 online resource
+mime_type[0]: video/mp4
+mime_type[1]: image/jpeg
+mime_type[2]: application/xml
+notes[0]: Classification: Language and Literature.
+notes[1]: Madeleine Albright.
+notes[2]: Recorded on 2018-09-01.
+notes[3]: Kids, Families.
+notes[4]: Teachers.
+notes[5]: Madeleine Albright served from 1997 until 2001 as the first woman secretary of state. She was born in the former Czechoslovakia, and her family immigrated to the United States in 1948. She followed in her father's footsteps by also becoming a diplomat. Prior to being secretary of state, she was U.S. ambassador to the United Nations. She is the author of several books, including her newest: "Fascism: A Warning" (HarperCollins).
+number[0]: 2021692298
+number[1]: 2024-05-13t14:28:14
+number[2]: online resource
+number[3]: http://www.loc.gov/item/webcast-8464
+number_carrier_type[0]: online resource
+number_former_id[0]: http://www.loc.gov/item/webcast-8464
+number_lccn[0]: 2021692298
+number_source_modified[0]: 2024-05-13t14:28:14
+online_format[0]: video
+online_format[1]: image
+online_format[2]: online text
+original_format[0]: film, video
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2021692298/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2021692298/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2021692298/dc
+partof[0].count: 85
+partof[0].title: 2018 national book festival
+partof[0].url: https://www.loc.gov/search/?fa=partof:2018+national+book+festival&fo=json
+partof[1].count: 4912
+partof[1].title: national book festival
+partof[1].url: https://www.loc.gov/search/?fa=partof:national+book+festival&fo=json
+partof[2].count: 8303
+partof[2].title: event videos
+partof[2].url: https://www.loc.gov/collections/event-videos/?fo=json
+partof[3].count: 244112
+partof[3].title: general collections
+partof[3].url: https://www.loc.gov/search/?fa=partof:general+collections&fo=json
+partof[4].count: 1909462
+partof[4].title: catalog
+partof[4].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+resources[0].caption: Event video
+resources[0].closed_captions: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:nb:f2:01:8_:ma:in:_m:al:br:ig:ht:nbf2018_main_malbright:nbf2018_main_malbright_1280x720_2000/full/full/0/full/default.vtt
+resources[0].files: 1
+resources[0].fulltext_file: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:nb:f2:01:8_:ma:in:_m:al:br:ig:ht:nbf2018_main_malbright:nbf2018_main_malbright_1280x720_2000/full/full/0/full/default.txt
+resources[0].image: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/nb/f2/01/8_/ma/in/_m/al/br/ig/ht/nbf2018_main_malbright/nbf2018_main_malbright_2000.0_thumb.jpg
+resources[0].poster: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/nb/f2/01/8_/ma/in/_m/al/br/ig/ht/nbf2018_main_malbright/nbf2018_main_malbright_2000.0_bg.jpg
+resources[0].url: https://www.loc.gov/resource/gdcwebcasts.nbf2018_main_malbright/
+resources[0].video: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/nb/f2/01/8_/ma/in/_m/al/br/ig/ht/nbf2018_main_malbright/nbf2018_main_malbright_1280x720_2000.mp4
+resources[0].video_stream: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:nb:f2:01:8_:ma:in:_m:al:br:ig:ht:nbf2018_main_malbright:nbf2018_main_malbright_1280x720_2000/full/full/0/full/default.m3u8
+rights[0]: While the Library of Congress created most of the videos in this collection, they include copyrighted materials that the Library has permission from rightsholders to present. Rights assessment is your responsibility. The written permission of the copyright owners in materials not in the public domain is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. There may also be content that is protected under the copyright or neighboring-rights laws of other nations. Permissions may additionally be required from holders of other rights (such as publicity and/or privacy rights). Whenever possible, we provide information that we have about copyright owners and related matters in the catalog records, finding aids and other texts that accompany collections. However, the information we have may not be accurate or complete.
+
+More about Copyright and other Restrictions
+
+For guidance about compiling full citations consult Citing Primary Sources.
+
+Credit Line: Library of Congress
+score: 17.032347
+shard: 01
+shelf_id: http://lccn.loc.gov/2021692298
+site[0]: catalog
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: literature
+subject[1]: national book festival, literature, non-fiction
+subject_headings[0]: Literature
+subject_headings[1]: National Book Festival, literature, non-fiction
+subjects[0].literature: https://www.loc.gov/search/?fa=subject:literature&fo=json
+subjects[1].national book festival, literature, non-fiction: https://www.loc.gov/search/?fa=subject:national+book+festival,+literature,+non-fiction&fo=json
+summary[0]: Madeleine Albright discusses "Fascism: A Warning" with David M. Rubenstein at the 2018 Library of Congress National Book Festival in Washington, D.C.
+timestamp: 2025-05-09T16:47:58.975Z
+title: Madeleine Albright: 2018 National Book Festival
+type[0]: moving image
+url: https://www.loc.gov/item/2021692298/
+resources[0].caption: Event video
+resources[0].closed_captions: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:nb:f2:01:8_:ma:in:_m:al:br:ig:ht:nbf2018_main_malbright:nbf2018_main_malbright_1280x720_2000/full/full/0/full/default.vtt
+resources[0].download_restricted: false
+resources[0].files[0][0].label: MP4 - 720p
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: video/mp4
+resources[0].files[0][0].size: 1086590760
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/nb/f2/01/8_/ma/in/_m/al/br/ig/ht/nbf2018_main_malbright/nbf2018_main_malbright_1280x720_2000.mp4
+resources[0].fulltext_file: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:nb:f2:01:8_:ma:in:_m:al:br:ig:ht:nbf2018_main_malbright:nbf2018_main_malbright_1280x720_2000/full/full/0/full/default.txt
+resources[0].image: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/nb/f2/01/8_/ma/in/_m/al/br/ig/ht/nbf2018_main_malbright/nbf2018_main_malbright_2000.0_thumb.jpg
+resources[0].poster: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/nb/f2/01/8_/ma/in/_m/al/br/ig/ht/nbf2018_main_malbright/nbf2018_main_malbright_2000.0_bg.jpg
+resources[0].resource_items: false
+resources[0].url: https://www.loc.gov/resource/gdcwebcasts.nbf2018_main_malbright/
+resources[0].video: https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/nb/f2/01/8_/ma/in/_m/al/br/ig/ht/nbf2018_main_malbright/nbf2018_main_malbright_1280x720_2000.mp4
+resources[0].video_stream: https://tile.loc.gov/streaming-services/iiif/:service:gdc:gdcwebcasts:nb:f2:01:8_:ma:in:_m:al:br:ig:ht:nbf2018_main_malbright:nbf2018_main_malbright_1280x720_2000/full/full/0/full/default.m3u8
+cite_this.apa: Library Of Congress & National Book Festival, U. S. (2018) Madeleine Albright: National Book Festival. Washington, D.C.: Library of Congress, -09-01. [Video] Retrieved from the Library of Congress, https://www.loc.gov/item/2021692298/.
+cite_this.chicago: Library Of Congress, and U.S National Book Festival. Madeleine Albright: National Book Festival. Washington, D.C.: Library of Congress, -09-01, 2018. Video. https://www.loc.gov/item/2021692298/.
+cite_this.mla: Library Of Congress, and U.S National Book Festival. Madeleine Albright: National Book Festival. Washington, D.C.: Library of Congress, -09-01, 2018. Video. Retrieved from the Library of Congress, <www.loc.gov/item/2021692298/>.

@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_-_Passport_issued_by_the_Swiss_Embassy_in_Berlin,_Germany,_1923.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein_-_Passport_issued_by_the_Swiss_Embassy_in_Berlin%2C_Germany%2C_1923.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:22:33Z",
+  "sha256": "0d78435c012d1b02b6d2e8b37e16f868d284d3f2af95dee58cf77af04ee69174",
+  "bytes": 822,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein_-_Passport_issued_by_the_Swiss_Embassy_in_Berlin%2C_Germany%2C_1923.jpg&format=json"
+}

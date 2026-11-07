@@ -1,0 +1,68 @@
+{
+ "real": {
+  "pass": true,
+  "checks": [
+   {
+    "name": "red cube east",
+    "pass": true,
+    "errDeg": 0.18,
+    "px": 7529
+   },
+   {
+    "name": "yellow lamp up",
+    "pass": true,
+    "errDeg": 0.07,
+    "px": 6845
+   },
+   {
+    "name": "N reads un-mirrored",
+    "pass": true,
+    "diagonalContrast": 0.55
+   }
+  ]
+ },
+ "mirrorX": {
+  "pass": false,
+  "checks": [
+   {
+    "name": "red cube east",
+    "pass": false,
+    "errDeg": 150.67,
+    "px": 7529
+   },
+   {
+    "name": "yellow lamp up",
+    "pass": false,
+    "errDeg": 52.8,
+    "px": 6845
+   },
+   {
+    "name": "N reads un-mirrored",
+    "pass": false,
+    "diagonalContrast": -0.213
+   }
+  ]
+ },
+ "flipY": {
+  "pass": false,
+  "checks": [
+   {
+    "name": "red cube east",
+    "pass": false,
+    "errDeg": 29.33,
+    "px": 7529
+   },
+   {
+    "name": "yellow lamp up",
+    "pass": false,
+    "errDeg": 109.31,
+    "px": 6845
+   },
+   {
+    "name": "N reads un-mirrored",
+    "pass": false,
+    "diagonalContrast": 0.058
+   }
+  ]
+ }
+}

@@ -1,0 +1,218 @@
+_version_: 1859011029175894016
+access_restricted: true
+aka[0]: https://www.loc.gov/pictures/item/2012644011/
+aka[1]: http://www.loc.gov/item/2012644011/
+aka[2]: http://www.loc.gov/pictures/item/2012644011/
+aka[3]: https://www.loc.gov/pictures/collection/hlb/item/2012644011/
+aka[4]: http://www.loc.gov/pictures/collection/hlb/item/2012644011/
+aka[5]: https://hdl.loc.gov/loc.pnp/hlb.13615
+aka[6]: https://hdl.loc.gov/loc.pnp/hlb.13615
+aka[7]: http://www.loc.gov/resource/hlb.13615/
+aka[8]: http://lccn.loc.gov/2012644011
+aka[9]: https://search.catalog.loc.gov/instances/c0888677-fe0f-5ba7-be92-659f0f3ec1b6
+call_number: BLOCK, no. 13615 (BB size)
+contributor_names[0]: Block, Herbert, 1909-2001, artist
+contributors[0].block, herbert: https://www.loc.gov/search/?fa=contributor:block,+herbert&fo=json
+created: 2026-03-03T05:55:47Z
+created_published[0]: 8/2/1998.
+created_published_date: 8/2/1998.
+date: 1998
+dates[0].1998: https://www.loc.gov/search/?dates=1998/1998&fo=json
+description[0]: 1 drawing.
+digital_id[0]: hlb 13615 https://hdl.loc.gov/loc.pnp/hlb.13615
+digitized: true
+display_offsite: false
+extract_timestamp: 2026-03-07T13:38:01.531Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/hlb/item/2012644011/#hlb
+extract_urls[1]: http://lccn.loc.gov/2012644011#catalog-split-05
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Drawings--American.
+format_headings[1]: Editorial cartoons--American.
+genre[0]: Drawings--American
+genre[1]: Editorial cartoons--American
+group[0]: hlb
+group[1]: catalog-split-05
+group[2]: catalog
+group[3]: herblock-cartoon-drawings
+group[4]: main-catalog-split-05
+hassegments: false
+id: http://www.loc.gov/item/2012644011/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/hlb/13600/13615_150px.jpg#h=150&w=104
+index: 1
+item.call_number: BLOCK, no. 13615 (BB size)
+item.contributors[0]: Block, Herbert, 1909-2001, artist
+item.control_number: 2012644011
+item.created: 2026-03-03T05:55:47Z
+item.created_published: 8/2/1998.
+item.created_published_date: 8/2/1998.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Block%2C%20Herbert%2C%201909-2001&co=hlb
+item.creators[0].role: artist
+item.creators[0].title: Block, Herbert, 1909-2001
+item.date: 8/2/1998.
+item.digital_id[0]: hlb 13615 https://hdl.loc.gov/loc.pnp/hlb.13615
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Drawings--American.&co=hlb
+item.formats[0].title: Drawings--American.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Editorial%20cartoons--American.&co=hlb
+item.formats[1].title: Editorial cartoons--American.
+item.genre[0]: Drawings--American
+item.genre[1]: Editorial cartoons--American
+item.id: 2012644011
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2012644011/
+item.location[0]: China
+item.marc: https://www.loc.gov/pictures/item/2012644011/marc/
+item.medium[0]: 1 drawing.
+item.medium_brief: 1 drawing.
+item.mediums[0]: 1 drawing.
+item.modified: 2026-03-03T05:55:48Z
+item.notes[0]: Forms part of: Herbert L. Block (Herblock) collection (Library of Congress).
+item.number_former_id[0]: https://www.loc.gov/item/2012644011
+item.number_former_id[1]: https://www.loc.gov/item/hlb2012012523
+item.other_control_numbers[0]: hlb2012012523
+item.part_of: Block, Herbert, 1909-2001. Herbert L. Block (Herblock) collection (Library of Congress)
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=China&co=hlb
+item.place[0].title: China
+item.raw_collections[0]: hlb
+item.raw_collections[1]: minload
+item.raw_collections[2]: pp
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-hlb-13615 (digital file from original drawing)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/hlb.13615
+item.rights_advisory: Publication may be restricted. For information see "Herbert Block ("Herblock") Rights and Restrictions," https://www.loc.gov/rr/print/res/271_herb.html
+item.rights_information: Publication may be restricted. For information see "Herbert Block ("Herblock") Rights and Restrictions," https://www.loc.gov/rr/print/res/271_herb.html
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/hlb/13600/13615_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/hlb/13600/13615r.jpg
+item.sort_date: 1998
+item.source_collection[0]: Block, Herbert, 1909-2001. Herbert L. Block (Herblock) collection (Library of Congress)
+item.source_created: 2012-11-19T00:00:00Z
+item.source_modified: 2026-02-19T21:15:21Z
+item.subject_headings[0]: Clinton, Bill,--1946-
+item.subject_headings[1]: Jiang, Zemin,--1926-
+item.subject_headings[2]: Albright, Madeleine Korbel.
+item.subject_headings[3]: China.
+item.subject_headings[4]: International relations--China
+item.subject_headings[5]: Dissenters
+item.subject_headings[6]: Newspaper headlines
+item.subject_headings[7]: China
+item.subjects[0]: Clinton, Bill,--1946
+item.subjects[1]: Jiang, Zemin,--1926
+item.subjects[2]: Albright, Madeleine Korbel
+item.subjects[3]: China
+item.subjects[4]: International relations--China
+item.subjects[5]: Dissenters
+item.subjects[6]: Newspaper headlines
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/hlb/13600/13615_150px.jpg
+item.title: "They didn't respect us in the morning"
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2012644011
+link: https://www.loc.gov/pictures/item/2012644011/
+location[0]: china
+locations[0].china: https://www.loc.gov/search/?fa=location:china&fo=json
+marc: https://www.loc.gov/pictures/item/2012644011/marc/
+medium[0]: 1 drawing.
+medium_brief: 1 drawing.
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2026-03-03T05:55:48Z
+notes[0]: Forms part of: Herbert L. Block (Herblock) collection (Library of Congress).
+number[0]: online resource
+number[1]: 2026-02-19t21:15:21.900000
+number[2]: sheet
+number[3]: http://www.loc.gov/item/2012644011
+number[4]: 2012644011
+number[5]: http://www.loc.gov/item/hlb2012012523
+number_carrier_type[0]: sheet
+number_carrier_type[1]: online resource
+number_former_id[0]: http://www.loc.gov/item/hlb2012012523
+number_former_id[1]: http://www.loc.gov/item/2012644011
+number_lccn[0]: 2012644011
+number_source_modified[0]: 2026-02-19t21:15:21.900000
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: hlb2012012523
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2012644011/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2012644011/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2012644011/dc
+partof[0].count: 9296
+partof[0].title: cartoon drawings: herblock collection
+partof[0].url: https://www.loc.gov/collections/herblock-cartoon-drawings/?fo=json
+partof[1].count: 1161984
+partof[1].title: prints and photographs division
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[2].count: 1909462
+partof[2].title: catalog
+partof[2].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=China&co=hlb
+place[0].title: China
+raw_collections[0]: hlb
+raw_collections[1]: minload
+raw_collections[2]: pp
+related.neighbors: https://www.loc.gov/pictures/related/?&co=hlb&pk=2012644011&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-hlb-13615 (digital file from original drawing)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/hlb.13615
+resources[0].caption: digital file from original drawing
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/hlb/13600/13615_150px.jpg
+resources[0].url: https://www.loc.gov/resource/hlb.13615/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Herbert Block ("Herblock") - Rights and Restrictions Information
+rights_advisory: Publication may be restricted. For information see "Herbert Block ("Herblock") Rights and Restrictions," https://www.loc.gov/rr/print/res/271_herb.html
+rights_information: Publication may be restricted. For information see "Herbert Block ("Herblock") Rights and Restrictions," https://www.loc.gov/rr/print/res/271_herb.html
+score: 18.879913
+shard: 00
+shelf_id: BLOCK, no. 13615 (BB size)
+site[0]: pictures
+site[1]: catalog
+sort_date: 1998
+source_collection: Block, Herbert, 1909-2001. Herbert L. Block (Herblock) collection (Library of Congress)
+source_created: 2012-11-19T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: albright, madeleine korbel
+subject[1]: drawings
+subject[2]: china
+subject[3]: international relations
+subject[4]: clinton, bill
+subject[5]: dissenters
+subject[6]: newspaper headlines
+subject[7]: american
+subject[8]: jiang, zemin
+subject[9]: editorial cartoons
+subject_headings[0]: Clinton, Bill,--1946
+subject_headings[1]: Jiang, Zemin,--1926
+subject_headings[2]: Albright, Madeleine Korbel
+subject_headings[3]: China
+subject_headings[4]: International relations--China
+subject_headings[5]: Dissenters
+subject_headings[6]: Newspaper headlines
+subjects[0].albright, madeleine korbel: https://www.loc.gov/search/?fa=subject:albright,+madeleine+korbel&fo=json
+subjects[1].american: https://www.loc.gov/search/?fa=subject:american&fo=json
+subjects[2].china: https://www.loc.gov/search/?fa=subject:china&fo=json
+subjects[3].clinton, bill: https://www.loc.gov/search/?fa=subject:clinton,+bill&fo=json
+subjects[4].dissenters: https://www.loc.gov/search/?fa=subject:dissenters&fo=json
+subjects[5].drawings: https://www.loc.gov/search/?fa=subject:drawings&fo=json
+subjects[6].editorial cartoons: https://www.loc.gov/search/?fa=subject:editorial+cartoons&fo=json
+subjects[7].international relations: https://www.loc.gov/search/?fa=subject:international+relations&fo=json
+subjects[8].jiang, zemin: https://www.loc.gov/search/?fa=subject:jiang,+zemin&fo=json
+subjects[9].newspaper headlines: https://www.loc.gov/search/?fa=subject:newspaper+headlines&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/hlb/13600/13615_150px.jpg
+timestamp: 2026-03-07T13:44:31.929Z
+title: "They didn't respect us in the morning"
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/2012644011/
+resources[0].caption: digital file from original drawing
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/hlb/13600/13615_150px.jpg
+resources[0].url: https://www.loc.gov/resource/hlb.13615/
+cite_this.apa: Block, H. (1998) "They didn't respect us in the morning". China, 1998. 8/2. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2012644011/.
+cite_this.chicago: Block, Herbert, Artist. "They didn't respect us in the morning". China, 1998. 8/2. Photograph. https://www.loc.gov/item/2012644011/.
+cite_this.mla: Block, Herbert, Artist. "They didn't respect us in the morning". 8/2. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2012644011/>.

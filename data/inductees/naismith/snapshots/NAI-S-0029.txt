@@ -1,0 +1,188 @@
+_version_: 1836574387450413056
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn88077215/1939-11-30/ed-1/
+aka[1]: http://www.loc.gov/resource/sn88077215/1939-11-30/ed-1/
+batch[0]: ohi_james_ver01
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/ohio/
+composite_location[2]: 2/united states/ohio/montgomery/
+composite_location[3]: 3/united states/ohio/montgomery/oakwood/
+contributor_names[0]: Ohio History Connection, Columbus, OH
+contributors[0].ohio history connection, columbus, oh: https://www.loc.gov/search/?fa=contributor:ohio+history+connection,+columbus,+oh&fo=json&st=text
+created_published[0]: Oakwood (Dayton), Ohio, November 30, 1939
+date: 1939-11-30
+date_issued: 1939-11-30
+dates[0].1939-11-30: https://www.loc.gov/search/?dates=1939-11-30/1939-11-30&fo=json&st=text
+dates_of_publication: 1931-1955
+description[0]: Oakwood (Dayton), Ohio
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-07-02T21:26:49.301Z
+extract_urls[0]: file:/service/ndnp//ohi/batch_ohi_james_ver01/data/sn88077215/00516994113/1939113001/1939113001_1.xml#ndnp/ohi
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/ohi
+group[1]: ohio-historical-society-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn88077215/1939-11-30/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_james_ver01:data:sn88077215:00516994113:1939113001:0493/full/pct:6.25/0/default.jpg#h=327&w=216
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_james_ver01:data:sn88077215:00516994113:1939113001:0493/full/pct:12.5/0/default.jpg#h=654&w=432
+index: 9
+item.batch[0]: ohi_james_ver01
+item.contributor_names[0]: Ohio History Connection, Columbus, OH
+item.created_published[0]: Oakwood (Dayton), Ohio, November 30, 1939
+item.date: 1931
+item.date_issued: 1939-11-30
+item.dates[0]: 1939-11-30
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn88077215
+item.location[0]: Oakwood (Montgomery County, Ohio)
+item.location[1]: Montgomery County (Ohio)
+item.location[2]: Dayton (Ohio)
+item.location[3]: Ohio--Montgomery County
+item.location[4]: Ohio--Oakwood (Montgomery County)
+item.medium: 12 pages
+item.newspaper_title[0]: The Oakwood press
+item.notes[0]: Weekly
+item.notes[1]: Began in 1931; ceased in 1955?
+item.notes[2]: Published as: Press, Oct. 7, 1954-.
+item.notes[3]: Description based on: 7th year, no. 26 (Jan 5, 1939).
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ohi/batch_ohi_james_ver01/data/sn88077215/00516994113/1939113001/1939113001_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn88077215/marcxml
+item.other_title[0]: Press
+item.place_of_publication: Oakwood (Dayton), Ohio
+item.raw_lccn: sn 88077215
+item.reel_numbers[0]: 00516994113
+item.source_group: ndnp/ohi
+item.subjects[0]: Oakwood (Montgomery County, Ohio)--Newspapers
+item.subjects[1]: Montgomery County (Ohio)--Newspapers
+item.subjects[2]: Dayton (Ohio)--Newspapers
+item.subjects[3]: Ohio--Montgomery County
+item.subjects[4]: Ohio--Oakwood (Montgomery County)
+item.subjects[5]: United States--Ohio--Montgomery--Oakwood
+item.title: The Oakwood press (Oakwood (Dayton), Ohio), November 30, 1939
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn88077215
+location[0]: montgomery
+location[1]: oakwood
+location[2]: montgomery county
+location[3]: united states
+location[4]: ohio
+location[5]: dayton
+location_city[0]: oakwood
+location_country[0]: united states
+location_county[0]: montgomery
+location_state[0]: ohio
+locations[0].dayton: https://www.loc.gov/search/?fa=location:dayton&fo=json&st=text
+locations[1].montgomery: https://www.loc.gov/search/?fa=location:montgomery&fo=json&st=text
+locations[2].montgomery county: https://www.loc.gov/search/?fa=location:montgomery+county&fo=json&st=text
+locations[3].oakwood: https://www.loc.gov/search/?fa=location:oakwood&fo=json&st=text
+locations[4].ohio: https://www.loc.gov/search/?fa=location:ohio&fo=json&st=text
+locations[5].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].oakwood: https://www.loc.gov/search/?fa=location_city:oakwood&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].montgomery: https://www.loc.gov/search/?fa=location_county:montgomery&fo=json&st=text
+locations_state[0].ohio: https://www.loc.gov/search/?fa=location_state:ohio&fo=json&st=text
+medium: 12 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Oakwood press
+notes[0]: Weekly
+notes[1]: Began in 1931; ceased in 1955?
+notes[2]: Published as: Press, Oct. 7, 1954-.
+notes[3]: Description based on: 7th year, no. 26 (Jan 5, 1939).
+number[0]: 00516994113
+number[1]: sn88077215
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn88077215
+number_reel[0]: 00516994113
+numeric_shelf_id: 193911301
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ohi/batch_ohi_james_ver01/data/sn88077215/00516994113/1939113001/1939113001_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn88077215/marcxml
+other_title[0]: Press
+partof[0].count: 823
+partof[0].title: the oakwood press (oakwood (dayton), ohio) 1931-1955
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+oakwood+press+%28oakwood+%28dayton%29,+ohio%29+1931-1955&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the oakwood press (oakwood (dayton), ohio) 1931-1955
+place_of_publication: Oakwood (Dayton), Ohio
+publication_frequency[0]: weekly
+raw_lccn: sn 88077215
+reel_numbers[0]: 00516994113
+resources[0].files: 12
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_james_ver01:data:sn88077215:00516994113:1939113001:0493/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn88077215/1939-11-30/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.969487
+shard: 04
+shelf_id: sn88077215, 1939-11-30, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ohi
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: oakwood (montgomery county)
+subject[1]: montgomery county (ohio)
+subject[2]: montgomery
+subject[3]: oakwood (montgomery county, ohio)
+subject[4]: dayton (ohio)
+subject[5]: oakwood
+subject[6]: united states
+subject[7]: ohio
+subject[8]: newspapers
+subject[9]: montgomery county
+subject_headings[0]: Oakwood (Montgomery County, Ohio)--Newspapers
+subject_headings[1]: Montgomery County (Ohio)--Newspapers
+subject_headings[2]: Dayton (Ohio)--Newspapers
+subject_headings[3]: Ohio--Montgomery County
+subject_headings[4]: Ohio--Oakwood (Montgomery County)
+subject_headings[5]: United States--Ohio--Montgomery--Oakwood
+subjects[0].dayton (ohio): https://www.loc.gov/search/?fa=subject:dayton+%28ohio%29&fo=json&st=text
+subjects[1].montgomery: https://www.loc.gov/search/?fa=subject:montgomery&fo=json&st=text
+subjects[2].montgomery county: https://www.loc.gov/search/?fa=subject:montgomery+county&fo=json&st=text
+subjects[3].montgomery county (ohio): https://www.loc.gov/search/?fa=subject:montgomery+county+%28ohio%29&fo=json&st=text
+subjects[4].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[5].oakwood: https://www.loc.gov/search/?fa=subject:oakwood&fo=json&st=text
+subjects[6].oakwood (montgomery county): https://www.loc.gov/search/?fa=subject:oakwood+%28montgomery+county%29&fo=json&st=text
+subjects[7].oakwood (montgomery county, ohio): https://www.loc.gov/search/?fa=subject:oakwood+%28montgomery+county,+ohio%29&fo=json&st=text
+subjects[8].ohio: https://www.loc.gov/search/?fa=subject:ohio&fo=json&st=text
+subjects[9].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2025-07-02T22:03:39.823Z
+title: The Oakwood press (Oakwood (Dayton), Ohio), November 30, 1939
+type[0]: issue
+url: https://www.loc.gov/item/sn88077215/1939-11-30/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ohi/batch_ohi_james_ver01/data/sn88077215/00516994113/1939113001/0501.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn88077215/1939-11-30/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_james_ver01:data:sn88077215:00516994113:1939113001:0493/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ohi/batch_ohi_james_ver01/data/sn88077215/00516994113/1939113001/0501.pdf
+resources[0].segment_count: 12
+resources[0].url: https://www.loc.gov/resource/sn88077215/1939-11-30/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1939, November 30) The Oakwood press. Retrieved from the Library of Congress, https://www.loc.gov/item/sn88077215/1939-11-30/ed-1/.
+cite_this.chicago: The Oakwood press. (Oakwood, OH), Nov. 30 1939. https://www.loc.gov/item/sn88077215/1939-11-30/ed-1/.
+cite_this.mla: The Oakwood press. (Oakwood, OH) 30 Nov. 1939, p. 9. Retrieved from the Library of Congress, www.loc.gov/item/sn88077215/1939-11-30/ed-1/.

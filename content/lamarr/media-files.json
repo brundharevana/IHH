@@ -1,0 +1,175 @@
+{
+  "$comment": "Exhibit image files built by tools/fetch_media.py from the holder's own files. key = file name in site/public/media/ (media id, or <id>-p<page> for one page of a multi-page record); page = the holder's page/object number (LAM-M-0001: image number in 302050_2292387_NN.jpg; LAM-M-0022: 335708097-NN.JPG; LAM-M-0028: page 1-9 = dn1929-d-242-00668..00676.jpg).",
+  "files": [
+    {
+      "key": "LAM-M-0001-p34",
+      "media_id": "LAM-M-0001",
+      "page": 34,
+      "download": "https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_34.jpg"
+    },
+    {
+      "key": "LAM-M-0001-p33",
+      "media_id": "LAM-M-0001",
+      "page": 33,
+      "download": "https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_33.jpg"
+    },
+    {
+      "key": "LAM-M-0001-p5",
+      "media_id": "LAM-M-0001",
+      "page": 5,
+      "download": "https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_05.jpg"
+    },
+    {
+      "key": "LAM-M-0001-p6",
+      "media_id": "LAM-M-0001",
+      "page": 6,
+      "download": "https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_06.jpg"
+    },
+    {
+      "key": "LAM-M-0001-p7",
+      "media_id": "LAM-M-0001",
+      "page": 7,
+      "download": "https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_07.jpg"
+    },
+    {
+      "key": "LAM-M-0001-p39",
+      "media_id": "LAM-M-0001",
+      "page": 39,
+      "download": "https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_39.jpg"
+    },
+    {
+      "key": "LAM-M-0001-p41",
+      "media_id": "LAM-M-0001",
+      "page": 41,
+      "download": "https://catalog.archives.gov/medialz/kansas-city/rg-241/302050/2020-02-25/302050_2292387_41.jpg"
+    },
+    {
+      "key": "LAM-M-0022-p1",
+      "media_id": "LAM-M-0022",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialz/riverside/rg-021/594890/335708097/335708097-01.JPG"
+    },
+    {
+      "key": "LAM-M-0022-p2",
+      "media_id": "LAM-M-0022",
+      "page": 2,
+      "download": "https://catalog.archives.gov/medialz/riverside/rg-021/594890/335708097/335708097-02.JPG"
+    },
+    {
+      "key": "LAM-M-0022-p3",
+      "media_id": "LAM-M-0022",
+      "page": 3,
+      "download": "https://catalog.archives.gov/medialz/riverside/rg-021/594890/335708097/335708097-03.JPG"
+    },
+    {
+      "key": "LAM-M-0022-p4",
+      "media_id": "LAM-M-0022",
+      "page": 4,
+      "download": "https://catalog.archives.gov/medialz/riverside/rg-021/594890/335708097/335708097-04.JPG"
+    },
+    {
+      "key": "LAM-M-0022-p5",
+      "media_id": "LAM-M-0022",
+      "page": 5,
+      "download": "https://catalog.archives.gov/medialz/riverside/rg-021/594890/335708097/335708097-05.JPG"
+    },
+    {
+      "key": "LAM-M-0022-p6",
+      "media_id": "LAM-M-0022",
+      "page": 6,
+      "download": "https://catalog.archives.gov/medialz/riverside/rg-021/594890/335708097/335708097-06.JPG"
+    },
+    {
+      "key": "LAM-M-0022-p7",
+      "media_id": "LAM-M-0022",
+      "page": 7,
+      "download": "https://catalog.archives.gov/medialz/riverside/rg-021/594890/335708097/335708097-07.JPG"
+    },
+    {
+      "key": "LAM-M-0022-p8",
+      "media_id": "LAM-M-0022",
+      "page": 8,
+      "download": "https://catalog.archives.gov/medialz/riverside/rg-021/594890/335708097/335708097-08.JPG"
+    },
+    {
+      "key": "LAM-M-0022-p9",
+      "media_id": "LAM-M-0022",
+      "page": 9,
+      "download": "https://catalog.archives.gov/medialz/riverside/rg-021/594890/335708097/335708097-09.JPG"
+    },
+    {
+      "key": "LAM-M-0028-p1",
+      "media_id": "LAM-M-0028",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00668.jpg"
+    },
+    {
+      "key": "LAM-M-0028-p2",
+      "media_id": "LAM-M-0028",
+      "page": 2,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00669.jpg"
+    },
+    {
+      "key": "LAM-M-0028-p3",
+      "media_id": "LAM-M-0028",
+      "page": 3,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00670.jpg"
+    },
+    {
+      "key": "LAM-M-0028-p4",
+      "media_id": "LAM-M-0028",
+      "page": 4,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00671.jpg"
+    },
+    {
+      "key": "LAM-M-0028-p5",
+      "media_id": "LAM-M-0028",
+      "page": 5,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00672.jpg"
+    },
+    {
+      "key": "LAM-M-0028-p6",
+      "media_id": "LAM-M-0028",
+      "page": 6,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00673.jpg"
+    },
+    {
+      "key": "LAM-M-0028-p7",
+      "media_id": "LAM-M-0028",
+      "page": 7,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00674.jpg"
+    },
+    {
+      "key": "LAM-M-0028-p8",
+      "media_id": "LAM-M-0028",
+      "page": 8,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00675.jpg"
+    },
+    {
+      "key": "LAM-M-0028-p9",
+      "media_id": "LAM-M-0028",
+      "page": 9,
+      "download": "https://catalog.archives.gov/medialz/microfilm-publications/DN1929_PropertyControlBranch_USACA/DN1929_0242/images/dn1929-d-242-00676.jpg"
+    },
+    {
+      "key": "LAM-M-0013",
+      "media_id": "LAM-M-0013",
+      "download": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002d9663/full/2048,/0/default.jpg"
+    },
+    {
+      "key": "LAM-M-0014",
+      "media_id": "LAM-M-0014",
+      "download": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002v4v7/full/2048,/0/default.jpg"
+    },
+    {
+      "key": "LAM-M-0015",
+      "media_id": "LAM-M-0015",
+      "download": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002v7w6/full/2048,/0/default.jpg"
+    },
+    {
+      "key": "LAM-M-0023",
+      "media_id": "LAM-M-0023",
+      "download": "https://tile.loc.gov/storage-services/master/pnp/cph/3b30000/3b36000/3b36500/3b36522u.tif"
+    }
+  ]
+}

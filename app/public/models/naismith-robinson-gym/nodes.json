@@ -1,0 +1,22 @@
+{
+  "$comment": "Named nodes in naismith-robinson-gym.glb / naismith-robinson-gym-mobile.glb (glTF Y-up, metres). hotspot_* are standing viewpoints at eye height 1.6 m whose local -Z axis faces the view direction (camera convention); artifact_* are framable objects; label_recreation carries the recreation label in extras.text. Walkable bounds: bounds.json.",
+  "hotspots": [
+    "hotspot_1",
+    "hotspot_2",
+    "hotspot_3",
+    "hotspot_4"
+  ],
+  "artifacts": [
+    "artifact_climbing_ropes",
+    "artifact_hanging_frame",
+    "artifact_pendant_lamps",
+    "artifact_roof_truss",
+    "artifact_track_rail_east",
+    "artifact_track_rail_north",
+    "artifact_track_rail_west",
+    "artifact_wall_panels"
+  ],
+  "label": [
+    "label_recreation"
+  ]
+}

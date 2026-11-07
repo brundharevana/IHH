@@ -1,0 +1,28 @@
+---
+// Plaque for the recreated study corner (Task 6), shared by the chapter room and the Lite page.
+// Props: corner = studyCornerView(...) (src/content/load.js); id = unique heading id; level = heading level;
+// lite = true on the Lite page (no 3D room there), which adds where the corner stands in the 3D museum.
+// The label and the photographs' lines come from the records; the note is a fixed disclosure
+// (src/museum/reconstruction.js CORNER_NOTE); the furniture credit is the model source's CC BY credit.
+import { CORNER_WHERE_LITE } from '../museum/reconstruction.js';
+const { corner, id = 'corner-heading', level = 2, lite = false } = Astro.props;
+const H = `h${level}`;
+---
+<section class="reconstruction-plaque corner-plaque" aria-labelledby={id} data-study-corner>
+  <H id={id}>{corner.label}</H>
+  <ul>
+    {corner.basis.map(b => (
+      <li data-basis={b.id}>
+        <span class="recon-src">{b.label}</span>{b.credit && <span class="recon-credit">{` Credit: ${b.credit}`}</span>}
+        {' '}<a class="original" href={b.url}>See the original photograph<span class="visually-hidden">{`: ${b.title}`}</span></a>
+      </li>
+    ))}
+  </ul>
+  <p class="recon-note" data-corner-note>{corner.note}</p>
+  {lite && <p class="recon-note" data-corner-where>{CORNER_WHERE_LITE}</p>}
+  {corner.credits.map(c => (
+    <p class="recon-disclosure" data-corner-credit>
+      {`Furniture models: ${c.text.replace(/ ?CC BY 4\.0\.?$/, '')} `}<a href={c.licence.url}>{c.licence.name}</a>{'. '}<a href={c.source}>Source</a>{`. ${c.changes}`}
+    </p>
+  ))}
+</section>

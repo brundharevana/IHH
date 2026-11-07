@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/jomu/learn/management/index.htm",
+  "fetch_url": "https://www.nps.gov/jomu/learn/management/index.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:35:49Z",
+  "sha256": "a84461c6ae1db64c12b91b973dcbf03769b9bdc0a0303f95e1844099c211720f",
+  "bytes": 2698,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/jomu/learn/management/index.htm"
+}

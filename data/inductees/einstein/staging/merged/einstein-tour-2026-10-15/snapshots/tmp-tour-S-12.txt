@@ -1,0 +1,846 @@
+_version_: 1773628175054536704
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn84026749/1933-10-18/ed-1/
+aka[1]: http://www.loc.gov/resource/sn84026749/1933-10-18/ed-1/
+batch[0]: dlc_deanwood_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json&st=text
+created_published[0]: Washington [D.C.], October 18, 1933
+date: 1933-10-18
+date_issued: 1933-10-18
+dates[0].1933-10-18: https://www.loc.gov/search/?dates=1933-10-18/1933-10-18&fo=json&st=text
+dates_of_publication: 1902-1939
+description[0]: Washington [D.C.]
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-08-07T20:30:44.798Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101801/1933101801_1.xml#ndnp/dlc-2020_now
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2020_now
+group[1]: library-of-congress-washington-dc-awardee-8
+hassegments: true
+id: http://www.loc.gov/item/sn84026749/1933-10-18/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:0020569657A:1933101801:1221/full/pct:3.125/0/default.jpg#h=301&w=237
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:0020569657A:1933101801:1221/full/pct:6.25/0/default.jpg#h=602&w=475
+index: 1
+item.batch[0]: dlc_deanwood_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington [D.C.], October 18, 1933
+item.date: 1902
+item.date_issued: 1933-10-18
+item.dates[0]: 1933-10-18
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn84026749
+item.location[0]: Washington (D.C.)
+item.medium: 34 pages
+item.newspaper_title[0]: The Washington times
+item.notes[0]: Daily (except Sunday), -Nov. 18, 1922; Apr. 16, 1923-Jan. 31, 1939
+item.notes[1]: No. 3094 (Dec. 1, 1902)-no. 17956 (Jan. 31, 1939)
+item.notes[2]: Extra edition issued Nov. 7, 1918 for the end of World War I.
+item.notes[3]: On Sunday published as: Washington times-herald, Nov. 19, 1922-Apr. 15, 1923.
+item.notes[4]: Also issued on microfilm from the Library of Congress, Photoduplication Service.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling American online collection.
+item.notes[6]: Washington herald (Washington, D.C.) 1941-0662 (DLC)sn 83045433 (OCoLC)9470809
+item.notes[7]: Times herald (Washington, D.C.) (DLC)sn 85040694 (OCoLC)12270503
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101801/1933101801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn84026749/marcxml
+item.other_title[0]: Washington times herald
+item.place_of_publication: Washington [D.C.]
+item.raw_lccn: sn 84026749
+item.reel_numbers[0]: 0020569657a
+item.source_group: ndnp/dlc-2020_now
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: The Washington times (Washington [D.C.]), October 18, 1933
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn84026749
+location[0]: washington d.c.
+location[1]: district of columbia
+location[2]: united states
+location[3]: washington
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json&st=text
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json&st=text
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json&st=text
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json&st=text
+medium: 34 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Washington times
+notes[0]: Daily (except Sunday), -Nov. 18, 1922; Apr. 16, 1923-Jan. 31, 1939
+notes[1]: No. 3094 (Dec. 1, 1902)-no. 17956 (Jan. 31, 1939)
+notes[2]: Extra edition issued Nov. 7, 1918 for the end of World War I.
+notes[3]: On Sunday published as: Washington times-herald, Nov. 19, 1922-Apr. 15, 1923.
+notes[4]: Also issued on microfilm from the Library of Congress, Photoduplication Service.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling American online collection.
+notes[6]: Washington herald (Washington, D.C.) 1941-0662 (DLC)sn 83045433 (OCoLC)9470809
+notes[7]: Times herald (Washington, D.C.) (DLC)sn 85040694 (OCoLC)12270503
+number[0]: 0020569657a
+number[1]: 1
+number[2]: sn84026749
+number_edition[0]: 1
+number_lccn[0]: sn84026749
+number_reel[0]: 0020569657a
+numeric_shelf_id: 193310181
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101801/1933101801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn84026749/marcxml
+other_title[0]: Washington times herald
+partof[0].count: 12344
+partof[0].title: the washington times (washington [d.c.]) 1902-1939
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+washington+times+%28washington+%5Bd.c.%5D%29+1902-1939&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the washington times (washington [d.c.]) 1902-1939
+place_of_publication: Washington [D.C.]
+publication_frequency[0]: daily
+raw_lccn: sn 84026749
+reel_numbers[0]: 0020569657a
+resources[0].files: 34
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:0020569657A:1933101801:1221/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn84026749/1933-10-18/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn84026749, 1933-10-18, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2020_now
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: newspapers
+subject[1]: washington
+subject[2]: washington (d.c.)
+subject[3]: district of columbia
+subject[4]: united states
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json&st=text
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json&st=text
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json&st=text
+timestamp: 2023-08-08T03:00:02.565Z
+title: The Washington times (Washington [D.C.]), October 18, 1933
+type[0]: issue
+url: https://www.loc.gov/item/sn84026749/1933-10-18/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101801/1221.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn84026749/1933-10-18/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deanwood_ver01:data:sn84026749:0020569657A:1933101801:1221/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101801/1221.pdf
+resources[0].segment_count: 34
+resources[0].url: https://www.loc.gov/resource/sn84026749/1933-10-18/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1933, October 18) The Washington times. Retrieved from the Library of Congress, https://www.loc.gov/item/sn84026749/1933-10-18/ed-1/.
+cite_this.chicago: The Washington times. (Washington, DC), Oct. 18 1933. https://www.loc.gov/item/sn84026749/1933-10-18/ed-1/.
+cite_this.mla: The Washington times. (Washington, DC) 18 Oct. 1933, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn84026749/1933-10-18/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101801/1221.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_deanwood_ver01/data/sn84026749/0020569657A/1933101801/1221.xml&format=alto_xml&full_text=1
+full_text:
+LINDSEY LIKELY TO HEAD D. C. JUVENILE COURT
+WEATHER
+Fair and slightly colder tonight; probably
+light froit in suburbs tonight; Thursday fair;
+gentle west and northwest winds.
+Temperature yesterday—Highest, 67; lowest,
+50. (1932 —Highest, 66; lowest, 61.)
+Humidity yesterday—Highest, 91; lowest, 41.
+(Full Weather Report on Page 2.)
+Tbs Washington Times la the eolj afternoon paper tn
+this elty publishing the news dispatches ot Inter
+national News Service and Universal Service.
+CHASE STOCKHOLDERS RECEIVED 350,000,000
+$20,000 Ship Propaganda Fund Revealed
+LOBBY’S HEAD
+ADMITS BIG
+'EXPENSES’
+Senate Committee Grills
+Chariman of Middle
+West Concern
+By International News Service
+Existence of a propaganda
+fund amounting to $20,000 an
+nually, contributed by Ameri
+can shipping lines to the mid
+dle west foreign trade commit
+tee, was revealed today before
+the senate committee investi
+gating ocean mail contracts.
+Malcolm M. Stewart, chairman
+©f the committee and foreign
+trade manager for the Cincinnati
+Chamber of Commerce, admitted
+that widespread lobbyist activities
+were financed by this fund.
+Farmer Lobby Probed
+Stewart was called as a witness
+after the committee had finished
+a severe cross-examination of
+American Fam Bureau Federa
+tion officials, Involving lobbyist”
+activities in behalf of big n
+dustres.
+Shipping lines named as con
+tributors included the Cosmopol
+itan Steamship Corporation,
+American France Line, Southgate-
+Nelson Line, Black Diamond Cor
+poration, South Atlantic Steam
+ship Company, Waterman Steam
+ship Company, Lykes Brothers,
+and the Tampa-Inter Ocean.
+GOGIME
+TIGERS'PILOT
+(Copyright. 1933, bt International News
+Service and the Detroit Times.)
+DETROIT, Mich., Oct. 18
+(1.N.5.). Gordon S. “Mickey”
+Cochrane, catcher on the Phila
+delphia American League Club
+will be the next manager of the
+Detroit Tigers, it was learned on
+reliable authority today.
+The information could not be
+officially confirmed, however, as
+neither Frank Navin, president of
+the Detroit Club, nor Charles F.
+Navin, secretary, could be reached.
+“Mickey” spent Saturday and
+Sunday in Detroit conferring with
+Tiger officials. The local club has
+been angling for him for some
+time. Cochrane can act as mana
+ger and also take over the catch
+ing job. The Tigers have long
+sought a good catcher.
+“Mickey.” while a veteran in
+the American League, is still a
+comparative youngster. He is just
+30 years old and has much base
+ball left in him.
+IHILLER WIFE
+UNDER ARREST
+WOODSTOCK, Tenn., Oct. 18
+(1.N.5.). —A 39-year-old wife who,
+police charge, hacked her unem
+ployed husband to death with an
+ax and then called in her two
+daughters and held a prayer
+service before his mutilated body
+was arrested here today.
+The wife, Mrs. Daisy Storie,
+calmly related to police how she
+had attacked her husband, Rob
+ert Wilson Storie. 45. with a wood
+ax as he lay asleep early today.
+She said:
+“He beat me until I couldn’t
+stand it any longer. I was
+afraid he was going to kill me.”
+After slaying her husband,
+Mrs. Storie awakened her two
+daughters. Manella. 17, and Clara.
+13, summoned them to the blood
+soaked death bed. and had them
+kneel beside their father’s hacked
+body while she prayed.
+Costello*s Midweek Preview OS Football Situation In Sports Section Today
+Due For D. C. Post
+rw; flfl
+f 1
+r I
+fllMr fli
+jfl
+A J
+JUDGE BEN LINDSEY
+NOTED jurist, may be the
+next judge of the Juvenile
+Court here, it was learned to
+day.
+H Friges
+TOP OTHERS
+By International Newt Service
+Notwithstanding reported un
+rest in the Middle West over the
+trend of commodity prices, Ad
+ministration economists reported
+to President Roosevelt today that
+the situation in September was
+“encouraging.”
+The President said the figures
+supplied him showed that Sep
+tember agricultural commodity
+prices were approximately 32 per
+cent above the level for the year
+ended last March, whereas the
+price level for what the farmer
+buys had increased only 11 per
+cent.
+In the manufacturing field,
+data supplied the President re
+ported that in September factory
+employment had recovered 40 per
+cent of the decline since 1929,
+and that the factory worker’s in
+come had recovered 25 per cent
+of the declines since 1929.
+The September index for the
+cost of living was 9 per cent
+above March.
+Silk Weavers Near
+Strike Settlement
+PATERSON, N. J., Oct. 18
+(I.N.S.).—Still beset by strike
+troubles, New Jersey’s silk indus
+try struggled toward settlement of
+its difficulties today as striking
+broad silk weavers met to decide
+on acceptance of an agreement
+with mill owners providing for
+basic wages and maximum work
+ing hours. Meeting of the broad
+silk weavers to vote on acceptance
+of the agreement, worked out
+under the leadership of NRA and
+national labor board leaders, was
+the first step toward solution of
+the walkout, which has tied up
+the Industry for the past monh.
+Negro Economist
+Appointed by Roper
+By International News Service
+Secretary of Commerce Roper
+today appointed Eugene K. Jones,
+negro economist of New York, to
+head a newly organized unit in
+the Commerce Department which
+will study problems of the negro
+race.
+Film Actress, 16,
+To Wed Socialite
+HOLLYWOOD, Oct. 18 (1.N.5.).
+Jessie Wakeling, 16. beautiful film
+actress, and Nicholas Putnam, 25,
+New York socialite, today filed
+notice of intention to wed. They
+will be married in two weeks and
+honeymoon in Bermuda.
+S? WASHINGjtJIM TIMES
+WF V-MANATIo N ALp,
+WI oo own r
+HITLER FIRM
+INSTAND
+UNARMS
+Chancellor Spikes Hopes ol
+Reversal of Plans for
+Geneva Withdrawal
+By International News Service
+Foreign hopes of an about
+face by Germany on her with
+drawal from Geneva were
+dashed today with publication
+of a speech by Chancellor Adolf
+Hitler reaffirming the Reich’s
+determination to remain out
+side the international fold “un
+less she is treated as an equal.’'
+Despite this unequivocal stand
+however, Premier Mussolini con
+tinued his efforts to draw Ger
+many back into disarmament ne
+gotiations under his four power
+peace pact.
+Meanwhile, European observers
+followed closely the verbal duel
+between German Foreign Min
+ister von Neurath and British
+Foreign Secretary Sir Johfl
+Simon, the latter’s charge that the
+Reich had “jeopardized” the arms
+parley being met with sharp re
+torts from Berlin.
+The British cabinet met to dis
+cuss the arms situation. In Vienna,
+Chancellor Dollfuss conferred with
+Czechoslovakian Foreign Minister
+Edouard Benes, with a "united
+front” by Austria and the Little
+Entente nations against Nazi Ger
+many a possibility.
+Firm Stand Holds;
+Hitler Unmoved
+BERLIN, Oct. 18 (1.N.5.) .—Dis
+crediting rumors that Germany
+was ready to swing about and
+reenter the League of Nations,
+Chancellor Adolf Hitler today
+served notice on the world that
+the Reich will participate in no
+further negotiations until she is
+“treated as an equal.”
+In a speech before a convention
+of party leaders last night, which
+was made public today, Hitler
+spiked foreign hopes that Ger-
+(Continued on Page 2, Col. I.)
+EINSTEIN SHU NS
+LIMELIGHT
+PRINCETON, N. J„ Oct. 18
+(I.N.S.),—Making no effort to
+seclude himself but insisting he
+will “make no public appearances,
+grant no interviews, nor issue
+any statements,” Prof. Albert
+Einstein, noted scientist, today
+prepared to begin his activities
+at the Flexner Institute of
+advanced study at Princeton
+University.
+The famed physicist and Mrs.
+Einstein were expected to move
+into permanent quarters today
+or tomorrow—a small, brown
+shingle house in the west end
+of town. In the meantime, they
+were the guests of friends.
+Prof. Einstein came here last
+night after he had debarked from
+the liner Westemland and hur
+ried to Princeton by automobile,
+leaving a New York city welcom
+ing committee "waiting at the
+dock.”
+Originally it had been planned
+that he would be welcomed by
+Mayor J. P. O’Brien, of New
+York, and spend a day as his
+guest.
+Two reasons were advanced for
+the change in plans on Prof.
+Einstein’s arrival. One was his
+general aversion to publicity; the
+other, fear he would be em
+barrassed by Nazi supporters who
+had been reported planning a
+demonstration if he landed in
+New York and was officially
+welcomed.
+NO. 16,294 WEDNESDAY, OCTOBER 18, 1933
+EINSTEIN ARRIVES
+I
+fl/J] l?7 *1
+fl fl
+flfl|
+K. k :-1 fl<
+flfl 1 R
+Billr I
+Isl
+■A
+fl
+fl
+R
+MMntrta nflnwiiff xiESwH&fflsr fl
+9
+fl' 8
+9 fl I
+1 -MIIHIMry’ J
+isl. BL
+fl
+PROFESSOR EINSTEIN
+EXILED FROM Germany, Prof. Albert Einstein,
+scientist, will make his home in Princeton, N. J., and
+will continue his research and teaching at the univer
+sity. Photo by International News Photo Service.
+Coast Indian Summer
+Stages a Heat Wave
+SAN FRANCISCO. Oct- 18
+I (1.N.5.).— Indian Summer was
+i playing a return engagement here
+Frau Ein
+stein, wife
+of Prof.
+Albert Ein
+stein advo
+cate, of the
+relativity
+theory, is
+shown leav
+ing the S. S.
+Westerland
+on arrival in
+New York.
+The Einsteins
+left the
+steamer at
+Quarantine
+and were
+taken to the
+Battery dock
+by launch.
+Meanwhile a
+welcoming
+committee
+awaited
+the arrival of
+the steamer
+at its dock to
+greet the pair.
+They were
+takep to
+Princeton, N.
+J., immedi
+ately on land
+ing. Pro-
+Lessor Ein
+stein declined
+to grant an
+interview to
+awaiting
+reporters.
+He said that
+he will make
+no public
+appearances,
+grant no
+interviews
+nor issue any
+statements.
+Photo by
+Interna
+tional News
+today. More similar weather was
+forecast following the hottest Oc
+tober 17 in Weather Bureau rec
+ords. The maximum was 87. At
+Red Bluff and Sunnyvale the
+reading was 90.
+w"e b k M D& THREE CENTS
+LINDSEY SEEN
+ON JUVENILE
+BENCHHERE
+Prominent Western Jurist Is
+Expected to Succeed
+Judge Sellers
+Judge Ben B. Lindsey, noted
+jurist, authority on juvenile
+affairs and proponent of the
+doctrine of “companionate
+marriage,” may be the next
+judge of the Juvenile Court
+here, it was learned today.
+Julge Lindsey, who has made
+his home in Southern California
+since his disbarment in Colorado
+several years ago, was a visitor in
+Washington within the past few
+days, and it was intimated in of
+ficial circles that he had been
+approached as to his willingness
+to take the post now held by
+Judge Kathryn Sellers.
+Judge Sellers has held office,
+although h?F“t3Ffff*fias expired,
+since the failure of the Senate to
+ratify the appointment by former
+President Hoover of Miss Pearl
+McCall, assistant United States
+Attorney, to that post.
+Mentioned as Governor
+Judge Lindsey, who was a
+member of the Progressive Na
+tional Committee in 1912, was
+mentioned early this year as pos
+sible nominee for the Governship
+of the Hawaiian Islands.
+Oppoition to this appointment
+was voiced from many sources.
+Appointed judge of the juvenile
+court of Denver in 1900. Judge
+Lindsey held this office until 1927,
+and in his more than a quarter
+of century of service instituted
+radical reforms for the betterment
+of delinquent youth.
+The author of the Colorado
+juvenile court laws, it was Judge
+Lindsey who instituted the honor
+system that did much toward re
+habilitating those who came be
+fore the court.
+Disbarred In 1929
+The disbarment proceedings
+came in 1929 on the charge that
+he had practiced law and accepted
+fees while still a member of the
+bench.
+Following his departure from
+Denver, the California Bar As
+sociation admitted him to pract
+ice in that State.
+In 1927 Judge Lindsey achieved
+world wide notoriety by his
+"companionate marriage” doc
+trines
+In a nation wide series of lect
+ures and debates, he denied that
+he advocated “free love,” but as
+serted he was strong for the
+“sacred, time, honored institution
+of old fashioned matrimony.”
+Companionate marriage, as he
+explained the term, was nothing
+more than the present etate of
+lawful wedlock, with the use of
+birth control “as recognized by
+law, clergy and divorce.”
+By Mutual Consent
+Under companionate marriage
+there are children only by mutual
+consent, he said. Modern times
+demand companionate marriage,
+he holds, due to economic condi
+tions.
+During his tour. Judge Lindsey
+debated here against Rabbi Abram
+Simon, of the Washington Hebrew
+Congregation, and scored a vic
+tory in a vote taken following the
+debate.
+Later he was ejected from the
+Cathedral of St. John the Divine
+when he arose to protest after
+he had been assailed by Bishop
+William T. Manning in a sermon.
+Judge Lindsey is the author of
+a number of books on child de
+linquency and welfare and is re
+garded' as one of the world’s
+greatest authorities on this sub
+ject. 1
+Ex-Sen, Ball
+Dies at Age
+Os 72
+BSSSymhi
+Former United States Senator
+Lewis Heisler Ball, once head of
+the Senate District Committee,
+died today at his home at Faulk
+land, Del., a short distance from
+Wilmington. He was 72 years
+old.
+Senator Ball, who had been in
+ill health for several months, was
+stricken with pneumonia a week
+ago and sank rapidly.
+His wife was at his side when
+he died.
+Friend of Coolidge
+One of the Republican leaders
+of the State, Senator Ball was a
+close friend of the late President
+Calvin Coolidge.
+While head of the District Com
+mittee he was author of the Ball
+rent act here.
+A graduate of the University
+of Delaware, Senator Ball later
+attended the University of Penn
+sylvania Medical School. Receiv
+ing his degree, he practiced medi
+cine for many years before enter
+ing political life.
+He was elected to the House
+of Representatives in 1901 and
+in 1903 was named Senator to
+fill an unexpired term.
+Elected in 1919
+Senator Ball represented his
+State in the Republican national
+conventions in St. Louis and at
+Chicago in 1920.
+He was elected Senator in 1919,
+serving in that office until 1925,
+when he retired and resumed his
+practice of medicine.
+In addition to his work on the
+District Committee, he was a
+member of the Naval Affairs,
+Civil Service, Commerce, and En
+rolled Bills committees.
+P RIC E AOVANG E
+CONTINUES
+By International News Service
+The rise in the general level of
+wholesale prices which began in
+March continued unbroken dur
+ing September, Secretary of Labor
+Frances Perkins reported today.
+The index number for the month
+showed an advance of nearly 2
+per cent.
+The largest price advance was
+shown by the fuel and lighting
+group which increased by almost
+7'/ 2 per cent over the previous
+month. Increases took place in
+the average prices of coal, coke,
+and petroleum products. Whole
+sale prices of electricity and gas,
+however, decreased slightly.
+N, Y, Credit Topic
+Os Lehman Warning
+ALBANY, Oct. 18 (1.N.5.) .—The
+New York State legislature con
+vened in special session today for
+the second time in three months
+and received a warning from Gov
+ernor Lehman that avoidance of
+default by New York city is vital
+to municipal credit. The law
+makers later were to receive from
+the governor a message calling for
+speedy adoption of a plan for the
+four-year financing ow New York
+city.
+FINAL
+i rni
+rIuME
+EDITION
+QUIZ BARES
+WIGGIN AS
+FAVORING
+PAYCUTS
+Banker Got Raise Himself
+While Urging Reduction of
+Wage Levels
+By International News Service
+Stockholders of the Chase
+National Bank bought and
+sold $900,000,000 of their
+bank’s stock in the hoom year
+through a corporation which
+they owned entirely, it was re
+vealed at the Senate banking
+inquiry.
+The stockholders created the
+Metpotan Corporation to conduct
+these transactions in the bank’s
+stocks. It did a $900,000,000 busi
+ness from 1928 to 1932, inclusive.
+These were the years when the
+bank constantly increased its out
+standing stock. On August 23,
+1929, thq_bank, divided a 12’/ 2
+per cent stock“dividend of 500,000
+shares—at a time when the stock
+was selling in excess of SIOO a
+share.
+The stockholders thus split a
+$50,000,000 melon. They were
+able to dispose of the stock
+through the Metpotan Corp.
+Ferdinand Pecora, Senate coun
+sel, failed to follow up the revela
+tion. He made no effort to dis
+close whether the stockholders
+actually had cashed in their stock
+dividend.
+Wiggin urged a reduction of
+labor’s wages while he was accept
+ing an increase in his own huge
+salary, it was revealed today at
+the inquiry.
+Wiggin, who received $1,367,020
+in salary and bonuses from the
+Chase National Bank, was asked
+first to explain two other large
+salaries he drew from other cor
+porations.
+He said a salary of $20,000 from
+the Brooklyn Manhattan Transit
+Company was for services as
+chairman of its finance commit
+tee. He added that a $40,000 sal
+ary from Armour and Company
+was for services as chairman of
+its finance committee.
+The Armour salary "ceased
+three years ago,’’ he added.
+High-Wage Theory Hit
+Pecora chided Wiggin for issu
+ing a statement on January 31,
+1931, urging a reduction in labor’s
+wages. Wiggin was quoted as
+saying:
+"It is not true high wages
+make prosperity.’’
+Pecora asked Wiggin to recon
+cile this statement with his ac
+ceptance of a salary increase in
+1930 and another in 1931. In
+1930, Wiggin drew $217,750 from
+the bank, and in 1931, $250,000.
+Wiggin said:
+"Oh, I don’t see anything
+irreconcilable in that. My
+salary was raised during the
+year of 1930 and I expressed
+the opinion about wages in
+January, 1931.”
+Legal Restrictions Dodged
+Pecora questioned Wiggin about
+the formation of the Chase Se-
+(Continued on Page 2, Col. 4)
+In The Times Today
+Amusementslo
+Army and Navy Orders.... 32
+"Around the Capital”.... 31
+Comics3o, 31
+Death Notices 32
+Fashion News 29, 30
+Fashion Section. 23 to 29
+Financial Newsl6, 17
+Music News 8
+Radio 9
+Seldes’ “True to Tpye”.. Local
+Serial 31
+Society 22
+Sportsl3, 14, 15
+What’s Doing 32
+Woman’s Page 29

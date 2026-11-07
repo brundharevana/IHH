@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/lecture/",
+  "fetch_url": "https://www.nobelprize.org/prizes/physics/1921/einstein/lecture/",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:20:28Z",
+  "sha256": "7f1aa5083a259869efb61a83aa96af0af38b7bb170b9d838cb356a01f342c78f",
+  "bytes": 2617,
+  "http_status": 200,
+  "final_url": "https://www.nobelprize.org/prizes/physics/1921/einstein/lecture/"
+}

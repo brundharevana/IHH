@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn85042243/1937-10-04/ed-1/?sp=1",
+  "fetch_url": "https://www.loc.gov/resource/sn85042243/1937-10-04/ed-1/?sp=1&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T19:01:05Z",
+  "sha256": "a9207edee373203540017eb98f1fc50b26cce2cd83ddb1432b663a5639553d95",
+  "bytes": 35459,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn85042243/1937-10-04/ed-1/?sp=1&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ndhi/batch_ndhi_jemhadar_ver01/data/sn85042243/00383346162/1937100401/0290.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/ndhi/batch_ndhi_jemhadar_ver01/data/sn85042243/00383346162/1937100401/0290.xml"
+}

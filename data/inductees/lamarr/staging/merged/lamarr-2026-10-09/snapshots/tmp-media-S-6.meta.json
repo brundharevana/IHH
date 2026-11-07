@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/178991813",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=178991813",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:53:17Z",
+  "sha256": "d4c8d33d80f61dee3cb4e29b78c49dc3236468ef098f2e736a4aa2d5f8ad4d1f",
+  "bytes": 2957,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=178991813"
+}

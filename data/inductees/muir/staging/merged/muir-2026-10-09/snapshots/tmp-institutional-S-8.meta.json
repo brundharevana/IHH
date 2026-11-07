@@ -1,0 +1,10 @@
+{
+  "url": "https://vault.sierraclub.org/john_muir_exhibit/life/chronology.aspx",
+  "fetch_url": null,
+  "method": "browser",
+  "fetched_at": "2026-10-09T17:33:16Z",
+  "sha256": "65fb8ad1503476f30d330333bb1144a9f08db21d4ffc33819ec1a617aa6d9d14",
+  "bytes": 127396,
+  "http_status": null,
+  "final_url": null
+}

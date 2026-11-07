@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/6598395",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=6598395",
+  "method": "api",
+  "fetched_at": "2026-10-22T05:08:02Z",
+  "sha256": "24d147ffca072268a62bf8c0f492c99f468f1c572e8464105e703e9180b17fa0",
+  "bytes": 5856,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=6598395"
+}

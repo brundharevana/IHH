@@ -1,0 +1,163 @@
+title: ARMY-NAVY SCREEN MAGAZINE, NO. 26
+scopeAndContentNote: Reel 1, Part 1, a wrecker retrieves a truck mired in Italy's mud. Engrs. clear mud from roads with bulldozers and blast rock from mountains for road beds. Part 2 depicts by animation the fire power of the Iowa, educational opportunities offered by the armed services, and the importance of conserving shoe leather. Part 3, Gen. Somervell speaks about the Army Service Forces; (Reel 2) he describes war aims. Part 4, Dinah Shore sings at the Hollywood Canteen. Personages: Lana Turner, Deanna Durbin, Marlene Dietrich, Xavier Cugat, Lewis Stone, Eddie Cantor, Hedy Lamarr, Red Skelton, and Jimmy Durante.
+accessionNumbers[0]: 2355
+levelOfDescription: item
+recordType: description
+subjects[0].heading: Hollywood (Los Angeles, Calif.)
+subjects[0].authorityType: geographicPlaceName
+subjects[0].naId: 10046061
+subjects[1].heading: Skelton, Red, 1913-1997
+subjects[1].deathDate.year: 1997
+subjects[1].deathDate.logicalDate: 1997-12-31
+subjects[1].authorityType: person
+subjects[1].birthDate.year: 1913
+subjects[1].birthDate.logicalDate: 1913-01-01
+subjects[1].naId: 10582271
+subjects[2].heading: Lamarr, Hedy, 1913-2000
+subjects[2].deathDate.year: 2000
+subjects[2].deathDate.logicalDate: 2000-12-31
+subjects[2].authorityType: person
+subjects[2].birthDate.year: 1913
+subjects[2].birthDate.logicalDate: 1913-01-01
+subjects[2].naId: 10569195
+subjects[3].heading: Turner, Lana, 1921-
+subjects[3].authorityType: person
+subjects[3].birthDate.year: 1921
+subjects[3].birthDate.logicalDate: 1921-01-01
+subjects[3].naId: 10582965
+subjects[4].heading: Somervell, Brehon Burke, 1892-1955
+subjects[4].deathDate.year: 1955
+subjects[4].deathDate.logicalDate: 1955-12-31
+subjects[4].authorityType: person
+subjects[4].birthDate.year: 1892
+subjects[4].birthDate.logicalDate: 1892-01-01
+subjects[4].naId: 10573764
+subjects[5].heading: Motion pictures
+subjects[5].authorityType: specificRecordsType
+subjects[5].naId: 10631732
+subjects[6].heading: Battleships
+subjects[6].authorityType: topicalSubject
+subjects[6].naId: 10636600
+subjects[7].heading: World War, 1939-1945
+subjects[7].authorityType: topicalSubject
+subjects[7].naId: 10644634
+subjects[8].heading: Shorelines
+subjects[8].authorityType: topicalSubject
+subjects[8].naId: 10643419
+useRestriction.note: Some or all of this material may be restricted by copyright or other intellectual property rights restrictions.
+useRestriction.status: Restricted - Possibly
+audiovisual: True
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-3540
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Motion Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3622
+physicalOccurrences[0].referenceUnits[0].email: mopix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].elementNumber: 1
+physicalOccurrences[0].mediaOccurrences[0].reelTapeDiscNumber: 2
+physicalOccurrences[0].mediaOccurrences[0].color: Black-and-White
+physicalOccurrences[0].mediaOccurrences[0].footage: 869
+physicalOccurrences[0].mediaOccurrences[0].format: Film: PPC
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Film Reel
+physicalOccurrences[0].mediaOccurrences[0].dimension: Film: 35 mm
+physicalOccurrences[0].mediaOccurrences[1].elementNumber: 1
+physicalOccurrences[0].mediaOccurrences[1].reelTapeDiscNumber: 1
+physicalOccurrences[0].mediaOccurrences[1].color: Black-and-White
+physicalOccurrences[0].mediaOccurrences[1].footage: 659
+physicalOccurrences[0].mediaOccurrences[1].format: Film: PPC
+physicalOccurrences[0].mediaOccurrences[1].specificMediaType: Film Reel
+physicalOccurrences[0].mediaOccurrences[1].dimension: Film: 35 mm
+physicalOccurrences[0].copyStatus: Reference
+physicalOccurrences[1].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[1].referenceUnits[0].city: College Park
+physicalOccurrences[1].referenceUnits[0].phone: 301-837-3540
+physicalOccurrences[1].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[1].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[1].referenceUnits[0].name: National Archives at College Park - Motion Pictures
+physicalOccurrences[1].referenceUnits[0].state: MD
+physicalOccurrences[1].referenceUnits[0].fax: 301-837-3622
+physicalOccurrences[1].referenceUnits[0].email: mopix@nara.gov
+physicalOccurrences[1].mediaOccurrences[0].elementNumber: 1
+physicalOccurrences[1].mediaOccurrences[0].reelTapeDiscNumber: 2
+physicalOccurrences[1].mediaOccurrences[0].color: Black-and-White
+physicalOccurrences[1].mediaOccurrences[0].footage: 869
+physicalOccurrences[1].mediaOccurrences[0].format: Film: DNC
+physicalOccurrences[1].mediaOccurrences[0].specificMediaType: Film Reel
+physicalOccurrences[1].mediaOccurrences[0].dimension: Film: 35 mm
+physicalOccurrences[1].mediaOccurrences[1].elementNumber: 1
+physicalOccurrences[1].mediaOccurrences[1].reelTapeDiscNumber: 1
+physicalOccurrences[1].mediaOccurrences[1].color: Black-and-White
+physicalOccurrences[1].mediaOccurrences[1].footage: 659
+physicalOccurrences[1].mediaOccurrences[1].format: Film: DNC
+physicalOccurrences[1].mediaOccurrences[1].specificMediaType: Film Reel
+physicalOccurrences[1].mediaOccurrences[1].dimension: Film: 35 mm
+physicalOccurrences[1].copyStatus: Reproduction
+physicalOccurrences[2].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[2].referenceUnits[0].city: College Park
+physicalOccurrences[2].referenceUnits[0].phone: 301-837-3540
+physicalOccurrences[2].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[2].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[2].referenceUnits[0].name: National Archives at College Park - Motion Pictures
+physicalOccurrences[2].referenceUnits[0].state: MD
+physicalOccurrences[2].referenceUnits[0].fax: 301-837-3622
+physicalOccurrences[2].referenceUnits[0].email: mopix@nara.gov
+physicalOccurrences[2].mediaOccurrences[0].elementNumber: 1
+physicalOccurrences[2].mediaOccurrences[0].reelTapeDiscNumber: 2
+physicalOccurrences[2].mediaOccurrences[0].color: Black-and-White
+physicalOccurrences[2].mediaOccurrences[0].footage: 869
+physicalOccurrences[2].mediaOccurrences[0].format: Film: DNC
+physicalOccurrences[2].mediaOccurrences[0].specificMediaType: Film Reel
+physicalOccurrences[2].mediaOccurrences[0].dimension: Film: 35 mm
+physicalOccurrences[2].mediaOccurrences[1].elementNumber: 1
+physicalOccurrences[2].mediaOccurrences[1].reelTapeDiscNumber: 1
+physicalOccurrences[2].mediaOccurrences[1].color: Black-and-White
+physicalOccurrences[2].mediaOccurrences[1].footage: 659
+physicalOccurrences[2].mediaOccurrences[1].format: Film: DNC
+physicalOccurrences[2].mediaOccurrences[1].specificMediaType: Film Reel
+physicalOccurrences[2].mediaOccurrences[1].dimension: Film: 35 mm
+physicalOccurrences[2].copyStatus: Preservation
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Motion Pictures
+dataControlGroup.groupId: RRAM–M
+dataControlGroup.groupCd: RRAM–M
+generalRecordsTypes[0]: Moving Images
+localIdentifier: 111-ANSM-26
+productionDates[0].year: 1944
+productionDates[0].logicalDate: 1944-01-01
+variantControlNumbers[0].number: NWDNM(m)-111-SM-26
+variantControlNumbers[0].type: NAIL Control Number
+otherTitles[0]: Screen magazine, no. 26
+ancestors[0].inclusiveStartDate.year: 1860
+ancestors[0].inclusiveStartDate.logicalDate: 1860-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 111
+ancestors[0].inclusiveEndDate.year: 1985
+ancestors[0].inclusiveEndDate.logicalDate: 1985-12-31
+ancestors[0].title: Records of the Office of the Chief Signal Officer
+ancestors[0].naId: 440
+ancestors[1].inclusiveStartDate.year: 1943
+ancestors[1].inclusiveStartDate.logicalDate: 1943-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of Defense. Department of the Army. Office of the Chief Signal Officer. (09/18/1947 - 03/01/1964)
+ancestors[1].creators[0].abolishDate.month: 3
+ancestors[1].creators[0].abolishDate.year: 1964
+ancestors[1].creators[0].abolishDate.day: 1
+ancestors[1].creators[0].abolishDate.logicalDate: 1964-03-01
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 9
+ancestors[1].creators[0].establishDate.year: 1947
+ancestors[1].creators[0].establishDate.day: 18
+ancestors[1].creators[0].establishDate.logicalDate: 1947-09-18
+ancestors[1].creators[0].naId: 10470416
+ancestors[1].inclusiveEndDate.year: 1958
+ancestors[1].inclusiveEndDate.logicalDate: 1958-12-31
+ancestors[1].title: Army - Navy Screen Magazine
+ancestors[1].naId: 36163
+naId: 36192
+soundType: Sound

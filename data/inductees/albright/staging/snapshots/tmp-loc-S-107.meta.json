@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/prn-15-109/",
+  "fetch_url": "https://www.loc.gov/item/prn-15-109/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T19:32:45Z",
+  "sha256": "11f4cb331c117a820bff3e6f13652c130de93bea697c4e2587e80bbe238d1f29",
+  "bytes": 11162,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/prn-15-109/?fo=json"
+}

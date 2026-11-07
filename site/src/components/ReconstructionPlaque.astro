@@ -1,0 +1,41 @@
+---
+// Plaque for a reconstructed place, shared by the chapter room and the Lite page. Props:
+//   reconstruction = reconstructionView(...) (src/content/load.js)
+//   id = unique heading id on the page
+// Every string is a verified record field or a fixed disclosure from src/museum/reconstruction.js.
+import FactChips from './FactChips.astro';
+import { UNSEEN_LABEL, COLOUR_NOTE, ESTIMATE_NOTE, DOOR_NOTE } from '../museum/reconstruction.js';
+// doors: the room page shows the museum doors in the place (DOOR_NOTE); the Lite page has none.
+const { reconstruction, id = 'recon-heading', level = 2, doors = false } = Astro.props;
+const H = `h${level}`;
+const wallList = ws => ws.map(w => `${w} wall`).join(', ');
+---
+<section class="reconstruction-plaque" aria-labelledby={id}>
+  <H id={id}>Reconstruction based on</H>
+  <ul>
+    {reconstruction.basis.map(b => (
+      <li data-basis={b.id}>
+        <span class="recon-src">{b.label}</span>{b.credit && <span class="recon-credit">{` Credit: ${b.credit}`}</span>}
+        {' '}<a class="original" href={b.url}>See the original photograph<span class="visually-hidden">{`: ${b.title}`}</span></a>
+      </li>
+    ))}
+  </ul>
+  {reconstruction.note && (
+    <p class="recon-note">{reconstruction.note.text} <FactChips chips={reconstruction.note.chips} prefix={`${id}-tip`} /></p>
+  )}
+  {reconstruction.datesLine && <p class="recon-dates" data-photo-dates>{reconstruction.datesLine}</p>}
+  <p class="recon-disclosure" data-estimate>{ESTIMATE_NOTE}</p>
+  <p class="recon-disclosure" data-disclosure>{COLOUR_NOTE}</p>
+  {doors && <p class="recon-disclosure" data-door-note>{DOOR_NOTE}</p>}
+  {reconstruction.unseen.length > 0 && (
+    <p class="recon-unseen" data-unseen>{`${UNSEEN_LABEL}: ${wallList(reconstruction.unseen)}.`}</p>
+  )}
+</section>
+
+<style is:global>
+  .reconstruction-plaque { margin: var(--space-4) 0; padding: var(--space-3) var(--space-4); background: #fffdf9;
+    border-left: 4px solid var(--c-room-accent, var(--c-accent)); }
+  .reconstruction-plaque h2, .reconstruction-plaque h3 { font-size: 1rem; margin: 0 0 var(--space-2); }
+  .reconstruction-plaque ul { margin: 0; padding-left: var(--space-4); }
+  .reconstruction-plaque a { color: var(--c-accent); display: inline-block; min-height: 24px; padding: var(--space-1) 0; }
+</style>

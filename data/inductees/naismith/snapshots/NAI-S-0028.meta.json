@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/resource/sn87075008/1939-12-07/ed-1/?sp=4&st=text",
+  "fetch_url": "https://www.loc.gov/resource/sn87075008/1939-12-07/ed-1/?sp=4&st=text&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:24:00Z",
+  "sha256": "19e62cc6e989e473c670bb4d860ed2f76ecbafca614e5f95c5cb9dd14dcbb7f5",
+  "bytes": 11289,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn87075008/1939-12-07/ed-1/?sp=4&st=text&fo=json"
+}

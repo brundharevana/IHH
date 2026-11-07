@@ -1,0 +1,18 @@
+role.reference: true
+role.creator: false
+role.contributor: false
+role.donor: false
+sourceNotes[0]: Greene, C. John Muir, 1991: CIP data (b. 4-21-1838 in Dunbar, Scotland; d. 12-24-14 in Los Angeles, Calif.; loved nature and the wild places)
+heading: Muir, John, 1838-1914
+recordType: authority
+deathDate.year: 1914
+deathDate.logicalDate: 1914-12-31
+name: Muir, John,
+importRecordControlNumber: n 79078692
+authorityType: person
+birthDate.year: 1838
+birthDate.logicalDate: 1838-01-01
+naId: 10580990
+preferred: true
+linkCounts.totalDescriptions: 1
+linkCounts.subject: 1

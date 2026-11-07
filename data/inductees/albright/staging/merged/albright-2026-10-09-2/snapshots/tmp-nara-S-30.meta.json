@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/505632161",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=505632161",
+  "method": "api",
+  "fetched_at": "2026-10-09T19:33:00Z",
+  "sha256": "baedcd4b013e81ebc9b669bcfa328b51102a2f6085cc07f01567028a1dbfcea3",
+  "bytes": 2985,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=505632161"
+}

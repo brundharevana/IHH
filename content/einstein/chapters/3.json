@@ -1,0 +1,45 @@
+{
+  "id": "einstein-3",
+  "title": "Smithsonian Institution, 1921",
+  "title_fact_ids": ["EIN-F-0121"],
+  "room": {"scan": "hallwyl-great-drawing-room", "doors": {"entrance": {"x": -5.75, "z": -1.45, "rotY": 1.570796, "w": 1.46, "h": 2.95}, "exit": {"x": 5.75, "z": -1.45, "rotY": -1.570796, "w": 1.46, "h": 2.95}}},
+  "accent": "#4A3F35",
+  "narration": [
+    {"cue": "c1", "text": "In 1921, Prof. Albert Einstein was at the meeting of the National Academy of Sciences at the Smithsonian Institution.", "fact_ids": ["EIN-F-0121"], "reveals": []},
+    {"cue": "c2", "text": "Harding, Prof. Einstein and his wife were photographed in 1921, on April 25.", "fact_ids": ["EIN-F-0105"], "reveals": ["ex1"]},
+    {"cue": "c3", "text": "Albert Einstein and Warren Harding were with a group at the White House, Washington, D.C.", "fact_ids": ["EIN-F-0117"], "reveals": ["ex2"]},
+    {"cue": "c4", "text": "Albert Einstein was with his wife Elsa in Washington, D.C., with the State, War, and Navy building in the background.", "fact_ids": ["EIN-F-0093"], "reveals": ["ex3"]},
+    {"cue": "c5", "text": "Prof. Einstein and his wife were photographed in 1921.", "fact_ids": ["EIN-F-0118"], "reveals": ["ex4"]}
+  ],
+  "exhibits": [
+    {"id": "ex1", "number": 1, "type": "framed-photograph", "easel": {"x": -3.0, "z": -1.75, "rotY": 0.0, "group": "west-window"},
+     "media_id": "EIN-M-0034", "original_media_id": "EIN-M-0034",
+     "title": "Harding, Prof. Einstein and his wife, 1921", "title_fact_ids": ["EIN-F-0105"],
+     "notes": [
+       {"text": "Harding, Prof. Einstein and his wife were photographed in 1921, on April 25.", "fact_ids": ["EIN-F-0105"]}
+     ],
+     "evidence": "photograph"},
+    {"id": "ex2", "number": 2, "type": "framed-photograph", "easel": {"x": -1.7, "z": -1.75, "rotY": 0.0, "group": "west-window"},
+     "media_id": "EIN-M-0004", "original_media_id": "EIN-M-0004", "holder_date": "between 1921 and 1923",
+     "title": "Albert Einstein and Warren Harding with a group at the White House", "title_fact_ids": ["EIN-F-0117"],
+     "notes": [
+       {"text": "Albert Einstein and Warren Harding were with a group at the White House, Washington, D.C.", "fact_ids": ["EIN-F-0117"]}
+     ],
+     "evidence": "photograph"},
+    {"id": "ex3", "number": 3, "type": "framed-photograph", "easel": {"x": 1.25, "z": -1.75, "rotY": 0.0, "group": "east-window"},
+     "media_id": "EIN-M-0005", "original_media_id": "EIN-M-0005", "holder_date": "between 1921 and 1923",
+     "title": "Albert Einstein with his wife Elsa in Washington, D.C.", "title_fact_ids": ["EIN-F-0093"],
+     "notes": [
+       {"text": "Albert Einstein was with his wife Elsa in Washington, D.C., with the State, War, and Navy building in the background.", "fact_ids": ["EIN-F-0093"]}
+     ],
+     "evidence": "photograph"},
+    {"id": "ex4", "number": 4, "type": "framed-photograph", "easel": {"x": 2.55, "z": -1.75, "rotY": 0.0, "group": "east-window"},
+     "media_id": "EIN-M-0036", "original_media_id": "EIN-M-0036",
+     "title": "Prof. Einstein and his wife, 1921", "title_fact_ids": ["EIN-F-0118"],
+     "notes": [
+       {"text": "Prof. Einstein and his wife were photographed in 1921.", "fact_ids": ["EIN-F-0118"]}
+     ],
+     "evidence": "photograph"}
+  ],
+  "quotes": []
+}

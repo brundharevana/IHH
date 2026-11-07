@@ -1,0 +1,43 @@
+{
+  "id": "einstein-2",
+  "title": "The study at 112 Mercer Street",
+  "title_fact_ids": ["EIN-F-0087"],
+  "room": {"scan": "hallwyl-great-drawing-room", "doors": {"entrance": {"x": -5.75, "z": -1.45, "rotY": 1.570796, "w": 1.46, "h": 2.95}, "exit": {"x": 0.0, "z": 3.5, "rotY": 3.141593, "w": 1.56, "h": 2.95}}, "reserved": [{"id": "study-corner", "min": [2.3, -2.5], "max": [4.1, -1.0], "for": "Task 6: the recreated study corner (EIN-M-0013, EIN-M-0014)"}]},
+  "accent": "#34463B",
+  "narration": [
+    {"cue": "c1", "text": "Albert Einstein had a home study at 112 Mercer Street, Princeton, New Jersey.", "fact_ids": ["EIN-F-0087"], "reveals": []},
+    {"cue": "c2", "text": "Albert Einstein was working as a consultant to the United States Government during World War II.", "fact_ids": ["EIN-F-0054"], "reveals": []},
+    {"cue": "c3", "text": "Albert Einstein was doing research for the Bureau of Ordnance, in his study at Princeton, N.J.", "fact_ids": ["EIN-F-0055"], "reveals": ["ex1", "ex2"]},
+    {"cue": "c4", "text": "Nine letters were written by Albert Einstein to Lieutenant Stephen Brunauer of the Research and Development Division.", "fact_ids": ["EIN-F-0062"], "reveals": []},
+    {"cue": "c5", "text": "The letters relate to Albert Einstein's research with the Research and Development Division of the Navy, specifically underwater explosions and a proposed electromagnetic torpedo detonator.", "fact_ids": ["EIN-F-0063"], "reveals": []},
+    {"cue": "c6", "text": "Albert Einstein's letter of June 18, 1943 to Lieutenant Stephen Brunauer discusses Albert Einstein's idea of an electro-magnetic device that will automatically explode a torpedo as it passes underneath a ship.", "fact_ids": ["EIN-F-0065"], "reveals": ["ex3"]},
+    {"cue": "c7", "text": "In a letter of July 30, 1943, Albert Einstein reveals that he has come up with a mathematical simplification to analyze the impact an underwater explosion would have on the hull of an armored ship.", "fact_ids": ["EIN-F-0067"], "reveals": []},
+    {"cue": "c8", "text": "Signed copies of a contract and naturalization papers were enclosed with Albert Einstein's letter of August 13, 1943 to Lieutenant Stephen Brunauer.", "fact_ids": ["EIN-F-0069"], "reveals": []},
+    {"cue": "c9", "text": "112 Mercer Street remained Albert Einstein's home until his death in 1955.", "fact_ids": ["EIN-F-0107"], "reveals": []},
+    {"cue": "c10", "kind": "museum-note", "text": "In this room, a corner recreates Einstein's study at Princeton, N.J., as two 1943 National Archives photographs show it.", "fact_ids": ["EIN-F-0055"], "media_ids": ["EIN-M-0013", "EIN-M-0014"], "frames": "study-corner", "reveals": []}
+  ],
+  "exhibits": [
+    {"id": "ex1", "number": 1, "type": "framed-photograph", "easel": {"x": -1.5, "z": -1.75, "rotY": 0.0, "group": "fireplace"},
+     "media_id": "EIN-M-0013", "original_media_id": "EIN-M-0013",
+     "title": "Albert Einstein in his study at Princeton, N.J.", "title_fact_ids": ["EIN-F-0055"],
+     "notes": [
+       {"text": "Dr. Albert Einstein is doing research for the Bureau of Ordnance, in his study at Princeton, N.J.", "fact_ids": ["EIN-F-0055"]}
+     ],
+     "evidence": "photograph"},
+    {"id": "ex2", "number": 2, "type": "framed-photograph", "easel": {"x": 1.5, "z": -1.75, "rotY": 0.0, "group": "study"},
+     "media_id": "EIN-M-0014", "original_media_id": "EIN-M-0014",
+     "title": "Albert Einstein had a study at his Princeton, N.J. home", "title_fact_ids": ["EIN-F-0086"],
+     "notes": [
+       {"text": "Albert Einstein had a study at his Princeton, N.J. home.", "fact_ids": ["EIN-F-0086"]}
+     ],
+     "evidence": "photograph"},
+    {"id": "ex3", "number": 3, "type": "360-document", "easel": {"x": 0.0, "z": -1.55, "rotY": 0.0, "group": "fireplace"}, "pages": [1],
+     "media_id": "EIN-M-0015", "original_media_id": "EIN-M-0015",
+     "title": "Albert Einstein's letter of June 18, 1943 to Lieutenant Stephen Brunauer", "title_fact_ids": ["EIN-F-0065"],
+     "notes": [
+       {"text": "Albert Einstein's letter of June 18, 1943 to Lieutenant Stephen Brunauer discusses Albert Einstein's idea of an electro-magnetic device that will automatically explode a torpedo as it passes underneath a ship.", "fact_ids": ["EIN-F-0065"]}
+     ],
+     "evidence": "record"}
+  ],
+  "quotes": []
+}

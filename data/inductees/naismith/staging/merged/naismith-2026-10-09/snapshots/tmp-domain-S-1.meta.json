@@ -1,0 +1,10 @@
+{
+  "url": "https://www.hoophall.com/hall-of-famers/james-naismith",
+  "fetch_url": "https://www.hoophall.com/hall-of-famers/james-naismith",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:13:58Z",
+  "sha256": "a55a0174a7470dd03fd219a542a6d0a8819772c4dd857b56dfd8b105d35552ac",
+  "bytes": 6164,
+  "http_status": 200,
+  "final_url": "https://www.hoophall.com/hall-of-famers/james-naismith"
+}

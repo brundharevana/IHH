@@ -1,0 +1,15 @@
+title: File:Naismith statue, Almonte.jpg
+DateTime: 2012-05-28 01:55:44
+ObjectName: Naismith statue, Almonte
+CommonsMetadataExtension: 1.2
+Categories: GFDL|Taken with Canon PowerShot SX30 IS|James Naismith|Almonte, Ontario|License migration redundant|Self-published work|Statues in Ontario|Statues of sitting men in Canada|Sculptures of baskets|Statues of basketball|May 2012 in Ontario|Statues of basketball players in Canada
+ImageDescription: Sculpture Dr. James Naismith, Inventor of Basketball, sculptor: Elden Tefft, Lawrence, Kansas, dedicated 23 July 2011
+DateTimeOriginal: 2012-05-19
+Credit: Own work
+Artist: D. Gordon E. Robertson
+LicenseShortName: CC BY-SA 3.0
+UsageTerms: Creative Commons Attribution-Share Alike 3.0
+AttributionRequired: true
+LicenseUrl: https://creativecommons.org/licenses/by-sa/3.0
+Copyrighted: True
+License: cc-by-sa-3.0

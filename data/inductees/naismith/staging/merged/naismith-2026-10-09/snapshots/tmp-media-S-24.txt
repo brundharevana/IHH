@@ -1,0 +1,14 @@
+title: File:Dr. James Naismith's Original 13 Rules of Basket Ball.jpg
+DateTime: 2012-07-19 23:48:51
+ObjectName: Dr. James Naismith's Original 13 Rules of Basket Ball
+CommonsMetadataExtension: 1.2
+Categories: James Naismith|1892 in basketball|PD-old-70-expired|Files with derivative versions|CC-PD-Mark|PD-old missing SDC copyright status
+ImageDescription: Scan of original print as it appears in the January 15, 1892 publication of The Triangle.
+DateTimeOriginal: 1892-01-15
+Credit: TheTriangle,January15,1892&name=JamesA.Naismith YMCA Hall of Fame
+Artist: James Naismith (1861–1939)
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

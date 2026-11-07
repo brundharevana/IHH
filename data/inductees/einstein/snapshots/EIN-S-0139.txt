@@ -1,0 +1,1175 @@
+_version_: 1747585986803531776
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045462/1933-03-30/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045462/1933-03-30/ed-1/
+batch[0]: dlc_1chagall_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json
+created_published[0]: Washington, D.C., March 30, 1933
+date: 1933-03-30
+date_issued: 1933-03-30
+dates[0].1933-03-30: https://www.loc.gov/search/?dates=1933-03-30/1933-03-30&fo=json
+dates_of_publication: 1854-1972
+description[0]: Washington, D.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2020-09-15T06:36:47.012Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601019/1933033001/1933033001_1.xml#ndnp/dlc-2018_2019
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2018_2019
+group[1]: library-of-congress-washington-dc-awardee-7
+hassegments: true
+id: http://www.loc.gov/item/sn83045462/1933-03-30/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1chagall_ver01:data:sn83045462:00280601019:1933033001:0674/full/pct:6.25/0/default.jpg#h=487&w=362
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1chagall_ver01:data:sn83045462:00280601019:1933033001:0674/full/pct:12.5/0/default.jpg#h=975&w=725
+index: 3
+item.batch[0]: dlc_1chagall_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington, D.C., March 30, 1933
+item.date: 1854
+item.date_issued: 1933-03-30
+item.dates[0]: 1933-03-30
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045462
+item.location[0]: Washington (D.C.)
+item.medium: 46 pages
+item.newspaper_title[0]: Evening star.
+item.notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+item.notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+item.notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+item.notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+item.notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+item.notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+item.notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601019/1933033001/1933033001_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045462/marcxml
+item.other_title[0]: Sunday star
+item.other_title[1]: Star
+item.place_of_publication: Washington, D.C.
+item.raw_lccn: sn 83045462
+item.reel_numbers[0]: 00280601019
+item.source_group: ndnp/dlc-2018_2019
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: Evening star (Washington, D.C.), March 30, 1933
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn83045462
+location[0]: washington d.c.
+location[1]: united states
+location[2]: district of columbia
+location[3]: washington
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+medium: 46 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Evening star.
+notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+number[0]: sn83045462
+number[1]: 1
+number[2]: 00280601019
+number_edition[0]: 1
+number_lccn[0]: sn83045462
+number_reel[0]: 00280601019
+numeric_shelf_id: 193303301
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601019/1933033001/1933033001_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045462/marcxml
+other_title[0]: Sunday star
+other_title[1]: Star
+partof[0].count: 36935
+partof[0].title: evening star (washington, d.c.) 1854-1972
+partof[0].url: https://www.loc.gov/search/?fa=partof:evening+star+%28washington,+d.c.%29+1854-1972&fo=json
+partof[1].count: 3210982
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232494
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: evening star (washington, d.c.) 1854-1972
+place_of_publication: Washington, D.C.
+publication_frequency[0]: daily
+raw_lccn: sn 83045462
+reel_numbers[0]: 00280601019
+resources[0].files: 46
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1chagall_ver01:data:sn83045462:00280601019:1933033001:0674/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045462/1933-03-30/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn83045462, 1933-03-30, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2018_2019
+subject[0]: united states
+subject[1]: newspapers
+subject[2]: washington
+subject[3]: district of columbia
+subject[4]: washington (d.c.)
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+timestamp: 2022-10-24T16:09:32.133Z
+title: Evening star (Washington, D.C.), March 30, 1933
+type[0]: issue
+url: https://www.loc.gov/item/sn83045462/1933-03-30/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601019/1933033001/0676.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045462/1933-03-30/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_1chagall_ver01:data:sn83045462:00280601019:1933033001:0674/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601019/1933033001/0676.pdf
+resources[0].segment_count: 46
+resources[0].url: https://www.loc.gov/resource/sn83045462/1933-03-30/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1933, March 30) Evening Star. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045462/1933-03-30/ed-1/.
+cite_this.chicago: Evening Star. (Washington, DC), Mar. 30 1933. https://www.loc.gov/item/sn83045462/1933-03-30/ed-1/.
+cite_this.mla: Evening Star. (Washington, DC) 30 Mar. 1933, p. 3. Retrieved from the Library of Congress, www.loc.gov/item/sn83045462/1933-03-30/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601019/1933033001/0676.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1chagall_ver01/data/sn83045462/00280601019/1933033001/0676.xml&format=alto_xml&full_text=1
+full_text:
+URGE U. S. ACTION
+FOR GERMAN JEWS
+Jewish War Veterans Leave
+Resolution on Visit to
+White House.
+A resolution urging President Roose
+Velt to take such action as is possible
+to halt attacks by the Hitler govern
+ment on Jews was left at the White
+House today by a delegation represent
+ing the Jewish war veterans of the
+"United States.
+J. George Fredman. commander in
+chief of the organization, presented the
+resolution to Marvin Mclntyre, a secre
+tary to the President.
+The delegation also presented a reso
+lution pledging support to the President
+In his realignment of veterans' allow
+ances.
+Brutality Condemned.
+The delegation's resolution said in
+part:
+"Civilization stands aghast at the un
+bridled excesses of inhumanly mon
+strous brutality advocated and insti
+gated by the presently constituted Ger
+man government, against an inoffensive,
+unprotected minority people within its
+borders."
+It asked the President and Congress
+"to take such action based upon pre
+cedent. as will effectively terminate a
+condition so abhorrent to American tra
+ditions and principles."
+As its first official act. following com
+pletion cf its organization last night,
+the new Washington Pest, Jewish War
+Veterans, sent the delegation to the
+White House to pay the respects of
+the youngest local war veterans' body
+to President Rccsevelt. Th? delegation
+was headed by Dr. Ivy A. Pelzman. p:st
+commander.
+Held at Center.
+The organization meeting and pres
+entation of the post charter took place
+last night. at the Jewish Community
+Cental*. The charter was presented by
+Tredman.
+Officers of the new post, in additicn
+to Dr. Pelzman, were elected as follows:
+M. A. Raines, senior vice commander;
+Dr. David Davis, junior vice command
+er: Dr. William Keroes, surgeon, and
+MUford Schiller, officer of the day.
+Col. Jchn A. Korman was indorsed
+by the post for appointment as District
+Commissioner. He made a brief address,
+outlining the purpo:e of the organiza
+tion, which he said was purely an
+American organization to represent the
+Interests of Jewish veterans.
+AUSTRIA REQUESTS
+REVISED BANK PLAN!
+Government Serves Notice of In
+ability to Fulfill Agreement
+With Foreign Creditors.
+By the Associated Press.
+VIENNA, March 30.—The government
+announced today that the foreign cred
+itors agreement with the Austrian Gov
+ernment covering the obligations of the
+Creditanstalt signed January 10 was
+lmDossible of fulfillment.
+This condition arose, a communique
+said, "in view of changes in budgetary
+and economic conditions since the last
+negotiations with foreign creditors."
+A downward revision of the govern
+ment's obligations must be asked, it was
+added.
+Under the January 10 agreement of
+the Austrian Government concerning
+the Creditanstalt. foreign assets of the
+bank, which closed in 1931. were to be
+pooled in a holding company in which
+the creditors were to get preferred
+stock. The government guaranteed the
+debts and deposits of the Institution at
+the time of the crash.
+At the time of the signing of the
+agreement, satisfaction by Parliament
+and signing by a majority of the foreign
+creditors remained to be carried out.
+MATCH INJUNCTION
+SUIT IS DISMISSED
+Federal Court Action Permits Cus
+toms Collections and Appraisal
+of Importations.
+By the Associated Press.
+NEW YORK, March 30.—Federal
+Judge Alfred Coxe yesterday granted a
+motion for dismissal of the suit for an
+Injunction brought by Krutz Co.,
+match importers, against the collector
+of customs and appraiser of merchan
+dise at this port.
+The plaintiff sued to restrain the de
+fendants from enforcing findings made
+by the Secretary of the Treasury as to
+match importations amounting to $122,
+400 in value.
+The Secretary, acting under the anti
+dumping act of 1921, ruled that the
+matches, imported from Austria and
+Sweden, were to be sold here at less
+than their actual value and at less than
+what the same grade of matches are
+eold for abroad. Customs officials were
+ordered to collect a special dumping
+duty to protect American manufactur
+ers. The Secretary of the Treasury had
+acted within the authority conferred
+upon him.
+The motion for dismissal of the in
+junction suit was made by the chief of
+the civil division of the United States
+attorney's office.
+SPECIAL NOTICES.
+TOR "ELECTRICAL REPAIR SERVICE. CALL
+TThe Electric Shop on Wheels. Inc.. and a i
+complete electric shop will be brought to
+your door. Wis. 4821.
+Long-distance moving between alli
+Eastern points. "Service since 1H9U." Da-
+vidson's Transfer Storage Co.. 1117 H
+at. n.w. Nat, QoOO.
+WHIPPET ROADSTER. 1027: motor No. Ofi
+11serial No. Otl-1 11352: and Buick
+Roadster. 1!I20. motor No. 2250700. serial
+No. 215505.1. car No. 2044. Will sell at
+public auction. April in. 11 a.m.. at North
+west Garage, rear 121!» lath st. n.w.
+HONEY—5 LBS. CLOVER OR SAGE. P"c: I
+cooking. 10 lbs. si; 7 combs. SI. Call
+iynco. West 0054 by 10 a.m.
+CHAIRS FOR RENT. SUITABLE FOR
+BRIDGE PARTIES, banquets, weddings and
+meetings. 10c up per day each; new chairs.
+Also Invalid rolling chairs for rent or sale.
+TJNITED STATES STORAGE CO.. 418 10th
+fit, n.w. Metropolitan 1844.
+.NOTICE IS HEREBY GIVEN THAT THE
+{American Security and Trust Company has
+declared a dividend of two per cent on its
+Capital stock of SIt.400.000. payable April
+J nth. 1033. to the stockholders of record
+i »t the close of business on March 31st. 1033.
+V CORCORAN THOM.
+President.
+FREDERICK P. H. SIDDONS.
+Secretary.
+jffjOTICE IS HEREBY GIVEN OF THE DIS
+solution ol the partnership existing between
+(Richardson A. Baker and Louis Busse.
+trading as Crown Heating Service. All per
+sons havinR claims submit same to James
+D. McQuade. Attorney at Law, 615 Trans
+portation Building.
+RICHARDSON A. BAKER,
+LOUIS_BUS8E.
+bAILY TRIPS. FULL AND PART LOADS;
+Baltimore, Philadelphia. New York. Boston.
+Richmond and all way points; unexcelled
+service. Phone Nat. 1400.
+NATIONAL DELIVERY ASSOC., INC..
+J 317 New York Ave. Local Moving Also.
+%E SURE TO SEE THE NEW $08.00 KEL
+vinator Refrigerator A model to suit every
+purse Sold on easy payments. O. J.
+DfMoll Co.. 12th and O. 31«
+ARTHRITIS. NEURITIS. RHEUM ATOM.
+New formula: Renton's Hydrocin Tablets.
+Booklet free. Phone Georgia 0053. or write
+G. M. Swiggett. Distributor. Box 213. Ben- 1
+Samin Franklin Station. Washington, D. C.
+l i Gas Range Repairing
+I Complete 8ervice. Lowest Prices.
+II THE DALY-HOPPER CO INC..
+1^1802 11th St. N.W. North 507(1.
+JX) YOU KNOW
+—that all our work must live up to I
+32 years of good refutation? We make 1
+n specialty of repairs. Send for us. I
+VTVHSJC ROOFING 033 V St. N.W.
+■tVWlNJ COMPANY North 4423
+Easter Cleaning Special.
+(ANY 0x12 RUG SHAMPOOED IN YOUR
+HOME—$1.
+Dirt, crease, animal stains removed; work'
+Guaranteed a-i references.
+LUNDQU18T SCHLECHT,
+fbone Met. 8362.
+When Hitler Was Swept Into Power in Germany
+SCENES AS REICHSTAG GRANTED HIM A FOUR-YEAR DICTATORSHIP.
+IN Berlin police were hard pressed to keep an overflowing and enthusiastic crowd in cheek when the historic meet
+ing of the Reichstag opened in the Kroll Opera House. Chancellor Hitler is shown entering the opera house from
+which he later emerged as the German dictator. Picture above shows the Reichstag In session and below police
+are shown holding back the crowds. —A. P. Photo.
+BUDGET CURTAILS
+PLAV FACILITIES
+Park Employes Face 37 Days
+Furlough in Addition
+to Pay Cut.
+District government budget estimates,
+now pending in the House Appropria
+tions Committee, reduce the items for
+sports for the coming fiscal year from
+$38,000 to $20,000,' which will mean a
+sharp curtailment of facilities for public
+outdoor recreation, park officials said
+yesterday, after a study of the figures.
+The officials are unable to say, as yet.
+just what sports might be affected.
+Perhaps the most serious feature of the
+reduction, officials asserted, is the fact
+that because of depleted funds for pay
+ing salaries, each employe of the Office
+of Public Buildings and Public Parks
+will have to take 37 days' administrative
+furlough during the coming year, start
+ing July 1. This will be in addition to
+the projected 15 per cent pay slash,
+they asserted.
+The salary item has been cut in the
+District estimates from $400,000 to
+$300,000—a 25 per cent cut to make up
+the 15 per cent individual shrinkage in
+salaries. The additional 10 per cent
+must be made up by placing employes
+on administrative furlough, officials ex
+plained.
+Lieut. Col. U. S. Grant. 3d. director
+of public buildings and public parks,
+asserted that his office would take its
+cut proportionately with the District
+government. He inclined to the view
+that inasmuch as the voters desired a
+reduction in governmental expenditures,
+the country must expect this.
+All construction work in the parks
+has been eliminated in the estimates.
+There Ls a feeling among certain
+officials, however, that the administra
+tion proposes to insert construction
+items in a general public works meas
+ure. designed to stimulate employment.
+The general expense figure was cut
+from $500,000 to $333,000. the officials
+said. For the first time, the United
+States park police will be placed on an
+administrative furlough, which will
+work out at from 18 to 21 days per
+officer. Salaries for the police are cut
+from $180,000 to $145,000. Funds for
+the equipment and uniform are trimmed
+from $12,500 to $9,000.
+IINUTE
+vsTfpy
+Can you
+Solve It ?J*HT
+Dr. Pordney is professor of criminology
+at a famous univerHty. His advice is
+often sought by the iiclice of many cities
+when confronted with particularly baffling
+cases. This problem has been taken from
+his case-book covering hundreds of crimi
+nal investigations.
+Try your wits on it! It takes but ONE
+MINUTE to read! Every fact and every
+clue necessary to its solution are in the
+story itself—and there is only one answer.
+How good a detective are you?
+M
+The Falcon Case.
+BY H. A. RIPLEY.
+THE body of beautiful Barbara
+Falcon was left undisturbed
+awaiting the arrival of Prof.
+Fordney. She was lying flat on
+her back in the yard behind the
+garage, her arms close to her sides. The
+right stocking was torn across the in
+step. one heel cap was missing and her
+feet—in a position as pigeon-toed as
+she had walked in
+life! It was
+thought probable
+the girl had been
+beaten to death for
+the jewels and
+money she carried.
+Sam Brooks,
+night man at the
+garage where Bar
+bara kept her car.
+told Fordney that
+she had ccme in
+around 2 a.m. That
+she had gone out
+of the back door,
+saying there was
+a car waiting in
+the alley to drive
+her on home.
+After some in
+vestigations. however, the professor
+could find no traee of any such car. He
+learned that Barbara had spent the
+evening with Mrs. Heming^hronc but
+had left her home at 11 o'clock. Fur
+ther investigation proved:
+Barbara had put the car up at 2.
+Sam was alone at the garage.
+There was a spot of autcmobile oil
+on the back of her dress.
+Brooch and diamond rings were
+missing—also her purse.
+Fordney knew that as yet he had
+insufficient evidence to arrest Brooks.
+But unless he found seme one else
+who had been near the place at the
+time, the night man would find it very
+difficult to explain why he had moved
+the body. Why, if innocent, had he
+done so? And it certainly had been
+moved to near the gats where he said
+he found it!
+How did the professor know?
+If you have a story for Prof. Ford
+ney send it to him in care of this
+paper. He will be delighted to re
+ceive it. m
+(For solution see pajt< A-16.)
+GERMAN JEWS ASK
+VON HINDENBURG TO
+PREVENT BOYCOTT
+iContinued From First Page.)
+theater of war operations and many
+reached safety in Germany. Polish
+Nationalists vigorously conducted a
+vendetta against them during war
+years, and later, when Poland was still
+at war with Ukranians and Bolsheviks,
+hundreds of Galician Jews were slain
+and wounded. Emigrations to Germany
+continued.)
+Will Renounce Citizenship.
+It was learned here last night that
+Prof. Albert Einstein, who has decided
+to remain out of Germany and who
+now is in Belgium, has taken steps to
+renour.cc his Prussian citizenship. Prof.
+Einstein, who was born in Ulm. Ger
+many, was formerly a Swiss citizen, but
+became a Prussian citizen in 1914 when
+he accepted a position in the Prussian
+Academy of Sciences.
+Jews and all foreign Jews in Breslau
+were ordered today to return all their
+passports to be marked as invalid for
+foreign travel.
+The object of the order, promul
+gated by the new police chief of Bres
+lau, former Lieut. Heines, is, he said,
+"to prevent them from circulating
+'atrocity stories' abroad."
+Steel Helmet headquarters were
+greatly perturbed over reports from the
+raiatmate. where various local leaders
+nave been arrested by Nazis, as in
+Neustadt and Speyer.
+Will Seek Settlement.
+All offices of the Steel Helmets were
+occupied by Nazis. In one case even
+the Steel Helmet voluntary labor camp
+was occupied by the brown-shi*ted
+party members.
+Upon representations by Franz Seldte,
+leader of the Steel Helmet organization
+and minister of labor in the Hitler cab
+inet. the chancellor delegated Gen.
+Franz von Epp. federal commissioner
+for Bavaria at Munich, to proceed to
+the Palatinate to settle the conflict be
+tween the two groups in the Nationalist
+movement amicably.
+FRENCH JEWS RETALIATE.
+Merchants Refuse to Receive German
+Salesmen in Paris.
+PARIS. March 30 </P).—A French
+anti-German boycott appeared today
+with some merchants displaying signs
+saying "German salesmen will not be
+received." French Jews were organiz
+ing mass meetings in protest against
+alleged anti-Semitic atrocities In Ger
+many.
+The feeling in France was indicated
+when an audience in Marseille ceased
+a manifestation of hostility toward
+Emil Ludwig. the biographer, after the
+chairman of the meeting declared Lud
+wig was an exile from Germany. The
+audience had protested violently be
+cause of the author's criticism of mili
+tary features of the Versailles peace
+treaty.
+In Paris Jewish organizations called
+a mass meeting April 1 and the Jewish
+War Veterans another on April 4 at
+which high pclitical and clerical figures
+are expected to join in protests.
+In the Saar Territory, which is con
+trolled by the League of Nations pend
+ing a plebescite to decide whether it
+reverts to Germany or goes to France,
+President Knox of the governing com
+mission forbade Nazi manifestations
+and meetings. The action was taken
+to prevent disorders.
+He accused the Nazis of violating a
+promise not to wear their "brown shirt"
+uniforms publicly, citing a recent
+parade at Gutingen.
+BALTIMORE PLANS PROTEST.
+Senators King, Tydings and Goldsbor
+ough to Address Meeting.
+BALTIMORE, March 30 </P>.—'Three
+United States Senators are scheduled
+to address a meeting tonight to be held
+in protest of the treatment of Jews In
+Germs ny. Amplifiers have been placed
+arcund the Lyric Theater In anticipa
+tion of an overflow crcwd.
+Senator William H. King of Utah
+will be the principal speaker, while
+short talks will be given by Senators
+Millard E. Tydings and Phillip Lee
+Goldsborough of Maryland. Mayor How
+ard W. Jackson cf Baltimore will pre
+side.
+Simon E. Sobeloff, United States dis
+trict attorney and president of the
+Baltimore Branch of the American
+Jewish Congress, will outline the situ
+ation in Germany which has given rise
+to the meeting.
+George Renehan, representing Arch
+bishop Curley, and Mrs. William
+Bauernschmidt, representing the Prot
+estant Cooperating Committee, will
+speak briefly. A letter from Gov. Albert
+C. Ritchie also will be read.
+At the ccnclu'ion of the speaking
+resolutions will be offered by Rev.
+Thomas Guthrie Speers, D. D., and will
+be seconded by Rabbi Morris S. Lazaron.
+B. 0. TO SELL BEER
+Bailroad Officials Study Program
+to Meet Varied Laws.
+BALTIMORE. March 30 OP).—The
+Baltimore Ohio Railroad Co. an
+nounced yesterday that beer will be
+served on diners "within the provisions
+and restrictions of the law."
+The operations department was at
+tempting to determine how those "pro
+visions and restrictions" may be ob
+served in view of the varying local
+option laws within this State and others
+1 in which the company operate*, I
+REDUCTION IN D. C.
+BUDGET IS OPPOSED
+Rhode Island Avenue Citizens
+Cite Increase in School and
+Library Demands.
+Opposition to reduction In the pro
+posed 1934 District appropriations as
+recommended to Congress by the Bu
+erau of the Budget was expressed last
+night in a resolution adopted unani
+mously by the Rhode Island Avenue
+Citizens' Association.
+The resolution, introduced by Mere
+dith C. Wilson, asserted that schools
+and libraries are being called upon to
+give unprecedented service which, the
+resolution said, cannot be provided by
+any other agency.
+Objects to Reduction.
+It was recognized in the resolution
+that if the District's financial condition
+demanded It certain types of improve
+ments such as street paving and bridge
+construction could be delayed several
+years, but the association objected to a
+reduction in the school and library ap
+propriation.
+Members pointed out the increase of
+60 per cent in the circulation of the
+Woodridge sub-branch library during
+the past two years, and requested that
+Congress authorize the expending of
+sufficient funds to insure the full oper
+ation of the District's library system
+and the continuance of the Woodridge
+sub-branch library on the present half
+time basis. The sub-branch, it was
+said, had a yearly circulation of 85,000
+volumes.
+The association also objected to the
+proposed reduction on the basis that to
+do so would increase unemployment
+here.
+Discusses Montgomery.
+Washington Irving Cleveland, presi
+dent of the Kensington. Md.. Chamber
+of Commerce, discussed future Mont
+gomery County development.
+George L. Gee. president, presided at
+the meeting, held in the Sherwood Pres
+byterian Church, Twenty-second and
+Rhode Island avenue northeast.
+"PERSECUTION OF JEWS"
+PROTESTED IN DETROIT
+8,000 Fill Armory and Adopt Res
+olutions to Be Sent to Lead
+ers of Nation.
+DETROIT, March 30 (/F).—The Naval
+Reserve Armory, which accommodates
+8,000 persons, was filled last night for
+a meeting announced as a protest
+against what was described by speak
+ers as the persecution of Jews in
+Germany.
+A resolution of protest was adopted
+and copies were ordered sent to the
+President, the Secretary of State, the
+German Ambassador in Washington
+and all Michigan Senators and Repre
+sentatives in Congress.
+The list of speakers included Mayor
+Frank Murphy, Rabbi Leo Frahm, Rev.
+Edgar De Witt Jones of the Central
+Christian Church and Rev. John H.
+Bollens of the German Messiah Evan
+gelical Church.
+FORD PLAIJIT REOPENS
+Factory in England Closed Three
+Days by Pay Dispute.
+DAGENHAM, England, March 30 (A3).
+—The Ford motor plant reopened today
+after a three-day halt. A wage dispute
+was settled yesterday affecting 7,000.
+A pay scale somewhat higher than
+that the company sought to establish
+was agreed upon.
+471 POLICE FORCE
+FACING DISMISSAL
+Brown Says Reduced Budget
+Would Mean Fewer Uni
+formed Men.
+A reduction of 47 in the number of
+uniformed policemen will be necessary
+if the 1934 budget is enacted in the!
+form sent up to Congress by the Budget
+Bureau, MaJ. Ernest W. Brown, super
+intendent of police, said yesterday.
+The budget cuts the appropriation
+for the force $75,000 under its present
+standard. Under the 15 per cent pay
+cut, the salary of a policeman in his
+first year of service is $1,615. Dividing
+the salary into the amount of the re
+duction yields the number of men to
+be dropped.
+Bean and lleadlcy on List.
+There are several methods of accom
+plishing the reduction, should legisla
+tion make it necessary. The Commis
+sioners now have the power to place
+on the retired list any member of the
+force who has passed his 60th birth
+day, regardless of his physical condi
+tion. A survey is now being made to
+determine how many men in the de
+partment are more than 60. The list,
+when it is made up, will include two
+inspectors. Thaddeus R. Bean and In
+spector Albert J. Headley.
+Aside from retiring those over 60,
+the Commissioners can order retired
+any who does not satisfy the Board of
+Police Surgeons of his physical qualifi
+cations for police duty. Maj. Brown
+said he is planning a medical and
+physical survey of every member of
+the department next month to see
+whether any of them should be re
+tired for this reason. The examina
+tion Is normally an annual affair, but
+no examination was held in 1932.
+Nine Vacancies Now.
+Part of the cut can be accomplished
+by the occurrence of vacancies through
+deaths or resignations. There are now
+nine vacancies In the basic strength
+of 1,341 members, and thr^e addi
+tional vacancies are expected to occur
+in the near future.
+Finally, if these methods are ex
+hausted and still the force must be
+cut down, the Commissioners could or
+der members of the force laid off with
+out pay. Not only is this last alterna
+tive a possibility, but the Commission
+ers would be compelled to do it rather
+than Incur a deficiency in the salary
+item, it was explained.
+Maj. Brown said that whatever hap
+pened. he would endeavor to keep the
+same number of men on street duty by
+relieving members of the force of other
+assignments, as he considers his pres
+ent street force an absolute minimum.
+LIBRARY GROUP GIVEN
+NEWSPAPER VIEWS
+Newbold^Noyes Addresses Associa
+tion on Service to 125,000 Daily
+Readers—Miss Herbert Speaks.
+How men and machinery strive for
+the Ideal of a newspaper worthy of
+125,000 daily readers was described to
+the District of Columbia Library As
+sociation last night by Newbold Noyes,
+associate editor of The Star.
+I Ethics no less than personnel and
+equipment must enter into the task if
+the newspaper is to be a constructive
+as well as an educational force in the
+community. Mr. Noyes said.
+The speaker was introduced to 100
+I members of the association, in the audi
+torium of the American National Red
+Cross Building, by Dr. George F. Bower
+1 man. librarian of the Public Library.
+In his 20 years of active association
+with The Star, Mr. Noyes said, he
+learned to work for speed and accuracy
+as a reporter, and later as an editor, to
+temper his personal opinions when
+speaking for The Star on matters of
+public interest.
+From the standpoint of a newspaper
+editor, he challenged the type of reader
+skepticism so frequently expressed by:
+Oh. that's just a newspaper story!"
+Mr. Noyes said that the profession of
+journalism draws its very breath of life
+from sources of truth" and accuracy.
+Libel laws alone, he said, go a long way
+toward inruring faithful reporting, even
+should ethics be lacking.
+How libraries are faced during the
+depression with a mounting demand for
+service and a declining source of reve
+nue was described to the association by
+Miss Clara W. Herbert, assistant li
+brarian. the Public Library.
+Miss Herbert called attention to the
+fact that the annual circulation of pub
+lic library books had risen by a million
+over a total of 1,500,000 o' several years
+ago.
+Self education among adults, particu
+larly the unemployed, is on the Increase,
+Miss Herbert declared, with pvblic de
+mand shifting from fiction to more
+serious books on vocational training, on
+history, science and the arts.
+W. T. Purdum, president of the li
+brary association, presided at the meet
+ing. one of several annual sessions called
+from time to time by the organization.
+BAKED BEANS
+If are more
+delicious and^H
+digestible with H
+GULDENS
+Mustard
+FORD m* CHEVROLET
+SPRING CONDITIONER
+$8.75—Special
+(Regularly $11.75)
+Complete Lubrication
+Lubricate chassis—38 points. Lubricate steering column.
+Remove front wheels—repack with fresh grease.
+Add necessary grease to rear and transmission.
+DRAIN CRANKCASE and REFIT J. with 5 quarts 30c per quart oll.|
+Spray springs. Grease hood lacing and
+Properly inflate tires. fasteners.
+Align front wheels. Test and water battery.
+GRIND VALVES*
+New cylinder head gasket.
+New water connection gasket.
+New valve plate gasket.
+Adjust distributor points.
+Set timing.
+Clean and adjust spark plugs.
+Clean sediment bulbs.
+New valves at
+CLEAN CARBON
+Clean and adjust carburetor.
+Tighten manifold studs.
+Tighten water connections.
+Tighten water pump pack nuts.
+Adjust fan belt.
+Re-glycerin shock absorbers.
+CaB for and deliver car.
+40 cents each.
+STEUART MOTOR CO.
+"Largest Stock of Fori Parts in the City"
+6th St. at N. Y. Ave. N.W. Nat'l 3000
+URGE DRASTIC CUT
+IN FAIRFAX BUDGET
+Taxpayers' League Recom
+mends Slashes and Asks
+Voice in Final Action.
+Special Dispatch to The Star.
+FAIRFAX, Vft., March 30.—Urging
+even further drastic reductions In the
+county budget to be adopted In April,
+the special Budget Committee of the
+Fairfax County Taxpayers' League at
+a meeting of the league last night pre
+sented recommendations requesting
+that the Board of Supervisors ask the
+State authorities to reduce the charge
+for auditing county books; that^sation
+ery and telephone costs be cut and that
+several allegedly non-essential tele
+phones be removed from the court
+house.
+Among other recommendations made
+were the following:
+That the traveling expenses allowed
+the treasurer and commissioner of reve
+nue be reduced or eliminated and that
+no extra pay be allowed them for addi
+tional help during rush seasons: that
+the Commonwealth's attorney endeavor
+to secure the appointment of the three
+county police officers on the State force
+by July 1; that the $1,500 item for hos
+pitalization and the $150 physician's al
+lowance for indigents be abolished; that
+the amount set up for maintenance of
+public buildings and grounds be dras
+tically cut; that the appropriation of
+$200 for the Children's Home in Rich
+mond be dropped: that the amount of
+fire costs be scaled down, since Falls
+Church is now a separate entity and
+receives nothing from the county, and
+that the league appoint a committee to
+sit with the Board of Supervisors when
+final action is taken on the budget.
+After' considerable discussion all the
+recommendations as presented by the
+committee were adopted. The committee
+will consist of R. Colton Lewis, Center
+ville district, chairman, with one rep
+resentative from each of the other dis
+tricts of the county to be appointed at
+a later date. This committee will also
+serve in the future to make a study of
+all State and county tax questions.
+Due to the resignation of W. F. Carne
+as secretary, H. K. Stroud of Hemdon
+was elected.
+BERLIN WILL PROBE
+U. S. WOMAN'S CHARGES
+Suspected of Being Jewess, Opera
+Singer Was Forced to Leave
+East Prussia.
+By the Associated Press.
+WICHITA. Kans.. March 30—The
+case of Kathleen Kersting, Wichita
+opera linger, who was forced to leave
+Bast Prussia and go to Berlin because
+she was suspected of being a Jewess,
+i has been brought to the attention of
+the German government.
+United States Senator George Mc
+Gill of Kansas telegraphed interested
+parties here yesterday that the embassy
+in Berlin had cabled Secretary Hull:
+"The matter will be taken up im
+mediately with Koenigsberg authorities.
+There is no reason to fear for Miss
+Kersting's safety."
+She recently cabled requests here that
+proof be rushed to German authorities
+that she was of Gentile birth.
+DUCE DENIES HE PLANS
+EUROPEAN MAP CHANGE
+Italian Ambassador Here Issues
+Statement Terming News
+Story False.
+Slgnor Augusto Rosso, the Italian
+Ambassador at Washington, Issued the
+following statement this morning, on
+special Instructions he received yester
+day from Rome:
+"You are requested to deny emphati
+cally the news published in The Eve
+ning Star purporting to summarize the
+alleged Italian proposals for territorial
+changes in Europe.
+"The information contained in that
+press dispatch is a pure invention.
+Mussolini."
+The news referred to was a special
+dispatch published on Tuesday, March
+28, under the caption "Mussolini Is
+Held Planning New Map in Central
+Europe," written by Negley Parson.
+While it is said that the Italian gov
+ernment, in the ordinary course of
+events, does not worry much about the
+"wild stories" which are so frequently
+circulated in Europe and on other con
+tinents, at this time, when the tension
+is great all over the world. Mussolini is
+believed to have felt it to be his duty
+to give a flat denlel to such stories
+which are likely to handicap the efforts
+of the statesmen who are working for
+a better understanding and the pro
+motion of good will in Europe.
+When twin girls were born to Mr. and
+Mrs. George Durkin of Kansas City, the
+hour of midnight divided their birth
+days so that only one was a "valentine
+baby."
+Fur coats in Security Cold
+Storage at $2 for the season
+are secured from all clanger,
+and the cost is more than
+saved by lengthened life,
+lustre and usefulness.
+Jfrrurits Jftoragf (Jonping
+1140 15th Street
+i
+We Pay Cash for Worn
+Tires Worth Retreadinc
+LEETTI BROS.
+1220 13th 81. N.W. Metro. 0704
+Gas?
+Full Feeling?
+Sour Stomach?
+HERE'S INSTANT RELIEF!
+Father Kelly's Preparation, a famous old
+formula, blends with the gastric juices of
+the stomach and aids in quickly and thor
+oughly digesting rich foods. It
+tends to absorb the gas and
+neutralize acidity, thereby pre*
+venting and overcoming heart
+burn, sour stomach, full feeling
+a.id hyperacidity. A wonderful
+remedy that brings blessed,
+quick relief. Get a generous
+bottle for 75c today at your
+nearest drug store. Keep a bot
+tle in your medicine cabinet at
+all times.
+FATHER KELLY'S
+PREPARATION
+Per Heartburn—Cas—Sour Stomach
+FOLLOW THE TREND TO AMERICAN SHIPS
+Fast route to Ireland, England, France and Germany
+MANHATTAN LEVIATHAN
+ROOSEVELT STEAMSHIP CO.. Inc.. Can. A«ent»
+Apply to your local acent. Be know!
+travel values, or to Company's offices. Company'! Office. 743 1 lib St. N.W. TeL Nat. 1&15
+Congratulations
+—are still coming in to us bccausc wc recently
+enjoyed the biggest week's business in our history!
+We in turn want to thank the many local owners
+of this G-E Furnace for their enthusiastic
+recommendations which helped make such big
+sales possible. Read our ad below for details of
+this revolutionary heating plant.
+GENERAL AIR CONDITIONING CORP.
+ANNOUNCING
+special summer terms
+SMALL DOWN PAYMENT
+NO MORE UNTIL FALL
+rP DOES seem strange that^
+you can enjoy the comfort
+of the General Electric Oil
+Furnace all summer, too. But
+it's true, because this furnace
+has a built-in automatic hot
+water heater. With it you have
+a plentiful supply of domestic
+hot water on tap all year round
+—at a considerable fuel gating.
+And special summer terms
+mean that you have the use of
+this furnace practically free all
+summer. A moderate down
+payment installs it. No further
+■payments until fail. You have
+hot water all summer, are ready
+for the cold weather when it
+comes, and your basement is
+immediately made available for
+a game room, workshop or extra
+living room.
+And no starting the fires,
+either. Automatically, at the
+first sign of cold weather, up
+comes heat. You haven't
+touched a thing. It's almost
+like magic. The electrically
+operated Thermal Control has
+taken care of it. And you never
+need go near the furnace to ad
+just it, night or day. Nor do
+you need to touch the thermo
+stat, or wind the clock. The
+only thing you do is enjoy the
+temperature you want.
+You'll find this an entirely
+different kind of automatic
+heating. A complete heating
+unit boiler, burner and* con
+trols designed and made by
+A thing to be proud of—not something to partition of in your basement.
+This furnace is entirely enclosed in a lacquered two-tone grey steel shell, with
+chromium trim. No oily parts exposed. No oily smoke or smell.
+G-E to work together. It
+atomizes and burns the oil in a
+unique way. Breaks cheap fuel
+oil down ipto a microscopic
+mist by "impact-expansion"
+atomization. Bums this oil mist
+doxcmcard. in a specially de
+signed firebox that causes the
+hot gases to pass three times
+through the furnace. You get
+more heat per gallon of oil.
+Users report from 14% to 53%
+fuel savings.
+Take advantage of these spe
+cial summer terms. Have this
+furnace right now. Reduce your
+fuel bills for both hot water
+and heating. Clip that coupon
+and mail it—or phone us, for
+further information, free.
+*'J*4>"
+Not an oil burner—a complete oil furnace m a h
+GENERAL(g)ELECTRIC OIL FURNACE
+Air Conditioning Dept, General Electric Co., ISO Broadway, New York, N. Y.
+GENERAL AIR CONDITIONING
+CORPORATION
+1509 CONNECTICUT AVENUE
+Open EvtningM
+North 0403
+4
+General Air Conditioning Corporation,
+1569 Connecticut Avenne,
+Washington, D. C.
+I'd like to know more about those
+special summer terms. Send me free
+information right away about the G-E
+Oil Furnace. No obligation, of course.
+Name.
+Street A No.
+City Si
+
+*szzr~- z.

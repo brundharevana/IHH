@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn88085445/1922-03-23/ed-1/?sp=4",
+  "fetch_url": "https://www.loc.gov/resource/sn88085445/1922-03-23/ed-1/?sp=4&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T18:58:43Z",
+  "sha256": "524aaf7133248015ebd74986c832c31b568020fd094e604217bfd09285ae06c9",
+  "bytes": 27802,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn88085445/1922-03-23/ed-1/?sp=4&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_bumping_ver01/data/sn88085445/00211107595/1922032301/0734.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/wa/batch_wa_bumping_ver01/data/sn88085445/00211107595/1922032301/0734.xml"
+}

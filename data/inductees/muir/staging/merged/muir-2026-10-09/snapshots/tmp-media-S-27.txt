@@ -1,0 +1,34 @@
+title: File:John Muir and climbing party at summit of Mount Rainier, 1888 (WARNER 595).jpeg
+DateTime: 2018-08-20 05:28:20
+ObjectName: John Muir and climbing party at summit of Mount Rainier, 1888
+CommonsMetadataExtension: 1.2
+Categories: Mountaineers from the United States|John Muir|PD-old-80-expired|Images from the Arthur Churchill Warner Photographs Collection|Climbing Mount Rainier|CC-PD-Mark|Historical images of Mount Rainier National Park
+Artist: Arthur Churchill Warner
+ImageDescription: Taken during the 1888 Mt. Rainier climbing expedition led by John Muir.
+
+On verso of image: The summit of Mt. Rainier, 1888. Left to right: D.W. Bass, P.B. Van Trump, John Muir, N.O. Booth, E.S. Ingraham. Photograph by A.C. Warner. A.C. Warner, 7534 19th Ave. N.E .
+
+Warner 712e
+
+Filed in General series.
+
+Subjects (LCTGM): Mountaineers--Washington (State)--Rainier, Mount; Mountains--Washington (State)
+
+Subjects (LCSH): Muir, John, 1838-1914; Rainier, Mount (Wash.)
+DateTimeOriginal: 1888
+date QS:P571,+1888-00-00T00:00:00Z/9
+Credit: Arthur Churchill Warner Photographs Collection
+Permission: Public domainPublic domainfalsefalse
+
+The author died in 1943, so this work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 80 years or fewer.
+
+This work is in the public domain in the United States because it was published (or registered with the U.S. Copyright Office) before January 1, 1931.
+
+This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.
+
+https://creativecommons.org/publicdomain/mark/1.0/PDMCreative Commons Public Domain Mark 1.0falsefalse
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

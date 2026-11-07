@@ -1,0 +1,10 @@
+{
+  "url": "https://siarchives.si.edu/collections/siris_arc_308145",
+  "fetch_url": "https://siarchives.si.edu/collections/siris_arc_308145",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:34:18Z",
+  "sha256": "29deac7b3749b0f0697fe791c0868575b5dd49526d4baa50671e1e900d0f90e1",
+  "bytes": 3504,
+  "http_status": 200,
+  "final_url": "https://siarchives.si.edu/collections/siris_arc_308145"
+}

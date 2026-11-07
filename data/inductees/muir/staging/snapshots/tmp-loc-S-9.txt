@@ -1,0 +1,170 @@
+_version_: 1878547596902924288
+access_restricted: false
+aka[0]: http://memory.loc.gov/ammem/today/jun30.html
+aka[1]: http://www.loc.gov/item/today-in-history/june-30/
+aka[2]: http://www.loc.gov/item/today-in-history/june-30/yosemite/
+articles[0]: Yosemite
+
+President Abraham Lincoln signed the Yosemite Valley Grant Act, Senate Bill 203, on June 30, 1864. The legislation gave California the Yosemite Valley and the nearby Mariposa Big Tree Grove “upon the express conditions that the premises shall be held for public use, resort, and recreation.”
+
+From the discovery of the valley to the present day, the wonders of this region of sublimity, have been a source of inspiration to visitors, but none have been able to describe it to the satisfaction of those who followed after them.
+
+Discovery of the Yosemite, and the Indian War of 1851…, by Lafayette Houghton Bunnell. New York: F.H. Revell Company, c1892. 246. California as I Saw It: First-Person Narratives of California’s Early Years, 1849-1900. General Collections
+
+Panorama of Yosemite Valley[California]. Haines Photo Co., c1915. Panoramic Photographs. Prints & Photographs Division
+
+El Capitan. Thomas Hill, artist; Boston: Published by L. Prang & Co., Boston, [1871]. Popular Graphic Arts. Prints & Photographs Division
+
+The newly appointed Yosemite Board of Commissioners confronted the dual task of preserving the magnificent landscape while providing for public recreation. With remarkable foresight, board member and landscape architect Frederick Law Olmsted recognized that these goals could conflict. In his 1865 Draft of Preliminary Report upon the Yosemite and Big Tree Grove, Olmsted warns that “the slight harm which the few hundred visitors of this year might do, if no care were taken to prevent it, would not be slight, if it should be repeated by millions.”
+
+His concern about overuse of the park was ignored by the Board of Commissioners, and the Report never reached the state legislature.
+
+As Olmsted predicted, the Yosemite Valley and the Big Tree Grove quickly became a “must see” vacation destination. In the 1870s, California tourist Mary Cone traveled by ferry, railroad, stagecoach, wagon, and horseback to reach the Mariposa Grove of giant sequoias. In Two Years In California, she describes eating her lunch “under the shadow and protection of one of these great kings of the forest”.
+
+At about the same time, travel writer Caroline Churchill estimated that a week-to-ten-day trip to Yosemite cost $150 dollars including transportation. Despite the expense, Churchill notes:
+
+It is a subject of much regret among the traveling public, that the question of the quality of food served to the unfortunate traveler cannot be made a matter of special legislation. A race of men must deteriorate when fed upon refuse food…I sincerely believe that this…is half the cause of there being so much intemperance in this State.
+
+Over the Purple Hills, or Sketches of Travel in California, Embracing All the Important Points Usually Visited by Tourists, by Caroline M. Churchill. Denver: Mrs. C.M. Churchill, 1881. p127-28. U.S. Local History Collection. General Collections
+
+However, cost and discomfort were forgotten when:
+
+… the great Yosemite Valley first breaks upon the vision, with a realizing sense of its grandeur. Here the rocks lift their towering heads so loftily to the sky, and the precipices are so fearfully deep, that mighty streams all turn to tears when rushing by, because of taking such a leap.
+
+Over the Purple Hills…, p133. U.S. Local History Collection. General Collections
+
+Spectacular Yosemite Falls, Yosemite National Park, California. Carol M. Highsmith, photographer, [between 1980 and 2006]. Highsmith (Carol M.) Archive. Prints & Photographs Division
+
+Yet California proved unable to care adequately for these extraordinary lands, and by 1890, public sentiment had begun to demand the return of the park to the federal government. Naturalist John Muir was among Yosemite’s most eloquent and outspoken supporters. His articles and books describing the park’s natural wonders inspired public support for the establishment of Yosemite National Park in 1890 and its expansion through the recession of the California parklands in 1905-6. In the highly popular Our National Parks (1901), Muir devoted six chapters to Yosemite. This passage is typical of his reverence for the park:
+
+Nowhere will you see the majestic operations of nature more clearly revealed beside the frailest, most gentle and peaceful things. Nearly all the park is a profound solitude. Yet it is full of charming company, full of God’s thoughts, a place of peace and safety amid the most exalted grandeur and eager enthusiastic action, a new song, a place of beginnings abounding in first lessons on life, mountain-building, eternal, invincible, unbreakable order; with sermons in stones, storms, trees, flowers, and animals brimful of humanity.
+
+Our National Parks, by John Muir. Boston, New York: Houghton Mifflin and company, 1901. 78. Selected Digitized Books. General Collections
+
+Today, Yosemite National Park encompasses nearly 1,200 square miles of the central Sierra Nevada mountain range. With elevations as high as 13,000 feet above sea level, the park preserves alpine wilderness, groves of Giant Sequoias and the Yosemite Valley’s splendid cliffs, waterfalls, wildflowers, and impressive rock formations.
+
+Yosemite National Park spans eastern portions of Tuolumne, Mariposa and Madera counties in California. Carol M. Highsmith, photographer, June 2013. Highsmith (Carol M.) Collection. Prints & Photographs Division
+
+“Fallen Monarch,” September 15, 1911, Mariposa Big Tree Grove. [Yosemite National Park, California] Pacific Photo Co., c1911. Panoramic Photographs. Prints & Photographs Division
+
+Learn More
+
+Read Today in History features on milestones in the history of conservation in America. Topics include the establishment of the National Park Service in 1916, the 1908 Governors’ Conference on the Conservation of Natural Resources, the creation of national parks in Washington and Arizona, and the first celebration of Earth Day.
+
+Documentary Chronology of Selected Events in the Development of the American Conservation Movement, c. 1850-1920, a special presentation in the archived collection The Evolution of the Conservation Movement, 1850-1920, chronicles efforts to preserve the American landscape.
+
+For access to texts of current environmental protection bills under consideration in the U.S. House of Representatives and the Senate, go to Congress.gov and browse major legislation classified by topics such as environmental protection or public lands.
+
+Yosemite National Park: Topics in Chronicling America provides a selection of articles from the historic American newspapers database along with search strategies to find additional articles on this topic.
+
+Search on the term Yosemite in the photos and prints collections to see more than two hundred images related to the park. See, for example, El Capitan, the majestic peak above Yosemite Valley, beautiful Bridal Veil Falls, or Curry Village, which opened in Yosemite National Park as a guest camp in 1899.
+
+Visit Yosemite National Park online via the National Park Service.
+dates[0].1864-06-30: https://www.loc.gov/search/?dates=1864-06-30/1864-06-30&fo=json
+description[0]: Yosemite
+digitized: true
+display_offsite: true
+extract_timestamp: 2026-10-09T05:06:03.597Z
+extract_urls[0]: http://www.loc.gov/item/today-in-history/june-30/#today-in-history
+format[0].web page: https://www.loc.gov/search/?fa=original_format:web+page&fo=json
+group[0]: today-in-history
+hassegments: false
+id: http://www.loc.gov/item/today-in-history/june-30/
+image_url[0]: https://www.loc.gov/static/managed-content/uploads/sites/10/1864/06/yosemiteTuolumne.jpg#h=350&w=525
+index: 1
+item.aka[0]: https://memory.loc.gov/ammem/today/jun30.html
+item.aka[1]: https://www.loc.gov/item/today-in-history/june-30/
+item.aka[2]: https://www.loc.gov/item/today-in-history/june-30/yosemite/
+item.articles[0]: Yosemite
+
+President Abraham Lincoln signed the Yosemite Valley Grant Act, Senate Bill 203, on June 30, 1864. The legislation gave California the Yosemite Valley and the nearby Mariposa Big Tree Grove “upon the express conditions that the premises shall be held for public use, resort, and recreation.”
+
+From the discovery of the valley to the present day, the wonders of this region of sublimity, have been a source of inspiration to visitors, but none have been able to describe it to the satisfaction of those who followed after them.
+
+Discovery of the Yosemite, and the Indian War of 1851…, by Lafayette Houghton Bunnell. New York: F.H. Revell Company, c1892. 246. California as I Saw It: First-Person Narratives of California’s Early Years, 1849-1900. General Collections
+
+Panorama of Yosemite Valley[California]. Haines Photo Co., c1915. Panoramic Photographs. Prints & Photographs Division
+
+El Capitan. Thomas Hill, artist; Boston: Published by L. Prang & Co., Boston, [1871]. Popular Graphic Arts. Prints & Photographs Division
+
+The newly appointed Yosemite Board of Commissioners confronted the dual task of preserving the magnificent landscape while providing for public recreation. With remarkable foresight, board member and landscape architect Frederick Law Olmsted recognized that these goals could conflict. In his 1865 Draft of Preliminary Report upon the Yosemite and Big Tree Grove, Olmsted warns that “the slight harm which the few hundred visitors of this year might do, if no care were taken to prevent it, would not be slight, if it should be repeated by millions.”
+
+His concern about overuse of the park was ignored by the Board of Commissioners, and the Report never reached the state legislature.
+
+As Olmsted predicted, the Yosemite Valley and the Big Tree Grove quickly became a “must see” vacation destination. In the 1870s, California tourist Mary Cone traveled by ferry, railroad, stagecoach, wagon, and horseback to reach the Mariposa Grove of giant sequoias. In Two Years In California, she describes eating her lunch “under the shadow and protection of one of these great kings of the forest”.
+
+At about the same time, travel writer Caroline Churchill estimated that a week-to-ten-day trip to Yosemite cost $150 dollars including transportation. Despite the expense, Churchill notes:
+
+It is a subject of much regret among the traveling public, that the question of the quality of food served to the unfortunate traveler cannot be made a matter of special legislation. A race of men must deteriorate when fed upon refuse food…I sincerely believe that this…is half the cause of there being so much intemperance in this State.
+
+Over the Purple Hills, or Sketches of Travel in California, Embracing All the Important Points Usually Visited by Tourists, by Caroline M. Churchill. Denver: Mrs. C.M. Churchill, 1881. p127-28. U.S. Local History Collection. General Collections
+
+However, cost and discomfort were forgotten when:
+
+… the great Yosemite Valley first breaks upon the vision, with a realizing sense of its grandeur. Here the rocks lift their towering heads so loftily to the sky, and the precipices are so fearfully deep, that mighty streams all turn to tears when rushing by, because of taking such a leap.
+
+Over the Purple Hills…, p133. U.S. Local History Collection. General Collections
+
+Spectacular Yosemite Falls, Yosemite National Park, California. Carol M. Highsmith, photographer, [between 1980 and 2006]. Highsmith (Carol M.) Archive. Prints & Photographs Division
+
+Yet California proved unable to care adequately for these extraordinary lands, and by 1890, public sentiment had begun to demand the return of the park to the federal government. Naturalist John Muir was among Yosemite’s most eloquent and outspoken supporters. His articles and books describing the park’s natural wonders inspired public support for the establishment of Yosemite National Park in 1890 and its expansion through the recession of the California parklands in 1905-6. In the highly popular Our National Parks (1901), Muir devoted six chapters to Yosemite. This passage is typical of his reverence for the park:
+
+Nowhere will you see the majestic operations of nature more clearly revealed beside the frailest, most gentle and peaceful things. Nearly all the park is a profound solitude. Yet it is full of charming company, full of God’s thoughts, a place of peace and safety amid the most exalted grandeur and eager enthusiastic action, a new song, a place of beginnings abounding in first lessons on life, mountain-building, eternal, invincible, unbreakable order; with sermons in stones, storms, trees, flowers, and animals brimful of humanity.
+
+Our National Parks, by John Muir. Boston, New York: Houghton Mifflin and company, 1901. 78. Selected Digitized Books. General Collections
+
+Today, Yosemite National Park encompasses nearly 1,200 square miles of the central Sierra Nevada mountain range. With elevations as high as 13,000 feet above sea level, the park preserves alpine wilderness, groves of Giant Sequoias and the Yosemite Valley’s splendid cliffs, waterfalls, wildflowers, and impressive rock formations.
+
+Yosemite National Park spans eastern portions of Tuolumne, Mariposa and Madera counties in California. Carol M. Highsmith, photographer, June 2013. Highsmith (Carol M.) Collection. Prints & Photographs Division
+
+“Fallen Monarch,” September 15, 1911, Mariposa Big Tree Grove. [Yosemite National Park, California] Pacific Photo Co., c1911. Panoramic Photographs. Prints & Photographs Division
+
+Learn More
+
+Read Today in History features on milestones in the history of conservation in America. Topics include the establishment of the National Park Service in 1916, the 1908 Governors’ Conference on the Conservation of Natural Resources, the creation of national parks in Washington and Arizona, and the first celebration of Earth Day.
+
+Documentary Chronology of Selected Events in the Development of the American Conservation Movement, c. 1850-1920, a special presentation in the archived collection The Evolution of the Conservation Movement, 1850-1920, chronicles efforts to preserve the American landscape.
+
+For access to texts of current environmental protection bills under consideration in the U.S. House of Representatives and the Senate, go to Congress.gov and browse major legislation classified by topics such as environmental protection or public lands.
+
+Yosemite National Park: Topics in Chronicling America provides a selection of articles from the historic American newspapers database along with search strategies to find additional articles on this topic.
+
+Search on the term Yosemite in the photos and prints collections to see more than two hundred images related to the park. See, for example, El Capitan, the majestic peak above Yosemite Valley, beautiful Bridal Veil Falls, or Curry Village, which opened in Yosemite National Park as a guest camp in 1899.
+
+Visit Yosemite National Park online via the National Park Service.
+item.tag_line[0]: President Abraham Lincoln signed the Yosemite Land Grant.
+item.toc[0].slug: yosemite
+item.toc[0].title: Yosemite
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+mime_type[0]: text/html
+mime_type[1]: image/jpeg
+online_format[0]: web page
+online_format[1]: image
+original_format[0]: web page
+partof[0].count: 30
+partof[0].title: june
+partof[0].url: https://www.loc.gov/search/?fa=partof:june&fo=json
+partof[1].count: 368
+partof[1].title: today in history
+partof[1].url: https://www.loc.gov/collections/today-in-history/?fo=json
+partof[2].count: 418988
+partof[2].title: american memory
+partof[2].url: https://www.loc.gov/search/?fa=partof:american+memory&fo=json
+profile: today-in-history
+score: 14.524273
+shard: 01
+shelf_id: 2027-06-30
+short_title: June 30
+site[0]: ammem
+source_modified: 2000-01-01T12:00:00Z
+tag_line[0]: President Abraham Lincoln signed the Yosemite Land Grant.
+timestamp: 2026-10-09T05:09:55.119Z
+title: Today in History - June 30
+toc[0].slug: yosemite
+toc[0].title: Yosemite
+type[0]: article
+url: https://www.loc.gov/item/today-in-history/june-30/
+cite_this.apa: () Today in History - June 30. [Image] Retrieved from the Library of Congress, https://www.loc.gov/item/today-in-history/june-30/.
+cite_this.chicago: Today in History - June 30. Image. https://www.loc.gov/item/today-in-history/june-30/.
+cite_this.mla: Today in History - June 30. Image. Retrieved from the Library of Congress, <www.loc.gov/item/today-in-history/june-30/>.

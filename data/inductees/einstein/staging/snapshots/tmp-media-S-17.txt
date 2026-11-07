@@ -1,0 +1,81 @@
+title: Untitled poem by Albert Einstein
+scopeAndContentNote: Original Exhibition Caption: In January 1934, Albert Einstein was a guest of the Roosevelts at the White House. During his visit, Einstein wrote this poem and presented it to the President.
+
+The State Department provided FDR with an English translation:
+
+In the Capital's proud glory
+Where Destiny unfolds her story,
+Fights a man with happy pride
+Who solution can provide.
+
+Of our talk of yester night
+There are cordial mem'ries bright;
+In remembrance of our meeting,
+Let me send you this rhymed greeting
+
+A.E.
+levelOfDescription: item
+recordType: description
+useRestriction.note: Use of this document may be subject to copyright restrictions.
+useRestriction.specificUseRestrictions[0]: Copyright
+useRestriction.status: Restricted - Possibly
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].city: Hyde Park
+physicalOccurrences[0].referenceUnits[0].phone: 845-486-7770
+physicalOccurrences[0].referenceUnits[0].address1: 4079 Albany Post Road
+physicalOccurrences[0].referenceUnits[0].postalCode: 12538-1999
+physicalOccurrences[0].referenceUnits[0].name: Franklin D. Roosevelt Library
+physicalOccurrences[0].referenceUnits[0].state: NY
+physicalOccurrences[0].referenceUnits[0].fax: 845-486-1147
+physicalOccurrences[0].referenceUnits[0].email: roosevelt.library@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Loose Sheets
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].copyStatus: Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: Franklin D. Roosevelt Library
+dataControlGroup.groupId: PL-FDR
+dataControlGroup.groupCd: PL-FDR
+generalRecordsTypes[0]: Textual Records
+localIdentifier: AR 2025.1.19
+productionDates[0].month: 1
+productionDates[0].year: 1934
+productionDates[0].day: 25
+productionDates[0].logicalDate: 1934-01-25
+variantControlNumbers[0].note: This document was featured in the Franklin D. Roosevelt Presidential Library's special exhibition, "Signature Moments: Letters From the Famous, the Infamous, and Everyday Americans."
+variantControlNumbers[0].number: PLFDR-2025
+variantControlNumbers[0].type: Exhibit Identifier
+digitalObjects[0].objectFilename: 1487723_12.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/roosevelt/fdr-ppf/1487723/Batch0002/1487723_12.jpg
+digitalObjects[0].objectFileSize: 1234
+digitalObjects[0].objectId: 519767871
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].collectionIdentifier: FDR-PPF
+ancestors[0].inclusiveStartDate.year: 1933
+ancestors[0].inclusiveStartDate.logicalDate: 1933-01-01
+ancestors[0].distance: 3
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.year: 1945
+ancestors[0].inclusiveEndDate.logicalDate: 1945-12-31
+ancestors[0].title: Papers as President, President's Personal File
+ancestors[0].naId: 1185
+ancestors[1].inclusiveStartDate.year: 1933
+ancestors[1].inclusiveStartDate.logicalDate: 1933-01-01
+ancestors[1].distance: 2
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: President (1933-1945 : Roosevelt). (1933 - 1945)
+ancestors[1].creators[0].abolishDate.year: 1945
+ancestors[1].creators[0].abolishDate.logicalDate: 1945-12-31
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 1933
+ancestors[1].creators[0].establishDate.logicalDate: 1933-01-01
+ancestors[1].creators[0].naId: 10447966
+ancestors[1].inclusiveEndDate.year: 1945
+ancestors[1].inclusiveEndDate.logicalDate: 1945-12-31
+ancestors[1].title: President's Personal Files
+ancestors[1].naId: 1487723
+ancestors[2].distance: 1
+ancestors[2].levelOfDescription: fileUnit
+ancestors[2].title: PPF 7177: Einstein, Albert
+ancestors[2].naId: 485984749
+naId: 519767870

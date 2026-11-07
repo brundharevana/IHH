@@ -1,0 +1,265 @@
+_version_: 1730914156765249536
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2019690414/
+aka[1]: http://www.loc.gov/item/2019690414/
+aka[2]: http://www.loc.gov/pictures/item/2019690414/
+aka[3]: https://www.loc.gov/pictures/collection/highsm/item/2019690414/
+aka[4]: http://www.loc.gov/pictures/collection/highsm/item/2019690414/
+aka[5]: https://hdl.loc.gov/loc.pnp/highsm.57990
+aka[6]: https://hdl.loc.gov/loc.pnp/highsm.57990
+aka[7]: http://www.loc.gov/resource/highsm.57990/
+aka[8]: http://lccn.loc.gov/2019690414
+call_number: LC-DIG-highsm- 57990 (ONLINE) [P&P]
+contributor_names[0]: Highsmith, Carol M., 1946-, photographer
+contributors[0].highsmith, carol m.: https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json
+created: 2019-12-10T06:55:29Z
+created_published[0]: 2019-05-26.
+created_published_date: 2019-05-26.
+date: 2019-01-01
+dates[0].2019: https://www.loc.gov/search/?dates=2019/2019&fo=json
+description[0]: 1 photograph : digital, tiff file, color.
+digital_id[0]: highsm 57990 https://hdl.loc.gov/loc.pnp/highsm.57990
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-08-30T19:06:23.442Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/highsm/item/2019690414/#highsm
+extract_urls[1]: http://lccn.loc.gov/2019690414#catalog-split-04
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Digital photographs--Color--2010-2020.
+genre[0]: Digital photographs--Color--2010-2020
+group[0]: highsm
+group[1]: catalog-split-04
+group[2]: catalog
+group[3]: carol-m-highsmith
+group[4]: main-catalog-split-04
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2019690414/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990_150px.jpg#h=150&w=107
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990r.jpg#h=640&w=458
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990v.jpg#h=1024&w=733
+index: 1
+item.call_number: LC-DIG-highsm- 57990 (ONLINE) [P&P]
+item.contributors[0]: Highsmith, Carol M., 1946- photographer.
+item.control_number: 2019690414
+item.created: 2019-12-10T06:55:29Z
+item.created_published: 2019-05-26.
+item.created_published_date: 2019-05-26.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm
+item.creators[0].role: photographer
+item.creators[0].title: Highsmith, Carol M., 1946-
+item.date: 2019-05-26.
+item.digital_id[0]: highsm 57990 https://hdl.loc.gov/loc.pnp/highsm.57990
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm
+item.formats[0].title: Digital photographs--Color--2010-2020.
+item.genre[0]: Digital photographs--Color--2010-2020
+item.id: 2019690414
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2019690414/
+item.marc: https://www.loc.gov/pictures/item/2019690414/marc/
+item.medium[0]: 1 photograph : digital, tiff file, color.
+item.medium_brief: 1 photograph :
+item.mediums[0]: 1 photograph : digital, tiff file, color.
+item.modified: 2019-12-10T06:55:29Z
+item.notes[0]: Title, date and keywords based on information provided by the photographer.
+item.notes[1]: The museum and hall of fame, which opened in 1959, is dedicated to Canadian-American physician James Naismith, who is credited with inventing the game, using a peach basket as the hoop.
+item.notes[2]: Purchase; Carol M. Highsmith Photography, Inc.;  2019; (DLC/PP-2019:017)
+item.notes[3]: Forms part of Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.
+item.other_control_numbers[0]: 21328861
+item.part_of: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=Massachusetts--Springfield&co=highsm
+item.place[0].title: Massachusetts--Springfield
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA https://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-highsm-57990 (original digital file)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/highsm.57990
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990r.jpg
+item.sort_date: 2019
+item.source_collection[0]: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+item.source_created: 2019-11-06T00:00:00Z
+item.source_modified: 2019-12-09T15:43:45Z
+item.subject_headings[0]: United States--Massachusetts--Springfield.
+item.subject_headings[1]: America
+item.subject_headings[2]: Naismith Memorial Basketball Hall of Fame
+item.subject_headings[3]: James Naismith
+item.subject_headings[4]: Massachusetts--Springfield
+item.subjects[0]: United States--Massachusetts--Springfield
+item.subjects[1]: America
+item.subjects[2]: Naismith Memorial Basketball Hall of Fame
+item.subjects[3]: James Naismith
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990_150px.jpg
+item.title: View of a tower hoisting a symbolic basketball outside the Naismith Memorial Basketball Hall of Fame in Springfield, Massachusetts, the fourth-largest city in New England, behind Boston and Worcester in Massachusetts and Providence in Rhode Island
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2019690414
+link: https://www.loc.gov/pictures/item/2019690414/
+location[0]: massachusetts
+location[1]: united states
+location[2]: springfield
+location_city[0]: springfield
+location_country[0]: united states
+location_state[0]: massachusetts
+locations[0].massachusetts: https://www.loc.gov/search/?fa=location:massachusetts&fo=json
+locations[1].springfield: https://www.loc.gov/search/?fa=location:springfield&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].springfield: https://www.loc.gov/search/?fa=location_city:springfield&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].massachusetts: https://www.loc.gov/search/?fa=location_state:massachusetts&fo=json
+marc: https://www.loc.gov/pictures/item/2019690414/marc/
+medium[0]: 1 photograph : digital, tiff file, color.
+medium_brief: 1 photograph :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2019-12-10T06:55:29Z
+notes[0]: Title, date and keywords based on information provided by the photographer.
+notes[1]: The museum and hall of fame, which opened in 1959, is dedicated to Canadian-American physician James Naismith, who is credited with inventing the game, using a peach basket as the hoop.
+notes[2]: Purchase; Carol M. Highsmith Photography, Inc.;  2019; (DLC/PP-2019:017)
+notes[3]: Forms part of Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.
+number[0]: online resource
+number[1]: 2019690414
+number[2]: 2019-12-09t15:43:45
+number[3]: http://www.loc.gov/item/21328861
+number_carrier_type[0]: online resource
+number_former_id[0]: http://www.loc.gov/item/21328861
+number_lccn[0]: 2019690414
+number_source_modified[0]: 2019-12-09t15:43:45
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 21328861
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2019690414/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2019690414/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2019690414/dc
+partof[0].count: 70435
+partof[0].title: highsmith (carol m.) archive
+partof[0].url: https://www.loc.gov/collections/carol-m-highsmith/?fo=json
+partof[1].count: 910731
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1162489
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1910629
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=Massachusetts--Springfield&co=highsm
+place[0].title: Massachusetts--Springfield
+related.neighbors: https://www.loc.gov/pictures/related/?&co=highsm&pk=2019690414&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA https://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-highsm-57990 (original digital file)
+reproductions[0]: Some images in this collection are described in groups; others are described individually. In some cases, all of the images in the group display online, in other cases they do not.
+
+You can download online images yourself. Alternatively, you can purchase copies of various types.
+
+Determine whether the desired materials can be retrieved online.
+
+Look in the Medium field above to determine whether the description is for one photograph or more than one.
+
+If the description is for a single item and it is displaying, you can download or purchase a print. Cite the number that begins with "LC-DIG..." when purchasing copies through Library of Congress Duplication Services.
+
+If the description is for more than one item and there is a "Click for more images" icon displaying, select that. Individual images will display; you can download or purchase prints. Cite the number that begins with "LC-DIG..." when purchasing copies through Library of Congress Duplication Services.
+
+If the description is for more than one item and there is no "Click for more images" icon displaying, return to the "About this Item" tab and select the "Check for online items from this group" link. Then select the "Obtaining Copies" tab for any retrieved items that are of interest.
+
+If the images do not display online -- Select images for reproduction through one of these methods:
+
+Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: https://www.loc.gov/rr/print/info/001_ref.html).
+
+P&P reading room staff can provide up to 15 photocopies of items per calendar year. (Color images cannot be photocopied.) For assistance, see our Ask a Librarian page. OR
+
+Hire a freelance researcher to do further selection for you (a list of researchers is available at: https://www.loc.gov/rr/print/resource/013_pic.html).
+
+Purchasing Copies
+
+Library of Congress Duplication Services can make copies of various types from images in Prints & Photographs Division Collections. Price lists, contact information, and order forms are available on the Duplication Services Web site.
+
+Carol M. Highsmith sells prints of her photographs at: http://photographsamerica.com/ External .
+resource_links[0]: https://hdl.loc.gov/loc.pnp/highsm.57990
+resources[0].caption: original digital file
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990_150px.jpg
+resources[0].url: https://www.loc.gov/resource/highsm.57990/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Carol M. Highsmith - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.459465
+shard: 00
+shelf_id: LC-DIG-highsm- 57990 (ONLINE) [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 2019
+source_collection: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+source_created: 2019-11-06T00:00:00Z
+source_modified: 2019-12-09T15:43:45Z
+subject[0]: springfield
+subject[1]: digital photographs
+subject[2]: massachusetts
+subject[3]: america
+subject[4]: color
+subject[5]: james naismith
+subject[6]: united states
+subject[7]: naismith memorial basketball hall of fame
+subject_headings[0]: United States--Massachusetts--Springfield
+subject_headings[1]: America
+subject_headings[2]: Naismith Memorial Basketball Hall of Fame
+subject_headings[3]: James Naismith
+subjects[0].america: https://www.loc.gov/search/?fa=subject:america&fo=json
+subjects[1].color: https://www.loc.gov/search/?fa=subject:color&fo=json
+subjects[2].digital photographs: https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json
+subjects[3].james naismith: https://www.loc.gov/search/?fa=subject:james+naismith&fo=json
+subjects[4].massachusetts: https://www.loc.gov/search/?fa=subject:massachusetts&fo=json
+subjects[5].naismith memorial basketball hall of fame: https://www.loc.gov/search/?fa=subject:naismith+memorial+basketball+hall+of+fame&fo=json
+subjects[6].springfield: https://www.loc.gov/search/?fa=subject:springfield&fo=json
+subjects[7].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990_150px.jpg
+timestamp: 2022-04-23T15:39:34.955Z
+title: View of a tower hoisting a symbolic basketball outside the Naismith Memorial Basketball Hall of Fame in Springfield, Massachusetts, the fourth-largest city in New England, behind Boston and Worcester in Massachusetts and Providence in Rhode Island
+unrestricted: true
+url: https://www.loc.gov/item/2019690414/
+resources[0].caption: original digital file
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 358067834
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/highsm/57900/57990u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 0
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/tiff
+resources[0].files[0][1].size: 716072388
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/master/pnp/highsm/57900/57990a.tif
+resources[0].files[0][1].width: 0
+resources[0].files[0][2].height: 150
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].size: 72872
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990_150px.jpg
+resources[0].files[0][2].width: 107
+resources[0].files[0][3].height: 640
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 94229
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990r.jpg
+resources[0].files[0][3].width: 458
+resources[0].files[0][4].height: 1024
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 252067
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990v.jpg
+resources[0].files[0][4].width: 733
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/highsm/57900/57990_150px.jpg
+resources[0].url: https://www.loc.gov/resource/highsm.57990/
+cite_this.apa: Highsmith, C. M., photographer. (2019) View of a tower hoisting a symbolic basketball outside the Naismith Memorial Basketball Hall of Fame in Springfield, Massachusetts, the fourth-largest city in New England, behind Boston and Worcester in Massachusetts and Providence in Rhode Island. Massachusetts United States Springfield, 2019. -05-26. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2019690414/.
+cite_this.chicago: Highsmith, Carol M, photographer. View of a tower hoisting a symbolic basketball outside the Naismith Memorial Basketball Hall of Fame in Springfield, Massachusetts, the fourth-largest city in New England, behind Boston and Worcester in Massachusetts and Providence in Rhode Island. Massachusetts United States Springfield, 2019. -05-26. Photograph. https://www.loc.gov/item/2019690414/.
+cite_this.mla: Highsmith, Carol M, photographer. View of a tower hoisting a symbolic basketball outside the Naismith Memorial Basketball Hall of Fame in Springfield, Massachusetts, the fourth-largest city in New England, behind Boston and Worcester in Massachusetts and Providence in Rhode Island. -05-26. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2019690414/>.

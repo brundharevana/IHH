@@ -1,0 +1,102 @@
+{
+  "$comment": "Walkable bounds for free roam in muir-fountain-lake.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 40.0,
+  "walkable": {
+    "x_min": -55.0,
+    "x_max": 55.0,
+    "z_min": -12.0,
+    "z_max": 28.0
+  },
+  "obstacles": [
+    {
+      "name": "oak_0",
+      "x_min": -15.15,
+      "x_max": -12.85,
+      "z_min": -19.15,
+      "z_max": -16.85
+    },
+    {
+      "name": "oak_1",
+      "x_min": 14.85,
+      "x_max": 17.15,
+      "z_min": -27.15,
+      "z_max": -24.85
+    },
+    {
+      "name": "oak_2",
+      "x_min": -25.15,
+      "x_max": -22.85,
+      "z_min": 4.85,
+      "z_max": 7.15
+    },
+    {
+      "name": "oak_3",
+      "x_min": 24.85,
+      "x_max": 27.15,
+      "z_min": -5.15,
+      "z_max": -2.85
+    },
+    {
+      "name": "oak_4",
+      "x_min": -41.15,
+      "x_max": -38.85,
+      "z_min": -41.15,
+      "z_max": -38.85
+    },
+    {
+      "name": "oak_5",
+      "x_min": 42.85,
+      "x_max": 45.15,
+      "z_min": -31.15,
+      "z_max": -28.85
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": -8.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -200.0
+      },
+      "note": "Under the oaks, looking down the meadow to the lake (WHi 40628's view)"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -30.0,
+      "z": -10.0,
+      "look_at": {
+        "x": -150.0,
+        "y": 1.5,
+        "z": -80.0
+      },
+      "note": "On the open meadow under the clouds (WHi 40633's view)"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 6.0,
+      "z": -12.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -250.0
+      },
+      "note": "At the top of the bank above the lake"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 25.0,
+      "z": -35.0,
+      "look_at": {
+        "x": -40.0,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "On the slope, looking back up the meadow"
+    }
+  ]
+}

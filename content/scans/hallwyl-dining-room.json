@@ -1,0 +1,354 @@
+{
+  "id": "hallwyl-dining-room",
+  "title": "The Dining Room",
+  "place": "The Dining Room, the Hallwyl Museum, Stockholm, Sweden",
+  "publisher": "The Hallwyl Museum (Hallwylska museet), Swedish National Historical Museums",
+  "sketchfab_url": "https://sketchfab.com/3d-models/the-dining-room-da3e970d523a46e4974b2357b6a9538e",
+  "uid": "da3e970d523a46e4974b2357b6a9538e",
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "credit": "This work is based on \"The Dining Room\" (https://sketchfab.com/3d-models/the-dining-room-da3e970d523a46e4974b2357b6a9538e) by The Hallwyl Museum (Hallwylska museet) (https://sketchfab.com/TheHallwylMuseum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Changes: reoriented and recentred; mesh simplified for the web and recompressed (meshopt); textures resized, colour- and exposure-corrected and recompressed (KTX2); rendered unlit; 4 regions masked with a flat colour (artworks not cleared for copyright, or modern signage).",
+  "credit_source": "Sketchfab Data API https://api.sketchfab.com/v3/models/da3e970d523a46e4974b2357b6a9538e fields name, user.displayName, user.username and license, read 2026-10-13",
+  "changes": "Changes: reoriented and recentred; mesh simplified for the web and recompressed (meshopt); textures resized, colour- and exposure-corrected and recompressed (KTX2); rendered unlit; 4 regions masked with a flat colour (artworks not cleared for copyright, or modern signage).",
+  "label": "3D scan of The Dining Room, the Hallwyl Museum, Stockholm, Sweden (The Hallwyl Museum (Hallwylska museet), CC BY 4.0).",
+  "source_file": "the-dining-room.zip",
+  "source_sha256": "0c6f60f3baa2d8e0795114b750cf53a7fd319c1578b2d84744db40bdfed5b1aa",
+  "source": {
+    "format": "OBJ (RealityCapture)",
+    "textures": 1,
+    "texture_px": 8192,
+    "tris": 999999,
+    "source_tris_capped": true
+  },
+  "transform": {
+    "up": "y",
+    "scale": 0.345622,
+    "scale_note": "RealityCapture units are not metres: the laid dining table (the largest up-facing surface) is 2.17 units high, taken as 0.75 m; the ceiling is then 4.9 m",
+    "floor_y": 0,
+    "levelled_by_deg": 0.467,
+    "ceiling_m": 4.866,
+    "extent_m": [
+      5.765,
+      9.414
+    ],
+    "yaw_deg": 27.413,
+    "walls_off_axis_deg": -0.0,
+    "root_matrix": [
+      0.306805337,
+      0.00262445,
+      -0.159116826,
+      0.0,
+      -0.001858176,
+      0.345610518,
+      0.002117559,
+      0.0,
+      0.15912762,
+      -0.001024274,
+      0.306809254,
+      0.0,
+      0.393685232,
+      -0.38979768,
+      -0.138107326,
+      1.0
+    ]
+  },
+  "colour": {
+    "method": "partial grey-world white balance (strength 0.2) then gamma on sRGB values toward median luminance 0.42 (gamma clamped to [0.75, 1.15])",
+    "gains_rgb": [
+      0.9642,
+      1.0101,
+      1.0225
+    ],
+    "gamma": 0.7972,
+    "median_luminance_before": 0.3369,
+    "median_luminance_after": 0.4199
+  },
+  "bundles": {
+    "desktop": {
+      "file": "scans/hallwyl-dining-room/desktop/room.84f1818d.glb",
+      "bytes": 7631904,
+      "sha256": "84f1818d7ae806f0dbc94d9f709105d4fb25e78e71237ebb470e03e517a7a1cb",
+      "gpu_bytes": 42860857,
+      "gpu_texture_bytes": 22369621,
+      "gpu_geometry_bytes": 20491236,
+      "tris": 999999,
+      "textures": 1,
+      "texture_px": 4096,
+      "texture_format": "KTX2 ETC1S (basisu -q 255, mipmaps, sRGB)",
+      "simplify_ratio": 1.0,
+      "crops_sha256": "531729be4fdd1e0094e34ffc78d7e36177d1ed1b2dfbcaab89de6bf0ec48a0db",
+      "crops_applied": {
+        "hwy-dining-roundel-1": {
+          "faces": 464,
+          "texels": 6167
+        },
+        "hwy-dining-roundel-2": {
+          "faces": 370,
+          "texels": 5965
+        },
+        "hwy-dining-exit-sign": {
+          "faces": 1014,
+          "texels": 7975
+        },
+        "hwy-dining-fire-sign": {
+          "faces": 491,
+          "texels": 4024
+        }
+      }
+    },
+    "phone": {
+      "file": "scans/hallwyl-dining-room/phone/room.f49f711e.glb",
+      "bytes": 3647264,
+      "sha256": "f49f711e5465c89df503fabb6cc9bd32140c1e7bc13cbc4a3ac5cd6009ee4cfc",
+      "gpu_bytes": 12980962,
+      "gpu_texture_bytes": 2796202,
+      "gpu_geometry_bytes": 10184760,
+      "tris": 449993,
+      "textures": 1,
+      "texture_px": 2048,
+      "texture_format": "KTX2 ETC1S (basisu -q 255, mipmaps, sRGB)",
+      "simplify_ratio": 0.45,
+      "crops_sha256": "531729be4fdd1e0094e34ffc78d7e36177d1ed1b2dfbcaab89de6bf0ec48a0db",
+      "crops_applied": {
+        "hwy-dining-roundel-1": {
+          "faces": 464,
+          "texels": 2311
+        },
+        "hwy-dining-roundel-2": {
+          "faces": 370,
+          "texels": 2279
+        },
+        "hwy-dining-exit-sign": {
+          "faces": 1014,
+          "texels": 3822
+        },
+        "hwy-dining-fire-sign": {
+          "faces": 491,
+          "texels": 1889
+        }
+      }
+    }
+  },
+  "preview": {
+    "file": "scans/hallwyl-dining-room/preview/room.f92fed32.glb",
+    "bytes": 369508,
+    "sha256": "f92fed32020b5802d3a550668f48bf6dd6a210a5d0789756709d4d69d623761b",
+    "gpu_bytes": 956454,
+    "tris": 39820,
+    "texture_px": 512,
+    "texture_format": "KTX2 ETC1S (basisu -q 255, mipmaps, sRGB), baked on a new UV atlas (xatlas)",
+    "simplify": "gltfpack -si 0.040000 -se 0.05 on welded positions (from 999999 tris), re-atlased and re-baked",
+    "crops_sha256": "531729be4fdd1e0094e34ffc78d7e36177d1ed1b2dfbcaab89de6bf0ec48a0db"
+  },
+  "occluder": {
+    "file": "scans/hallwyl-dining-room/occluder.c7f2cc5f.glb",
+    "bytes": 60308,
+    "sha256": "c7f2cc5f42c204bc2693345a6ed5fdeb0c5c650885a39b92d7c1da2a93b7b214",
+    "tris": 17620
+  },
+  "budgets": {
+    "phone": 5000000,
+    "desktop": 10000000
+  },
+  "preview_max_bytes": 400000,
+  "downloads": {
+    "phone": 4077080,
+    "desktop": 8061720
+  },
+  "tooling": {
+    "gltfpack": "1.3",
+    "basisu": "2.50.0"
+  },
+  "inventory_reviewed": {
+    "source_sha256": "0c6f60f3baa2d8e0795114b750cf53a7fd319c1578b2d84744db40bdfed5b1aa",
+    "date": "2026-10-13",
+    "count": 11,
+    "artworks_sha256": "c19381f1a8f6cd9d6c0789fabd96d86cf7d57d8dd668f21e230d6bf855b9e632",
+    "evidence": "docs/research/direction/B11-artwork-clearance.md"
+  },
+  "artworks": [
+    {
+      "label": "Diana, painting set into the panelling over the fireplace (HWY XXXII:A.d.03)",
+      "location": "over the marble fireplace",
+      "artist": "Julius Kronberg",
+      "died": 1921,
+      "died_source": "https://www.wikidata.org/wiki/Q1604937",
+      "dated": null,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/505CFE79-F035-428E-8963-687ABF634E5F"
+    },
+    {
+      "label": "Large verdure tapestry over the sideboard (HWY LIX:I:A.01, one of a pair)",
+      "location": "long wall over the sideboard",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1799,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/2C56938F-619C-480E-8575-AB0363C7D909",
+      "note": "French, 18th century (catalogue: 1700-1799); the record also lists Handarbetets vänner, the Stockholm textile association that mounted and extended the pair in the 1890s (see the smaller tapestry)."
+    },
+    {
+      "label": "Smaller verdure tapestry with a woven extension of 1897 (HWY LIX:I:A.01, the other of the pair)",
+      "location": "short wall next to the door with the exit sign",
+      "artist": "Bror Almquist (cartoon for the 1897 extension)",
+      "died": 1940,
+      "died_source": "https://www.wikidata.org/wiki/Q5547516",
+      "dated": 1897,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/AE2F19F8-ECC5-45FF-ACC3-D2543AFD5466",
+      "note": "The tapestry is 18th-century French (record 2C56938F-619C-480E-8575-AB0363C7D909). The museum's 1937 catalogue text on this record says the cartoon for the extension woven in 1897 by Handarbetets vänner was drawn in 1896 by the architect Bror Eduard Almquist in I. G. Clason's office."
+    },
+    {
+      "label": "Panelled interior, coffered ceiling and carved door crests designed by Isak Gustaf Clason (drawings HWY LXIV:III:B.b.b.70, .72)",
+      "location": "walls, doors and ceiling",
+      "artist": "Isak Gustaf Clason",
+      "died": 1930,
+      "died_source": "https://www.wikidata.org/wiki/Q931295",
+      "dated": 1895,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/3C3658D8-9456-434F-9906-480BFAEDC2FF"
+    },
+    {
+      "label": "Carved sideboard (HWY VI:I:A.b.01)",
+      "location": "long wall under the large tapestry",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1620,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/F9C9E5FB-F886-45AD-A01A-1E2D1D3F86BB"
+    },
+    {
+      "label": "Inlaid Renaissance chest (HWY VI:I:F.a.a.03)",
+      "location": "under the windows",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1630,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/E5209679-D5BD-4D33-B93E-B0DE19794A85"
+    },
+    {
+      "label": "Long-case clock (HWY VI:V:B.a.02)",
+      "location": "corner by the windows",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1699,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/FB66751A-8091-4D0F-A51C-85AEF789FAE0"
+    },
+    {
+      "label": "Painted glass roundel in the leaded window (left)",
+      "location": "window bay, second light",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": null,
+      "status": "cropped",
+      "crop": "hwy-dining-roundel-1",
+      "evidence_url": null,
+      "note": "No catalogue record found for the window roundels (searched the museum's collection for glass paintings and window panes); maker and date unknown. Masked."
+    },
+    {
+      "label": "Painted glass roundel in the leaded window (right)",
+      "location": "window bay, third light",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": null,
+      "status": "cropped",
+      "crop": "hwy-dining-roundel-2",
+      "evidence_url": null,
+      "note": "As the left roundel. Masked."
+    },
+    {
+      "label": "Green emergency-exit sign (ISO 7010 running-man pictogram) over the door",
+      "location": "short wall, over the door",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": null,
+      "status": "cropped",
+      "crop": "hwy-dining-exit-sign",
+      "evidence_url": null,
+      "note": "Non-art risk: modern signage with a standard pictogram. Masked."
+    },
+    {
+      "label": "Red fire-safety sign on a pilaster",
+      "location": "pilaster by the double door, about 1 m up",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": null,
+      "status": "cropped",
+      "crop": "hwy-dining-fire-sign",
+      "evidence_url": null,
+      "note": "Non-art risk: modern signage. Masked."
+    }
+  ],
+  "stations": [],
+  "crops": [
+    {
+      "id": "hwy-dining-roundel-1",
+      "label": "window roundel, left",
+      "min": [
+        -3.0626,
+        1.81,
+        0.3012
+      ],
+      "max": [
+        -2.6625,
+        2.21,
+        0.7013
+      ],
+      "rot_y_deg": 27.413015
+    },
+    {
+      "id": "hwy-dining-roundel-2",
+      "label": "window roundel, right",
+      "min": [
+        -3.0776,
+        1.81,
+        -1.009
+      ],
+      "max": [
+        -2.6775,
+        2.21,
+        -0.6089
+      ],
+      "rot_y_deg": 27.413015
+    },
+    {
+      "id": "hwy-dining-exit-sign",
+      "label": "exit sign",
+      "min": [
+        1.6041,
+        1.84,
+        4.4913
+      ],
+      "max": [
+        1.9442,
+        2.08,
+        4.7914
+      ],
+      "rot_y_deg": 27.413015
+    },
+    {
+      "id": "hwy-dining-fire-sign",
+      "label": "fire-safety sign",
+      "min": [
+        -2.5983,
+        0.9,
+        -3.5793
+      ],
+      "max": [
+        -2.3582,
+        1.13,
+        -3.3192
+      ],
+      "rot_y_deg": 27.413015
+    }
+  ]
+}

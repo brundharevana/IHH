@@ -1,0 +1,581 @@
+US1781541A - Refrigeration - Google Patents
+
+US1781541A - Refrigeration - Google Patents
+Refrigeration Download PDF
+Info
+
+Publication number
+
+US1781541A
+US1781541A US240566A US24056627A US1781541A US 1781541 A US1781541 A US 1781541A US 240566 A US240566 A US 240566A US 24056627 A US24056627 A US 24056627A US 1781541 A US1781541 A US 1781541A
+Authority
+
+US
+
+United States
+
+Prior art keywords
+
+conduit
+
+condenser
+
+generator
+
+evaporator
+
+liquid
+
+Prior art date
+
+1926-12-16
+
+Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+
+Expired - Lifetime
+
+Application number
+
+US240566A
+
+Inventor
+
+Einstein Albert
+
+Szilard Leo
+
+Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+
+Electrolux Servel Corp
+
+Original Assignee
+
+Electrolux Servel Corp
+
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+
+1926-12-16
+
+Filing date
+
+1927-12-16
+
+Publication date
+
+1930-11-11
+
+1927-12-16 Application filed by Electrolux Servel Corp filed Critical Electrolux Servel Corp
+
+1930-11-11 Application granted granted Critical
+
+1930-11-11 Publication of US1781541A publication Critical patent/US1781541A/en
+
+1947-11-11 Anticipated expiration legal-status Critical
+
+Status Expired - Lifetime legal-status Critical Current
+
+Links
+
+USPTO
+
+USPTO PatentCenter
+
+USPTO Assignment
+
+Espacenet
+
+Global Dossier
+
+Discuss
+
+238000005057 refrigeration Methods 0.000 title description 3
+
+QGZKDVFQNNGYKY-UHFFFAOYSA-N Ammonia Chemical compound N QGZKDVFQNNGYKY-UHFFFAOYSA-N 0.000 description 37
+
+239000007788 liquid Substances 0.000 description 33
+
+239000011261 inert gas Substances 0.000 description 19
+
+229910021529 ammonia Inorganic materials 0.000 description 15
+
+239000001273 butane Substances 0.000 description 12
+
+IJDNQMDRQITEOD-UHFFFAOYSA-N n-butane Chemical compound CCCC IJDNQMDRQITEOD-UHFFFAOYSA-N 0.000 description 12
+
+OFBQJSOFQDEBGM-UHFFFAOYSA-N n-pentane Natural products CCCCC OFBQJSOFQDEBGM-UHFFFAOYSA-N 0.000 description 12
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N water Substances O XLYOFNOQVPJJNP-UHFFFAOYSA-N 0.000 description 12
+
+238000010521 absorption reaction Methods 0.000 description 10
+
+230000005484 gravity Effects 0.000 description 10
+
+239000003507 refrigerant Substances 0.000 description 7
+
+239000002826 coolant Substances 0.000 description 5
+
+239000008246 gaseous mixture Substances 0.000 description 5
+
+239000000498 cooling water Substances 0.000 description 4
+
+NLXLAEXVIDQMFP-UHFFFAOYSA-N Ammonium chloride Substances [NH4+].[Cl-] NLXLAEXVIDQMFP-UHFFFAOYSA-N 0.000 description 2
+
+VHUUQVKOLVNVRT-UHFFFAOYSA-N Ammonium hydroxide Chemical compound [NH4+].[OH-] VHUUQVKOLVNVRT-UHFFFAOYSA-N 0.000 description 2
+
+235000011114 ammonium hydroxide Nutrition 0.000 description 2
+
+239000003795 chemical substances by application Substances 0.000 description 2
+
+238000001816 cooling Methods 0.000 description 2
+
+239000012530 fluid Substances 0.000 description 2
+
+239000007789 gas Substances 0.000 description 2
+
+235000006545 Ziziphus mauritiana Nutrition 0.000 description 1
+
+240000000038 Ziziphus mauritiana Species 0.000 description 1
+
+230000015572 biosynthetic process Effects 0.000 description 1
+
+238000001704 evaporation Methods 0.000 description 1
+
+238000010438 heat treatment Methods 0.000 description 1
+
+238000000034 method Methods 0.000 description 1
+
+239000000203 mixture Substances 0.000 description 1
+
+238000012986 modification Methods 0.000 description 1
+
+230000004048 modification Effects 0.000 description 1
+
+238000001179 sorption measurement Methods 0.000 description 1
+
+238000013517 stratification Methods 0.000 description 1
+
+Images
+
+Classifications
+
+F—MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING
+
+F25—REFRIGERATION OR COOLING; COMBINED HEATING AND REFRIGERATION SYSTEMS; HEAT PUMP SYSTEMS; MANUFACTURE OR STORAGE OF ICE; LIQUEFACTION SOLIDIFICATION OF GASES
+
+F25B—REFRIGERATION MACHINES, PLANTS OR SYSTEMS; COMBINED HEATING AND REFRIGERATION SYSTEMS; HEAT PUMP SYSTEMS
+
+F25B15/00—Sorption machines, plants or systems, operating continuously, e.g. absorption type
+
+F25B15/10—Sorption machines, plants or systems, operating continuously, e.g. absorption type with inert gas
+
+C—CHEMISTRY; METALLURGY
+
+C09—DYES; PAINTS; POLISHES; NATURAL RESINS; ADHESIVES; COMPOSITIONS NOT OTHERWISE PROVIDED FOR; APPLICATIONS OF MATERIALS NOT OTHERWISE PROVIDED FOR
+
+C09K—MATERIALS FOR MISCELLANEOUS APPLICATIONS, NOT PROVIDED FOR ELSEWHERE
+
+C09K5/00—Heat-transfer, heat-exchange or heat-storage materials, e.g. refrigerants; Materials for the production of heat or cold by chemical reactions other than by combustion
+
+C09K5/02—Materials undergoing a change of physical state when used
+
+C09K5/04—Materials undergoing a change of physical state when used the change of state being from liquid to vapour or vice versa
+
+C09K5/047—Materials undergoing a change of physical state when used the change of state being from liquid to vapour or vice versa for absorption-type refrigeration systems
+
+Y—GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS
+
+Y02—TECHNOLOGIES OR APPLICATIONS FOR MITIGATION OR ADAPTATION AGAINST CLIMATE CHANGE
+
+Y02A—TECHNOLOGIES FOR ADAPTATION TO CLIMATE CHANGE
+
+Y02A30/00—Adapting or protecting infrastructure or their operation
+
+Y02A30/27—Relating to heating, ventilation or air conditioning [HVAC] technologies
+
+Y—GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS
+
+Y02—TECHNOLOGIES OR APPLICATIONS FOR MITIGATION OR ADAPTATION AGAINST CLIMATE CHANGE
+
+Y02B—CLIMATE CHANGE MITIGATION TECHNOLOGIES RELATED TO BUILDINGS, e.g. HOUSING, HOUSE APPLIANCES OR RELATED END-USER APPLICATIONS
+
+Y02B30/00—Energy efficient heating, ventilation or air conditioning [HVAC]
+
+Y02B30/62—Absorption based systems
+
+Y—GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS
+
+Y02—TECHNOLOGIES OR APPLICATIONS FOR MITIGATION OR ADAPTATION AGAINST CLIMATE CHANGE
+
+Y02P—CLIMATE CHANGE MITIGATION TECHNOLOGIES IN THE PRODUCTION OR PROCESSING OF GOODS
+
+Y02P20/00—Technologies relating to chemical industry
+
+Y02P20/10—Process efficiency
+
+Definitions
+
+reference character 1 designates an evaporator, which is ordinarily placed within a chamber to be cooled.
+
+a conduit 5 connects the upper part of evaporator 1 with the more intermediate portion 1 tends within condenser 6 at a level below the point ofcommunication of conduit -5 with the condenser.
+
+a cooling water jacket 12 surrounds the condenser and is adapted for the passage therethrough of water for the purpose of cooling the condenser.
+
+a conduit 27 communicates with the bottom of condenser 6 and with the lower part of a heat exchanger jacket 28.
+
+the upper part of jacket 28 is connected to the lower part of generator 29.
+
+Generator 29 is heated in any suitable manner.
+
+Aconduit 30 communicates with the upper part of generator 29 and extends within evaporator to a point near the I bottom thereof where it terminates in a disupwardly to. within the, upper "part 'of con- Our invention relates to the art of refrig- Application filed December 16, 1927, Serial No. 240,566, and in Germany December 16, 1926.
+
+Conduit 37 passes within cooling water jacket 12 in order that fluid passing through this conduit may be cooled.
+
+a vent condult 34 connects the upper part of container 33 with the upper part of condenser 6.
+
+a suitable refrigerant for instance butane, in liquid form is'contained within evaporator 1.
+
+An inert gas for instance ammonia
+
+the refrigerant evaporates in the evaporator in the presence of the inert gas due to the fact that the partial pressure of the refrigerant is reduced thereby and the resulting gaseous mixture passes through conduit 5 to within condenser 6.
+
+an absorption liquid for example water
+
+the ammonia gas is very soluble in water, while the butane is quite insoluble, the ammonia gas is absorbed by the water, thus freeing the butane from the gaseous mix ture.
+
+the butane assumes substantially the entire pressure within the condenser, which pressure is suflicient to cause its liquefaction at the temperature maintained therein by the cooling water.
+
+the specific gravity of liquid butane is less than that of the solution of ammonia in water and hence stratification of the two, liquids occurs, the liquid butane floating upon the ammonia solution.
+
+the latter solution is indicated by reference character 26.
+
+the liquid butane passes from condenser 6 through conduit 11 and returns toevaporator 1, where it is again evaporated and the cycle repeated.
+
+the ammonia solution flows b gravity from condenser 6 through conduit 2; and heat exchanger jacket 28 to within generator 29.
+
+the application of heat causes the ammonia to be expelled as a gas from the solution and this ammonia gas passes through conduit 30 and distributor head 31 to within evaporator 1, where it reduces the partial pressure of the butane, wherefore the latter evaporates as previously described.
+
+Water containing but little ammonia in solution, passes from generator 29 into conduit.32 where it is further heated by the source of heat 36. This heating causes the formation of vapor in conduit 32 which lifts liquid through this conduit to within container 33.
+
+the liquid thus supplied to container 33 may pass by gravity through conduit 37 to condenser 6.
+
+The'hot'weak liquid passing through conduit 87 is brought into heat exchange relationship with the cool strong liquid passing through heat exchanger jacket 28 and an exchange of heat between the two liquids takes place.
+
+the weak liquid is further cooled by being brought into heat exchange relation with the cooling water in jacket 12 and is hence ina condition to rapidly absorb ammonia in the condenser.
+
+Vapor entering container 33 from conduit- 32 passes therefrom through vent conduit 34 to the condenser.
+
+the pressure existing in the various members is uniform with the exception of slight pressure differences, sufficient to cause flow of.fluids. caused by liquid columns.
+
+the pressure existing in generator 29 must be sufficiently greater than that existing in the upper part of evaporator 1 to cause the flow of vapor to take placefrom distributor head 31, or, in other words, to overcome the liquid head designated by k
+
+This excess pressure in the generator is balanced by the head exerted by the column of liquid equal to the differences in levels between the liquid in condenser 6 and generator 29, indicated by k It is, of course, necessary that the head represented by h is less than that represented by h, in order that flow shall take place
+
+Refrigerating apparatus comprising a generator, a condenser arranged at a higher level than the generator, an evaporator, a.
+
+said generator containing an inert gas dissolved in absorption liquid andadapted to expel the inert gas from solution, a conduit for conducting the inert gas from the generator to the evaporator, a conduit for conducting liquid refrigerant from the condenser to the evaporator, a conduit for conducting mixed vapor of refrigerant and inert gas from the evaporator to the condenser 1n heat exchange relation' with inert gas passing into the evaporator, a, conduit for conductmgnch absorption liquid from thecondenser to the generator by gravity, a congenerator, a condenser arranged at a higher level than the generator, an evaporator, a
+
+said generator containing aninert gas dissolved in absorption liquid and adapted to expel the inert gas from solution, a conduit for conducting the inert gas from the generator to the evaporator, a conduit for conducting liquid refrigerant from the condenser to the evaporator, a conduit for conducting mixed vapor of refrigerant and inert gas from the evaporator to the condenser in heat exchange relation with inert gas passing into the evaporator, a conduit for conducting rich absorption liquid from the condenser to the generator by gravity, a conduit for conducting weak absorption liquid from said container to said condenser by gravity, a conduit extending upwardly from said generator to said container, means to heat the last-mentioned conduitto lift liquid from the generator to the container and a vent conduit connecting the upper part of said container Withsaid condenser.
+
+Refrigerating apparatus comprising a generator, a condenser arranged at a higher level than the generator, an evaporator, a container arranged at a higher level than the condenser, said generator containing ammonia dissolved in water and adapted to expel the ammonia from solution, a conduit for conducting the ammonia gas from the generator to the evaporator, a conduit for conducting liquid butane from the condenser to the evaporator, a conduit for conducting mixed vapor of butane and ammonia from the evaporator to the condenser in heat exchange relation with ammonia gas passing into the evaporator, a conduit for conducting strong solution of ammonia in water from the condenser to the generator by gravity,
+
+conduits for conducting weak solution of ammonia in water from said container to said condenser by gravity a conduit extending upwardly from said generator to said container and means to heat the last-men tioned conduit to lift liquid'from the generator to the container.
+
+Refrigerating apparatus comprising a generator, a condenser arranged at a higher level than the generator, an evaporator, a container arranged at a higher level than the condenser, said generator containing ammonia dissolved in water and adapted to expel the ammonia from solution, a conduit for conducting the ammonia gas from the generator'to the evaporator, a conduit for conducting liquid butane from the condenser to the evaporator,' a conduit for conducting mixed vapor of butane and ammonia from the evaporator to the condenser in heat exchange relation with ammonia gas passing into the evaporator, a conduit for conduct-- ing strong solution of ammonia in water from the condenser to the generator by gravity, a conduit for conducting weak solution of ammonia in water from said container to said 7 condenser by gravity, a conduit extending upwardly from said generator to said container, means to heat the last-mentioned conduit to lift liquid from the generator to the container and a
+
+Method of refrigerating which comprises evaporating a liquidcooling agent in the presence of an inert gas to absorb heat and thus forming a gaseous mixture of cooling agent and inert gas, conveying the gaseous mixture into the presence of an absorption liquid at such condition that the cooling agent condenses on beingdeprived of inert gas in gaseous mixture therewith due'to the introduction of absorption liquid intothe presence of the inert as, separating the solution of inert gas in a sorption medium from the condensed cooling agent, returning the condensed cooling agent to the presence of the inert gas,- separating the inert gas and absorption liquid by heat, circulating the absorption liquid by means of a separate ource of heat to the presence of the gaseous mix- 33 ture of cooling agent and inert gas and returning the inert gas to the presence of the liquid cooling. agent.
+
+Landscapes
+
+Engineering & Computer Science (AREA)
+
+Chemical & Material Sciences (AREA)
+
+Physics & Mathematics (AREA)
+
+Thermal Sciences (AREA)
+
+Chemical Kinetics & Catalysis (AREA)
+
+Combustion & Propulsion (AREA)
+
+Materials Engineering (AREA)
+
+Organic Chemistry (AREA)
+
+Mechanical Engineering (AREA)
+
+General Engineering & Computer Science (AREA)
+
+Sorption Type Refrigeration Machines (AREA)
+
+Description
+
+NOW 1930- AI'EINSTEIN ET AL. ,78 ,541
+
+REFRIGERATION Filed Dec. 16 1927 Patented Nov. 11, 1930 UNITED STATES PATENT OFFICE ALBERT EINSTEIN, OF BERLIN, AND LEO SZILARD, OF BERI IN-WILMERSDORF, GER- MANY, ASSIGNORS TO ELECT-ROLUX SERVEL CORPORATION, OF NEW YORK, N. Y., .A.
+
+REFRIGERATION an inert gas-and more particularly to the type disclosed in Patent No. 1,685,764 granted September 25th, 1928, to Von Platen and Munters and our British Patent No. 282,428.
+
+The objects and advantages of our invention will be apparent from the following description considered in connection with the accompanying drawing which shows, more or less diagrammatically, a preferred embodiment of our invention.
+
+Referring to the drawing. reference character 1 designates an evaporator, which is ordinarily placed within a chamber to be cooled. A conduit 5 connects the upper part of evaporator 1 with the more intermediate portion 1 tends within condenser 6 at a level below the point ofcommunication of conduit -5 with the condenser. A cooling water jacket 12 surrounds the condenser and is adapted for the passage therethrough of water for the purpose of cooling the condenser.
+
+A conduit 27 communicates with the bottom of condenser 6 and with the lower part of a heat exchanger jacket 28. The upper part of jacket 28 is connected to the lower part of generator 29. Generator 29 is heated in any suitable manner. Aconduit 30 communicates with the upper part of generator 29 and extends within evaporator to a point near the I bottom thereof where it terminates in a disupwardly to. within the, upper "part 'of con- Our invention relates to the art of refrig- Application filed December 16, 1927, Serial No. 240,566, and in Germany December 16, 1926.
+
+denser 6 where it terminates in a distributor head 35. Conduit 37 passes within cooling water jacket 12 in order that fluid passing through this conduit may be cooled. A vent condult 34 connects the upper part of container 33 with the upper part of condenser 6.
+
+The operation of the above described apparatus is as follows: r
+
+A suitable refrigerant; for instance butane, in liquid form is'contained within evaporator 1. An inert gas, for instance ammonia, is introduced into evaporator 1 through conduit 30 and distributor head 31. The refrigerant evaporates in the evaporator in the presence of the inert gas due to the fact that the partial pressure of the refrigerant is reduced thereby and the resulting gaseous mixture passes through conduit 5 to within condenser 6. Here the mixture'comes in intimate contact with an absorption liquid, for example water, which is introduced into the condenser through conduit 37 and distributor head 35. Inasmuch as the ammonia gas is very soluble in water, while the butane is quite insoluble, the ammonia gas is absorbed by the water, thus freeing the butane from the gaseous mix ture. Thus the butane assumes substantially the entire pressure within the condenser, which pressure is suflicient to cause its liquefaction at the temperature maintained therein by the cooling water.
+
+The specific gravity of liquid butane is less than that of the solution of ammonia in water and hence stratification of the two, liquids occurs, the liquid butane floating upon the ammonia solution. The latter solution is indicated by reference character 26. The liquid butane passes from condenser 6 through conduit 11 and returns toevaporator 1, where it is again evaporated and the cycle repeated.
+
+The ammonia solution flows b gravity from condenser 6 through conduit 2; and heat exchanger jacket 28 to within generator 29. Here the application of heat causes the ammonia to be expelled as a gas from the solution and this ammonia gas passes through conduit 30 and distributor head 31 to within evaporator 1, where it reduces the partial pressure of the butane, wherefore the latter evaporates as previously described.
+
+Water, containing but little ammonia in solution, passes from generator 29 into conduit.32 where it is further heated by the source of heat 36. This heating causes the formation of vapor in conduit 32 which lifts liquid through this conduit to within container 33. The liquid thus supplied to container 33 may pass by gravity through conduit 37 to condenser 6. The'hot'weak liquid passing through conduit 87 is brought into heat exchange relationship with the cool strong liquid passing through heat exchanger jacket 28 and an exchange of heat between the two liquids takes place. The weak liquid is further cooled by being brought into heat exchange relation with the cooling water in jacket 12 and is hence ina condition to rapidly absorb ammonia in the condenser.
+
+Vapor entering container 33 from conduit- 32 passes therefrom through vent conduit 34 to the condenser.
+
+During the operation of the hereinbefore described apparatus, the pressure existing in the various members is uniform with the exception of slight pressure differences, sufficient to cause flow of.fluids. caused by liquid columns. The pressure existing in generator 29 must be sufficiently greater than that existing in the upper part of evaporator 1 to cause the flow of vapor to take placefrom distributor head 31, or, in other words, to overcome the liquid head designated by k This excess pressure in the generator is balanced by the head exerted by the column of liquid equal to the differences in levels between the liquid in condenser 6 and generator 29, indicated by k It is, of course, necessary that the head represented by h is less than that represented by h, in order that flow shall take place While we have described a preferred embodiment for carrying out our invention, it is to be understood that modifications thereof fall within the scope of the invention,
+
+which is to be limited only by the appended claims viewed in the light of the prior art.
+
+What we claim is: 1. Refrigerating apparatus comprising a generator, a condenser arranged at a higher level than the generator, an evaporator, a.
+
+container arranged at a higher level than the condenser, said generator containing an inert gas dissolved in absorption liquid andadapted to expel the inert gas from solution, a conduit for conducting the inert gas from the generator to the evaporator, a conduit for conducting liquid refrigerant from the condenser to the evaporator, a conduit for conducting mixed vapor of refrigerant and inert gas from the evaporator to the condenser 1n heat exchange relation' with inert gas passing into the evaporator, a, conduit for conductmgnch absorption liquid from thecondenser to the generator by gravity, a congenerator, a condenser arranged at a higher level than the generator, an evaporator, a
+
+container arranged at a higher level than the condenser, said generator containing aninert gas dissolved in absorption liquid and adapted to expel the inert gas from solution, a conduit for conducting the inert gas from the generator to the evaporator, a conduit for conducting liquid refrigerant from the condenser to the evaporator, a conduit for conducting mixed vapor of refrigerant and inert gas from the evaporator to the condenser in heat exchange relation with inert gas passing into the evaporator, a conduit for conducting rich absorption liquid from the condenser to the generator by gravity, a conduit for conducting weak absorption liquid from said container to said condenser by gravity, a conduit extending upwardly from said generator to said container, means to heat the last-mentioned conduitto lift liquid from the generator to the container and a vent conduit connecting the upper part of said container Withsaid condenser.
+
+3. Refrigerating apparatus comprising a generator, a condenser arranged at a higher level than the generator, an evaporator, a container arranged at a higher level than the condenser, said generator containing ammonia dissolved in water and adapted to expel the ammonia from solution, a conduit for conducting the ammonia gas from the generator to the evaporator, a conduit for conducting liquid butane from the condenser to the evaporator, a conduit for conducting mixed vapor of butane and ammonia from the evaporator to the condenser in heat exchange relation with ammonia gas passing into the evaporator, a conduit for conducting strong solution of ammonia in water from the condenser to the generator by gravity,
+
+a conduit for conducting weak solution of ammonia in water from said container to said condenser by gravity, a conduit extending upwardly from said generator to said container and means to heat the last-men tioned conduit to lift liquid'from the generator to the container.
+
+4. Refrigerating apparatus comprising a generator, a condenser arranged at a higher level than the generator, an evaporator, a container arranged at a higher level than the condenser, said generator containing ammonia dissolved in water and adapted to expel the ammonia from solution, a conduit for conducting the ammonia gas from the generator'to the evaporator, a conduit for conducting liquid butane from the condenser to the evaporator,' a conduit for conducting mixed vapor of butane and ammonia from the evaporator to the condenser in heat exchange relation with ammonia gas passing into the evaporator, a conduit for conduct-- ing strong solution of ammonia in water from the condenser to the generator by gravity, a conduit for conducting weak solution of ammonia in water from said container to said 7 condenser by gravity, a conduit extending upwardly from said generator to said container, means to heat the last-mentioned conduit to lift liquid from the generator to the container and a vent conduit connecting the upper part of said container with said condenser. v
+
+5; Method of refrigerating which comprises evaporating a liquidcooling agent in the presence of an inert gas to absorb heat and thus forming a gaseous mixture of cooling agent and inert gas, conveying the gaseous mixture into the presence of an absorption liquid at such condition that the cooling agent condenses on beingdeprived of inert gas in gaseous mixture therewith due'to the introduction of absorption liquid intothe presence of the inert as, separating the solution of inert gas in a sorption medium from the condensed cooling agent, returning the condensed cooling agent to the presence of the inert gas,- separating the inert gas and absorption liquid by heat, circulating the absorption liquid by means of a separate ource of heat to the presence of the gaseous mix- 33 ture of cooling agent and inert gas and returning the inert gas to the presence of the liquid cooling. agent.
+
+In testimony whereof we hereunto aflix our signatures. 40 ALBERT EINSTEIN.
+
+LEO SZILARD.
+
+US240566A 1926-12-16 1927-12-16 Refrigeration Expired - Lifetime US1781541A (en)
+
+Applications Claiming Priority (1)
+
+Application Number Priority Date Filing Date Title
+
+DE1781541X 1926-12-16
+
+Publications (1)
+
+Publication Number Publication Date
+
+US1781541A true US1781541A (en) 1930-11-11
+
+Family
+
+ID=7743032
+
+Family Applications (1)
+
+Application Number Title Priority Date Filing Date
+
+US240566A Expired - Lifetime US1781541A (en) 1926-12-16 1927-12-16 Refrigeration
+
+Country Status (1)
+
+Country Link
+
+US (1) US1781541A (en)
+
+Cited By (22)
+
+* Cited by examiner, † Cited by third party
+
+Publication number Priority date Publication date Assignee Title
+
+US2638760A (en) * 1949-02-07 1953-05-19 Lindley E Mills Method of refrigeration using conjugate solutions
+
+US2963875A (en) * 1953-05-18 1960-12-13 Lindley E Mills Heat pump
+
+FR2519416A1 (en) * 1982-01-07 1983-07-08 Inst Francais Du Petrole PROCESS FOR PRODUCING COLD AND / OR HEAT USING THE CARBON DIOXIDE AND A CONDENSABLE FLUID
+
+US6470686B2 (en) * 1999-08-06 2002-10-29 Tom L. Pierson System for chilling inlet air for gas turbines
+
+US6588219B2 (en) 2001-12-12 2003-07-08 John Zevlakis Commercial ice making apparatus and method
+
+WO2003098129A1 (en) * 2002-05-17 2003-11-27 Hunt Robert D Partial pressure refrigeration/heating cycle
+
+US20040237564A1 (en) * 2001-12-12 2004-12-02 John Zevlakis Liquid milk freeze/thaw apparatus and method
+
+US7343746B2 (en) 1999-08-06 2008-03-18 Tas, Ltd. Method of chilling inlet air for gas turbines
+
+US20080168789A1 (en) * 2003-08-20 2008-07-17 Vital Earth Technologies Pty Limited Method and Apparatus For Condensing Water From Ambient Air
+
+US20100115990A1 (en) * 2006-08-24 2010-05-13 Foerg Wolfgang Method for liquefying a hydrocarbon-rich flow
+
+RU2443948C2 (en) * 2009-12-22 2012-02-27 Общество С Ограниченной Ответственностью "Твинн" Absorption refrigerator
+
+US8591449B2 (en) 2010-10-18 2013-11-26 Dennis Sheanne Hudson Vessel for storing fluid at a constant pressure across a range of internal deformations
+
+EP2767783A1 (en) * 2013-02-15 2014-08-20 ABB Research Ltd. A cooling apparatus
+
+WO2015035519A1 (en) * 2013-09-12 2015-03-19 Solar Snow Corporation Solar cooling system
+
+WO2017129464A2 (en) 2016-01-28 2017-08-03 Cool4Sea Aps Absorption refrigeration and air conditioning devices
+
+US10767561B2 (en) 2014-10-10 2020-09-08 Stellar Energy Americas, Inc. Method and apparatus for cooling the ambient air at the inlet of gas combustion turbine generators
+
+US10808615B2 (en) 2015-09-04 2020-10-20 Stellar Energy Americas, Inc. Modular chiller plant
+
+US10961874B2 (en) 2016-03-06 2021-03-30 Husham Al-Ghizzy Enhanced thermoutilizer
+
+US11255593B2 (en) * 2019-06-19 2022-02-22 Haier Us Appliance Solutions, Inc. Ice making assembly including a sealed system for regulating the temperature of the ice mold
+
+US11737240B1 (en) 2020-09-10 2023-08-22 Hamfop Technologies LLC Heat-activated multiphase fluid-operated pump for electronics waste heat removal
+
+US20240042823A1 (en) * 2022-08-03 2024-02-08 Hamilton Sundstrand Corporation Waste heat utilizing absorption refrigeration system for climate control and/or electric systems cooling
+
+US12359876B1 (en) 2023-03-01 2025-07-15 Government Of The United States As Represented By The Secretary Of The Air Force Ground testable spacecraft heat pipe
+
+1927
+
+1927-12-16 US US240566A patent/US1781541A/en not_active Expired - Lifetime
+
+Cited By (39)
+
+* Cited by examiner, † Cited by third party
+
+Publication number Priority date Publication date Assignee Title
+
+US2638760A (en) * 1949-02-07 1953-05-19 Lindley E Mills Method of refrigeration using conjugate solutions
+
+US2963875A (en) * 1953-05-18 1960-12-13 Lindley E Mills Heat pump
+
+FR2519416A1 (en) * 1982-01-07 1983-07-08 Inst Francais Du Petrole PROCESS FOR PRODUCING COLD AND / OR HEAT USING THE CARBON DIOXIDE AND A CONDENSABLE FLUID
+
+EP0087540A3 (en) * 1982-01-07 1983-11-16 Institut Francais Du Petrole Method of producing cold and/or heat by the use of carbon dioxide and a condensable fluid
+
+US4448031A (en) * 1982-01-07 1984-05-15 Institut Francais Du Petrole Process for cold and/or heat production with use of carbon dioxide and a condensable fluid
+
+US6470686B2 (en) * 1999-08-06 2002-10-29 Tom L. Pierson System for chilling inlet air for gas turbines
+
+USRE44815E1 (en) 1999-08-06 2014-03-25 TAS Energy, Inc. System and method for chilling inlet air for gas turbines
+
+USRE44079E1 (en) 1999-08-06 2013-03-19 Tas, Ltd. Method of chilling inlet air for gas turbines
+
+US7343746B2 (en) 1999-08-06 2008-03-18 Tas, Ltd. Method of chilling inlet air for gas turbines
+
+US20040237564A1 (en) * 2001-12-12 2004-12-02 John Zevlakis Liquid milk freeze/thaw apparatus and method
+
+US7059140B2 (en) 2001-12-12 2006-06-13 John Zevlakis Liquid milk freeze/thaw apparatus and method
+
+US20040003621A1 (en) * 2001-12-12 2004-01-08 John Zevlakis Commercial ice making apparatus and method
+
+US6588219B2 (en) 2001-12-12 2003-07-08 John Zevlakis Commercial ice making apparatus and method
+
+US6920764B2 (en) 2001-12-12 2005-07-26 John Zevlakis Commercial ice making apparatus and method
+
+WO2003098129A1 (en) * 2002-05-17 2003-11-27 Hunt Robert D Partial pressure refrigeration/heating cycle
+
+US20080168789A1 (en) * 2003-08-20 2008-07-17 Vital Earth Technologies Pty Limited Method and Apparatus For Condensing Water From Ambient Air
+
+US20100115990A1 (en) * 2006-08-24 2010-05-13 Foerg Wolfgang Method for liquefying a hydrocarbon-rich flow
+
+RU2443948C2 (en) * 2009-12-22 2012-02-27 Общество С Ограниченной Ответственностью "Твинн" Absorption refrigerator
+
+US8591449B2 (en) 2010-10-18 2013-11-26 Dennis Sheanne Hudson Vessel for storing fluid at a constant pressure across a range of internal deformations
+
+CN103997874B (en) * 2013-02-15 2016-12-07 Abb研究有限公司 Cooling device
+
+EP2767783A1 (en) * 2013-02-15 2014-08-20 ABB Research Ltd. A cooling apparatus
+
+CN103997874A (en) * 2013-02-15 2014-08-20 Abb研究有限公司 A cooling apparatus
+
+US10712056B2 (en) 2013-09-12 2020-07-14 Solar Snow Corporation Solar cooling system
+
+WO2015035519A1 (en) * 2013-09-12 2015-03-19 Solar Snow Corporation Solar cooling system
+
+US10767561B2 (en) 2014-10-10 2020-09-08 Stellar Energy Americas, Inc. Method and apparatus for cooling the ambient air at the inlet of gas combustion turbine generators
+
+US11879391B2 (en) 2014-10-10 2024-01-23 Stellar Energy Americas, Inc. Method and apparatus for cooling the ambient air at the inlet of gas combustion turbine generators
+
+US10808615B2 (en) 2015-09-04 2020-10-20 Stellar Energy Americas, Inc. Modular chiller plant
+
+WO2017129464A2 (en) 2016-01-28 2017-08-03 Cool4Sea Aps Absorption refrigeration and air conditioning devices
+
+US11236931B2 (en) 2016-01-28 2022-02-01 Cool4Sea Aps Absorption refrigeration and air conditioning devices
+
+US11828201B2 (en) 2016-03-06 2023-11-28 Husham Al-Ghizzy Enhanced thermoutilizer
+
+US10961874B2 (en) 2016-03-06 2021-03-30 Husham Al-Ghizzy Enhanced thermoutilizer
+
+US11255593B2 (en) * 2019-06-19 2022-02-22 Haier Us Appliance Solutions, Inc. Ice making assembly including a sealed system for regulating the temperature of the ice mold
+
+US11737240B1 (en) 2020-09-10 2023-08-22 Hamfop Technologies LLC Heat-activated multiphase fluid-operated pump for electronics waste heat removal
+
+US11874022B1 (en) 2020-09-10 2024-01-16 Hamfop Technologies LLC Heat-activated multiphase fluid-operated pump for geothermal temperature control of structures
+
+US11898578B1 (en) 2020-09-10 2024-02-13 Hamfop Technologies LLC Heat-activated multiphase fluid-operated pump
+
+US11990598B1 (en) 2020-09-10 2024-05-21 Hamfop Technologies LLC Heat activated multiphase fluid-operated pump for battery temperature control
+
+US12142749B1 (en) * 2020-09-10 2024-11-12 Hamfop Technologies LLC Heat activated multiphase fluid-operated pump for motor temperature control
+
+US20240042823A1 (en) * 2022-08-03 2024-02-08 Hamilton Sundstrand Corporation Waste heat utilizing absorption refrigeration system for climate control and/or electric systems cooling
+
+US12359876B1 (en) 2023-03-01 2025-07-15 Government Of The United States As Represented By The Secretary Of The Air Force Ground testable spacecraft heat pipe
+
+Similar Documents
+
+Publication Publication Date Title
+
+US1882258A (en) 1932-10-11 Means and method of refrigeration
+
+US2248178A (en) 1941-07-08 Refrigeration
+
+US2283213A (en) 1942-05-19 Refrigerating system
+
+US2284691A (en) 1942-06-02 Refrigeration
+
+US1678277A (en) 1928-07-24 Refrigeration
+
+US2238138A (en) 1941-04-15 Refrigeration
+
+US2298029A (en) 1942-10-06 Refrigeration
+
+US2203074A (en) 1940-06-04 Refrigeration
+
+US1738720A (en) 1929-12-10 Refrigeration
+
+US1960821A (en) 1934-05-29 Refrigeration
+
+US1757254A (en) 1930-05-06 Refrigeration
+
+US2321113A (en) 1943-06-08 Refrigeration
+
+US2357612A (en) 1944-09-05 Refrigeration
+
+US2321060A (en) 1943-06-08 Refrigeration
+
+US1996094A (en) 1935-04-02 Absorption refrigerating apparatus and method
+
+US2192338A (en) 1940-03-05 Refrigeration
+
+US2063292A (en) 1936-12-08 Refrigeration
+
+US2715819A (en) 1955-08-23 Absorption refrigeration
+
+US1709588A (en) 1929-04-16 Refrigeration
+
+GB317052A (en) 1930-11-06 Improvements in or relating to absorption machines for refrigerating or heating
+
+US1949651A (en) 1934-03-06 Absorption refrigerating system
+
+USRE20978E (en) 1939-01-10 Refrigeration
+
+US2251314A (en) 1941-08-05 Refrigeration
+
+US2291695A (en) 1942-08-04 Refrigeration
+
+US2465939A (en) 1949-03-29 Refrigeration

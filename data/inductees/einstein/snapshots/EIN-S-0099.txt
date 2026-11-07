@@ -1,0 +1,43 @@
+Title: Bookcases
+URL: https://albert.ias.edu/entities/archivalmaterial/f85299a4-7b9a-431c-81d1-22360ba48d43
+Source element: <main>
+---
+Statistics
+Show all metadata
+Bookcases
+Jack Burnett, photographer
+URL
+https://albert.ias.edu/20.500.12111/9522
+Contributor
+Jack Burnett, photographer
+Subject
+Einstein, Albert, 1879-1955
+Date
+1969
+Type
+Image
+Repository
+Shelby White and Leon Levy Archives Center, Institute for Advanced Study, Princeton, NJ, USA
+Collection
+Jack Burnett photographs of the Albert Einstein residence
+Rights
+Permission to use this image must be requested from the Institute's Archives. Please contact archives@ias.edu.
+Description
+Jack Burnett's photographs document the interior of Albert Einstein's former residence at 112 Mercer Street in Princeton, New Jersey. The photographs were taken in 1969 at the behest of Otto Nathan, the co-trustee with Helen Dukas of Einstein's literary estate.
+File(s)
+ View/Download
+Name
+
+swllacd_00147_1fbdde94c5d8906d25445b8cb49b68ed_007_albert.jpg
+
+Size
+
+1.03 MB
+
+Format
+
+JPEG
+
+Checksum (MD5)
+
+330e225de09dd07238d10a8ac4462624

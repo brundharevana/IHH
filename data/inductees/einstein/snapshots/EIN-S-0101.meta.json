@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn86063730/1933-10-17/ed-1/?sp=1&st=text",
+  "fetch_url": "https://www.loc.gov/resource/sn86063730/1933-10-17/ed-1/?sp=1&st=text&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-15T04:05:41Z",
+  "sha256": "e4f8c22ea002123008122e40d04d533eebcbcde11969da8fbc24b7b4e67d17df",
+  "bytes": 42338,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn86063730/1933-10-17/ed-1/?sp=1&st=text&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_ferguson_ver01/data/sn86063730/00340587741/1933101701/0286.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/txdn/batch_txdn_ferguson_ver01/data/sn86063730/00340587741/1933101701/0286.xml"
+}

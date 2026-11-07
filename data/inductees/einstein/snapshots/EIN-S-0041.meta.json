@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/305247",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=305247",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:20:16Z",
+  "sha256": "bad0fcba9a627ceedf6b510fdd6ae6ddf42d8b6e86b3bcecd15de49b102fd925",
+  "bytes": 4712,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=305247"
+}

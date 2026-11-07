@@ -1,0 +1,236 @@
+_version_: 1755856085103673344
+access_restricted: false
+aka[0]: http://www.loc.gov/pictures/collection/hec/item/2016885960/
+aka[1]: http://www.loc.gov/item/2016885960/
+aka[2]: http://www.loc.gov/pictures/item/2016885960/
+aka[3]: https://hdl.loc.gov/loc.pnp/hec.31011
+aka[4]: http://www.loc.gov/resource/hec.31011/
+aka[5]: http://lccn.loc.gov/2016885960
+call_number: LC-H27- A-2847 [P&P]
+contributor_names[0]: Harris & Ewing, photographer
+contributors[0].harris & ewing: https://www.loc.gov/search/?fa=contributor:harris+%26+ewing&fo=json
+created: 2018-01-17T21:01:18Z
+created_published[0]: [between 1921 and 1923]
+created_published_date: [between 1921 and 1923]
+date: 1921-01-01
+dates[0].1921: https://www.loc.gov/search/?dates=1921/1921&fo=json
+description[0]: 1 negative : glass ; 5 x 7 in. or smaller
+digital_id[0]: hec 31011 //hdl.loc.gov/loc.pnp/hec.31011
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-09-01T22:38:42.731Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/hec/item/2016885960/#hec
+extract_urls[1]: http://lccn.loc.gov/2016885960#catalog-split-13
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Glass negatives.
+genre[0]: Glass negatives
+group[0]: hec
+group[1]: catalog-split-13
+group[2]: catalog
+group[3]: harris-ewing
+group[4]: main-catalog-split-13
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2016885960/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011_150px.jpg#h=111&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011t.gif#h=111&w=150
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011r.jpg#h=476&w=640
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011v.jpg#h=761&w=1024
+index: 1
+item.call_number: LC-H27- A-2847 [P&P]
+item.contributors[0]: Harris & Ewing, photographer.
+item.control_number: 2016885960
+item.created: 2018-01-17T21:01:18Z
+item.created_published: [between 1921 and 1923]
+item.created_published_date: [between 1921 and 1923]
+item.creators[0].link: //www.loc.gov/pictures/related/?fi=name&q=Harris%20%26%20Ewing&co=hec
+item.creators[0].role: photographer
+item.creators[0].title: Harris & Ewing
+item.date: [between 1921 and 1923]
+item.digital_id[0]: hec 31011 //hdl.loc.gov/loc.pnp/hec.31011
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: //www.loc.gov/pictures/related/?fi=format&q=Glass%20negatives.&co=hec
+item.formats[0].title: Glass negatives.
+item.genre[0]: Glass negatives
+item.id: 2016885960
+item.language[0]: eng
+item.link: //www.loc.gov/pictures/item/2016885960/
+item.marc: //www.loc.gov/pictures/item/2016885960/marc/
+item.medium[0]: 1 negative : glass ; 5 x 7 in. or smaller
+item.medium_brief: 1 negative :
+item.mediums[0]: 1 negative : glass ; 5 x 7 in. or smaller
+item.modified: 2018-01-17T21:01:18Z
+item.notes[0]: Title devised by Library staff.
+item.notes[1]: Date based on date of negatives in same range.
+item.notes[2]: Gift; Harris & Ewing, Inc. 1955.
+item.notes[3]: General information about the Harris & Ewing Collection is available at http://hdl.loc.gov/loc.pnp/pp.hec
+item.notes[4]: Temp. note: Batch seven.
+item.number_former_id[0]: https://www.loc.gov/item/2016885960
+item.number_former_id[1]: https://www.loc.gov/item/hec2013001571
+item.other_control_numbers[0]: 20273015
+item.other_control_numbers[1]: hec2013001571
+item.part_of: Harris & Ewing photograph collection
+item.place[0].link: //www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=hec
+item.place[0].title: District of Columbia--Washington (D.C.)
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-hec-31011 (digital file from original negative)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/hec.31011
+item.rights_advisory: No known restrictions on publication. For more information, see Harris & Ewing Photographs - Rights and Restrictions Information https://www.loc.gov/rr/print/res/140_harr.html
+item.rights_information: No known restrictions on publication. For more information, see Harris & Ewing Photographs - Rights and Restrictions Information https://www.loc.gov/rr/print/res/140_harr.html
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011r.jpg
+item.sort_date: 1921
+item.source_collection[0]: Harris & Ewing photograph collection
+item.source_created: 2013-04-04T00:00:00Z
+item.source_modified: 2018-01-10T16:34:17Z
+item.subject_headings[0]: United States--District of Columbia--Washington (D.C.)
+item.subject_headings[1]: District Of Columbia--Washington (D.C.)
+item.subjects[0]: United States--District of Columbia--Washington (D.C.)
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011_150px.jpg
+item.title: [Albert Einstein with wife Elsa; State, War, and Navy building in background. Washington, D.C.]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2016885960
+link: //www.loc.gov/pictures/item/2016885960/
+location[0]: united states
+location[1]: washington d.c.
+location[2]: district of columbia
+location[3]: washington (d.c.)
+location_city[0]: washington (d.c.)
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington (d.c.): https://www.loc.gov/search/?fa=location:washington+%28d.c.%29&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington (d.c.): https://www.loc.gov/search/?fa=location_city:washington+%28d.c.%29&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+marc: //www.loc.gov/pictures/item/2016885960/marc/
+medium[0]: 1 negative : glass ; 5 x 7 in. or smaller
+medium_brief: 1 negative :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2018-01-17T21:01:18Z
+notes[0]: Title devised by Library staff.
+notes[1]: Date based on date of negatives in same range.
+notes[2]: Gift; Harris & Ewing, Inc. 1955.
+notes[3]: General information about the Harris & Ewing Collection is available at http://hdl.loc.gov/loc.pnp/pp.hec
+notes[4]: Temp. note: Batch seven.
+number[0]: 2016885960
+number[1]: http://www.loc.gov/item/2016885960
+number[2]: http://www.loc.gov/item/20273015
+number[3]: 2018-01-10t16:34:17
+number[4]: http://www.loc.gov/item/hec2013001571
+number_former_id[0]: http://www.loc.gov/item/20273015
+number_former_id[1]: http://www.loc.gov/item/hec2013001571
+number_former_id[2]: http://www.loc.gov/item/2016885960
+number_lccn[0]: 2016885960
+number_source_modified[0]: 2018-01-10t16:34:17
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 20273015
+other_control_numbers[1]: hec2013001571
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2016885960/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2016885960/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2016885960/dc
+partof[0].count: 41544
+partof[0].title: harris & ewing collection
+partof[0].url: https://www.loc.gov/collections/harris-ewing/?fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161938
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909372
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: //www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=hec
+place[0].title: District of Columbia--Washington (D.C.)
+related.neighbors: //www.loc.gov/pictures/related/?&co=hec&pk=2016885960&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-hec-31011 (digital file from original negative)
+resource_links[0]: //hdl.loc.gov/loc.pnp/hec.31011
+resources[0].caption: digital file from original negative
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011_150px.jpg
+resources[0].url: https://www.loc.gov/resource/hec.31011/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Harris & Ewing Photographs - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication. For more information, see Harris & Ewing Photographs - Rights and Restrictions Information https://www.loc.gov/rr/print/res/140_harr.html
+rights_information: No known restrictions on publication. For more information, see Harris & Ewing Photographs - Rights and Restrictions Information https://www.loc.gov/rr/print/res/140_harr.html
+score: 19.460701
+shard: 00
+shelf_id: LC-H27- A-2847 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1921
+source_collection: Harris & Ewing photograph collection
+source_created: 2013-04-04T00:00:00Z
+source_modified: 2018-01-10T16:34:17Z
+subject[0]: united states
+subject[1]: glass negatives
+subject[2]: district of columbia
+subject[3]: washington (d.c.)
+subject_headings[0]: United States--District of Columbia--Washington (D.C.)
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].glass negatives: https://www.loc.gov/search/?fa=subject:glass+negatives&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011_150px.jpg
+timestamp: 2023-01-23T23:00:51.513Z
+title: [Albert Einstein with wife Elsa; State, War, and Navy building in background. Washington, D.C.]
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/2016885960/
+resources[0].caption: digital file from original negative
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 18110282
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/hec/31000/31011u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 0
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/tiff
+resources[0].files[0][1].size: 144646664
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/master/pnp/hec/31000/31011a.tif
+resources[0].files[0][1].width: 0
+resources[0].files[0][2].height: 111
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].size: 5546
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011_150px.jpg
+resources[0].files[0][2].width: 150
+resources[0].files[0][3].height: 111
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/gif
+resources[0].files[0][3].size: 12205
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011t.gif
+resources[0].files[0][3].width: 150
+resources[0].files[0][4].height: 476
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 40505
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011r.jpg
+resources[0].files[0][4].width: 640
+resources[0].files[0][5].height: 761
+resources[0].files[0][5].levels: 1
+resources[0].files[0][5].mimetype: image/jpeg
+resources[0].files[0][5].size: 262642
+resources[0].files[0][5].url: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011v.jpg
+resources[0].files[0][5].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011_150px.jpg
+resources[0].url: https://www.loc.gov/resource/hec.31011/
+cite_this.apa: Harris & Ewing, photographer. () Albert Einstein with wife Elsa; State, War, and Navy building in background. Washington, D.C. United States Washington D.C. District of Columbia Washington D.C,. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2016885960/.
+cite_this.chicago: Harris & Ewing, photographer. Albert Einstein with wife Elsa; State, War, and Navy building in background. Washington, D.C. United States Washington D.C. District of Columbia Washington D.C,. Photograph. https://www.loc.gov/item/2016885960/.
+cite_this.mla: Harris & Ewing, photographer. Albert Einstein with wife Elsa; State, War, and Navy building in background. Washington, D.C. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2016885960/>.

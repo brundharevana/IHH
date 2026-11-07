@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:John_Muir_at_Merced_River.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:John_Muir_at_Merced_River.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:51Z",
+  "sha256": "adbfbe8d78346d3cf6bc8bb0e01e49ed019953e4c4696ba3ead5912754471cdd",
+  "bytes": 641,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:John_Muir_at_Merced_River.jpg&format=json"
+}

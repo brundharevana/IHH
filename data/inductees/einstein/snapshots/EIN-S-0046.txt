@@ -1,0 +1,90 @@
+title: Letter of Albert Einstein to the Lieutenant Stephen Brunauer, U.S. Navy Bureau of Ordnance
+scopeAndContentNote: In this letter, Albert Einstein gives his opinion on the best localization for installation of the torpedo explosion.
+levelOfDescription: item
+recordType: description
+subjects[0].heading: Letters (Correspondence)
+subjects[0].authorityType: specificRecordsType
+subjects[0].naId: 10629351
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-3510
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Textual Reference
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-1752
+physicalOccurrences[0].referenceUnits[0].email: Archives2reference@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].physicalRestrictionNote: This item is specially protected and is not available to researchers.
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].mediaOccurrences[0].containerId: Box 1
+physicalOccurrences[0].copyStatus: Preservation
+accessRestriction.note: The classification of this letter was cancelled by Department of the Navy, Naval Sea Systems Command, SEA-09B2, October, 28, 1985.
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Textual Reference
+dataControlGroup.groupId: RRAR
+dataControlGroup.groupCd: RRAR
+generalRecordsTypes[0]: Textual Records
+productionDates[0].month: 8
+productionDates[0].year: 1943
+productionDates[0].day: 22
+productionDates[0].logicalDate: 1943-08-22
+variantControlNumbers[0].number: A2 Vault Holdings - Albert Einstein Letters
+variantControlNumbers[0].type: Search Identifier
+variantControlNumbers[1].number: NWCTM-74-EINSTEINLTRS-6
+variantControlNumbers[1].type: NAIL Control Number
+variantControlNumbers[2].number: NWDT2-74-EINSTEINLTRS-6
+variantControlNumbers[2].type: NAIL Control Number
+variantControlNumbers[3].number: HD1-98991442
+variantControlNumbers[3].type: HMS Record Entry ID
+contributors[0].heading: Einstein, Albert, 1879-1955
+contributors[0].deathDate.year: 1955
+contributors[0].deathDate.logicalDate: 1955-12-31
+contributors[0].contributorType: Correspondent
+contributors[0].authorityType: person
+contributors[0].birthDate.year: 1879
+contributors[0].birthDate.logicalDate: 1879-01-01
+contributors[0].naId: 10582637
+digitalObjects[0].objectFilename: hd1-98991442-2012-001-pr.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialive/52/3052/305252/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991442-2012-001-pr.jpg
+digitalObjects[0].objectFileSize: 1018628
+digitalObjects[0].objectDesignator: 1
+digitalObjects[0].objectId: 15026933
+digitalObjects[0].objectType: Image (JPG)
+digitalObjects[1].objectFilename: hd1-98991442-2012-002-pr.jpg
+digitalObjects[1].objectUrl: https://catalog.archives.gov/medialive/52/3052/305252/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991442-2012-002-pr.jpg
+digitalObjects[1].objectFileSize: 962399
+digitalObjects[1].objectDesignator: 2
+digitalObjects[1].objectId: 15026934
+digitalObjects[1].objectType: Image (JPG)
+ancestors[0].inclusiveStartDate.year: 1818
+ancestors[0].inclusiveStartDate.logicalDate: 1818-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 74
+ancestors[0].inclusiveEndDate.year: 1967
+ancestors[0].inclusiveEndDate.logicalDate: 1967-12-31
+ancestors[0].title: Records of the Bureau of Ordnance
+ancestors[0].naId: 403
+ancestors[1].inclusiveStartDate.month: 5
+ancestors[1].inclusiveStartDate.year: 1943
+ancestors[1].inclusiveStartDate.day: 17
+ancestors[1].inclusiveStartDate.logicalDate: 1943-05-17
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of the Navy. Bureau of Ordnance. Division of Research and Development. (1862 - 1959)
+ancestors[1].creators[0].abolishDate.year: 1959
+ancestors[1].creators[0].abolishDate.logicalDate: 1959-12-31
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 1862
+ancestors[1].creators[0].establishDate.logicalDate: 1862-01-01
+ancestors[1].creators[0].naId: 10468183
+ancestors[1].inclusiveEndDate.month: 10
+ancestors[1].inclusiveEndDate.year: 1944
+ancestors[1].inclusiveEndDate.day: 15
+ancestors[1].inclusiveEndDate.logicalDate: 1944-10-15
+ancestors[1].title: Letters Received from Albert Einstein
+ancestors[1].naId: 305246
+naId: 305252

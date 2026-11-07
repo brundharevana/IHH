@@ -1,0 +1,74 @@
+{
+  "$comment": "Walkable bounds for free roam in naismith-hall-of-fame.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 30.0,
+  "walkable": {
+    "x_min": -40.0,
+    "x_max": 40.0,
+    "z_min": -35.6,
+    "z_max": 5.0
+  },
+  "obstacles": [
+    {
+      "name": "tower",
+      "x_min": -10.65,
+      "x_max": -7.35,
+      "z_min": -31.65,
+      "z_max": -28.35
+    },
+    {
+      "name": "trees_row",
+      "x_min": -41.15,
+      "x_max": -7.85,
+      "z_min": -43.65,
+      "z_max": -38.85
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": -0.2,
+      "z": -5.0,
+      "look_at": {
+        "x": -9.0,
+        "y": 1.5,
+        "z": -30.0
+      },
+      "note": "On the lawn, where the 2019 photographs were taken"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -6.0,
+      "z": -26.0,
+      "look_at": {
+        "x": -9.0,
+        "y": 1.5,
+        "z": -30.0
+      },
+      "note": "At the foot of the tower"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 6.0,
+      "z": -31.0,
+      "look_at": {
+        "x": -9.0,
+        "y": 1.5,
+        "z": -30.0
+      },
+      "note": "On the brick path"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -20.0,
+      "z": -20.0,
+      "look_at": {
+        "x": -9.0,
+        "y": 1.5,
+        "z": -30.0
+      },
+      "note": "On the lawn at the left"
+    }
+  ]
+}

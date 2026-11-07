@@ -1,0 +1,970 @@
+_version_: 1818548131575365632
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn85009852/1942-09-04/ed-1/
+aka[1]: http://www.loc.gov/resource/sn85009852/1942-09-04/ed-1/
+batch[0]: ct_carpsurprise_ver01
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/connecticut/
+composite_location[2]: 2/united states/connecticut/hartford/
+composite_location[3]: 3/united states/connecticut/hartford/new britain/
+contributor_names[0]: Connecticut State Library, Hartford, CT
+contributors[0].connecticut state library, hartford, ct: https://www.loc.gov/search/?fa=contributor:connecticut+state+library,+hartford,+ct&fo=json
+created_published[0]: East Hartford, Conn., September 4, 1942
+date: 1942-09-04
+date_issued: 1942-09-04
+dates[0].1942-09-04: https://www.loc.gov/search/?dates=1942-09-04/1942-09-04&fo=json
+dates_of_publication: 1942-current
+description[0]: East Hartford, Conn.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2024-12-15T22:25:10.856Z
+extract_urls[0]: file:/service/ndnp//ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174749/1942090401/1942090401_1.xml#ndnp/ct
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ct
+group[1]: connecticut-state-library-hartford-ct-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn85009852/1942-09-04/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174749:1942090401:0403/full/pct:3.125/0/default.jpg#h=299&w=208
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174749:1942090401:0403/full/pct:6.25/0/default.jpg#h=599&w=416
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174749:1942090401:0403/full/pct:12.5/0/default.jpg#h=1198&w=833
+index: 1
+item.batch[0]: ct_carpsurprise_ver01
+item.contributor_names[0]: Connecticut State Library, Hartford, CT
+item.created_published[0]: East Hartford, Conn., September 4, 1942
+item.date: 1942
+item.date_issued: 1942-09-04
+item.dates[0]: 1942-09-04
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn85009852
+item.location[0]: East Hartford (Conn.)
+item.location[1]: Glastonbury (Conn.)
+item.location[2]: South Windsor (Conn.)
+item.location[3]: East Windsor (Conn.)
+item.location[4]: Connecticut--East Hartford
+item.location[5]: Connecticut--East Windsor
+item.location[6]: Connecticut--Glastonbury
+item.location[7]: Connecticut--South Windsor
+item.medium: 12 pages
+item.newspaper_title[0]: The East Hartford gazette
+item.notes[0]: Weekly
+item.notes[1]: 57th year, no. 49 (Aug. 28, 1942)-73rd year, no. 43 (Nov. 21, 1957) ; Nov. 28, 1957-v. 96, no. 8 (Feb. 27, 1980) ; 96th year, no. 10 (Mar. 5, 1980)-100th year, no. 25 (June 20, 1984) ; v. 99, no. 26 (June 28, 1984)-
+item.notes[2]: Issues for Dec. 19, 1963-July 6, 1967 called also: 79th year-83rd year. Issues for Jan. 9, 1975-Feb. 20, 1980 lack volume numbering.
+item.notes[3]: Available on microfilm from Connecticut State Library, Hartford, Conn.
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174749/1942090401/1942090401_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn85009852/marcxml
+item.place_of_publication: East Hartford, Conn.
+item.raw_lccn: sn 85009852
+item.reel_numbers[0]: 00517174749
+item.source_group: ndnp/ct
+item.subjects[0]: East Hartford (Conn.)--Newspapers
+item.subjects[1]: Glastonbury (Conn.)--Newspapers
+item.subjects[2]: South Windsor (Conn.)--Newspapers
+item.subjects[3]: East Windsor (Conn.)--Newspapers
+item.subjects[4]: Connecticut--East Hartford.--https://id.oclc.org/worldcat/entity/E39PBJpjj38c94hmDm3BxkYkjC
+item.subjects[5]: Connecticut--East Windsor.--https://id.oclc.org/worldcat/entity/E39QbtfRqr6QXBFkKvtP4WjrCp
+item.subjects[6]: Connecticut--Glastonbury
+item.subjects[7]: Connecticut--South Windsor.--https://id.oclc.org/worldcat/entity/E39PBJvCJHWFvmbCmpRmtfyGHC
+item.subjects[8]: United States--Connecticut--Hartford--New Britain
+item.title: The East Hartford gazette (East Hartford, Conn.), September 4, 1942
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn85009852
+location[0]: united states
+location[1]: connecticut
+location[2]: east windsor
+location[3]: south windsor
+location[4]: east hartford
+location[5]: glastonbury
+location[6]: new britain
+location[7]: hartford
+location_city[0]: new britain
+location_country[0]: united states
+location_county[0]: hartford
+location_state[0]: connecticut
+locations[0].connecticut: https://www.loc.gov/search/?fa=location:connecticut&fo=json
+locations[1].east hartford: https://www.loc.gov/search/?fa=location:east+hartford&fo=json
+locations[2].east windsor: https://www.loc.gov/search/?fa=location:east+windsor&fo=json
+locations[3].glastonbury: https://www.loc.gov/search/?fa=location:glastonbury&fo=json
+locations[4].hartford: https://www.loc.gov/search/?fa=location:hartford&fo=json
+locations[5].new britain: https://www.loc.gov/search/?fa=location:new+britain&fo=json
+locations[6].south windsor: https://www.loc.gov/search/?fa=location:south+windsor&fo=json
+locations[7].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].new britain: https://www.loc.gov/search/?fa=location_city:new+britain&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].hartford: https://www.loc.gov/search/?fa=location_county:hartford&fo=json
+locations_state[0].connecticut: https://www.loc.gov/search/?fa=location_state:connecticut&fo=json
+medium: 12 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The East Hartford gazette
+notes[0]: Weekly
+notes[1]: 57th year, no. 49 (Aug. 28, 1942)-73rd year, no. 43 (Nov. 21, 1957) ; Nov. 28, 1957-v. 96, no. 8 (Feb. 27, 1980) ; 96th year, no. 10 (Mar. 5, 1980)-100th year, no. 25 (June 20, 1984) ; v. 99, no. 26 (June 28, 1984)-
+notes[2]: Issues for Dec. 19, 1963-July 6, 1967 called also: 79th year-83rd year. Issues for Jan. 9, 1975-Feb. 20, 1980 lack volume numbering.
+notes[3]: Available on microfilm from Connecticut State Library, Hartford, Conn.
+number[0]: sn85009852
+number[1]: 1
+number[2]: 00517174749
+number_edition[0]: 1
+number_lccn[0]: sn85009852
+number_reel[0]: 00517174749
+numeric_shelf_id: 194209041
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174749/1942090401/1942090401_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn85009852/marcxml
+partof[0].count: 1108
+partof[0].title: the east hartford gazette (east hartford, conn.) 1942-current
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+east+hartford+gazette+%28east+hartford,+conn.%29+1942-current&fo=json
+partof[1].count: 3210965
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232477
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the east hartford gazette (east hartford, conn.) 1942-current
+place_of_publication: East Hartford, Conn.
+publication_frequency[0]: weekly
+raw_lccn: sn 85009852
+reel_numbers[0]: 00517174749
+resources[0].files: 12
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174749:1942090401:0403/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn85009852/1942-09-04/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.36658
+shard: 07
+shelf_id: sn85009852, 1942-09-04, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ct
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: glastonbury (conn.)
+subject[1]: east windsor (conn.)
+subject[2]: connecticut
+subject[3]: https://id.oclc.org/worldcat/entity/e39pbjpjj38c94hmdm3bxkykjc
+subject[4]: east windsor
+subject[5]: united states
+subject[6]: newspapers
+subject[7]: south windsor
+subject[8]: east hartford
+subject[9]: south windsor (conn.)
+subject[10]: https://id.oclc.org/worldcat/entity/e39qbtfrqr6qxbfkkvtp4wjrcp
+subject[11]: glastonbury
+subject[12]: https://id.oclc.org/worldcat/entity/e39pbjvcjhwfvmbcmprmtfyghc
+subject[13]: new britain
+subject[14]: east hartford (conn.)
+subject[15]: hartford
+subject_headings[0]: East Hartford (Conn.)--Newspapers
+subject_headings[1]: Glastonbury (Conn.)--Newspapers
+subject_headings[2]: South Windsor (Conn.)--Newspapers
+subject_headings[3]: East Windsor (Conn.)--Newspapers
+subject_headings[4]: Connecticut--East Hartford.--https://id.oclc.org/worldcat/entity/E39PBJpjj38c94hmDm3BxkYkjC
+subject_headings[5]: Connecticut--East Windsor.--https://id.oclc.org/worldcat/entity/E39QbtfRqr6QXBFkKvtP4WjrCp
+subject_headings[6]: Connecticut--Glastonbury
+subject_headings[7]: Connecticut--South Windsor.--https://id.oclc.org/worldcat/entity/E39PBJvCJHWFvmbCmpRmtfyGHC
+subject_headings[8]: United States--Connecticut--Hartford--New Britain
+subjects[0].connecticut: https://www.loc.gov/search/?fa=subject:connecticut&fo=json
+subjects[1].east hartford: https://www.loc.gov/search/?fa=subject:east+hartford&fo=json
+subjects[2].east hartford (conn.): https://www.loc.gov/search/?fa=subject:east+hartford+%28conn.%29&fo=json
+subjects[3].east windsor: https://www.loc.gov/search/?fa=subject:east+windsor&fo=json
+subjects[4].east windsor (conn.): https://www.loc.gov/search/?fa=subject:east+windsor+%28conn.%29&fo=json
+subjects[5].glastonbury: https://www.loc.gov/search/?fa=subject:glastonbury&fo=json
+subjects[6].glastonbury (conn.): https://www.loc.gov/search/?fa=subject:glastonbury+%28conn.%29&fo=json
+subjects[7].hartford: https://www.loc.gov/search/?fa=subject:hartford&fo=json
+subjects[8].https://id.oclc.org/worldcat/entity/e39pbjpjj38c94hmdm3bxkykjc: https://www.loc.gov/search/?fa=subject:https://id.oclc.org/worldcat/entity/e39pbjpjj38c94hmdm3bxkykjc&fo=json
+subjects[9].https://id.oclc.org/worldcat/entity/e39pbjvcjhwfvmbcmprmtfyghc: https://www.loc.gov/search/?fa=subject:https://id.oclc.org/worldcat/entity/e39pbjvcjhwfvmbcmprmtfyghc&fo=json
+subjects[10].https://id.oclc.org/worldcat/entity/e39qbtfrqr6qxbfkkvtp4wjrcp: https://www.loc.gov/search/?fa=subject:https://id.oclc.org/worldcat/entity/e39qbtfrqr6qxbfkkvtp4wjrcp&fo=json
+subjects[11].new britain: https://www.loc.gov/search/?fa=subject:new+britain&fo=json
+subjects[12].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[13].south windsor: https://www.loc.gov/search/?fa=subject:south+windsor&fo=json
+subjects[14].south windsor (conn.): https://www.loc.gov/search/?fa=subject:south+windsor+%28conn.%29&fo=json
+subjects[15].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+timestamp: 2024-12-15T22:44:05.909Z
+title: The East Hartford gazette (East Hartford, Conn.), September 4, 1942
+type[0]: issue
+url: https://www.loc.gov/item/sn85009852/1942-09-04/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174749/1942090401/0403.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn85009852/1942-09-04/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_carpsurprise_ver01:data:sn85009852:00517174749:1942090401:0403/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174749/1942090401/0403.pdf
+resources[0].segment_count: 12
+resources[0].url: https://www.loc.gov/resource/sn85009852/1942-09-04/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1942, September 4) The East Hartford gazette. Retrieved from the Library of Congress, https://www.loc.gov/item/sn85009852/1942-09-04/ed-1/.
+cite_this.chicago: The East Hartford gazette. (New Britain, CT), Sep. 4 1942. https://www.loc.gov/item/sn85009852/1942-09-04/ed-1/.
+cite_this.mla: The East Hartford gazette. (New Britain, CT) 4 Sep. 1942, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn85009852/1942-09-04/ed-1/.
+
+segment_id: /service/ndnp/ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174749/1942090401/0403.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_carpsurprise_ver01/data/sn85009852/00517174749/1942090401/0403.xml&format=alto_xml&full_text=1
+full_text:
+Complete Presentation of
+The News of The Section
+No. 50. Fifty-seventh Year.
+East Hartford Rally For Victory October 3rd
+With Public Exhibition For Civil Defense
+Mayberry Village Is
+Finest Community Of
+American Families
+All The Arguments
+Aren’t On Old
+Residents Side
+As Everybody Tries
+To Get Along
+Together
+Reisdents of Mayberry Village
+want all the people of East Hart
+.ford to know that they live good
+and stable lives, working hard in
+a defense industry, raising their
+children to be fine men and
+women and devoting their spare
+time to normal community and
+family- activities.
+Although most of the new and
+older residents have adjusted
+themselves to each other and get
+along harmoniously, every now
+and then, sqmething sprouts up
+which indicates somebody misun
+derstands somebody. In the hope
+of creating a better understand
+ing between all parties concerned,
+members of the Mayberry Village
+Association this week appointed
+Charles T. Hanjey chairman of a
+special committee to draft a let
+ter which would explain to the
+people of the town just what
+some of the new residents be
+lieved and respected.
+The Mayberry Village residents
+have spoken honestly in their let
+ter although, of course, they may
+be mistaken in some of their
+conclusions. The Gazette re
+quests all its readers to weigh
+carefully all that is said in the
+letter and it also requests that
+no controversy be continued and
+that everybody work together for
+the good of the town and the war
+effort. It is probably that just
+about everything has been said
+openly or whispered on all sides
+of the problem. The Gazette be
+lieves that both old and new resi
+dents love East Hartford and are
+fine examples of the American
+way of life. The letter, signed by
+Charles T. Hanley, chairman of
+a special committee of the May
+berry Village Association, reads
+as follows:—
+Dear Sir:—
+Referring to an article written
+by a Mr. James Gibbs in your
+August 28th issue,
+We, the people of Mayberry Vil
+lage, wish to place ourselves on
+record as being heartily in agree
+ment with Mr. Gibbs when he
+mentions the need for sidewalks,
+playgrounds, etc., in various
+places throughout East Hartford.
+In fact, he might have gone a
+step further and mentioned the
+lack of fire “call boxes” in the
+village, although the village has
+been laid out for some time and
+also the lack of street lights.
+Mr. Gibbs during his reportor
+ial career in East Hartford, may
+have discovered that we are not
+quite as cordially welcomed as he
+stated in his article, but we are
+welcome from a commercial
+standpoint for the “Indian Sign”
+is on us in many of your staid
+and true East Hartford estab
+lishment, not to mention the ad
+ditional dollar per call over the
+regular call fee charged by doc
+tors when called to Mayberry
+Village. He might have also cor
+rected a popular conception that
+we people of the village are
+“Oakies,” by reminding the peo
+ple of East Hartford that we all
+came from respected neighbor
+hoods from throughout the entire
+country, and because of inade
+quate housing conditions, the
+United States Government came
+to our rescue, and gave us the
+means whereby we could keep
+our families together. Mr. Gibbs
+might also have mentioned how
+helpful we have been to those
+people who would otherwise have
+lost their homes, and who rented
+rooms to us at top prices, and the
+greedy rooming-house keepers
+who converted their five and six
+room homes into rooming hous
+es, and have had as many as
+twenty-five cots, in attics, cellars
+lofts, and garages, and charged
+defense workers as high as
+eight and ten dollars apiece for
+the privilege of sharing his cot
+with two other defense workers
+from other shifts, and had to
+tactfully suggest that the bed
+linen get changed, for fear of of
+fending and getting put out.
+It seems to us that bringing
+conditions like the above to light
+I Continued on Page 12.)
+East Hartford 6azettc
+AIRCRAFT CLOSES
+FOR WEEKEND
+The Pratt and Whitney Divis
+ion of United Aircraft will close
+at midnight tonight for a three
+days holiday for almost all em
+ployees. It will open again at
+midnight Monday. The Hamilton
+Standard Division will not close.
+Labor Day
+Labor Day 1942 finds us all
+workers —workers and fight
+ers in a war against tyranny,
+against despots who would
+make us all slaves. We must
+meet their attack as a united
+nation —not as a loose con
+federation of groups or class
+es. Unfortunately we have
+not yet fully grasped the
+fact that this is a War of
+Survival of all the people,
+not a People's War in the
+proletarian sense. There is
+too much lobbying and prat
+ing of classes and groups
+when what we really need is
+not a consciousness of class
+but an awareness of unity.
+This is not a war for any
+one group of citizens. It is a
+war in which all Americans
+have a part. We cannot fight
+Hitler by crushing any group
+In this country. We cannot
+destroy the labor movement
+and retain free business en
+terprise. We cannot destroy
+Industry and keep a free la
+bor movement or avoid col
+lective farming. We cannot
+damn one minority without
+damning all.
+In the totalitarian states it
+was not Organized Labor
+that suffered. Free associa
+tions of employers were also
+abolished. Neither collective
+bargaining nor collaboration
+of labor and industry was al
+lowed.
+We must remember these
+things today for the enemy
+is attacking us not merely
+on land, on sea and in the
+air, but also in our hearts
+and heads, taking advantage
+of every ignorance, of every
+prejudice, of every weak
+ness —setting group against
+group, class against class.
+We must not be blind to
+those things for which we
+are fighting—freedom of
+thought and discussion and
+worship. We must not mere
+ly concede them —we must
+practice them. Intolerance
+taps the moral strength of
+its adherents. Those who
+regiment are slaves no less
+than those who are regiment
+ed. What we must do is to
+work In fellowship, in the
+spirit of friendliness.
+There should be a little
+more of the Golden Buie and
+a little less Blackstone in our
+relations with each other.
+Our entire system of life is
+on trial. How it proves itself
+will determine the future.
+After all —we are all work
+ers no matter what our job
+—and any man with an in
+surance policy or money in
+the bank is a partner in In
+dustry. When we have had
+prosperity—all of us had it;
+when depression struck —all
+felt it.
+We must learn how to
+work together: how —the
+way of cooperation; work
+coordinated actions for the
+nation as a whole; together
+—with mutual trust and re
+spect. This applies to every
+one: those who operate our
+factories or who work in
+them; those who toil on
+farms, In offices or at home.
+All must work together with
+an awareness that what they
+do or neglect doing will de
+termine the future of the
+country.
+We have no right to take
+“class’ sides. We must work
+for the common gpod, in
+groups if we choose, but we
+must never forget that the
+welfare of the nation as a
+whole transcends the private
+Interest of any group. This
+is democracy.
+East Hartford, Conn.
+HIS MOHEY HELPS UHCLE SAM
+•IR
+Jimmy Shelmerdine, son of Councilman and Mrs. James W.
+Shelmerdine of Tolland Street, has bought two war bonds for
+twenty-five dollars each with money he has saved from his Ga
+zette paper route. In the jar shown above are 1,875 pennies,
+enough to buy a third war bond, which he has also saved
+from his paper route. Jimmy was one of The Gazette’s first paper
+boys and has more than 45 customers in his neighborhood.
+New York City Lady
+Wins Limerick Prize
+As New System Tried
+Almost Everyone
+Violates Rules So
+Judges Hopelessly
+Stare At Entries
+Helen R. Kirk of 884 Riverside
+Drive, New York City, wins this
+week’s limerick prize of two dol
+lars in war stamps in the Ga
+zette’s weekly contest in which a
+prize is given each week. We
+think, too, that Miss or Mrs.
+Kirk has possibly violated the
+rules of good form in limericks
+and the judges will probably nev
+er hear the end of an argument
+on their decision.
+Since The Gazette hasn’t the
+slightest idea who the winner is,
+we would appreciate it if she
+would write us and inform us
+about herself and also tell us
+how she happened to hear about
+the limerick contest.
+Strangely, more than one hun
+dred entries had more than eight
+syllables in the last line of the
+limerick when only eight were
+proper if it were to rfiatch the
+first line. The judges were about
+to discard more than one hun
+dred entries and then decided
+that some of them “sounded” all
+right even though an extra syl
+lable was inserted. The winner,
+for instance, used the word
+“economy” in her winning line.
+The judges felt that this had the
+effect of 3 syllables when read
+with the proper tone of voice.
+Try it and see for yourself be
+fore you holler.
+Another. reason why the judg
+es chose Helen R. Kirk’s entry
+was because many readers sub
+mitted exactly the same line and
+the judges felt that if the limer
+ick contestants themselves
+thought it was good, it must be.
+The Kirk entry had the earliest
+postmark so the prize was
+awarded to her.
+It should be pointed out that
+even members of the Contest
+Club of the Aif, who usually fol
+low rules, were among the most
+frequent violators of rules in
+last week’s contest. For instance,
+Mrs. Muriel B. Cressy of 199
+Ellington Road, submitted a line
+'with ten syllables as follows:—
+“Buying for victory should be
+our aim.”
+Edward M. J. Morrissey of 132
+Morris Street, Albany, New
+York, almost won with the line,
+“While With Warfare The World
+IsAflame!” but he, too, has one
+■too many syllables. Mrs. Minetta
+M. Legg of 4 North Fairfield St.,
+Manchester, submitted an excel
+lent last line that read, "While
+we let Hitler play his big game”
+(Continued on Page 12.)
+WHEEL PARADE
+AND EGG RACE
+ON LABOR DAY
+Tennis Matches And
+Swimming Events
+Also Planned
+East Hartford will celebrate
+Labor Day with a series of activ
+ities for the public in the Burn
+side Playground. The events will
+start at 10 a. m. and continue in
+to the evening.
+At 10 a. m., the competition
+will start to determine the men’s
+doubles championship in tennis.
+All pairs should register at the
+Burnside Pool at sometime be
+fore the start of the matches.
+Field events will also start at
+10 a. m.
+The wheel parade is scheduled
+for 2:30 p. m. Anything on
+wheels, bicycles, tricycles, carts,
+etc., are eligible for participa
+tion. A prize will be awarded for
+the best decorated entry.
+Running events will start im
+mediately after the wheel parade
+and then will come a novelty egg
+and spoon race and a greased
+watermelon race. Swimming
+events will begin at 4:30 p. m.
+and will include free style and
+relay races and diving competi
+tions.
+There will be an exhibition of
+formation swimming shortly be
+fore 6 p. m. under the direction
+of Miss Shirley Griffen. Judges
+for the water event are Mitchell
+Holmgren, George Remmert and
+Shirley Griffen.
+PARENTS HELPED
+AT BURNSIDE
+Principal Clarence Elliott of
+the Burnside School will be in
+his pfflce Tuesday, September 8,
+from 8 a. m. to 9:45 a. m. to con
+fer with any parent who might
+have problems concerning their
+children’s school education or
+who might wish to meet him.
+However, it is not necessary for
+children to register until Wed
+nesday morning.
+Republican Convention
+Ekst Hartford delegates to the
+State Republican Convention
+September 10 at the Bushnell
+Memorial are Horace Cummings,
+Herbert Booma, Wesley C. Car
+roll and John G. Curtin.
+September 4, 1942.
+The Bridge
+President Paul E. Britt of
+the Town Council this week
+made the following state
+ment in regard to the new
+bridge over the Connecticut
+River which will be dedicat
+ed Saturday:
+“The opening of the new
+Charter Oak Bridge Satur
+day marks a most significant
+chapter in the history of
+East Hartford. We have
+waited long and patiently for
+this additional crossing of
+the Connecticut River and
+fully appreciate the almost
+insurmountable problems
+which have been met and
+conquered since the decision
+to proceed with construction
+was made. It stands as a
+monument to our American
+will to drive through to suc
+cess regardless of difficulties
+and I pray that it will serve
+our people long and faithful
+ly.”
+SOUTH CHURCH
+OUTDOOR MEET
+SUNDAY NIGHT
+The South Congregational
+Church will hold Vesper Services
+Sunday night at 6:30 p. m. on
+the church lawn in cooperation
+with the Hartford Federation of
+Churches.
+Rev. Nathan E. Burton of the
+Burnside Methodist Church will
+conduct the devotional services
+and Rev. Theron French of the
+Windsor Avenue Congregational
+Church will lead the singing.
+Rev. Read Chatterton, pastor of
+the church, has designated the
+Vesper Service as “Labor Day
+Sunday Night.” Mrs. Chatterton
+will play the organ prelude. In
+the event of rain, the service
+will be held inside the church.
+Sunday School at the church
+will begin on Sunday, September
+13. Morning worship Sunday is
+at 10 o’clock.
+BABY PARADE
+IN MEADOWS
+The Meadow District will hold
+a baby parade Saturday at 2:30
+p. m. at the Meadow Playground.
+Prizes will be awarded for the
+prettiest baby and the best dec
+orated carriage. Mrs. Caroline
+Turner will select the judges. A
+field day program will start at
+10 a. m.
+GIRL SCOUT
+DRUM CORPS
+WILL MEET
+Members of Troop Seven,
+Drum and Bugle Corps, will re
+sume their meetings Thursday,
+September 10, at 7 p. m. at the
+White Church. Ralph Von Deck
+is instructor and Miss Norine
+Northrop is in general charge.
+Members of the corps are Mar
+garet Perry, drum major; Betty
+Weisner, drum sergeant; Francis
+Bartlett, Norma Grant, Dorothy
+Wilder, Shirley Bayliss, Betty
+Sweeney, Barbara Nichols, Bar
+bara Attenborough, Jean Helm,
+Ruth Perry, Selma Sherman,
+Dorothy Landry, Louise Dudek,
+Helen Hart, Doris Bjorklund,
+Jean Boone, Doris Haviland,
+Dorothy Burnham, Marylin
+Moore, Betty Jane Neuthmann,
+Estella Connell, Jazqueline Mo
+chon, Gertrude Erickson, Joann
+Yacavone, Mabel Eddy.
+MISS WAKEFIELD
+IS FETED
+Mr. and Mrs. Wilson F. Wake
+field and daughter, Shirlee, of
+Stanley Street were guests last
+evening of Mr. and Mrs. Thomas
+J. Horan of Hawthorne Street,
+Hartford, at a dinner for Miss
+Wakefield who will leave this
+week to attend lowa State Col
+lege. Miss Wakefield is engaged
+to marry Kiernan J. Horan. Al
+so present at the dinner was Rev.
+John A. Kelly of St. Joseph’s
+Cathedral. Later in the evening,
+20 members of St. Joseph’s Ca
+thedral Players attended a party
+in Miss Wakefield’s honor.
+Palma Marineili
+Miss Palma Marineili of Ran
+ney Street has completed five
+weeks of singing with the Dia
+mond Club Orchestra for the
+benefit of the U. S. O.
+All Residents of East Hartford Will Have An
+Opportunity To See Local Defense System
+At Work
+EASTWOOD SELLS
+SIX HUNDRED IN
+VICTORY BONDS
+American Legion,
+War Mothers, Army
+And Navy, Boy
+Scout Nights
+Are Planned
+More than six hundred dollars
+worth of War bonds were sold at
+the Eastwood Theatre during the
+first two days this week of its
+Salute to Heroes program to
+stimulate the sale of bonds.
+Manager Frank Weinstein of the
+theater expressed the opinion
+that East Hartford is doing its
+share in the nation-wide drive in
+theaters to raise one billion dol
+lars for the war.
+Mr. Weinstein announced that
+there will be nights set aside for
+the American Legion, the Army,
+Navy and Marines; Boy Scouts,
+War Mothers and various organi
+zations before the end of the
+month with special ceremonies
+on each night. The local cam
+paign opened Tuesday with a
+street parade, talks by Father
+Glynn, Mayor Paul Britt and
+Wesley C. Carroll. More than a
+thousand persons were in front
+of the theater for the initial ral
+ly-
+Mr. Weinstein asserted that af
+ter all these years, the movie in
+dustry' has finally gotten itself
+into something that really merits
+that much-used word “colossal.”
+Nothing short of that adjective
+can begin to describe the all-out
+industry effort being put into the
+September “Salute to Our He
+roes” war bond and stamp drive,
+just getting under way from
+coast to coast, from Radio City
+Music Hall in New York to the
+smallest, one-night-a-week movie
+house in Alaska.
+The War Activities Committee
+of the motion picture industry is
+fully aware that it has undertak
+en to do a “miracle” war job.
+They have set a billion-dollar
+quota for September—a mark
+hit only once and that in Janu
+ary, following Pearl Harbor. The
+Treasury War Savings Staff it
+self rather doubts that a billion
+dollar target can be hit in Sep
+tember and probably will set a
+lower official quota. However,
+the movie people still are shoot
+ing at the billion and as spear
+head of the month’s drive hope
+to spark the sales to the fantas
+tic total. This will mean, they
+warn, that local committees prob
+ably will have to exceed their
+official Treasury quota by 25 per
+cent.
+In Hollywood, September will
+be a strange month. Some fifty
+of the outstanding stars will be
+roaming the country instead of
+making movies. They have al
+ready started their “Stars Over
+America” bond-selling tours,
+which will take various individ
+ual stars and groups of them in
+to some 300 large and small cit
+ies for as many bond-rallies,
+aimed at a total $300,000,000 sale!
+In Washington, the drive had
+its world-premiere August 31,
+with Secretary Morgenthau send
+ing the stars on their way fol
+lowing an official luncheon and
+bond-rally on the Treasury steps.
+In the group were Hedy Lamarr,
+Irene Dunne, Ann Rutherford,
+Greer Garson, Edward Arnold,
+Virginia Gilmore, James Cagney,
+Charles Laughton, Bing Crosby,
+Bob Hope and others.
+But the “Buy a Bond To Honor
+Every Mother’s Son in Service”
+drive is not a ballyhoo cam
+paign. Every item on the pro
+gram aims at actual bond-selling.
+Some 2000 factories will be visit
+ed by the stars to stimulate the
+payroll deduction plan. Every
+luncheon and meeting will be a
+success only if bonds are sold in
+huge amounts.
+MORE FLAGS
+RECEIVED
+The Gazette has received a
+new shipment of American Flags
+and will dispose of them to mem
+bers of the general public for 99
+cents each. The flags are three
+feet by five feet.
+Long Hill Community
+The Long Hill Community As
+sociation will hold its first meet
+ing of the fall season Friday ev
+ening, September 11, at S p. m.
+at the Woodland Club.
+Serving Always The Best I
+Community Interests
+$1.50 per Year
+East Hartford residents will
+hold a massive town-wide rally
+for victory on Saturday, October
+3, at the Burnside Playground to
+promote the sale of war bonds
+and stamps and to stimulate civil
+defense.
+Tentative plans call for field
+events, baseball games, a tug of
+war across the wading pool and
+a massive demonstration of ci
+vilian defense work in the even
+ing. Other features of the event
+will be announced from time to
+time.
+It will be the first rally of its
+kind ever held in East Hartford.
+Already, other towns are plann
+ing similar events. State Defense
+officials like the idea so much
+that they will recommend that
+all towns in the State hold such
+patriotic demonstrations at some
+time this fall .The idea was first
+suggested by Ralp Neal and was
+taken up by a large number of
+members of the general public.
+At the request of members of
+the public, The Gazette will spon
+sor the event.
+President Paul E. Britt of the
+Town Council will be honorary
+chairman of the rally and Ralph
+Neal will be general chairman.
+Charles Paddock will be general
+chairman of the civilian defense
+activities. Publisher Edward B.
+Stevens of The Gazette, Mr.
+Britt, Mr. Neal, and Mr. Pad
+dock will operate as an advisory
+committee. State officials have
+already given full backing to’the
+plan.
+The event will be for every
+man, woman and child in East
+Hartford. Euthusiasm for the ral
+ly has already been manifested
+by many residents in the new de
+velopments such as Mayberry
+Village and Milbrook Park and
+it is expected that large delega
+tions from these projects will
+participate.
+Tentative plans also call for
+community singing and dancing.
+ST. MARY’S
+CARNIVAL IS
+NEXT WEEK
+Many New
+Attractions
+Are Planned
+The annual carnival of St.
+Mary’s Church will be held next
+week, Thursday, Friday, and Sat
+urday in St Mary’s School with
+many new attractions. On the
+opening night, St. Mary’s Junioi
+Fife and Drum Corps will parade
+on the school grounds and give
+an exhibition in front of the build*-
+ing.
+There will be 12 booths besides
+the mysterious stall for the for
+tune teller. Unique entertain
+ment is planned. The hall will be
+attractively decorated in red,
+white and blue bunting. Furni
+ture, toys and novelties will be
+offered for prizes. All proceeds
+will go for the school fund which
+must be larger than usual this
+year because of the large number
+of defense workers’ children who
+will enter the school for the first
+time. Members of St. Mary’s
+Men’s Club will sell war stamp®
+at a special table.
+Rev. James J. Gannon is hon-
+orary chairman of the carnival
+and John J. Sullivan is
+Other officers for the affair ane
+Dennis Moynihan,
+John R. Manion, treasurer, and v
+Michael D. Dannaher, secretary.
+MIXED DOUBLES
+FOR TENNIS
+Men and women of East Hart
+ford, both old and young, are In
+vited to participate in the mixed
+doubles tennis tournament at the
+Burnside Playground Sunday at
+2 p. m. Registration for the
+matches should be before the
+starting time. The matches will
+not be held unless six teams are
+entered.
+NEW DANCE
+ORCHESTRA
+Members of the Second Shift,
+living in Mayberry Village, are
+invited to join a new dance or
+chestra which is being formed
+for the development. Leon Busby
+of 10 Indian Hill Street is In
+charge. Persons interested should
+leave their name at the office of
+John A. Murphy.
+Telephone your news, 8-2149.,

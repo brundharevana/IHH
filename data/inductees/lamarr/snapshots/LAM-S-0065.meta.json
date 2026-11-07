@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn84026749/1937-10-06/ed-1/?sp=7",
+  "fetch_url": "https://www.loc.gov/resource/sn84026749/1937-10-06/ed-1/?sp=7&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-30T19:01:39Z",
+  "sha256": "88a40d6c477384cb7939d51901c951a1934a4aae5f688ce935a5bc857b4a8790",
+  "bytes": 30010,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn84026749/1937-10-06/ed-1/?sp=7&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_hawthorne_ver01/data/sn84026749/00205698231/1937100601/0287.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/dlc/batch_dlc_hawthorne_ver01/data/sn84026749/00205698231/1937100601/0287.xml"
+}

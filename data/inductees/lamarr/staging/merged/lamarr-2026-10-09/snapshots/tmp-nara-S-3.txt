@@ -1,0 +1,161 @@
+title: EVERYBODY JOINS U.S. WAR EFFORT [ETC.]
+scopeAndContentNote: Part 1, shows celebrities in military service (Jackie Coogan, Douglas Fairbanks, Jr., Clark Gable, Joe Louis, Assoc. Justice Frank Murphy, Tyrone Power, Franklin D. Roosevelt, Jr., James Roosevelt, and James Stewart) and film entertainers on war bond tours (including James Cagney, Ronald Colman, Bing Crosby, Irene Dunne, Greer Garson, and Heddy Lamar). Shows scenes of Hollywood and Washington, D.C. Part 2, antiaircraft guns are manufactured. Part 3, the Royal Air Force (RAF) bombs France and Germany.
+accessionNumbers[0]: 3276
+onlineResources[0].note: This video is available on the U.S. National Archives' channel on YouTube.
+onlineResources[0].description: YouTube
+onlineResources[0].url: http://www.youtube.com/watch?v=HCjIux2N52o
+levelOfDescription: item
+recordType: description
+subjects[0].heading: Hollywood (Los Angeles, Calif.)
+subjects[0].authorityType: geographicPlaceName
+subjects[0].naId: 10046061
+subjects[1].heading: Washington (D.C.)
+subjects[1].authorityType: geographicPlaceName
+subjects[1].naId: 10046466
+subjects[2].heading: Gable, Clark, 1901-1960
+subjects[2].deathDate.year: 1960
+subjects[2].deathDate.logicalDate: 1960-12-31
+subjects[2].authorityType: person
+subjects[2].birthDate.year: 1901
+subjects[2].birthDate.logicalDate: 1901-01-01
+subjects[2].naId: 10580503
+subjects[3].heading: Roosevelt, James, 1907-1991
+subjects[3].deathDate.year: 1991
+subjects[3].deathDate.logicalDate: 1991-12-31
+subjects[3].authorityType: person
+subjects[3].birthDate.year: 1907
+subjects[3].birthDate.logicalDate: 1907-01-01
+subjects[3].naId: 10583052
+subjects[4].heading: Roosevelt, Franklin D. (Franklin Delano), 1882-1945
+subjects[4].deathDate.year: 1945
+subjects[4].deathDate.logicalDate: 1945-12-31
+subjects[4].authorityType: person
+subjects[4].birthDate.year: 1882
+subjects[4].birthDate.logicalDate: 1882-01-01
+subjects[4].naId: 10582816
+subjects[5].heading: Cagney, James, 1899-1986
+subjects[5].deathDate.year: 1986
+subjects[5].deathDate.logicalDate: 1986-12-31
+subjects[5].authorityType: person
+subjects[5].birthDate.year: 1899
+subjects[5].birthDate.logicalDate: 1899-01-01
+subjects[5].naId: 10582306
+subjects[6].heading: Fairbanks, Douglas, 1883-1939
+subjects[6].deathDate.year: 1939
+subjects[6].deathDate.logicalDate: 1939-12-31
+subjects[6].authorityType: person
+subjects[6].birthDate.year: 1883
+subjects[6].birthDate.logicalDate: 1883-01-01
+subjects[6].naId: 10582019
+subjects[7].heading: Crosby, Bing, 1904-1977
+subjects[7].deathDate.year: 1977
+subjects[7].deathDate.logicalDate: 1977-12-31
+subjects[7].authorityType: person
+subjects[7].birthDate.year: 1904
+subjects[7].birthDate.logicalDate: 1904-01-01
+subjects[7].naId: 10581627
+subjects[8].heading: Stewart, James, 1908-1997
+subjects[8].deathDate.year: 1997
+subjects[8].deathDate.logicalDate: 1997-12-31
+subjects[8].authorityType: person
+subjects[8].birthDate.year: 1908
+subjects[8].birthDate.logicalDate: 1908-01-01
+subjects[8].naId: 10568297
+subjects[9].heading: Lamarr, Hedy, 1913-2000
+subjects[9].deathDate.year: 2000
+subjects[9].deathDate.logicalDate: 2000-12-31
+subjects[9].authorityType: person
+subjects[9].birthDate.year: 1913
+subjects[9].birthDate.logicalDate: 1913-01-01
+subjects[9].naId: 10569195
+subjects[10].heading: Louis, Joe, 1914-1981
+subjects[10].deathDate.year: 1981
+subjects[10].deathDate.logicalDate: 1981-12-31
+subjects[10].authorityType: person
+subjects[10].birthDate.year: 1914
+subjects[10].birthDate.logicalDate: 1914-01-01
+subjects[10].naId: 10581376
+subjects[11].heading: Power, Tyrone, 1914-1958
+subjects[11].deathDate.year: 1958
+subjects[11].deathDate.logicalDate: 1958-12-31
+subjects[11].authorityType: person
+subjects[11].birthDate.year: 1914
+subjects[11].birthDate.logicalDate: 1914-01-01
+subjects[11].naId: 10580693
+subjects[12].heading: Motion pictures
+subjects[12].authorityType: specificRecordsType
+subjects[12].naId: 10631732
+subjects[13].heading: World War, 1939-1945
+subjects[13].authorityType: topicalSubject
+subjects[13].naId: 10644634
+subjects[14].heading: Savings bonds
+subjects[14].authorityType: topicalSubject
+subjects[14].naId: 10644828
+useRestriction.note: Some or all of this material may be restricted by copyright or other intellectual property right restrictions.
+useRestriction.specificUseRestrictions[0]: Copyright
+useRestriction.status: Restricted - Possibly
+audiovisual: True
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-3540
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Motion Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3622
+physicalOccurrences[0].referenceUnits[0].email: mopix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].color: Black-and-White
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Film Reel
+physicalOccurrences[0].copyStatus: Preservation
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Motion Pictures
+dataControlGroup.groupId: RRAM–M
+dataControlGroup.groupCd: RRAM–M
+generalRecordsTypes[0]: Moving Images
+localIdentifier: 208-UN-14
+productionDates[0].year: 1942
+productionDates[0].logicalDate: 1942-01-01
+variantControlNumbers[0].number: siGoogle World War II Newsreels
+variantControlNumbers[0].type: Search Identifier
+variantControlNumbers[1].number: NWDNM(m)-208-UN-14
+variantControlNumbers[1].type: NAIL Control Number
+contributors[0].heading: United News Company.
+contributors[0].contributorType: Producer
+contributors[0].authorityType: organization
+contributors[0].naId: 10446010
+digitalObjects[0].objectFilename: ARC_38919.mp4
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialive/19/389/38919/content/arcmedia/google/ARC_38919.mp4
+digitalObjects[0].objectId: 14888857
+digitalObjects[0].objectDescription: Download this film.
+digitalObjects[0].objectType: Audio/Visual File (MP4)
+ancestors[0].inclusiveStartDate.year: 1926
+ancestors[0].inclusiveStartDate.logicalDate: 1926-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 208
+ancestors[0].inclusiveEndDate.year: 1951
+ancestors[0].inclusiveEndDate.logicalDate: 1951-12-31
+ancestors[0].title: Records of the Office of War Information
+ancestors[0].naId: 535
+ancestors[1].inclusiveStartDate.year: 1942
+ancestors[1].inclusiveStartDate.logicalDate: 1942-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Office for Emergency Management. Office of War Information. Overseas Operations Branch. New York Office. News and Features Bureau. (12/17/1942 - 09/15/1945)
+ancestors[1].creators[0].abolishDate.month: 9
+ancestors[1].creators[0].abolishDate.year: 1945
+ancestors[1].creators[0].abolishDate.day: 15
+ancestors[1].creators[0].abolishDate.logicalDate: 1945-09-15
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 12
+ancestors[1].creators[0].establishDate.year: 1942
+ancestors[1].creators[0].establishDate.day: 17
+ancestors[1].creators[0].establishDate.logicalDate: 1942-12-17
+ancestors[1].creators[0].naId: 10454759
+ancestors[1].inclusiveEndDate.year: 1945
+ancestors[1].inclusiveEndDate.logicalDate: 1945-12-31
+ancestors[1].title: Motion Picture Films from United News Newsreels
+ancestors[1].naId: 38905
+naId: 38919
+soundType: Sound

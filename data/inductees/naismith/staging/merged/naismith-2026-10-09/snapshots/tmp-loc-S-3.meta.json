@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/ca05024520/",
+  "fetch_url": "https://www.loc.gov/item/ca05024520/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:18:05Z",
+  "sha256": "67a05e8b3a433d936369566d0cb4db72885225d26ccb2caba5eef2a20cdabacf",
+  "bytes": 73305,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/ca05024520/?fo=json"
+}

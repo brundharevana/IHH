@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Madeleine_Albright_1997.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Madeleine_Albright_1997.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:27:47Z",
+  "sha256": "2797d80c57a657e93fa19ed4116c40abf0dc630935c734d1dbf7b210b1d87cd9",
+  "bytes": 847,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Madeleine_Albright_1997.jpg&format=json"
+}

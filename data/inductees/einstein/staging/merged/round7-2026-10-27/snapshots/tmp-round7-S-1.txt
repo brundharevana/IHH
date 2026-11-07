@@ -1,0 +1,252 @@
+@graph[0].@id: _:0dae4c3e9d00e72e85af00fa408b5ed2
+@graph[0].value: 24
+@graph[0].type.@language: sv
+@graph[0].type.@value: Höjd
+@graph[0].@type: ItemMeasurement
+@graph[1].@id: _:a02adc0ae7e66cbc686fce2ac29e6674
+@graph[1].desc.@language: sv
+@graph[1].desc.@value: Jubileumsutställningen 1923
+@graph[1].type.@language: sv
+@graph[1].type.@value: Namn / beställare
+@graph[1].@type: ItemDescription
+@graph[2].@id: _:e5a3b65e5043227a860d1f7e7a16e66e
+@graph[2].desc.@language: sv
+@graph[2].desc.@value: Kongresshallen
+@graph[2].type.@language: sv
+@graph[2].type.@value: Byggnad / avbildad
+@graph[2].@type: ItemDescription
+@graph[3].@id: _:08481f2ab961ab82a84ec9c2810ce575
+@graph[3].desc.@language: sv
+@graph[3].desc.@value: Jubileumsutställningen 1923
+@graph[3].type.@language: sv
+@graph[3].type.@value: Utställning / avbildad
+@graph[3].@type: ItemDescription
+@graph[4].@id: _:9fdca3fdf0f1157296dfb9165eb05862
+@graph[4].number.@language: sv
+@graph[4].number.@value: GhmF:149
+@graph[4].type.@language: sv
+@graph[4].type.@value: Inventarienummer
+@graph[4].@type: ItemNumber
+@graph[5].@id: _:b3c07dff87ebde6f876038fd4daf0296
+@graph[5].desc.@language: sv
+@graph[5].desc.@value: Heden
+@graph[5].type.@language: sv
+@graph[5].type.@value: Stadsdel / avbildad
+@graph[5].@type: ItemDescription
+@graph[6].@id: _:9bf08823efe05b25be44afe5751c7a90
+@graph[6].number.@language: sv
+@graph[6].number.@value: Arkiv CD 1149
+@graph[6].type.@language: sv
+@graph[6].type.@value: Lagringsmedium
+@graph[6].@type: ItemNumber
+@graph[7].@id: _:80ef50597d97bac1f6379706199ebffd
+@graph[7].value: 30
+@graph[7].type.@language: sv
+@graph[7].type.@value: Bredd
+@graph[7].@type: ItemMeasurement
+@graph[8].@id: _:23417d4093da34f8b22167e52a8298f9
+@graph[8].desc.@language: sv
+@graph[8].desc.@value: Public Domain Mark
+@graph[8].type.@language: sv
+@graph[8].type.@value: Licens / media
+@graph[8].@type: ItemDescription
+@graph[9].@id: _:1ff250e87a8a9ea3551a293e07a5efd6
+@graph[9].desc.@language: sv
+@graph[9].desc.@value: Göteborgs jubileumsutställning: Albert Einstein håller sin Nobelföreläsning 11 juli 1923 vid Skandinaviska naturforskarkongressen i Kongresshallen på Liseberg. I publiken syns Gustav V på främsta raden.
+@graph[9].type.@language: sv
+@graph[9].type.@value: Beskrivning
+@graph[9].@type: ItemDescription
+@graph[10].@id: _:56039d47b6443dfd4fc39bc2e8800fce
+@graph[10].desc.@language: sv
+@graph[10].desc.@value: Upphovsrätt utslocknad
+@graph[10].type.@language: sv
+@graph[10].type.@value: Namn / copyright/upphovsrättsinnehavare
+@graph[10].@type: ItemDescription
+@graph[11].@id: _:c1dde486524c810e501b9c0a9670d22b
+@graph[11].desc.@language: sv
+@graph[11].desc.@value: Karnells samling
+@graph[11].type.@language: sv
+@graph[11].type.@value: Sammanhör med
+@graph[11].@type: ItemDescription
+@graph[12].@id: _:324d9781155e9443f930dbb9836650c0
+@graph[12].desc.@language: sv
+@graph[12].desc.@value: Vetenskap (810)
+@graph[12].type.@language: sv
+@graph[12].type.@value: Klassifikation OCM (bred)
+@graph[12].@type: ItemDescription
+@graph[13].@id: _:95903c271a77f5952740e91209ad5acc
+@graph[13].material.@language: sv
+@graph[13].material.@value: glas
+@graph[13].type.@language: sv
+@graph[13].type.@value: Material / bildbärare
+@graph[13].@type: ItemMaterial
+@graph[14].@id: http://kulturarvsdata.se/GSM/objekt/402049
+@graph[14].itemMotiveWord[0].@language: sv
+@graph[14].itemMotiveWord[0].@value: åhörare
+@graph[14].itemMotiveWord[1].@language: sv
+@graph[14].itemMotiveWord[1].@value: konung
+@graph[14].itemMotiveWord[2].@language: sv
+@graph[14].itemMotiveWord[2].@value: Gustaf V, kung av Sverige, 1858-1950
+@graph[14].itemMotiveWord[3].@language: sv
+@graph[14].itemMotiveWord[3].@value: kunglighet
+@graph[14].itemMotiveWord[4].@language: sv
+@graph[14].itemMotiveWord[4].@value: fysik
+@graph[14].itemMotiveWord[5].@language: sv
+@graph[14].itemMotiveWord[5].@value: talare
+@graph[14].itemMotiveWord[6].@language: sv
+@graph[14].itemMotiveWord[6].@value: naturvetenskap
+@graph[14].itemMotiveWord[7].@language: sv
+@graph[14].itemMotiveWord[7].@value: flygel
+@graph[14].itemMotiveWord[8].@language: sv
+@graph[14].itemMotiveWord[8].@value: nobelföreläsning
+@graph[14].itemMotiveWord[9].@language: sv
+@graph[14].itemMotiveWord[9].@value: kongress
+@graph[14].itemMotiveWord[10].@language: sv
+@graph[14].itemMotiveWord[10].@value: interiör
+@graph[14].itemMotiveWord[11].@language: sv
+@graph[14].itemMotiveWord[11].@value: Einstein, Albert, 1879-1955
+@graph[14].itemMotiveWord[12].@language: sv
+@graph[14].itemMotiveWord[12].@value: kongresshall
+@graph[14].itemMotiveWord[13].@language: sv
+@graph[14].itemMotiveWord[13].@value: forskare
+@graph[14].itemMotiveWord[14].@language: sv
+@graph[14].itemMotiveWord[14].@value: arkitektur
+@graph[14].itemMotiveWord[15].@language: sv
+@graph[14].itemMotiveWord[15].@value: publik
+@graph[14].itemMotiveWord[16].@language: sv
+@graph[14].itemMotiveWord[16].@value: föreläsning
+@graph[14].presentation.@value: 1.3.02026-10-19fotografi, bilderRådata402049objektGöteborgs stadsmuseumGSMFöremålhttp://kulturarvsdata.se/GSM/objekt/402049GhmF:149, Arkiv CD 1149Göteborgs jubileumsutställning: Albert Einstein håller sin Nobelföreläsning 11 juli 1923 vid Skandinaviska naturforskarkongressen i Kongresshallen på Liseberg. I publiken syns Gustav V på främsta raden.GhmF:149, Vetenskap (810), Utställningar (543), gåva, Jubileumsutställningen 1923, Fotomonopolet Bruce & Co, Upphovsrätt utslocknad, Karnells samling, Public Domain Mark, Jubileumsutställningen, 1923, Heden, Lisebergs nöjesfält, KongresshallenFörvärvadLidén, Gösta1942FotograferadKarnell, Anders Wilhelm, 1871-19341923image/jpeghttps://samlingar.goteborgsstadsmuseum.se/carlotta/web/image/tn/1755920/GhmF_149.jpghttps://samlingar.goteborgsstadsmuseum.se/carlotta/web/image/zoom/1755919/GhmF_149.jpghttp://kulturarvsdata.se/resurser/License#pdmarkKarnell, Anders Wilhelm, 1871-1934Upphovsrätt utslocknadhttp://kulturarvsdata.se/GSM/samling/200211http://kulturarvsdata.se/GSM/exhibition/703149http://kulturarvsdata.se/GSM/name/159536http://kulturarvsdata.se/GSM/name/353817http://kulturarvsdata.se/GSM/name/222136http://kulturarvsdata.se/GSM/objekt/html/402049http://kulturarvsdata.se/GSM/objekt/xml/402049http://kulturarvsdata.se/GSM/objekt/rdf/402049
+@graph[14].presentation.@type: rdf:XMLLiteral
+@graph[14].itemDescription[0].@id: _:c1dde486524c810e501b9c0a9670d22b
+@graph[14].itemDescription[1].@id: _:82bb157a85f56d51cb12666f72b4dd97
+@graph[14].itemDescription[2].@id: _:08481f2ab961ab82a84ec9c2810ce575
+@graph[14].itemDescription[3].@id: _:3283e7e9febf71e18e1c811a80b2cc13
+@graph[14].itemDescription[4].@id: _:04dc8df5ab9af6febedbc342a2c64c02
+@graph[14].itemDescription[5].@id: _:56039d47b6443dfd4fc39bc2e8800fce
+@graph[14].itemDescription[6].@id: _:b3c07dff87ebde6f876038fd4daf0296
+@graph[14].itemDescription[7].@id: _:b6cb1f625f999a037b3de047646e4bba
+@graph[14].itemDescription[8].@id: _:e5a3b65e5043227a860d1f7e7a16e66e
+@graph[14].itemDescription[9].@id: _:324d9781155e9443f930dbb9836650c0
+@graph[14].itemDescription[10].@id: _:a02adc0ae7e66cbc686fce2ac29e6674
+@graph[14].itemDescription[11].@id: _:1ff250e87a8a9ea3551a293e07a5efd6
+@graph[14].itemDescription[12].@id: _:bc07ccb3d7d09e9deb18129fa7e17360
+@graph[14].itemDescription[13].@id: _:23417d4093da34f8b22167e52a8298f9
+@graph[14].itemDescription[14].@id: _:1dfe77562c87c52ced7b96fa00a8856c
+@graph[14].thumbnail: https://samlingar.goteborgsstadsmuseum.se/carlotta/web/image/tn/1755920/GhmF_149.jpg
+@graph[14].ksamsokVersion: 1.3.0
+@graph[14].context[0].@id: _:3de49525d5e8e8636d16d31111e8593e
+@graph[14].context[1].@id: _:abc75ee25c500d874b0e89b216b1b921
+@graph[14].isPartOf.@id: http://kulturarvsdata.se/GSM/samling/200211
+@graph[14].url: https://samlingar.goteborgsstadsmuseum.se/carlotta/web/object/402049
+@graph[14].visualizes.@id: http://kulturarvsdata.se/GSM/exhibition/703149
+@graph[14].subject.@id: http://kulturarvsdata.se/resurser/Subject#culturalHistory
+@graph[14].itemName[0].@id: _:ba7442141f777fa5aaa0a3ba924bbf37
+@graph[14].itemName[1].@id: _:45970ace31697f60a516eee32ad4a38d
+@graph[14].isRelatedTo.@id: http://kulturarvsdata.se/GSM/name/159536
+@graph[14].itemSuperType.@id: http://kulturarvsdata.se/resurser/EntitySuperType#object
+@graph[14].buildDate: 2026-10-19
+@graph[14].itemMeasurement[0].@id: _:0dae4c3e9d00e72e85af00fa408b5ed2
+@graph[14].itemMeasurement[1].@id: _:80ef50597d97bac1f6379706199ebffd
+@graph[14].serviceName: objekt
+@graph[14].image.@id: _:0e558ce975b3f6fd056bd9d478753785
+@graph[14].itemType.@id: http://kulturarvsdata.se/resurser/EntityType#object
+@graph[14].itemLicense.@id: http://kulturarvsdata.se/resurser/license#cc0
+@graph[14].itemLabel.@language: sv
+@graph[14].itemLabel.@value: fotografi, bilder
+@graph[14].@type: Entity
+@graph[14].itemTechnique[0].@language: sv
+@graph[14].itemTechnique[0].@value: liggande
+@graph[14].itemTechnique[1].@language: sv
+@graph[14].itemTechnique[1].@value: analog
+@graph[14].itemLicenseUrl.@id: https://creativecommons.org/publicdomain/zero/1.0/
+@graph[14].itemNumber[0].@id: _:9bf08823efe05b25be44afe5751c7a90
+@graph[14].itemNumber[1].@id: _:9fdca3fdf0f1157296dfb9165eb05862
+@graph[14].serviceOrganization: GSM
+@graph[14].serviceOrganizationFull: Göteborgs stadsmuseum
+@graph[14].itemMaterial.@id: _:95903c271a77f5952740e91209ad5acc
+@graph[14].dataQuality.@id: http://kulturarvsdata.se/resurser/DataQuality#raw
+@graph[15].@id: _:82bb157a85f56d51cb12666f72b4dd97
+@graph[15].desc.@language: sv
+@graph[15].desc.@value: gåva
+@graph[15].type.@language: sv
+@graph[15].type.@value: Typ av förvärv
+@graph[15].@type: ItemDescription
+@graph[16].@id: _:3de49525d5e8e8636d16d31111e8593e
+@graph[16].intermediary.@id: http://kulturarvsdata.se/GSM/name/353817
+@graph[16].toTime: 1942
+@graph[16].fromTime: 1942
+@graph[16].foaf:name.@language: sv
+@graph[16].foaf:name.@value: Lidén, Gösta
+@graph[16].contextSuperType.@id: http://kulturarvsdata.se/resurser/ContextSuperType#interact
+@graph[16].contextType.@id: http://kulturarvsdata.se/resurser/ContextType#transact
+@graph[16].contextLabel.@language: sv
+@graph[16].contextLabel.@value: Förvärvad
+@graph[16].@type: Context
+@graph[17].@id: _:3283e7e9febf71e18e1c811a80b2cc13
+@graph[17].desc.@language: sv
+@graph[17].desc.@value: Fotomonopolet Bruce & Co
+@graph[17].type.@language: sv
+@graph[17].type.@value: Namn / annan anknytning
+@graph[17].@type: ItemDescription
+@graph[18].@id: _:ba7442141f777fa5aaa0a3ba924bbf37
+@graph[18].name.@language: sv
+@graph[18].name.@value: fotografi
+@graph[18].type.@language: sv
+@graph[18].type.@value: Sakord
+@graph[18].@type: ItemName
+@graph[19].@id: _:04dc8df5ab9af6febedbc342a2c64c02
+@graph[19].desc.@language: sv
+@graph[19].desc.@value: Jubileumsutställningen, 1923
+@graph[19].type.@language: sv
+@graph[19].type.@value: Händelse / avbildad
+@graph[19].@type: ItemDescription
+@graph[20].@id: _:b6cb1f625f999a037b3de047646e4bba
+@graph[20].desc.@language: sv
+@graph[20].desc.@value: Utställningar (543)
+@graph[20].type.@language: sv
+@graph[20].type.@value: Klassifikation OCM (smal)
+@graph[20].@type: ItemDescription
+@graph[21].@id: _:45970ace31697f60a516eee32ad4a38d
+@graph[21].name.@language: sv
+@graph[21].name.@value: bilder
+@graph[21].type.@language: sv
+@graph[21].type.@value: Sakord
+@graph[21].@type: ItemName
+@graph[22].@id: _:0e558ce975b3f6fd056bd9d478753785
+@graph[22].lowresSource: https://samlingar.goteborgsstadsmuseum.se/carlotta/web/image/zoom/1755919/GhmF_149.jpg
+@graph[22].thumbnailSource: https://samlingar.goteborgsstadsmuseum.se/carlotta/web/image/tn/1755920/GhmF_149.jpg
+@graph[22].mediaLicenseUrl.@id: http://creativecommons.org/publicdomain/mark/1.0/deed.sv
+@graph[22].mediaLicense.@id: http://kulturarvsdata.se/resurser/License#pdmark
+@graph[22].copyright.@language: sv
+@graph[22].copyright.@value: Upphovsrätt utslocknad
+@graph[22].byline.@language: sv
+@graph[22].byline.@value: Karnell, Anders Wilhelm, 1871-1934
+@graph[22].mediaType: image/jpeg
+@graph[22].@type: Image
+@graph[23].@id: _:bc07ccb3d7d09e9deb18129fa7e17360
+@graph[23].desc.@language: sv
+@graph[23].desc.@value: Lisebergs nöjesfält
+@graph[23].type.@language: sv
+@graph[23].type.@value: Plats / avbildad
+@graph[23].@type: ItemDescription
+@graph[24].@id: _:abc75ee25c500d874b0e89b216b1b921
+@graph[24].photographer.@id: http://kulturarvsdata.se/GSM/name/222136
+@graph[24].toTime: 1923
+@graph[24].fromTime: 1923
+@graph[24].foaf:name.@language: sv
+@graph[24].foaf:name.@value: Karnell, Anders Wilhelm, 1871-1934
+@graph[24].contextSuperType.@id: http://kulturarvsdata.se/resurser/ContextSuperType#create
+@graph[24].contextType.@id: http://kulturarvsdata.se/resurser/ContextType#produce
+@graph[24].contextLabel.@language: sv
+@graph[24].contextLabel.@value: Fotograferad
+@graph[24].@type: Context
+@graph[25].@id: _:1dfe77562c87c52ced7b96fa00a8856c
+@graph[25].desc.@language: sv
+@graph[25].desc.@value: GhmF:149
+@graph[25].type.@language: sv
+@graph[25].type.@value: Inventarienummer
+@graph[25].@type: ItemDescription
+@context.pres: http://kulturarvsdata.se/presentation#
+@context.rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+@context.foaf: http://xmlns.com/foaf/0.1/
+@context.@vocab: http://kulturarvsdata.se/ksamsok#

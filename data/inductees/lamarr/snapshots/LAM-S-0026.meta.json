@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/350486745",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=350486745",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:53:14Z",
+  "sha256": "b9b1a70dd874d325e4198d0b0a4a544711cf25498754784034de2c7bdb3c34fc",
+  "bytes": 3713,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=350486745"
+}

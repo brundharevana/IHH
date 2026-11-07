@@ -1,0 +1,210 @@
+---
+// Lite page: /<slug>/lite/. Every chapter of the inductee as plain HTML, no WebGL and no canvas,
+// built from the same chapter JSON and the same verified-record views as the 3D rooms
+// (src/content/load.js, src/content/portrait.js). The chapter page sends visitors here
+// (/<slug>/lite/#chapter-<n>) when WebGL2 is unavailable or Lite is asked for.
+import Base from '../../layouts/Base.astro';
+import FactChips from '../../components/FactChips.astro';
+import ReconstructionPlaque from '../../components/ReconstructionPlaque.astro';
+import { listInductees, listChapters, loadChapter, loadInductee, factIndex, mediaIndex, factChips, exhibitView,
+  reconstructionView, chapterAudio, quoteAudio, portraitFiles, mediaFileSize, loadStudyCorner, studyCornerView } from '../../content/load.js';
+import StudyCornerPlaque from '../../components/StudyCornerPlaque.astro';
+import { gatedPortrait, quoteViews } from '../../content/portrait.js';
+import { exhibitFiles, panelImageUrl } from '../../museum/mediafiles.js';
+import { storyJourney, chaptersInJourneyOrder } from '../../content/journey.js';
+import { loadJourney } from '../../content/load.js';
+
+export function getStaticPaths() {
+  const slugs = new Set(listChapters().map(c => c.slug));
+  return listInductees().filter(s => slugs.has(s)).map(slug => ({ params: { slug }, props: { slug } }));
+}
+const { slug } = Astro.props;
+const inductee = loadInductee(slug);
+const idx = { ...factIndex(slug), media: mediaIndex(slug) };
+const portrait = gatedPortrait(inductee, idx, s => Boolean(portraitFiles(s)));
+
+// A 360 document has no WebGL here: show its scan pages as images instead of the model.
+function liteImages(ex, view) {
+  const f = exhibitFiles(ex);
+  if (view.media.kind === 'image') return [view.media];
+  const pages = ex.pages || [];
+  return [f.front, f.back].filter(Boolean).map((key, i) => ({
+    src: panelImageUrl(key), alt: pages[i] ? `${view.media.alt}, page ${pages[i]}` : view.media.alt, ...(mediaFileSize(key) || {}),
+  }));
+}
+
+// In journey order, so the story only scrolls down the page (src/content/journey.js chaptersInJourneyOrder).
+const journey = loadJourney(slug);
+const studyCorner = loadStudyCorner(slug);
+const chapters = chaptersInJourneyOrder(listChapters().filter(c => c.slug === slug).map(c => c.n), journey).map(n => {
+  const ch = loadChapter(slug, n);
+  const sorted = [...(ch.exhibits || [])].sort((a, b) => a.number - b.number);
+  const quotes = quoteViews(ch.quotes || [], idx, { name: inductee.name, slug, n, hasAudio: (s, c, id) => Boolean(quoteAudio(s, c, id)) });
+  return {
+    n, title: ch.title, accent: ch.accent, titleChips: factChips(ch.title_fact_ids, idx),
+    // A reconstructed place shows its plaque. A scanned study shows its recreated corner's plaque
+    // instead (the place itself is not on show).
+    reconstruction: ch.room === 'reconstructed-place' ? reconstructionView(ch.reconstruction, idx, ch.exhibits || [])
+      : null,
+    // A scanned study shows its recreated corner's plaque (Task 6, content/<slug>/study-corner.json).
+    corner: studyCorner && studyCorner.chapter === n ? studyCornerView(studyCorner, idx) : null,
+    audio: chapterAudio(slug, n) ? `/audio/${slug}/${n}-narration` : null,
+    lines: (ch.narration || []).map(l => ({ text: l.text, chips: factChips(l.fact_ids, idx), note: l.kind === 'museum-note' })),
+    exhibits: sorted.map(ex => { const v = exhibitView(ex, idx); return { ...v, images: liteImages(ex, v) }; }),
+    quotes,
+  };
+});
+// Story mode on this page (src/ui/story.js mountLiteStory): the rooms in journey order.
+const story = journey ? storyJourney(journey, { slug, chapters: new Map(chapters.map(c => [c.n, c.title])) }) : null;
+---
+<Base title={`${inductee.name}: all rooms (Lite)`} description={`Every room for ${inductee.name} as one page, without 3D.`}>
+  <div class="lite">
+    <p class="kicker">Lite version, no 3D</p>
+    <h1>{inductee.name}</h1>
+    <nav aria-label="Rooms on this page">
+      <ol class="toc">
+        {chapters.map(c => <li><a href={`#chapter-${c.n}`}>{c.title}</a></li>)}
+      </ol>
+    </nav>
+
+    {chapters.map(c => (
+      <section class="lite-chapter" id={`chapter-${c.n}`} aria-labelledby={`ch-${c.n}-title`} style={`--c-room-accent:${c.accent || '#3a2a2a'}`}>
+        <h2 id={`ch-${c.n}-title`}>{c.title} <FactChips chips={c.titleChips} prefix={`tip-ch${c.n}`} /></h2>
+        <p><a class="lite-link" href={`/${slug}/${c.n}/`} data-voa-mode="3d">Open this room in 3D</a></p>
+
+        {c.reconstruction && <ReconstructionPlaque reconstruction={c.reconstruction} id={`recon-${c.n}`} level={3} />}
+        {c.corner && <StudyCornerPlaque corner={c.corner} id={`corner-${c.n}`} level={3} lite />}
+
+        <h3>Narration</h3>
+        {c.audio && (
+          <audio controls preload="none" src={`${c.audio}.mp3`} data-narration>
+            <track kind="captions" srclang="en" label="English" src={`${c.audio}.vtt`} default />
+          </audio>
+        )}
+        <div class="lite-transcript">
+          {c.lines.map((l, i) => <p id={`ch-${c.n}-line-${i}`} data-museum-note={l.note ? '' : undefined}>{l.note && <span class="line-kind">Museum note: </span>}{l.text} <FactChips chips={l.chips} prefix={`tip-ch${c.n}-l${i}`} /></p>)}
+        </div>
+
+        <h3>Exhibits</h3>
+        {c.exhibits.some(ex => ex.holderDate) && <p class="holder-note" data-holder-note>Photo dates are given as the holding archive dates them.</p>}
+        <ol class="lite-exhibits">
+          {c.exhibits.map(ex => (
+            <li>
+              <article aria-labelledby={`ch-${c.n}-${ex.id}`}>
+                <h4 id={`ch-${c.n}-${ex.id}`}>{ex.label} <FactChips chips={ex.titleChips} prefix={`tip-ch${c.n}-${ex.id}-t`} /></h4>
+                <div class="lite-images">
+                  {ex.images.map(img => <img src={img.src} alt={img.alt} width={img.width} height={img.height} loading="lazy" />)}
+                </div>
+                {ex.notes.map((note, i) => <p>{note.text} <FactChips chips={note.chips} prefix={`tip-ch${c.n}-${ex.id}-n${i}`} /></p>)}
+                <dl class="meta">
+                  {ex.credit && (<><dt>Credit</dt><dd>{ex.credit}</dd></>)}
+                  {ex.rights && (<><dt>Rights</dt><dd>{ex.rights}</dd></>)}
+                  {ex.licence && (<><dt>Licence</dt><dd>{`“${ex.licence.workTitle}”, `}<a href={ex.licence.url} data-licence>{ex.licence.name}</a></dd><dt>Changes</dt><dd>{ex.licence.changes}</dd></>)}
+                  {ex.holderDate && (<><dt>Photo date</dt><dd data-holder-date>{`${ex.holderDate} (as the holder dates it)`}</dd></>)}
+                  {ex.evidence && (<><dt>Evidence</dt><dd>{ex.evidence}</dd></>)}
+                </dl>
+                {ex.reconstruction && <p class="reconstruction">{ex.reconstruction}</p>}
+                <p><a class="original" href={ex.originalUrl}>See the original</a></p>
+              </article>
+            </li>
+          ))}
+        </ol>
+
+        {c.quotes.length > 0 && (
+          <>
+            <h3>In their own words</h3>
+            {portrait && (
+              <figure class="lite-portrait">
+                <img src={portrait.image} alt={portrait.alt} width="324" height="400" loading="lazy" />
+                <figcaption>{portrait.badge} <a href="/how-this-was-made/#portraits">How these portraits were made</a></figcaption>
+              </figure>
+            )}
+            {c.quotes.map(q => (
+              <div class="lite-quote" data-quote={q.id}>
+                <blockquote><p>{q.text}</p></blockquote>
+                <p class="quote-source">Source: {q.source}. <FactChips chips={q.attributionChips || []} prefix={`tip-ch${c.n}-${q.id}`} /></p>
+                {q.audio && (
+                  <>
+                    <audio controls preload="none" src={q.audio.mp3}>
+                      <track kind="captions" srclang="en" label="English" src={q.audio.vtt} default />
+                    </audio>
+                    <p class="voice-label">{q.voiceLabel}</p>
+                  </>
+                )}
+              </div>
+            ))}
+          </>
+        )}
+      </section>
+    ))}
+
+    {story && (
+      <>
+        <!-- Story mode: the story bar (what plays now, the countdown, Stay, Close story); it never takes focus. -->
+        <div class="lite-story" role="group" aria-label="Story" data-story-bar hidden>
+          <p class="lite-story-text" data-story-text></p>
+          <button type="button" class="lite-story-btn" data-story-stay hidden>Stay</button>
+          <button type="button" class="lite-story-btn" data-story-close>Close story</button>
+        </div>
+        <p class="visually-hidden" aria-live="polite" data-story-announce></p>
+        <script type="application/json" id="story-data" set:html={JSON.stringify({ journey: story }).replace(/</g, '\\u003c')}></script>
+      </>
+    )}
+
+    <nav class="lite-nav" aria-label="More ways in">
+      <a href={`/${slug}/`}>Journey map</a>
+      <a href={`/${slug}/end/`}>Finish: quiz and other inductees</a>
+    </nav>
+  </div>
+</Base>
+
+<script>
+  import { initToggletips } from '../../ui/sources.js';
+  import { wireModeLinks } from '../../museum/capability.js';
+  import { mountLiteStory } from '../../ui/story.js';
+  initToggletips(document.body);
+  wireModeLinks();
+  const storyData = document.getElementById('story-data');
+  if (storyData) mountLiteStory({ data: JSON.parse(storyData.textContent) });
+</script>
+
+<style is:global>
+  .lite { padding: var(--space-4); max-width: 900px; margin: 0 auto; line-height: 1.5; }
+  .lite .kicker { margin: 0; color: var(--c-muted); }
+  .lite h1, .lite h2 { font-family: var(--f-serif); }
+  .lite a { color: var(--c-accent); }
+  .lite .toc a, .lite .lite-link, .lite .original, .lite-nav a { display: inline-block; min-height: 24px; padding: var(--space-1) 0; }
+  .lite-chapter { margin: var(--space-6) 0; padding-top: var(--space-4); border-top: 6px solid var(--c-room-accent); }
+  .lite-chapter audio { width: 100%; margin: var(--space-2) 0; }
+  .lite-exhibits { list-style: none; padding: 0; display: grid; gap: var(--space-5); }
+  .lite-exhibits article { background: #fffdf9; padding: var(--space-4); border-radius: 6px; }
+  .lite-exhibits h4 { font-size: 1.05rem; margin: 0 0 var(--space-3); }
+  .lite-images { display: flex; flex-wrap: wrap; gap: var(--space-3); }
+  .lite-images img { display: block; width: auto; height: auto; max-width: 100%; max-height: 60vh; }
+  .lite .meta { display: grid; grid-template-columns: max-content 1fr; gap: var(--space-1) var(--space-3); }
+  .lite .meta dt { font-weight: bold; }
+  .lite .holder-note { font-size: 0.875rem; color: var(--c-muted); }
+  /* Holder wording is verbatim and may hold long unbroken URLs: let it wrap anywhere, never widen the page. */
+  .lite .meta dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+  .lite-portrait { margin: var(--space-4) 0; max-width: 324px; }
+  .lite-portrait img { display: block; width: 100%; height: auto; }
+  .lite-portrait figcaption { font-size: 0.875rem; margin-top: var(--space-2); }
+  .lite-quote blockquote { margin: var(--space-3) 0; font-family: var(--f-serif); font-size: 1.15rem; }
+  .lite .quote-source, .lite .voice-label { font-size: 0.875rem; color: var(--c-muted); }
+  .lite [hidden] { display: none !important; }
+  /* Story bar: fixed at the foot of the window, above the page. */
+  .lite-story { position: fixed; left: 50%; bottom: var(--space-3); transform: translateX(-50%); z-index: 40; display: flex; flex-wrap: wrap;
+    align-items: center; justify-content: center; gap: var(--space-2) var(--space-3); width: max-content; max-width: calc(100% - 2 * var(--space-3));
+    box-sizing: border-box; padding: var(--space-2) var(--space-3); border-radius: 12px; background: #1f1d1aee; color: #fff;
+    border: 2px solid #fff; box-shadow: 0 4px 18px #0009; }
+  .lite-story-text { margin: 0; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .lite-story-btn { min-height: 44px; min-width: 44px; padding: var(--space-1) var(--space-4); font: inherit; font-weight: 700; color: #1f1d1a;
+    background: #f3eee2; border: 2px solid #fff; border-radius: 22px; cursor: pointer; }
+  .lite-story-btn:hover { background: #fff; }
+  .lite-story-btn:focus-visible { outline: 3px solid #fff; outline-offset: 2px; box-shadow: 0 0 0 7px var(--c-focus); }
+  /* Room for the bar under the last lines of the page. */
+  .lite:has(.lite-story:not([hidden])) { padding-bottom: 7rem; }
+  .lite-chapter h2:focus { outline: none; }
+  .lite-chapter h2:focus-visible { outline: 3px solid var(--c-focus); outline-offset: 4px; }
+  .lite-nav { display: flex; flex-wrap: wrap; gap: var(--space-5); margin: var(--space-5) 0; }
+</style>

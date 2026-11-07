@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn82016181/1941-10-01/ed-1/?sp=32",
+  "fetch_url": "https://www.loc.gov/resource/sn82016181/1941-10-01/ed-1/?sp=32&fo=json",
+  "method": "api",
+  "fetched_at": "2026-11-01T20:50:33Z",
+  "sha256": "ca04c44e6667a3e4082ce5e3f904a6181a872dc64902205a1fc7422ca0923c3b",
+  "bytes": 16070,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn82016181/1941-10-01/ed-1/?sp=32&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_hara_ver01/data/sn82016181/00516999846/1941100101/1088.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/dlc/batch_dlc_hara_ver01/data/sn82016181/00516999846/1941100101/1088.xml"
+}

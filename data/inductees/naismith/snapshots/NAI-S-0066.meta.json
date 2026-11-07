@@ -1,0 +1,10 @@
+{
+  "url": "https://news.ku.edu/news/article/2015/12/15/professor-discovers-only-known-audio-recording-james-naismith",
+  "fetch_url": "https://news.ku.edu/news/article/2015/12/15/professor-discovers-only-known-audio-recording-james-naismith",
+  "method": "http",
+  "fetched_at": "2026-10-10T22:41:11Z",
+  "sha256": "17cec578b90d6bbfa410d5cbc9b9478585ee4bc1e9baaa0d0f0a83b9cda1a4b0",
+  "bytes": 12054,
+  "http_status": 200,
+  "final_url": "https://news.ku.edu/news/article/2015/12/15/professor-discovers-only-known-audio-recording-james-naismith"
+}

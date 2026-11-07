@@ -1,0 +1,243 @@
+_version_: 1733365405879107584
+access_restricted: false
+aka[0]: http://www.loc.gov/pictures/item/2006678855/
+aka[1]: http://www.loc.gov/pictures/collection/stereo/item/2006678855/
+aka[2]: https://hdl.loc.gov/loc.pnp/stereo.1s00996
+aka[3]: https://hdl.loc.gov/loc.pnp/stereo.2s00996
+aka[4]: http://www.loc.gov/item/2006678855/
+aka[5]: http://www.loc.gov/resource/stereo.1s00996/
+aka[6]: http://www.loc.gov/resource/stereo.2s00996/
+aka[7]: http://lccn.loc.gov/2006678855
+call_number: LOT 11958-21, no. 7 [P&P]
+contributor_names[0]: Soule, John P., photographer
+contributors[0].soule, john p.: https://www.loc.gov/search/?fa=contributor:soule,+john+p.&fo=json
+created: 2014-11-03 19:35:04
+created_published[0]: Boston, Mass. : Published by John P. Soule, 199 Washington Street, c1870.
+created_published_date: c1870.
+date: 1870-01-01
+description[0]: 1 photographic print on stereo card : stereograph, albumen.
+digital_id[0]: stereo 1s00996 http://hdl.loc.gov/loc.pnp/stereo.1s00996
+digital_id[1]: stereo 2s00996 http://hdl.loc.gov/loc.pnp/stereo.2s00996
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-09-01T20:18:40.308Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/stereo/item/2006678855/#stereo
+extract_urls[1]: http://lccn.loc.gov/2006678855#catalog-split-15
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Albumen prints--1870.
+format_headings[1]: Stereographs--1870.
+genre[0]: Stereographs--1870
+genre[1]: Albumen prints--1870
+group[0]: stereo
+group[1]: catalog-split-15
+group[2]: catalog
+group[3]: stereograph-cards
+group[4]: main-catalog-split-15
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2006678855/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996t.gif#h=76&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996r.jpg#h=326&w=640
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996v.jpg#h=522&w=1024
+index: 1
+item.call_number: LOT 11958-21, no. 7 [P&P]
+item.contributors[0]: Soule, John P., photographer.
+item.control_number: 2006678855
+item.created: 2014-11-03 19:35:04
+item.created_published: Boston, Mass. : Published by John P. Soule, 199 Washington Street, c1870.
+item.created_published_date: c1870.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Soule%2C%20John%20P.&co=stereo
+item.creators[0].role: photographer
+item.creators[0].title: Soule, John P.
+item.date: c1870.
+item.digital_id[0]: stereo 1s00996 http://hdl.loc.gov/loc.pnp/stereo.1s00996
+item.digital_id[1]: stereo 2s00996 http://hdl.loc.gov/loc.pnp/stereo.2s00996
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Albumen%20prints--1870.&co=stereo
+item.formats[0].title: Albumen prints--1870.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Stereographs--1870.&co=stereo
+item.formats[1].title: Stereographs--1870.
+item.genre[0]: Stereographs--1870
+item.genre[1]: Albumen prints--1870
+item.id: 2006678855
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2006678855/
+item.location[0]: Yosemite Valley (Calif.)
+item.marc: https://www.loc.gov/pictures/item/2006678855/marc/
+item.medium[0]: 1 photographic print on stereo card : stereograph, albumen.
+item.medium_brief: 1 photographic print on stereo card :
+item.mediums[0]: 1 photographic print on stereo card : stereograph, albumen.
+item.modified: 2014-11-03 19:35:05
+item.notes[0]: Title from item.
+item.notes[1]: No. 1072.
+item.notes[2]: Part of series: California - Views in the Yo Semite Valley.
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+item.place[0].title: California--Yosemite Valley
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-DIG-stereo-1s00996 (digital file from original photo)
+LC-DIG-stereo-2s00996 (digital file from original photo, back)
+item.resource_links[0]: http://hdl.loc.gov/loc.pnp/stereo.1s00996
+item.resource_links[1]: http://hdl.loc.gov/loc.pnp/stereo.2s00996
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996r.jpg
+item.sort_date: 1870
+item.source_created: 2006-03-02 00:00:00
+item.source_modified: 2006-04-03 09:14:00
+item.subject_headings[0]: Yosemite Valley (Calif.)--1870.
+item.subject_headings[1]: California--Yosemite Valley
+item.subjects[0]: Yosemite Valley (Calif.)--1870
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996_150px.jpg
+item.title: Huching's [Hutchings'] Hotel, and Sentinel Rock, Yo Semite Valley
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+latlong[0]: 37.74075
+latlong[1]: -119.57788
+library_of_congress_control_number: 2006678855
+link: https://www.loc.gov/pictures/item/2006678855/
+location[0]: california
+location[1]: yosemite valley
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].yosemite valley: https://www.loc.gov/search/?fa=location:yosemite+valley&fo=json
+lonlat[0]: -119.57788
+lonlat[1]: 37.74075
+marc: https://www.loc.gov/pictures/item/2006678855/marc/
+medium[0]: 1 photographic print on stereo card : stereograph, albumen.
+medium_brief: 1 photographic print on stereo card :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2014-11-03 19:35:05
+notes[0]: Title from item.
+notes[1]: No. 1072.
+notes[2]: Part of series: California - Views in the Yo Semite Valley.
+number[0]: 2006-04-03t09:14:00
+number[1]: 2006678855
+number_lccn[0]: 2006678855
+number_source_modified[0]: 2006-04-03t09:14:00
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2006678855/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2006678855/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2006678855/dc
+partof[0].count: 225
+partof[0].title: lot 11958
+partof[0].url: https://www.loc.gov/search/?fa=partof:lot+11958&fo=json
+partof[1].count: 55799
+partof[1].title: stereograph cards
+partof[1].url: https://www.loc.gov/collections/stereograph-cards/?fo=json
+partof[2].count: 910731
+partof[2].title: prints & photographs online catalog (library of congress)
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[3].count: 1162489
+partof[3].title: prints and photographs division
+partof[3].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[4].count: 1910629
+partof[4].title: catalog
+partof[4].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+place[0].title: California--Yosemite Valley
+related.group_record: https://www.loc.gov/pictures/search/?q=LOT 11958&fi=number&op=PHRASE&va=exact&co=coll&sg=true
+related.neighbors: https://www.loc.gov/pictures/related/?&co=stereo&pk=2006678855&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-DIG-stereo-1s00996 (digital file from original photo)
+LC-DIG-stereo-2s00996 (digital file from original photo, back)
+resource_links[0]: http://hdl.loc.gov/loc.pnp/stereo.1s00996
+resource_links[1]: http://hdl.loc.gov/loc.pnp/stereo.2s00996
+resources[0].caption: digital file from original photo
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996_150px.jpg
+resources[0].url: https://www.loc.gov/resource/stereo.1s00996/
+resources[1].caption: digital file from original photo, back
+resources[1].files: 1
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/stereo/2s00000/2s00000/2s00900/2s00996_150px.jpg
+resources[1].url: https://www.loc.gov/resource/stereo.2s00996/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Stereographs - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.459465
+shard: 00
+shelf_id: LOT 11958-21, no. 7 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1870
+source_created: 2006-03-02 00:00:00
+source_modified: 2006-04-03 09:14:00
+subject[0]: albumen prints
+subject[1]: yosemite valley (calif.)
+subject[2]: stereographs
+subject_headings[0]: Yosemite Valley (Calif.)--1870
+subjects[0].albumen prints: https://www.loc.gov/search/?fa=subject:albumen+prints&fo=json
+subjects[1].stereographs: https://www.loc.gov/search/?fa=subject:stereographs&fo=json
+subjects[2].yosemite valley (calif.): https://www.loc.gov/search/?fa=subject:yosemite+valley+%28calif.%29&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996_150px.jpg
+timestamp: 2022-05-20T17:01:08.452Z
+title: Huching's [Hutchings'] Hotel, and Sentinel Rock, Yo Semite Valley
+unrestricted: true
+url: https://www.loc.gov/item/2006678855/
+resources[0].caption: digital file from original photo
+resources[0].files[0][0].height: 76
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/gif
+resources[0].files[0][0].size: 11685
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996t.gif
+resources[0].files[0][0].width: 150
+resources[0].files[0][1].height: 326
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 49993
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996r.jpg
+resources[0].files[0][1].width: 640
+resources[0].files[0][2].height: 522
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].size: 130989
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996v.jpg
+resources[0].files[0][2].width: 1024
+resources[0].files[0][3].height: 2469
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/tiff
+resources[0].files[0][3].size: 35892308
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/master/pnp/stereo/1s00000/1s00000/1s00900/1s00996u.tif
+resources[0].files[0][3].width: 4845
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s00000/1s00900/1s00996_150px.jpg
+resources[0].url: https://www.loc.gov/resource/stereo.1s00996/
+resources[1].caption: digital file from original photo, back
+resources[1].files[0][0].height: 150
+resources[1].files[0][0].levels: 1
+resources[1].files[0][0].mimetype: image/gif
+resources[1].files[0][0].size: 11200
+resources[1].files[0][0].url: https://tile.loc.gov/storage-services/service/pnp/stereo/2s00000/2s00000/2s00900/2s00996t.gif
+resources[1].files[0][0].width: 77
+resources[1].files[0][1].height: 640
+resources[1].files[0][1].levels: 1
+resources[1].files[0][1].mimetype: image/jpeg
+resources[1].files[0][1].size: 51165
+resources[1].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/stereo/2s00000/2s00000/2s00900/2s00996r.jpg
+resources[1].files[0][1].width: 330
+resources[1].files[0][2].height: 1024
+resources[1].files[0][2].levels: 1
+resources[1].files[0][2].mimetype: image/jpeg
+resources[1].files[0][2].size: 160575
+resources[1].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/stereo/2s00000/2s00000/2s00900/2s00996v.jpg
+resources[1].files[0][2].width: 528
+resources[1].files[0][3].height: 4832
+resources[1].files[0][3].levels: 1
+resources[1].files[0][3].mimetype: image/tiff
+resources[1].files[0][3].size: 36114816
+resources[1].files[0][3].url: https://tile.loc.gov/storage-services/master/pnp/stereo/2s00000/2s00000/2s00900/2s00996u.tif
+resources[1].files[0][3].width: 2491
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/stereo/2s00000/2s00000/2s00900/2s00996_150px.jpg
+resources[1].url: https://www.loc.gov/resource/stereo.2s00996/
+cite_this.apa: Soule, J. P., photographer. (ca. 1870) Huching's Hutchings' Hotel, and Sentinel Rock, Yo Semite Valley. California Yosemite Valley, ca. 1870. Boston, Mass.: Published by John P. Soule, 199 Washington Street. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2006678855/.
+cite_this.chicago: Soule, John P, photographer. Huching's Hutchings' Hotel, and Sentinel Rock, Yo Semite Valley. California Yosemite Valley, ca. 1870. Boston, Mass.: Published by John P. Soule, 199 Washington Street. Photograph. https://www.loc.gov/item/2006678855/.
+cite_this.mla: Soule, John P, photographer. Huching's Hutchings' Hotel, and Sentinel Rock, Yo Semite Valley. Boston, Mass.: Published by John P. Soule, 199 Washington Street. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2006678855/>.

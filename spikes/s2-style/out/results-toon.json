@@ -1,0 +1,293 @@
+{
+ "result": {
+  "id": "toon",
+  "tokenCount": 71,
+  "authoredTokens": 36,
+  "timings": {
+   "buildMs": 209.2,
+   "propsNetworkMs": 64.9,
+   "firstSampleMs": 146.9,
+   "captureAccumMs": 146.9,
+   "samples": 1,
+   "resolveEquirectMs": 38.2,
+   "resolveFlatMs": 4.3,
+   "pixelsReadyMs": 417.3,
+   "encodeEquirectWebpMs": 1436.3,
+   "encodeFlatWebpMs": 184.4,
+   "totalMs": 7211.3
+  },
+  "sizes": {
+   "equirectWebp70KiB": 288.9,
+   "flatWebp80KiB": 73.2,
+   "equirectJpeg70KiB": 529.4,
+   "equirectWebp50KiB": 238.7,
+   "equirectWebpLosslessKiB": 1509.7,
+   "equirectPngKiB": 3001.1
+  },
+  "stats": {
+   "meshes": 168,
+   "triangles": 32790
+  },
+  "outline": {
+   "hulls": 12,
+   "ribbonSegments": 1464,
+   "widthDeg": 0.26
+  },
+  "propTriangles": {
+   "chalkboard-standing": {
+    "before": 2372,
+    "after": 2372
+   },
+   "basket-north": {
+    "before": 22276,
+    "after": 22276
+   }
+  },
+  "notes": [],
+  "assets": [
+   {
+    "id": "standing_chalkboard_01",
+    "provider": "Poly Haven",
+    "licence": "CC0-1.0",
+    "pageUrl": "https://polyhaven.com/a/standing_chalkboard_01",
+    "declaredBytes": 2617256
+   },
+   {
+    "id": "wicker_basket_01",
+    "provider": "Poly Haven",
+    "licence": "CC0-1.0",
+    "pageUrl": "https://polyhaven.com/a/wicker_basket_01",
+    "declaredBytes": 2730151
+   }
+  ],
+  "seams": {
+   "real": {
+    "seamPairs": 13142,
+    "dLseam": 2.635,
+    "dLctrl": 4.879,
+    "dLratio": 0.54,
+    "p95seam": 13.9,
+    "p95ctrl": 54,
+    "inkDensityNear": 0.078,
+    "inkDensityFar": 0.1259,
+    "inkRatio": 0.619,
+    "inkPixelsNear": 5863,
+    "seamPixelCount": 13142
+   },
+   "null": {
+    "dLratio": {
+     "mean": 0.949,
+     "sd": 0.078,
+     "min": 0.79,
+     "max": 1.078,
+     "z": -5.22
+    },
+    "inkRatio": {
+     "mean": 1.062,
+     "sd": 0.092,
+     "min": 0.984,
+     "max": 1.245,
+     "z": -4.8
+    },
+    "p95seam": {
+     "mean": 8.557,
+     "sd": 1.452,
+     "min": 6.4,
+     "max": 10.3,
+     "z": 3.68
+    }
+   }
+  },
+  "analysisSeamMs": 4390,
+  "lineWeight": [
+   {
+    "faceRadius": "0-0.33",
+    "runs": 5493,
+    "meanRunPx": 2.46
+   },
+   {
+    "faceRadius": "0.33-0.67",
+    "runs": 3725,
+    "meanRunPx": 3.02
+   },
+   {
+    "faceRadius": "0.67-1",
+    "runs": 6885,
+    "meanRunPx": 3.17
+   }
+  ],
+  "legibilityFlat": {
+   "blocks": 144,
+   "block": [
+    160,
+    40
+   ],
+   "whiteBare": {
+    "min": 1.23,
+    "p5": 1.35,
+    "median": 1.86,
+    "passAA": 0.125,
+    "pass3": 0.174
+   },
+   "inkBare": {
+    "min": 1,
+    "p5": 1.03,
+    "median": 1.03,
+    "passAA": 0.222,
+    "pass3": 0.243
+   },
+   "whiteOnScrim": {
+    "min": 8.49,
+    "p5": 8.88,
+    "median": 10.21,
+    "passAA": 1,
+    "pass3": 1
+   },
+   "worstWhite": {
+    "c": 1.229030203118123,
+    "x": 320,
+    "y": 280,
+    "scrim": 8.48864342904234
+   },
+   "worstInk": {
+    "c": 1.0027058988040591,
+    "x": 480,
+    "y": 480
+   }
+  },
+  "legibilityEquirect": {
+   "blocks": 850,
+   "block": [
+    160,
+    40
+   ],
+   "whiteBare": {
+    "min": 1,
+    "p5": 1.01,
+    "median": 1.87,
+    "passAA": 0.169,
+    "pass3": 0.318
+   },
+   "inkBare": {
+    "min": 1.01,
+    "p5": 1.03,
+    "median": 1.7,
+    "passAA": 0.406,
+    "pass3": 0.452
+   },
+   "whiteOnScrim": {
+    "min": 7.68,
+    "p5": 7.73,
+    "median": 10.32,
+    "passAA": 1,
+    "pass3": 1
+   },
+   "worstWhite": {
+    "c": 1,
+    "x": 320,
+    "y": 600,
+    "scrim": 7.683632269531539
+   },
+   "worstInk": {
+    "c": 1.0147962692404102,
+    "x": 3680,
+    "y": 840
+   }
+  },
+  "photoPatch": {
+   "centerPx": [
+    306,
+    433
+   ],
+   "meanRGB": [
+    103,
+    97,
+    88
+   ],
+   "distinctColours": 997,
+   "widthPx": 146
+  },
+  "equirectMeanLuma": 140.5,
+  "distinctColours6bit": 2242,
+  "viewed": {
+   "wide": {
+    "resampleOnly": {
+     "meanAbs": 2.11,
+     "psnr": 29.74
+    },
+    "withWebp70": {
+     "meanAbs": 4.052,
+     "psnr": 28.56
+    }
+   },
+   "zoom": {
+    "resampleOnly": {
+     "meanAbs": 2.476,
+     "psnr": 29.99
+    },
+    "withWebp70": {
+     "meanAbs": 4.404,
+     "psnr": 28.78
+    }
+   }
+  },
+  "viewedMs": 430.4,
+  "run": 2
+ },
+ "runs": [
+  {
+   "id": "toon",
+   "timings": {
+    "buildMs": 155.7,
+    "propsNetworkMs": 59.4,
+    "firstSampleMs": 179.4,
+    "captureAccumMs": 179.4,
+    "samples": 1,
+    "resolveEquirectMs": 37.9,
+    "resolveFlatMs": 5.2,
+    "pixelsReadyMs": 398,
+    "encodeEquirectWebpMs": 1433,
+    "encodeFlatWebpMs": 193.3,
+    "totalMs": 5178.4
+   },
+   "sizes": {
+    "equirectWebp70KiB": 288.9,
+    "flatWebp80KiB": 73.2,
+    "equirectJpeg70KiB": 529.4,
+    "equirectWebp50KiB": 238.7,
+    "equirectWebpLosslessKiB": 1509.7,
+    "equirectPngKiB": 3001.1
+   }
+  },
+  {
+   "id": "toon",
+   "timings": {
+    "buildMs": 209.2,
+    "propsNetworkMs": 64.9,
+    "firstSampleMs": 146.9,
+    "captureAccumMs": 146.9,
+    "samples": 1,
+    "resolveEquirectMs": 38.2,
+    "resolveFlatMs": 4.3,
+    "pixelsReadyMs": 417.3,
+    "encodeEquirectWebpMs": 1436.3,
+    "encodeFlatWebpMs": 184.4,
+    "totalMs": 7211.3
+   },
+   "sizes": {
+    "equirectWebp70KiB": 288.9,
+    "flatWebp80KiB": 73.2,
+    "equirectJpeg70KiB": 529.4,
+    "equirectWebp50KiB": 238.7,
+    "equirectWebpLosslessKiB": 1509.7,
+    "equirectPngKiB": 3001.1
+   }
+  }
+ ],
+ "gpu": {
+  "renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)",
+  "version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+  "maxTexture": 16384
+ },
+ "three": "186"
+}

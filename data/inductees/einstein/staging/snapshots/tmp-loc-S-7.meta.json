@@ -1,0 +1,10 @@
+{
+  "url": "https://guides.loc.gov/einstein-annus-mirabilis/1905-papers",
+  "fetch_url": "https://guides.loc.gov/einstein-annus-mirabilis/1905-papers",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:24:49Z",
+  "sha256": "7a56dac197ad41894c46fb789d0b46be3c66fe55fd388b045dbdfc578fc70057",
+  "bytes": 3932,
+  "http_status": 200,
+  "final_url": "https://guides.loc.gov/einstein-annus-mirabilis/1905-papers"
+}

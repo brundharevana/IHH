@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn82015425/1953-04-29/ed-1/?sp=4",
+  "fetch_url": "https://www.loc.gov/resource/sn82015425/1953-04-29/ed-1/?sp=4&fo=json",
+  "method": "api",
+  "fetched_at": "2026-11-01T20:45:07Z",
+  "sha256": "af12646af8dd2e74b2a9807e64fa60a4bbeb7e320de197478d88e54e7034ed42",
+  "bytes": 39060,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn82015425/1953-04-29/ed-1/?sp=4&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/gu/batch_gu_falkor_ver01/data/sn82015425/00529040817/1953042901/0696.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/gu/batch_gu_falkor_ver01/data/sn82015425/00529040817/1953042901/0696.xml"
+}

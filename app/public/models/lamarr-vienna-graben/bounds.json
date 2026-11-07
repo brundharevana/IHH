@@ -1,0 +1,88 @@
+{
+  "$comment": "Walkable bounds for free roam in lamarr-vienna-graben.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 20.0,
+  "walkable": {
+    "x_min": -15.6,
+    "x_max": 12.6,
+    "z_min": -235.0,
+    "z_max": -8.0
+  },
+  "obstacles": [
+    {
+      "name": "advertising_column",
+      "x_min": -3.75,
+      "x_max": -1.85,
+      "z_min": -36.95,
+      "z_max": -35.05
+    },
+    {
+      "name": "fountain",
+      "x_min": -10.45,
+      "x_max": 2.05,
+      "z_min": -60.25,
+      "z_max": -47.75
+    },
+    {
+      "name": "pavilion",
+      "x_min": -9.25,
+      "x_max": 3.25,
+      "z_min": -73.75,
+      "z_max": -66.25
+    },
+    {
+      "name": "plague_column",
+      "x_min": -8.75,
+      "x_max": 2.75,
+      "z_min": -183.75,
+      "z_max": -172.25
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 1.0,
+      "z": -12.0,
+      "look_at": {
+        "x": -1.0,
+        "y": 1.5,
+        "z": -120.0
+      },
+      "note": "In the street below the viewpoint of the 1902 stereograph"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -0.5,
+      "z": -44.0,
+      "look_at": {
+        "x": -3.0,
+        "y": 1.5,
+        "z": -54.0
+      },
+      "note": "Between the advertising column and the fountain"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 11.4,
+      "z": -120.0,
+      "look_at": {
+        "x": -3.0,
+        "y": 1.5,
+        "z": -178.0
+      },
+      "note": "On the right-hand sidewalk, towards the Plague Column"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 2.5,
+      "z": -165.0,
+      "look_at": {
+        "x": -3.0,
+        "y": 1.5,
+        "z": -178.0
+      },
+      "note": "Before the Plague Column"
+    }
+  ]
+}

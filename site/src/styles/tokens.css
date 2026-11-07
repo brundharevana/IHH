@@ -1,0 +1,112 @@
+/* Design tokens. Two layers:
+   1. The site's original light tokens (--c-*, --f-*, --space-1..6), used by the rooms, the Lite page
+      and the method page. Unchanged.
+   2. The dark glass design system of the home page and the timeline (real-scan museum spec, Home
+      page; numbers from docs/research/direction/REF-tapestry-v2.md section 7.5, our own values,
+      no CyArk material). A page opts in with <html data-theme="dark"> (Base.astro theme="dark"),
+      which also maps the --c-* tokens to dark values so shared components (fact chips, toggletips,
+      focus ring) follow.
+   Every text colour on glass is checked over the darkest and lightest backdrop it can sit on by
+   src/styles/contrast.js (scripts/contrast-check.mjs, src/test/contrast.test.js), also with the
+   solid panels of prefers-reduced-transparency. */
+
+/* Poppins, SIL Open Font License 1.1 (public/fonts/poppins/OFL.txt), self-hosted: weights 300-700,
+   Latin and Latin Extended subsets (Fontsource 5.3.0 build of the Poppins Project fonts). */
+@font-face { font-family: 'Poppins'; font-style: normal; font-display: swap; font-weight: 300; src: url(/fonts/poppins/poppins-latin-300-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Poppins'; font-style: normal; font-display: swap; font-weight: 400; src: url(/fonts/poppins/poppins-latin-400-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Poppins'; font-style: normal; font-display: swap; font-weight: 500; src: url(/fonts/poppins/poppins-latin-500-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Poppins'; font-style: normal; font-display: swap; font-weight: 600; src: url(/fonts/poppins/poppins-latin-600-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Poppins'; font-style: normal; font-display: swap; font-weight: 700; src: url(/fonts/poppins/poppins-latin-700-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Poppins'; font-style: normal; font-display: swap; font-weight: 300; src: url(/fonts/poppins/poppins-latin-ext-300-normal.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: 'Poppins'; font-style: normal; font-display: swap; font-weight: 400; src: url(/fonts/poppins/poppins-latin-ext-400-normal.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: 'Poppins'; font-style: normal; font-display: swap; font-weight: 500; src: url(/fonts/poppins/poppins-latin-ext-500-normal.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: 'Poppins'; font-style: normal; font-display: swap; font-weight: 600; src: url(/fonts/poppins/poppins-latin-ext-600-normal.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: 'Poppins'; font-style: normal; font-display: swap; font-weight: 700; src: url(/fonts/poppins/poppins-latin-ext-700-normal.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+:root {
+  --c-bg: #f4f1ec; --c-ink: #1f1d1a; --c-muted: #5b564f; --c-accent: #7a2e1f;
+  --c-panel: #ffffffee; --c-focus: #0b57d0; --c-tip-bg: #ffffff;
+  --f-serif: "Source Serif 4", Georgia, serif; --f-sans: "Atkinson Hyperlegible", system-ui, sans-serif;
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px; --space-5: 24px; --space-6: 40px;
+  /* Fills under white text on the 3D stage (ChapterRoom.astro). A scanned room can be bright behind
+     them, so each is checked over a white backdrop too (src/styles/contrast.js PAIRS). */
+  --stage-pill: rgb(20 18 16 / 0.7);        /* drag hint and full-detail pills */
+  --stage-bar-top: #00000099;               /* player bar gradient, top edge (its lightest) */
+  --stage-bar-bottom: #000000cc;            /* player bar gradient, bottom edge */
+  --stage-caption: #000000c4;               /* caption lines */
+  --stage-control: #1f1d1acc;               /* play button, door buttons, story pill */
+  --stage-card: #1f1d1aee;                  /* story card, hovered controls */
+  --stage-rail-num: #1f1d1a;                /* the solid disc behind a rail thumbnail's number */
+
+  /* Dark glass design system. */
+  --f-ui: "Poppins", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --voa-bg: #0b0f15;
+  --voa-text: #ffffff;
+  --voa-text-2: rgb(255 255 255 / .86);
+  --voa-text-3: rgb(255 255 255 / .74);
+  --voa-accent-text: #ffc58a;
+  /* Primary action: a burnt-orange gradient, deep enough for white 14 px text at 4.5:1 or more. */
+  --voa-orange-1: #b9531c;
+  --voa-orange-2: #a9461b;
+  --voa-on-accent: #ffffff;
+  --voa-orange-glow: rgb(217 110 44 / .42);
+  --voa-orange-glow-strong: rgb(232 128 58 / .55);
+  /* Glass: a dark tinted fill (text stays legible over a white backdrop), blur, a thin light border. */
+  --glass-panel: rgb(13 17 24 / .74);
+  --glass-fill: rgb(255 255 255 / .14);
+  --glass-fill-hover: rgb(255 255 255 / .2);
+  --glass-border: rgb(255 255 255 / .22);
+  --glass-border-hover: rgb(255 255 255 / .36);
+  --glass-blur: blur(14px) saturate(1.2);
+  --glass-shadow: 0 2px 12px rgb(0 0 0 / .2), inset 0 1px 0 rgb(255 255 255 / .1);
+  --card-shadow: 0 8px 32px rgb(0 0 0 / .35);
+  --card-shadow-active: 0 16px 48px rgb(0 0 0 / .5), 0 0 24px rgb(217 110 44 / .18);
+  --hero-scrim: rgb(11 15 21 / .7);
+  --radius-pill: 999px; --radius-card: 14px; --radius-btn: 10px;
+  --space-7: 32px; --space-8: 48px; --space-9: 64px; --space-10: 96px;
+  --ease-out: cubic-bezier(.16, 1, .3, 1);
+  --ease-std: cubic-bezier(.25, .1, .25, 1);
+  /* Type scale (Poppins): hero, section, card title, body, small, label. */
+  --t-hero: clamp(2rem, 3.4vw, 3.25rem);
+  --t-section: clamp(1.625rem, 3.2vw, 2.5rem);
+  --t-card: 1.25rem;
+  --t-body: 1rem;
+  --t-small: .875rem;
+  --t-label: .75rem;
+  /* Breakpoints (media queries cannot read custom properties; these document the values used):
+     1024, 950 (hero stacks), 768 (phone chrome), 640 (single column), 430. */
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --c-bg: var(--voa-bg); --c-ink: var(--voa-text); --c-muted: #9aa3b2; --c-accent: var(--voa-accent-text);
+  --c-panel: #141a22; --c-focus: #9cc3ff; --c-tip-bg: #141a22;
+  --f-sans: var(--f-ui);
+}
+
+/* Reduced transparency: every glass surface becomes solid (no blur, opaque fills). */
+@media (prefers-reduced-transparency: reduce) {
+  :root {
+    --glass-panel: #141a22;
+    --glass-fill: #30353d;
+    --glass-fill-hover: #3b414a;
+    --glass-border: #5a6170;
+    --glass-border-hover: #707888;
+    --glass-blur: none;
+    --hero-scrim: #0b0f15;
+  }
+}
+
+:focus-visible { outline: 3px solid var(--c-focus); outline-offset: 2px; }
+.visually-hidden { position: absolute !important; clip: rect(0 0 0 0); width: 1px; height: 1px; overflow: hidden; white-space: nowrap; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }

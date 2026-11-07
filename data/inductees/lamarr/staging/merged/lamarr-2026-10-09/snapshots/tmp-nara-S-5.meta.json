@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/563593",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=563593",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:43:12Z",
+  "sha256": "9a38b7be80058a6f2b2c1bd5f2672d5a616ea331772ba0d990f3378f8e7a85a6",
+  "bytes": 7893,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=563593"
+}

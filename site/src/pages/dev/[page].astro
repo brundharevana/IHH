@@ -1,0 +1,59 @@
+---
+// Dev-only test benches, generated only when PUBLIC_DEV_PAGES=1. Never linked, never in production.
+// /dev/portrait/: the living portrait player. No verified direct-quote fact exists for Einstein
+// yet, so the quote text is a marked placeholder; the labels still use the real templates.
+// /dev/reconstruction/: the reconstructed-place room. No verified basis photo of a real place
+// exists yet, so the room, its basis records and its note are a clearly fake PLACEHOLDER test
+// place (src/content/dev-place.js); the room code, plaque and labels are the production ones.
+import Base from '../../layouts/Base.astro';
+import Portrait from '../../components/Portrait.astro';
+import ChapterRoom from '../../components/ChapterRoom.astro';
+import { devPagesEnabled } from '../../content/dev.js';
+import { devPlace } from '../../content/dev-place.js';
+import { mediaIndex, factIndex } from '../../content/load.js';
+import { portraitFromMedia, voiceLabel } from '../../content/portrait.js';
+
+export function getStaticPaths() {
+  return devPagesEnabled() ? [{ params: { page: 'portrait' } }, { params: { page: 'reconstruction' } }] : [];
+}
+const { page } = Astro.params;
+const place = page === 'reconstruction' ? devPlace() : null;
+
+const name = 'Albert Einstein';
+const { sources } = factIndex('einstein');
+// EIN-M-0006 (LoC 2004671908) still has license_class "unknown" in the records; the owner approved
+// treating LoC "No known restrictions on publication" as public domain with the exact wording shown
+// (2026-10-09), applied to the records in Task 10. Until then only this dev page uses it, so the
+// production licence gate (gatedPortrait) is bypassed here on purpose; the files come from the
+// dev-only route src/pages/dev/portraits/[file].js.
+const portrait = portraitFromMedia(mediaIndex('einstein').get('EIN-M-0006'), sources, name,
+  { image: '/dev/portraits/einstein.webp', depth: '/dev/portraits/einstein-depth.png' });
+const quotes = [{
+  id: 'placeholder',
+  text: 'PLACEHOLDER, not a quote',
+  voiceLabel: voiceLabel({ name, source: 'PLACEHOLDER', date: 'PLACEHOLDER' }),
+  source: 'PLACEHOLDER',
+  audio: { mp3: '/dev/audio/portrait-placeholder.mp3', vtt: '/dev/audio/portrait-placeholder.vtt' },
+}, {
+  // No audio built for this one: it must show no play button and no AI voice label.
+  id: 'placeholder-2',
+  text: 'PLACEHOLDER 2, not a quote',
+  voiceLabel: voiceLabel({ name, source: 'PLACEHOLDER', date: 'PLACEHOLDER' }),
+  source: 'PLACEHOLDER',
+  audio: null,
+}];
+---
+{page === 'portrait' && (
+<Base title="Portrait player (dev)" description="Dev-only test page for the living portrait player.">
+  <div style="padding: var(--space-4); max-width: 1200px; margin: 0 auto;">
+    <h1>Portrait player (dev only)</h1>
+    <p>Test page. The quote below is a placeholder, not a real quote.</p>
+    <Portrait portrait={portrait} quotes={quotes} />
+  </div>
+</Base>
+)}
+{place && (
+<Base title="Reconstructed place (dev)" description="Dev-only test page for the reconstructed-place room.">
+  <ChapterRoom heading={place.heading} exhibits={place.exhibits} reconstruction={place.reconstruction} runtime={place.runtime} />
+</Base>
+)}

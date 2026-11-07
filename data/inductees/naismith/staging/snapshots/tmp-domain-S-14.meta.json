@@ -1,0 +1,10 @@
+{
+  "url": "https://halloffamers.sportshall.ca/?dr_james_naismith=&language=EN",
+  "fetch_url": "https://halloffamers.sportshall.ca/?dr_james_naismith=&language=EN",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:16:20Z",
+  "sha256": "6cf905e5d0725988e2bef67863731ed7383c82dade3fb30d371fb8191974e661",
+  "bytes": 5739,
+  "http_status": 200,
+  "final_url": "https://halloffamers.sportshall.ca/?dr_james_naismith=&language=EN"
+}

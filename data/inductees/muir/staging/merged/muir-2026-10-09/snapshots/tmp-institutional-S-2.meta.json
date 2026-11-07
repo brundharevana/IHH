@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/jomu/learn/education/education-john-muir-chronology.htm",
+  "fetch_url": "https://www.nps.gov/jomu/learn/education/education-john-muir-chronology.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:32:07Z",
+  "sha256": "c3ff568962647cf1f906d10b965746e29c02af57771a24ccaef1887342dff79d",
+  "bytes": 4274,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/jomu/learn/education/education-john-muir-chronology.htm"
+}

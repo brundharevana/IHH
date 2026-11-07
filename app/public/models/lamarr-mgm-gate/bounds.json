@@ -1,0 +1,179 @@
+{
+  "$comment": "Walkable bounds for free roam in lamarr-mgm-gate.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 12.0,
+  "walkable": {
+    "x_min": -12.5,
+    "x_max": 60.0,
+    "z_min": -2.7,
+    "z_max": 20.7
+  },
+  "obstacles": [
+    {
+      "name": "artifact_mailbox",
+      "x_min": -3.98,
+      "x_max": -3.22,
+      "z_min": 0.57,
+      "z_max": 1.33
+    },
+    {
+      "name": "utility_pole_0",
+      "x_min": 35.73,
+      "x_max": 37.83,
+      "z_min": 1.398,
+      "z_max": 2.002
+    },
+    {
+      "name": "utility_pole_1",
+      "x_min": 53.73,
+      "x_max": 55.83,
+      "z_min": 1.398,
+      "z_max": 2.002
+    },
+    {
+      "name": "corner_building",
+      "x_min": -10.65,
+      "x_max": -2.25,
+      "z_min": -14.15,
+      "z_max": -0.45
+    },
+    {
+      "name": "long_building",
+      "x_min": 32.43,
+      "x_max": 110.15,
+      "z_min": -14.15,
+      "z_max": -0.25
+    },
+    {
+      "name": "column_00",
+      "x_min": -3.34,
+      "x_max": -2.12,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_01",
+      "x_min": -0.61,
+      "x_max": 0.61,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_02",
+      "x_min": 3.01,
+      "x_max": 4.23,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_03",
+      "x_min": 6.05,
+      "x_max": 7.27,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_04",
+      "x_min": 9.09,
+      "x_max": 10.31,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_05",
+      "x_min": 12.13,
+      "x_max": 13.35,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_06",
+      "x_min": 15.17,
+      "x_max": 16.39,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_07",
+      "x_min": 18.21,
+      "x_max": 19.43,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_08",
+      "x_min": 21.25,
+      "x_max": 22.47,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_09",
+      "x_min": 24.29,
+      "x_max": 25.51,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_10",
+      "x_min": 27.33,
+      "x_max": 28.55,
+      "z_min": -0.61,
+      "z_max": 0.61
+    },
+    {
+      "name": "column_11",
+      "x_min": 30.37,
+      "x_max": 31.59,
+      "z_min": -0.61,
+      "z_max": 0.61
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": -18.0,
+      "z": 17.6,
+      "look_at": {
+        "x": -2.9,
+        "y": 1.5,
+        "z": 5.8
+      },
+      "note": "The photographer's corner, across the street, 31 July 1937"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 14.2,
+      "z": 11.0,
+      "look_at": {
+        "x": 14.2,
+        "y": 1.5,
+        "z": -3.0
+      },
+      "note": "Across the street from the iron gate"
+    },
+    {
+      "name": "hotspot_3",
+      "x": -6.5,
+      "z": 4.2,
+      "look_at": {
+        "x": -6.2,
+        "y": 1.5,
+        "z": -0.6
+      },
+      "note": "At the corner building and the casting office"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 5.0,
+      "z": 1.4,
+      "look_at": {
+        "x": 30.0,
+        "y": 1.5,
+        "z": 0.8
+      },
+      "note": "On the sidewalk along the colonnade"
+    }
+  ]
+}

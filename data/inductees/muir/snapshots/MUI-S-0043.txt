@@ -1,0 +1,191 @@
+_version_: 1731717837629685760
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/95514643/
+aka[1]: http://www.loc.gov/item/95514643/
+aka[2]: http://www.loc.gov/pictures/item/95514643/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/95514643/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/95514643/
+aka[5]: http://www.loc.gov/resource/cph.3a26855/
+aka[6]: https://hdl.loc.gov/loc.pnp/cph.3a26855
+aka[7]: http://lccn.loc.gov/95514643
+call_number: BIOG FILE - Muir, John, 1838-1914 [P&P]
+created: 2016-04-21T09:30:35Z
+created_published[0]: c1909.
+created_published_date: c1909.
+date: 1909-01-01
+dates[0].1909: https://www.loc.gov/search/?dates=1909/1909&fo=json
+description[0]: 1 photographic print.
+digital_id[0]: cph 3a26855 //hdl.loc.gov/loc.pnp/cph.3a26855
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-08-25T16:22:52.769Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/95514643/#cph
+extract_urls[1]: http://lccn.loc.gov/95514643#catalog-split-05
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Group portraits--1900-1910.
+format_headings[1]: Photographic prints--1900-1910.
+format_headings[2]: Portrait photographs--1900-1910.
+genre[0]: Portrait photographs--1900-1910
+genre[1]: Group portraits--1900-1910
+genre[2]: Photographic prints--1900-1910
+group[0]: cph
+group[1]: catalog-split-05
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-05
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/95514643/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855_150px.jpg#h=150&w=116
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855t.gif#h=150&w=116
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855r.jpg#h=640&w=495
+index: 1
+item.call_number: BIOG FILE - Muir, John, 1838-1914 [P&P]
+item.control_number: 95514643
+item.created: 2016-04-21T09:30:35Z
+item.created_published: c1909.
+item.created_published_date: c1909.
+item.date: c1909.
+item.digital_id[0]: cph 3a26855 //hdl.loc.gov/loc.pnp/cph.3a26855
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Group%20portraits--1900-1910.&co=cph
+item.formats[0].title: Group portraits--1900-1910.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1900-1910.&co=cph
+item.formats[1].title: Photographic prints--1900-1910.
+item.formats[2].link: https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs--1900-1910.&co=cph
+item.formats[2].title: Portrait photographs--1900-1910.
+item.genre[0]: Portrait photographs--1900-1910
+item.genre[1]: Group portraits--1900-1910
+item.genre[2]: Photographic prints--1900-1910
+item.id: 95514643
+item.link: https://www.loc.gov/pictures/item/95514643/
+item.marc: https://www.loc.gov/pictures/item/95514643/marc/
+item.medium[0]: 1 photographic print.
+item.medium_brief: 1 photographic print.
+item.mediums[0]: 1 photographic print.
+item.modified: 2016-04-21T09:30:35Z
+item.notes[0]: H124647 U.S. Copyright Office.
+item.notes[1]: No. 2.
+item.notes[2]: Copyright by Fred Harvey.
+item.number_former_id[0]: https://www.loc.gov/item/95514643
+item.number_former_id[1]: https://www.loc.gov/item/11655683
+item.other_control_numbers[0]: 11655683
+item.reproduction_number: LC-USZ62-25975 (b&w film copy neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3a26855
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855r.jpg
+item.sort_date: 1909
+item.source_created: 1995-09-29T00:00:00Z
+item.source_modified: 2004-12-29T15:30:09Z
+item.subject_headings[0]: Muir, John,--1838-1914.
+item.subject_headings[1]: Burroughs, John,--1837-1921.
+item.subjects[0]: Muir, John,--1838-1914
+item.subjects[1]: Burroughs, John,--1837-1921
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855_150px.jpg
+item.title: [John Muir and John Burroughs, full-length portrait, possibly at the Grand Canyon]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 95514643
+link: https://www.loc.gov/pictures/item/95514643/
+marc: https://www.loc.gov/pictures/item/95514643/marc/
+medium[0]: 1 photographic print.
+medium_brief: 1 photographic print.
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-21T09:30:35Z
+notes[0]: H124647 U.S. Copyright Office.
+notes[1]: No. 2.
+notes[2]: Copyright by Fred Harvey.
+number[0]: 2004-12-29t15:30:09
+number[1]: 95514643
+number[2]: http://www.loc.gov/item/11655683
+number[3]: http://www.loc.gov/item/95514643
+number_former_id[0]: http://www.loc.gov/item/11655683
+number_former_id[1]: http://www.loc.gov/item/95514643
+number_lccn[0]: 95514643
+number_source_modified[0]: 2004-12-29t15:30:09
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 11655683
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/95514643/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/95514643/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/95514643/dc
+partof[0].count: 110701
+partof[0].title: miscellaneous items in high demand
+partof[0].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=95514643&st=gallery&sb=call_number#focus
+reproduction_number: LC-USZ62-25975 (b&w film copy neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3a26855
+resources[0].caption: b&w film copy neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3a26855/
+score: 19.46323
+shard: 00
+shelf_id: BIOG FILE - Muir, John, 1838-1914 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1909
+source_created: 1995-09-29T00:00:00Z
+source_modified: 2004-12-29T15:30:09Z
+subject[0]: muir, john
+subject[1]: portrait photographs
+subject[2]: group portraits
+subject[3]: photographic prints
+subject[4]: burroughs, john
+subject_headings[0]: Muir, John,--1838-1914
+subject_headings[1]: Burroughs, John,--1837-1921
+subjects[0].burroughs, john: https://www.loc.gov/search/?fa=subject:burroughs,+john&fo=json
+subjects[1].group portraits: https://www.loc.gov/search/?fa=subject:group+portraits&fo=json
+subjects[2].muir, john: https://www.loc.gov/search/?fa=subject:muir,+john&fo=json
+subjects[3].photographic prints: https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json
+subjects[4].portrait photographs: https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855_150px.jpg
+timestamp: 2022-05-02T12:33:44.894Z
+title: [John Muir and John Burroughs, full-length portrait, possibly at the Grand Canyon]
+unrestricted: true
+url: https://www.loc.gov/item/95514643/
+resources[0].caption: b&w film copy neg.
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 1827266
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3a20000/3a26000/3a26800/3a26855u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 150
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 4131
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855_150px.jpg
+resources[0].files[0][1].width: 116
+resources[0].files[0][2].height: 150
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 17227
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855t.gif
+resources[0].files[0][2].width: 116
+resources[0].files[0][3].height: 640
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 28707
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855r.jpg
+resources[0].files[0][3].width: 495
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a20000/3a26000/3a26800/3a26855_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3a26855/
+cite_this.apa: (ca. 1909) John Muir and John Burroughs, full-length portrait, possibly at the Grand Canyon. , ca. 1909. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/95514643/.
+cite_this.chicago: John Muir and John Burroughs, full-length portrait, possibly at the Grand Canyon. , ca. 1909. Photograph. https://www.loc.gov/item/95514643/.
+cite_this.mla: John Muir and John Burroughs, full-length portrait, possibly at the Grand Canyon. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/95514643/>.

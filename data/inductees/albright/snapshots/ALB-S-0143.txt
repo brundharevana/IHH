@@ -1,0 +1,233 @@
+_version_: 1731265553177247744
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2018738228/
+aka[1]: http://www.loc.gov/item/2018738228/
+aka[2]: http://www.loc.gov/pictures/item/2018738228/
+aka[3]: https://www.loc.gov/pictures/collection/gsc/item/2018738228/
+aka[4]: http://www.loc.gov/pictures/collection/gsc/item/2018738228/
+aka[5]: https://hdl.loc.gov/loc.pnp/gsc.5a05791
+aka[6]: https://hdl.loc.gov/loc.pnp/gsc.5a05791
+aka[7]: http://www.loc.gov/resource/gsc.5a05791/
+aka[8]: http://lccn.loc.gov/2018738228
+call_number: LC-G612- 38719 [P&P]
+contributor_names[0]: Gottscho-Schleisner, Inc., photographer
+contributor_names[1]: Eggers & Higgins, architect
+contributor_names[2]: Smyth, Urquhart & Marckwald Inc., decorator
+contributors[0].eggers & higgins: https://www.loc.gov/search/?fa=contributor:eggers+%26+higgins&fo=json
+contributors[1].gottscho-schleisner, inc: https://www.loc.gov/search/?fa=contributor:gottscho-schleisner,+inc&fo=json
+contributors[2].smyth, urquhart & marckwald inc: https://www.loc.gov/search/?fa=contributor:smyth,+urquhart+%26+marckwald+inc&fo=json
+created: 2021-09-21T06:26:54Z
+created_published[0]: 1940 Oct. 18.
+created_published_date: 1940 Oct. 18.
+date: 1940-01-01
+dates[0].1940: https://www.loc.gov/search/?dates=1940/1940&fo=json
+description[0]: 1 negative : safety ; 5x7 in.
+digital_id[0]: gsc 5a05791 https://hdl.loc.gov/loc.pnp/gsc.5a05791
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-09-25T13:07:03.203Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/gsc/item/2018738228/#gsc
+extract_urls[1]: http://lccn.loc.gov/2018738228#catalog-split-09
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Acetate negatives.
+genre[0]: Acetate negatives
+group[0]: gsc
+group[1]: catalog-split-09
+group[2]: catalog
+group[3]: gottscho-schleisner
+group[4]: main-catalog-split-09
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2018738228/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791_150px.jpg#h=105&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791t.gif#h=105&w=150
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791r.jpg#h=392&w=560
+index: 1
+item.call_number: LC-G612- 38719 [P&P]
+item.contributor_names[0]: Eggers & Higgins, architect
+item.contributor_names[1]: Smyth, Urquhart & Marckwald Inc., decorator
+item.contributors[0]: Gottscho-Schleisner, Inc., photographer.
+item.contributors[1]: Eggers & Higgins, architect.
+item.contributors[2]: Smyth, Urquhart & Marckwald Inc., decorator.
+item.control_number: 2018738228
+item.created: 2021-09-21T06:26:54Z
+item.created_published: 1940 Oct. 18.
+item.created_published_date: 1940 Oct. 18.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Gottscho-Schleisner%2C%20Inc.&co=gsc
+item.creators[0].role: photographer
+item.creators[0].title: Gottscho-Schleisner, Inc.
+item.creators[1].link: https://www.loc.gov/pictures/related/?fi=name&q=Eggers%20%26%20Higgins&co=gsc
+item.creators[1].role: architect
+item.creators[1].title: Eggers & Higgins
+item.creators[2].link: https://www.loc.gov/pictures/related/?fi=name&q=Smyth%2C%20Urquhart%20%26%20Marckwald%20Inc.&co=gsc
+item.creators[2].role: decorator
+item.creators[2].title: Smyth, Urquhart & Marckwald Inc.
+item.date: 1940 Oct. 18.
+item.digital_id[0]: gsc 5a05791 https://hdl.loc.gov/loc.pnp/gsc.5a05791
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Acetate%20negatives.&co=gsc
+item.formats[0].title: Acetate negatives.
+item.genre[0]: Acetate negatives
+item.id: 2018738228
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2018738228/
+item.marc: https://www.loc.gov/pictures/item/2018738228/marc/
+item.medium[0]: 1 negative : safety ; 5x7 in.
+item.medium_brief: 1 negative :
+item.mediums[0]: 1 negative : safety ; 5x7 in.
+item.modified: 2021-09-21T06:26:56Z
+item.notes[0]: Title and date from original negative sleeves or photographer's registers.
+item.notes[1]: Credit line: Gottscho-Schleisner Collection, Library of Congress, Prints and Photographs Division.
+item.notes[2]: General information about the Gottscho-Schleisner Collection is available at: https://hdl.loc.gov/loc.pnp/pp.gsc
+item.notes[3]: Forms part of: Gottscho-Schleisner Collection (Library of Congress)
+item.notes[4]: Temp. note: Batch four.
+item.number_former_id[0]: https://www.loc.gov/item/2018738228
+item.number_former_id[1]: https://www.loc.gov/item/gsc1994016004/PP
+item.other_control_numbers[0]: 21173636
+item.other_control_numbers[1]: gsc1994016004/PP
+item.part_of: Gottscho-Schleisner Collection (Library of Congress)
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=United%20States&co=gsc
+item.place[0].title: United States
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-G612-T-38719 (interpositive)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/gsc.5a05791
+item.rights_advisory: No known restrictions on publication. For information, see: "Gottscho-Schleisner Collection"  https://hdl.loc.gov/loc.pnp/res.104.gott
+item.rights_information: No known restrictions on publication. For information, see: "Gottscho-Schleisner Collection"  https://hdl.loc.gov/loc.pnp/res.104.gott
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791r.jpg
+item.sort_date: 1940
+item.source_collection[0]: Gottscho-Schleisner Collection (Library of Congress)
+item.source_created: 1992-08-28T00:00:00Z
+item.source_modified: 2021-09-14T15:36:49Z
+item.subject_headings[0]: Ships.
+item.subject_headings[1]: United States.
+item.subject_headings[2]: United States
+item.subjects[0]: Ships
+item.subjects[1]: United States
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791_150px.jpg
+item.title: S.S. America, United States Lines. Tourist lounge, general
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2018738228
+link: https://www.loc.gov/pictures/item/2018738228/
+location[0]: united states
+location_country[0]: united states
+locations[0].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+marc: https://www.loc.gov/pictures/item/2018738228/marc/
+medium[0]: 1 negative : safety ; 5x7 in.
+medium_brief: 1 negative :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2021-09-21T06:26:56Z
+notes[0]: Title and date from original negative sleeves or photographer's registers.
+notes[1]: Credit line: Gottscho-Schleisner Collection, Library of Congress, Prints and Photographs Division.
+notes[2]: General information about the Gottscho-Schleisner Collection is available at: https://hdl.loc.gov/loc.pnp/pp.gsc
+notes[3]: Forms part of: Gottscho-Schleisner Collection (Library of Congress)
+notes[4]: Temp. note: Batch four.
+number[0]: 2021-09-14t15:36:49
+number[1]: 2018738228
+number[2]: http://www.loc.gov/item/gsc1994016004/pp
+number[3]: http://www.loc.gov/item/2018738228
+number[4]: http://www.loc.gov/item/21173636
+number_former_id[0]: http://www.loc.gov/item/21173636
+number_former_id[1]: http://www.loc.gov/item/gsc1994016004/pp
+number_former_id[2]: http://www.loc.gov/item/2018738228
+number_lccn[0]: 2018738228
+number_source_modified[0]: 2021-09-14t15:36:49
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 21173636
+other_control_numbers[1]: gsc1994016004/PP
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2018738228/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2018738228/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2018738228/dc
+partof[0].count: 29010
+partof[0].title: gottscho-schleisner collection
+partof[0].url: https://www.loc.gov/collections/gottscho-schleisner/?fo=json
+partof[1].count: 419054
+partof[1].title: american memory
+partof[1].url: https://www.loc.gov/search/?fa=partof:american+memory&fo=json
+partof[2].count: 910731
+partof[2].title: prints & photographs online catalog (library of congress)
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[3].count: 1162489
+partof[3].title: prints and photographs division
+partof[3].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[4].count: 1910629
+partof[4].title: catalog
+partof[4].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=United%20States&co=gsc
+place[0].title: United States
+related.neighbors: https://www.loc.gov/pictures/related/?&co=gsc&pk=2018738228&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-G612-T-38719 (interpositive)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/gsc.5a05791
+resources[0].caption: intermediary roll film
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791_150px.jpg
+resources[0].url: https://www.loc.gov/resource/gsc.5a05791/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Gottscho-Schleisner Collection - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication. For information, see: "Gottscho-Schleisner Collection"  https://hdl.loc.gov/loc.pnp/res.104.gott
+rights_information: No known restrictions on publication. For information, see: "Gottscho-Schleisner Collection"  https://hdl.loc.gov/loc.pnp/res.104.gott
+score: 19.459465
+shard: 00
+shelf_id: LC-G612- 38719 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1940
+source_collection: Gottscho-Schleisner Collection (Library of Congress)
+source_created: 1992-08-28T00:00:00Z
+source_modified: 2021-09-14T15:36:49Z
+subject[0]: united states
+subject[1]: ships
+subject[2]: acetate negatives
+subject_headings[0]: Ships
+subject_headings[1]: United States
+subjects[0].acetate negatives: https://www.loc.gov/search/?fa=subject:acetate+negatives&fo=json
+subjects[1].ships: https://www.loc.gov/search/?fa=subject:ships&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791_150px.jpg
+timestamp: 2022-04-27T12:44:52.935Z
+title: S.S. America, United States Lines. Tourist lounge, general
+unrestricted: true
+url: https://www.loc.gov/item/2018738228/
+resources[0].caption: intermediary roll film
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 220194
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/gsc/5a05000/5a05700/5a05791u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 105
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 3578
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 105
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 13924
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791t.gif
+resources[0].files[0][2].width: 150
+resources[0].files[0][3].height: 392
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 18445
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791r.jpg
+resources[0].files[0][3].width: 560
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/gsc/5a05000/5a05700/5a05791_150px.jpg
+resources[0].url: https://www.loc.gov/resource/gsc.5a05791/
+cite_this.apa: Eggers & Higgins, A. & Smyth, U. &. M. I., Gottscho-Schleisner, I., photographer. (1940) S.S. America, United States Lines. Tourist lounge, general. United States, 1940. Oct. 18. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2018738228/.
+cite_this.chicago: Eggers & Higgins, Architect, and Urquhart & Marckwald Inc Smyth, Gottscho-Schleisner, Inc, photographer. S.S. America, United States Lines. Tourist lounge, general. United States, 1940. Oct. 18. Photograph. https://www.loc.gov/item/2018738228/.
+cite_this.mla: Eggers & Higgins, Architect, and Urquhart & Marckwald Inc Smyth, photographer by Gottscho-Schleisner, Inc. S.S. America, United States Lines. Tourist lounge, general. Oct. 18. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2018738228/>.

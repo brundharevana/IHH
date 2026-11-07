@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/36192",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=36192",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:43:11Z",
+  "sha256": "dfdd173bf51ac7de82bd8ad97b2e6f20322087c45173eb484c98ca3a7ce38521",
+  "bytes": 9044,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=36192"
+}

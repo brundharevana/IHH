@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#0a0e14" />
+    <meta name="robots" content="noindex" />
+    <title>Immigrant Hall of Honor, embedded</title>
+    <style>
+      :root { --bg: #0a0e14; --title: #f0e8dd; --text: #d9cfc0; --accent: #ff9b2d; --on-accent: #1a1209; --hairline: rgba(240, 232, 221, .32); }
+      * { box-sizing: border-box; }
+      html, body { height: 100%; margin: 0; background: var(--bg); color: var(--text); font: 16px/1.5 system-ui, sans-serif; }
+      main { position: relative; height: 100%; min-height: 320px; display: flex; flex-direction: column; }
+      [hidden] { display: none !important; }
+      .poster { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; padding: 24px; text-align: center;
+        background: radial-gradient(ellipse at 50% 35%, #1d2636 0%, var(--bg) 70%); }
+      .poster .title { margin: 0; font: 600 clamp(1.4rem, 5vw, 2.4rem)/1.15 Georgia, serif; color: var(--title); }
+      .poster p { margin: 0; max-width: 34rem; }
+      .btn { font: inherit; font-weight: 600; min-height: 44px; padding: 10px 26px; border-radius: 30px; border: 1px solid var(--accent); background: var(--accent); color: var(--on-accent); cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; }
+      .btn.quiet { background: rgba(0, 0, 0, .55); color: var(--title); border-color: var(--hairline); }
+      a.card { color: var(--title); text-decoration: underline; text-underline-offset: 3px; padding: 10px 6px; }
+      :focus-visible { outline: 3px solid #fff; outline-offset: 2px; box-shadow: 0 0 0 5px #000; }
+      iframe { flex: 1 1 auto; min-height: 0; width: 100%; border: 0; background: var(--bg); }
+      /* its own strip above the tour, so it never covers the tour's top-right controls (End tour, sound) */
+      .bar { order: -1; flex: none; display: flex; justify-content: flex-end; gap: 8px; padding: 6px 8px; background: var(--bg); }
+    </style>
+  </head>
+  <body>
+    <main id="embed" data-state="poster" aria-label="Museum embed">
+      <h1 class="sr-only" id="poster-title">Immigrant Hall of Honor</h1>
+      <section class="poster" id="poster" aria-labelledby="poster-title">
+        <div class="title" aria-hidden="true">Immigrant Hall of Honor</div>
+        <p>A guided walk through five inductees' turning points, chapter by chapter: rooms rebuilt from photographs, photo rooms and gallery cases.</p>
+        <p id="sandboxed" hidden>This frame cannot run the museum's 3D tour. Open the museum in its own page.</p>
+        <button type="button" class="btn" id="start">Start the museum</button>
+        <a class="card" id="open-card" href="./" target="_blank" rel="noopener noreferrer">Open the museum in its own page<span class="sr-only"> (opens in a new tab)</span></a>
+        <noscript><p>This museum needs JavaScript. <a class="card" href="./" target="_blank" rel="noopener noreferrer">Open the museum</a>.</p></noscript>
+      </section>
+      <iframe id="tour" title="Immigrant Hall of Honor guided tour" allow="fullscreen; autoplay" hidden></iframe>
+      <div class="bar" id="bar" hidden>
+        <button type="button" class="btn quiet" id="fs" aria-pressed="false">Fullscreen</button>
+        <a class="btn quiet" id="open-bar" href="./" target="_blank" rel="noopener noreferrer" hidden>Open the museum<span class="sr-only"> (opens in a new tab)</span></a>
+      </div>
+    </main>
+    <style>.sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }</style>
+    <script src="/external-links.js"></script>
+    <script src="/embed.js"></script>
+  </body>
+</html>

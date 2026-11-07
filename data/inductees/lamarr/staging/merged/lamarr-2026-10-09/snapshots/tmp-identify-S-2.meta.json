@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/10569195",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=10569195",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:08:14Z",
+  "sha256": "c88222886b1373f72212a366e74c6bad77040e43d6f292c3e1386c50aa219d0b",
+  "bytes": 982,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=10569195"
+}

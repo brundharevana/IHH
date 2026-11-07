@@ -1,0 +1,10 @@
+{
+  "url": "https://www.archives.gov/about/speeches/2017/constitution-naturalization-ceremony",
+  "fetch_url": "https://www.archives.gov/about/speeches/2017/constitution-naturalization-ceremony",
+  "method": "http",
+  "fetched_at": "2026-10-09T19:30:35Z",
+  "sha256": "db13182f6ed72ed20eca5b8738ab0405f8ea76907d01bac78095e112e7ce3abd",
+  "bytes": 7159,
+  "http_status": 200,
+  "final_url": "https://www.archives.gov/about/speeches/2017/constitution-naturalization-ceremony"
+}

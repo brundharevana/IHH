@@ -1,0 +1,162 @@
+{
+  "slug": "lamarr",
+  "generated": "2026-10-09",
+  "run_id": "lamarr-2026-10-09",
+  "summary": [
+    {
+      "text": "Hedy Lamarr was an inventor.",
+      "fact_ids": [
+        "LAM-F-0040"
+      ]
+    },
+    {
+      "text": "In 2014 Hedy Lamarr was inducted into the National Inventors Hall of Fame.",
+      "fact_ids": [
+        "LAM-F-0006"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "immigration",
+      "title": "Naturalization file",
+      "sentences": [
+        {
+          "text": "The naturalization file at the National Archives at Riverside for Hedwig Maria Stauffer contains a certificate of arrival, declaration of intention, affidavits of witnesses, and petition for naturalization.",
+          "fact_ids": [
+            "LAM-F-0001"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "title": "Film",
+      "sentences": [
+        {
+          "text": "The 1940 motion picture poster for the Metro-Goldwyn-Mayer picture Boom Town shows Hedy Lamarr in scenes from the movie.",
+          "fact_ids": [
+            "LAM-F-0044"
+          ]
+        },
+        {
+          "text": "The 1941 poster for the Metro-Goldwyn-Mayer film Ziegfeld Girl shows Hedy Lamarr.",
+          "fact_ids": [
+            "LAM-F-0043"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "invention",
+      "title": "Secret Communication System",
+      "sentences": [
+        {
+          "text": "The inventors of Patent Case File No. 2,292,387, Secret Communication System, were Hedy Kiesler Markey and George Antheil.",
+          "fact_ids": [
+            "LAM-F-0046"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "war",
+      "title": "War bond tours",
+      "sentences": [
+        {
+          "text": "EVERYBODY JOINS U.S. WAR EFFORT [ETC.] (1942) has film entertainers on war bond tours, including Heddy Lamar.",
+          "fact_ids": [
+            "LAM-F-0061"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "radio",
+      "title": "Command Performance",
+      "sentences": [
+        {
+          "text": "The Army Hour of March 5, 1954, has a Command Performance comedy sequence from Hollywood, California, with Milton Berle, Hedy Lamarr and Edward G. Robinson.",
+          "fact_ids": [
+            "LAM-F-0062"
+          ]
+        },
+        {
+          "text": "The Radio Scripts files for the broadcast Command Performance contain studio photographs of program participants, including Hedy Lamarr.",
+          "fact_ids": [
+            "LAM-F-0063"
+          ]
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1940",
+      "title": "Boom Town poster",
+      "text": "The 1940 motion picture poster for the Metro-Goldwyn-Mayer picture Boom Town shows Hedy Lamarr in scenes from the movie.",
+      "fact_ids": [
+        "LAM-F-0044"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1941",
+      "title": "Ziegfeld Girl poster",
+      "text": "The 1941 poster for the Metro-Goldwyn-Mayer film Ziegfeld Girl shows Hedy Lamarr.",
+      "fact_ids": [
+        "LAM-F-0043"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1954-03-05",
+      "title": "The Army Hour",
+      "text": "The Army Hour of March 5, 1954, has a Command Performance comedy sequence from Hollywood, California, with Milton Berle, Hedy Lamarr and Edward G. Robinson.",
+      "fact_ids": [
+        "LAM-F-0062"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "2014",
+      "title": "National Inventors Hall of Fame",
+      "text": "In 2014 Hedy Lamarr was inducted into the National Inventors Hall of Fame.",
+      "fact_ids": [
+        "LAM-F-0006"
+      ],
+      "media_ids": []
+    }
+  ],
+  "artifacts": [],
+  "avatar_lines": [
+    {
+      "speaker": "guide",
+      "kind": "narration",
+      "text": "Hedy Lamarr was an inventor.",
+      "fact_ids": [
+        "LAM-F-0040"
+      ]
+    }
+  ],
+  "how_to_cite": null,
+  "gaps": [
+    "Birth: no verified fact yet; date and place facts LAM-F-0012, LAM-F-0021, LAM-F-0064 are disputed (sources disagree on the year, and live checks of browser-fetched sources failed)",
+    "Family: no verified fact yet; parents, marriages and children are only deferred candidates in staging, none corroborated",
+    "Education: no verified source yet; the IHH page education claim and other schooling candidates are deferred, single-source",
+    "Arrival in the United States: no verified source yet; LAM-F-0024, LAM-F-0027, LAM-F-0028, LAM-F-0049, LAM-F-0069 are single-source and LAM-F-0026 is disputed",
+    "Immigration section rests on LAM-F-0067 and LAM-F-0001 only; the naturalization file LAM-S-0001 is described but its certificate of arrival contents are not yet read",
+    "Citizenship: no verified fact yet; LAM-F-0016 is disputed (live check of a browser-fetched source failed)",
+    "Career: early European career (stage, first films, Ecstasy) rests on single-source facts LAM-F-0047, LAM-F-0048, LAM-F-0066; LAM-F-0082 was refuted on the live check",
+    "Main work (invention): patent dates verified as LAM-F-0090 and LAM-F-0091 (LAM-F-0002 rejected as superseded); LAM-F-0029, LAM-F-0039, LAM-F-0056 single-source",
+    "War work: section rests on one fact, LAM-F-0061; LAM-F-0059 (USO) and LAM-F-0052 are single-source",
+    "Awards: LAM-F-0005 (Bulbie Gnass award) and LAM-F-0019 (Hollywood Walk of Fame) are single-source by holder count",
+    "Death: section rests on one fact, LAM-F-0023; date and place LAM-F-0013, LAM-F-0022 disputed, LAM-F-0004, LAM-F-0018 single-source; burial facts LAM-F-0035 to LAM-F-0038 single-source",
+    "Legacy: no verified fact yet; every legacy candidate (wireless technology, Navy adoption, estate, memorial) is deferred and single-source",
+    "IHH page claims not independently confirmed: birth date and place, death date and place, arrival 1937 in Hollywood, education 1929, citizenship 1953, more than 30 films, Wi-Fi and Bluetooth legacy, first woman to win the Bulbie award, Walk of Fame 1960",
+    "Media: no usable licence for LAM-M-0001 to LAM-M-0010 and LAM-M-0018 (licence class unknown) and LAM-M-0011, LAM-M-0012, LAM-M-0016, LAM-M-0017 (rights-restricted); LAM-M-0019 to LAM-M-0021 rejected for no rights statement; only LAM-M-0013 to LAM-M-0015 are cc-by",
+    "Names: aliases 'Kiesler, Hedwig' and 'Lamarr, Hedy' have no snapshot evidence because the id.loc.gov authority record fetch failed",
+    "Searches that found nothing: Smithsonian site searches (11 of 18), Library of Congress (8 of 32, including id.loc.gov and finding aids), media photo searches (7 of 22), 13 corroboration searches",
+    "Deferred over the fact cap: 113 candidates in staging/deferred-lamarr-2026-10-09, including all family, education and legacy candidates"
+  ]
+}

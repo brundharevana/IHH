@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_01_1870_Bahnhofstr_20_Wohnhaus_Weil_Erlanger_S0605_2015.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein_01_1870_Bahnhofstr_20_Wohnhaus_Weil_Erlanger_S0605_2015.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-20T22:35:53Z",
+  "sha256": "649d2273ecdc7ed07669026ef4773e20973d9e5eb4ad4a2ff0f256a721953cb1",
+  "bytes": 2602,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein_01_1870_Bahnhofstr_20_Wohnhaus_Weil_Erlanger_S0605_2015.jpg&format=json"
+}

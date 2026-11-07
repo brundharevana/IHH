@@ -1,0 +1,10 @@
+{
+  "url": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002v7w6",
+  "fetch_url": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002v7w6",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:53:25Z",
+  "sha256": "188fb0dae2d2b2f42c3580280fb4d5a47e3a1b1647b9d1a520676193c6ef602a",
+  "bytes": 1917,
+  "http_status": 200,
+  "final_url": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002v7w6"
+}

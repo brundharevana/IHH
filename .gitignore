@@ -1,0 +1,32 @@
+# Source inputs stay local (personal/participant data, large binaries)
+/*.docx
+/*.pptx
+.DS_Store
+node_modules/
+.env*
+secrets*
+# Tour-research dry runs on a copy of the store (docs/superpowers/plans/2026-11-01-tour-research-step.md)
+.dryrun/
+__pycache__/
+.pytest_cache/
+/*.pdf
+.superpowers/
+site/node_modules/
+site/dist/
+site/.astro/
+site/test-results/
+.venv-audio/
+tools/models/
+site/dist-dev/
+site/dist-e2e/
+site/.dev-audio/
+
+# Owner-downloaded scan originals (large; provenance in content/scans/*.json)
+assets-src/
+3d designs/
+
+# Basis transcoder copied from three at dev/build time (scripts/copy-basis.mjs)
+site/public/basis/
+
+# Local privacy denylist for tools/tests/test_export_privacy.py (names never committed)
+.privacy-denylist

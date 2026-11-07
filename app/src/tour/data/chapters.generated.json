@@ -1,0 +1,537 @@
+{
+  "einstein": [
+    {
+      "id": "birth",
+      "kind": "birth",
+      "title": "Born in Ulm",
+      "year": 1879,
+      "factIds": [
+        "EIN-F-0005"
+      ],
+      "thumbMediaId": "EIN-M-0085"
+    },
+    {
+      "id": "honoured",
+      "kind": "honoured",
+      "title": "The Nobel Prize",
+      "year": 1922,
+      "factIds": [
+        "EIN-F-0147",
+        "EIN-F-0146",
+        "EIN-F-0150",
+        "EIN-F-0151",
+        "EIN-F-0148",
+        "EIN-F-0156"
+      ],
+      "thumbMediaId": "EIN-M-0082"
+    },
+    {
+      "id": "leaving",
+      "kind": "leaving",
+      "title": "Renouncing German citizenship",
+      "year": 1933,
+      "factIds": [
+        "EIN-F-0109",
+        "EIN-F-0153"
+      ],
+      "thumbMediaId": "EIN-M-0078"
+    },
+    {
+      "id": "arriving",
+      "kind": "arriving",
+      "title": "Arriving in New York",
+      "year": 1933,
+      "factIds": [
+        "EIN-F-0122",
+        "EIN-F-0157",
+        "EIN-F-0108",
+        "EIN-F-0109",
+        "EIN-F-0123",
+        "EIN-F-0124",
+        "EIN-F-0125",
+        "EIN-F-0126",
+        "EIN-F-0128"
+      ],
+      "thumbMediaId": "EIN-M-0089"
+    },
+    {
+      "id": "history",
+      "kind": "history",
+      "title": "A letter to the President",
+      "year": 1939,
+      "factIds": [
+        "EIN-F-0110",
+        "EIN-F-0135"
+      ],
+      "thumbMediaId": "EIN-M-0063"
+    },
+    {
+      "id": "citizen",
+      "kind": "citizen",
+      "title": "Becoming a citizen",
+      "year": 1940,
+      "factIds": [
+        "EIN-F-0051",
+        "EIN-F-0001",
+        "EIN-F-0045",
+        "EIN-F-0056",
+        "EIN-F-0057"
+      ],
+      "thumbMediaId": "EIN-M-0019"
+    },
+    {
+      "id": "big-work",
+      "kind": "big-work",
+      "title": "Research for the Navy",
+      "year": 1943,
+      "factIds": [
+        "EIN-F-0138",
+        "EIN-F-0055",
+        "EIN-F-0054",
+        "EIN-F-0062",
+        "EIN-F-0063",
+        "EIN-F-0087",
+        "EIN-F-0065",
+        "EIN-F-0067",
+        "EIN-F-0069"
+      ],
+      "thumbMediaId": "EIN-M-0050"
+    },
+    {
+      "id": "legacy",
+      "kind": "legacy",
+      "title": "Home until 1955",
+      "year": 1955,
+      "factIds": [
+        "EIN-F-0107",
+        "EIN-F-0006",
+        "EIN-F-0132",
+        "EIN-F-0087",
+        "EIN-F-0111",
+        "EIN-F-0080",
+        "EIN-F-0075",
+        "EIN-F-0076",
+        "EIN-F-0077"
+      ],
+      "thumbMediaId": "EIN-M-0030"
+    }
+  ],
+  "naismith": [
+    {
+      "id": "birth",
+      "kind": "birth",
+      "title": "Born in Almonte",
+      "year": 1861,
+      "factIds": [
+        "NAI-F-0035",
+        "NAI-F-0114",
+        "NAI-F-0130"
+      ],
+      "thumbMediaId": "NAI-M-0070"
+    },
+    {
+      "id": "education",
+      "kind": "education",
+      "title": "The Presbyterian College, Montreal",
+      "year": 1887,
+      "factIds": [
+        "NAI-F-0094",
+        "NAI-F-0084",
+        "NAI-F-0129",
+        "NAI-F-0114"
+      ],
+      "thumbMediaId": null
+    },
+    {
+      "id": "first-work",
+      "kind": "first-work",
+      "title": "Inventing basketball",
+      "year": 1891,
+      "factIds": [
+        "NAI-F-0100",
+        "NAI-F-0067",
+        "NAI-F-0079",
+        "NAI-F-0080",
+        "NAI-F-0087",
+        "NAI-F-0088",
+        "NAI-F-0090",
+        "NAI-F-0078",
+        "NAI-F-0085",
+        "NAI-F-0072",
+        "NAI-F-0099",
+        "NAI-F-0095"
+      ],
+      "thumbMediaId": "NAI-M-0003"
+    },
+    {
+      "id": "big-work",
+      "kind": "big-work",
+      "title": "The University of Kansas",
+      "year": 1898,
+      "factIds": [
+        "NAI-F-0083",
+        "NAI-F-0021",
+        "NAI-F-0104",
+        "NAI-F-0105",
+        "NAI-F-0091",
+        "NAI-F-0092",
+        "NAI-F-0093",
+        "NAI-F-0051",
+        "NAI-F-0074",
+        "NAI-F-0101",
+        "NAI-F-0103"
+      ],
+      "thumbMediaId": "NAI-M-0050"
+    },
+    {
+      "id": "history",
+      "kind": "history",
+      "title": "The Olympics in Berlin, and Lawrence",
+      "year": 1936,
+      "factIds": [
+        "NAI-F-0098",
+        "NAI-F-0097",
+        "NAI-F-0037",
+        "NAI-F-0081",
+        "NAI-F-0082",
+        "NAI-F-0127",
+        "NAI-F-0128"
+      ],
+      "thumbMediaId": "NAI-M-0068"
+    },
+    {
+      "id": "honoured",
+      "kind": "honoured",
+      "title": "Basketball Hall of Fame",
+      "year": 1959,
+      "factIds": [
+        "NAI-F-0086"
+      ],
+      "thumbMediaId": "NAI-M-0076"
+    }
+  ],
+  "muir": [
+    {
+      "id": "birth",
+      "kind": "birth",
+      "title": "Born in Dunbar",
+      "year": 1838,
+      "factIds": [
+        "MUI-F-0092",
+        "MUI-F-0001",
+        "MUI-F-0062",
+        "MUI-F-0145"
+      ],
+      "thumbMediaId": "MUI-M-0062"
+    },
+    {
+      "id": "arriving",
+      "kind": "arriving",
+      "title": "Fountain Lake farm",
+      "year": 1849,
+      "factIds": [
+        "MUI-F-0098",
+        "MUI-F-0097",
+        "MUI-F-0099",
+        "MUI-F-0082",
+        "MUI-F-0100",
+        "MUI-F-0103",
+        "MUI-F-0104",
+        "MUI-F-0102",
+        "MUI-F-0106",
+        "MUI-F-0107",
+        "MUI-F-0108",
+        "MUI-F-0105"
+      ],
+      "thumbMediaId": "MUI-M-0095"
+    },
+    {
+      "id": "first-work",
+      "kind": "first-work",
+      "title": "Inventions, Madison",
+      "year": 1860,
+      "factIds": [
+        "MUI-F-0111",
+        "MUI-F-0153",
+        "MUI-F-0091",
+        "MUI-F-0108",
+        "MUI-F-0090"
+      ],
+      "thumbMediaId": "MUI-M-0034"
+    },
+    {
+      "id": "big-work",
+      "kind": "big-work",
+      "title": "Yosemite",
+      "year": 1868,
+      "factIds": [
+        "MUI-F-0141",
+        "MUI-F-0084",
+        "MUI-F-0119",
+        "MUI-F-0120"
+      ],
+      "thumbMediaId": "MUI-M-0098"
+    },
+    {
+      "id": "study",
+      "kind": "big-work",
+      "title": "The John Muir House",
+      "year": 1890,
+      "factIds": [
+        "MUI-F-0123",
+        "MUI-F-0014",
+        "MUI-F-0069",
+        "MUI-F-0142",
+        "MUI-F-0006",
+        "MUI-F-0043"
+      ],
+      "thumbMediaId": "MUI-M-0020"
+    },
+    {
+      "id": "history",
+      "kind": "history",
+      "title": "In Yosemite with Roosevelt",
+      "year": 1903,
+      "factIds": [
+        "MUI-F-0146",
+        "MUI-F-0086",
+        "MUI-F-0148",
+        "MUI-F-0149"
+      ],
+      "thumbMediaId": "MUI-M-0013"
+    },
+    {
+      "id": "legacy",
+      "kind": "legacy",
+      "title": "Hetch Hetchy",
+      "year": 1911,
+      "factIds": [
+        "MUI-F-0046",
+        "MUI-F-0071",
+        "MUI-F-0070",
+        "MUI-F-0142",
+        "MUI-F-0078",
+        "MUI-F-0080",
+        "MUI-F-0081"
+      ],
+      "thumbMediaId": "MUI-M-0065"
+    }
+  ],
+  "albright": [
+    {
+      "id": "birth",
+      "kind": "birth",
+      "title": "Born in Prague",
+      "year": 1937,
+      "factIds": [
+        "ALB-F-0003",
+        "ALB-F-0041",
+        "ALB-F-0080",
+        "ALB-F-0177",
+        "ALB-F-0178",
+        "ALB-F-0176"
+      ],
+      "thumbMediaId": null
+    },
+    {
+      "id": "arriving",
+      "kind": "arriving",
+      "title": "Into New York Harbor",
+      "year": 1948,
+      "factIds": [
+        "ALB-F-0175",
+        "ALB-F-0183",
+        "ALB-F-0184",
+        "ALB-F-0083",
+        "ALB-F-0168"
+      ],
+      "thumbMediaId": "ALB-M-0092"
+    },
+    {
+      "id": "citizen",
+      "kind": "citizen",
+      "title": "A U.S. citizen",
+      "year": 1957,
+      "factIds": [
+        "ALB-F-0026",
+        "ALB-F-0074",
+        "ALB-F-0198"
+      ],
+      "thumbMediaId": "ALB-M-0070"
+    },
+    {
+      "id": "big-work",
+      "kind": "big-work",
+      "title": "Ambassador to the United Nations",
+      "year": 1993,
+      "factIds": [
+        "ALB-F-0029",
+        "ALB-F-0141",
+        "ALB-F-0051",
+        "ALB-F-0170",
+        "ALB-F-0142",
+        "ALB-F-0196"
+      ],
+      "thumbMediaId": "ALB-M-0058"
+    },
+    {
+      "id": "secretary",
+      "kind": "big-work",
+      "title": "Secretary of State",
+      "year": 1997,
+      "factIds": [
+        "ALB-F-0193",
+        "ALB-F-0138",
+        "ALB-F-0023",
+        "ALB-F-0059",
+        "ALB-F-0060"
+      ],
+      "thumbMediaId": "ALB-M-0059"
+    },
+    {
+      "id": "history",
+      "kind": "history",
+      "title": "NATO enlargement",
+      "year": 1997,
+      "factIds": [
+        "ALB-F-0200",
+        "ALB-F-0150",
+        "ALB-F-0123",
+        "ALB-F-0053",
+        "ALB-F-0095",
+        "ALB-F-0162",
+        "ALB-F-0195"
+      ],
+      "thumbMediaId": "ALB-M-0071"
+    },
+    {
+      "id": "honoured",
+      "kind": "honoured",
+      "title": "The Presidential Medal of Freedom",
+      "year": 2012,
+      "factIds": [
+        "ALB-F-0164",
+        "ALB-F-0201",
+        "ALB-F-0044"
+      ],
+      "thumbMediaId": "ALB-M-0095"
+    },
+    {
+      "id": "legacy",
+      "kind": "legacy",
+      "title": "Her legacy",
+      "year": 2022,
+      "factIds": [
+        "ALB-F-0004",
+        "ALB-F-0161",
+        "ALB-F-0046",
+        "ALB-F-0167",
+        "ALB-F-0169",
+        "ALB-F-0203",
+        "ALB-F-0174"
+      ],
+      "thumbMediaId": "ALB-M-0018"
+    }
+  ],
+  "lamarr": [
+    {
+      "id": "birth",
+      "kind": "birth",
+      "title": "Born in Vienna",
+      "year": 1914,
+      "factIds": [
+        "LAM-F-0012",
+        "LAM-F-0064",
+        "LAM-F-0065",
+        "LAM-F-0020"
+      ],
+      "thumbMediaId": "LAM-M-0031"
+    },
+    {
+      "id": "arriving",
+      "kind": "arriving",
+      "title": "Arriving in New York",
+      "year": 1937,
+      "factIds": [
+        "LAM-F-0100",
+        "LAM-F-0020"
+      ],
+      "thumbMediaId": "LAM-M-0032"
+    },
+    {
+      "id": "first-work",
+      "kind": "first-work",
+      "title": "Films for Metro-Goldwyn-Mayer",
+      "year": 1940,
+      "factIds": [
+        "LAM-F-0044",
+        "LAM-F-0086"
+      ],
+      "thumbMediaId": "LAM-M-0013"
+    },
+    {
+      "id": "big-work",
+      "kind": "big-work",
+      "title": "The invention",
+      "year": 1941,
+      "factIds": [
+        "LAM-F-0091",
+        "LAM-F-0096",
+        "LAM-F-0086",
+        "LAM-F-0046",
+        "LAM-F-0093",
+        "LAM-F-0092",
+        "LAM-F-0090",
+        "LAM-F-0097",
+        "LAM-F-0084",
+        "LAM-F-0094",
+        "LAM-F-0095"
+      ],
+      "thumbMediaId": "LAM-M-0001"
+    },
+    {
+      "id": "history",
+      "kind": "history",
+      "title": "On screen and on air",
+      "year": 1942,
+      "factIds": [
+        "LAM-F-0061",
+        "LAM-F-0063",
+        "LAM-F-0109",
+        "LAM-F-0089"
+      ],
+      "thumbMediaId": "LAM-M-0014"
+    },
+    {
+      "id": "legacy",
+      "kind": "legacy",
+      "title": "Later life",
+      "year": 2000,
+      "factIds": [
+        "LAM-F-0113",
+        "LAM-F-0083",
+        "LAM-F-0110",
+        "LAM-F-0107",
+        "LAM-F-0102",
+        "LAM-F-0105",
+        "LAM-F-0062",
+        "LAM-F-0087",
+        "LAM-F-0001",
+        "LAM-F-0007"
+      ],
+      "thumbMediaId": "LAM-M-0015"
+    },
+    {
+      "id": "honoured",
+      "kind": "honoured",
+      "title": "National Inventors Hall of Fame",
+      "year": 2014,
+      "factIds": [
+        "LAM-F-0006",
+        "LAM-F-0085",
+        "LAM-F-0040"
+      ],
+      "thumbMediaId": "LAM-M-0036"
+    }
+  ]
+}

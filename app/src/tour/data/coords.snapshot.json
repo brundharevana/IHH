@@ -1,0 +1,234 @@
+{
+ "$comment": "Coordinates for the tour map pins (app/src/tour/data/<slug>.js). entities: Wikidata P625 snapshot, the project's coordinate source (as content/einstein/coords.snapshot.json, tools/fetch_coords.py), fetched 2026-10-18 in one wbgetentities call (source_url). holders: points given by the record holder or a gazetteer, as cited in data/inductees/<slug>/TOUR-RESEARCH.md. City-level points stand for a city where no building is located by a source. Round 9 (2026-10-30): Q79848 (Southampton) added for Einstein's journey, fetched alone (its api_url).",
+ "source_url": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q1391099%7CQ340%7CQ16554%7CQ64%7CQ1002133%7CQ60%7CQ24668%7CQ40435%7CQ37836%7CQ3241022%7CQ5474741%7CQ43788%7CQ1996389%7CQ1085%7CQ3711%7CQ9202%7CQ11297%7CQ1586762%7CQ1741%7CQ65%7CQ2499130&props=labels%7Cdescriptions%7Cclaims&languages=en&format=json",
+ "entities": {
+  "Q1391099": {
+   "qid": "Q1391099",
+   "label": "Almonte",
+   "description": "community in Ontario, Canada",
+   "lat": 45.2263,
+   "lon": -76.1945,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q1391099&property=P625&format=json"
+  },
+  "Q340": {
+   "qid": "Q340",
+   "label": "Montreal",
+   "description": "largest city in Quebec, Canada",
+   "lat": 45.5033426,
+   "lon": -73.5868411,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q340&property=P625&format=json"
+  },
+  "Q16554": {
+   "qid": "Q16554",
+   "label": "Denver",
+   "description": "consolidated city-county and capital of the U.S. state of Colorado",
+   "lat": 39.739166666667,
+   "lon": -104.98472222222,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q16554&property=P625&format=json"
+  },
+  "Q64": {
+   "qid": "Q64",
+   "label": "Berlin",
+   "description": "federated state, capital and largest city of Germany",
+   "lat": 52.516666666667,
+   "lon": 13.383333333333,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q64&property=P625&format=json"
+  },
+  "Q1002133": {
+   "qid": "Q1002133",
+   "label": "Dunbar",
+   "description": "town in East Lothian, Scotland, UK",
+   "lat": 55.998333333333,
+   "lon": -2.5227777777778,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q1002133&property=P625&format=json"
+  },
+  "Q60": {
+   "qid": "Q60",
+   "label": "New York City",
+   "description": "most populous city in the United States",
+   "lat": 40.71277777777778,
+   "lon": -74.00611111111111,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q60&property=P625&format=json"
+  },
+  "Q40435": {
+   "qid": "Q40435",
+   "label": "Buffalo",
+   "description": "city and county seat of Erie County, New York, United States",
+   "lat": 42.88638888888889,
+   "lon": -78.87805555555556,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q40435&property=P625&format=json"
+  },
+  "Q37836": {
+   "qid": "Q37836",
+   "label": "Milwaukee",
+   "description": "city in and county seat of Milwaukee County, and largest city in State of Wisconsin, United States",
+   "lat": 43.05,
+   "lon": -87.95,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q37836&property=P625&format=json"
+  },
+  "Q3241022": {
+   "qid": "Q3241022",
+   "label": "Kingston",
+   "description": "village in Wisconsin, USA",
+   "lat": 43.6936,
+   "lon": -89.1286,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q3241022&property=P625&format=json"
+  },
+  "Q5474741": {
+   "qid": "Q5474741",
+   "label": "Fountain Lake Farm",
+   "description": "human settlement in Montello, Wisconsin, United States of America",
+   "lat": 43.69166667,
+   "lon": -89.38722222,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q5474741&property=P625&format=json"
+  },
+  "Q43788": {
+   "qid": "Q43788",
+   "label": "Madison",
+   "description": "capital city of the U.S. state of Wisconsin and seat of Dane County",
+   "lat": 43.07472222222222,
+   "lon": -89.38416666666667,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q43788&property=P625&format=json"
+  },
+  "Q1996389": {
+   "qid": "Q1996389",
+   "label": "Yosemite Valley",
+   "description": "glacial valley in California, United States of America",
+   "lat": 37.721694444444445,
+   "lon": -119.646,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q1996389&property=P625&format=json"
+  },
+  "Q1085": {
+   "qid": "Q1085",
+   "label": "Prague",
+   "description": "capital city of the Czech Republic",
+   "lat": 50.0875,
+   "lon": 14.421388888888888,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q1085&property=P625&format=json"
+  },
+  "Q3711": {
+   "qid": "Q3711",
+   "label": "Belgrade",
+   "description": "capital and largest city of Serbia",
+   "lat": 44.81777777777778,
+   "lon": 20.456944444444446,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q3711&property=P625&format=json"
+  },
+  "Q9202": {
+   "qid": "Q9202",
+   "label": "Statue of Liberty",
+   "description": "monument in New York",
+   "lat": 40.689209166667,
+   "lon": -74.044425277778,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q9202&property=P625&format=json"
+  },
+  "Q11297": {
+   "qid": "Q11297",
+   "label": "Headquarters of the United Nations",
+   "description": "group of buildings in New York City",
+   "lat": 40.749629166666665,
+   "lon": -73.96739,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q11297&property=P625&format=json"
+  },
+  "Q1586762": {
+   "qid": "Q1586762",
+   "label": "Harry S. Truman Federal Building",
+   "description": "headquarters building of the United States Department of State",
+   "lat": 38.8944,
+   "lon": -77.0484,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q1586762&property=P625&format=json"
+  },
+  "Q1741": {
+   "qid": "Q1741",
+   "label": "Vienna",
+   "description": "capital of and state in Austria",
+   "lat": 48.208333333333336,
+   "lon": 16.3725,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q1741&property=P625&format=json"
+  },
+  "Q65": {
+   "qid": "Q65",
+   "label": "Los Angeles",
+   "description": "seat of Los Angeles County, and largest city in California, United States",
+   "lat": 34.05223,
+   "lon": -118.24368,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q65&property=P625&format=json"
+  },
+  "Q2499130": {
+   "qid": "Q2499130",
+   "label": "Sony Pictures Studios",
+   "description": "American television and film studio complex located in Culver City, California at 10202 West Washington Boulevard",
+   "lat": 34.017222,
+   "lon": -118.401667,
+   "retrieved_at": "2026-10-18T07:43:10Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q2499130&property=P625&format=json"
+  },
+  "Q24861": {
+   "qid": "Q24861",
+   "label": "Albany",
+   "description": "capital city of the U.S. state of New York and seat of Albany County",
+   "lat": 42.65,
+   "lon": -73.766666666667,
+   "retrieved_at": "2026-10-18T07:43:36Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q24861&property=P625&format=json"
+  },
+  "Q79848": {
+   "qid": "Q79848",
+   "label": "Southampton",
+   "description": "city and major port in Hampshire, South-East England, United Kingdom",
+   "lat": 50.906666666666666,
+   "lon": -1.4044444444444444,
+   "retrieved_at": "2026-10-30T20:40:24Z",
+   "api_url": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q79848&props=labels%7Cdescriptions%7Cclaims&languages=en&format=json"
+  }
+ },
+ "holders": {
+  "nrcan-FACQF": {
+   "label": "Almonte, Ontario",
+   "lat": 45.22487,
+   "lon": -76.19513,
+   "source": "Natural Resources Canada, Canadian Geographical Names Database, key FACQF (https://geogratis.gc.ca/services/geoname/en/geonames.json?q=Almonte)",
+   "cited_in": "data/inductees/naismith/TOUR-RESEARCH.md, stop 1"
+  },
+  "springfield-college-cdm": {
+   "label": "School for Christian Workers building, State and Sherman streets, Springfield",
+   "lat": 42.111299,
+   "lon": -72.565449,
+   "source": "Springfield College Archives and Special Collections, CONTENTdm records p15370coll2/695 and /696, field Coordinates",
+   "cited_in": "data/inductees/naismith/TOUR-RESEARCH.md, stop 3"
+  },
+  "osm-way-115429562": {
+   "label": "Wescoe Hall, University of Kansas (site of Robinson Gymnasium)",
+   "lat": 38.95742,
+   "lon": -95.24779,
+   "source": "OpenStreetMap way 115429562",
+   "cited_in": "data/inductees/naismith/TOUR-RESEARCH.md, stop 5"
+  },
+  "loc-habs-ca-1890": {
+   "label": "John Muir House, Martinez",
+   "lat": 37.991253,
+   "lon": -122.131329,
+   "source": "Library of Congress HABS CA-1890 record (https://www.loc.gov/item/ca0124/), field latitude / longitude (MUI-S-0047)",
+   "cited_in": "data/inductees/muir/TOUR-RESEARCH.md, stop 6"
+  }
+ }
+}

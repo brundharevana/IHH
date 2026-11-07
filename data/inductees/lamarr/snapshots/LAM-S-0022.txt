@@ -1,0 +1,189 @@
+_version_: 1731649282777284608
+access_restricted: true
+aka[0]: https://www.loc.gov/pictures/item/00649869/
+aka[1]: http://www.loc.gov/item/00649869/
+aka[2]: http://www.loc.gov/pictures/item/00649869/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/00649869/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/00649869/
+aka[5]: http://www.loc.gov/resource/cph.3c23401/
+aka[6]: https://hdl.loc.gov/loc.pnp/cph.3c23401
+aka[7]: http://lccn.loc.gov/00649869
+call_number: NYWTS - BIOG--Markey, Gene--& Mrs. No. 2 Hedy Lamarr [item] [P&P]
+created: 2016-04-20T09:58:56Z
+created_published[0]: 1940.
+created_published_date: 1940.
+date: 1940-01-01
+dates[0].1940: https://www.loc.gov/search/?dates=1940/1940&fo=json
+description[0]: 1 photographic print. | Gene Markey, wife Hedy Lamarr and Adolph Menjou, making donations to a Red Cross girl as they attend the running of the Red Cross Handicap at Hollywood Park.
+digital_id[0]: cph 3c23401 //hdl.loc.gov/loc.pnp/cph.3c23401
+digitized: true
+display_offsite: false
+extract_timestamp: 2021-08-25T17:58:26.985Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/00649869/#cph
+extract_urls[1]: http://lccn.loc.gov/00649869#catalog-split-10
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Photographic prints--1940.
+genre[0]: Photographic prints--1940
+group[0]: cph
+group[1]: catalog-split-10
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-10
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/00649869/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c23000/3c23400/3c23401_150px.jpg#h=150&w=122
+index: 1
+item.call_number: NYWTS - BIOG--Markey, Gene--& Mrs. No. 2 Hedy Lamarr [item] [P&P]
+item.control_number: 00649869
+item.created: 2016-04-20T09:58:56Z
+item.created_published: 1940.
+item.created_published_date: 1940.
+item.date: 1940.
+item.digital_id[0]: cph 3c23401 //hdl.loc.gov/loc.pnp/cph.3c23401
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1940.&co=cph
+item.formats[0].title: Photographic prints--1940.
+item.genre[0]: Photographic prints--1940
+item.id: 00649869
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/00649869/
+item.location[0]: California
+item.marc: https://www.loc.gov/pictures/item/00649869/marc/
+item.medium[0]: 1 photographic print.
+item.medium_brief: 1 photographic print.
+item.mediums[0]: 1 photographic print.
+item.modified: 2016-04-20T09:58:57Z
+item.notes[0]: Acme Newspictures, Inc. photograph.
+item.notes[1]: No. LA563518.
+item.notes[2]: Forms part of: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress).
+item.number_former_id[0]: https://www.loc.gov/item/00649869
+item.number_former_id[1]: https://www.loc.gov/item/11908469
+item.other_control_numbers[0]: 11908469
+item.part_of: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California&co=cph
+item.place[0].title: California
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C., 20540 USA
+item.reproduction_number: LC-USZ62-123401 (b&w film copy neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3c23401
+item.rights_advisory: Publication may be restricted. For information see "New York World-Telegram & ...," https://www.loc.gov/rr/print/res/076_nyw.html
+item.rights_information: Publication may be restricted. For information see "New York World-Telegram & ...," https://www.loc.gov/rr/print/res/076_nyw.html
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c23000/3c23400/3c23401_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c23000/3c23400/3c23401r.jpg
+item.sort_date: 1940
+item.source_collection[0]: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)
+item.source_created: 2000-02-10T00:00:00Z
+item.source_modified: 2006-05-31T15:03:38Z
+item.subject_headings[0]: Lamarr, Hedy,--1913-2000.
+item.subject_headings[1]: Markey, Gene,--1895-1980.
+item.subject_headings[2]: Menjou, Adolphe,--1890-1963.
+item.subject_headings[3]: American Red Cross--People--1940.
+item.subject_headings[4]: Actors--California--1940.
+item.subject_headings[5]: California
+item.subjects[0]: Lamarr, Hedy,--1913-2000
+item.subjects[1]: Markey, Gene,--1895-1980
+item.subjects[2]: Menjou, Adolphe,--1890-1963
+item.subjects[3]: American Red Cross--People--1940
+item.subjects[4]: Actors--California--1940
+item.summary: Gene Markey, wife Hedy Lamarr and Adolph Menjou, making donations to a Red Cross girl as they attend the running of the Red Cross Handicap at Hollywood Park.
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c23000/3c23400/3c23401_150px.jpg
+item.title: Stars donate at Red Cross Handicap
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 00649869
+link: https://www.loc.gov/pictures/item/00649869/
+location[0]: california
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+marc: https://www.loc.gov/pictures/item/00649869/marc/
+medium[0]: 1 photographic print.
+medium_brief: 1 photographic print.
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-20T09:58:57Z
+notes[0]: Acme Newspictures, Inc. photograph.
+notes[1]: No. LA563518.
+notes[2]: Forms part of: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress).
+number[0]: http://www.loc.gov/item/00649869
+number[1]: 2006-05-31t15:03:38
+number[2]: http://www.loc.gov/item/11908469
+number[3]: 00649869
+number_former_id[0]: http://www.loc.gov/item/11908469
+number_former_id[1]: http://www.loc.gov/item/00649869
+number_lccn[0]: 00649869
+number_source_modified[0]: 2006-05-31t15:03:38
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 11908469
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/00649869/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/00649869/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/00649869/dc
+partof[0].count: 110701
+partof[0].title: miscellaneous items in high demand
+partof[0].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California&co=cph
+place[0].title: California
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=00649869&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C., 20540 USA
+reproduction_number: LC-USZ62-123401 (b&w film copy neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3c23401
+resources[0].caption: b&w film copy neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c23000/3c23400/3c23401_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3c23401/
+rights_advisory: Publication may be restricted. For information see "New York World-Telegram & ...," https://www.loc.gov/rr/print/res/076_nyw.html
+rights_information: Publication may be restricted. For information see "New York World-Telegram & ...," https://www.loc.gov/rr/print/res/076_nyw.html
+score: 19.46323
+shard: 00
+shelf_id: NYWTS - BIOG--Markey, Gene--& Mrs. No. 2 Hedy Lamarr [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1940
+source_collection: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)
+source_created: 2000-02-10T00:00:00Z
+source_modified: 2006-05-31T15:03:38Z
+subject[0]: photographic prints
+subject[1]: american red cross
+subject[2]: markey, gene
+subject[3]: lamarr, hedy
+subject[4]: california
+subject[5]: people
+subject[6]: menjou, adolphe
+subject[7]: actors
+subject_headings[0]: Lamarr, Hedy,--1913-2000
+subject_headings[1]: Markey, Gene,--1895-1980
+subject_headings[2]: Menjou, Adolphe,--1890-1963
+subject_headings[3]: American Red Cross--People--1940
+subject_headings[4]: Actors--California--1940
+subjects[0].actors: https://www.loc.gov/search/?fa=subject:actors&fo=json
+subjects[1].american red cross: https://www.loc.gov/search/?fa=subject:american+red+cross&fo=json
+subjects[2].california: https://www.loc.gov/search/?fa=subject:california&fo=json
+subjects[3].lamarr, hedy: https://www.loc.gov/search/?fa=subject:lamarr,+hedy&fo=json
+subjects[4].markey, gene: https://www.loc.gov/search/?fa=subject:markey,+gene&fo=json
+subjects[5].menjou, adolphe: https://www.loc.gov/search/?fa=subject:menjou,+adolphe&fo=json
+subjects[6].people: https://www.loc.gov/search/?fa=subject:people&fo=json
+subjects[7].photographic prints: https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json
+summary: Gene Markey, wife Hedy Lamarr and Adolph Menjou, making donations to a Red Cross girl as they attend the running of the Red Cross Handicap at Hollywood Park.
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c23000/3c23400/3c23401_150px.jpg
+timestamp: 2022-05-01T18:24:05.718Z
+title: Stars donate at Red Cross Handicap
+unrestricted: true
+url: https://www.loc.gov/item/00649869/
+resources[0].caption: b&w film copy neg.
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c23000/3c23400/3c23401_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3c23401/
+cite_this.apa: (1940) Stars donate at Red Cross Handicap. California, 1940. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/00649869/.
+cite_this.chicago: Stars donate at Red Cross Handicap. California, 1940. Photograph. https://www.loc.gov/item/00649869/.
+cite_this.mla: Stars donate at Red Cross Handicap. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/00649869/>.

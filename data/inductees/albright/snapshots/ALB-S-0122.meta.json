@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/ny0948/",
+  "fetch_url": "https://www.loc.gov/item/ny0948/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-15T04:02:14Z",
+  "sha256": "bec3e866cb97ec20c346996a8bf2a04ad2d29e83cd9b048a31bf4a9ca3748789",
+  "bytes": 23987,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/ny0948/?fo=json"
+}

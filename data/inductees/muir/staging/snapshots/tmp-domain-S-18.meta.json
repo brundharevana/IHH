@@ -1,0 +1,10 @@
+{
+  "url": "https://www.johnmuirtrust.org/celebrate40",
+  "fetch_url": "https://www.johnmuirtrust.org/celebrate40",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:40:32Z",
+  "sha256": "890f1dc14cc73cc4a8c2dc0c1ab0c53f901ac248233f760fb367389c53e5b3f5",
+  "bytes": 4459,
+  "http_status": 200,
+  "final_url": "https://www.johnmuirtrust.org/celebrate40"
+}

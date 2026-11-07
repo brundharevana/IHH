@@ -1,0 +1,74 @@
+title: Memorandum for the Record (MFR) of the Interview of Madeleine Albright of the Department of State Conducted by Team 3
+onlineResources[0].note: An alphabetical index to this series is available on the NARA web site. The index is also sortable by affiliation, date, team, and status.
+onlineResources[0].description: Index
+onlineResources[0].url: http://www.archives.gov/legislative/research/9-11/commission-memoranda.html
+levelOfDescription: item
+recordType: description
+subjects[0].heading: September 11 Terrorist Attacks, 2001
+subjects[0].authorityType: topicalSubject
+subjects[0].naId: 10674947
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].extent: 6 pages
+physicalOccurrences[0].referenceUnits[0].address2: Room 8E, 7th and Pennsylvania Avenue NW
+physicalOccurrences[0].referenceUnits[0].city: Washington
+physicalOccurrences[0].referenceUnits[0].phone: 202-357-5350
+physicalOccurrences[0].referenceUnits[0].address1: National Archives Building
+physicalOccurrences[0].referenceUnits[0].postalCode: 20408
+physicalOccurrences[0].referenceUnits[0].name: Center for Legislative Archives
+physicalOccurrences[0].referenceUnits[0].state: DC
+physicalOccurrences[0].referenceUnits[0].fax: 202-357-5911
+physicalOccurrences[0].referenceUnits[0].email: legislative.archives@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].mediaOccurrences[0].containerId: 1
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.note: Portions of this record remain closed under the provisions of the letter of 08/20/2004 from Commission Chair, Thomas H. Kean, and Vice Chair, Lee H. Hamilton, to Archivist of the United States, John W. Carlin, detailing access to the Commission's records.  The letter states that records should not be disclosed if they (a) contain information that continues to be classified; (b) disclose private information that the Commission agreed to protect from public disclosure; or (c) are otherwise barred from public disclosure by law, as determined by the Archivist.
+accessRestriction.specificAccessRestrictions[0].securityClassification: Unmarked
+accessRestriction.specificAccessRestrictions[0].restriction: Other
+accessRestriction.status: Restricted - Partly
+dataControlGroup.groupName: Center for Legislative Archives
+dataControlGroup.groupId: RPL
+dataControlGroup.groupCd: RPL
+generalRecordsTypes[0]: Textual Records
+productionDates[0].month: 1
+productionDates[0].year: 2004
+productionDates[0].day: 7
+productionDates[0].logicalDate: 2004-01-07
+variantControlNumbers[0].number: siLegislative 9/11 Commission
+variantControlNumbers[0].type: Search Identifier
+digitalObjects[0].objectFilename: t-0148-911MFR-00003.pdf
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialive/89/6095/2609589/content/arcmedia/9-11/MFR/t-0148-911MFR-00003.pdf
+digitalObjects[0].objectId: 14255567
+digitalObjects[0].objectDescription: Download the PDF
+digitalObjects[0].objectType: Portable Document File (PDF)
+otherTitles[0]: 9/11 Commission Memorandum of Record - Albright, Madeleine - Department of State - Conducted by Team 3
+ancestors[0].inclusiveStartDate.year: 1928
+ancestors[0].inclusiveStartDate.logicalDate: 1928-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 148
+ancestors[0].inclusiveEndDate.year: 2007
+ancestors[0].inclusiveEndDate.logicalDate: 2007-12-31
+ancestors[0].title: Records of Commissions of the Legislative Branch
+ancestors[0].naId: 477
+ancestors[1].inclusiveStartDate.year: 2003
+ancestors[1].inclusiveStartDate.logicalDate: 2003-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: National Commission on Terrorist Attacks Upon the United States. (11/27/2002 - 08/21/2004)
+ancestors[1].creators[0].abolishDate.month: 8
+ancestors[1].creators[0].abolishDate.year: 2004
+ancestors[1].creators[0].abolishDate.day: 21
+ancestors[1].creators[0].abolishDate.logicalDate: 2004-08-21
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 11
+ancestors[1].creators[0].establishDate.year: 2002
+ancestors[1].creators[0].establishDate.day: 27
+ancestors[1].creators[0].establishDate.logicalDate: 2002-11-27
+ancestors[1].creators[0].naId: 10505397
+ancestors[1].inclusiveEndDate.year: 2004
+ancestors[1].inclusiveEndDate.logicalDate: 2004-12-31
+ancestors[1].title: Memorandums for the Record
+ancestors[1].naId: 2524787
+naId: 2609589

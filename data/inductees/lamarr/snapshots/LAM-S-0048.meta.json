@@ -1,0 +1,10 @@
+{
+  "url": "https://www.biography.com/actors/hedy-lamarr",
+  "fetch_url": "https://www.biography.com/actors/hedy-lamarr",
+  "method": "http",
+  "fetched_at": "2026-10-10T22:40:36Z",
+  "sha256": "7b52ec171a4cd06fa79bc38a2d14f2416b1e291812fb4f07c4549f1d9fc60870",
+  "bytes": 11283,
+  "http_status": 200,
+  "final_url": "https://www.biography.com/actors/hedy-lamarr"
+}

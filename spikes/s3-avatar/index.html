@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>S3 speaking avatar demo (spike)</title>
+<link rel="stylesheet" href="demo.css">
+</head>
+<body>
+<a class="skip" href="#controls">Skip to playback controls</a>
+
+<header class="top">
+  <h1>Speaking avatar demo <span class="tag">spike, throwaway</span></h1>
+  <p class="lede">Illustrative reconstruction (spike). Lip timing is simulated from a hand-made viseme timeline against a silent clip. No speech model, no real audio.</p>
+</header>
+
+<main>
+  <section class="stage" aria-labelledby="stage-h">
+    <h2 id="stage-h" class="vh">Avatar and captions</h2>
+
+    <figure class="avatar" id="avatar-fig">
+      <div id="avatar-slot" class="slot"></div>
+      <figcaption>
+        <p class="who"><strong id="who-name">Museum guide</strong><span id="who-role" class="role"></span></p>
+        <p class="ai-label" id="ai-label"><span class="dot" aria-hidden="true"></span>AI recreation — illustrated, words from cited sources</p>
+      </figcaption>
+    </figure>
+
+    <div class="cap-wrap">
+      <p class="speaker" id="cap-speaker">Narration</p>
+      <p id="caption" class="caption" role="status" aria-live="off">Press Play. Captions appear here.</p>
+      <p class="chiprow">
+        <button type="button" class="chip" id="cap-chip" aria-expanded="false" aria-controls="cap-tip" hidden>FACT-PH-000</button>
+        <span id="cap-tip" class="tip" hidden>Placeholder fact id. In production this opens the source card: claim, source, date, evidence tier.</span>
+      </p>
+    </div>
+  </section>
+
+  <section id="controls" class="controls" aria-label="Playback controls">
+    <div class="row">
+      <button type="button" id="play" class="btn primary">Play</button>
+      <button type="button" id="mute" class="btn" aria-pressed="false">Mute</button>
+      <label class="sel">Speed
+        <select id="speed">
+          <option value="0.75">0.75x</option>
+          <option value="1" selected>1x</option>
+          <option value="1.25">1.25x</option>
+          <option value="1.5">1.5x</option>
+        </select>
+      </label>
+      <button type="button" id="cc" class="btn" aria-pressed="true">Captions</button>
+      <button type="button" id="tr-toggle" class="btn" aria-expanded="false" aria-controls="transcript">Transcript</button>
+      <button type="button" id="motion" class="btn" aria-pressed="true">Avatar motion</button>
+    </div>
+    <div class="row">
+      <label class="pos">Position
+        <input type="range" id="pos" min="0" max="25" step="0.1" value="0" aria-valuetext="0 seconds">
+      </label>
+      <span id="time" class="time" aria-hidden="true">0:00 / 0:25</span>
+    </div>
+    <div class="row pick">
+      <label class="sel">Avatar (rig test)
+        <select id="char"></select>
+      </label>
+      <fieldset class="lvl">
+        <legend>Stylization</legend>
+        <label><input type="radio" name="lvl" value="1"> L1 iconic</label>
+        <label><input type="radio" name="lvl" value="2" checked> L2 characterful</label>
+      </fieldset>
+    </div>
+    <p id="notice" class="notice" role="status"></p>
+  </section>
+
+  <section id="transcript" class="transcript" hidden aria-label="Transcript">
+    <h2>Transcript</h2>
+    <ol id="tr-list"></ol>
+  </section>
+
+  <details class="dbg">
+    <summary>Spike notes and live counters</summary>
+    <ul>
+      <li>Clock: an in-memory silent WAV drives <code>audio.currentTime</code>; captions come from a hidden WebVTT track via <code>cuechange</code>; mouths come from <code>data/lines.json</code> (Rhubarb-style mouthCues).</li>
+      <li>The three lines paraphrase facts already verified in the project data. Fact ids here are placeholders.</li>
+      <li>Avatar picker is a rig test only: inductee portraits would not read third-person narration like this in production.</li>
+    </ul>
+    <pre id="stats" aria-label="Live counters"></pre>
+  </details>
+</main>
+
+<audio id="clock" preload="auto"><track id="trk" kind="captions" srclang="en" label="English captions" src="data/captions.vtt"></audio>
+<script src="demo.js"></script>
+</body>
+</html>

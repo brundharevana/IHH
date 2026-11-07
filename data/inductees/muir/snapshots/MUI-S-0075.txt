@@ -1,0 +1,109 @@
+title: Exhibit G, excerpt concerning nut pine from "Mountains of California" by John Muir, submitted as exhibit to Creel's "Report on Washoe Indian Allotments."
+scopeAndContentNote: This document relates to the circumstances and need for relief of Washoe allottees on pine nut lands in Nevada circa 1918. The allottees' basis for selecting their land was based on the unreliable pine nut crop and sentimental reasons. However, the allotments were not on agricultural land and were essentially "useless" for homes, leaving the future of the allottees "hopeless." The document emphasizes the deprivation of all aspects of the Washoe's livelihood--except pine nuts--by white settlement, and the lack of consideration of the Washoe's interests and welfare by those authorities that should have been concerned.
+levelOfDescription: item
+recordType: description
+subjects[0].heading: Nevada
+subjects[0].authorityType: geographicPlaceName
+subjects[0].naId: 10045253
+subjects[1].heading: Publications
+subjects[1].authorityType: specificRecordsType
+subjects[1].naId: 10633176
+subjects[2].heading: Agriculture
+subjects[2].authorityType: topicalSubject
+subjects[2].naId: 10640158
+subjects[3].heading: Indians
+subjects[3].authorityType: topicalSubject
+subjects[3].naId: 10640331
+subjects[4].heading: Welfare
+subjects[4].authorityType: topicalSubject
+subjects[4].naId: 10643362
+subjects[5].heading: Livestock
+subjects[5].authorityType: topicalSubject
+subjects[5].naId: 10638714
+subjects[6].heading: Forests and forestry
+subjects[6].authorityType: topicalSubject
+subjects[6].naId: 10640842
+subjects[7].heading: Pine nuts
+subjects[7].authorityType: topicalSubject
+subjects[7].naId: 10641217
+subjects[8].heading: Washo Indians
+subjects[8].authorityType: topicalSubject
+subjects[8].naId: 10644367
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].city: San Bruno
+physicalOccurrences[0].referenceUnits[0].phone: 650-238-3501
+physicalOccurrences[0].referenceUnits[0].address1: 1000 Commodore Drive
+physicalOccurrences[0].referenceUnits[0].postalCode: 94066-2350
+physicalOccurrences[0].referenceUnits[0].name: National Archives at San Francisco
+physicalOccurrences[0].referenceUnits[0].state: CA
+physicalOccurrences[0].referenceUnits[0].fax: 650-238-3510
+physicalOccurrences[0].referenceUnits[0].email: sanbruno.archives@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Loose Sheets
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at San Francisco
+dataControlGroup.groupId: RRFS
+dataControlGroup.groupCd: RRFS
+generalRecordsTypes[0]: Textual Records
+variantControlNumbers[0].number: NRHS-75-RENOLANDCORRESP-CREEL-6
+variantControlNumbers[0].type: NAIL Control Number
+contributors[0].heading: Muir, John
+contributors[0].contributorType: Author
+contributors[0].authorityType: person
+contributors[0].naId: 10568067
+digitalObjects[0].objectFilename: 37-1436a.gif
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/san-francisco/rg-075/296203/296204/37-1436a.gif
+digitalObjects[0].objectFileSize: 114323
+digitalObjects[0].objectDesignator: COVER
+digitalObjects[0].objectId: 14967528
+digitalObjects[0].objectType: Image (GIF)
+digitalObjects[1].objectFilename: 37-1437a.gif
+digitalObjects[1].objectUrl: https://catalog.archives.gov/medialz/san-francisco/rg-075/296203/296204/37-1437a.gif
+digitalObjects[1].objectFileSize: 151856
+digitalObjects[1].objectDesignator: 1
+digitalObjects[1].objectId: 14967529
+digitalObjects[1].objectType: Image (GIF)
+digitalObjects[2].objectFilename: 37-1438a.gif
+digitalObjects[2].objectUrl: https://catalog.archives.gov/medialz/san-francisco/rg-075/296203/296204/37-1438a.gif
+digitalObjects[2].objectFileSize: 154696
+digitalObjects[2].objectDesignator: 2
+digitalObjects[2].objectId: 14967530
+digitalObjects[2].objectType: Image (GIF)
+digitalObjects[3].objectFilename: 37-1439a.gif
+digitalObjects[3].objectUrl: https://catalog.archives.gov/medialz/san-francisco/rg-075/296203/296204/37-1439a.gif
+digitalObjects[3].objectFileSize: 119666
+digitalObjects[3].objectDesignator: 3
+digitalObjects[3].objectId: 14967531
+digitalObjects[3].objectType: Image (GIF)
+ancestors[0].inclusiveStartDate.year: 1793
+ancestors[0].inclusiveStartDate.logicalDate: 1793-01-01
+ancestors[0].distance: 3
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 75
+ancestors[0].inclusiveEndDate.year: 1999
+ancestors[0].inclusiveEndDate.logicalDate: 1999-12-31
+ancestors[0].title: Records of the Bureau of Indian Affairs
+ancestors[0].naId: 404
+ancestors[1].inclusiveStartDate.year: 1912
+ancestors[1].inclusiveStartDate.logicalDate: 1912-01-01
+ancestors[1].distance: 2
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of the Interior. Office of Indian Affairs. Reno Agency. (1912 - 1925)
+ancestors[1].creators[0].abolishDate.year: 1925
+ancestors[1].creators[0].abolishDate.logicalDate: 1925-12-31
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 1912
+ancestors[1].creators[0].establishDate.logicalDate: 1912-01-01
+ancestors[1].creators[0].naId: 10529218
+ancestors[1].inclusiveEndDate.year: 1924
+ancestors[1].inclusiveEndDate.logicalDate: 1924-12-31
+ancestors[1].title: Special Agent Land Correspondence
+ancestors[1].naId: 296203
+ancestors[2].distance: 1
+ancestors[2].levelOfDescription: fileUnit
+ancestors[2].title: Mr. Creel's Report
+ancestors[2].naId: 296204
+naId: 296210

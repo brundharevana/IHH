@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:22:32Z",
+  "sha256": "caf9b89fc5f7ae2c13bd2c504ca3716e1c6be626b252aac6805be5a89e7e3f3b",
+  "bytes": 1087,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Einstein_1921_by_F_Schmutzer_-_restoration.jpg&format=json"
+}

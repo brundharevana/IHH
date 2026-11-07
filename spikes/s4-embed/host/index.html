@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fake WordPress host page (spike S4, not WordPress)</title>
+<style>
+:root{--bg:#fff;--fg:#1d2327;--muted:#50575e;--line:#c3c4c7;--accent:#2271b1;color-scheme:light dark}
+@media (prefers-color-scheme:dark){:root{--bg:#1d2327;--fg:#f0f0f1;--muted:#a7aaad;--line:#3c434a;--accent:#72aee6}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 Georgia,"Times New Roman",serif}
+.wrap{max-width:680px;margin:0 auto;padding:16px}
+h1{font-size:1.6rem;line-height:1.2;margin:.2rem 0}
+h2{font-size:1.05rem;font-family:system-ui,sans-serif;margin:1.2rem 0 .3rem}
+.meta,.tool,pre,table,button,label,input{font-family:system-ui,sans-serif;font-size:.8rem}
+.meta{color:var(--muted);margin:0}
+figure{margin:.6rem 0}
+figcaption{font:italic .8rem Georgia,serif;color:var(--muted)}
+iframe{max-width:100%;border:1px solid var(--line);display:block}
+button,input{min-height:32px;padding:3px 10px;border:1px solid var(--line);border-radius:4px;background:transparent;color:var(--fg)}
+a{color:var(--accent)}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+pre{max-height:260px;overflow:auto;border:1px solid var(--line);padding:6px;white-space:pre-wrap;word-break:break-word;margin:.3rem 0}
+table{border-collapse:collapse;width:100%}
+td,th{border-bottom:1px solid var(--line);padding:2px 6px;text-align:left}
+.row{display:flex;flex-wrap:wrap;gap:6px;margin:.4rem 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="meta">Fake WordPress host page for spike S4. It imitates the oEmbed treatment of an untrusted provider; it is not WordPress and was not produced by WordPress code.</p>
+  <h1>Sample post with an embedded viewer</h1>
+  <p>Ordinary paragraph text, standing in for a post body. The first embed below carries the attributes WordPress forces on a discovered (untrusted) provider; the second is the registered-provider tier; the optional third is an unsandboxed control with no <code>allow</code> attribute.</p>
+  <p><button type="button" id="before">Focusable control before the embeds</button></p>
+  <div id="embeds"></div>
+  <p><button type="button" id="after">Focusable control after the embeds</button></p>
+
+  <h2>Harness</h2>
+  <div class="row tool" role="group" aria-label="Harness controls">
+    <button type="button" data-w="320">Frames 320 px</button>
+    <button type="button" data-w="480">480 px</button>
+    <button type="button" data-w="600">600 px</button>
+    <button type="button" id="clear">Clear log</button>
+  </div>
+  <table class="tool" id="states"><thead><tr><th>Frame</th><th>Tier</th><th>height attr</th><th>rendered</th><th>messages</th></tr></thead><tbody></tbody></table>
+  <pre id="log" aria-label="Message log"></pre>
+</div>
+<script>
+(function () {
+  'use strict';
+  var SHOW = 'http://127.0.0.1:8704/s4-embed/showcase/index.html';
+  var SHOW_ORIGIN = 'http://127.0.0.1:8704';
+  var P = new URLSearchParams(location.search);
+  var frames = (P.get('frames') || 'AB').toUpperCase().split('');
+  var extra = P.get('q') ? '?' + P.get('q') : '';
+  var scrolling = P.get('scroll') === 'no' ? ' scrolling="no"' : '';
+  var DRY = P.get('dry') === '1';
+  var SECRET = 'abc123';
+  var TITLE = 'Spike S4 viewer (illustrative reconstruction, spike)';
+  var LOG = []; var counts = {};
+  window.__log = LOG;
+
+  var T = {
+    // Tier 1: what WordPress emits for a discovered, untrusted provider (wp_filter_oembed_result):
+    // kses keeps only src/width/height/frameborder/marginwidth/marginheight/scrolling/title; core forces class, sandbox, security; adds secret.
+    A: '<iframe id="fA" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="' + TITLE + '" src="' + SHOW + extra + '#?secret=' + SECRET + '" data-secret="' + SECRET + '" width="600" height="480" frameborder="0" marginwidth="0" marginheight="0"' + scrolling + '></iframe>',
+    // Tier 2: registered provider (HTML passes unmodified). Full control over attributes.
+    B: '<iframe id="fB" title="' + TITLE + '" src="' + SHOW + extra + '" width="600" height="480" frameborder="0" allow="fullscreen" allowfullscreen></iframe>',
+    // Control: unsandboxed, no allow attribute (isolates the effect of the stripped attributes from the effect of sandbox).
+    C: '<iframe id="fC" title="' + TITLE + '" src="' + SHOW + extra + '" width="600" height="480" frameborder="0"></iframe>'
+  };
+  // Proxy tier (P): same attributes as A, but the document is a blob: URL so that it can load. Needed because the in-app browser blocks
+  // every request made by an opaque-origin frame to a loopback address (net::ERR_BLOCKED_BY_CLIENT), including A's own navigation.
+  T.P = '<iframe id="fP" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="' + TITLE + '" data-secret="' + SECRET + '" data-real-src="' + SHOW + '#?secret=' + SECRET + '" width="600" height="480" frameborder="0" marginwidth="0" marginheight="0"' + scrolling + '></iframe>';
+  var NAMES = { P: 'proxy of A (sandbox + secret, blob: document)', A: 'discovered (sandbox + secret)', B: 'registered (no sandbox, allow=fullscreen)', C: 'control (no sandbox, no allow)' };
+  var html = '';
+  frames.forEach(function (k) { if (T[k]) html += '<figure><figcaption>Frame ' + k + ': ' + NAMES[k] + '</figcaption>' + T[k] + '</figure>'; });
+  document.getElementById('embeds').innerHTML = html;
+  var posterData = null;
+  async function blobUrl() {
+    var html = await (await fetch('/s4-embed/showcase/index.html', { cache: 'no-store' })).text();
+    if (!posterData) { var b = await (await fetch('/s4-embed/showcase/poster.webp', { cache: 'no-store' })).blob(); posterData = await new Promise(function (r) { var fr = new FileReader(); fr.onload = function () { r(fr.result); }; fr.readAsDataURL(b); }); }
+    html = html.replace('<head>', '<head><base href="http://127.0.0.1:8704/s4-embed/showcase/">').replace('src="poster.webp"', 'src="' + posterData + '"');
+    return URL.createObjectURL(new Blob([html], { type: 'text/html' }));
+  }
+  var F = {}; frames.forEach(function (k) { F[k] = document.getElementById('f' + k); if (F[k]) { counts[k] = 0; F[k].addEventListener('load', function () { log('iframe-load', { frame: k }); }); } });
+
+  function log(kind, d) { var e = Object.assign({ t: Math.round(performance.now()), kind: kind }, d || {}); LOG.push(e); render(); return e; }
+  function frameOf(src) { for (var k in F) if (F[k] && F[k].contentWindow === src) return k; return null; }
+
+  /* ---- mimic of wp-embed.js (wp-includes/js/wp-embed.js), as read from the WordPress source ---- */
+  function wpReceive(e) {
+    var source = e.data;
+    if (!source) return;
+    if (!source.secret && !source.message && !source.value) { if (source.type === 'ihh-embed-height') log('wp-ignored', { frame: frameOf(e.source), why: 'no secret/message/value', origin: e.origin, type: source.type }); return; }
+    if (/[^a-zA-Z0-9]/.test(source.secret)) { log('wp-ignored', { why: 'bad secret' }); return; }
+    var iframes = document.querySelectorAll('iframe[data-secret="' + source.secret + '"]'), matched = false;
+    for (var i = 0; i < iframes.length; i++) {
+      var iframe = iframes[i];
+      if (e.source !== iframe.contentWindow) continue;
+      matched = true; iframe.removeAttribute('style');
+      if ('height' === source.message) {
+        var height = parseInt(source.value, 10), req = height;
+        if (height > 1000) height = 1000; else if (~~height < 200) height = 200;
+        iframe.height = height; counts[iframe.id.slice(1)]++;
+        log('wp-height', { frame: iframe.id.slice(1), requested: req, applied: height, origin: e.origin });
+      }
+      if ('link' === source.message) {
+        var a = document.createElement('a'), b = document.createElement('a'); a.href = iframe.getAttribute('data-real-src') || iframe.getAttribute('src'); b.href = source.value;
+        var ok = /^https?:$/i.test(b.protocol), same = b.host === a.host, active = document.activeElement === iframe;
+        log('wp-link', { frame: iframe.id.slice(1), target: source.value, protocolOk: ok, sameHost: same, iframeIsActiveElement: active, willNavigate: ok && same && active && !DRY });
+        if (ok && same && active && !DRY) window.top.location.href = source.value;
+      }
+    }
+    if (!matched) log('wp-ignored', { why: 'no iframe with this secret and source', message: source.message });
+  }
+  window.addEventListener('message', wpReceive, false);
+  document.addEventListener('DOMContentLoaded', function () {
+    var list = document.querySelectorAll('iframe.wp-embedded-content');
+    for (var i = 0; i < list.length; i++) { var s = list[i]; s.removeAttribute('style'); s.contentWindow.postMessage({ message: 'ready', secret: s.getAttribute('data-secret') }, '*'); log('wp-ready-sent', { frame: s.id.slice(1) }); }
+  }, false);
+
+  /* ---- listener for tiers B and C: what a registered-provider plugin would ship (IHH message, origin + source checked, no clamp) ---- */
+  window.addEventListener('message', function (e) {
+    var d = e.data, k = frameOf(e.source);
+    if (k === null || !d) return;
+    if (d.type === 'ihh-embed-height' && k !== 'A' && k !== 'P') {
+      if (e.origin !== SHOW_ORIGIN) { log('ihh-rejected', { frame: k, origin: e.origin }); return; }
+      F[k].height = d.height; counts[k]++; log('ihh-height', { frame: k, height: d.height, reason: d.reason, origin: e.origin });
+    } else if (d.type && d.type !== 'ihh-embed-height') {
+      var c = Object.assign({}, d); if (d.type === 'ihh-probe') c = { type: 'ihh-probe', origin: e.origin, query: d.query, results: d.results }; if (d.type === 'ihh-perf') c = Object.assign({}, d, { resources: (d.resources || []).length + ' resources' });
+      log(d.type, Object.assign({ frame: k, origin: e.origin }, c, { type: undefined }));
+    }
+  });
+  document.addEventListener('focusin', function (e) { log('host-focusin', { target: e.target.id || e.target.tagName }); });
+
+  function render() {
+    var pre = document.getElementById('log');
+    pre.textContent = LOG.slice(-60).map(function (e) { return JSON.stringify(e, function (k, v) { return k === 'results' ? '[' + Object.keys(v).length + ' probes]' : v; }); }).join('\n');
+    pre.scrollTop = pre.scrollHeight;
+    var tb = document.querySelector('#states tbody'); tb.innerHTML = '';
+    Object.keys(F).forEach(function (k) { var f = F[k]; if (!f) return; var tr = document.createElement('tr'); tr.innerHTML = '<td>' + k + '</td><td>' + NAMES[k] + '</td><td>' + f.getAttribute('height') + '</td><td>' + Math.round(f.getBoundingClientRect().height) + ' x ' + Math.round(f.getBoundingClientRect().width) + '</td><td>' + counts[k] + '</td>'; tb.appendChild(tr); });
+  }
+  document.querySelectorAll('[data-w]').forEach(function (b) { b.addEventListener('click', function () { Object.keys(F).forEach(function (k) { F[k].width = b.dataset.w; }); setTimeout(render, 300); }); });
+  document.getElementById('clear').addEventListener('click', function () { LOG.length = 0; render(); });
+  var n = 0;
+  window.H = {
+    frames: F, log: LOG, base: SHOW,
+    proxy: async function (flags) { var u = await blobUrl(); n++; F.P.src = u + '#?secret=' + SECRET + (flags ? '&' + flags : ''); return F.P.src; },
+    src: function (id, query) { var f = F[id]; n++; f.src = SHOW + '?' + (query ? query + '&' : '') + '_r=' + n + (id === 'A' ? '#?secret=' + SECRET : ''); },
+    width: function (id, w) { F[id].width = w; setTimeout(render, 300); },
+    cmd: function (id, cmd, args) { F[id].contentWindow.postMessage({ type: 'ihh-cmd', cmd: cmd, args: args }, '*'); },
+    clear: function () { LOG.length = 0; render(); },
+    state: function () { var o = {}; Object.keys(F).forEach(function (k) { var r = F[k].getBoundingClientRect(); o[k] = { attrH: F[k].getAttribute('height'), w: Math.round(r.width), h: Math.round(r.height), msgs: counts[k] }; }); return o; },
+    active: function () { var a = document.activeElement; return a && (a.id || a.tagName); }
+  };
+  if (F.P) H.proxy(P.get('q') || '');
+  render();
+})();
+</script>
+</body>
+</html>

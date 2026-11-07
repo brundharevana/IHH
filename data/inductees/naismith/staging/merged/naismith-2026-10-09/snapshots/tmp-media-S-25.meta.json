@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Kansas_U_team_1899.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Kansas_U_team_1899.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:17:09Z",
+  "sha256": "cc83c73c4eac931aa590730f84e1429a09cc981adc139647e1c98a0f2b305643",
+  "bytes": 976,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Kansas_U_team_1899.jpg&format=json"
+}

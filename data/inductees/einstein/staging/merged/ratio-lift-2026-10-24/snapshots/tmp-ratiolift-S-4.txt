@@ -1,0 +1,818 @@
+_version_: 1799769168285794304
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045499/1933-03-30/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045499/1933-03-30/ed-1/
+batch[0]: ak_commonraven_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/alaska/
+composite_location[2]: 2/united states/alaska/juneau/
+composite_location[3]: 3/united states/alaska/juneau/juneau/
+contributor_names[0]: Alaska State Library Historical Collections
+contributors[0].alaska state library historical collections: https://www.loc.gov/search/?fa=contributor:alaska+state+library+historical+collections&fo=json
+created_published[0]: Juneau, Alaska, March 30, 1933
+date: 1933-03-30
+date_issued: 1933-03-30
+dates[0].1933-03-30: https://www.loc.gov/search/?dates=1933-03-30/1933-03-30&fo=json
+dates_of_publication: 1926-1964
+description[0]: Juneau, Alaska
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2024-05-22T12:57:48.052Z
+extract_urls[0]: file:/service/ndnp//ak/batch_ak_commonraven_ver01/data/sn83045499/00514159658/1933033001/1933033001_1.xml#ndnp/ak
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ak
+group[1]: alaska-state-library-historical-collections-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn83045499/1933-03-30/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_commonraven_ver01:data:sn83045499:00514159658:1933033001:0598/full/pct:6.25/0/default.jpg#h=413&w=322
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_commonraven_ver01:data:sn83045499:00514159658:1933033001:0598/full/pct:12.5/0/default.jpg#h=827&w=645
+index: 1
+item.batch[0]: ak_commonraven_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Alaska State Library Historical Collections
+item.created_published[0]: Juneau, Alaska, March 30, 1933
+item.date: 1926
+item.date_issued: 1933-03-30
+item.dates[0]: 1933-03-30
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045499
+item.location[0]: Juneau (Alaska)
+item.location[1]: Alaska--Juneau
+item.medium: 8 pages
+item.newspaper_title[0]: The daily Alaska empire
+item.notes[0]: Daily (except Saturday)
+item.notes[1]: Vol. 29, no. 4346 (Dec. 8, 1926)-v. 99, no. 219 (July 21, 1964).
+item.notes[2]: Supplements accompany some numbers.
+item.notes[3]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[4]: J bird was issued with the Daily Alaska empire from <1932-May 16, 1936>, with separate enumeration. It then resumed publishing on its own September 25, 1936.
+item.notes[5]: Juneau Alaska empire (DLC)sn 83045498 (OCoLC)9518440
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ak/batch_ak_commonraven_ver01/data/sn83045499/00514159658/1933033001/1933033001_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045499/marcxml
+item.place_of_publication: Juneau, Alaska
+item.raw_lccn: sn 83045499
+item.reel_numbers[0]: 00514159658
+item.source_group: ndnp/ak
+item.subjects[0]: Juneau (Alaska)--Newspapers
+item.subjects[1]: Alaska--Juneau
+item.subjects[2]: United States--Alaska--Juneau--Juneau
+item.title: The daily Alaska empire (Juneau, Alaska), March 30, 1933
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn83045499
+location[0]: alaska
+location[1]: united states
+location[2]: juneau
+location_city[0]: juneau
+location_country[0]: united states
+location_county[0]: juneau
+location_state[0]: alaska
+locations[0].alaska: https://www.loc.gov/search/?fa=location:alaska&fo=json
+locations[1].juneau: https://www.loc.gov/search/?fa=location:juneau&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].juneau: https://www.loc.gov/search/?fa=location_city:juneau&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].juneau: https://www.loc.gov/search/?fa=location_county:juneau&fo=json
+locations_state[0].alaska: https://www.loc.gov/search/?fa=location_state:alaska&fo=json
+medium: 8 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The daily Alaska empire
+notes[0]: Daily (except Saturday)
+notes[1]: Vol. 29, no. 4346 (Dec. 8, 1926)-v. 99, no. 219 (July 21, 1964).
+notes[2]: Supplements accompany some numbers.
+notes[3]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[4]: J bird was issued with the Daily Alaska empire from <1932-May 16, 1936>, with separate enumeration. It then resumed publishing on its own September 25, 1936.
+notes[5]: Juneau Alaska empire (DLC)sn 83045498 (OCoLC)9518440
+number[0]: 1
+number[1]: 00514159658
+number[2]: sn83045499
+number_edition[0]: 1
+number_lccn[0]: sn83045499
+number_reel[0]: 00514159658
+numeric_shelf_id: 193303301
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ak/batch_ak_commonraven_ver01/data/sn83045499/00514159658/1933033001/1933033001_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045499/marcxml
+partof[0].count: 7737
+partof[0].title: the daily alaska empire (juneau, alaska) 1926-1964
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+daily+alaska+empire+%28juneau,+alaska%29+1926-1964&fo=json
+partof[1].count: 3210990
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232495
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the daily alaska empire (juneau, alaska) 1926-1964
+place_of_publication: Juneau, Alaska
+publication_frequency[0]: daily
+raw_lccn: sn 83045499
+reel_numbers[0]: 00514159658
+resources[0].files: 8
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_commonraven_ver01:data:sn83045499:00514159658:1933033001:0598/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045499/1933-03-30/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.52867
+shard: 02
+shelf_id: sn83045499, 1933-03-30, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ak
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: united states
+subject[1]: juneau (alaska)
+subject[2]: juneau
+subject[3]: newspapers
+subject[4]: alaska
+subject_headings[0]: Juneau (Alaska)--Newspapers
+subject_headings[1]: Alaska--Juneau
+subject_headings[2]: United States--Alaska--Juneau--Juneau
+subjects[0].alaska: https://www.loc.gov/search/?fa=subject:alaska&fo=json
+subjects[1].juneau: https://www.loc.gov/search/?fa=subject:juneau&fo=json
+subjects[2].juneau (alaska): https://www.loc.gov/search/?fa=subject:juneau+%28alaska%29&fo=json
+subjects[3].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[4].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+timestamp: 2024-05-22T16:00:30.770Z
+title: The daily Alaska empire (Juneau, Alaska), March 30, 1933
+type[0]: issue
+url: https://www.loc.gov/item/sn83045499/1933-03-30/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_commonraven_ver01/data/sn83045499/00514159658/1933033001/0598.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045499/1933-03-30/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_commonraven_ver01:data:sn83045499:00514159658:1933033001:0598/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ak/batch_ak_commonraven_ver01/data/sn83045499/00514159658/1933033001/0598.pdf
+resources[0].segment_count: 8
+resources[0].url: https://www.loc.gov/resource/sn83045499/1933-03-30/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1933, March 30) The daily Alaska empire. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045499/1933-03-30/ed-1/.
+cite_this.chicago: The daily Alaska empire. (Juneau, AK), Mar. 30 1933. https://www.loc.gov/item/sn83045499/1933-03-30/ed-1/.
+cite_this.mla: The daily Alaska empire. (Juneau, AK) 30 Mar. 1933, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn83045499/1933-03-30/ed-1/.
+
+segment_id: /service/ndnp/ak/batch_ak_commonraven_ver01/data/sn83045499/00514159658/1933033001/0598.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_commonraven_ver01/data/sn83045499/00514159658/1933033001/0598.xml&format=alto_xml&full_text=1
+full_text:
+THE DAILY ALASKA EMPIRE
+‘ALL THE NEWS ALL THE TIME”
+VOL XLI..NO. 6301
+JUNEAU, ALASKA, THURSDAY, MARCH 30, 1933.
+MEMBER OF ASSOCIATED PRESS
+PRICE TEN CENTS
+John W. Troy, Editor of The Empire and President of the Empire Printing Company, was today confirmed by the United States Senate to be Governor of Alaska, according to an Associated Press dispatch. Mr.
+Troy was nominated by President Roosevelt on March 23. The Senate Committee on Territories made a favorable report on the nomination on Tuesday of this week. Mr. Troy is now in Washington and expected to
+leave for his home in Juneau in the immediate future.
+LOCAL CHAMBER
+GREETS SENATE
+AT NOON LUNCH
+Capacity Attendance Wel
+come Upper Branch of
+Legislature Today
+With an attendance that packed
+the luncheon room at Bailey’s Cafe,
+the Chamber of Commerce today
+was host to Gov. George A. Parks,
+members of the Territorial Senate
+and some of the Territorial offic
+ials. Speakers were Gov. Parks,
+Senator R. S. Bragaw and H. L.
+Faulkner, with John W. Jones,
+President of the Chamber acting
+in the role of toastmaster.
+Allen Shattuck, President of the
+Senate, formally introduced his col
+leagues Senators Lomen and Fraw
+ley. Second Division; Hess and De
+Vane, Fourth Division; Campbell,
+Third Division, and Walker, First
+Division, of the upper branch of
+the Territorial Legislature, each
+of whom responded briefly. Other
+guests were Attorney General James!
+S. Truitt and Commissioner of
+Education A. E. Karnes.
+Praises the Legislature
+Calling attention to the fact that
+this year the Alaska Legislature
+comes into its majority as it held its
+first session in 1913, the Governor
+complimented that body highly for1
+its sanity, progressivsness in leg
+islation and the soundness of its
+fiscal policies. "The efficiency with!
+which it has functioned, and the
+care it has used in making appro-j
+priations is evidenced by the fact
+that Alaska has no debt of any,
+kind. It is the only legal sub-(
+division of the United States that
+is out of debt." he declared.
+The laws it has passed during
+the past 20 years, he added, com
+pare very favorably with the laws
+of the most progressive commonr
+wealths. Its system of administra-,
+tion, largely centered in the hands
+of the Chief Executive of the Ter-'
+ritory, is an elastic one, made
+necessary by the fluctuations in
+revenyes from taxes based upon
+productions and net profits. The
+elasticity of the system, he asserted,
+had been a factor in the favorable!
+lesults obtained.
+Well Supported by Public
+“It has been my experience that,
+almost all of the Territory is
+squarely behind the Executive De
+partment in its operations. What-,
+ever it has achieved is due to the
+support that has been accorded by
+the large majority of Alaskans,” he
+said.
+He predicted that same attitude
+toward his successor, John W. Troy.
+“We all know the incoming Gov-,
+ernor and he knows the Territory;
+as well as any man. I am certain
+that he will be accorded the same'
+support that has been given me."i
+Will Remain Alaskan
+The Governor, calling attention j
+to his 26 years’ residence in the;
+Territory, was proud of the fact!
+that he is a real Alaskan, “ij
+shall continue to reside in the1
+Territory after I retire from of- J
+fice as Governor. It is my home.'
+“I shall visit this Chamber of
+Commerce, the Anchorage Chamber
+of Commerce, and those of the
+other communities that I may hap-!
+pen to visit. As I go down the;
+streets of the various towns, I hope j
+you will continue to greet me as
+‘George.’ That is what I like.”
+Points to Record
+Editorial warnings against legis
+lative extravagance, while well tak
+en and friendly, are not altogether
+well-based, declared Senator
+Bragaw, who pointed to the record
+of preceding sessions as indicating!
+that the lawmakers have always
+stayed within the limits of Terri
+(Continued on pace Tnree)
+House of Morgan
+Is Going to Be
+Investigated
+WASHINGTON, March 30.—
+An investigation of the House
+of Morgan is sought by the
+Senate Banking Committee.
+This was the announcement
+made today as members of the
+Committee said it would seek
+increased power in continuing
+its stork market investigation.
+Business as Usual
+("ho iecal partnership that has existed between John Nance Gamer and
+his wife did not end with Garner’s elevation to the Vice Presidency of
+the United States. For many years, all through his distinguished career
+,".s a Congressman. Mrs. Garner has acted as her husband’s secretary.
+She is retaining that position and is here shown in the Vice President’*-i
+new office. In center is Miss Josephine Sterling, a member of the Vice
+President’s office etaff.
+STOCK MARKET
+HEAVY; PRICES
+ARE IRREGULAR
+Trade Is Light for Entire
+Session Pivotal
+Stocks Steady
+NEW YORK, March 30.—After
+drifting for nearly the entire day,
+stocks closed with a small irregular
+change. Rails were a little heavy.
+Alcohol and sugar issues firmed.
+Trade was light. Although several
+so-called pivotal stocks were under
+pressure, they became steadier, not
+ably American Telephone and Tele
+graph which finished fractionally
+higher than yesterday.
+United States Steel common and
+Allied Chemical held narrow fluc
+tuations.
+Heaviness Prevails
+After a slight early heavy period,
+the market steadied with the ex
+ception of rails.
+Equities maintained a fairly even
+keel.
+Air Reduction, United States Steel
+preferred, National Distillers, Corn j
+Products, Consolidated Gas, Indus
+trial Alcohol, American Sugar, and
+Great Western closed up from frae
+Drugs Incorporated were off a
+tions to one point and one half, j
+Union Pacific lost one point,
+couple of points.
+CLOSING PRICES TODAY
+NEW YORK, March 30—Closing
+quotation of Alaska Juneau mine!
+stock today is 14%, American Can
+55%, American Power and Light i
+4%, Anaconda 6%, Bethlehem Steel1
+13%, Calumet and Hecla, no sale;
+Pox Films General Motors 11%,
+International Harvester 22%, Ken-;
+necott 9, North American 17%,
+Packard Motors 2, United States.
+Steel 28%.
+SEARCHING FOR
+ABDUCTED MEN
+British Gunboats Look for
+Gang Who Kidnaped i
+Steamer Officers
+NEWCHWANG, Manchuria, March
+30.—British gunboats are searching,
+off the Manchurian coast for a t
+gang of Chinese buccaneers who,
+yesterday kidnaped four British of-j
+fleers from the British merchant!
+ship Nanchang as it lay at anchor,
+in the harbor.
+British Vice-Consul D. H. Clarke
+is coming here from Mukden to aid
+in attempts to rescue the British;
+officers.
+Three-wheeled motor vehicles
+capable of carrying seven passen- j
+gers, are used in Manila.
+REGISTRATION
+NEAR CLOSING;!
+3 DAYS LEFT
+City Election Approaching!
+—Citizens Prepare
+to Cast Votes
+Registrants, taking advantage of
+the last few days before the muni
+cipal election April 4, are filing into
+the office of City Clerk H. R. Shep
+ard in a steady stream. Registra
+tion had reached 639 at noon today
+and was increasing hourly.
+The office of the City Clerk will
+be kept open Saturday night and
+Monday night between 7:30 and
+9:30 to accommodate citizens who
+are unable to register during the
+day.
+Mayor, City Council and Member
+of the School Board will be voted
+upon at the election next Tuesday.
+An ordinance granting a fran
+chise to W. H. Bacon, for the use
+of certain city streets for the op
+eration of an automobile bus line
+is also to be voted upon.
+JURY SYSTEM IS
+UNDER ATTACK,
+SOUTHERN CASE
+Seven Negroes Are to Be
+Retried for Alleged At
+tack on White Girls
+DECATUR, Alabama, March 30.
+—The first of the seven negroes
+facing retrial on accusations of at-
+tacking two white girls, in the
+Sccttboro case, has been ordered
+to appear for hearing but a delay
+has arisen over charges of racial
+discriminations in Jury selection.
+Heywood Patterson, the first of
+the seven defendants sentenced to
+death but granted new trials on
+appeal, is ready to appear but the
+defense counsel is prepared for an
+other attack on Alabama’s jury
+system. He has made an appeal
+to summon 200 negroes, among
+them doctors, lawyers and one col
+lege professor, to support his mo
+tion to quash the jury venire be
+cause the first one included none
+of the defendant’s race.
+PRINCE RUPERT MAN AND
+WIFE ENROUTE TO TENAKEE
+Mr. and Mrs. D. Zarelli of Prince
+Rupert are at the Gastineau hotel:
+enroute to Tenakee Hot Springs
+where they expect to spend two1
+weeks. Mr. Zarelli, Prince Rupert1
+hotel owner, formerly lived in Val
+dez and is renewing old Alaska ac- 1
+quaintances while in Juneau.
+TROY CAPABLE
+FOR GOVERNOR
+OF TERRITORY
+Acquaintances in Seat tie
+Say Editor Qualified
+for His Position
+SEATTLE, March 30—Acquain
+tances of John W. Troy, Editor of
+the Daily Alaska Empire and Pres
+ident of the Empire Printing Com
+pany, today confirmed to be Gov
+ernor of Alaska, declare that he is
+well qualified for the position both
+as an advocate of home rule and
+because of his knowledge of Terri
+torial affairs.
+His acquaintances are diligent in
+telling of how Mr. Troy, hearing
+and reading of some of the inac
+curate statements regarding an in
+cident in the territory, will say:
+No, that happened at such and
+such a time,’ and he's always right,
+too,” said Charles Garfield, former
+head of the Alaska Division of the
+Seattle Chamber of Commerce, an
+old time Alaskan himself.
+Knows Territory
+During the past two decades,
+Mr. Troy has visited many parts
+of the territory and also learned
+about it from legislators, merchants,
+miners and fishermen who went to
+Juneau at various times. His first
+hand knowledge of the Territory
+covers a period of 36 years. He
+first went north in '97 to cover
+the gold rush for the Seattle Times.
+He is generally credited with keep
+ing the cause of the Democrats
+alive in Alaska.
+SO LONS TANGLE
+ON ABATEMENT;
+ONE BILL KILLED
+Senate and House at Odds
+Over Abatements With
+out Previous Trial
+The houses ol the Legislature
+today were snarled up over a
+House amendment to the Senate's
+bill amending the Territorial sta
+tute against houses of lewdness,
+etc. The bill, introduced originally
+in the Senate to provide for actions
+brought under the law to be
+brought in the name of the United
+States instead of the Territory, was
+amended in the House to provide
+that no abatement action could be
+taken unless and until a criminal
+conviction had first been obtained.
+The Senate yesterday rejected
+the amendment and returned it to
+the House promptly. This morning
+the House declined to recede and
+with equal dispatch sent it back
+to the Senate with a request for
+conference. Speaker McDonald
+named Representatives Taylor,
+Blake and Nerland to act for the!
+House.
+Ten Bills Read
+The benate yesterday afternoon,j
+in a late session, considered tenj
+of its own bills in second reading j
+and recommitted another to the
+Judiciary Committee for revision.
+One of those advanced to third
+reading was Walker’s measure to
+define as a felony contributing
+to the delinquency of minors. An
+other, by DeVane, defines legal
+fences and repeals Chapter 58 of
+the Session Laws of 1917. The
+other eight were minor code:
+amendments to correct defects un
+covered in preparing the copy for j
+codifying and compiling the laws'
+of the Territory.
+The House met but briefly yester-1
+day afternoon, convening at 4:30 j
+o’clock, and postponing action on'
+its calendar until today.
+Kills Senate Bill
+Today, by a vote of H to 2 it
+killed DeVane’s bill designed to
+permit Deputy United States Mar
+shals to act as prosecutors in jus
+tices’ courts where no United States
+Attorney is available for that work.
+The bill was indefinitely postponed.
+The House measures and six from
+the Senate were considered in sec
+ond reading, all recommended for
+passage by various committees.
+They were advanced on the ca’en
+(Continued on Page Six
+Roosevelt Day Crams Work to Limit
+In Schedule Racing the Clock Around
+How dors a President spend his day? Take Franklin D. Roosevelt as an example, lie’s up at
+7:30, turning at cnee to his correspondence and then to dictation, which he concludes at about 10 a.m.
+Lunch he takes a this desk, and then follows a lively afternoon that may include a meeting with the
+Cabinet or with newspapermen (right). The schedule is a well filled one, and doesn't end, usually,
+until well into the night.
+By SIGRID ARNE
+WASHINGTON, Mar. 30— Lunch
+time arrives in Washington. Peo
+ple flow out of office buildings,
+just as they do in other cities.
+But in the office wing of the
+White House Franklin D. Roose
+velt now labors right through the
+hour. Servants are admitted to his
+office with a luncheon tray. Who
+ever is in the,office at the time—
+talking, ironing out reorganization
+—is asked to lunch with the Presi
+dent, who goes right on planning
+between bites.
+Dines at 8 O’clock
+The dinner hour comes and office
+buildings close. People go home to
+dinner and for leisure. The Presi
+dent goes right on. At 8 o'clock he
+has dinner at the White House.
+Meanwhile people everywhere are
+settling down for the evening’s
+pleasures.
+But the President goes up to his
+office in the second floor oval room
+and the conferences begin all over
+again, lasting often until 1 o’clock
+in the morning.
+He has a very simple schedule—
+work for the waking hours. And
+sleeping hours are few.
+He rises at 7:30 a.m., and even
+while he is eating breakfast in his
+room or his study, he goes through
+his mail and starts dictating to sec
+retaries. That continues until
+around 10 a.m.
+Work at Office Starts
+By that time he has sorted out
+the day's most pressing needs and
+he goes over to his executive offices
+where he- remains until the late
+dinner hour and the later confer
+ences.
+There are four appointments that
+are definitely on the week's calen
+dar. He sees the cabinet Tuesday
+and Friday at 2 p.m.
+Then there are the two press
+conferences each week—Wednesday
+at 10 a.m. and Friday at 4 p.m.
+Usually his program includes
+about five appointments. But he
+digs into the subjects at hand. Ha*
+thinks of persons that can tell him
+"nore. Phone calls go out and those
+summoned hurry in until the ap
+pointments mount to 15 or 20 a
+lay.
+Leisure Very Limited
+The President has permitted him
+self few intervals of leisure since
+be arrived. He spent a half hour
+with Oliver Wendell Holmes, a
+former justice of the supreme court
+on his birthday. Also, he attended
+—and laughed heartily—at the
+White House correspondents dinner
+in his honor. On his first Sunday
+here he went to church. A few days
+ago he went for a motor ride
+around the capital.
+Once he and Mrs. Roosevelt met
+the diplomatic corps at White
+House tea. And once they enter
+tained visiting governors and their
+wives at a buffet lunch.
+But the rest of the time it has
+been work—and to bed when most
+of the nation is already sleeping.
+WORLD ISSUES
+ARE DISCUSSED
+AT CONFERENCE
+LONDON, March 30.—Norman
+Davis, Special Ambassador of the
+United States In Europe, and Brit
+ish Premier Ramsay MacDonald,
+today began a series of talks on
+the whole range of world problems
+with emphasis on the forthcoming
+Economic Conference and Disarm
+ament session.
+Davis will remain in London over
+the week-end.
+AMBASSADOR
+CALLED HOME
+for Conference
+LONDON, March 30.—Sir Es
+mond Ovey, British Ambassador to
+Moscow, has been summoned home
+to London for a consultation. He
+will return to Moscow, it is said,
+following the conferences.
+The consultation is presumably
+in connection with the recent ar
+rest of British technicians by Soviet
+Russia on charges of sabotage.
+:ial American Ambas
+sador and British
+Premier Meet
+British Representative at
+Moscow Summoned
+Einstein Is
+to Renounce
+Citizenship
+Scientist Takes First Step
+in His Announced
+Intention
+BERLIN, March 30.—Prof. Albert
+Einstein has taken steps to re
+nounce Prussian citizenship as the
+result of Jewish disturbances in
+Germany. This became known yes
+terday. The scientist became a
+citizen of Germany in 1914 when
+he accepted a position in the Prus
+sian Academy of Sciences.
+Prof. Einstein landed in Brussels
+yesterday from his trip to the
+United States.
+The German Consulate gave In
+formation as to steps to be taken
+to end his citizenship.
+The scientist was formerly a
+Swiss.
+To Sfteed Enactment
+On Regulation
+Over Securities
+WASHINGTON, March 30.—
+Efforts are being made on
+Capitol Hill to speed enact
+ment of President Roosevelt's
+proposal, submitted yesterday,
+for Federal regulation of new
+security Issues.
+The House Interstate Com
+merce Committee will hold
+hearings tomorrow while the
+Senate Judiciary Committee
+arranged for immediate consid
+eration.
+REQUEST ALTO
+8E CANDIDATE,
+MATOR, SENATOR
+Friends and Associates
+Want Smith to Re
+enter Politics
+NEW YORK, March 30.—Pressure
+is being brought to bear on A1
+Smith by friends and associates
+to persuade him to reenter the
+political ring as a candidate either
+for Mayor of New York City or
+United States 8enator.
+The office of Mayor will be filled
+at the November election while the
+seat in thq Senate, occupied oy
+Senator Royal S. Copeland, will
+be up in 1934.
+Smith is noncommittal,
+A close associate said that it is
+too early to adopt any attitude or
+decide on any course.
+EARTH SHOCKS
+IN CALIFORNIA
+i
+LOS ANGELES, Cal., March 30..
+—A wide area, centering in the vi-
+cinity of Long Beach and here, was
+rocked by a sharp earthquake to
+day lasting five seconds No re
+ports of damage have been re
+ceived.
+SECOND TRIAL
+IS DENIED TO
+WINNIE JUDD
+Slayer of Two Juneau
+Women Not to Face
+Another Jury
+JUDGE SPEARMAN
+MAKES DECISION
+Pardon Board Expected to
+Make Announcement
+Within Few Days
+PHOENIX, Arizona, March 30.—
+Declaring that he considered an
+other trial only a waste of time
+and money, Superior Court Judge
+Howard C. Speakman today dis
+missed the information charging
+Winnie Ruth Judd with the mur
+der of Miss Hedvig Samuelson,
+former school teacher of Juneau,
+Alaska.
+Mrs. Judd’s attorneys sought to
+place her on trial in an apparent
+ittempt to allow her to tell her
+story of self-defense in killing Miss
+3amuelson and Mrs. Agnes Anne
+LeRoi, also of Juneau, a former
+aurse.
+The decision of the Board of
+Pardons, relative to granting Mrs.
+Judd commutation of sentence,
+from hanging next month, for the
+murder of Mrs. Le Rol, to life im
+prisonment is expected to be made
+within the next few days.
+Miss Samuelson and Mrs. LeRoi
+were killed here and their bodies
+shipped in trunks to Los Angeles.
+MINISTER ON
+TRIAL ;CHARGE
+SERIOUS ONE
+young School Teacher
+Says He Attempted
+Criminal Assault
+MUNCIE, Indiana, March 30.—
+Assertions of an 18-year-old school
+teacher, Helen Huffman, that the
+Rev. C. L. Conway threatened her
+with violence when she resisted his
+amorous advances last December,
+were made before the jury today as
+the suspended minister’s trial on
+a charge of an attempted criminal
+assault continued in the Circuit
+Court here.
+Miss Huffman said the minister
+took her to a lonely spot in the
+country. When she repulsed his ad
+vances, she said the minister asked
+her: “How would you like to find
+yourself with your head in the mud
+In that creek and your shoes float
+ing down the river?"
+FARMERS NOW
+RECEIVE MORE
+PRODUCT PAY
+WASHINGTON, March 30—Ad
+vances in the prices of all groups
+of agricultural commodities, except
+poultry products, raised the index
+of general price levels paid farm
+ers one percent during the month
+ending March 15. This is accord
+ing to an announcement made this
+afternoon by the Department of
+Agriculture.
+Limitations Are
+Removed on
+Liquor Prescriptions
+WASHINGTON, March 30.—
+The medicinal liquor bill, re-
+moving restrictions on prescrip
+tions by physicians, was passed
+by the House today and sent
+to the White House for the
+President's signature. The bill
+was passed by the Senate yes
+terday afternoon.

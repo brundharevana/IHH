@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/519767870",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=519767870",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:22:09Z",
+  "sha256": "21b5e5acd7db67d61ffe8f427643417de4f8e88abccca8d12bfe7ef9487026da",
+  "bytes": 3857,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=519767870"
+}

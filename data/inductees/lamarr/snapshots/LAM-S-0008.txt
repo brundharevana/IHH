@@ -1,0 +1,25 @@
+role.reference: true
+role.creator: false
+role.contributor: false
+role.donor: false
+sourceNotes[0]: Algiers [MP] c1938: t.p. (starring Hedy Lamarr)
+sourceNotes[1]: Halliwell's Filmgoer's companion, 1983 (Hedy Lamarr; real name Hedwig Kiesler; b. 1913)
+sourceNotes[2]: LC in OCLC, 12-8-85 (hdg.: Lamar, Hedy, 1915- )
+sourceNotes[3]: Young, C. Films of Hedy Lamarr, 1978, p. 11 (Hedy Lamarr; b. Hedwig Eva Maria Kiesler on Nov. 9, 1914 in Vienna, Austria)
+heading: Lamarr, Hedy, 1913-2000
+recordType: authority
+importRecordControlNumber: n 85201966
+authorityType: person
+birthDate.year: 1913
+birthDate.logicalDate: 1913-01-01
+linkCounts.totalDescriptions: 10
+linkCounts.subject: 5
+deathDate.year: 2000
+deathDate.logicalDate: 2000-12-31
+name: Lamarr, Hedy,
+variantPersonNames[0].heading: Kiesler, Hedwig, 1915-
+variantPersonNames[0].name: Kiesler, Hedwig,
+variantPersonNames[0].birthDate.year: 1915
+variantPersonNames[0].birthDate.logicalDate: 1915-01-01
+naId: 10569195
+preferred: true

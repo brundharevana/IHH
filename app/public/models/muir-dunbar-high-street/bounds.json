@@ -1,0 +1,67 @@
+{
+  "$comment": "Walkable bounds for free roam in muir-dunbar-high-street.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 30.0,
+  "walkable": {
+    "x_min": -16.0,
+    "x_max": 20.0,
+    "z_min": 0.4,
+    "z_max": 15.0
+  },
+  "obstacles": [
+    {
+      "name": "artifact_gas_lamp",
+      "x_min": 5.83,
+      "x_max": 6.57,
+      "z_min": 1.359,
+      "z_max": 2.041
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 1.5,
+      "z": 12.0,
+      "look_at": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": -5.0
+      },
+      "note": "In the street, where the photograph was taken"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -8.6,
+      "z": 5.5,
+      "look_at": {
+        "x": -8.6,
+        "y": 1.5,
+        "z": -6.0
+      },
+      "note": "Before 126 and 128 High Street, John Muir's birthplace"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 3.0,
+      "z": 3.2,
+      "look_at": {
+        "x": 3.0,
+        "y": 1.5,
+        "z": -5.0
+      },
+      "note": "On the pavement before the Lorne Temperance Hotel"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 14.0,
+      "z": 6.0,
+      "look_at": {
+        "x": -6.0,
+        "y": 1.5,
+        "z": -4.0
+      },
+      "note": "Up the street, looking back along the fronts"
+    }
+  ]
+}

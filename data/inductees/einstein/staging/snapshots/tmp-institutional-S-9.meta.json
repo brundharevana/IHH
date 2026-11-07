@@ -1,0 +1,10 @@
+{
+  "url": "https://royalsociety.org/medals-and-prizes/copley-medal/",
+  "fetch_url": "https://royalsociety.org/medals-and-prizes/copley-medal/",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:25:23Z",
+  "sha256": "32a0a50f087a9ac51bd51928b6d12425e193d81c28790de0c23ca4b3c761ae2c",
+  "bytes": 8691,
+  "http_status": 200,
+  "final_url": "https://royalsociety.org/medals-and-prizes/copley-medal/"
+}

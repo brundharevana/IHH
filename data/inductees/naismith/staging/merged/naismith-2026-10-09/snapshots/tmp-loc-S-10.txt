@@ -1,0 +1,209 @@
+_version_: 1844587460824137728
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn92070146/1939-11-28/ed-1/
+aka[1]: http://www.loc.gov/resource/sn92070146/1939-11-28/ed-1/
+batch[0]: curiv_roseheath_ver01
+call_number[0]: Newspaper
+call_number[1]: F868.I2
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/california/
+composite_location[2]: 2/united states/california/imperial/
+composite_location[3]: 3/united states/california/imperial/el centro/
+contributor_names[0]: University of California, Riverside; Riverside, CA
+contributors[0].university of california, riverside; riverside, ca: https://www.loc.gov/search/?fa=contributor:university+of+california,+riverside%3B+riverside,+ca&fo=json&st=text
+created_published[0]: El Centro, Calif., November 28, 1939
+date: 1939-11-28
+date_issued: 1939-11-28
+dates[0].1939-11-28: https://www.loc.gov/search/?dates=1939-11-28/1939-11-28&fo=json&st=text
+dates_of_publication: 1907-current
+description[0]: El Centro, Calif.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-09-02T13:59:48.639Z
+extract_urls[0]: file:/service/ndnp//curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188874/1939112801/1939112801_1.xml#ndnp/curiv
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Electronic journals
+genre[1]: Periodicals
+genre[2]: Newspapers
+group[0]: ndnp/curiv
+group[1]: university-of-california-riverside-riverside-ca-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn92070146/1939-11-28/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_roseheath_ver01:data:sn92070146:00414188874:1939112801:0975/full/pct:6.25/0/default.jpg#h=461&w=366
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_roseheath_ver01:data:sn92070146:00414188874:1939112801:0975/full/pct:12.5/0/default.jpg#h=922&w=733
+index: 4
+item.batch[0]: curiv_roseheath_ver01
+item.call_number[0]: Newspaper
+item.call_number[1]: F868.I2
+item.contributor_names[0]: University of California, Riverside; Riverside, CA
+item.created_published[0]: El Centro, Calif., November 28, 1939
+item.date: 1907
+item.date_issued: 1939-11-28
+item.dates[0]: 1939-11-28
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Electronic journals
+item.genre[1]: Periodicals
+item.genre[2]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn92070146
+item.location[0]: Imperial County (Calif.)
+item.location[1]: San Diego County (Calif.)
+item.location[2]: California--Imperial County
+item.location[3]: California--San Diego County
+item.medium: 8 pages
+item.newspaper_title[0]: Imperial Valley press
+item.notes[0]: Daily, Sept. 30, 1911-
+item.notes[1]: Vol. 7, no. 14 (July 17, 1907)-
+item.notes[2]: Published as: Imperial Valley press and El Centro progress, Jan. 16-Oct. 25, 1922.
+item.notes[3]: Published combined issues on holidays: The morning post-Imperial Valley press, Nov. 28, 1935 and Dec. 25, 1935. On Sundays published as: The Post-press, Jan. 12, 1936-Oct. 30, 1960; Imperial Valley news-press, Nov. 6, 1960-Feb. 26/27, 1967; Imperial Valley press/The Brawley news, Oct. 2, 1988-June 7, 1992; published as combined Sat./Sun. ed., Apr. 29/30, 1961-
+item.notes[4]: Sunday issues have their own numbering.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Master negatives are available for duplication from: California Newspaper Microfilm Archive; positive copies may be purchased by the reel; for further information consult the CNMA at: http://cbsr.ucr.edu
+item.notes[7]: Oct. 7, 1993.
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188874/1939112801/1939112801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn92070146/marcxml
+item.other_title[0]: Imperial Valley press and El Centro progress
+item.other_title[1]: Post-press
+item.other_title[2]: Imperial Valley news-press
+item.other_title[3]: Imperial Valley press/Brawley news
+item.other_title[4]: Morning post-Imperial Valley press
+item.other_title[5]: At head of title: Extra Imperial Valley press
+item.place_of_publication: El Centro, Calif.
+item.raw_lccn: sn 92070146
+item.reel_numbers[0]: 00414188874
+item.source_group: ndnp/curiv
+item.subjects[0]: Imperial County (Calif.)--Newspapers
+item.subjects[1]: San Diego County (Calif.)--Newspapers
+item.subjects[2]: California--Imperial County
+item.subjects[3]: California--San Diego County
+item.subjects[4]: United States--California--Imperial--El Centro
+item.title: Imperial Valley press (El Centro, Calif.), November 28, 1939
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn92070146
+location[0]: imperial
+location[1]: united states
+location[2]: el centro
+location[3]: california
+location[4]: imperial county
+location[5]: san diego county
+location_city[0]: el centro
+location_country[0]: united states
+location_county[0]: imperial
+location_state[0]: california
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json&st=text
+locations[1].el centro: https://www.loc.gov/search/?fa=location:el+centro&fo=json&st=text
+locations[2].imperial: https://www.loc.gov/search/?fa=location:imperial&fo=json&st=text
+locations[3].imperial county: https://www.loc.gov/search/?fa=location:imperial+county&fo=json&st=text
+locations[4].san diego county: https://www.loc.gov/search/?fa=location:san+diego+county&fo=json&st=text
+locations[5].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].el centro: https://www.loc.gov/search/?fa=location_city:el+centro&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].imperial: https://www.loc.gov/search/?fa=location_county:imperial&fo=json&st=text
+locations_state[0].california: https://www.loc.gov/search/?fa=location_state:california&fo=json&st=text
+medium: 8 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Imperial Valley press
+notes[0]: Daily, Sept. 30, 1911-
+notes[1]: Vol. 7, no. 14 (July 17, 1907)-
+notes[2]: Published as: Imperial Valley press and El Centro progress, Jan. 16-Oct. 25, 1922.
+notes[3]: Published combined issues on holidays: The morning post-Imperial Valley press, Nov. 28, 1935 and Dec. 25, 1935. On Sundays published as: The Post-press, Jan. 12, 1936-Oct. 30, 1960; Imperial Valley news-press, Nov. 6, 1960-Feb. 26/27, 1967; Imperial Valley press/The Brawley news, Oct. 2, 1988-June 7, 1992; published as combined Sat./Sun. ed., Apr. 29/30, 1961-
+notes[4]: Sunday issues have their own numbering.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Master negatives are available for duplication from: California Newspaper Microfilm Archive; positive copies may be purchased by the reel; for further information consult the CNMA at: http://cbsr.ucr.edu
+notes[7]: Oct. 7, 1993.
+number[0]: 1
+number[1]: 00414188874
+number[2]: sn92070146
+number_edition[0]: 1
+number_lccn[0]: sn92070146
+number_reel[0]: 00414188874
+numeric_shelf_id: 193911281
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188874/1939112801/1939112801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn92070146/marcxml
+other_title[0]: Imperial Valley press and El Centro progress
+other_title[1]: Post-press
+other_title[2]: Imperial Valley news-press
+other_title[3]: Imperial Valley press/Brawley news
+other_title[4]: Morning post-Imperial Valley press
+other_title[5]: At head of title: Extra Imperial Valley press
+partof[0].count: 10381
+partof[0].title: imperial valley press (el centro, calif.) 1907-current
+partof[0].url: https://www.loc.gov/search/?fa=partof:imperial+valley+press+%28el+centro,+calif.%29+1907-current&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: imperial valley press (el centro, calif.) 1907-current
+place_of_publication: El Centro, Calif.
+publication_frequency[0]: daily
+raw_lccn: sn 92070146
+reel_numbers[0]: 00414188874
+resources[0].files: 8
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_roseheath_ver01:data:sn92070146:00414188874:1939112801:0975/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn92070146/1939-11-28/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.3352585
+shard: 07
+shelf_id: sn92070146, 1939-11-28, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/curiv
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: imperial county (calif.)
+subject[1]: imperial
+subject[2]: united states
+subject[3]: el centro
+subject[4]: california
+subject[5]: san diego county (calif.)
+subject[6]: newspapers
+subject[7]: imperial county
+subject[8]: san diego county
+subject_headings[0]: Imperial County (Calif.)--Newspapers
+subject_headings[1]: San Diego County (Calif.)--Newspapers
+subject_headings[2]: California--Imperial County
+subject_headings[3]: California--San Diego County
+subject_headings[4]: United States--California--Imperial--El Centro
+subjects[0].california: https://www.loc.gov/search/?fa=subject:california&fo=json&st=text
+subjects[1].el centro: https://www.loc.gov/search/?fa=subject:el+centro&fo=json&st=text
+subjects[2].imperial: https://www.loc.gov/search/?fa=subject:imperial&fo=json&st=text
+subjects[3].imperial county: https://www.loc.gov/search/?fa=subject:imperial+county&fo=json&st=text
+subjects[4].imperial county (calif.): https://www.loc.gov/search/?fa=subject:imperial+county+%28calif.%29&fo=json&st=text
+subjects[5].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[6].san diego county: https://www.loc.gov/search/?fa=subject:san+diego+county&fo=json&st=text
+subjects[7].san diego county (calif.): https://www.loc.gov/search/?fa=subject:san+diego+county+%28calif.%29&fo=json&st=text
+subjects[8].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2025-09-29T08:47:53.421Z
+title: Imperial Valley press (El Centro, Calif.), November 28, 1939
+type[0]: issue
+url: https://www.loc.gov/item/sn92070146/1939-11-28/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188874/1939112801/0978.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn92070146/1939-11-28/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_roseheath_ver01:data:sn92070146:00414188874:1939112801:0975/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188874/1939112801/0978.pdf
+resources[0].segment_count: 8
+resources[0].url: https://www.loc.gov/resource/sn92070146/1939-11-28/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1939, November 28) Imperial Valley press. Retrieved from the Library of Congress, https://www.loc.gov/item/sn92070146/1939-11-28/ed-1/.
+cite_this.chicago: Imperial Valley press. (El Centro, CA), Nov. 28 1939. https://www.loc.gov/item/sn92070146/1939-11-28/ed-1/.
+cite_this.mla: Imperial Valley press. (El Centro, CA) 28 Nov. 1939, p. 4. Retrieved from the Library of Congress, www.loc.gov/item/sn92070146/1939-11-28/ed-1/.

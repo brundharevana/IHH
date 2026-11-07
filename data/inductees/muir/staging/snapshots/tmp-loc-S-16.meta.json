@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/95514320/",
+  "fetch_url": "https://www.loc.gov/item/95514320/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T19:26:08Z",
+  "sha256": "318fe8bf156081f4e4238d906dd7a4e017db84a2ef63967c1cffd8c8931194aa",
+  "bytes": 20963,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/95514320/?fo=json"
+}

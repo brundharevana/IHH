@@ -1,0 +1,137 @@
+{
+  "$comment": "Walkable bounds for free roam in albright-archives-rotunda.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 19.85,
+  "walkable": {
+    "x_min": -9.9,
+    "x_max": 9.9,
+    "z_min": -8.3,
+    "z_max": 13.4
+  },
+  "obstacles": [
+    {
+      "name": "artifact_exhibit_cases",
+      "x_min": 2.657,
+      "x_max": 10.092,
+      "z_min": -9.95,
+      "z_max": -2.185
+    },
+    {
+      "name": "artifact_constitution_cases",
+      "x_min": 1.171,
+      "x_max": 4.464,
+      "z_min": -9.488,
+      "z_max": -7.547
+    },
+    {
+      "name": "podium_platform",
+      "x_min": -2.5,
+      "x_max": 0.0,
+      "z_min": -5.85,
+      "z_max": -3.95
+    },
+    {
+      "name": "loudspeaker",
+      "x_min": -3.171,
+      "x_max": -2.221,
+      "z_min": -5.824,
+      "z_max": -4.776
+    },
+    {
+      "name": "artifact_flag_1",
+      "x_min": 0.655,
+      "x_max": 1.836,
+      "z_min": -9.222,
+      "z_max": -8.442
+    },
+    {
+      "name": "artifact_flag_2",
+      "x_min": -1.836,
+      "x_max": -0.655,
+      "z_min": -9.222,
+      "z_max": -8.442
+    },
+    {
+      "name": "officials_chairs",
+      "x_min": -3.24,
+      "x_max": -1.26,
+      "z_min": -6.48,
+      "z_max": -5.69
+    },
+    {
+      "name": "audio_table",
+      "x_min": -6.65,
+      "x_max": -4.55,
+      "z_min": -3.525,
+      "z_max": -2.475
+    },
+    {
+      "name": "bay_pedestal",
+      "x_min": -4.35,
+      "x_max": 4.35,
+      "z_min": -10.65,
+      "z_max": -9.05
+    },
+    {
+      "name": "audience_chairs_left",
+      "x_min": -6.85,
+      "x_max": -0.35,
+      "z_min": -2.65,
+      "z_max": 8.75
+    },
+    {
+      "name": "audience_chairs_right",
+      "x_min": 0.35,
+      "x_max": 7.65,
+      "z_min": -2.65,
+      "z_max": 8.75
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": -8.05493671091196,
+      "z": 0.3215171741155114,
+      "look_at": {
+        "x": 10.5,
+        "y": 1.5,
+        "z": -4.0
+      },
+      "note": "Viewpoint of frame 060: the audience side, facing the mural and the side wall with its niches"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 0.0,
+      "z": 0.8,
+      "look_at": {
+        "x": -1.25,
+        "y": 1.5,
+        "z": -6.55
+      },
+      "note": "Facing the lectern where the speakers stood, with the shrine bay behind it (frames 095, 100, 117)"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 2.2,
+      "z": -5.6,
+      "look_at": {
+        "x": 2.927124512271294,
+        "y": 1.5,
+        "z": -8.932633547261442
+      },
+      "note": "In front of the carved 'Constitution of the United States of America' panel and its cases (frame 100)"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 7.2,
+      "z": 10.6,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -6.0
+      },
+      "note": "By the bronze gate, looking back across the Rotunda to the shrine bay"
+    }
+  ]
+}

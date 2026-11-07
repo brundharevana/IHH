@@ -1,0 +1,258 @@
+_version_: 1730899350268149760
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2010719292/
+aka[1]: http://www.loc.gov/item/2010719292/
+aka[2]: http://www.loc.gov/pictures/item/2010719292/
+aka[3]: https://www.loc.gov/pictures/collection/highsm/item/2010719292/
+aka[4]: http://www.loc.gov/pictures/collection/highsm/item/2010719292/
+aka[5]: http://www.loc.gov/resource/highsm.03820/
+aka[6]: http://lccn.loc.gov/2010719292
+aka[7]: https://hdl.loc.gov/loc.pnp/highsm.03820
+call_number: LC-DIG-highsm- 03820 (ONLINE) [P&P]
+contributor_names[0]: Highsmith, Carol M., 1946-, photographer
+contributors[0].highsmith, carol m.: https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json
+created: 2016-10-04T05:06:51Z
+created_published[0]: 2008 August 27.
+created_published_date: 2008 August 27.
+date: 2008-01-01
+dates[0].2008: https://www.loc.gov/search/?dates=2008/2008&fo=json
+description[0]: 1 photograph : digital, TIFF file, color.
+digital_id[0]: highsm 03820 //hdl.loc.gov/loc.pnp/highsm.03820
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-08-31T00:54:10.842Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/highsm/item/2010719292/#highsm
+extract_urls[1]: http://lccn.loc.gov/2010719292#catalog-split-01
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Digital photographs--Color--2000-2010.
+genre[0]: Digital photographs--Color--2000-2010
+group[0]: highsm
+group[1]: catalog-split-01
+group[2]: catalog
+group[3]: carol-m-highsmith
+group[4]: main-catalog-split-01
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2010719292/
+iiif_manifest_url: https://www.loc.gov/item/2010719292/manifest.json
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03800:03820/full/pct:6.25/0/default.jpg#h=256&w=384
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03800:03820/full/pct:12.5/0/default.jpg#h=512&w=768
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03800:03820/full/pct:25/0/default.jpg#h=1024&w=1536
+index: 1
+item.call_number: LC-DIG-highsm- 03820 (ONLINE) [P&P]
+item.contributors[0]: Highsmith, Carol M., 1946- photographer.
+item.control_number: 2010719292
+item.created: 2016-10-04T05:06:51Z
+item.created_published: 2008 August 27.
+item.created_published_date: 2008 August 27.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm
+item.creators[0].role: photographer
+item.creators[0].title: Highsmith, Carol M., 1946-
+item.date: 2008 August 27.
+item.digital_id[0]: highsm 03820 //hdl.loc.gov/loc.pnp/highsm.03820
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2000-2010.&co=highsm
+item.formats[0].title: Digital photographs--Color--2000-2010.
+item.genre[0]: Digital photographs--Color--2000-2010
+item.id: 2010719292
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2010719292/
+item.location[0]: Colorado--Denver
+item.marc: https://www.loc.gov/pictures/item/2010719292/marc/
+item.medium[0]: 1 photograph : digital, TIFF file, color.
+item.medium_brief: 1 photograph :
+item.mediums[0]: 1 photograph : digital, TIFF file, color.
+item.modified: 2016-10-04T05:06:51Z
+item.notes[0]: Title and date provided by the photographer.
+item.notes[1]: Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.
+item.notes[2]: Gift; Carol M. Highsmith; 2009; (DLC/PP-2009:083-1).
+item.notes[3]: Forms part of the Carol M. Highsmith Archive.
+item.number_former_id[0]: https://www.loc.gov/item/2010719292
+item.number_former_id[1]: https://www.loc.gov/item/hig2011000505
+item.other_control_numbers[0]: 16656426
+item.other_control_numbers[1]: hig2011000505
+item.part_of: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=Colorado--Denver&co=highsm
+item.place[0].title: Colorado--Denver
+item.place[1].link: https://www.loc.gov/pictures/related/?fi=place&q=Colorado--Denver&co=highsm
+item.place[1].title: Colorado--Denver
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-highsm-03820 (original digital file)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/highsm.03820
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/highsm/03800/03820_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/highsm/03800/03820r.jpg
+item.sort_date: 2008
+item.source_collection[0]: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+item.source_created: 2011-02-09T00:00:00Z
+item.source_modified: 2016-09-30T07:02:09Z
+item.subject_headings[0]: Political conventions--Colorado--Denver--2000-2010.
+item.subject_headings[1]: United States--Colorado--Denver.
+item.subject_headings[2]: Colorado--Denver
+item.subjects[0]: Political conventions--Colorado--Denver--2000-2010
+item.subjects[1]: United States--Colorado--Denver
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/highsm/03800/03820_150px.jpg
+item.title: Madeline Albright addresses the convention floor at the Democratic National Convention, Denver, Colorado, August 25-28, 2008
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2010719292
+link: https://www.loc.gov/pictures/item/2010719292/
+location[0]: united states
+location[1]: denver
+location[2]: colorado
+location_city[0]: denver
+location_country[0]: united states
+location_state[0]: colorado
+locations[0].colorado: https://www.loc.gov/search/?fa=location:colorado&fo=json
+locations[1].denver: https://www.loc.gov/search/?fa=location:denver&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].denver: https://www.loc.gov/search/?fa=location_city:denver&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].colorado: https://www.loc.gov/search/?fa=location_state:colorado&fo=json
+marc: https://www.loc.gov/pictures/item/2010719292/marc/
+medium[0]: 1 photograph : digital, TIFF file, color.
+medium_brief: 1 photograph :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-10-04T05:06:51Z
+notes[0]: Title and date provided by the photographer.
+notes[1]: Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.
+notes[2]: Gift; Carol M. Highsmith; 2009; (DLC/PP-2009:083-1).
+notes[3]: Forms part of the Carol M. Highsmith Archive.
+number[0]: http://www.loc.gov/item/16656426
+number[1]: http://www.loc.gov/item/hig2011000505
+number[2]: http://www.loc.gov/item/2010719292
+number[3]: 2010719292
+number[4]: 2016-09-30t07:02:09
+number_former_id[0]: http://www.loc.gov/item/16656426
+number_former_id[1]: http://www.loc.gov/item/hig2011000505
+number_former_id[2]: http://www.loc.gov/item/2010719292
+number_lccn[0]: 2010719292
+number_source_modified[0]: 2016-09-30t07:02:09
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 16656426
+other_control_numbers[1]: hig2011000505
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2010719292/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2010719292/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2010719292/dc
+partof[0].count: 70435
+partof[0].title: highsmith (carol m.) archive
+partof[0].url: https://www.loc.gov/collections/carol-m-highsmith/?fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=Colorado--Denver&co=highsm
+place[0].title: Colorado--Denver
+place[1].link: https://www.loc.gov/pictures/related/?fi=place&q=Colorado--Denver&co=highsm
+place[1].title: Colorado--Denver
+related.neighbors: https://www.loc.gov/pictures/related/?&co=highsm&pk=2010719292&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-highsm-03820 (original digital file)
+reproductions[0]: Some images in this collection are described in groups; others are described individually. In some cases, all of the images in the group display online, in other cases they do not.
+
+You can download online images yourself. Alternatively, you can purchase copies of various types.
+
+Determine whether the desired materials can be retrieved online.
+
+Look in the Medium field above to determine whether the description is for one photograph or more than one.
+
+If the description is for a single item and it is displaying, you can download or purchase a print. Cite the number that begins with "LC-DIG..." when purchasing copies through Library of Congress Duplication Services.
+
+If the description is for more than one item and there is a "Click for more images" icon displaying, select that. Individual images will display; you can download or purchase prints. Cite the number that begins with "LC-DIG..." when purchasing copies through Library of Congress Duplication Services.
+
+If the description is for more than one item and there is no "Click for more images" icon displaying, return to the "About this Item" tab and select the "Check for online items from this group" link. Then select the "Obtaining Copies" tab for any retrieved items that are of interest.
+
+If the images do not display online -- Select images for reproduction through one of these methods:
+
+Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: https://www.loc.gov/rr/print/info/001_ref.html).
+
+P&P reading room staff can provide up to 15 photocopies of items per calendar year. (Color images cannot be photocopied.) For assistance, see our Ask a Librarian page. OR
+
+Hire a freelance researcher to do further selection for you (a list of researchers is available at: https://www.loc.gov/rr/print/resource/013_pic.html).
+
+Purchasing Copies
+
+Library of Congress Duplication Services can make copies of various types from images in Prints & Photographs Division Collections. Price lists, contact information, and order forms are available on the Duplication Services Web site.
+
+Carol M. Highsmith sells prints of her photographs at: http://photographsamerica.com/ External .
+resource_links[0]: //hdl.loc.gov/loc.pnp/highsm.03820
+resources[0].caption: original digital file
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/highsm/03800/03820t.gif
+resources[0].url: https://www.loc.gov/resource/highsm.03820/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Carol M. Highsmith - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.46323
+shard: 00
+shelf_id: LC-DIG-highsm- 03820 (ONLINE) [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 2008
+source_collection: Highsmith, Carol M., 1946- Carol M. Highsmith Archive.
+source_created: 2011-02-09T00:00:00Z
+source_modified: 2016-09-30T07:02:09Z
+subject[0]: political conventions
+subject[1]: digital photographs
+subject[2]: united states
+subject[3]: denver
+subject[4]: color
+subject[5]: colorado
+subject_headings[0]: Political conventions--Colorado--Denver--2000-2010
+subject_headings[1]: United States--Colorado--Denver
+subjects[0].color: https://www.loc.gov/search/?fa=subject:color&fo=json
+subjects[1].colorado: https://www.loc.gov/search/?fa=subject:colorado&fo=json
+subjects[2].denver: https://www.loc.gov/search/?fa=subject:denver&fo=json
+subjects[3].digital photographs: https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json
+subjects[4].political conventions: https://www.loc.gov/search/?fa=subject:political+conventions&fo=json
+subjects[5].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/highsm/03800/03820_150px.jpg
+timestamp: 2022-04-23T11:44:14.217Z
+title: Madeline Albright addresses the convention floor at the Democratic National Convention, Denver, Colorado, August 25-28, 2008
+unrestricted: true
+url: https://www.loc.gov/item/2010719292/
+resources[0].caption: original digital file
+resources[0].files[0][0].height: 256
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/jpeg
+resources[0].files[0][0].url: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03800:03820/full/pct:6.25/0/default.jpg
+resources[0].files[0][0].width: 384
+resources[0].files[0][1].height: 512
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].url: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03800:03820/full/pct:12.5/0/default.jpg
+resources[0].files[0][1].width: 768
+resources[0].files[0][2].height: 1024
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].url: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03800:03820/full/pct:25/0/default.jpg
+resources[0].files[0][2].width: 1536
+resources[0].files[0][3].height: 4096
+resources[0].files[0][3].info: https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03800:03820/info.json
+resources[0].files[0][3].levels: 7
+resources[0].files[0][3].mimetype: image/jp2
+resources[0].files[0][3].size: 3617938
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/highsm/03800/03820.jp2
+resources[0].files[0][3].width: 6144
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/highsm/03800/03820t.gif
+resources[0].url: https://www.loc.gov/resource/highsm.03820/
+cite_this.apa: Highsmith, C. M., photographer. (2008) Madeline Albright addresses the convention floor at the Democratic National Convention, Denver, Colorado, August 25-28. United States Denver Colorado, 2008. August 27. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2010719292/.
+cite_this.chicago: Highsmith, Carol M, photographer. Madeline Albright addresses the convention floor at the Democratic National Convention, Denver, Colorado, August 25-28. United States Denver Colorado, 2008. August 27. Photograph. https://www.loc.gov/item/2010719292/.
+cite_this.mla: Highsmith, Carol M, photographer. Madeline Albright addresses the convention floor at the Democratic National Convention, Denver, Colorado, August 25-28. August 27. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2010719292/>.

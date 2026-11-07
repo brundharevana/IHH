@@ -1,0 +1,10 @@
+{
+  "url": "https://digitalna.nb.rs/view/URN:NB:RS:SD_D4DF3E442748BA24C91425A9381E0CBA",
+  "fetch_url": "https://digitalna.nb.rs/view/URN:NB:RS:SD_D4DF3E442748BA24C91425A9381E0CBA",
+  "method": "http",
+  "fetched_at": "2026-10-22T05:03:13Z",
+  "sha256": "649c71153bf93bd20c00a0beec8bb130d43d9ab2cb73dbaa1bd547c7285efd70",
+  "bytes": 1911,
+  "http_status": 200,
+  "final_url": "https://digitalna.nb.rs/view/URN:NB:RS:SD_D4DF3E442748BA24C91425A9381E0CBA"
+}

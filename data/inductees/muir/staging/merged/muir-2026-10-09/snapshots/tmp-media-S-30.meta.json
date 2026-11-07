@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Muir_%26_family_c1888.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Muir_%26_family_c1888.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:51Z",
+  "sha256": "827bd708e76dd9cda98b69432a46ba412f6724b22bd62dd4ae64e1acf20f1799",
+  "bytes": 1141,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Muir_%26_family_c1888.jpg&format=json"
+}

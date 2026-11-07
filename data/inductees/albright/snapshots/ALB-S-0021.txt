@@ -1,0 +1,58 @@
+_version_: 1878068864917438464
+access_restricted: false
+aka[0]: wordpress:/news/?p=23581
+aka[1]: http://www.loc.gov/item/prn-08-083/madeleine-albright-speaks-at-library-on-may-6/
+aka[2]: http://www.loc.gov/item/prn-08-083/
+aka[3]: http://www.loc.gov/item/prn-08-083/madeleine-albright-speaks-at-library-on-may-6/2008-04-22/
+article: The next president, whether Democratic or Republican, faces daunting tasks in shaping and maintaining America’s core relationships with other nations around the world. In her new book, Madeleine Albright, United States secretary of state from 1997 to 2001, offers guidance for the next occupant of the White House—and insights for voters to think about before deciding who that person will be. Albright will discuss and sign her book, “Memo to the President Elect: How We Can Restore America’s Reputation and Leadership” at noon on Tuesday, May 6, in LJ 119 on the first floor of the Thomas Jefferson Building, 10 First Street S.E., Washington, D.C. The event, part of the Books & Beyond author series sponsored by the Center for the Book, is free and open to the public. Much more than a set of policy prescriptions, Albright’s writing blends lessons from the past with forward-looking suggestions about how to assemble a first-rate foreign policy team, anticipate the actions of other key countries, make full use of presidential power and revive America’s commitment to its founding ideals. Drawing on her extensive experience as an advisor to two presidents and a key figure in four presidential transitions, she provides an insider’s analysis of U.S. options in addressing the decisive issues of our era. Albright’s distinguished career in government includes positions on the National Security Council and as U.S. ambassador to the United Nations. She is the author of two New York Times bestselling books, “Madam Secretary” and “The Mighty and the Almighty: Reflections on America, God and World Affairs.” The Library of Congress, the nation’s oldest federal cultural institution, is the world’s preeminent reservoir of knowledge, providing unparalleled collections and integrated resources to Congress and the American people. The Center for the Book was created in 1977 to use the resources of the Library to stimulate public interest in books and reading. For information about its program, publications and reading promotion partnership networks, visit www.loc.gov/cfbook/.
+contact_press: Erin Allen (202) 707-7302
+contact_public: Center for the Book (202) 707-5221
+date: 2008-04-22
+dates[0].2008-04-22: https://www.loc.gov/search/?dates=2008-04-22/2008-04-22&fo=json
+description[0]: Albright will discuss and sign her book, “Memo to the President Elect: How We Can Restore America’s Reputation and Leadership” at noon on Tuesday, May 6, in LJ 119 on the first floor of the Thomas Jefferson Building, 10 First Street S.E., Washington, D.C. The event, part of the Books &#038; Beyond author series sponsored by the Center for the Book at the Library of Congress, is free and open to the public.
+digitized: true
+display_offsite: true
+extract_timestamp: 2026-10-03T12:56:30.476Z
+extract_urls[0]: http://www.loc.gov/item/prn-08-083/madeleine-albright-speaks-at-library-on-may-6/#news
+format[0].web page: https://www.loc.gov/search/?fa=original_format:web+page&fo=json
+group[0]: news
+group[1]: wordpress-news
+hassegments: false
+id: http://www.loc.gov/item/prn-08-083/
+index: 1
+item.article: The next president, whether Democratic or Republican, faces daunting tasks in shaping and maintaining America’s core relationships with other nations around the world. In her new book, Madeleine Albright, United States secretary of state from 1997 to 2001, offers guidance for the next occupant of the White House—and insights for voters to think about before deciding who that person will be. Albright will discuss and sign her book, “Memo to the President Elect: How We Can Restore America’s Reputation and Leadership” at noon on Tuesday, May 6, in LJ 119 on the first floor of the Thomas Jefferson Building, 10 First Street S.E., Washington, D.C. The event, part of the Books & Beyond author series sponsored by the Center for the Book, is free and open to the public. Much more than a set of policy prescriptions, Albright’s writing blends lessons from the past with forward-looking suggestions about how to assemble a first-rate foreign policy team, anticipate the actions of other key countries, make full use of presidential power and revive America’s commitment to its founding ideals. Drawing on her extensive experience as an advisor to two presidents and a key figure in four presidential transitions, she provides an insider’s analysis of U.S. options in addressing the decisive issues of our era. Albright’s distinguished career in government includes positions on the National Security Council and as U.S. ambassador to the United Nations. She is the author of two New York Times bestselling books, “Madam Secretary” and “The Mighty and the Almighty: Reflections on America, God and World Affairs.” The Library of Congress, the nation’s oldest federal cultural institution, is the world’s preeminent reservoir of knowledge, providing unparalleled collections and integrated resources to Congress and the American people. The Center for the Book was created in 1977 to use the resources of the Library to stimulate public interest in books and reading. For information about its program, publications and reading promotion partnership networks, visit www.loc.gov/cfbook/.
+item.contact_press: Erin Allen (202) 707-7302
+item.contact_public: Center for the Book (202) 707-5221
+item.media_advisory: 0
+item.press_release_number: 08-083
+item.profile: news
+item.short_title: Madeleine Albright Speaks at Library on May 6
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+location[0]: washington d.c.
+location[1]: united states
+locations[0].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[1].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+media_advisory: 0
+mime_type[0]: text/html
+online_format[0]: web page
+original_format[0]: web page
+partof[0].count: 5002
+partof[0].title: news from the library of congress
+partof[0].url: https://www.loc.gov/news/?fo=json
+press_release_number: 08-083
+profile: news
+score: 14.630088
+shard: 01
+shelf_id: 08-083
+short_title: Madeleine Albright Speaks at Library on May 6
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: events
+subjects[0].events: https://www.loc.gov/search/?fa=subject:events&fo=json
+timestamp: 2026-10-03T22:20:40.914Z
+title: Madeleine Albright To Discuss Her New Book at the Library of Congress on May 6
+type[0]: web page
+url: https://www.loc.gov/item/prn-08-083/madeleine-albright-speaks-at-library-on-may-6/2008-04-22/
+cite_this.apa: (2008) Madeleine Albright To Discuss Her New Book at the Library of Congress on May 6. [Web Page] Retrieved from the Library of Congress, https://www.loc.gov/item/prn-08-083/madeleine-albright-speaks-at-library-on-may-6/2008-04-22/.
+cite_this.chicago: Madeleine Albright To Discuss Her New Book at the Library of Congress on May 6. 2008. Web Page. https://www.loc.gov/item/prn-08-083/madeleine-albright-speaks-at-library-on-may-6/2008-04-22/.
+cite_this.mla: Madeleine Albright To Discuss Her New Book at the Library of Congress on May 6. 2008. Web Page. Retrieved from the Library of Congress, <www.loc.gov/item/prn-08-083/madeleine-albright-speaks-at-library-on-may-6/2008-04-22/>.

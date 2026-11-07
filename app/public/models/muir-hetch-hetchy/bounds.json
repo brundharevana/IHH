@@ -1,0 +1,59 @@
+{
+  "$comment": "Walkable bounds for free roam in muir-hetch-hetchy.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 100.0,
+  "walkable": {
+    "x_min": -15.0,
+    "x_max": 15.0,
+    "z_min": -15.0,
+    "z_max": 15.0
+  },
+  "obstacles": [],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": -0.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -100.0
+      },
+      "note": "Viewpoint of the 1911 panorama: across the meadow to the valley's far end"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -4.0,
+      "z": -3.0,
+      "look_at": {
+        "x": -150.0,
+        "y": 1.5,
+        "z": -120.0
+      },
+      "note": "Towards the north wall of the valley and its waterfall"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 4.0,
+      "z": -3.0,
+      "look_at": {
+        "x": 120.0,
+        "y": 1.5,
+        "z": -170.0
+      },
+      "note": "Towards Kolana Rock"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 0.0,
+      "z": 6.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -100.0
+      },
+      "note": "Further back in the meadow"
+    }
+  ]
+}

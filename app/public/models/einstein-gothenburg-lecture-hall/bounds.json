@@ -1,0 +1,74 @@
+{
+  "$comment": "Walkable bounds for free roam in einstein-gothenburg-lecture-hall.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 12.0,
+  "walkable": {
+    "x_min": -47.5,
+    "x_max": -0.5,
+    "z_min": -31.2,
+    "z_max": -0.8
+  },
+  "obstacles": [
+    {
+      "name": "lectern",
+      "x_min": -8.95,
+      "x_max": -7.25,
+      "z_min": -17.15,
+      "z_max": -14.85
+    },
+    {
+      "name": "far_platform",
+      "x_min": -48.15,
+      "x_max": -43.75,
+      "z_min": -13.75,
+      "z_max": -4.25
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": -11.5,
+      "z": -4.0,
+      "look_at": {
+        "x": -17.0,
+        "y": 1.5,
+        "z": -32.0
+      },
+      "note": "Below the viewpoint of the 1923 photograph, beside the stage"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -7.2,
+      "z": -17.6,
+      "look_at": {
+        "x": -30.0,
+        "y": 1.5,
+        "z": -16.0
+      },
+      "note": "Beside the lectern, facing the hall"
+    },
+    {
+      "name": "hotspot_3",
+      "x": -30.0,
+      "z": -30.0,
+      "look_at": {
+        "x": -2.0,
+        "y": 1.5,
+        "z": -18.0
+      },
+      "note": "By the far windows, facing the stage"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -40.0,
+      "z": -16.0,
+      "look_at": {
+        "x": -2.0,
+        "y": 1.5,
+        "z": -16.0
+      },
+      "note": "At the back of the hall"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/2012644011/",
+  "fetch_url": "https://www.loc.gov/item/2012644011/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:27:45Z",
+  "sha256": "875c5df23e7ba8297a7fcc0de63d77e44a0339e0d089a51faf17752d0e58b77c",
+  "bytes": 11901,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/2012644011/?fo=json"
+}

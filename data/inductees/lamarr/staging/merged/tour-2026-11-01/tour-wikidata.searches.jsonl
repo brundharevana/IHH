@@ -1,0 +1,1 @@
+{"date": "2026-11-01", "family": "tour-wikidata", "tool": "Wikidata entity search (discovery only)", "query": "Los Angeles", "results": 3, "produced": [], "agent": "research agent", "run_id": "tour-2026-11-01", "notes": "URL: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Los+Angeles&language=en&type=item&format=json&limit=3"}

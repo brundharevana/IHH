@@ -1,0 +1,177 @@
+_version_: 1878068851000737792
+access_restricted: false
+aka[0]: /biographies/2018/01/10/madeleine-albright/?
+aka[1]: http://id.loc.gov/authorities/names/n83125999
+aka[2]: http://viaf.org/viaf/51856708/
+aka[3]: http://www.loc.gov/events/2020-national-book-festival/authors/item/n83125999/madeleine-albright/
+aka[4]: http://www.loc.gov/item/n83125999/madeleine-albright/
+aka[5]: wordpress:/biographies/?p=1246
+aka[6]: http://lccn.loc.gov/n83125999
+alphabetize_by_name[0]: Albright, Madeleine
+alternative_names[0]: albright, madeleine korbel
+alternative_names[1]: albright, madeleine
+alternative_names[2]: korbel, madeleine
+alternative_names[3]: korbel, marie jana
+alternative_names[4]: korbelová, marie jana
+alternative_names[5]: olbraĭt, madlen
+alternative_names[6]: albrightová, madeleine
+biography_events[0].access_restricted: false
+biography_events[0].aka[0]: http://www.loc.gov/item/event-400061/
+biography_events[0].aka[1]: wordpress:/events/?p=400061
+biography_events[0].aka[2]: http://www.loc.gov/item/event-400061/madeleine-albright-live-qanda/2020-09-26/
+biography_events[0].contributor[0]: madeleine albright
+biography_events[0].date: 2020-09-26
+biography_events[0].dates[0]: [2020-09-26T16:00:00Z TO 2020-09-26T16:30:00Z]
+biography_events[0].description[0]: Join Madeleine Albright for a Live Q&A session. Make sure to check out their video first and have your questions ready when the live session begins.
+biography_events[0].digitized: true
+biography_events[0].extract_timestamp: 2026-10-09T06:46:39.273Z
+biography_events[0].group[0]: events
+biography_events[0].group[1]: wordpress-events
+biography_events[0].hassegments: false
+biography_events[0].id: http://www.loc.gov/item/event-400061/
+biography_events[0].index: 1
+biography_events[0].item.article: Join Madeleine Albright for a Live Q&A session. Make sure to check out their video first and have your questions ready when the live session begins.
+biography_events[0].item.attendance_conditions: none
+biography_events[0].item.audience: public
+biography_events[0].item.bookfest_topic[0]: History & Biography
+biography_events[0].item.campus: Online Only
+biography_events[0].item.campus_url: /
+biography_events[0].item.categories[0]: lectures and symposia
+biography_events[0].item.duration: 0:30:00
+biography_events[0].item.event_end: 2020-09-26T12:30:00-04:00
+biography_events[0].item.event_end_date: 2020-09-26T16:30:00Z
+biography_events[0].item.event_end_date_local: 2020-09-26T12:30:00
+biography_events[0].item.event_end_date_utc: 2020-09-26T16:30:00Z
+biography_events[0].item.event_end_time: 2020-09-26T16:30:00Z
+biography_events[0].item.event_end_time_local: 2020-09-26T12:30:00
+biography_events[0].item.event_end_time_utc: 2020-09-26T16:30:00Z
+biography_events[0].item.event_end_utc: 2020-09-26T16:30:00+00:00
+biography_events[0].item.event_id: 400061
+biography_events[0].item.event_rescheduled: 0
+biography_events[0].item.event_series[0]: national book festival
+biography_events[0].item.event_start: 2020-09-26T12:00:00-04:00
+biography_events[0].item.event_start_date: 2020-09-26T16:00:00Z
+biography_events[0].item.event_start_date_local: 2020-09-26T12:00:00
+biography_events[0].item.event_start_date_utc: 2020-09-26T16:00:00Z
+biography_events[0].item.event_start_time: 2020-09-26T16:00:00Z
+biography_events[0].item.event_start_time_local: 2020-09-26T12:00:00
+biography_events[0].item.event_start_time_utc: 2020-09-26T16:00:00Z
+biography_events[0].item.event_start_utc: 2020-09-26T16:00:00+00:00
+biography_events[0].item.event_status: definite
+biography_events[0].item.event_to_be_recorded: true
+biography_events[0].item.event_updated: 0
+biography_events[0].item.external_cosponsor_type: none
+biography_events[0].item.featured_event: 0
+biography_events[0].item.lcnet: true
+biography_events[0].item.livestream: No
+biography_events[0].item.online_only: true
+biography_events[0].item.other_location_url: https://www.nationalbookfestival.com/s/nbf-2020-series-registration/home
+biography_events[0].item.presenters[0].presenter_biography_post: [1246]	Madeleine Albright
+biography_events[0].item.profile: events
+biography_events[0].item.short_description: Join Madeleine Albright for a Live Q&A session. Make sure to check out their video first and have your questions ready when the live session begins.
+biography_events[0].item.tag_line: Madeleine Albright Live Q&A
+biography_events[0].item.terms.categories[0]: lectures and symposia
+biography_events[0].item.venue.campus: Online Only
+biography_events[0].item.venue.campus_url: /
+biography_events[0].item.venue.other_location_url: https://www.nationalbookfestival.com/s/nbf-2020-series-registration/home
+biography_events[0].item.venue.venue_campus: online_only
+biography_events[0].item.venue_campus: online_only
+biography_events[0].location[0]: online only
+biography_events[0].location[1]: online
+biography_events[0].location_campus[0]: online only
+biography_events[0].location_presence[0]: online
+biography_events[0].mime_type[0]: text/html
+biography_events[0].number[0]: wordpress:/biographies/?p=1246
+biography_events[0].number_presenter_post[0]: wordpress:/biographies/?p=1246
+biography_events[0].online_format[0]: web page
+biography_events[0].original_format[0]: event
+biography_events[0].partof[0]: national book festival
+biography_events[0].partof[1]: events at the library of congress
+biography_events[0].shelf_id: 2020-09-26|event|12:00:00|madeleine-albright-live-qanda
+biography_events[0].subject[0]: online
+biography_events[0].subject[1]: lectures and symposia
+biography_events[0].subject_event_format[0]: online
+biography_events[0].timestamp: 2026-10-09T07:06:12.084Z
+biography_events[0].title: Madeleine Albright Live Q&A
+biography_events[0].type[0]: event
+biography_events[0].url: https://www.loc.gov/item/event-400061/madeleine-albright-live-qanda/2020-09-26/
+contributor_works[0].title: Madeleine Albright
+contributor_works[0].url: /search/?all=true&sb=date_desc&uf=contributor:albright, madeleine|contributor:albright, madeleine korbel|contributor:korbel, madeleine|contributor:korbel, marie jana|contributor:korbelová, marie jana|contributor:olbraĭt, madlen|contributor:albrightová, madeleine
+custom_biography[0].custom_biography_description: Madeleine Albright was named America’s first female secretary of state by President Bill Clinton in 1997, following her tenure as U.S. representative to the United Nations. She is currently a professor in the practice of diplomacy at Georgetown University’s School of Foreign Service. As secretary of state, Albright reinforced America’s alliances, advocated for democracy and human rights, and promoted American trade, business, labor, and environmental standards abroad. She is a seven-time New York Times bestselling author, and her current work is "Hell and Other Destinations: A 21st-Century Memoir" (Harper).
+custom_biography[0].custom_biography_label[0]: 2020-national-book-festival
+custom_biography[0].custom_biography_text[0]: Madeleine Albright was named America’s first female secretary of state by President Bill Clinton in 1997, following her tenure as U.S. representative to the United Nations. She is currently a professor in the practice of diplomacy at Georgetown University’s School of Foreign Service. As secretary of state, Albright reinforced America’s alliances, advocated for democracy and human rights, and promoted American trade, business, labor, and environmental standards abroad. She is a seven-time New York Times bestselling author, and her current work is "Hell and Other Destinations: A 21st-Century Memoir" (Harper).
+custom_biography[0].custom_biography_url: https://www.loc.gov/events/2020-national-book-festival/authors/item/n83125999/madeleine-albright/
+custom_biography[0].custom_portrait: /static/managed-content/uploads/sites/7/2018/01/Albright-Madeline.jpg
+date_national_book_festival: 2020
+digitized: true
+display_offsite: true
+extract_timestamp: 2026-10-03T12:52:31.854Z
+extract_urls[0]: http://www.loc.gov/item/n83125999/madeleine-albright/#biographies
+format[0].web page: https://www.loc.gov/search/?fa=original_format:web+page&fo=json
+group[0]: biographies
+group[1]: wordpress-biographies
+hassegments: false
+id: http://www.loc.gov/item/n83125999/madeleine-albright/
+image_url[0]: https://www.loc.gov/static/managed-content/uploads/sites/7/2018/01/Albright-Madeline.jpg#h=439&w=350
+index: 1
+item.aka[0]: http://viaf.org/viaf/51856708/
+item.aka[1]: http://id.loc.gov/authorities/names/n83125999
+item.aka[2]: /biographies/2018/01/10/madeleine-albright/?
+item.aka[3]: wordpress:/biographies/?p=1246
+item.aka[4]: https://www.loc.gov/item/n83125999/madeleine-albright/
+item.alphabetize_by_name[0]: Albright, Madeleine
+item.alternative_names[0]: albright, madeleine korbel
+item.alternative_names[1]: albright, madeleine
+item.alternative_names[2]: korbel, madeleine
+item.alternative_names[3]: korbel, marie jana
+item.alternative_names[4]: korbelová, marie jana
+item.alternative_names[5]: olbraĭt, madlen
+item.alternative_names[6]: albrightová, madeleine
+item.custom_biography[0].custom_biography_description: Madeleine Albright was named America’s first female secretary of state by President Bill Clinton in 1997, following her tenure as U.S. representative to the United Nations. She is currently a professor in the practice of diplomacy at Georgetown University’s School of Foreign Service. As secretary of state, Albright reinforced America’s alliances, advocated for democracy and human rights, and promoted American trade, business, labor, and environmental standards abroad. She is a seven-time New York Times bestselling author, and her current work is "Hell and Other Destinations: A 21st-Century Memoir" (Harper).
+item.custom_biography[0].custom_biography_label[0]: 2020-national-book-festival
+item.custom_biography[0].custom_biography_text[0]: Madeleine Albright was named America’s first female secretary of state by President Bill Clinton in 1997, following her tenure as U.S. representative to the United Nations. She is currently a professor in the practice of diplomacy at Georgetown University’s School of Foreign Service. As secretary of state, Albright reinforced America’s alliances, advocated for democracy and human rights, and promoted American trade, business, labor, and environmental standards abroad. She is a seven-time New York Times bestselling author, and her current work is "Hell and Other Destinations: A 21st-Century Memoir" (Harper).
+item.custom_biography[0].custom_biography_url: https://www.loc.gov/events/2020-national-book-festival/authors/item/n83125999/madeleine-albright/
+item.custom_biography[0].custom_portrait: /static/managed-content/uploads/sites/7/2018/01/Albright-Madeline.jpg
+item.date_national_book_festival: 2020
+item.prize_dates.date_national_book_festival: 2020
+item.profile: biography
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: n83125999
+mime_type[0]: text/html
+mime_type[1]: image/jpeg
+online_format[0]: web page
+online_format[1]: image
+original_format[0]: web page
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/n83125999/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/n83125999/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/n83125999/dc
+partof[0].count: 277
+partof[0].title: 2020 national book festival
+partof[0].url: https://www.loc.gov/events/2020-national-book-festival/?fo=json
+partof[1].count: 2106
+partof[1].title: biographies
+partof[1].url: https://www.loc.gov/search/?fa=partof:biographies&fo=json
+partof[2].count: 4912
+partof[2].title: national book festival
+partof[2].url: https://www.loc.gov/search/?fa=partof:national+book+festival&fo=json
+prize_dates.date_national_book_festival: 2020
+profile: biography
+score: 14.575749
+shard: 01
+shelf_id: albright, madeleine
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: albright, madeleine korbel
+subject[1]: albright, madeleine
+subjects[0].albright, madeleine: https://www.loc.gov/search/?fa=subject:albright,+madeleine&fo=json
+subjects[1].albright, madeleine korbel: https://www.loc.gov/search/?fa=subject:albright,+madeleine+korbel&fo=json
+timestamp: 2026-10-03T22:20:27.064Z
+title: Madeleine Albright
+type[0]: web page
+url: https://www.loc.gov/item/n83125999/madeleine-albright/
+cite_this.apa: () Madeleine Albright. [Image] Retrieved from the Library of Congress, https://www.loc.gov/item/n83125999/madeleine-albright/.
+cite_this.chicago: Madeleine Albright. Image. https://www.loc.gov/item/n83125999/madeleine-albright/.
+cite_this.mla: Madeleine Albright. Image. Retrieved from the Library of Congress, <www.loc.gov/item/n83125999/madeleine-albright/>.

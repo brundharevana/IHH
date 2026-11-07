@@ -1,0 +1,872 @@
+_version_: 1844587895121248256
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn92070146/1940-10-01/ed-1/
+aka[1]: http://www.loc.gov/resource/sn92070146/1940-10-01/ed-1/
+batch[0]: curiv_roseheath_ver01
+call_number[0]: Newspaper
+call_number[1]: F868.I2
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/california/
+composite_location[2]: 2/united states/california/imperial/
+composite_location[3]: 3/united states/california/imperial/el centro/
+contributor_names[0]: University of California, Riverside; Riverside, CA
+contributors[0].university of california, riverside; riverside, ca: https://www.loc.gov/search/?fa=contributor:university+of+california,+riverside%3B+riverside,+ca&fo=json
+created_published[0]: El Centro, Calif., October 1, 1940
+date: 1940-10-01
+date_issued: 1940-10-01
+dates[0].1940-10-01: https://www.loc.gov/search/?dates=1940-10-01/1940-10-01&fo=json
+dates_of_publication: 1907-current
+description[0]: El Centro, Calif.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-09-02T13:59:50.752Z
+extract_urls[0]: file:/service/ndnp//curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188898/1940100101/1940100101_1.xml#ndnp/curiv
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Electronic journals
+genre[1]: Periodicals
+genre[2]: Newspapers
+group[0]: ndnp/curiv
+group[1]: university-of-california-riverside-riverside-ca-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn92070146/1940-10-01/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_roseheath_ver01:data:sn92070146:00414188898:1940100101:0375/full/pct:6.25/0/default.jpg#h=461&w=363
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_roseheath_ver01:data:sn92070146:00414188898:1940100101:0375/full/pct:12.5/0/default.jpg#h=923&w=726
+index: 1
+item.batch[0]: curiv_roseheath_ver01
+item.call_number[0]: Newspaper
+item.call_number[1]: F868.I2
+item.contributor_names[0]: University of California, Riverside; Riverside, CA
+item.created_published[0]: El Centro, Calif., October 1, 1940
+item.date: 1907
+item.date_issued: 1940-10-01
+item.dates[0]: 1940-10-01
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Electronic journals
+item.genre[1]: Periodicals
+item.genre[2]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn92070146
+item.location[0]: Imperial County (Calif.)
+item.location[1]: San Diego County (Calif.)
+item.location[2]: California--Imperial County
+item.location[3]: California--San Diego County
+item.medium: 8 pages
+item.newspaper_title[0]: Imperial Valley press
+item.notes[0]: Daily, Sept. 30, 1911-
+item.notes[1]: Vol. 7, no. 14 (July 17, 1907)-
+item.notes[2]: Published as: Imperial Valley press and El Centro progress, Jan. 16-Oct. 25, 1922.
+item.notes[3]: Published combined issues on holidays: The morning post-Imperial Valley press, Nov. 28, 1935 and Dec. 25, 1935. On Sundays published as: The Post-press, Jan. 12, 1936-Oct. 30, 1960; Imperial Valley news-press, Nov. 6, 1960-Feb. 26/27, 1967; Imperial Valley press/The Brawley news, Oct. 2, 1988-June 7, 1992; published as combined Sat./Sun. ed., Apr. 29/30, 1961-
+item.notes[4]: Sunday issues have their own numbering.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Master negatives are available for duplication from: California Newspaper Microfilm Archive; positive copies may be purchased by the reel; for further information consult the CNMA at: http://cbsr.ucr.edu
+item.notes[7]: Oct. 7, 1993.
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188898/1940100101/1940100101_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn92070146/marcxml
+item.other_title[0]: Imperial Valley press and El Centro progress
+item.other_title[1]: Post-press
+item.other_title[2]: Imperial Valley news-press
+item.other_title[3]: Imperial Valley press/Brawley news
+item.other_title[4]: Morning post-Imperial Valley press
+item.other_title[5]: At head of title: Extra Imperial Valley press
+item.place_of_publication: El Centro, Calif.
+item.raw_lccn: sn 92070146
+item.reel_numbers[0]: 00414188898
+item.source_group: ndnp/curiv
+item.subjects[0]: Imperial County (Calif.)--Newspapers
+item.subjects[1]: San Diego County (Calif.)--Newspapers
+item.subjects[2]: California--Imperial County
+item.subjects[3]: California--San Diego County
+item.subjects[4]: United States--California--Imperial--El Centro
+item.title: Imperial Valley press (El Centro, Calif.), October 1, 1940
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn92070146
+location[0]: imperial
+location[1]: san diego county
+location[2]: california
+location[3]: united states
+location[4]: el centro
+location[5]: imperial county
+location_city[0]: el centro
+location_country[0]: united states
+location_county[0]: imperial
+location_state[0]: california
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].el centro: https://www.loc.gov/search/?fa=location:el+centro&fo=json
+locations[2].imperial: https://www.loc.gov/search/?fa=location:imperial&fo=json
+locations[3].imperial county: https://www.loc.gov/search/?fa=location:imperial+county&fo=json
+locations[4].san diego county: https://www.loc.gov/search/?fa=location:san+diego+county&fo=json
+locations[5].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].el centro: https://www.loc.gov/search/?fa=location_city:el+centro&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].imperial: https://www.loc.gov/search/?fa=location_county:imperial&fo=json
+locations_state[0].california: https://www.loc.gov/search/?fa=location_state:california&fo=json
+medium: 8 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Imperial Valley press
+notes[0]: Daily, Sept. 30, 1911-
+notes[1]: Vol. 7, no. 14 (July 17, 1907)-
+notes[2]: Published as: Imperial Valley press and El Centro progress, Jan. 16-Oct. 25, 1922.
+notes[3]: Published combined issues on holidays: The morning post-Imperial Valley press, Nov. 28, 1935 and Dec. 25, 1935. On Sundays published as: The Post-press, Jan. 12, 1936-Oct. 30, 1960; Imperial Valley news-press, Nov. 6, 1960-Feb. 26/27, 1967; Imperial Valley press/The Brawley news, Oct. 2, 1988-June 7, 1992; published as combined Sat./Sun. ed., Apr. 29/30, 1961-
+notes[4]: Sunday issues have their own numbering.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Master negatives are available for duplication from: California Newspaper Microfilm Archive; positive copies may be purchased by the reel; for further information consult the CNMA at: http://cbsr.ucr.edu
+notes[7]: Oct. 7, 1993.
+number[0]: 1
+number[1]: 00414188898
+number[2]: sn92070146
+number_edition[0]: 1
+number_lccn[0]: sn92070146
+number_reel[0]: 00414188898
+numeric_shelf_id: 194010011
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188898/1940100101/1940100101_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn92070146/marcxml
+other_title[0]: Imperial Valley press and El Centro progress
+other_title[1]: Post-press
+other_title[2]: Imperial Valley news-press
+other_title[3]: Imperial Valley press/Brawley news
+other_title[4]: Morning post-Imperial Valley press
+other_title[5]: At head of title: Extra Imperial Valley press
+partof[0].count: 10381
+partof[0].title: imperial valley press (el centro, calif.) 1907-current
+partof[0].url: https://www.loc.gov/search/?fa=partof:imperial+valley+press+%28el+centro,+calif.%29+1907-current&fo=json
+partof[1].count: 3210897
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232409
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: imperial valley press (el centro, calif.) 1907-current
+place_of_publication: El Centro, Calif.
+publication_frequency[0]: daily
+raw_lccn: sn 92070146
+reel_numbers[0]: 00414188898
+resources[0].files: 8
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_roseheath_ver01:data:sn92070146:00414188898:1940100101:0375/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn92070146/1940-10-01/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.366628
+shard: 07
+shelf_id: sn92070146, 1940-10-01, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/curiv
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: imperial
+subject[1]: newspapers
+subject[2]: imperial county (calif.)
+subject[3]: san diego county (calif.)
+subject[4]: san diego county
+subject[5]: california
+subject[6]: united states
+subject[7]: el centro
+subject[8]: imperial county
+subject_headings[0]: Imperial County (Calif.)--Newspapers
+subject_headings[1]: San Diego County (Calif.)--Newspapers
+subject_headings[2]: California--Imperial County
+subject_headings[3]: California--San Diego County
+subject_headings[4]: United States--California--Imperial--El Centro
+subjects[0].california: https://www.loc.gov/search/?fa=subject:california&fo=json
+subjects[1].el centro: https://www.loc.gov/search/?fa=subject:el+centro&fo=json
+subjects[2].imperial: https://www.loc.gov/search/?fa=subject:imperial&fo=json
+subjects[3].imperial county: https://www.loc.gov/search/?fa=subject:imperial+county&fo=json
+subjects[4].imperial county (calif.): https://www.loc.gov/search/?fa=subject:imperial+county+%28calif.%29&fo=json
+subjects[5].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[6].san diego county: https://www.loc.gov/search/?fa=subject:san+diego+county&fo=json
+subjects[7].san diego county (calif.): https://www.loc.gov/search/?fa=subject:san+diego+county+%28calif.%29&fo=json
+subjects[8].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+timestamp: 2025-09-29T08:54:53.008Z
+title: Imperial Valley press (El Centro, Calif.), October 1, 1940
+type[0]: issue
+url: https://www.loc.gov/item/sn92070146/1940-10-01/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188898/1940100101/0375.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn92070146/1940-10-01/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_roseheath_ver01:data:sn92070146:00414188898:1940100101:0375/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188898/1940100101/0375.pdf
+resources[0].segment_count: 8
+resources[0].url: https://www.loc.gov/resource/sn92070146/1940-10-01/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1940, October 1) Imperial Valley press. Retrieved from the Library of Congress, https://www.loc.gov/item/sn92070146/1940-10-01/ed-1/.
+cite_this.chicago: Imperial Valley press. (El Centro, CA), Oct. 1 1940. https://www.loc.gov/item/sn92070146/1940-10-01/ed-1/.
+cite_this.mla: Imperial Valley press. (El Centro, CA) 1 Oct. 1940, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn92070146/1940-10-01/ed-1/.
+
+segment_id: /service/ndnp/curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188898/1940100101/0375.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_roseheath_ver01/data/sn92070146/00414188898/1940100101/0375.xml&format=alto_xml&full_text=1
+full_text:
+EL CENTRO BUSINESS
+BAROMETER
+(Total cash, checks and drafts sent
+through the two El Centro banks.)
+BANK DEBITS
+Monday $236,147.24
+Last Year $318,00819
+VOLUME XXXVIII, No 181
+WARRING NATIONS CENTER ON U.S., RUSSIA
+Man, 67, Attempts
+Suicide as Love
+Affair Goes Sour
+’Nobody to Live For,' Says Note Left by
+Spanish War Veteran in Unsuccessful
+Effort to Take Own Life by Gunshot
+Unrequited love was blamed Tuesday for the act of
+Raymond Smith, 63-year-old Spanish war veteran of Los
+Angeles, in attempting to take his own life as he sat in a
+Plaster City late Monday.
+“I had no one to live for,” the aged man said while
+Rambling
+EPORTER
+Lrng Suffering—
+Life in London would be a relief
+to a number of the power com
+pany’s office staff after what they’ve
+gone through recently during build
+ing reconstruction activities.
+The climax case came when a
+contraption for heating a roofing
+preparation was pushed up against
+a desert cooler intake. The cooler,
+naturally, picked up the fumes and
+in a couple of minutes had sucked
+a smoke cloud inside the building.
+Coughing and with tears in his
+eyes from the smoke, Willis John
+son staggered outside and com
+pl'lined:
+“First they scare us to death with
+jackhammers and now it’s a gas at
+tack! To think, well be in the
+trenches for 75 more days!”
+—o
+Tint’ll Held ’em—
+We have found one army officer
+with a sense of humor, if we never
+find another one.
+Some time ago, chiefly as a gag.
+two El Centro chaps wrote a letter
+to the War Department and com
+plained against being conscripted
+into the army and probably placed
+as buck privates under some newly
+commissioned youngsters out of mil
+itary school. They reasoned that
+with a background of college and
+ten years in business there surely
+would be a place in the military
+where they could serve better (and
+eat a bit better) than drilling or
+digging ditches or whatever privates
+in the infantry do.
+The answer came back Tuesday
+signed by Major A. E. Merrill of
+Los Angeles, acting district recruit
+ing officer.
+“I am indeed sorry that there
+seems to be no position in the Ar
+my at the present time to which
+young men of such admittedly spe
+cial talents could be assigned and
+be assured of rendering more than
+the ordinary service,” the letter
+read in part.
+"The so-called ordinary tasks
+have suddenly become very impor
+tant If the draft classification
+boards are all that we expect them
+to be, and your idea of the com
+missioned personnel is correct, you
+will in all probability find yourselves
+commissioned within the first week."
+Then came the most unkindest
+cut of all. in the middle of a des
+cription of qualifications for army
+service.
+"They also must." the major said,
+"be in good health mentally and
+physically.”
+o
+Atmosphere—
+Best story to come out of the
+opening of dove season is attached
+to the person of O. K. Patton. And
+Pat probably wishes there wasn't
+such a close attachment.
+When Pat started out hunting
+Tuesday he took along his favorite
+cocker spaniel, Flush. Ever since
+we’ve known Pat we’ve known Flush
+(Continued on page 8, col. 4)
+Almazan Backer,
+Allies Shot Down
+MONTERREY, Mexico, Oct. 1. (UP) —General Andrea
+Zarazosa, an important military leader who supported
+Gen. Juan Andreu Almazan, and an undetermined number
+of followers were killed here today when federal troops
+broke up a secret meeting of Almazan followers alleged
+to be planning an attack on this
+city.
+The Monterey newspaper El Por
+venir said that some rebel soldiers
+participating in the secret meeting
+were killed along with General Zar
+zosa.
+It was believed that federal mili
+tary intelligence had learned of the
+meeting. The raid was carried out
+at an undisclosed point in the coun
+try just before dawn by a strong
+force of federal troops A small skir
+IMPERIAL VALLEY PRESS
+♦county hospital physicians gazed at
+his face, almost shot away by a self
+inflicted gunshot wound.
+"My first wife died,” Smith told
+Deputy Sheriffs Peter Klyne and
+Park Burritt. "A week after I married
+a 57-year-old woman she left me.
+First I decided to travel to get my
+mind off my troubles. Then I de
+cided I had no one to live for.
+“When I realized I had not killed
+myself I thought anyway I had fixed
+my face so my second wife never
+would come near me again. So now
+I want to live.
+Smith shot himself as he sat in
+his car in the rear of an abandon
+en service station at Plaster City,
+the officers said. Blood streaming
+from his shattered face, he flagged
+a passing motorist, gave him a $5
+bill and his veteran's card, and tola
+him to telephone for an ambulance.
+Physicians at the county hospital
+said Smith has a chance to live.
+De Anza Desert
+Ride Shapes Up
+"'A _p*ssißilfty was noted Tuesday that the proposed
+ride of Riverside and Imperial county horsemen over the
+historic trail that de Anza took will take place in the
+spring of 1941 instead of in November, as originally plan
+ned. Supervisor Hugh Osborne and Brawley Chamber of
+District Wins 12
+Months Delay in
+Laguna Payment
+A year's respite was granted Tues
+day to the Imperial Irrigation dis
+trict from payments on the Laguna
+dam contract.
+The delay, asked because of the
+burden of earthquake repair, pro
+vides for putting off the $86,440 pay
+ment due in December until a year
+after the final payment would nor
+mally be made. The original con
+tract with the federal government
+called for final payment in 1945.
+Thus, the payment due in December
+will be put off until December of
+1946.
+Announcement of the delay high
+lighted the forenoon session of the
+district board.
+Publisher Called
+Back to Army
+NEW YORK, Oct. 1 (UP)— Col.
+Julius Ochs Adler .general man
+ager of the New York Times and 1
+publisher of the Chattanooga
+(Tenn.) Times has been called to
+army duty as commanding officer
+of the Reception Center, Port Dix,
+N. J., where he will supervise the
+reception of recruits under the
+selective service program. He will
+take a year's leave of absence from
+the Times and will assume his
+army post next Monday.
+mish resuited as the Almazan fol
+lowers tried to fight their way out
+El Porvenir which supported
+President-Elect Gen. Manuel Avila
+Camacho during the election cam
+paign, said Zarzosa and his fol
+lowers were plotting to attack the
+city.
+Zarzosa was Almazan’s chief of
+staff when Almazan was minister of
+communications in 1932
+Carrying Full UNITED PRESS News by Fast Wire Service and Features of NEA, Inc., Central Press Association, McNaught Syndicate,
+King Features, and Complete Valley News by the Largest Editorial Staff in Southeastern California.
+(Five Cents per Copy)
+Draft
+Official
+In I. V.
+County Clerk Gets
+Last Minute Rules
+For Registration
+County Clerk W. J. Mc-
+Clelland Tuesday hurried ar
+rangements for selective ser
+vice registration in Imperial
+county Oct. 16 after Major
+E. J. Plato of Los Angeles arrived
+by plane Monday to give him last
+minute instructions.
+No compensation will be made
+those who serve on the registration
+boards in the nation, Major Plato
+said. Men who register will not be
+paid travel allowances or expenses.
+"In view of the personal sacrifice
+to be made by Uic men who are be
+ing registered for military service,”
+he said, “it is deemed fitting that
+the registration service should be
+inducted by citizens, including the
+regular election officials, who vol
+unteer ’-.heir services as a contribu
+tion to national defense.”
+Acting upon instruction from Pla
+to, McClelland requested the services
+of regular election boards in each
+voting precinct of the county. If
+they cannot serve, McClelland said,
+lie was ordcreJ to ask other com-
+I potent citizens to serve.
+Commerce Secretary Charles Nice
+were back in Imperial Valley Tues
+day after a conference with River
+side horsemen on the project. Dur
+ing the parley new plans were dis
+cussed but no definite decision reach
+ed, Osborne said.
+State Senator Miguel Estudillo was
+named general chairman of the pro
+ject. Horsemen’s groups in both
+counties will work under him to
+promote the event.
+Also at the Riverside meeting, the
+20-30 club there volunteered to have
+charge of entertainment when the
+cavalcade halts for the evening.
+Members of the 20-30 club at River
+side were expected to get in touch
+with Imperial clubs.
+Date for the ride across the desert
+and hills from the Mexican border
+near Mt. Signal to Riverside was
+still indefinite. Osborne said it was
+likely that the ride might be held
+in the spring to coincide with the
+Calexico Desert Cavalcade.
+Einstein. Serious
+Of Face, Becomes
+American Citizen
+TRENTON, N. J„ Oct. 1. (UP)—
+Dr. Albert Einstein became a citizen
+of the United States today.
+With 87 other aliens, representing
+12 nationalities, the famed mathe
+matician and author of the theory
+of relativity, took the oath admin
+istered by Benjamin J. Havens, clerk
+of the federal district court, in the
+presence of Judge Phillip Forman.
+Addressing the group after the
+ceremony of the oath. Judge Forman
+pointed out that Einstein, "a re
+nowned contributor to civilization."
+was admitted to citizenship by ex
+actly the "same democratic method"
+as all the others in the groi^p.
+"How well is the lesson of Ameri
+ca here exemplified,” the court said.
+Einstein, his shock of gray hair
+as shaggy as ever, smiled broadly
+when he entered the courtroom for
+the ceremony. But his face became
+grave and he listened attentively
+as the oath was read, and as Judge
+Forman spoke.
+Plans Complete for
+Farm Conference
+Plans were complete Tuesday for
+Wednesday's annual county farm
+planning conference in the Califor
+nia hotel, according to George Win
+right, assistant county agent.
+The meetihg, which will start at
+1:30 Wednesday afternoon, will
+feature L. B. Smith and J. B.
+Brown, extension specialists as
+spenkcrs,
+EL CENTRO, CAUF., TUESDAY, OCTOBER 1, 1940
+A BIRD OF A SEASON!
+There were birds in the hand
+and birds in the bushes Tuesday
+but probably more left in the
+bushes than in the hand.
+There were ienty in the hand,
+however, because so far there has
+not been a hunter on the first
+day of dove season in Imperial
+county to report anything but his
+limit.
+Most of the legion of sportsmen
+who went out before dawn Tues
+day came back with their hunt
+ing coats full by 7 or 8 o’clock.
+Thus, the firing that reached
+blitzkrieg proportions around 6
+a.m. in the rural areas had died
+down to scattered volleys by mid
+morning.
+This isn't mumlety-peg nor is it African golf these gentle
+men arc playing on the grass of Holtville's civic center. It s
+serious business, planning a welcome for the first water to flow
+through the All American canal into the Imperial Irrigation sys
+tem Standing, left to right, are LE. Jessen, Ray Mouser, William
+Airport Programs
+Here Must Await
+Priority Ratings
+Communities included in
+the Civil Aeronautics author
+ity’s long range airport build
+ing program were warned
+Tuesday that the list of pro
+posed projects released Monday is
+purely tentative.
+Inclusion in the national list does
+not mean that work will start soon,”
+Donald H. Connolly, CAA adminis
+trator, said from Washington, D.C.
+through the United Press.
+Imperial Valley was set down for
+four airport projects including a
+$214,500 El Centro field. Others on
+the list were Brawley, Calipatria and
+Calexico.
+The list represents the findings
+of a nationwide survey, Connolly
+said, and was compiled as a basis
+for a six-year long raqge program
+of airport construction, it covers
+some 4,000 projects that would cost
+(Continued on Page 8, Col. 6)
+2000 Laborers
+Withhold Strike
+SAN FRANCISCO, Oct- 1 (UP)
+—Union contracts covering approx
+imately 2,000 crewmen on 58 coast
+wise steam schooners expired to
+day but strike action was withheld
+for further negotiations.
+The contracts are held by the
+Shipowners association of the Pac
+ific and five maritime unions: the
+Sailors' Union of the Pacific; the
+Marine Firemen, Oilers, Watertend
+ers and Wipers association; Marine
+Cooks and Stewards association;
+Marine Engineers Beneficial associ
+ation. and the Masters, Mates and
+Pilots of America. The sixth mari
+time union, the American Com
+munications association covering
+telegraphists, already has an ex
+tended contract.
+Either there were plenty of
+doves on the unposted farms, or
+sportsmen were more considerate
+this year because there were no
+complaints registered Tuesday
+morning of trespassing or violation
+of posted territory.
+Hunters were warned, however,
+that a rigid county ordinance, pass
+ed last fall as an emergency mea
+sure, deals strictly with sportsmen
+who get out of line. Under the
+ordinance it is unlawful to fire
+arms in any unincorporated area
+in the county within 200 yards of
+any animal, livestock, fowl or
+building inhabited by human be
+ings without first obtaining the
+consent of the record owner or
+'There's Where Shell Come In, Boys!' So They Get Ready
+Film Beauty Reno
+Bound by Plane
+Constance Bennett will Divorce Titled
+French Husband for 'Cruelty' After
+Separation Lasting Several Years
+HOLLYWOOD, Oct. 1. (UP) —Blonde Constance Ben
+nett of the films today disclosed she was flying to Reno
+tonight to establish residence for a divorce from the Mar
+quis Henri de la Falaise.
+The film star has been separated from her titled French
+husband for several years*and re-*
+ports that they would be divorced
+have been current in Hollywood for
+many months.
+Miss Bennett some months ago,
+however, said she would not bring
+action against her husband while he
+was serving in the French army.
+Friends of the actress said that the
+standard grounds of "cruelty’' prob
+ably would be recited in her com
+plaint.
+She will depart by United Air
+Incubator Baby
+Takes Plane Trip
+CHICAGO. Oct. 1 (UP) Two
+months old Albert Martins just
+yawned today when he arrived
+from San Francisco via a United
+Air Line's plan ■'—although he wgs
+hailed as the first incubator baby
+to make an airplane trip.
+F’ame is an old thing to Albert
+who has spent all his life on ex
+hibition in an incubator at the
+San Francisco fair. When his
+weight increased from three to
+eight pounds he was able to leave
+the incubator and fly home, his
+mother, Mrs. Walter E. Martins,
+explained. He was born while his
+mother was visiting at Vallejo, Cal.
+tenant. The violators are liable to
+a maximum fine of SSOO or six
+months in jail, or both.
+First influx of coast hunters for
+the season was up to standard,
+the hotels reported, but the largest
+invasion was not anticipated until
+the weekend. Several celebreties
+were expected but so far John
+Mack Brown, formei All American
+football player from Alabama anc’
+now a Hollywood actor, who is
+stopping in Calexico is the only one
+from the movie colony.
+Nat Rogan of Los Angeles, col
+lector of Internal Revenue for
+southern California, was down for
+i the hunting.
+Myers, Wade Cook, C. P. Johnson, Milton Brodie, Milton Meek,
+and George Raine. Crouched around a map of the valley are,
+left to right, Ted Kipf, Bob Coyner, J. V. Yeargin, Clark Butler,
+and Oscar Fudge. Kipf is pointing out the spot at the Eastside
+highiine turnout where the celebration will be held Oct. 12.
+—Post-Press Photo
+lines at 8 p.m., arriving in San
+I Francisco at 10 p.m. and Reno a
+few minutes after midnight.
+The Marquis de la Falaise and
+Miss Bennett were married seven
+years ago. He formerly was the hus
+band of Gloria Swanson, silent
+screen star. Miss Bennett previously
+had been married to Phil plant,
+wealthy New Yorker. The Marquis
+at present is in France.
+Farley Dodges Squeeze,
+Shuns Support for FDR
+By LYLE C. WILSON
+WASHINGTON, Oct. 1. (UP)#
+New Dealers counted two recijMs
+to President Roosevelt's third Mrm
+campaign today but waved a#inal
+goodbye to former Chairman #ames
+A. Farley of the Democrat# Na
+tional committee.
+Farley contrived to speak iijfopen
+ing the New York state Demdcratie
+convention yesterday without en
+dorsing the Roosevelt-Wallace tick
+et. How to do that has been a mat
+ter of concern to because
+he evidently is lend.
+PHONE 300
+Germans Step Up
+Effort to Starve
+Isles to Defeat
+Air, Submarine Attacks Gain New Fury
+While Diplomacy Tries to DrawU. S.,
+Soviet into Conflict; Spain Reluctant
+By UNITED PRESS
+The Axis powers and Great Britain struggled to sway
+the vast power of Soviet Russian and the United States
+today as world-wide conflict mounted towards a new peak.
+On the air and sea battlefields, Germany stepped up
+Tristan Kidnaper
+Guilty; Must Serve
+Life in Prison
+REDWOOD CITY, Calif.,
+Oct. 1. (UP)—Wilhelm Ja
+kob Muhlenbroich, 40-year
+old German barber, pleaded
+Mfuilty today to a charge of
+kidnaping, a charge that carries
+with it mandatory life imprison
+ment without privilege of parole.
+Superior Judge Maxwell McNutt,
+however, postponed sentencing the
+kidnaper of Marc de Tristan, jr„ un
+til Friday to close every possible
+loophole to any plea by Muhlen
+broich for freedom in the future.
+McNutt said the delay in sentence
+was ordered in order to block any
+possibility the kidnaper might seek
+release later on the technical claim
+he had been denied the statutory
+waiting period between entering a
+plea and being sentenced.
+It was the second time the San
+Mateo county jurist had interposed
+(Continued oi) Page 8, Col. 5)
+no aid this year to the man whose
+campaigns he managed in 1932 and
+j 1936.
+Sen. Robert M. La Follette, Prog.,
+I Wis.. abandoned his anti-third term
+position to endorse B£r. Roosevelt in
+Wisconsin. Events foreshadowed a
+La Follette movement toward the
+New* Deal since Republicans polled
+more votes in the Wisconsin pri
+mary than Progressives and Demo
+crats combined. But U was LaJftjUi
+leUe, with Sen. George wjMH
+iiu^Ncu
+Butter: Lon Angeles 30'ic; hut
+terfat, Imperial Valley I. o. b. ranch,
+«rade A 39'/iC: manufacturing milk
+3ttc; route gathered cream 2#he.
+L. A. hay: U. S. No. 1 sl3-1330;
+U. S. No. 2 leafy sllsO-12.50; I. V.
+and Antelope sl3-1330; U. 8. No. 2
+$lO-$10.50; Mpls. Dec. flax $1.46 s<,
+THE POST-PRESS
+>airplane and U-boat attacks de
+signed to starve Great Britain; the
+royal air force staged a record five
+hour raid over Berlin, bombed many
+other German war bases and bat
+tled Nazi warcraft over London:
+and Fascist air squadrons traded
+Mows with the British in North
+Africa.
+There were unofficial estimates
+in London that 55,000 persons had
+been killed and 8.000 injured in Sep
+tember bombings.
+Despite the steadily mounting
+tempo of aerial warfare, however,
+there were developments of still
+greater potential importance on the
+diplomatic front, including:
+1. Efforts by Japan to improve
+relations with Soviet Russia, thus
+strengthening the new Gcrman-
+Italian-Japanese alliance, were pre
+dicted in Moscow, where the Soviet
+press indirectly agreed with Nazis
+that relations between Russia and
+Germany were good and charged
+that the United States actually was
+engaged in military cooperation with
+Britain.
+2. The German newspaper Ham
+burger Fremdenblat called upon the
+Soviets and the United States to
+make known definitely which side
+they favor in the war. Nazi spokes
+men said the battle would go on un
+compromisingly until victory was
+achieved over Britain.
+3. Premier Benito Mussolini was
+reported to have discussed with
+Spanish Interior Minister Ramon
+Serrano Sunder the claims of Spain
+on Gibraltar and French Morocco
+and to have talked over possibility
+of raising the Arab world in opposi
+tion to Britain. The Fascist press
+seemed less certain that Spain,
+which would be vulnerable to heavy
+British air and sea attack and which
+needs food coming through the Brit
+ish blockade, would enter the war.
+4. Japan was reported in a Tokyo
+news broadcast to be “cautioning"
+Britain against reopening o> the
+Burma road for military supplies to
+(Continued on Page 8. Col. 3)
+'Saw Fun on Face'
+Says Ui. Envoy of
+Defeated German
+LONDON, Oct. 1. (UP)—A Ger
+man Messerschmidt shot down in
+a dog fight over Windsor Great
+Park missed American Ambassador
+Joseph P. Kennedy's country home
+so narrowly that "we could see the
+fuzz on the pilot's face and almost
+count his buttons," Kennedy said
+today.
+Kennedy was at his country home
+yesterday with William Hillman,
+London representative of Collier’s
+Weekly, when the Messerschmidt
+and a British plane fought over
+the park. The British plane shot
+away the German's propellor. The
+Nazi pilot apparently tried to make
+a forced landing on the front lawn
+of Kennedy’s home, but after miss
+ing the house by inches he skimmed
+over the trees and landed in the
+royal park nearby.
+The Germans recently dropped
+a number of high explosive and
+incendiary bombs within a few hun
+dred yards of Kennedy's home.
+Kennedy picked up the nose of an
+incendiary bomb which had his
+initials on It.
+“I don't know what else they can
+do unless they come in my front
+room,” Kennedy said today.
+emphatically supporting the tra
+dition that no man vhall be presi
+dent more than twice. That resolu
+tion was aimed at Calvin CooUdge
+whom Progressive Republicans re
+fused to accept as a party leader.
+The second third term recruit
+was Sen. Millard E. Tydlnga, D.,
+Md„ who accompanied Mr. Roosevelt
+yesterday on a national
+spectiou

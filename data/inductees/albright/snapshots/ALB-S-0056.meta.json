@@ -1,0 +1,10 @@
+{
+  "url": "https://obamawhitehouse.archives.gov/blog/2012/05/30/what-medal-freedom-means-me-madeleine-albright",
+  "fetch_url": "https://obamawhitehouse.archives.gov/blog/2012/05/30/what-medal-freedom-means-me-madeleine-albright",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:26:46Z",
+  "sha256": "6214e6aa700a2e919a7b5ab7080b72f13b489558fb2f70244147170c19c9a55d",
+  "bytes": 6753,
+  "http_status": 200,
+  "final_url": "https://obamawhitehouse.archives.gov/blog/2012/05/30/what-medal-freedom-means-me-madeleine-albright"
+}

@@ -1,0 +1,691 @@
+_version_: 1799789575341604864
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045499/1939-11-28/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/
+batch[0]: ak_herring_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/alaska/
+composite_location[2]: 2/united states/alaska/juneau/
+composite_location[3]: 3/united states/alaska/juneau/juneau/
+contributor_names[0]: Alaska State Library Historical Collections
+contributors[0].alaska state library historical collections: https://www.loc.gov/search/?fa=contributor:alaska+state+library+historical+collections&fo=json
+created_published[0]: Juneau, Alaska, November 28, 1939
+date: 1939-11-28
+date_issued: 1939-11-28
+dates[0].1939-11-28: https://www.loc.gov/search/?dates=1939-11-28/1939-11-28&fo=json
+dates_of_publication: 1926-1964
+description[0]: Juneau, Alaska
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2024-05-22T13:00:07.613Z
+extract_urls[0]: file:/service/ndnp//ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/1939112801_1.xml#ndnp/ak
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ak
+group[1]: alaska-state-library-historical-collections-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn83045499/1939-11-28/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_herring_ver01:data:sn83045499:00393342390:1939112801:0602/full/pct:6.25/0/default.jpg#h=417&w=327
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_herring_ver01:data:sn83045499:00393342390:1939112801:0602/full/pct:12.5/0/default.jpg#h=835&w=655
+index: 1
+item.batch[0]: ak_herring_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Alaska State Library Historical Collections
+item.created_published[0]: Juneau, Alaska, November 28, 1939
+item.date: 1926
+item.date_issued: 1939-11-28
+item.dates[0]: 1939-11-28
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045499
+item.location[0]: Juneau (Alaska)
+item.location[1]: Alaska--Juneau
+item.medium: 8 pages
+item.newspaper_title[0]: The daily Alaska empire
+item.notes[0]: Daily (except Saturday)
+item.notes[1]: Vol. 29, no. 4346 (Dec. 8, 1926)-v. 99, no. 219 (July 21, 1964).
+item.notes[2]: Supplements accompany some numbers.
+item.notes[3]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[4]: J bird was issued with the Daily Alaska empire from <1932-May 16, 1936>, with separate enumeration. It then resumed publishing on its own September 25, 1936.
+item.notes[5]: Juneau Alaska empire (DLC)sn 83045498 (OCoLC)9518440
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/1939112801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045499/marcxml
+item.place_of_publication: Juneau, Alaska
+item.raw_lccn: sn 83045499
+item.reel_numbers[0]: 00393342390
+item.source_group: ndnp/ak
+item.subjects[0]: Juneau (Alaska)--Newspapers
+item.subjects[1]: Alaska--Juneau
+item.subjects[2]: United States--Alaska--Juneau--Juneau
+item.title: The daily Alaska empire (Juneau, Alaska), November 28, 1939
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn83045499
+location[0]: juneau
+location[1]: united states
+location[2]: alaska
+location_city[0]: juneau
+location_country[0]: united states
+location_county[0]: juneau
+location_state[0]: alaska
+locations[0].alaska: https://www.loc.gov/search/?fa=location:alaska&fo=json
+locations[1].juneau: https://www.loc.gov/search/?fa=location:juneau&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].juneau: https://www.loc.gov/search/?fa=location_city:juneau&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].juneau: https://www.loc.gov/search/?fa=location_county:juneau&fo=json
+locations_state[0].alaska: https://www.loc.gov/search/?fa=location_state:alaska&fo=json
+medium: 8 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The daily Alaska empire
+notes[0]: Daily (except Saturday)
+notes[1]: Vol. 29, no. 4346 (Dec. 8, 1926)-v. 99, no. 219 (July 21, 1964).
+notes[2]: Supplements accompany some numbers.
+notes[3]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[4]: J bird was issued with the Daily Alaska empire from <1932-May 16, 1936>, with separate enumeration. It then resumed publishing on its own September 25, 1936.
+notes[5]: Juneau Alaska empire (DLC)sn 83045498 (OCoLC)9518440
+number[0]: 1
+number[1]: sn83045499
+number[2]: 00393342390
+number_edition[0]: 1
+number_lccn[0]: sn83045499
+number_reel[0]: 00393342390
+numeric_shelf_id: 193911281
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/1939112801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045499/marcxml
+partof[0].count: 7737
+partof[0].title: the daily alaska empire (juneau, alaska) 1926-1964
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+daily+alaska+empire+%28juneau,+alaska%29+1926-1964&fo=json
+partof[1].count: 3210989
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232495
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the daily alaska empire (juneau, alaska) 1926-1964
+place_of_publication: Juneau, Alaska
+publication_frequency[0]: daily
+raw_lccn: sn 83045499
+reel_numbers[0]: 00393342390
+resources[0].files: 8
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_herring_ver01:data:sn83045499:00393342390:1939112801:0602/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.52867
+shard: 02
+shelf_id: sn83045499, 1939-11-28, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ak
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: united states
+subject[1]: juneau
+subject[2]: newspapers
+subject[3]: alaska
+subject[4]: juneau (alaska)
+subject_headings[0]: Juneau (Alaska)--Newspapers
+subject_headings[1]: Alaska--Juneau
+subject_headings[2]: United States--Alaska--Juneau--Juneau
+subjects[0].alaska: https://www.loc.gov/search/?fa=subject:alaska&fo=json
+subjects[1].juneau: https://www.loc.gov/search/?fa=subject:juneau&fo=json
+subjects[2].juneau (alaska): https://www.loc.gov/search/?fa=subject:juneau+%28alaska%29&fo=json
+subjects[3].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[4].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+timestamp: 2024-05-22T21:24:51.902Z
+title: The daily Alaska empire (Juneau, Alaska), November 28, 1939
+type[0]: issue
+url: https://www.loc.gov/item/sn83045499/1939-11-28/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/0602.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_herring_ver01:data:sn83045499:00393342390:1939112801:0602/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/0602.pdf
+resources[0].segment_count: 8
+resources[0].url: https://www.loc.gov/resource/sn83045499/1939-11-28/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1939, November 28) The daily Alaska empire. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045499/1939-11-28/ed-1/.
+cite_this.chicago: The daily Alaska empire. (Juneau, AK), Nov. 28 1939. https://www.loc.gov/item/sn83045499/1939-11-28/ed-1/.
+cite_this.mla: The daily Alaska empire. (Juneau, AK) 28 Nov. 1939, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn83045499/1939-11-28/ed-1/.
+
+segment_id: /service/ndnp/ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/0602.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ak/batch_ak_herring_ver01/data/sn83045499/00393342390/1939112801/0602.xml&format=alto_xml&full_text=1
+full_text:
+THE DAILY ALASKA EMPIRE
+“ALL THE NEWS ALL THE TIME”
+VOL. LV., NO. 8270.
+JUNEAU, ALASKA, TUESDAY, NOVEMBER 28, 1939.
+MEMBER ASSOCIATED PRESS
+PRICE TEN CENTS
+British Heavy Cruiser Reported Torpedoed
+NAVAL SHIP
+SENT DOWN,
+NORTH SEA
+_
+German High Command
+Makes Announcement
+from Berlin
+BERLIN, Nov. 28.—The Ger
+man High Command announced
+this afternoon that a British
+heavy cruiser has been “tor
+pedoed and destroyed” in the
+North Sea cast of the Shetland
+Islands by the same sub com
+mander whose sinking of the
+battleship Royal Oak on Octo
+ber 14 made hitn a German na
+tional hero.
+The communique said the
+British vessel is of the London
+rlass of 32-knot ships, of nearly
+10.000 tons displacement.
+The announcement named
+Lieut. Capt. Guenther Prien, 31,
+U-boat commander who slipped
+into Scapa Flow past the Brit
+ish mine fields to sink the Royal
+Oak as the skipper of the sub
+marine which torpedoed the
+cruiser yesterday.
+DENY SINKING
+LONDON, Nov. 28.—The authori
+tative British Press Association said
+today in a note to editors: “The
+rumor is abroad that a British bat-
+tleship has been sunk. For your in
+formation there is no truth what
+ever in that rumor.”
+KING AYERS
+ROYAL NAVY
+DOING WELL
+j
+Believed Big Blockade of
+German Exports Will
+Be Delayed
+LONDON, Nov, 28.—The King to
+day assured the British Empire that
+the Royal Navy is keeping sea lanes 1
+“free and open,’’ despite the sink
+ing of the armed British merchant-
+man Rawalpindi by two German
+warships and recent heavy shipping
+losses.
+The monarch's assurance was
+given in a speech opening the first
+war session of the British Parlia
+ment.
+Parliament opened session as an
+authoritative statement was made
+saying that application of the Brit
+ish-French blockade against Ger
+man exports will be delayed until
+December 4. and perhaps a week
+longer to soften the blow to neutral
+shippers.
+3 of 25 Are
+Missing;Brif.
+Ship Is Sunk
+LONDON, Nov. 28—The British
+steamer Uskmouth, 2400 tons, has
+been sunk and three of the crew of
+25 are missing.
+As usual, the Admiralty did not
+give the cause for the sinking im
+mediately nor did it make knbwn
+the location of the disaster.
+Winter Leaves Given
+To Italian Reservists
+ROME. Nov. 28.—Reduction of
+Italy's fighting forces by 300,000
+men is predicted today by foreign
+observers as a result, of an order
+granting winter leave to reservists.
+Finland Sets a Bear Trap
+In a Finnish forest near the Russian border, thousands of sandbags are
+unloaded by the republic’s troops for the building of barricades which
+they hope will stop the Russian bear if the Soviet follows her rejected
+demands on Finland with an invasion. A number of border incidents
+have been reported and the Red press is conducting a savage campaign
+against the Finns.
+Swiss Guard German Border
+A Swiss patrol on duty near the German border enjoys a bit of hot soup,
+warmed in the fireplace (right) dug out of the snow, during their frigid
+watch against invasion. The Swiss are on the alert, with thousands of
+German troops menacing their northern border. The country’s moun
+tainous terrain and heavy snows would prove natural barriers against
+a mechanized enemy.
+FATHER OF BASKETBALL,"
+DR. NAISMITH, DIES TODAY;
+HE STARTED GREAT SPORT
+LAWRENCE, Kansas, Nov. 28.—
+Dr. James A. Naismith. who became
+known around the world as the “fa
+ther of basketball" died at 1:50 o'
+clock this morning as the result
+I of heart disease following a cere
+bral hemorrhage.
+The game of basketball originat
+1 ed as a means of winter exercise
+for a class at the Y. M. C. A. Train
+ing School at Springfield, Mass.,
+now Springfield College, met w’ltli
+popularity from the beginning.
+Unlike other games which evolved
+from middle century sports or re
+sulted from years of changes and
+perfections, basketball came into be
+ing almost on the spur of the mo
+ment. That was back in 1891 when
+j the physical training class at Spring
+field consisted of 18 men.
+How Started
+Dr. Luther H. Gulick. then head
+of the physical Lraininng depart
+ment, was hard put to keep the
+men busy outside the regular class
+exercises during the period from
+December to March. He wanted
+omething that would keep the men
+in the top of physical condition
+during the winter so that they
+could take up their spring activi
+ties without undue fatigue or over
+exertion.
+Discussing with Dr. Naismith the
+problem that confronted him, Dr.
+Guliek instructed his assistant to
+invent some sort of a game that
+would occupy all the men and which
+could be played on the gymnasium
+floor.
+Dr. Naismith beian a study of
+various games and forms of exercise,
+including duck-on-tlie-rock, lacrosse
+and Rugby football. In a short time
+he presented his plan and it met
+iContinued on Page Five)
+MANY NAZI
+PRISONERS
+ARE TAKEN
+
+Ships Landing Crews of
+Sunk and Captured
+German Vessels
+LONDON. Nov. 28.—The British
+Admiralty announced today that a
+British auxiliary cruiser had land
+ed 73 German prisoners, including
+12 officers, at a Scottish port.
+It is understood the Germans are
+survivors of a sunken submarine
+and three German freighters whose
+fate has not been disclosed
+The armed merchantman Chitra.
+which brought home 11 survivors
+of the Rawalpindi, also landed 32
+German sailors from a ship cap
+tured in waters near Iceland where
+the Rawalpindi was sunk.
+60V. OLSON
+INTERVENES
+BIG STRIKE
+California State Harbor
+Board May Take Over
+San Francisco Port
+SACRAMENTO, Cal., Nov. 28
+Gov. Culbert L. Olson lias addressed
+letters to the San Francisco em
+ployers and also representatives of
+the striking clerks’ union asking
+consent for the State Harbor Board
+l.o take over temporary operation of
+the port of San Francisco.
+Gov. Olson said it will be a good
+thing if the State takes over control
+With the same conditions prevailing
+as were in existence before the tie
+up over two weeks ago.
+Gov. Olson said the Harbor Board
+I will operate impartially as an
+agency of the State.
+Gov. Olson further told the news
+men at a conference that it, might
+be a splendid thing if consideration
+is given to make the extension of
+the State’s operations in this respect
+I as permanent.
+Gov. Olson reiterated he consid
+i ers the State is warranted in inter
+i vening in the shipping controversy
+I since the ‘'State is suffering con
+siderable loss in revenues because
+of the tie-up."
+i BRITISH WILL BE
+RATIONED BUTTER
+BACON, JANUARY
+Only Four Ounces a Week
+to Be Permitted-Sugar
+Restriction Also
+LONDON, Nov. 28.—British Food
+Minister Morrison told the members
+of the House of Commons today
+that butter and bacon rationing will
+start January 8 and purchases will
+be restricted to four ounces a week
+to consumers.
+The Food Minister also asked con
+sumers to restrict their purchases
+of sugar to one pound a person a
+week though sugar is not rationed.
+Americans Warned to
+Leave Italy; Nation
+Expects to Be in War
+BOSTON, Nov. 28.—Americans in
+Italy have been warned to leave as
+i soon as possible because Italy ex
+pects to be involved in the war by
+spring, according to American oas
+sengers arriving from Mediterran
+ean ports aboard the steamship
+Excalibur.
+As Byrd Expedition Sailed for Antarctic
+Ur. Wade with pet dog
+Admiral Richard E. Byrd
+These pictures were taken in Boston shortly before
+Admiral Richard E. Byrd's South Pole expedition
+departed for its Antarctic base. Byrd is shown
+on the gangplana of the North Star, the lead ship.
+The other picture shows Dr. F. A. Wade, expedi
+tion member, and Navy, a pet dog, which will b«
+the sixth member of the giant snow cruiser after
+the expedition reaches its destination.
+GARNERITES COUNT ON OKIES
+TO HELP SWING CALIFORNIA
+NIGHT FLIGHT IS
+MADE OVER PART
+OF GERMAN LAND
+Royal Air Force Reports
+Successful Reconnais
+sance, No Resistance
+LONDON. Nov. 28.—The British
+Air Ministry announces that Royal
+Air Force planes made a “most
+successful reconnaissance flight over
+northwestern Germany last night,
+returning safely, encountering no
+resistance.”
+FIRST WARTIME
+PARLIAMENT OF
+FRANCE TO MEET
+Decree Powers of Dala
+dier Expire Thursday
+-Finances Up
+—1
+PARIS, Nov. m.—Prance is pre
+paring today for the first wartime
+session of Parliament which con
+venes Thursday when Premier Dala
+I dier's decree powers expire.
+The question of finances is ex
+pected to provide the major battle
+of the session but Government
+1 quarters express assurance that the
+Premier will be given a strong vote
+1 of confidence.
+Stock Quotations
+NEW YORK. Nov. 28. Closing
+quotation of Alaska Juneau mine
+•stock today is 6%, American Can j
+111%, American Power and Light I
+4 ‘4, Anaconda 31%, Bethlehem
+Steel 81 ti, Commonwealth and
+Southern 1%, Curtiss Wright 10,
+General Motors 53%. International
+Harvester 58'i, Kennecott 39’i,
+New York Central 18 h, Northern
+Pacific 9%, United States Steel
+67%, Pound $3.91 g.
+j DOW, JONES AVERAGES
+The following are today's Dow,*
+Jones averages: industrials 148 31,
+rails 32.85, utilities 25.35.
+By PRESTON GROVER
+WASHINGTON, Nov, 28.—Garner
+supporters say they will get the
+California delegation to the Demo
+cratic National Convention because
+there are more Texans there than na
+tives from any other state. Also,
+j they add, tire jobless migrants who
+have poured in on California In the
+past three years have come mostly
+from Oklahoma and Arkansas,
+where the name of Garner is well
+known—and revered.
+Ex-Senator McAdoo, now opera
+tor of one of the government sub
+sidized merchant fleets operating
+on the Pacific, Is trying to see to
+it that Garner doesn't get the dele
+gation. How times change. In 1932
+Gamer and McAdoo pooled resources
+at the national convention in Chi
+cago to give Franklin D. Roosevelt
+the' nomination. In the trade, Gar
+ner got the Vice-Presidency.
+SHIP TRANSFER PROBLEM
+Washington is still enjoying the
+domestic diplomacy by which the
+j divergent statements of President
+I Roosevelt and Secretary Hull on the
+Panama ship transfer were recon
+ciled.
+The proposed transfer of a fleet
+of United States Lines freighters
+from the American flag to Pana
+ma registry so they could con
+tinue in the profitable war trade
+was described by Secretary Hull
+as contrary to the spirit of the neu
+trality law. The law prohibited Am
+erican ships carrying supplies to bel
+ligerents.
+On the same day. President
+Roosevelt said at Hyde Park that
+no question of neutrality was in- j
+volved but that he was holding up
+the transfer because of questions of
+national defense and maritime com
+merce policy. Later on he said the
+thing was perfectly legal and that
+in spite of what some people say
+the President is more or less bound
+by the law.
+Reporters began asking how
+the conflict between the Roose
+velt position and the Hull posi- j
+tion, considerably at odds, would
+be reconciled. At a late press con
+ference, the President turned the
+trick. Consideration must be given
+to the position in which Panama, a
+fellow neutral, would be placed by;
+the transfer of ships, the President'
+said. There is a real question, he j
+said, whether we want to put a sis- 1
+ter republic in a position on neutral
+ity that is different from our own. j
+That permitted the President to i
+point out that there is a neutral- i
+ity question Involved, as Hull con-!
+tended. Possibly too hastily, many!
+observers assumed at once that the
+ships would not be transferred. But1
+at any rate the government's two
+big guns on foreign policy had found
+(Continued on Page Seven)
+DODGES QUESTION
+ABOUT PROPOSED
+EUROPEAN PEACE
+
+British Prime Minister
+Evades Demands for
+Clear Statement
+LONDON, Nov. 28 —In the House
+of Commons today, Prime Minister
+Chamberlain evaded r.ew demands
+to make a more clear-cut definition
+of Great Britain's peace aims in the
+present war following his “peace
+in Europe ultimately" radio address
+of last Sunday night.
+Chamberlain dodged the issue by
+saying: “It is absolutely futile to
+attempt to lay down today condi
+tions under which a new world in
+Europe will be created when Great
+Britain wins the present conflict.”
+Chamberlain discarded any possi
+bility of revival of the League of
+Nations at the end of the European
+war. He called the league a failure
+l as an Instrument of maintaining
+peace, although he said it had done
+valuable work in other fields.
+The Prime Minister also implied
+l a promise that the German people
+j would have a voice in the founding
+of a new Europe. Said he: "It may
+j be that there will also be the van
+quished to be taken into considera
+tion an dthey must have a voice
+before we can decide how a new
+and better world is to be laid out.”
+JAPAN REQUESTS
+RUSSIA'S REPLY
+ON FISHING PACT I
+Declares Settlement Vital
+to Future Good
+Relations
+TOKYO, Nov. 28.—Japan has re
+quested Russian replies to overtures
+in conclusion of the new fisheries i
+pact which is regarded as vital for
+improvement of Russia-Japanese re
+lations.
+The request is made by Foreign
+Minister Admiral Momura in an in
+terview with Constantin Smetanin,
+Russian Ambassador.
+The present fisheries pact expires
+at the end of this year. The pact
+governs Japanese fishing in Rus
+sian territorial waters.
+GOOD NEWS
+WASHINGTON, Nov. 28.--Sena
+tor Key Pittman says that un in
+crease in United States shipping
+to Pacific and Latin American
+ports soon will recall to service
+most of the merchant marine ves
+sels forced into idleness.
+WAR ACTION
+IS SEEN IN
+LATE MOVE
+__
+Official Soviet Radio An
+nouncement Indicates
+Troops May Move
+RUSSIA HAS DENOUNCED
+PACT OF NONAGGRESSION
+Entire Baltic Region Shock
+ed by Sudden Turn
+of Affairs
+BULLETIN'—MOSCOW, Nov.
+28.—Finland Is openly threat
+ened with Invasion of Russian
+troops tonight by the Govern
+ment in an official Moscow
+radio. The threat of war be
+tween the Soviet Union and the
+tiny north country followed
+within a few hours the cancel
+lation of the nonaggression pact.
+It is broadly hinted Russia will
+fight for a naval base and also
+additional territory near Lenin
+grad.
+PACT DENOUNCED
+HELSINKI, Finland, Nov. 28
+The Foreign Office spokesman an
+nounces that Russia has denounced
+the nonaggression pact with Fin
+land, made In 1928, and is no longer
+binding.
+The note, it is stated, has been
+handed to the Finnish Minister in
+Moscow.
+The Soviet action, although re
+ceived with outward calm by the
+Foreign Office, lias shocked Finland
+more than any other step and "war
+I nerves” are mounting as high in the
+Baltic region as they did after the
+German-Soviet partition of Poland.
+The Foreign Office spokesman
+said the Russian note was very "un
+conciliatory.”
+FINN-RUSSO
+RELATIONS
+STRAINING
+Situation on Border Most
+Acute-Demand Made
+Troops Withdraw
+(By Associated Press)
+The mounting nnnish Russian
+crisis shares the European spotlight
+with increasing bitter German and
+Allied conflict on the high seas.
+While British maritime losses in
+the war with Germany mounted,
+the western front remains quiet.
+Finland has replied with an offer
+to compromise on Russia's demands
+for withdrawal of Finnish troops
+from the frontier.
+Finland agrees to make such
+withdrawal If Russia will do like
+wise.
+No Hostile Intentions
+The Finnish Government, deny
+ing hostile Intentions, suggests the
+dispute be referred to a joint com
+mission established last year to
+take care of border problems.
+Thus Finland has tactfully left
+the door open to Russia to renew
+negotiations broken off on Novem
+ber 13 when the Finns refused the
+Soviet demands for military con
+cessions.
+The crisis in the Finnish-Russian
+(Continued on Page Three)

@@ -1,0 +1,235 @@
+{
+  "$comment": "Walkable bounds for free roam in albright-ss-america.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 2.9,
+  "walkable": {
+    "x_min": -4.05,
+    "x_max": 4.1,
+    "z_min": -15.6,
+    "z_max": 2.6
+  },
+  "obstacles": [
+    {
+      "name": "armchair_b1",
+      "x_min": -3.207,
+      "x_max": -1.993,
+      "z_min": -10.306,
+      "z_max": -9.094
+    },
+    {
+      "name": "armchair_b2",
+      "x_min": -2.994,
+      "x_max": -1.806,
+      "z_min": -12.191,
+      "z_max": -11.009
+    },
+    {
+      "name": "armchair_p1",
+      "x_min": 0.73,
+      "x_max": 1.67,
+      "z_min": -8.078,
+      "z_max": -7.122
+    },
+    {
+      "name": "armchair_p2",
+      "x_min": 1.83,
+      "x_max": 2.77,
+      "z_min": -8.078,
+      "z_max": -7.122
+    },
+    {
+      "name": "armchair_r1",
+      "x_min": 0.987,
+      "x_max": 2.113,
+      "z_min": -5.268,
+      "z_max": -4.132
+    },
+    {
+      "name": "armchair_r2",
+      "x_min": 1.556,
+      "x_max": 2.744,
+      "z_min": -3.891,
+      "z_max": -2.709
+    },
+    {
+      "name": "artifact_patterned_armchair",
+      "x_min": -1.518,
+      "x_max": -0.382,
+      "z_min": -3.713,
+      "z_max": -2.587
+    },
+    {
+      "name": "artifact_sofa",
+      "x_min": -2.335,
+      "x_max": -0.165,
+      "z_min": -5.603,
+      "z_max": -4.597
+    },
+    {
+      "name": "end_table",
+      "x_min": -2.246,
+      "x_max": -1.454,
+      "z_min": -4.137,
+      "z_max": -3.263
+    },
+    {
+      "name": "low_table_1",
+      "x_min": -0.717,
+      "x_max": 0.116,
+      "z_min": -4.817,
+      "z_max": -3.984
+    },
+    {
+      "name": "low_table_2",
+      "x_min": 2.484,
+      "x_max": 3.317,
+      "z_min": -5.516,
+      "z_max": -4.683
+    },
+    {
+      "name": "low_table_b1",
+      "x_min": -3.416,
+      "x_max": -2.584,
+      "z_min": -11.017,
+      "z_max": -10.183
+    },
+    {
+      "name": "low_table_b2",
+      "x_min": -1.258,
+      "x_max": -0.342,
+      "z_min": -13.758,
+      "z_max": -12.842
+    },
+    {
+      "name": "side_chair_b1",
+      "x_min": -1.57,
+      "x_max": -0.83,
+      "z_min": -12.955,
+      "z_max": -12.225
+    },
+    {
+      "name": "side_chair_b2",
+      "x_min": -0.818,
+      "x_max": 0.018,
+      "z_min": -12.81,
+      "z_max": -11.971
+    },
+    {
+      "name": "side_chair_c1",
+      "x_min": 0.113,
+      "x_max": 0.981,
+      "z_min": -6.127,
+      "z_max": -5.255
+    },
+    {
+      "name": "side_chair_c2",
+      "x_min": 0.632,
+      "x_max": 1.468,
+      "z_min": -6.81,
+      "z_max": -5.971
+    },
+    {
+      "name": "side_chair_p",
+      "x_min": 2.93,
+      "x_max": 3.67,
+      "z_min": -8.055,
+      "z_max": -7.324
+    },
+    {
+      "name": "sofa_b1",
+      "x_min": -4.203,
+      "x_max": -3.197,
+      "z_min": -11.685,
+      "z_max": -9.515
+    },
+    {
+      "name": "sofa_b2",
+      "x_min": -4.203,
+      "x_max": -3.197,
+      "z_min": -15.085,
+      "z_max": -12.915
+    },
+    {
+      "name": "sofa_r",
+      "x_min": 3.197,
+      "x_max": 4.203,
+      "z_min": -7.385,
+      "z_max": -5.215
+    },
+    {
+      "name": "artifact_columns_l",
+      "x_min": -2.05,
+      "x_max": -1.35,
+      "z_min": -2.85,
+      "z_max": -2.15
+    },
+    {
+      "name": "artifact_columns_r",
+      "x_min": 2.2,
+      "x_max": 2.8,
+      "z_min": -3.95,
+      "z_max": -3.35
+    },
+    {
+      "name": "partition",
+      "x_min": -0.25,
+      "x_max": 4.65,
+      "z_min": -9.05,
+      "z_max": -8.2
+    },
+    {
+      "name": "outside_behind_partition",
+      "x_min": 1.75,
+      "x_max": 4.65,
+      "z_min": -16.15,
+      "z_max": -8.35
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": -0.0,
+      "look_at": {
+        "x": 0.6,
+        "y": 1.5,
+        "z": -8.0
+      },
+      "note": "Viewpoint of the 1940 photograph: the tourist lounge towards the tapestry wall"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 1.0,
+      "z": -5.6,
+      "look_at": {
+        "x": 2.9,
+        "y": 1.5,
+        "z": -8.5
+      },
+      "note": "In front of the needlework panel and the clock"
+    },
+    {
+      "name": "hotspot_3",
+      "x": -1.6,
+      "z": -8.6,
+      "look_at": {
+        "x": -4.45,
+        "y": 1.5,
+        "z": -10.7
+      },
+      "note": "By the curtained windows of the lounge's long side"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -1.0,
+      "z": -14.6,
+      "look_at": {
+        "x": 0.8,
+        "y": 1.5,
+        "z": -2.0
+      },
+      "note": "From the back of the lounge, looking forward"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Realistic Talking Head</title>
+<link rel="stylesheet" href="common.css">
+<style>
+  table { width: 100%; border-collapse: collapse; font: 0.875rem/1.4 system-ui, sans-serif; }
+  th, td { text-align: left; vertical-align: top; padding: 6px 4px; border-bottom: 1px solid var(--line); }
+  .wrap { overflow-x: auto; }
+  .notrun { border: 2px dashed var(--line); padding: 24px 16px; text-align: center; font: 600 1rem/1.4 system-ui, sans-serif; color: var(--muted); aspect-ratio: 648 / 800; display: grid; place-items: center; background: var(--surface); }
+</style>
+</head>
+<body>
+<main>
+  <p class="kicker">Prototype P3 · realistic talking head (not run)</p>
+  <h1>Why there is no clip here</h1>
+  <p class="label warn">Not built. No model that passes our licence rule (code and weights) can produce an audio-driven talking head on this machine. Nothing third-party is downloaded or embedded below; demos are links only.</p>
+  <div class="notrun">Not run on 2026-10-09.<br>See the requirements table.</div>
+  <h2>What it would take</h2>
+  <div class="wrap"><table>
+    <tr><th>Option</th><th>Licence (code / weights)</th><th>Needs</th><th>Blocker here</th></tr>
+    <tr><td>LivePortrait + JoyVASA (audio to motion)</td><td>MIT / MIT; InsightFace detector non-commercial, swap for MediaPipe</td><td>PyTorch, about 0.66 GB human weights + JoyVASA weights; CUDA-tested</td><td>357 MB free disk; JoyVASA untested on Apple MPS</td></tr>
+    <tr><td>SadTalker</td><td>Apache-2.0 / MIT tag; third-party list unread</td><td>PyTorch, CPU possible, slow, 256-512 px soft output</td><td>Disk; output quality; 2024 code</td></tr>
+    <tr><td>LongCat-Video-Avatar 1.5</td><td>MIT / MIT</td><td>13.6B base; a 24 GB+ NVIDIA GPU</td><td>No such GPU; free Colab bars deepfakes</td></tr>
+  </table></div>
+  <h2>Demo pages (links only)</h2>
+  <ul class="source">
+    <li><a href="https://github.com/KlingAIResearch/LivePortrait">LivePortrait repository (README has demo clips)</a></li>
+    <li><a href="https://github.com/jdh-algo/JoyVASA">JoyVASA repository</a></li>
+    <li><a href="https://github.com/OpenTalker/SadTalker">SadTalker repository</a></li>
+  </ul>
+  <p class="source">Detail and sources: docs/research/direction/B4-A1-realistic-talking-heads.md and B4-A4-avatar-prototypes.md.</p>
+</main>
+</body>
+</html>

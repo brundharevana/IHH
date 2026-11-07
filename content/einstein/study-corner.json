@@ -1,0 +1,242 @@
+{
+  "$comment": "The recreated study corner in chapter 2's scanned room (Task 6). Only object kinds visible in the basis photographs, each declared with the photographs it is visible in (the declared-items rule, src/museum/reconstruction.js validateCorner; tools/content_check.py validate_corner). Models come from the owner-approved source below (the bookcase and the desk; the lamp and the bentwood chair are our own procedural pieces); bundles are written by tools/build_study_corner.py.",
+  "chapter": 2,
+  "area": "study-corner",
+  "label": "Recreation based on photographs: National Archives 80-G-42918, 80-G-42919",
+  "basis_media_ids": [
+    "EIN-M-0013",
+    "EIN-M-0014"
+  ],
+  "photo_group": "study",
+  "label_at": {
+    "x": 3.55,
+    "z": -1.07,
+    "rotY": 0
+  },
+  "light": {
+    "from": [
+      3.3,
+      2.6,
+      -2.95
+    ],
+    "to": [
+      3.2,
+      0.5,
+      -1.5
+    ]
+  },
+  "objects": [
+    {
+      "id": "bookcase",
+      "kind": "bookcase",
+      "model": "bookcase",
+      "x": 3.4,
+      "z": -2.1,
+      "rotY": 0,
+      "w": 1.3,
+      "d": 0.6,
+      "h": 2.2,
+      "basis_media_ids": [
+        "EIN-M-0013",
+        "EIN-M-0014"
+      ]
+    },
+    {
+      "id": "books",
+      "kind": "books",
+      "parent": "bookcase",
+      "basis_media_ids": [
+        "EIN-M-0013",
+        "EIN-M-0014"
+      ]
+    },
+    {
+      "id": "lamp",
+      "kind": "lamp",
+      "x": 2.55,
+      "z": -2.2,
+      "rotY": 0,
+      "w": 0.35,
+      "d": 0.35,
+      "h": 1.7,
+      "basis_media_ids": [
+        "EIN-M-0013",
+        "EIN-M-0014"
+      ]
+    },
+    {
+      "id": "desk",
+      "kind": "desk",
+      "model": "desk",
+      "x": 3.55,
+      "z": -1.42,
+      "rotY": 0,
+      "w": 1.0,
+      "d": 0.6,
+      "h": 0.76,
+      "basis_media_ids": [
+        "EIN-M-0013",
+        "EIN-M-0014"
+      ]
+    },
+    {
+      "id": "papers",
+      "kind": "papers",
+      "parent": "desk",
+      "basis_media_ids": [
+        "EIN-M-0013",
+        "EIN-M-0014"
+      ]
+    },
+    {
+      "id": "book-stack",
+      "kind": "book-stack",
+      "parent": "desk",
+      "basis_media_ids": [
+        "EIN-M-0013",
+        "EIN-M-0014"
+      ]
+    },
+    {
+      "id": "chair",
+      "kind": "chair",
+      "x": 2.8,
+      "z": -1.42,
+      "rotY": 1.570796,
+      "w": 0.42,
+      "d": 0.45,
+      "h": 0.9,
+      "basis_media_ids": [
+        "EIN-M-0013",
+        "EIN-M-0014"
+      ]
+    }
+  ],
+  "models": {
+    "bookcase": {
+      "source": "renend",
+      "node": "SM_Kitaplik_P1",
+      "yaw_deg": 230,
+      "scale": "uniform",
+      "includes": [
+        "books"
+      ]
+    },
+    "desk": {
+      "source": "renend",
+      "node": "M_Masa_P1",
+      "yaw_deg": 90,
+      "scale": "fit",
+      "includes": []
+    }
+  },
+  "sources": [
+    {
+      "id": "renend",
+      "title": "Modular Vintage Living Room - Game Ready PBR",
+      "author": "Renend Studio",
+      "author_url": "https://sketchfab.com/RenendStudio",
+      "url": "https://sketchfab.com/3d-models/modular-vintage-living-room-game-ready-pbr-d83c3f837bae4c9aa52fafc476500386",
+      "licence": "CC BY 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit_source": "Sketchfab Data API https://api.sketchfab.com/v3/models/d83c3f837bae4c9aa52fafc476500386 fields name, user.displayName, user.profileUrl and license, read 2026-10-13",
+      "source_file": "modular-vintage-living-room-game-ready-pbr.zip",
+      "source_member": "source/Vintage_Living_Room.glb",
+      "source_sha256": "09e6ce8628779b2fdea80ac01f41f8ae5bb459dc5372d740830500b411e91b2f",
+      "credit": "\"Modular Vintage Living Room - Game Ready PBR\" by Renend Studio, CC BY 4.0.",
+      "changes": "Changes: only the bookcase and the table are used, each on its own; the bookcase is scaled uniformly and the table is rescaled to a desk's size; meshes recompressed (meshopt) and textures resized and recompressed (KTX2). The kit's chairs, paintings, telephone, radiators and other props are not used.",
+      "kit_check": {
+        "date": "2026-10-13",
+        "result": "pass",
+        "checks": [
+          "Archive contents listed: one GLB (Blender glTF I/O v5.1.19) and 61 texture files.",
+          "Material, mesh, node and image names in the GLB read in full: Turkish-named custom assets (Dolap, Kitaplik, Masa_Takimi, Sandalye, Somine, Koltuk, Avize, Lambader, Kalorifer, Tablo, Cevirmeli_Ev_Telefonu, Hali, Pecete, Cicekler) and two ambientCG CC0 materials under their ambientCG ids (Wood067, WoodFloor057). No Quixel/Megascans, TurboSquid, CGTrader, Fab, Evermotion or KitBash3D names or ids.",
+          "GLB asset block and extras: generator only, no copyright or author fields from another vendor.",
+          "Texture file metadata (PNG text chunks, JPEG EXIF/XMP): none, apart from JFIF headers and one ICC profile on Sketchfab's own internal_ground_ao_texture.jpeg.",
+          "Used textures viewed (Kitaplik, Dolap, Masa_Takimi): hand-made texture atlases for these meshes, no watermark, logo or third-party label.",
+          "Sketchfab Data API record: published by Renend Studio on 2026-08-26 under CC Attribution, 105,279 faces."
+        ],
+        "excluded": {
+          "nodes": [
+            "SM_Tablo_P1",
+            "SM_Tablo_P1.001",
+            "SM_Tablo_P1.002",
+            "SM_Tablo_1_P1",
+            "SM_Tablo_2_P1",
+            "SM_Tablo_3_P1",
+            "SM_Cevirmeli_Ev_Telefonu",
+            "SM_Kalorifer",
+            "SM_Kalorifer_2",
+            "SM_Kalorifer.001"
+          ],
+          "images": [
+            "Tablo_P1_Albedo",
+            "Tablo_P1_Roughness"
+          ],
+          "reason": "Tablo_P1_Albedo carries three painting images of unknown origin and rights (a landscape with ruins, a mountain landscape, a tree); they are never shipped. The rotary telephone and the radiators are not visible in the basis photographs."
+        },
+        "reverse_image_search": "Done 2026-10-13 for the three preview images on the model page (https://i.imgur.com/2IGOXIp.jpeg, https://i.imgur.com/bWJqLDk.jpeg, https://i.imgur.com/2fnGybe.jpeg) with Bing Visual Search by image URL: \"Pages with this image\" found no page for any of the three, and the visual matches are other rooms of a similar style, none the same render. TinEye stopped at a bot check (not bypassed) and Google Lens could not read the imgur URLs. The second preview shows the kit's framed landscape painting (Tablo), which is never shipped. The three shipped colour atlases (Dolap, Kitaplik, Masa_Takimi) were not reverse-searched: they are not published at any URL, and the browser available here cannot upload a file (2026-10-14); they were viewed in full and are hand-made texture atlases for these meshes."
+      }
+    }
+  ],
+  "bundles": {
+    "phone": {
+      "file": "study/einstein/phone/corner.a8768e36.glb",
+      "bytes": 218936,
+      "sha256": "a8768e3654ace38b97892998d991c3b7673ab6bd21af2a471270ea7264aa1a99",
+      "tris": 3140,
+      "gpu_bytes": 596621,
+      "gpu_texture_bytes": 524286,
+      "gpu_geometry_bytes": 72335,
+      "textures": 3,
+      "texture_px": {
+        "color": 512,
+        "normal": 0,
+        "data": 0
+      },
+      "images": [
+        "Dolap_P1_Albedo",
+        "Kitaplik_P1_Albedo",
+        "Masa_Takimi_P1_Albedo"
+      ],
+      "texture_format": "KTX2 ETC1S (basisu -q 255, mipmaps, sRGB colour maps only)"
+    },
+    "desktop": {
+      "file": "study/einstein/desktop/corner.a8768e36.glb",
+      "bytes": 218936,
+      "sha256": "a8768e3654ace38b97892998d991c3b7673ab6bd21af2a471270ea7264aa1a99",
+      "tris": 3140,
+      "gpu_bytes": 1120910,
+      "gpu_texture_bytes": 1048575,
+      "gpu_geometry_bytes": 72335,
+      "textures": 3,
+      "texture_px": {
+        "color": 512,
+        "normal": 0,
+        "data": 0
+      },
+      "images": [
+        "Dolap_P1_Albedo",
+        "Kitaplik_P1_Albedo",
+        "Masa_Takimi_P1_Albedo"
+      ],
+      "texture_format": "KTX2 ETC1S (basisu -q 255, mipmaps, sRGB colour maps only)"
+    }
+  },
+  "model_sizes": {
+    "bookcase": [
+      1.298,
+      2.2,
+      0.601
+    ],
+    "desk": [
+      1.0,
+      0.76,
+      0.6
+    ]
+  },
+  "tooling": {
+    "gltfpack": "1.3",
+    "basisu": "2.50.0"
+  }
+}

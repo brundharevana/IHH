@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/301972196",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=301972196",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:27:47Z",
+  "sha256": "09c7cf96c3cee85b3f264729554dbd11d342d52a5f649e9b3441126f39f104a5",
+  "bytes": 4126,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=301972196"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "einstein-2",
+  "title": "The study at 112 Mercer Street",
+  "title_fact_ids": ["EIN-F-0087"],
+  "room": "reconstructed-place",
+  "accent": "#34463B",
+  "reconstruction": {
+    "basis_media_ids": ["EIN-M-0013", "EIN-M-0014", "EIN-M-0030", "EIN-M-0031", "EIN-M-0032", "EIN-M-0033"],
+    "basis_fact_ids": ["EIN-F-0087", "EIN-F-0086"],
+    "note": "Albert Einstein had a home study at 112 Mercer Street, Princeton, New Jersey.",
+    "place": {
+      "w": 5, "d": 4.5, "h": 2.8,
+      "unseen": ["west"],
+      "items": [
+        {"id": "bookcase-1", "kind": "bookcase", "x": -0.5, "z": -2.05, "rotY": 0, "w": 3.4, "d": 0.4, "h": 2.3, "basis": "EIN-M-0013"},
+        {"kind": "lamp", "x": -1.6, "z": -1.55, "rotY": 0, "w": 0.35, "d": 0.35, "h": 1.7, "basis": "EIN-M-0013"},
+        {"id": "desk-1", "kind": "desk", "x": 1.0, "z": -0.7, "rotY": -0.2, "w": 1.3, "d": 0.75, "h": 0.76, "basis": "EIN-M-0013"},
+        {"kind": "chair", "x": 1.3, "z": -1.45, "rotY": 0, "w": 0.45, "d": 0.45, "h": 0.9, "basis": "EIN-M-0013"},
+        {"kind": "chair", "x": -0.2, "z": -0.6, "rotY": 1.5708, "w": 0.45, "d": 0.45, "h": 0.9, "basis": "EIN-M-0013"},
+        {"kind": "table", "x": 2.1, "z": -1.0, "rotY": 0, "w": 0.5, "d": 0.5, "h": 0.65, "basis": "EIN-M-0014"},
+        {"kind": "document", "x": 2.47, "z": -1.2, "y": 1.2, "rotY": -1.5708, "w": 0.45, "d": 0.03, "h": 0.6, "basis": "EIN-M-0013"},
+        {"kind": "window", "x": 0.4, "z": 2.21, "y": 0.8, "rotY": 3.1416, "w": 2.2, "d": 0.06, "h": 1.4, "basis": "EIN-M-0033"},
+        {"kind": "window", "x": 2.0, "z": 2.21, "y": 0.8, "rotY": 3.1416, "w": 0.6, "d": 0.06, "h": 1.4, "basis": "EIN-M-0033"},
+        {"kind": "table", "x": 0.4, "z": 1.85, "rotY": 0, "w": 2.0, "d": 0.5, "h": 0.55, "basis": "EIN-M-0031"},
+        {"kind": "books", "parent": "bookcase-1", "basis_media_ids": ["EIN-M-0013", "EIN-M-0014"]},
+        {"kind": "papers", "parent": "desk-1", "basis_media_ids": ["EIN-M-0013", "EIN-M-0014"]},
+        {"kind": "book-stack", "parent": "desk-1", "basis_media_ids": ["EIN-M-0013", "EIN-M-0014"]}
+      ]
+    }
+  },
+  "narration": [
+    {"cue": "c1", "text": "Albert Einstein had a home study at 112 Mercer Street, Princeton, New Jersey.", "fact_ids": ["EIN-F-0087"], "reveals": []},
+    {"cue": "c2", "text": "Albert Einstein was working as a consultant to the United States Government during World War II.", "fact_ids": ["EIN-F-0054"], "reveals": []},
+    {"cue": "c3", "text": "Albert Einstein was doing research for the Bureau of Ordnance, in his study at Princeton, N.J.", "fact_ids": ["EIN-F-0055"], "reveals": ["ex1", "ex2"]},
+    {"cue": "c4", "text": "Nine letters were written by Albert Einstein to Lieutenant Stephen Brunauer of the Research and Development Division.", "fact_ids": ["EIN-F-0062"], "reveals": []},
+    {"cue": "c5", "text": "The letters relate to Albert Einstein's research with the Research and Development Division of the Navy, specifically underwater explosions and a proposed electromagnetic torpedo detonator.", "fact_ids": ["EIN-F-0063"], "reveals": []},
+    {"cue": "c6", "text": "Albert Einstein's letter of June 18, 1943 to Lieutenant Stephen Brunauer discusses Albert Einstein's idea of an electro-magnetic device that will automatically explode a torpedo as it passes underneath a ship.", "fact_ids": ["EIN-F-0065"], "reveals": ["ex3"]},
+    {"cue": "c7", "text": "In a letter of July 30, 1943, Albert Einstein reveals that he has come up with a mathematical simplification to analyze the impact an underwater explosion would have on the hull of an armored ship.", "fact_ids": ["EIN-F-0067"], "reveals": []},
+    {"cue": "c8", "text": "Signed copies of a contract and naturalization papers were enclosed with Albert Einstein's letter of August 13, 1943 to Lieutenant Stephen Brunauer.", "fact_ids": ["EIN-F-0069"], "reveals": []},
+    {"cue": "c9", "text": "112 Mercer Street remained Albert Einstein's home until his death in 1955.", "fact_ids": ["EIN-F-0107"], "reveals": []}
+  ],
+  "exhibits": [
+    {"id": "ex1", "number": 1, "type": "framed-photograph", "wall": "west", "slot": 1,
+     "media_id": "EIN-M-0013", "original_media_id": "EIN-M-0013",
+     "title": "Albert Einstein in his study at Princeton, N.J.", "title_fact_ids": ["EIN-F-0055"],
+     "notes": [
+       {"text": "Dr. Albert Einstein is doing research for the Bureau of Ordnance, in his study at Princeton, N.J.", "fact_ids": ["EIN-F-0055"]}
+     ],
+     "evidence": "photograph"},
+    {"id": "ex2", "number": 2, "type": "framed-photograph", "wall": "west", "slot": 3,
+     "media_id": "EIN-M-0014", "original_media_id": "EIN-M-0014",
+     "title": "Albert Einstein had a study at his Princeton, N.J. home", "title_fact_ids": ["EIN-F-0086"],
+     "notes": [
+       {"text": "Albert Einstein had a study at his Princeton, N.J. home.", "fact_ids": ["EIN-F-0086"]}
+     ],
+     "evidence": "photograph"},
+    {"id": "ex3", "number": 3, "type": "360-document", "wall": "south", "slot": 4, "pages": [1],
+     "media_id": "EIN-M-0015", "original_media_id": "EIN-M-0015",
+     "title": "Albert Einstein's letter of June 18, 1943 to Lieutenant Stephen Brunauer", "title_fact_ids": ["EIN-F-0065"],
+     "notes": [
+       {"text": "Albert Einstein's letter of June 18, 1943 to Lieutenant Stephen Brunauer discusses Albert Einstein's idea of an electro-magnetic device that will automatically explode a torpedo as it passes underneath a ship.", "fact_ids": ["EIN-F-0065"]}
+     ],
+     "evidence": "record"}
+  ],
+  "quotes": []
+}

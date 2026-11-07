@@ -1,0 +1,10 @@
+{
+  "url": "https://www.eff.org/copyright",
+  "fetch_url": "https://www.eff.org/copyright",
+  "method": "http",
+  "fetched_at": "2026-10-30T19:03:19Z",
+  "sha256": "f370abb563c598658fe6fb9ad054aa82fd09ca8e23c7656b4734d99b7db2ec39",
+  "bytes": 8426,
+  "http_status": 200,
+  "final_url": "https://www.eff.org/copyright"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/resource/sn83045462/1921-04-25/ed-1/?sp=2",
+  "fetch_url": "https://www.loc.gov/resource/sn83045462/1921-04-25/ed-1/?sp=2&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-10T20:49:29Z",
+  "sha256": "ec8c6062d776321d5b4b67118b6a33559c6a72c3ed007c9ed8a7d2508af73bf9",
+  "bytes": 11234,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn83045462/1921-04-25/ed-1/?sp=2&fo=json"
+}

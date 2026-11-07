@@ -1,0 +1,19 @@
+title: File:Wiener Zentralfriedhof - Gruppe 33 G - Grab von Hedy Lamarr.jpg
+DateTime: 2016-07-25 16:13:03
+ObjectName: Wiener Zentralfriedhof - Gruppe 33 G - Grab von Hedy Lamarr
+CommonsMetadataExtension: 1.2
+Categories: Self-published work|Images by Haeferl|Files with coordinates missing SDC location of creation|Grave of Hedy Lamarr
+Assessments: quality
+GPSLatitude: 48.150945
+GPSLongitude: 16.439980
+GPSMapDatum: WGS-84
+ImageDescription: Grave of honor of Hedy Lamarr at the Vienna Central Cemetery
+DateTimeOriginal: 2016-05-26 16:43:18
+Credit: Own work
+Artist: Haeferl
+LicenseShortName: CC BY-SA 3.0
+UsageTerms: Creative Commons Attribution-Share Alike 3.0
+AttributionRequired: true
+LicenseUrl: https://creativecommons.org/licenses/by-sa/3.0
+Copyrighted: True
+License: cc-by-sa-3.0

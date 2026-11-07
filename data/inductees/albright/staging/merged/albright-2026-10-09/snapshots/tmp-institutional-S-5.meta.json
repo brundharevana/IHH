@@ -1,0 +1,10 @@
+{
+  "url": "https://obamawhitehouse.archives.gov/the-press-office/2012/04/26/president-obama-names-presidential-medal-freedom-recipients",
+  "fetch_url": "https://obamawhitehouse.archives.gov/the-press-office/2012/04/26/president-obama-names-presidential-medal-freedom-recipients",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:24:57Z",
+  "sha256": "4d33ca3e0073abf0b334dbdc7756c32fa93449c5831ac49ff52637b1ff034925",
+  "bytes": 16149,
+  "http_status": 200,
+  "final_url": "https://obamawhitehouse.archives.gov/the-press-office/2012/04/26/president-obama-names-presidential-medal-freedom-recipients"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-and-alaska.htm",
+  "fetch_url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-and-alaska.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:40:31Z",
+  "sha256": "9e95f3ae1729e4f35732c3efe5b05618c8ea0e7ce447d4bb090faa209d7e7f02",
+  "bytes": 7403,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-and-alaska.htm"
+}

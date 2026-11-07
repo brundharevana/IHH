@@ -1,0 +1,259 @@
+_version_: 1826664316336603136
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2025664761/
+aka[1]: http://www.loc.gov/item/2025664761/
+aka[2]: http://www.loc.gov/pictures/item/2025664761/
+aka[3]: https://hdl.loc.gov/loc.pnp/pcrd.1a03073
+aka[4]: https://hdl.loc.gov/loc.pnp/pcrd.1a03073
+aka[5]: https://hdl.loc.gov/loc.pnp/pcrd.2a03073
+aka[6]: https://hdl.loc.gov/loc.pnp/pcrd.2a03073
+aka[7]: http://www.loc.gov/resource/pcrd.1a03073/
+aka[8]: http://www.loc.gov/resource/pcrd.2a03073/
+aka[9]: http://lccn.loc.gov/2025664761
+call_number: PCRD 1 - District of Columbia - White House, no. 18 [P&P]
+created: 2025-03-11T05:57:19Z
+created_published[0]: [between 1908 and 1928]
+created_published_date: [between 1908 and 1928]
+date: 1908
+dates[0].1908: https://www.loc.gov/search/?dates=1908/1908&fo=json
+description[0]: 1 print : photomechanical print ; sheet 9 x 14 cm (postcard format)
+digital_id[0]: pcrd 1a03073 https://hdl.loc.gov/loc.pnp/pcrd.1a03073
+digital_id[1]: pcrd 2a03073 https://hdl.loc.gov/loc.pnp/pcrd.2a03073
+digitized: true
+display_offsite: true
+extract_timestamp: 2025-03-15T12:45:31.100Z
+extract_urls[0]: http://www.loc.gov/pictures/item/2025664761/#pp_other
+extract_urls[1]: http://lccn.loc.gov/2025664761#catalog-split-07
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Postcards--1900-1930.
+genre[0]: Postcards--1900-1930
+group[0]: pp_other
+group[1]: catalog-split-07
+group[2]: catalog
+group[3]: prints-and-photographs-other
+group[4]: main-catalog-split-07
+hassegments: false
+id: http://www.loc.gov/item/2025664761/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073_150px.jpg#h=97&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073r.jpg#h=415&w=640
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073v.jpg#h=664&w=1024
+index: 1
+item.call_number: PCRD 1 - District of Columbia - White House, no. 18 [P&P]
+item.control_number: 2025664761
+item.created: 2025-03-11T05:57:19Z
+item.created_published: [between 1908 and 1928]
+item.created_published_date: [between 1908 and 1928]
+item.date: [between 1908 and 1928]
+item.digital_id[0]: pcrd 1a03073 https://hdl.loc.gov/loc.pnp/pcrd.1a03073
+item.digital_id[1]: pcrd 2a03073 https://hdl.loc.gov/loc.pnp/pcrd.2a03073
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Postcards--1900-1930.
+item.formats[0].title: Postcards--1900-1930.
+item.genre[0]: Postcards--1900-1930
+item.id: 2025664761
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2025664761/
+item.marc: https://www.loc.gov/pictures/item/2025664761/marc/
+item.medium[0]: 1 print : photomechanical print ; sheet 9 x 14 cm (postcard format)
+item.medium_brief: 1 print :
+item.mediums[0]: 1 print : photomechanical print ; sheet 9 x 14 cm (postcard format)
+item.modified: 2025-03-11T05:57:23Z
+item.notes[0]: Title from item.
+item.notes[1]: Associated names: B.S. Reynolds Co.
+item.notes[2]: Numbers printed on card: R 6768.
+item.notes[3]: 19480.
+item.other_control_numbers[0]: 24051457
+item.part_of: Postcard filing series (Library of Congress)
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29
+item.place[0].title: District of Columbia--Washington (D.C.)
+item.raw_collections[0]: diof
+item.raw_collections[1]: pcrd
+item.raw_collections[2]: pp
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA https://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-pcrd-1a03073 (digital file from original, front)
+LC-DIG-pcrd-2a03073 (digital file from original, back)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/pcrd.1a03073
+item.resource_links[1]: https://hdl.loc.gov/loc.pnp/pcrd.2a03073
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073r.jpg
+item.sort_date: 1908
+item.source_collection[0]: Postcard filing series (Library of Congress)
+item.source_created: 2024-05-22T00:00:00Z
+item.source_modified: 2025-03-05T16:24:13Z
+item.subject_headings[0]: White House (Washington, D.C.)
+item.subject_headings[1]: Decorative arts--1900-1930.
+item.subject_headings[2]: Interiors--1900-1930.
+item.subject_headings[3]: United States--District of Columbia--Washington (D.C.).
+item.subject_headings[4]: District Of Columbia--Washington (D.C.)
+item.subjects[0]: White House (Washington, D.C.)
+item.subjects[1]: Decorative arts--1900-1930
+item.subjects[2]: Interiors--1900-1930
+item.subjects[3]: United States--District of Columbia--Washington (D.C.)
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073_150px.jpg
+item.title: East Room, White House, Washington, D.C.
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2025664761
+link: https://www.loc.gov/pictures/item/2025664761/
+location[0]: washington (d.c.)
+location[1]: district of columbia
+location[2]: united states
+location[3]: washington d.c.
+location_city[0]: washington (d.c.)
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington (d.c.): https://www.loc.gov/search/?fa=location:washington+%28d.c.%29&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington (d.c.): https://www.loc.gov/search/?fa=location_city:washington+%28d.c.%29&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+marc: https://www.loc.gov/pictures/item/2025664761/marc/
+medium[0]: 1 print : photomechanical print ; sheet 9 x 14 cm (postcard format)
+medium_brief: 1 print :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2025-03-11T05:57:23Z
+notes[0]: Title from item.
+notes[1]: Associated names: B.S. Reynolds Co.
+notes[2]: Numbers printed on card: R 6768.
+notes[3]: 19480.
+number[0]: 2025664761
+number[1]: http://www.loc.gov/item/24051457
+number[2]: 2025-03-05t16:24:13
+number[3]: sheet
+number_carrier_type[0]: sheet
+number_former_id[0]: http://www.loc.gov/item/24051457
+number_lccn[0]: 2025664761
+number_source_modified[0]: 2025-03-05t16:24:13
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 24051457
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2025664761/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2025664761/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2025664761/dc
+partof[0].count: 1162609
+partof[0].title: prints and photographs division
+partof[0].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[1].count: 1911021
+partof[1].title: catalog
+partof[1].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29
+place[0].title: District of Columbia--Washington (D.C.)
+raw_collections[0]: diof
+raw_collections[1]: pcrd
+raw_collections[2]: pp
+related.neighbors: https://www.loc.gov/pictures/related/?&pk=2025664761&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA https://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-pcrd-1a03073 (digital file from original, front)
+LC-DIG-pcrd-2a03073 (digital file from original, back)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/pcrd.1a03073
+resource_links[1]: https://hdl.loc.gov/loc.pnp/pcrd.2a03073
+resources[0].caption: digital file from original, front
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073_150px.jpg
+resources[0].url: https://www.loc.gov/resource/pcrd.1a03073/
+resources[1].caption: digital file from original, back
+resources[1].files: 1
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/pcrd/2a00000/2a03000/2a03000/2a03073_150px.jpg
+resources[1].url: https://www.loc.gov/resource/pcrd.2a03073/
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.461555
+shard: 00
+shelf_id: PCRD 1 - District of Columbia - White House, no. 18 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1908
+source_collection: Postcard filing series (Library of Congress)
+source_created: 2024-05-22T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: washington (d.c.)
+subject[1]: decorative arts
+subject[2]: united states
+subject[3]: postcards
+subject[4]: district of columbia
+subject[5]: interiors
+subject[6]: white house (washington, d.c.)
+subject_headings[0]: White House (Washington, D.C.)
+subject_headings[1]: Decorative arts--1900-1930
+subject_headings[2]: Interiors--1900-1930
+subject_headings[3]: United States--District of Columbia--Washington (D.C.)
+subjects[0].decorative arts: https://www.loc.gov/search/?fa=subject:decorative+arts&fo=json
+subjects[1].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[2].interiors: https://www.loc.gov/search/?fa=subject:interiors&fo=json
+subjects[3].postcards: https://www.loc.gov/search/?fa=subject:postcards&fo=json
+subjects[4].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[5].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+subjects[6].white house (washington, d.c.): https://www.loc.gov/search/?fa=subject:white+house+%28washington,+d.c.%29&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073_150px.jpg
+timestamp: 2025-03-15T12:47:22.291Z
+title: East Room, White House, Washington, D.C.
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/2025664761/
+resources[0].caption: digital file from original, front
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 22546456
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/pcrd/1a00000/1a03000/1a03000/1a03073u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 97
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 73412
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 415
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].size: 138543
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073r.jpg
+resources[0].files[0][2].width: 640
+resources[0].files[0][3].height: 664
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 687979
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073v.jpg
+resources[0].files[0][3].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/pcrd/1a00000/1a03000/1a03000/1a03073_150px.jpg
+resources[0].url: https://www.loc.gov/resource/pcrd.1a03073/
+resources[1].caption: digital file from original, back
+resources[1].files[0][0].height: 0
+resources[1].files[0][0].levels: 1
+resources[1].files[0][0].mimetype: image/tiff
+resources[1].files[0][0].size: 22539834
+resources[1].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/pcrd/2a00000/2a03000/2a03000/2a03073u.tif
+resources[1].files[0][0].width: 0
+resources[1].files[0][1].height: 97
+resources[1].files[0][1].levels: 1
+resources[1].files[0][1].mimetype: image/jpeg
+resources[1].files[0][1].size: 70203
+resources[1].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/pcrd/2a00000/2a03000/2a03000/2a03073_150px.jpg
+resources[1].files[0][1].width: 150
+resources[1].files[0][2].height: 415
+resources[1].files[0][2].levels: 1
+resources[1].files[0][2].mimetype: image/jpeg
+resources[1].files[0][2].size: 93224
+resources[1].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/pcrd/2a00000/2a03000/2a03000/2a03073r.jpg
+resources[1].files[0][2].width: 640
+resources[1].files[0][3].height: 664
+resources[1].files[0][3].levels: 1
+resources[1].files[0][3].mimetype: image/jpeg
+resources[1].files[0][3].size: 347175
+resources[1].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/pcrd/2a00000/2a03000/2a03000/2a03073v.jpg
+resources[1].files[0][3].width: 1024
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/pcrd/2a00000/2a03000/2a03000/2a03073_150px.jpg
+resources[1].url: https://www.loc.gov/resource/pcrd.2a03073/
+cite_this.apa: () East Room, White House, Washington, D.C. Washington D.C. District of Columbia United States Washington D.C,. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2025664761/.
+cite_this.chicago: East Room, White House, Washington, D.C. Washington D.C. District of Columbia United States Washington D.C,. Photograph. https://www.loc.gov/item/2025664761/.
+cite_this.mla: East Room, White House, Washington, D.C. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2025664761/>.

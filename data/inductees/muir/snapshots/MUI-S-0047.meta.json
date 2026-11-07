@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/ca0124/",
+  "fetch_url": "https://www.loc.gov/item/ca0124/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:38:32Z",
+  "sha256": "fae2a8b563c693e07e680846ed31b7a918e38c5b203fddd9e4bd5143a961ef27",
+  "bytes": 76448,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/ca0124/?fo=json"
+}

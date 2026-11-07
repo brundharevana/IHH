@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/muwo/learn/historyculture/historyofmuirwoods.htm",
+  "fetch_url": "https://www.nps.gov/muwo/learn/historyculture/historyofmuirwoods.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:35:49Z",
+  "sha256": "9d402b4acd8ee82bf21ed7dd9fc4acb3fbd66c096c1652967265e63e0848a5c2",
+  "bytes": 15445,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/muwo/learn/historyculture/historyofmuirwoods.htm"
+}

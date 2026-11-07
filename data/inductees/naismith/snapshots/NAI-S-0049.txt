@@ -1,0 +1,14 @@
+title: File:JNAISMITH.jpg
+DateTime: 2018-11-03 05:44:37
+ObjectName: JNAISMITH
+CommonsMetadataExtension: 1.2
+Categories: James Naismith|PD US expired|PD-US missing SDC copyright status
+ImageDescription: 1905 image of Dr. James Naismith from page 31 of Spalding's official collegiate basket ball guide.
+DateTimeOriginal: 1905-11-03
+Credit: https://www.flickr.com/photos/internetarchivebookimages/14762830762/
+Artist: Harry A. Fisher
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

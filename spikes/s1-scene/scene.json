@@ -1,0 +1,220 @@
+{
+  "schema": "ihh-scene/1",
+  "id": "s1-gym-stand-in",
+  "title": "Gymnasium-like room (generic stand-in)",
+  "evidence": {
+    "tier": "illustrative",
+    "label": "Illustrative reconstruction (spike)",
+    "summary": "Generic stand-in room built from primitives and two CC0 props. Not a depiction of any real place or period.",
+    "refs": []
+  },
+  "render": {
+    "mode": "baked-equirect",
+    "pano": {
+      "src": "pano/room-4096.webp",
+      "preview": "pano/room-1024.webp",
+      "w": 4096,
+      "h": 2048,
+      "projection": "equirectangular",
+      "yawOffsetDeg": 0,
+      "convention": "yaw 0 = image centre = north (-Z); yaw +90 deg = east (+X); pitch +90 = up"
+    },
+    "builder": {
+      "kit": "s1-gym-v0",
+      "seed": 7,
+      "eye": [
+        0,
+        1.6,
+        0
+      ],
+      "engine": "three@0.186.1 (r186)",
+      "toneMapping": "NeutralToneMapping",
+      "cubeFacePx": 2048,
+      "bakedAt": "2026-10-09T00:06:02.970Z"
+    }
+  },
+  "stops": [
+    {
+      "id": "s0",
+      "yawDeg": 0,
+      "pitchDeg": 0,
+      "fovDeg": 80,
+      "label": "Facing north"
+    }
+  ],
+  "hotspots": [
+    {
+      "id": "h-basket",
+      "order": 2,
+      "label": "Basket on a post, north end",
+      "description": "A wicker basket fixed to a wooden post at the north end of the room, about three metres above the floor. It is a generic CC0 prop used as a stand-in; it does not depict any real object.",
+      "anchor": {
+        "world": [
+          0,
+          2.973,
+          -7.35
+        ],
+        "source": {
+          "object": "basket-north"
+        }
+      },
+      "derived": {
+        "yawDeg": 0,
+        "pitchDeg": 10.58,
+        "distanceM": 7.48
+      },
+      "expectObject": "basket-north",
+      "fact_ids": [],
+      "artifact_id": null,
+      "content_status": "placeholder"
+    },
+    {
+      "id": "h-chalkboard",
+      "order": 3,
+      "label": "Standing chalkboard",
+      "description": "A free-standing chalkboard on the north-east side of the floor, turned toward the viewer. It is a CC0 3D model placed as a stand-in and carries no text.",
+      "anchor": {
+        "world": [
+          3.212,
+          0.755,
+          -4.394
+        ],
+        "source": {
+          "object": "chalkboard-standing"
+        }
+      },
+      "derived": {
+        "yawDeg": 36.17,
+        "pitchDeg": -8.82,
+        "distanceM": 5.51
+      },
+      "expectObject": "chalkboard-standing",
+      "fact_ids": [],
+      "artifact_id": null,
+      "content_status": "placeholder"
+    },
+    {
+      "id": "h-track",
+      "order": 1,
+      "label": "Running track balcony",
+      "description": "A raised walkway runs around the room above head height, with a wooden rail and balusters. From the floor you see the rail and the underside; the walking surface is out of sight. Generic construction, not measured from any real building.",
+      "anchor": {
+        "world": [
+          -5.5,
+          4.62,
+          3
+        ],
+        "source": {
+          "world": true
+        }
+      },
+      "derived": {
+        "yawDeg": -118.61,
+        "pitchDeg": 25.74,
+        "distanceM": 6.95
+      },
+      "expectObject": "balcony",
+      "fact_ids": [],
+      "artifact_id": null,
+      "content_status": "placeholder"
+    },
+    {
+      "id": "h-windows",
+      "order": 4,
+      "label": "Tall windows, east wall",
+      "description": "A row of tall windows in the east wall, above the balcony rail. They supply the daylight in the picture.",
+      "anchor": {
+        "world": [
+          6.95,
+          6,
+          -3
+        ],
+        "source": {
+          "world": true
+        }
+      },
+      "derived": {
+        "yawDeg": 66.65,
+        "pitchDeg": 30.17,
+        "distanceM": 8.76
+      },
+      "expectObject": "window-east",
+      "fact_ids": [],
+      "artifact_id": null,
+      "content_status": "placeholder"
+    }
+  ],
+  "assets": [
+    {
+      "id": "standing_chalkboard_01",
+      "provider": "Poly Haven",
+      "licence": "CC0-1.0",
+      "pageUrl": "https://polyhaven.com/a/standing_chalkboard_01",
+      "resolution": "1k",
+      "declaredBytes": 2617256,
+      "role": "chalkboard-standing"
+    },
+    {
+      "id": "wicker_basket_01",
+      "provider": "Poly Haven",
+      "licence": "CC0-1.0",
+      "pageUrl": "https://polyhaven.com/a/wicker_basket_01",
+      "resolution": "1k",
+      "declaredBytes": 2730151,
+      "role": "basket-north"
+    }
+  ],
+  "a11y": {
+    "alt": "Illustrative reconstruction (spike): a generic gymnasium-like room seen from its centre, with a wooden floor, a raised running-track balcony, two basket-and-post stations at the north and south ends, tall windows, and chalkboards.",
+    "longDescription": "The room is a generic stand-in. A wooden floor with painted court lines fills the centre. A raised balcony with a wooden rail and balusters runs around all four sides. At the north end a wicker basket is fixed to a post; at the south end a hoop with a net is fixed to a second post. A standing chalkboard sits on the north-east side. Tall windows line the east and west walls above the balcony. A small calibration panel (the letter N), a red cube and a yellow disc are test markers used to check the image is not mirrored; they are not part of any real room."
+  },
+  "budgets": {
+    "panoKB": 1500,
+    "textureMax": 4096
+  },
+  "gates": {
+    "handedness": {
+      "pass": true,
+      "checks": [
+        {
+          "name": "red cube (east, +X) at expected direction",
+          "pass": true
+        },
+        {
+          "name": "yellow ceiling lamp (up) at expected direction",
+          "pass": true
+        },
+        {
+          "name": "N glyph on north wall reads un-mirrored, upright",
+          "pass": true
+        }
+      ]
+    },
+    "objectId": [
+      {
+        "hotspot": "h-basket",
+        "expect": "basket-north",
+        "got": "basket-north",
+        "pass": true
+      },
+      {
+        "hotspot": "h-chalkboard",
+        "expect": "chalkboard-standing",
+        "got": "chalkboard-standing",
+        "pass": true
+      },
+      {
+        "hotspot": "h-track",
+        "expect": "balcony",
+        "got": "balcony",
+        "pass": true
+      },
+      {
+        "hotspot": "h-windows",
+        "expect": "window-east",
+        "got": "window-east",
+        "pass": true
+      }
+    ]
+  }
+}

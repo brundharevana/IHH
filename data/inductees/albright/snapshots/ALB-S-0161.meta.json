@@ -1,0 +1,10 @@
+{
+  "url": "https://www.archives.gov/global-pages/privacy.html",
+  "fetch_url": "https://www.archives.gov/global-pages/privacy.html",
+  "method": "http",
+  "fetched_at": "2026-10-30T19:00:52Z",
+  "sha256": "a24d40c805113629a49647dea0aa39a8a475022c5ac4c216fc09daf440618cd2",
+  "bytes": 22709,
+  "http_status": 200,
+  "final_url": "https://www.archives.gov/global-pages/privacy.html"
+}

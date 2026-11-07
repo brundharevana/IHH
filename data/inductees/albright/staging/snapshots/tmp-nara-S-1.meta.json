@@ -1,0 +1,10 @@
+{
+  "url": "https://www.archives.gov/press/press-releases/2016/nr16-85",
+  "fetch_url": "https://www.archives.gov/press/press-releases/2016/nr16-85",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:25:46Z",
+  "sha256": "22915e19c17a31cc1821746bfc64e26921781ce606e1bc48902fd024f0cdc2b5",
+  "bytes": 5919,
+  "http_status": 200,
+  "final_url": "https://www.archives.gov/press/press-releases/2016/nr16-85"
+}

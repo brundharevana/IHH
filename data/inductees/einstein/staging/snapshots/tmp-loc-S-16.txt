@@ -1,0 +1,144 @@
+_version_: 1731654438184026112
+access_restricted: true
+aka[0]: https://www.loc.gov/pictures/item/2002711237/
+aka[1]: http://www.loc.gov/item/2002711237/
+aka[2]: http://www.loc.gov/pictures/item/2002711237/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/2002711237/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/2002711237/
+aka[5]: http://www.loc.gov/resource/cph.3b29881/
+aka[6]: http://lccn.loc.gov/2002711237
+aka[7]: https://hdl.loc.gov/loc.pnp/cph.3b29881
+call_number: BIOG FILE - EINSTEIN, ALBER, 1879-1955--Groups [item] [P&P]
+created: 2016-04-21T02:49:54Z
+created_published[0]: 1943.
+created_published_date: 1943.
+date: 1943-01-01
+dates[0].1943: https://www.loc.gov/search/?dates=1943/1943&fo=json
+description[0]: 1 photographic print. | Dr. Albert Einstein in his study at his Princeton, N.J. home with Capt. Geoffrey E. Sage, USN, commanding officer of the U.S. Naval Training School at Princeton, N.J., and Lt. Comdr. Frederick L. Douthit, USNR, executive officer of the school.
+digital_id[0]: cph 3b29881 //hdl.loc.gov/loc.pnp/cph.3b29881
+digitized: true
+display_offsite: false
+extract_timestamp: 2021-08-25T05:09:27.922Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/2002711237/#cph
+extract_urls[1]: http://lccn.loc.gov/2002711237#catalog-split-09
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+group[0]: cph
+group[1]: catalog-split-09
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-09
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2002711237/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b29000/3b29800/3b29881_150px.jpg#h=122&w=150
+index: 1
+item.call_number: BIOG FILE - EINSTEIN, ALBER, 1879-1955--Groups [item] [P&P]
+item.control_number: 2002711237
+item.created: 2016-04-21T02:49:54Z
+item.created_published: 1943.
+item.created_published_date: 1943.
+item.date: 1943.
+item.digital_id[0]: cph 3b29881 //hdl.loc.gov/loc.pnp/cph.3b29881
+item.format[0]: still image
+item.id: 2002711237
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2002711237/
+item.marc: https://www.loc.gov/pictures/item/2002711237/marc/
+item.medium[0]: 1 photographic print.
+item.medium_brief: 1 photographic print.
+item.mediums[0]: 1 photographic print.
+item.modified: 2016-04-21T02:49:54Z
+item.notes[0]: Photoprint by U.S. Navy.
+item.notes[1]: No. W-PER-69-42919.
+item.notes[2]: This record contains unverified data from caption card.
+item.notes[3]: Caption card tracings: B.I.(3); Navy, U.S.
+item.number_former_id[0]: https://www.loc.gov/item/2002711237
+item.number_former_id[1]: https://www.loc.gov/item/12762326
+item.other_control_numbers[0]: 12762326
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-USZ62-83264 (b&w film copy neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3b29881
+item.rights_advisory: Rights status not evaluated. For general information see "Copyright and Other Restrictions..." (http://lcweb.loc.gov/rr/print/195_copr.html).
+item.rights_information: Rights status not evaluated. For general information see "Copyright and Other Restrictions..." (http://lcweb.loc.gov/rr/print/195_copr.html).
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b29000/3b29800/3b29881_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b29000/3b29800/3b29881r.jpg
+item.sort_date: 1943
+item.source_created: 2002-05-02T00:00:00Z
+item.source_modified: 2002-11-16T10:05:49Z
+item.summary: Dr. Albert Einstein in his study at his Princeton, N.J. home with Capt. Geoffrey E. Sage, USN, commanding officer of the U.S. Naval Training School at Princeton, N.J., and Lt. Comdr. Frederick L. Douthit, USNR, executive officer of the school.
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b29000/3b29800/3b29881_150px.jpg
+item.title: Famed scientist at work for U.S. Navy
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2002711237
+link: https://www.loc.gov/pictures/item/2002711237/
+marc: https://www.loc.gov/pictures/item/2002711237/marc/
+medium[0]: 1 photographic print.
+medium_brief: 1 photographic print.
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-21T02:49:54Z
+notes[0]: Photoprint by U.S. Navy.
+notes[1]: No. W-PER-69-42919.
+notes[2]: This record contains unverified data from caption card.
+notes[3]: Caption card tracings: B.I.(3); Navy, U.S.
+number[0]: http://www.loc.gov/item/2002711237
+number[1]: 2002711237
+number[2]: http://www.loc.gov/item/12762326
+number[3]: 2002-11-16t10:05:49
+number_former_id[0]: http://www.loc.gov/item/12762326
+number_former_id[1]: http://www.loc.gov/item/2002711237
+number_lccn[0]: 2002711237
+number_source_modified[0]: 2002-11-16t10:05:49
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 12762326
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2002711237/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2002711237/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2002711237/dc
+partof[0].count: 110701
+partof[0].title: miscellaneous items in high demand
+partof[0].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161938
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909372
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=2002711237&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-USZ62-83264 (b&w film copy neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3b29881
+resources[0].caption: b&w film copy neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b29000/3b29800/3b29881_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3b29881/
+rights_advisory: Rights status not evaluated. For general information see "Copyright and Other Restrictions..." (http://lcweb.loc.gov/rr/print/195_copr.html).
+rights_information: Rights status not evaluated. For general information see "Copyright and Other Restrictions..." (http://lcweb.loc.gov/rr/print/195_copr.html).
+score: 19.460701
+shard: 00
+shelf_id: BIOG FILE - EINSTEIN, ALBER, 1879-1955--Groups [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1943
+source_created: 2002-05-02T00:00:00Z
+source_modified: 2002-11-16T10:05:49Z
+summary: Dr. Albert Einstein in his study at his Princeton, N.J. home with Capt. Geoffrey E. Sage, USN, commanding officer of the U.S. Naval Training School at Princeton, N.J., and Lt. Comdr. Frederick L. Douthit, USNR, executive officer of the school.
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b29000/3b29800/3b29881_150px.jpg
+timestamp: 2022-05-01T19:46:02.472Z
+title: Famed scientist at work for U.S. Navy
+unrestricted: true
+url: https://www.loc.gov/item/2002711237/
+resources[0].caption: b&w film copy neg.
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b29000/3b29800/3b29881_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3b29881/
+cite_this.apa: (1943) Famed scientist at work for U.S. Navy. , 1943. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2002711237/.
+cite_this.chicago: Famed scientist at work for U.S. Navy. , 1943. Photograph. https://www.loc.gov/item/2002711237/.
+cite_this.mla: Famed scientist at work for U.S. Navy. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2002711237/>.

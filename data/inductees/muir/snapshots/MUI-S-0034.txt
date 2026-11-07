@@ -1,0 +1,197 @@
+_version_: 1730886997488173056
+access_restricted: false
+aka[0]: http://www.loc.gov/pictures/collection/ggbain/item/2014686853/
+aka[1]: http://www.loc.gov/item/2014686853/
+aka[2]: http://www.loc.gov/pictures/item/2014686853/
+aka[3]: https://hdl.loc.gov/loc.pnp/ggbain.06861
+aka[4]: http://www.loc.gov/resource/ggbain.06861/
+aka[5]: http://lccn.loc.gov/2014686853
+call_number: LC-B2- 1309-10 [P&P]
+contributor_names[0]: Bain News Service, publisher
+contributors[0].bain news service: https://www.loc.gov/search/?fa=contributor:bain+news+service&fo=json
+created: 2018-01-24T11:20:11Z
+created_published[0]: [no date recorded on caption card]
+created_published_date: [no date recorded on caption card]
+date: 1900-01-01
+dates[0].1900: https://www.loc.gov/search/?dates=1900/1900&fo=json
+description[0]: 1 negative : glass ; 5 x 7 in. or smaller.
+digital_id[0]: ggbain 06861 //hdl.loc.gov/loc.pnp/ggbain.06861
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-09-01T22:08:27.028Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/ggbain/item/2014686853/#ggbain
+extract_urls[1]: http://lccn.loc.gov/2014686853#catalog-split-11
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Glass negatives.
+genre[0]: Glass negatives
+group[0]: ggbain
+group[1]: catalog-split-11
+group[2]: catalog
+group[3]: bain
+group[4]: main-catalog-split-11
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2014686853/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861_150px.jpg#h=150&w=109
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861t.gif#h=150&w=109
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861r.jpg#h=640&w=467
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861v.jpg#h=1024&w=747
+index: 1
+item.call_number: LC-B2- 1309-10 [P&P]
+item.contributors[0]: Bain News Service, publisher.
+item.control_number: 2014686853
+item.created: 2018-01-24T11:20:11Z
+item.created_published: [no date recorded on caption card]
+item.created_published_date: [no date recorded on caption card]
+item.creators[0].link: //www.loc.gov/pictures/related/?fi=name&q=Bain%20News%20Service&co=ggbain
+item.creators[0].role: publisher
+item.creators[0].title: Bain News Service
+item.date: [no date recorded on caption card]
+item.digital_id[0]: ggbain 06861 //hdl.loc.gov/loc.pnp/ggbain.06861
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: //www.loc.gov/pictures/related/?fi=format&q=Glass%20negatives.&co=ggbain
+item.formats[0].title: Glass negatives.
+item.genre[0]: Glass negatives
+item.id: 2014686853
+item.language[0]: eng
+item.link: //www.loc.gov/pictures/item/2014686853/
+item.marc: //www.loc.gov/pictures/item/2014686853/marc/
+item.medium[0]: 1 negative : glass ; 5 x 7 in. or smaller.
+item.medium_brief: 1 negative :
+item.mediums[0]: 1 negative : glass ; 5 x 7 in. or smaller.
+item.modified: 2018-01-24T11:20:11Z
+item.notes[0]: Forms part of: George Grantham Bain Collection (Library of Congress).
+item.notes[1]: Title from unverified data provided by the Bain News Service on the negatives or caption cards.
+item.notes[2]: General information about the George Grantham Bain Collection is available at http://hdl.loc.gov/loc.pnp/pp.ggbain
+item.number_former_id[0]: https://www.loc.gov/item/2014686853
+item.number_former_id[1]: https://www.loc.gov/item/ggb2004006861
+item.other_control_numbers[0]: 20293075
+item.other_control_numbers[1]: ggb2004006861
+item.part_of: Bain News Service photograph collection
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-ggbain-06861 (digital file from original neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/ggbain.06861
+item.rights_advisory: No known restrictions on publication. For more information, see George Grantham Bain Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/274_bain.html
+item.rights_information: No known restrictions on publication. For more information, see George Grantham Bain Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/274_bain.html
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861r.jpg
+item.sort_date: 1900
+item.source_collection[0]: Bain News Service photograph collection
+item.source_created: 2004-09-09T00:00:00Z
+item.source_modified: 2018-01-19T15:49:44Z
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861_150px.jpg
+item.title: John Muir
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2014686853
+link: //www.loc.gov/pictures/item/2014686853/
+marc: //www.loc.gov/pictures/item/2014686853/marc/
+medium[0]: 1 negative : glass ; 5 x 7 in. or smaller.
+medium_brief: 1 negative :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2018-01-24T11:20:11Z
+notes[0]: Forms part of: George Grantham Bain Collection (Library of Congress).
+notes[1]: Title from unverified data provided by the Bain News Service on the negatives or caption cards.
+notes[2]: General information about the George Grantham Bain Collection is available at http://hdl.loc.gov/loc.pnp/pp.ggbain
+number[0]: http://www.loc.gov/item/2014686853
+number[1]: 2014686853
+number[2]: http://www.loc.gov/item/ggb2004006861
+number[3]: 2018-01-19t15:49:44
+number[4]: http://www.loc.gov/item/20293075
+number_former_id[0]: http://www.loc.gov/item/20293075
+number_former_id[1]: http://www.loc.gov/item/ggb2004006861
+number_former_id[2]: http://www.loc.gov/item/2014686853
+number_lccn[0]: 2014686853
+number_source_modified[0]: 2018-01-19t15:49:44
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 20293075
+other_control_numbers[1]: ggb2004006861
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2014686853/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2014686853/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2014686853/dc
+partof[0].count: 41526
+partof[0].title: bain collection
+partof[0].url: https://www.loc.gov/collections/bain/?fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.neighbors: //www.loc.gov/pictures/related/?&co=ggbain&pk=2014686853&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-ggbain-06861 (digital file from original neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/ggbain.06861
+resources[0].caption: digital file from original neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ggbain.06861/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: George Grantham Bain Collection - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication. For more information, see George Grantham Bain Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/274_bain.html
+rights_information: No known restrictions on publication. For more information, see George Grantham Bain Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/274_bain.html
+score: 19.46323
+shard: 00
+shelf_id: LC-B2- 1309-10 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1900
+source_collection: Bain News Service photograph collection
+source_created: 2004-09-09T00:00:00Z
+source_modified: 2018-01-19T15:49:44Z
+subject[0]: glass negatives
+subjects[0].glass negatives: https://www.loc.gov/search/?fa=subject:glass+negatives&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861_150px.jpg
+timestamp: 2022-04-23T08:27:53.555Z
+title: John Muir
+unrestricted: true
+url: https://www.loc.gov/item/2014686853/
+resources[0].caption: digital file from original neg.
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 24537426
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/ggbain/06800/06861u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 150
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 6592
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861_150px.jpg
+resources[0].files[0][1].width: 109
+resources[0].files[0][2].height: 150
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 13577
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861t.gif
+resources[0].files[0][2].width: 109
+resources[0].files[0][3].height: 640
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 93233
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861r.jpg
+resources[0].files[0][3].width: 467
+resources[0].files[0][4].height: 1024
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 229106
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861v.jpg
+resources[0].files[0][4].width: 747
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ggbain/06800/06861_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ggbain.06861/
+cite_this.apa: Bain News Service, P. () John Muir. ,. [No Date Recorded on Caption Card] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2014686853/.
+cite_this.chicago: Bain News Service, Publisher. John Muir. ,. [No Date Recorded on Caption Card] Photograph. https://www.loc.gov/item/2014686853/.
+cite_this.mla: Bain News Service, Publisher. John Muir. [No Date Recorded on Caption Card] Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2014686853/>.

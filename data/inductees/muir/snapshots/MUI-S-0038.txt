@@ -1,0 +1,211 @@
+_version_: 1731673709643563008
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2004672064/
+aka[1]: http://www.loc.gov/item/2004672064/
+aka[2]: http://www.loc.gov/pictures/item/2004672064/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/2004672064/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/2004672064/
+aka[5]: http://www.loc.gov/resource/ppmsca.18938/
+aka[6]: http://www.loc.gov/resource/cph.3b01122/
+aka[7]: https://hdl.loc.gov/loc.pnp/ppmsca.18938
+aka[8]: https://hdl.loc.gov/loc.pnp/cph.3b01122
+aka[9]: http://lccn.loc.gov/2004672064
+call_number: BIOG FILE - Muir, John 1838-1914 [item] [P&P]
+created: 2016-04-20T15:38:31Z
+created_published[0]: c1902.
+created_published_date: c1902.
+date: 1902-01-01
+dates[0].1902: https://www.loc.gov/search/?dates=1902/1902&fo=json
+description[0]: 1 photographic print. | Portrait, one half figure, seated, facing right.
+digital_id[0]: ppmsca 18938 //hdl.loc.gov/loc.pnp/ppmsca.18938
+digital_id[1]: cph 3b01122 //hdl.loc.gov/loc.pnp/cph.3b01122
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-08-26T01:44:44.947Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/2004672064/#cph
+extract_urls[1]: http://lccn.loc.gov/2004672064#catalog-split-15
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+group[0]: cph
+group[1]: catalog-split-15
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-15
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2004672064/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938_150px.jpg#h=150&w=117
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938t.gif#h=150&w=117
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938r.jpg#h=640&w=499
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938v.jpg#h=1024&w=799
+index: 1
+item.call_number: BIOG FILE - Muir, John 1838-1914 [item] [P&P]
+item.control_number: 2004672064
+item.created: 2016-04-20T15:38:31Z
+item.created_published: c1902.
+item.created_published_date: c1902.
+item.date: c1902.
+item.digital_id[0]: ppmsca 18938 //hdl.loc.gov/loc.pnp/ppmsca.18938
+item.digital_id[1]: cph 3b01122 //hdl.loc.gov/loc.pnp/cph.3b01122
+item.display_offsite: true
+item.format[0]: still image
+item.id: 2004672064
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2004672064/
+item.marc: https://www.loc.gov/pictures/item/2004672064/marc/
+item.medium[0]: 1 photographic print.
+item.medium_brief: 1 photographic print.
+item.mediums[0]: 1 photographic print.
+item.modified: 2016-04-20T15:38:32Z
+item.notes[0]: Copyright by Edward Hughes, c1902, H23397.
+item.notes[1]: This record contains unverified, old data from caption card.
+item.notes[2]: Caption card tracings: PI; Shelf.
+item.other_control_numbers[0]: 13610682
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-DIG-ppmsca-18938 (digital file from original photograph)
+LC-USZ62-53148 (b&w film copy neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/ppmsca.18938
+item.resource_links[1]: //hdl.loc.gov/loc.pnp/cph.3b01122
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938r.jpg
+item.sort_date: 1902
+item.source_created: 2004-06-01T00:00:00Z
+item.source_modified: 2008-07-18T13:49:09Z
+item.summary: Portrait, one half figure, seated, facing right.
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938_150px.jpg
+item.title: John Muir, 1838-1914
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2004672064
+link: https://www.loc.gov/pictures/item/2004672064/
+marc: https://www.loc.gov/pictures/item/2004672064/marc/
+medium[0]: 1 photographic print.
+medium_brief: 1 photographic print.
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-20T15:38:32Z
+notes[0]: Copyright by Edward Hughes, c1902, H23397.
+notes[1]: This record contains unverified, old data from caption card.
+notes[2]: Caption card tracings: PI; Shelf.
+number[0]: 2004672064
+number[1]: http://www.loc.gov/item/13610682
+number[2]: 2008-07-18t13:49:09
+number_former_id[0]: http://www.loc.gov/item/13610682
+number_lccn[0]: 2004672064
+number_source_modified[0]: 2008-07-18t13:49:09
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 13610682
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2004672064/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2004672064/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2004672064/dc
+partof[0].count: 110701
+partof[0].title: miscellaneous items in high demand
+partof[0].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=2004672064&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-DIG-ppmsca-18938 (digital file from original photograph)
+LC-USZ62-53148 (b&w film copy neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/ppmsca.18938
+resource_links[1]: //hdl.loc.gov/loc.pnp/cph.3b01122
+resources[0].caption: digital file from original photograph
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.18938/
+resources[1].caption: b&w film copy neg.
+resources[1].files: 1
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b01000/3b01100/3b01122_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3b01122/
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.46323
+shard: 00
+shelf_id: BIOG FILE - Muir, John 1838-1914 [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1902
+source_created: 2004-06-01T00:00:00Z
+source_modified: 2008-07-18T13:49:09Z
+summary: Portrait, one half figure, seated, facing right.
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938_150px.jpg
+timestamp: 2022-05-02T00:52:21.185Z
+title: John Muir, 1838-1914
+unrestricted: true
+url: https://www.loc.gov/item/2004672064/
+resources[0].caption: digital file from original photograph
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 211797862
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/ppmsca/18900/18938u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 150
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 5457
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938_150px.jpg
+resources[0].files[0][1].width: 117
+resources[0].files[0][2].height: 150
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 14202
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938t.gif
+resources[0].files[0][2].width: 117
+resources[0].files[0][3].height: 640
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 49954
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938r.jpg
+resources[0].files[0][3].width: 499
+resources[0].files[0][4].height: 1024
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 135101
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938v.jpg
+resources[0].files[0][4].width: 799
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18938_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.18938/
+resources[1].caption: b&w film copy neg.
+resources[1].files[0][0].height: 0
+resources[1].files[0][0].levels: 1
+resources[1].files[0][0].mimetype: image/tiff
+resources[1].files[0][0].size: 1836482
+resources[1].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3b00000/3b01000/3b01100/3b01122u.tif
+resources[1].files[0][0].width: 0
+resources[1].files[0][1].height: 150
+resources[1].files[0][1].levels: 1
+resources[1].files[0][1].mimetype: image/jpeg
+resources[1].files[0][1].size: 4405
+resources[1].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b01000/3b01100/3b01122_150px.jpg
+resources[1].files[0][1].width: 117
+resources[1].files[0][2].height: 150
+resources[1].files[0][2].levels: 1
+resources[1].files[0][2].mimetype: image/gif
+resources[1].files[0][2].size: 16875
+resources[1].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b01000/3b01100/3b01122t.gif
+resources[1].files[0][2].width: 117
+resources[1].files[0][3].height: 640
+resources[1].files[0][3].levels: 1
+resources[1].files[0][3].mimetype: image/jpeg
+resources[1].files[0][3].size: 26469
+resources[1].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b01000/3b01100/3b01122r.jpg
+resources[1].files[0][3].width: 498
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b01000/3b01100/3b01122_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3b01122/
+cite_this.apa: (ca. 1902) John Muir, -1914. , ca. 1902. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2004672064/.
+cite_this.chicago: John Muir, -1914. , ca. 1902. Photograph. https://www.loc.gov/item/2004672064/.
+cite_this.mla: John Muir, -1914. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2004672064/>.

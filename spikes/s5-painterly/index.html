@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>S5 painterly portraits (spike)</title>
+<style>body{font:13px/1.4 ui-monospace,Menlo,monospace;margin:12px;background:#15141c;color:#ddd}pre{white-space:pre-wrap;word-break:break-word}img,canvas{max-width:32%;margin:4px;vertical-align:top}</style>
+</head>
+<body>
+<h1>S5 painterly portraits: illustrative reconstruction (spike)</h1>
+<pre id="log"></pre>
+<div id="shots"></div>
+<script type="module">
+const v = new URLSearchParams(location.search).get('v') || Date.now();
+import(`./run.js?v=${v}`).catch((e) => { document.getElementById('log').textContent += 'IMPORT ERROR ' + e.stack; window.__s5 = { err: String(e.stack || e) }; });
+</script>
+</body>
+</html>

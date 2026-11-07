@@ -1,0 +1,15 @@
+WEBVTT
+
+NOTE S3 spike: captions are cue text only; mouthCues live in lines.json
+
+l1
+00:00:00.500 --> 00:00:05.600
+<v Narration>The U.S. National Archives holds Albert Einstein's naturalization record.
+
+l2
+00:00:06.500 --> 00:00:16.710
+<v Narration>The file includes a certificate of arrival, a declaration of intention, a petition for naturalization, and an oath of allegiance.
+
+l3
+00:00:17.610 --> 00:00:24.110
+<v Narration>Hedy Lamarr's naturalization file is also held there, under the name Hedwig Maria Stauffer.

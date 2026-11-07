@@ -1,0 +1,10 @@
+{
+  "url": "https://archive.org/details/whos-who-in-america_1928-1929_15",
+  "fetch_url": "https://archive.org/details/whos-who-in-america_1928-1929_15",
+  "method": "http",
+  "fetched_at": "2026-10-30T18:58:32Z",
+  "sha256": "c440c460b345444b0bdcec0f9e9dbb5a8049bbaaf78d3963f9a11e544afc3971",
+  "bytes": 5862,
+  "http_status": 200,
+  "final_url": "https://archive.org/details/whos-who-in-america_1928-1929_15"
+}

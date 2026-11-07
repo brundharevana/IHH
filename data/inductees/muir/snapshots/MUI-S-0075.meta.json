@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/296210",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=296210",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:34:03Z",
+  "sha256": "39747bddff0cb706028583906a57a34cfc9084f4741a357f3fa0fb0f8526153e",
+  "bytes": 5662,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=296210"
+}

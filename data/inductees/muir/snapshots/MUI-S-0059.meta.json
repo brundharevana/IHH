@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:John_Muir_and_climbing_party_at_summit_of_Mount_Rainier,_1888_(WARNER_595).jpeg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:John_Muir_and_climbing_party_at_summit_of_Mount_Rainier%2C_1888_%28WARNER_595%29.jpeg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:50Z",
+  "sha256": "37d16df53eb0345f5b69df8f973347966ee1aa0c59478ae11ffde9e2cb2cbb19",
+  "bytes": 1824,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:John_Muir_and_climbing_party_at_summit_of_Mount_Rainier%2C_1888_%28WARNER_595%29.jpeg&format=json"
+}

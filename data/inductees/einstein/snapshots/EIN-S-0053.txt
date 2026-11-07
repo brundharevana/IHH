@@ -1,0 +1,63 @@
+title: New Jersey NHL Einstein, Albert, House
+scopeAndContentNote: This resource is located in Mercer County, New Jersey. Areas of significance include: Science. The National Historic Places Register Reference Number is 76002297_NHL.
+accessionNumbers[0]: TR-0079-2019-0136
+levelOfDescription: item
+recordType: description
+useRestriction.note: Some of the materials in this file may be subject to copyright or other intellectual property restrictions.
+useRestriction.specificUseRestrictions[0]: Copyright
+useRestriction.status: Restricted - Possibly
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-0470
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Electronic Records
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3681
+physicalOccurrences[0].referenceUnits[0].email: cer@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Magnetic Media
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Magnetic Disk
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Electronic Records
+dataControlGroup.groupId: RRD
+dataControlGroup.groupCd: RRD
+generalRecordsTypes[0]: Textual Records
+variantControlNumbers[0].number: 1.1-4.3-201904.18
+variantControlNumbers[0].type: Ref ID
+digitalObjects[0].objectFilename: 76002297_NHL.pdf
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/electronic-records/rg-079/NPS_NJ/76002297_NHL.pdf
+digitalObjects[0].objectFileSize: 137690896
+digitalObjects[0].objectId: 135813662
+digitalObjects[0].objectType: Portable Document File (PDF)
+ancestors[0].inclusiveStartDate.year: 1785
+ancestors[0].inclusiveStartDate.logicalDate: 1785-01-01
+ancestors[0].distance: 3
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 79
+ancestors[0].inclusiveEndDate.year: 2006
+ancestors[0].inclusiveEndDate.logicalDate: 2006-12-31
+ancestors[0].title: Records of the National Park Service
+ancestors[0].naId: 408
+ancestors[1].inclusiveStartDate.year: 2013
+ancestors[1].inclusiveStartDate.logicalDate: 2013-01-01
+ancestors[1].distance: 2
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of the Interior. National Park Service. (03/02/1934 - )
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 3
+ancestors[1].creators[0].establishDate.year: 1934
+ancestors[1].creators[0].establishDate.day: 2
+ancestors[1].creators[0].establishDate.logicalDate: 1934-03-02
+ancestors[1].creators[0].naId: 10511720
+ancestors[1].inclusiveEndDate.year: 2017
+ancestors[1].inclusiveEndDate.logicalDate: 2017-12-31
+ancestors[1].title: National Register of Historic Places and National Historic Landmarks Program Records
+ancestors[1].naId: 20812721
+ancestors[2].distance: 1
+ancestors[2].levelOfDescription: fileUnit
+ancestors[2].title: National Register of Historic Places and National Historic Landmarks Program Records: New Jersey
+ancestors[2].naId: 127539715
+naId: 135813661

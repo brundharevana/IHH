@@ -1,0 +1,96 @@
+---
+// Chapter room page: /<slug>/<n>/. All text comes from the chapter JSON or from verified
+// fact, source and media records (src/content/load.js); the rest are fixed UI labels.
+import Base from '../../layouts/Base.astro';
+import ChapterRoom from '../../components/ChapterRoom.astro';
+import { roomDoors, storyJourney } from '../../content/journey.js';
+import { listChapters, loadChapter, loadInductee, loadJourney, loadScan, factIndex, mediaIndex, factChips, exhibitView, reconstructionView, chapterAudio, quoteAudio, portraitFiles, loadStudyCorner, cornerRuntime, studyCornerView } from '../../content/load.js';
+import { scanRuntime, scanCredit } from '../../museum/scanroom.js';
+import { gatedPortrait, quoteViews } from '../../content/portrait.js';
+
+export function getStaticPaths() {
+  return listChapters().map(({ slug, n }) => ({ params: { slug, chapter: String(n) }, props: { slug, n } }));
+}
+
+const { slug, n } = Astro.props;
+const chapter = loadChapter(slug, n);
+const inductee = loadInductee(slug);
+const idx = { ...factIndex(slug), media: mediaIndex(slug) };
+const titleChips = factChips(chapter.title_fact_ids, idx);
+const exhibits = [...(chapter.exhibits || [])].sort((a, b) => a.number - b.number).map(ex => exhibitView(ex, idx));
+const audio = chapterAudio(slug, n);
+// A museum-note line (a disclosure about the museum, such as the recreated study corner) is marked as one.
+const narration = audio ? { base: `/audio/${slug}/${n}-narration`, lines: (chapter.narration || []).map(l => ({ text: l.text, note: l.kind === 'museum-note' })) } : null;
+// Reconstructed place: plaque from the basis photo records; the place must pass validatePlace.
+const isPlace = chapter.room === 'reconstructed-place';
+const reconstruction = isPlace ? reconstructionView(chapter.reconstruction, idx, chapter.exhibits || []) : null;
+// The living portrait appears only in chapters that carry quotes, and only when the inductee's
+// portrait passes the licence gate (inductee.json "portrait": { media_id } plus the files in
+// content/<slug>/portrait/; see gatedPortrait). A failed gate shows no portrait.
+const chapterQuotes = chapter.quotes || [];
+const portrait = chapterQuotes.length ? gatedPortrait(inductee, idx, s => Boolean(portraitFiles(s))) : null;
+if (chapterQuotes.length && inductee.portrait && !portrait) {
+  console.warn(`${slug}/${n}: portrait withheld (photo record ${inductee.portrait.media_id} not verified with a usable licence, or files missing)`);
+}
+const quotes = portrait
+  ? quoteViews(chapterQuotes, idx, { name: inductee.name, slug, n, hasAudio: (s, c, id) => Boolean(quoteAudio(s, c, id)) })
+  : [];
+// Doors: the entrance (where the visitor came from) and the exit (the next room in journey order, or
+// the ending page after the last room); the chapter nav's Next link follows the same order.
+const chapterTitles = new Map(listChapters().filter(c => c.slug === slug).map(c => [c.n, loadChapter(slug, c.n).title]));
+const doors = roomDoors(loadJourney(slug), { slug, chapters: chapterTitles, n });
+// Story mode (src/ui/story.js): the rooms in journey order and this room's stop.
+const story = storyJourney(loadJourney(slug), { slug, chapters: chapterTitles });
+const current = story.rooms.find(r => r.n === n).id;
+// Scanned room (chapter.room = { scan: "<id>", stations? }): the runtime gets the bundle URLs and sizes,
+// the page the credit label; the next room in journey order, if scanned, is prefetched during the
+// narration (src/museum/scene.js).
+const scanOf = ch => (ch.room && typeof ch.room === 'object' && ch.room.scan) || null;
+const scanId = scanOf(chapter);
+const scan = scanId ? loadScan(scanId) : null;
+const at = story.rooms.findIndex(r => r.n === n), nextRoom = story.rooms[at + 1];
+const nextScanId = nextRoom ? scanOf(loadChapter(slug, nextRoom.n)) : null;
+const liteHref = `/${slug}/lite/#chapter-${n}`;
+// The recreated study corner (Task 6), in the reserved area of its scanned chapter room.
+const cornerRec = loadStudyCorner(slug);
+const cornerHere = cornerRec && cornerRec.chapter === n && scan ? cornerRec : null;
+const cornerArea = cornerHere ? (chapter.room.reserved || []).find(r => r.id === cornerHere.area) : null;
+if (cornerHere && !cornerArea) throw new Error(`${slug}/${n}: study corner area ${cornerHere.area} is not reserved in this room`);
+const corner = cornerHere ? studyCornerView(cornerHere, idx) : null;
+// Only what the runtime needs: room layout, the title (gallery wall lettering), reveal cues, quotes for wall-quote exhibits, and for a
+// reconstructed place its validated place and basis ids.
+const runtime = {
+  slug, n,
+  story: { journey: story, current },
+  chapter: {
+    room: chapter.room, title: chapter.title, accent: chapter.accent, quotes: chapter.quotes || [],
+    doors: { entrance: doors.entrance.label, exit: doors.exit.label }, // the door signs
+    // kind / frames: a museum note frames an area (the recreated study corner), src/museum/follow.js.
+    narration: (chapter.narration || []).map(l => ({ cue: l.cue, reveals: l.reveals || [], fact_ids: l.fact_ids || [], ...(l.kind ? { kind: l.kind } : {}), ...(l.frames ? { frames: l.frames } : {}) })),
+    exhibits: chapter.exhibits || [],
+    // Optional viewing stations (tools/content_check.py validates them); rooms derive defaults otherwise.
+    ...(chapter.stations ? { stations: chapter.stations } : {}),
+    ...(cornerHere ? { corner: cornerRuntime(cornerHere, cornerArea) } : {}),
+    ...(isPlace ? { id: chapter.id, reconstruction: { basis_media_ids: chapter.reconstruction.basis_media_ids, place: chapter.reconstruction.place } } : {}),
+  },
+  ...(scan ? { scan: scanRuntime(scan) } : {}),
+  ...(nextScanId ? { next: { href: nextRoom.href, scan: scanRuntime(loadScan(nextScanId)) } } : {}),
+};
+const heading = { inductee: inductee.name, title: chapter.title, titleChips, accent: chapter.accent };
+---
+<Base title={chapter.title} description={chapter.title}>
+  <ChapterRoom heading={heading} narration={narration} exhibits={exhibits} portrait={portrait} quotes={quotes}
+    reconstruction={reconstruction} corner={corner} runtime={runtime} doors={doors}
+    scan={scan ? scanCredit(scan, inductee.name) : null} liteHref={liteHref} />
+  <nav class="chapter-nav" aria-label="Chapter">
+    <a href={`/${slug}/`}>Journey map</a>
+    {doors.entrance.kind === 'room' && <a href={doors.entrance.href} data-nav="previous">Previous room</a>}
+    <a href={liteHref} data-voa-mode="lite">Lite version (no 3D)</a>
+    {doors.exit.kind === 'room' ? <a href={doors.exit.href} data-nav="next">Next room</a> : <a href={doors.exit.href} data-nav="next">Finish: quiz and other inductees</a>}
+  </nav>
+</Base>
+
+<style>
+  .chapter-nav { display: flex; flex-wrap: wrap; gap: var(--space-5); max-width: 1200px; margin: 0 auto; padding: var(--space-4); }
+  .chapter-nav a { color: var(--c-accent); display: inline-block; min-height: 24px; padding: var(--space-1) 0; }
+</style>

@@ -1,0 +1,66 @@
+title: Graphic Promoting Welcoming Refugees with Photograph of Madeleine Albright
+scopeAndContentNote: Original post: “I, in fact, was a refugee. We came to the United States when I was 11-years-old” —@Madeleine #RefugeesWelcome pic.twitter.com/L3cSomr3VA
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].extent: 1 Post
+physicalOccurrences[0].referenceUnits[0].city: Hoffman Estates
+physicalOccurrences[0].referenceUnits[0].phone: 847-252-5700
+physicalOccurrences[0].referenceUnits[0].address1: 2500 W. Golf Road
+physicalOccurrences[0].referenceUnits[0].postalCode: 60169
+physicalOccurrences[0].referenceUnits[0].name: Barack Obama Presidential Library
+physicalOccurrences[0].referenceUnits[0].state: IL
+physicalOccurrences[0].referenceUnits[0].fax: 847-252-5799
+physicalOccurrences[0].referenceUnits[0].email: obama.library@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Magnetic Media
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Magnetic Disk: Hard Drive
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupId: ou=LPBHO,ou=groups
+dataControlGroup.groupCd: LPBHO
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+generalRecordsTypes[1]: Web Pages
+productionDates[0].month: 11
+productionDates[0].year: 2015
+productionDates[0].day: 17
+productionDates[0].logicalDate: 2015-11-17
+digitalObjects[0].objectFilename: Twitter_Jennifer-Friedman_2015-11-17_03_01.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/obama/bho-ero/217848738/Twitter_Jennifer-Friedman_2015-11-17_03_01.jpg
+digitalObjects[0].objectFileSize: 1234
+digitalObjects[0].objectId: 234393676
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].collectionIdentifier: BHO-ERO
+ancestors[0].inclusiveStartDate.month: 1
+ancestors[0].inclusiveStartDate.year: 2009
+ancestors[0].inclusiveStartDate.day: 20
+ancestors[0].inclusiveStartDate.logicalDate: 2009-01-20
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.month: 1
+ancestors[0].inclusiveEndDate.year: 2017
+ancestors[0].inclusiveEndDate.day: 20
+ancestors[0].inclusiveEndDate.logicalDate: 2017-01-20
+ancestors[0].title: Electronic Records of the Office of the President (Obama Administration)
+ancestors[0].naId: 79420004
+ancestors[1].inclusiveStartDate.year: 2012
+ancestors[1].inclusiveStartDate.logicalDate: 2012-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: President (2009-2017 : Obama). Office of Communications. (1/20/2009 - 1/20/2017)
+ancestors[1].creators[0].abolishDate.month: 1
+ancestors[1].creators[0].abolishDate.year: 2017
+ancestors[1].creators[0].abolishDate.day: 20
+ancestors[1].creators[0].abolishDate.logicalDate: 2017-01-20
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 1
+ancestors[1].creators[0].establishDate.year: 2009
+ancestors[1].creators[0].establishDate.day: 20
+ancestors[1].creators[0].establishDate.logicalDate: 2009-01-20
+ancestors[1].creators[0].naId: 118763980
+ancestors[1].inclusiveEndDate.year: 2016
+ancestors[1].inclusiveEndDate.logicalDate: 2016-12-31
+ancestors[1].title: Jennifer Friedman's Twitter Posts
+ancestors[1].naId: 217848738
+naId: 234393675

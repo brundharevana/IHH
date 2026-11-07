@@ -1,0 +1,137 @@
+{
+  "$comment": "Walkable bounds for free roam in einstein-mercer-street-front.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 12.0,
+  "walkable": {
+    "x_min": -14.0,
+    "x_max": 16.0,
+    "z_min": 2.3,
+    "z_max": 23.5
+  },
+  "obstacles": [
+    {
+      "name": "spruce_left",
+      "x_min": -11.316,
+      "x_max": -5.816,
+      "z_min": -2.937,
+      "z_max": 2.754
+    },
+    {
+      "name": "tree_lawn_right",
+      "x_min": -2.325,
+      "x_max": 15.549,
+      "z_min": -19.437,
+      "z_max": -4.381
+    },
+    {
+      "name": "arborvitae",
+      "x_min": 5.557,
+      "x_max": 9.003,
+      "z_min": -4.076,
+      "z_max": -0.536
+    },
+    {
+      "name": "arborvitae_2",
+      "x_min": 7.719,
+      "x_max": 10.849,
+      "z_min": -3.241,
+      "z_max": 0.076
+    },
+    {
+      "name": "house_and_porch",
+      "x_min": -3.5,
+      "x_max": 3.95,
+      "z_min": -9.15,
+      "z_max": 2.55
+    },
+    {
+      "name": "porch_steps",
+      "x_min": 1.5,
+      "x_max": 3.15,
+      "z_min": 2.15,
+      "z_max": 4.0
+    },
+    {
+      "name": "wing",
+      "x_min": 3.65,
+      "x_max": 9.35,
+      "z_min": -12.65,
+      "z_max": -3.15
+    },
+    {
+      "name": "hedge_left",
+      "x_min": -9.15,
+      "x_max": 1.7,
+      "z_min": 5.55,
+      "z_max": 7.05
+    },
+    {
+      "name": "hedge_right",
+      "x_min": 2.9,
+      "x_max": 11.15,
+      "z_min": 5.95,
+      "z_max": 7.05
+    },
+    {
+      "name": "rhododendrons",
+      "x_min": -4.05,
+      "x_max": 1.85,
+      "z_min": 2.15,
+      "z_max": 3.85
+    },
+    {
+      "name": "rhododendron_right",
+      "x_min": 2.85,
+      "x_max": 4.25,
+      "z_min": 2.15,
+      "z_max": 3.45
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.6,
+      "z": 18.5,
+      "look_at": {
+        "x": 0.6,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "Across Mercer Street, where photograph IAS E 42 was taken"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 2.3,
+      "z": 9.3,
+      "look_at": {
+        "x": 2.35,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "On the sidewalk at the front walk"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 2.3,
+      "z": 4.4,
+      "look_at": {
+        "x": 2.35,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "At the porch steps, before the front door"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -10.0,
+      "z": 9.3,
+      "look_at": {
+        "x": 0.5,
+        "y": 1.5,
+        "z": -1.5
+      },
+      "note": "On the sidewalk at the left, the angle of the colour view"
+    }
+  ]
+}

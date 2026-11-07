@@ -1,0 +1,1249 @@
+{
+ "rooms": {
+  "einstein-gothenburg-lecture-hall": {
+   "slug": "einstein",
+   "titles": [
+    "A lecture hall · Gothenburg",
+    "A lecture hall in Gothenburg",
+    "The Nobel Prize"
+   ],
+   "stops": {
+    "relativity": {
+     "name": "His relativity paper, 1905",
+     "record": {
+      "title": "Zur Elektrodynamik bewegter Körper",
+      "date": "1905",
+      "lines": [
+       "Albert Einstein's special theory of relativity is from 1905."
+      ],
+      "recreation": "",
+      "holder": "Internet Archive (scan); HathiTrust (rights for the volume)",
+      "credit": "Annalen der Physik, 4. Folge, Bd. 17 (1905), S. 891. Scan: Internet Archive (Serials in Microfilm). Rights: HathiTrust, pdus (public domain in the US), volume ser.4 v.17."
+     },
+     "clipKeys": [
+      "einstein:12:r4"
+     ],
+     "placeNote": ""
+    },
+    "light": {
+     "name": "His paper on light, 1905",
+     "record": {
+      "title": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+      "date": "1905",
+      "lines": [],
+      "recreation": "",
+      "holder": "Internet Archive (scan); HathiTrust (rights for the volume)",
+      "credit": "Annalen der Physik, 4. Folge, Bd. 17 (1905), S. 132. Scan: Internet Archive (Serials in Microfilm). Rights: HathiTrust, pdus (public domain in the US), volume ser.4 v.17."
+     },
+     "clipKeys": [
+      "einstein:12:r5"
+     ],
+     "placeNote": ""
+    },
+    "photo": {
+     "name": "His lecture, 1923",
+     "record": {
+      "title": "Albert Einstein, Nobel Prize lecture, Gothenburg, July 11, 1923",
+      "date": "July 11, 1923",
+      "lines": [],
+      "recreation": "",
+      "holder": "",
+      "credit": ""
+     },
+     "clipKeys": [
+      "einstein:12:r20"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "einstein-trenton-courtroom": {
+   "slug": "einstein",
+   "titles": [
+    "The courthouse, Trenton",
+    "Becoming a citizen"
+   ],
+   "stops": {
+    "record": {
+     "name": "The naturalization record",
+     "record": {
+      "title": "Declaration of Intention and Petition for Naturalization for Albert Einstein",
+      "date": "1936-01-15",
+      "lines": [
+       "The Declaration of Intention for Albert Einstein is from 1936-01-15.",
+       "A photograph of Albert Einstein is affixed to the Declaration of Intention.",
+       "petition number 4009, assigned by the U.S. District Court for the District of New Jersey, Trenton",
+       "The record of naturalization for Albert Einstein at the National Archives at Philadelphia includes a Certificate of Arrival, Declaration of Intention, Petition for Naturalization, and Oath of Allegiance."
+      ],
+      "recreation": "",
+      "holder": "National Archives at Philadelphia, Records of District Courts of the United States",
+      "credit": "National Archives at Philadelphia, Records of District Courts of the United States, NAID 596270."
+     },
+     "clipKeys": [
+      "einstein:12:r10"
+     ],
+     "placeNote": ""
+    },
+    "photo": {
+     "name": "The photograph of October 1, 1940",
+     "record": {
+      "title": "America gains a famous citizen",
+      "date": "1940 Oct. 1",
+      "lines": [
+       "On 1940 Oct. 1",
+       "Albert Einstein was photographed receiving from Judge Phillip Forman his certificate of American citizenship"
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Prints & Photographs Division",
+      "credit": "Library of Congress, Prints & Photographs Division, NYWT&S Collection, LC-DIG-ppmsca-05649. Photo by Al. Aumuller."
+     },
+     "clipKeys": [
+      "einstein:12:r11"
+     ],
+     "placeNote": ""
+    },
+    "press1940": {
+     "name": "Imperial Valley press, October 1, 1940",
+     "record": {
+      "title": "Einstein, Serious Of Face, Becomes American Citizen (Imperial Valley press (El Centro, Calif.), 1940-10-01, p. 1)",
+      "date": "October 1, 1940",
+      "lines": [
+       "On 1940 Oct. 1, Albert Einstein was photographed receiving from Judge Phillip Forman his certificate of American citizenship."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; Imperial Valley press (El Centro, Calif.), 1940-10-01"
+     },
+     "clipKeys": [
+      "einstein:21:r7"
+     ],
+     "placeNote": "Shown here in Trenton; the page is at the Library of Congress."
+    }
+   }
+  },
+  "study": {
+   "slug": "einstein",
+   "titles": [
+    "The study",
+    "The study, 112 Mercer Street",
+    "Research for the Navy"
+   ],
+   "stops": {
+    "desk": {
+     "name": "Research in his study",
+     "record": null,
+     "clipKeys": [
+      "einstein:2:c3"
+     ],
+     "placeNote": ""
+    },
+    "letter": {
+     "name": "Letters to Lieutenant Brunauer",
+     "record": {
+      "title": "Letters to Lieutenant Stephen Brunauer, 1943-1944",
+      "date": "1943-1944",
+      "lines": [],
+      "recreation": "",
+      "holder": "",
+      "credit": ""
+     },
+     "clipKeys": [
+      "einstein:12:r12",
+      "einstein:2:c4"
+     ],
+     "placeNote": ""
+    },
+    "photo": {
+     "name": "The Navy photograph, 1943",
+     "record": {
+      "title": "Dr. Albert Einstein With Lieutenant (jg) Clifford L. Comstock",
+      "date": "24 July 1943",
+      "lines": [
+       "Dr. Albert Einstein is doing research for the Bureau of Ordnance, in his study at Princeton, N.J."
+      ],
+      "recreation": "",
+      "holder": "National Archives at College Park - Still Pictures, General Records of the Department of the Navy",
+      "credit": "National Archives at College Park - Still Pictures, General Records of the Department of the Navy, 80-G-42918 (NAID 276538325)."
+     },
+     "clipKeys": [
+      "einstein:12:r13",
+      "einstein:2:c10"
+     ],
+     "placeNote": ""
+    },
+    "pipe": {
+     "name": "Brier pipe (recreation)",
+     "record": {
+      "title": "Einstein's Brier Pipe",
+      "date": "",
+      "lines": [],
+      "recreation": "Recreation from reference photographs; not the original object",
+      "holder": "Original: National Museum of American History, Smithsonian Institution",
+      "credit": "3D recreation by the Immigrant Hall of Honor, modelled from the museum's reference photographs (not shown)."
+     },
+     "clipKeys": [
+      "einstein:12:r14"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "einstein-mercer-street-front": {
+   "slug": "einstein",
+   "titles": [
+    "112 Mercer Street, Princeton",
+    "Home until 1955"
+   ],
+   "stops": {
+    "house": {
+     "name": "His home, 112 Mercer Street",
+     "record": null,
+     "clipKeys": [
+      "einstein:7:c8"
+     ],
+     "placeNote": ""
+    },
+    "article": {
+     "name": "“Atomic War or Peace,” 1947",
+     "record": null,
+     "clipKeys": [
+      "einstein:6:c5",
+      "einstein:6:c6"
+     ],
+     "placeNote": ""
+    },
+    "desk": {
+     "name": "Seated in his study, 1954",
+     "record": {
+      "title": "Albert Einstein in study, seated",
+      "date": "1954",
+      "lines": [],
+      "recreation": "",
+      "holder": "",
+      "credit": ""
+     },
+     "clipKeys": [
+      "einstein:12:r21"
+     ],
+     "placeNote": ""
+    },
+    "standing": {
+     "name": "Standing in his study, and at the window",
+     "record": {
+      "title": "Albert Einstein in study, standing; looking out window",
+      "date": "",
+      "lines": [],
+      "recreation": "",
+      "holder": "",
+      "credit": ""
+     },
+     "clipKeys": [
+      "einstein:12:r22"
+     ],
+     "placeNote": ""
+    },
+    "star1955": {
+     "name": "Evening star, April 18, 1955",
+     "record": {
+      "title": "Einstein Dies At Princeton (Evening star (Washington, D.C.), 1955-04-18, p. 1)",
+      "date": "April 18, 1955",
+      "lines": [
+       "Albert Einstein died on April 18, 1955 at Princeton, New Jersey."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; Evening star (Washington, D.C.), 1955-04-18"
+     },
+     "clipKeys": [
+      "einstein:7:c3",
+      "einstein:21:r8"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "naismith-almonte-high-school": {
+   "slug": "naismith",
+   "titles": [
+    "The high school, Almonte",
+    "Almonte, Ontario",
+    "Born in Almonte"
+   ],
+   "stops": {
+    "lynden": {
+     "name": "The Lynden tribune, March 23, 1922",
+     "record": {
+      "title": "So Lynden Fans May Know How Basketball Started (The Lynden tribune (Lynden, Wash.), 1922-03-23, p. 4)",
+      "date": "March 23, 1922",
+      "lines": [
+       "James Naismith was born in Almonte"
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; The Lynden tribune (Lynden, Wash.), 1922-03-23"
+     },
+     "clipKeys": [
+      "naismith:21:r1"
+     ],
+     "placeNote": "Shown here in Almonte; the page is at the Library of Congress."
+    },
+    "milwaukee": {
+     "name": "The Milwaukee leader, March 3, 1930",
+     "record": {
+      "title": "Speaking of Sport (The Milwaukee leader (Milwaukee, Wis.), 1930-03-03, p. 10)",
+      "date": "March 3, 1930",
+      "lines": [
+       "James Naismith was born in Almonte"
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; The Milwaukee leader (Milwaukee, Wis.), 1930-03-03"
+     },
+     "clipKeys": [
+      "naismith:21:r3"
+     ],
+     "placeNote": "Shown here in Almonte; the page is at the Library of Congress."
+    }
+   }
+  },
+  "naismith-presbyterian-dining-hall": {
+   "slug": "naismith",
+   "titles": [
+    "Presbyterian College, Montreal · the dining room",
+    "Presbyterian College, Montreal",
+    "The Presbyterian College, Montreal"
+   ],
+   "stops": {
+    "mcgill": {
+     "name": "Old Hall, McGill University",
+     "record": {
+      "title": "Old Hall, McGill University, Montreal",
+      "date": "between 1890 and 1901",
+      "lines": [
+       "James Naismith attended McGill.",
+       "Naismith had an appointment as instructor at McGill."
+      ],
+      "recreation": "",
+      "holder": "Detroit Publishing Co., Library of Congress Prints and Photographs Division",
+      "credit": "Detroit Publishing Co., Library of Congress Prints and Photographs Division"
+     },
+     "clipKeys": [
+      "naismith:12:r9",
+      "naismith:1:c3"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "naismith-springfield-gym": {
+   "slug": "naismith",
+   "titles": [
+    "The gymnasium, Springfield",
+    "Inventing basketball"
+   ],
+   "stops": {
+    "game": {
+     "name": "The first game",
+     "record": null,
+     "clipKeys": [
+      "naismith:2:c5"
+     ],
+     "placeNote": ""
+    },
+    "book": {
+     "name": "Basket ball, 1894",
+     "record": {
+      "title": "Basket ball. (1894)",
+      "date": "c1894",
+      "lines": [
+       "James Naismith, 1861-1939, is the author of Basket ball, with Luther Halsey Gulick as joint author.",
+       "Basket ball by James Naismith was published in New York City by American sports publishing company, c1894."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress",
+      "credit": "Library of Congress. The books in this collection are in the public domain and are free to use and reuse."
+     },
+     "clipKeys": [
+      "naismith:12:r1"
+     ],
+     "placeNote": ""
+    },
+    "basket": {
+     "name": "Peach basket (recreation)",
+     "record": {
+      "title": "Peach basket",
+      "date": "",
+      "lines": [
+       "Naismith nailed two peach baskets."
+      ],
+      "recreation": "Recreation; the originals were not preserved",
+      "holder": "Originals: not preserved",
+      "credit": "3D recreation by the Immigrant Hall of Honor: a generic peach basket, modelled without a photograph of the originals."
+     },
+     "clipKeys": [
+      "naismith:2:c7",
+      "naismith:12:r2"
+     ],
+     "placeNote": ""
+    },
+    "ball": {
+     "name": "Ball (recreation)",
+     "record": {
+      "title": "Ball",
+      "date": "",
+      "lines": [],
+      "recreation": "Recreation; the originals were not preserved",
+      "holder": "Original: not preserved",
+      "credit": "3D recreation by the Immigrant Hall of Honor: a generic laced leather ball, modelled without a photograph of the original."
+     },
+     "clipKeys": [
+      "naismith:12:r3"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "naismith-robinson-gym": {
+   "slug": "naismith",
+   "titles": [
+    "Robinson Gymnasium, Lawrence",
+    "The University of Kansas"
+   ],
+   "stops": {
+    "paper1898": {
+     "name": "Topeka state journal, 1898",
+     "record": {
+      "title": "The Topeka state journal (Topeka, Kansas), September 10, 1898, (THIRD EDITION)",
+      "date": "September 10, 1898",
+      "lines": [
+       "Naismith succeeded Rev. Hector Cowan as the new director of physical culture.",
+       "Naismith was a resident of Denver."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America"
+     },
+     "clipKeys": [
+      "naismith:12:r4"
+     ],
+     "placeNote": ""
+    },
+    "kc1898": {
+     "name": "Kansas City journal, December 18, 1898",
+     "record": {
+      "title": "Basket ball at Kansas University (Kansas City journal (Kansas City, Mo.), 1898-12-18, p. 18)",
+      "date": "December 18, 1898",
+      "lines": [
+       "In 1898, James Naismith was hired by the University of Kansas to coach basketball."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; Kansas City journal (Kansas City, Mo.), 1898-12-18"
+     },
+     "clipKeys": [
+      "naismith:21:r6"
+     ],
+     "placeNote": ""
+    },
+    "paper1908": {
+     "name": "Topeka state journal, 1908",
+     "record": {
+      "title": "The Topeka state journal (Topeka, Kansas), June 9, 1908, (LAST EDITION)",
+      "date": "June 9, 1908",
+      "lines": [
+       "Robinson gymnasium was formally dedicated with James Naismith delivering the principal address.",
+       "Robinson Gymnasium was dedicated in 1908."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America"
+     },
+     "clipKeys": [
+      "naismith:12:r5"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "naismith-hall-of-fame": {
+   "slug": "naismith",
+   "titles": [
+    "Naismith Memorial Basketball Hall of Fame, Springfield · 2019",
+    "Hall of Fame grounds, Springfield (2019)",
+    "Basketball Hall of Fame"
+   ],
+   "stops": {
+    "star1959": {
+     "name": "Evening star, March 4, 1959",
+     "record": {
+      "title": "13 Are Named To Cage Hall (Evening star (Washington, D.C.), 1959-03-04, p. 66)",
+      "date": "March 4, 1959",
+      "lines": [
+       "James Naismith was inducted into the Basketball Hall of Fame in 1959."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; Evening star (Washington, D.C.), 1959-03-04"
+     },
+     "clipKeys": [
+      "naismith:21:r8"
+     ],
+     "placeNote": ""
+    },
+    "star1961": {
+     "name": "Evening star, November 5, 1961",
+     "record": {
+      "title": "Basketball First Day (Evening star (Washington, D.C.), 1961-11-05, p. 50)",
+      "date": "November 5, 1961",
+      "lines": [],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; Evening star (Washington, D.C.), 1961-11-05"
+     },
+     "clipKeys": [
+      "naismith:21:r9"
+     ],
+     "placeNote": ""
+    },
+    "photo": {
+     "name": "The photograph, 2019",
+     "record": {
+      "title": "View of a tower hoisting a symbolic basketball outside the Naismith Memorial Basketball Hall of Fame in Springfield, Massachusetts",
+      "date": "2019",
+      "lines": [],
+      "recreation": "",
+      "holder": "Carol M. Highsmith Archive, Library of Congress Prints and Photographs Division",
+      "credit": "Carol M. Highsmith, Carol M. Highsmith Archive, Library of Congress Prints and Photographs Division"
+     },
+     "clipKeys": [
+      "naismith:12:r8"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "muir-dunbar-high-street": {
+   "slug": "muir",
+   "titles": [
+    "High Street, Dunbar",
+    "126 and 128 High Street, Dunbar",
+    "Born in Dunbar"
+   ],
+   "stops": {
+    "passport": {
+     "name": "Passport application, 1903",
+     "record": {
+      "title": "Passport application of John Muir, Volume 995: May 1 to 6, 1903",
+      "date": "1903",
+      "lines": [
+       "In 1838, on April 21, John Muir was born in Dunbar, Scotland.",
+       "In 1849, in the company of his father, sister, and brother, ten-year-old John Muir left Scotland for the United States."
+      ],
+      "recreation": "",
+      "holder": "National Archives at College Park, General Records of the Department of State, Passport Applications",
+      "credit": "National Archives at College Park, General Records of the Department of State, Passport Applications, Volume 995: May 1 to 6, 1903, NAID 235846313 (images 0420 and 0421; image provided by Fold3)."
+     },
+     "clipKeys": [
+      "muir:13:r1"
+     ],
+     "placeNote": "Shown here in Dunbar; no source on file says where the application was made."
+    },
+    "boyhood": {
+     "name": "The story of my boyhood and youth",
+     "record": {
+      "title": "The story of my boyhood and youth, by John Muir (1913)",
+      "date": "1913",
+      "lines": [
+       "In 1838, on April 21, John Muir was born in Dunbar, Scotland."
+      ],
+      "recreation": "",
+      "holder": "University of California Libraries (scan: Internet Archive)",
+      "credit": "John Muir, The Story of My Boyhood and Youth (Houghton Mifflin, 1913); scan: Internet Archive, University of California Libraries copy"
+     },
+     "clipKeys": [
+      "muir:21:r1"
+     ],
+     "placeNote": "Shown here in Dunbar; the book was published in 1913."
+    }
+   }
+  },
+  "muir-north-hall": {
+   "slug": "muir",
+   "titles": [
+    "North Hall, Madison · about 1885",
+    "North Hall, Madison (about 1885)",
+    "Inventions, Madison"
+   ],
+   "stops": {
+    "clock": {
+     "name": "Clock design, 1863",
+     "record": {
+      "title": "John Muir’s Clock Design",
+      "date": "1863",
+      "lines": [
+       "John Muir was an inventor."
+      ],
+      "recreation": "",
+      "holder": "Wisconsin Historical Society",
+      "credit": "Wisconsin Historical Society, John Muir’s Clock Design, W0133MG"
+     },
+     "clipKeys": [
+      "muir:13:r5"
+     ],
+     "placeNote": "Shown here in Madison; no verified fact says where the drawings were made."
+    },
+    "star": {
+     "name": "The star hand, 1863",
+     "record": {
+      "title": "John Muir Clock",
+      "date": "1863",
+      "lines": [],
+      "recreation": "",
+      "holder": "Wisconsin Historical Society",
+      "credit": "Wisconsin Historical Society, John Muir Clock, W014DPN"
+     },
+     "clipKeys": [
+      "muir:13:r6"
+     ],
+     "placeNote": "Shown here in Madison; no verified fact says where the drawings were made."
+    },
+    "thermometer": {
+     "name": "Combined thermometer (plate, 1913)",
+     "record": {
+      "title": "Combined Thermometer, Hygrometer, Barometer, and Pyrometer (The story of my boyhood and youth, by John Muir, 1913)",
+      "date": "1913",
+      "lines": [
+       "John Muir was an inventor."
+      ],
+      "recreation": "",
+      "holder": "University of California Libraries (scan: Internet Archive)",
+      "credit": "John Muir, The Story of My Boyhood and Youth (1913), illustration from a sketch by the author; scan: Internet Archive"
+     },
+     "clipKeys": [
+      "muir:21:r4"
+     ],
+     "placeNote": "Shown here in Madison; the plate is from his book of 1913."
+    }
+   }
+  },
+  "muir-hutchings-house": {
+   "slug": "muir",
+   "titles": [
+    "The Hutchings House, Yosemite Valley · about 1902",
+    "The Hutchings House, Yosemite Valley (about 1902)",
+    "Yosemite"
+   ],
+   "stops": {
+    "summer": {
+     "name": "My first summer in the Sierra",
+     "record": {
+      "title": "My first summer in the Sierra, by John Muir (1911)",
+      "date": "1911",
+      "lines": [],
+      "recreation": "",
+      "holder": "Library of Congress",
+      "credit": "Library of Congress, General Collections; John Muir, My First Summer in the Sierra (1911)"
+     },
+     "clipKeys": [
+      "muir:21:r5"
+     ],
+     "placeNote": ""
+    },
+    "register": {
+     "name": "The Grand Register",
+     "record": {
+      "title": "Muir’s signature in Grand Register",
+      "date": "August 1938",
+      "lines": [],
+      "recreation": "",
+      "holder": "National Park Service, Yosemite National Park Archives, Yosemite Historic Photo Collection",
+      "credit": "National Park Service, Yosemite National Park Archives, Yosemite Historic Photo Collection, RL_01368. Photographer: Ralph H. Anderson."
+     },
+     "clipKeys": [
+      "muir:13:r8"
+     ],
+     "placeNote": "Photographed in August 1938; no source on file says where the register was kept."
+    },
+    "fern": {
+     "name": "Fern sheet, 1875",
+     "record": {
+      "title": "Pellaea ornithopus, John Muir, 1875, Sierra Nevada (BRIT461292)",
+      "date": "1875",
+      "lines": [],
+      "recreation": "",
+      "holder": "Botanical Research Institute of Texas (BRIT), via the TORCH Portal",
+      "credit": "Botanical Research Institute of Texas (BRIT), BRIT461292, via the TORCH Portal."
+     },
+     "clipKeys": [
+      "muir:13:r10"
+     ],
+     "placeNote": "The specimen’s record names John Muir, 1875, Sierra Nevada; it does not tie the sheet to this room."
+    }
+   }
+  },
+  "muir-martinez-study": {
+   "slug": "muir",
+   "titles": [
+    "The study, John Muir House",
+    "The John Muir House, Martinez",
+    "The John Muir House"
+   ],
+   "stops": {
+    "portrait": {
+     "name": "Self-portrait, 1887",
+     "record": {
+      "title": "Self Portrait of John Muir",
+      "date": "February 23, 1887",
+      "lines": [
+       "John Muir was a writer."
+      ],
+      "recreation": "",
+      "holder": "National Park Service, GGNRA, Park Archives",
+      "credit": "National Park Service, GGNRA, Park Archives, GOGA 32470.0345"
+     },
+     "clipKeys": [
+      "muir:13:r11"
+     ],
+     "placeNote": "A printed reproduction of a drawing in a letter of February 23, 1887; the letter is not from this room."
+    },
+    "sierra": {
+     "name": "The Sierra Club, 1892",
+     "record": {
+      "title": "Articles of association, articles of incorporation, by-laws, and list of charter members of the Sierra club",
+      "date": "1892",
+      "lines": [
+       "John Muir co-founded the Sierra Club in 1892."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress",
+      "credit": "Library of Congress"
+     },
+     "clipKeys": [
+      "muir:21:r6",
+      "muir:3:c3"
+     ],
+     "placeNote": "Shown here in Martinez; the book is at the Library of Congress."
+    },
+    "parks": {
+     "name": "Our National Parks, 1901",
+     "record": {
+      "title": "Our national parks, by John Muir (1901)",
+      "date": "1901",
+      "lines": [
+       "In 1901 Muir published Our National Parks."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress",
+      "credit": "Library of Congress; John Muir, Our National Parks (Houghton, Mifflin, 1901)"
+     },
+     "clipKeys": [
+      "muir:21:r7",
+      "muir:3:c5"
+     ],
+     "placeNote": "Shown here in Martinez; the book is at the Library of Congress."
+    }
+   }
+  },
+  "muir-hetch-hetchy": {
+   "slug": "muir",
+   "titles": [
+    "Hetch Hetchy Valley · about 1911, before the dam",
+    "Hetch Hetchy Valley (about 1911, before the dam)",
+    "Hetch Hetchy"
+   ],
+   "stops": {
+    "photo": {
+     "name": "The panorama, about 1911",
+     "record": {
+      "title": "Hetch - Hetchy Valley, Sierra Nevada Mts., Calif.",
+      "date": "c1911",
+      "lines": [
+       "The petition signed by John Muir urged Congress to defeat the Raker Bill, which called for a dam to be built across the Hetch Hetchy Valley."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress Prints and Photographs Division",
+      "credit": "Matt Ashby Wolfskill, Library of Congress Prints and Photographs Division"
+     },
+     "clipKeys": [
+      "muir:13:r12"
+     ],
+     "placeNote": ""
+    },
+    "call": {
+     "name": "Let everyone help to save Hetch-Hetchy",
+     "record": {
+      "title": "Let everyone help to save the famous Hetch-Hetchy Valley and stop the commercial destruction which threatens our national parks",
+      "date": "1911",
+      "lines": [],
+      "recreation": "",
+      "holder": "Library of Congress",
+      "credit": "Library of Congress"
+     },
+     "clipKeys": [
+      "muir:21:r8"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "albright-ss-america": {
+   "slug": "albright",
+   "titles": [
+    "A liner’s tourist lounge · 1940",
+    "A liner’s tourist lounge (1940)",
+    "Into New York Harbor"
+   ],
+   "stops": {
+    "photo": {
+     "name": "The photograph, 1940",
+     "record": {
+      "title": "S.S. America, United States Lines. Tourist lounge, general",
+      "date": "October 18, 1940",
+      "lines": [],
+      "recreation": "",
+      "holder": "Library of Congress, Prints and Photographs Division, Gottscho-Schleisner Collection",
+      "credit": "Gottscho-Schleisner, Inc., Gottscho-Schleisner Collection, Library of Congress Prints and Photographs Division"
+     },
+     "clipKeys": [
+      "albright:15:r3"
+     ],
+     "placeNote": ""
+    },
+    "resolution": {
+     "name": "S. Res. 585 (2022)",
+     "record": {
+      "title": "S. Res. 585: Honoring the life, achievements, and legacy of the Honorable Madeleine K. Albright (2022)",
+      "date": "2022",
+      "lines": [
+       "In 1948 Albright's family immigrated to the United States.",
+       "Albright became a U.S. citizen in 1957."
+      ],
+      "recreation": "",
+      "holder": "U.S. Government Publishing Office (govinfo)",
+      "credit": "U.S. Senate, S. Res. 585, 117th Congress (govinfo)"
+     },
+     "clipKeys": [
+      "albright:21:r1"
+     ],
+     "placeNote": "Shown here in the lounge; the resolution is a Senate record of 2022."
+    }
+   }
+  },
+  "albright-archives-rotunda": {
+   "slug": "albright",
+   "titles": [
+    "The Rotunda, National Archives · September 14, 2016",
+    "The Rotunda, National Archives, Washington (2016)",
+    "A U.S. citizen"
+   ],
+   "stops": {
+    "remarks": {
+     "name": "The naturalization ceremony, September 14, 2016",
+     "record": {
+      "title": "Naturalization Ceremony at the National Archives in Washington, D.C.",
+      "date": "September 14, 2016",
+      "lines": [],
+      "recreation": "",
+      "holder": "",
+      "credit": ""
+     },
+     "clipKeys": [
+      "albright:15:r22"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "albright-un-security-council": {
+   "slug": "albright",
+   "titles": [
+    "The Security Council chamber, as photographed 1977-81",
+    "The Security Council chamber, New York (1977-81)",
+    "Ambassador to the United Nations"
+   ],
+   "stops": {
+    "photo": {
+     "name": "The slide, 1977-81",
+     "record": {
+      "title": "U.N. Security Council Chamber [United Nations, New York]",
+      "date": "between 1977 and 1981",
+      "lines": [
+       "From 1993 to 1997, Albright served as the U.S. Permanent Representative to the United Nations."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Prints and Photographs Division, Bernard Gotfryd collection",
+      "credit": "Bernard Gotfryd, Library of Congress Prints and Photographs Division"
+     },
+     "clipKeys": [
+      "albright:15:r10"
+     ],
+     "placeNote": ""
+    },
+    "sheet": {
+     "name": "Contact sheet, January 27, 1993",
+     "record": {
+      "title": "V000113, January 27, 1993",
+      "date": "January 27, 1993",
+      "lines": [
+       "Vice President Gore was photographed swearing in Madeleine Albright as Ambassador to the United Nations on January 27, 1993."
+      ],
+      "recreation": "",
+      "holder": "National Archives, Vice Presidential Records of the White House Photograph Office (Clinton Administration)",
+      "credit": "Vice Presidential Records of the White House Photograph Office (Clinton Administration), National Archives, NAID 24326093"
+     },
+     "clipKeys": [
+      "albright:15:r8"
+     ],
+     "placeNote": "Photographed on January 27, 1993, at her swearing-in as Ambassador; not in this chamber."
+    },
+    "hearing": {
+     "name": "The confirmation hearing, 1993",
+     "record": {
+      "title": "Madeleine K. Albright before the Sen. For. Rel. Cmte during her confirmation hearing to be the U.S. representative to the U.N",
+      "date": "1993",
+      "lines": [
+       "Madeleine Albright testified in front of the Senate Foreign Relations Committee during her confirmation hearing to be U.S. ambassador to the United Nations."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Prints and Photographs Division",
+      "credit": "Library of Congress, Prints and Photographs Division, photograph by R. Michael Jenkins, LC-DIG-ppmsca-65042"
+     },
+     "clipKeys": [
+      "albright:15:r7"
+     ],
+     "placeNote": "Photographed at her confirmation hearing before the Senate Foreign Relations Committee; not in this chamber."
+    },
+    "havel": {
+     "name": "A book from Prague, 1993",
+     "record": {
+      "title": "President Clinton with Madeline Albright and Warren Christopher",
+      "date": "April 20, 1993",
+      "lines": [
+       "On April 20, 1993, President Clinton, United Nations Ambassador Madeleine Albright and Secretary of State Warren Christopher looked at a book given to the President by President Vaclav Havel of Czechoslovakia."
+      ],
+      "recreation": "",
+      "holder": "William J. Clinton Library, National Archives",
+      "credit": "White House Photograph Office (Clinton Administration), photographer Robert McNeely; William J. Clinton Library, NAID 183373904"
+     },
+     "clipKeys": [
+      "albright:15:r2"
+     ],
+     "placeNote": "Photographed in the Oval Office, Washington, on April 20, 1993; not in this chamber."
+    },
+    "angola": {
+     "name": "Arrival in Angola, 1996",
+     "record": {
+      "title": "Ambassador Albright with Ambassador Steinberg Upon Her Arrival in Angola",
+      "date": "January 1996",
+      "lines": [
+       "Ambassador Albright was with Ambassador Steinberg upon her arrival in Angola in January 1996."
+      ],
+      "recreation": "",
+      "holder": "National Archives, General Records of the Department of State (RG 59)",
+      "credit": "General Records of the Department of State (RG 59), 59-PA-367-1, National Archives, NAID 404793993"
+     },
+     "clipKeys": [
+      "albright:15:r9"
+     ],
+     "placeNote": "Photographed on her arrival in Angola, January 1996."
+    }
+   }
+  },
+  "albright-oval-office-1993": {
+   "slug": "albright",
+   "titles": [
+    "The Oval Office · as photographed in April 1993",
+    "The Oval Office as photographed in April 1993",
+    "Secretary of State"
+   ],
+   "stops": {
+    "frame": {
+     "name": "The Oval Office, April 20, 1993",
+     "record": {
+      "title": "President Clinton speaking with Ambassador to the United Nations Madeleine Albright and others in the Oval Office",
+      "date": "April 20, 1993",
+      "lines": [
+       "On April 20, 1993, President Clinton was speaking with Ambassador to the United Nations Madeleine Albright in the Oval Office."
+      ],
+      "recreation": "",
+      "holder": "William J. Clinton Library, National Archives",
+      "credit": "White House Photograph Office (Clinton Administration), Bob McNeely, National Archives"
+     },
+     "clipKeys": [
+      "albright:15:r11"
+     ],
+     "placeNote": "The room as photographed on April 20, 1993, when she was Ambassador to the United Nations."
+    },
+    "photo": {
+     "name": "The swearing-in, 1997",
+     "record": {
+      "title": "Swearing-In Ceremony for Madeleine Albright as Secretary of State",
+      "date": "January 23, 1997",
+      "lines": [
+       "Madeleine Albright was sworn in as Secretary of State in the Oval Office on January 23, 1997.",
+       "Vice President Gore administered the oath of office at the swearing-in ceremony of Madeleine Albright as Secretary of State."
+      ],
+      "recreation": "",
+      "holder": "William J. Clinton Library, National Archives",
+      "credit": "White House Photograph Office (Clinton Administration), photographer Ralph Alswang; William J. Clinton Library, NAID 131493882"
+     },
+     "clipKeys": [
+      "albright:15:r12"
+     ],
+     "placeNote": "Photographed in the Oval Office on January 23, 1997; the room around it is shown as photographed in April 1993."
+    },
+    "memo": {
+     "name": "A memorandum for the President",
+     "record": {
+      "title": "Memo from Madeleine Albright to President Clinton",
+      "date": "",
+      "lines": [],
+      "recreation": "",
+      "holder": "William J. Clinton Library, National Archives and Records Administration",
+      "credit": "William J. Clinton Library, National Archives and Records Administration, NAID 131043614"
+     },
+     "clipKeys": [
+      "albright:15:r13"
+     ],
+     "placeNote": "The catalogue gives no date; the memorandum is not from the day shown here."
+    },
+    "korea": {
+     "name": "Panmunjom, 1997",
+     "record": {
+      "title": "Secretary of State Madeleine Albright shakes hands with American family members",
+      "date": "February 22, 1997",
+      "lines": [
+       "Secretary of State Madeleine Albright shakes hands with American family members at Camp Bonifas, Panmunjom, South Korea."
+      ],
+      "recreation": "",
+      "holder": "National Archives at College Park - Still Pictures, Records of the Office of the Secretary of Defense",
+      "credit": "National Archives at College Park - Still Pictures, Records of the Office of the Secretary of Defense, 330-CFD-DA-ST-98-04103"
+     },
+     "clipKeys": [
+      "albright:15:r14"
+     ],
+     "placeNote": "Photographed at Camp Bonifas, Panmunjom, South Korea, on February 22, 1997."
+    },
+    "wye": {
+     "name": "Wye River, 1998",
+     "record": {
+      "title": "President Clinton and Secretary of State Madeleine Albright Talk During the Wye River Plenary Session near Queenstown, Maryland",
+      "date": "October 15, 1998",
+      "lines": [
+       "President Clinton and Secretary of State Madeleine Albright talked during the Wye River Plenary Session near Queenstown, Maryland."
+      ],
+      "recreation": "",
+      "holder": "William J. Clinton Library, National Archives",
+      "credit": "William J. Clinton Library, National Archives; photographer Sharon Farmer; P67327-14"
+     },
+     "clipKeys": [
+      "albright:15:r15"
+     ],
+     "placeNote": "Photographed near Queenstown, Maryland, on October 15, 1998."
+    }
+   }
+  },
+  "albright-east-room-2012": {
+   "slug": "albright",
+   "titles": [
+    "The East Room, White House · May 29, 2012",
+    "The East Room, White House (May 29, 2012)",
+    "The Presidential Medal of Freedom"
+   ],
+   "stops": {
+    "photo": {
+     "name": "The ceremony, May 29, 2012",
+     "record": {
+      "title": "President Obama Hosts the 2012 Presidential Medal of Freedom Ceremony",
+      "date": "May 29, 2012",
+      "lines": [
+       "Madeleine Albright was a recipient of the Presidential Medal of Freedom that President Barack Obama presented during a ceremony in the East Room of the White House, May 29, 2012."
+      ],
+      "recreation": "",
+      "holder": "White House Photo Office (Obama Administration), National Archives",
+      "credit": "White House Photo Office (Obama Administration), National Archives"
+     },
+     "clipKeys": [
+      "albright:15:r19"
+     ],
+     "placeNote": ""
+    },
+    "remarks": {
+     "name": "The President’s remarks, May 29, 2012",
+     "record": {
+      "title": "Remarks on Presenting the Presidential Medals of Freedom, May 29, 2012",
+      "date": "May 29, 2012",
+      "lines": [
+       "Madeleine Albright was a recipient of the Presidential Medal of Freedom that President Barack Obama presented during a ceremony in the East Room of the White House, May 29, 2012."
+      ],
+      "recreation": "",
+      "holder": "U.S. Government Publishing Office (govinfo)",
+      "credit": "Daily Compilation of Presidential Documents, DCPD-201200430 (govinfo)"
+     },
+     "clipKeys": [
+      "albright:21:r3"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "lamarr-vienna-graben": {
+   "slug": "lamarr",
+   "titles": [
+    "The Graben, Vienna · 1902",
+    "The Graben, Vienna",
+    "Born in Vienna"
+   ],
+   "stops": {
+    "photo": {
+     "name": "The stereograph, 1902",
+     "record": {
+      "title": "The busy Graben, Vienna, Austria.",
+      "date": "[1902]",
+      "lines": [],
+      "recreation": "",
+      "holder": "Library of Congress Prints and Photographs Division",
+      "credit": "Library of Congress Prints and Photographs Division (stereograph)"
+     },
+     "clipKeys": [
+      "lamarr:9:r1"
+     ],
+     "placeNote": ""
+    },
+    "paper1953": {
+     "name": "Evening star, 1953",
+     "record": {
+      "title": "Hedy Lamarr a Citizen (Evening star (Washington, D.C.), 1953-04-10, p. 6)",
+      "date": "April 10, 1953",
+      "lines": [
+       "Hedy Lamarr was born Hedwig Eva Maria Kiesler."
+      ],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; Evening star (Washington, D.C.), 1953-04-10"
+     },
+     "clipKeys": [
+      "lamarr:21:r1"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "lamarr-mgm-gate": {
+   "slug": "lamarr",
+   "titles": [
+    "Metro-Goldwyn-Mayer studios, Culver City",
+    "MGM studios, Culver City",
+    "Films for Metro-Goldwyn-Mayer"
+   ],
+   "stops": {
+    "portrait": {
+     "name": "Portrait, 1939",
+     "record": {
+      "title": "Actress Hedy Lamarr, 1939",
+      "date": "January 19, 1939",
+      "lines": [],
+      "recreation": "",
+      "holder": "University of California, Los Angeles. Library. Department of Special Collections",
+      "credit": "Los Angeles Times Photographic Collection, University of California, Los Angeles. Library. Department of Special Collections. CC BY 4.0."
+     },
+     "clipKeys": [
+      "lamarr:9:r4"
+     ],
+     "placeNote": "The portrait shown at the colonnade (Los Angeles Times, 1939) was not taken at this street front."
+    },
+    "star1940": {
+     "name": "Evening star, August 15, 1940",
+     "record": {
+      "title": "Enchanting Hedy Lamarr (Evening star (Washington, D.C.), 1940-08-15, p. 6)",
+      "date": "August 15, 1940",
+      "lines": [],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; Evening star (Washington, D.C.), 1940-08-15"
+     },
+     "clipKeys": [
+      "lamarr:21:r4"
+     ],
+     "placeNote": ""
+    },
+    "waterbury1940": {
+     "name": "Waterbury Democrat, August 30, 1940",
+     "record": {
+      "title": "Boom Town (The Waterbury Democrat (Waterbury, Conn.), 1940-08-30, p. 15)",
+      "date": "August 30, 1940",
+      "lines": [],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; The Waterbury Democrat (Waterbury, Conn.), 1940-08-30"
+     },
+     "clipKeys": [
+      "lamarr:21:r5"
+     ],
+     "placeNote": ""
+    }
+   }
+  },
+  "lamarr-vienna-central-cemetery": {
+   "slug": "lamarr",
+   "titles": [
+    "Vienna Central Cemetery · around 1905",
+    "Vienna Central Cemetery (as on a postcard of around 1905)",
+    "Later life"
+   ],
+   "stops": {
+    "photo": {
+     "name": "Courtroom, 1946",
+     "record": {
+      "title": "Actress Hedy LaMarr and John Loder in courtroom, 1946",
+      "date": "May 20, 1946",
+      "lines": [
+       "Miss Hedy Lamarr by marriage became Mrs. Hedwig Loder."
+      ],
+      "recreation": "",
+      "holder": "University of California, Los Angeles. Library. Department of Special Collections",
+      "credit": "Los Angeles Times Photographic Collection, University of California, Los Angeles. Library. Department of Special Collections. CC BY 4.0."
+     },
+     "clipKeys": [
+      "lamarr:9:r10",
+      "lamarr:9:r12"
+     ],
+     "placeNote": "Photographed in a courtroom on May 20, 1946."
+    },
+    "file": {
+     "name": "The naturalization file",
+     "record": {
+      "title": "Petition for Naturalization for Hedwig Maria Stauffer",
+      "date": "",
+      "lines": [
+       "Hedwig Maria Stauffer is also known as Hedy Lamarr.",
+       "The naturalization file at the National Archives at Riverside for Hedwig Maria Stauffer, also known as Hedy Lamarr, Hedwig Kiesler Mandl Markey, Hedy Kiesler, Hedy Mandl, and Hedy Markey, contains a certificate of arrival, declaration of intention, affidavits of witnesses, and petition for naturalization."
+      ],
+      "recreation": "",
+      "holder": "National Archives at Riverside",
+      "credit": "National Archives at Riverside, Petition for Naturalization for Hedwig Maria Stauffer, NAID 335708097."
+     },
+     "clipKeys": [
+      "lamarr:9:r3"
+     ],
+     "placeNote": "Shown here in Vienna; the file is at the National Archives at Riverside."
+    },
+    "paper1953": {
+     "name": "Evening star, 1953",
+     "record": {
+      "title": "Drama-Laden Rite Makes American Of Hedy Lamarr (Evening star (Washington, D.C.), 1953-04-11, p. 5)",
+      "date": "April 11, 1953",
+      "lines": [],
+      "recreation": "",
+      "holder": "Library of Congress, Chronicling America",
+      "credit": "Library of Congress, Chronicling America; Evening star (Washington, D.C.), 1953-04-11"
+     },
+     "clipKeys": [
+      "lamarr:21:r8"
+     ],
+     "placeNote": "Shown here in Vienna; the page is at the Library of Congress."
+    }
+   }
+  }
+ }
+}

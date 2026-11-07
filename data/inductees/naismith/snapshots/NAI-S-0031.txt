@@ -1,0 +1,170 @@
+_version_: 1731718143905103872
+access_restricted: true
+aka[0]: https://www.loc.gov/pictures/item/96502335/
+aka[1]: http://www.loc.gov/item/96502335/
+aka[2]: http://www.loc.gov/pictures/item/96502335/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/96502335/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/96502335/
+aka[5]: http://www.loc.gov/resource/cph.3c15891/
+aka[6]: http://lccn.loc.gov/96502335
+aka[7]: https://hdl.loc.gov/loc.pnp/cph.3c15891
+call_number: NYWTS - BIOG--Naismith, James, Dr. [P&P]
+contributor_names[0]: Keller, Lon, artist
+contributors[0].keller, lon: https://www.loc.gov/search/?fa=contributor:keller,+lon&fo=json
+created: 2016-04-21T05:52:34Z
+created_published[0]: 1941.
+created_published_date: 1941.
+date: 1941-01-01
+dates[0].1941: https://www.loc.gov/search/?dates=1941/1941&fo=json
+description[0]: 1 photographic print.
+digital_id[0]: cph 3c15891 //hdl.loc.gov/loc.pnp/cph.3c15891
+digitized: true
+display_offsite: false
+extract_timestamp: 2021-08-25T16:30:05.677Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/96502335/#cph
+extract_urls[1]: http://lccn.loc.gov/96502335#catalog-split-01
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Oil paintings--Reproductions--1940-1950.
+format_headings[1]: Photographic prints--1940-1950.
+format_headings[2]: Portrait paintings--Reproductions--1940-1950.
+genre[0]: Portrait paintings--Reproductions--1940-1950
+genre[1]: Oil paintings--Reproductions--1940-1950
+genre[2]: Photographic prints--1940-1950
+group[0]: cph
+group[1]: catalog-split-01
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-01
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/96502335/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c15000/3c15800/3c15891_150px.jpg#h=150&w=120
+index: 1
+item.call_number: NYWTS - BIOG--Naismith, James, Dr. [P&P]
+item.contributor_names[0]: Keller, Lon, artist
+item.contributors[0]: Keller, Lon, artist.
+item.control_number: 96502335
+item.created: 2016-04-21T05:52:34Z
+item.created_published: 1941.
+item.created_published_date: 1941.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Keller%2C%20Lon&co=cph
+item.creators[0].role: artist
+item.creators[0].title: Keller, Lon
+item.date: 1941.
+item.digital_id[0]: cph 3c15891 //hdl.loc.gov/loc.pnp/cph.3c15891
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Oil%20paintings--Reproductions--1940-1950.&co=cph
+item.formats[0].title: Oil paintings--Reproductions--1940-1950.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1940-1950.&co=cph
+item.formats[1].title: Photographic prints--1940-1950.
+item.formats[2].link: https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20paintings--Reproductions--1940-1950.&co=cph
+item.formats[2].title: Portrait paintings--Reproductions--1940-1950.
+item.genre[0]: Portrait paintings--Reproductions--1940-1950
+item.genre[1]: Oil paintings--Reproductions--1940-1950
+item.genre[2]: Photographic prints--1940-1950
+item.id: 96502335
+item.link: https://www.loc.gov/pictures/item/96502335/
+item.marc: https://www.loc.gov/pictures/item/96502335/marc/
+item.medium[0]: 1 photographic print.
+item.medium_brief: 1 photographic print.
+item.mediums[0]: 1 photographic print.
+item.modified: 2016-04-21T05:52:34Z
+item.notes[0]: Photograph of 1941 oil painting by Lon Keller.
+item.notes[1]: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)
+item.number_former_id[0]: https://www.loc.gov/item/96502335
+item.number_former_id[1]: https://www.loc.gov/item/11668088
+item.other_control_numbers[0]: 11668088
+item.reproduction_number: LC-USZ62-115891 (b&w film copy neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3c15891
+item.rights_advisory: No information on creator or on reproduction rights found with the image, 1996.
+item.rights_information: No information on creator or on reproduction rights found with the image, 1996.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c15000/3c15800/3c15891_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c15000/3c15800/3c15891r.jpg
+item.sort_date: 1941
+item.source_created: 1996-02-12T00:00:00Z
+item.source_modified: 2002-11-09T21:51:54Z
+item.subject_headings[0]: Naismith, James,--1861-1939.
+item.subjects[0]: Naismith, James,--1861-1939
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c15000/3c15800/3c15891_150px.jpg
+item.title: [Dr. James Naismith, three-quarter length portrait, seated, with basketball and date, 1891, in background]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 96502335
+link: https://www.loc.gov/pictures/item/96502335/
+marc: https://www.loc.gov/pictures/item/96502335/marc/
+medium[0]: 1 photographic print.
+medium_brief: 1 photographic print.
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-21T05:52:34Z
+notes[0]: Photograph of 1941 oil painting by Lon Keller.
+notes[1]: New York World-Telegram and the Sun Newspaper Photograph Collection (Library of Congress)
+number[0]: http://www.loc.gov/item/11668088
+number[1]: 2002-11-09t21:51:54
+number[2]: http://www.loc.gov/item/96502335
+number[3]: 96502335
+number_former_id[0]: http://www.loc.gov/item/11668088
+number_former_id[1]: http://www.loc.gov/item/96502335
+number_lccn[0]: 96502335
+number_source_modified[0]: 2002-11-09t21:51:54
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 11668088
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/96502335/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/96502335/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/96502335/dc
+partof[0].count: 110701
+partof[0].title: miscellaneous items in high demand
+partof[0].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=96502335&st=gallery&sb=call_number#focus
+reproduction_number: LC-USZ62-115891 (b&w film copy neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3c15891
+resources[0].caption: b&w film copy neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c15000/3c15800/3c15891_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3c15891/
+rights_advisory: No information on creator or on reproduction rights found with the image, 1996.
+rights_information: No information on creator or on reproduction rights found with the image, 1996.
+score: 19.46323
+shard: 00
+shelf_id: NYWTS - BIOG--Naismith, James, Dr. [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1941
+source_created: 1996-02-12T00:00:00Z
+source_modified: 2002-11-09T21:51:54Z
+subject[0]: oil paintings
+subject[1]: reproductions
+subject[2]: photographic prints
+subject[3]: naismith, james
+subject[4]: portrait paintings
+subject_headings[0]: Naismith, James,--1861-1939
+subjects[0].naismith, james: https://www.loc.gov/search/?fa=subject:naismith,+james&fo=json
+subjects[1].oil paintings: https://www.loc.gov/search/?fa=subject:oil+paintings&fo=json
+subjects[2].photographic prints: https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json
+subjects[3].portrait paintings: https://www.loc.gov/search/?fa=subject:portrait+paintings&fo=json
+subjects[4].reproductions: https://www.loc.gov/search/?fa=subject:reproductions&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c15000/3c15800/3c15891_150px.jpg
+timestamp: 2022-05-02T12:38:36.905Z
+title: [Dr. James Naismith, three-quarter length portrait, seated, with basketball and date, 1891, in background]
+unrestricted: true
+url: https://www.loc.gov/item/96502335/
+resources[0].caption: b&w film copy neg.
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c15000/3c15800/3c15891_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3c15891/
+cite_this.apa: Keller, L. (1941) Dr. James Naismith, three-quarter length portrait, seated, with basketball and date, in background. , 1941. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/96502335/.
+cite_this.chicago: Keller, Lon, Artist. Dr. James Naismith, three-quarter length portrait, seated, with basketball and date, in background. , 1941. Photograph. https://www.loc.gov/item/96502335/.
+cite_this.mla: Keller, Lon, Artist. Dr. James Naismith, three-quarter length portrait, seated, with basketball and date, in background. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/96502335/>.

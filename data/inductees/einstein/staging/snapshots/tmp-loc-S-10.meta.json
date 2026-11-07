@@ -1,0 +1,10 @@
+{
+  "url": "https://blogs.loc.gov/maps/2015/12/einstein-at-100/",
+  "fetch_url": "https://blogs.loc.gov/maps/2015/12/einstein-at-100/",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:29:51Z",
+  "sha256": "9a783bfd814e576303771b4759cbeae484ddfe55c39d07412dfcf567fce7a408",
+  "bytes": 9733,
+  "http_status": 200,
+  "final_url": "https://blogs.loc.gov/maps/2015/12/einstein-at-100/"
+}

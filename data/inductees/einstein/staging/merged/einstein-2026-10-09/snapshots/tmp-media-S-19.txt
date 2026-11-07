@@ -1,0 +1,14 @@
+title: File:Albert Einstein as a child.jpg
+DateTime: 2023-01-18 17:28:46
+ObjectName: Albert Einstein as a child
+CommonsMetadataExtension: 1.2
+Categories: PD US|PD-anon-70-EU|Men facing right|Template Unknown (author)|Portraits of adolescent boys|Portrait photographs of Albert Einstein|Albert Einstein in 1894|1894 black and white portrait photographs of men|19th-century portrait photographs of sitting boys at full length
+ImageDescription: Albert Einstein as a child
+DateTimeOriginal: 1894
+Credit: http://faculty.randolphcollege.edu/tmichalik/einstein.htm
+Artist: Unknown authorUnknown author
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

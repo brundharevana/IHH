@@ -1,0 +1,73 @@
+title: President Clinton and Secretary of State Madeleine Albright Talk During the Wye River Plenary Session near Queenstown, Maryland
+scopeAndContentNote: Photographer: Sharon Farmer
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].city: Little Rock
+physicalOccurrences[0].referenceUnits[0].phone: 501-244-2877
+physicalOccurrences[0].referenceUnits[0].address1: 1200 President Clinton Avenue
+physicalOccurrences[0].referenceUnits[0].postalCode: 72201
+physicalOccurrences[0].referenceUnits[0].name: William J. Clinton Library
+physicalOccurrences[0].referenceUnits[0].state: AR
+physicalOccurrences[0].referenceUnits[0].fax: 501-244-2881
+physicalOccurrences[0].referenceUnits[0].email: clinton.library@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].depth: 0
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Photographic Materials
+physicalOccurrences[0].mediaOccurrences[0].width: 0
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Negative
+physicalOccurrences[0].mediaOccurrences[0].height: 0
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: William J. Clinton Library
+dataControlGroup.groupId: PL-WJC
+dataControlGroup.groupCd: PL-WJC
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+localIdentifier: P67327-14
+productionDates[0].month: 10
+productionDates[0].year: 1998
+productionDates[0].day: 15
+productionDates[0].logicalDate: 1998-10-15
+digitalObjects[0].objectFilename: P67327-14_15Oct1998.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-whpo/594653/P67327-14_15Oct1998.jpg
+digitalObjects[0].objectFileSize: 1956686
+digitalObjects[0].objectId: 131493885
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].collectionIdentifier: WJC-WHPO
+ancestors[0].inclusiveStartDate.month: 1
+ancestors[0].inclusiveStartDate.year: 1993
+ancestors[0].inclusiveStartDate.day: 20
+ancestors[0].inclusiveStartDate.logicalDate: 1993-01-20
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.month: 1
+ancestors[0].inclusiveEndDate.year: 2001
+ancestors[0].inclusiveEndDate.day: 20
+ancestors[0].inclusiveEndDate.logicalDate: 2001-01-20
+ancestors[0].title: Photographs of the White House Photograph Office (Clinton Administration)
+ancestors[0].naId: 594648
+ancestors[1].inclusiveStartDate.month: 1
+ancestors[1].inclusiveStartDate.year: 1993
+ancestors[1].inclusiveStartDate.day: 20
+ancestors[1].inclusiveStartDate.logicalDate: 1993-01-20
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: President (1993-2001 : Clinton). White House Photograph Office. (01/20/1993 - 01/20/2001)
+ancestors[1].creators[0].abolishDate.month: 1
+ancestors[1].creators[0].abolishDate.year: 2001
+ancestors[1].creators[0].abolishDate.day: 20
+ancestors[1].creators[0].abolishDate.logicalDate: 2001-01-20
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 1
+ancestors[1].creators[0].establishDate.year: 1993
+ancestors[1].creators[0].establishDate.day: 20
+ancestors[1].creators[0].establishDate.logicalDate: 1993-01-20
+ancestors[1].creators[0].naId: 10462247
+ancestors[1].inclusiveEndDate.month: 1
+ancestors[1].inclusiveEndDate.year: 2001
+ancestors[1].inclusiveEndDate.day: 20
+ancestors[1].inclusiveEndDate.logicalDate: 2001-01-20
+ancestors[1].title: Photographs Relating to the Clinton Administration
+ancestors[1].naId: 594653
+naId: 131493884

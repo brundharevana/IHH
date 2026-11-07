@@ -1,0 +1,196 @@
+{
+  "slug": "albright",
+  "generated": "2026-10-09",
+  "run_id": "albright-2026-10-09-2",
+  "summary": [
+    {
+      "text": "Madeleine Albright was born in Prague, Czechoslovakia.",
+      "fact_ids": [
+        "ALB-F-0041",
+        "ALB-F-0080"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "early-life",
+      "title": "Born in Prague",
+      "sentences": [
+        {
+          "text": "Madeleine Albright was born in Prague.",
+          "fact_ids": [
+            "ALB-F-0041"
+          ]
+        },
+        {
+          "text": "Because of her father's job with the United Nations, Albright had the opportunity to come to America.",
+          "fact_ids": [
+            "ALB-F-0083"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "united-nations",
+      "title": "Ambassador to the United Nations",
+      "sentences": [
+        {
+          "text": "In 1993 Albright was appointed Ambassador to the United Nations by President Clinton.",
+          "fact_ids": [
+            "ALB-F-0029"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "secretary-of-state",
+      "title": "Secretary of State",
+      "sentences": [
+        {
+          "text": "Vice President Gore administered the oath of office at her swearing-in ceremony as Secretary of State.",
+          "fact_ids": [
+            "ALB-F-0138"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "author",
+      "title": "Author",
+      "sentences": [
+        {
+          "text": "Albright's autobiography is Madam Secretary: A Memoir (2003).",
+          "fact_ids": [
+            "ALB-F-0038"
+          ]
+        },
+        {
+          "text": "Madeleine Albright is the author of Fascism: A Warning.",
+          "fact_ids": [
+            "ALB-F-0046"
+          ]
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1957",
+      "title": "Became a U.S. citizen",
+      "text": "Albright became a U.S. citizen in 1957.",
+      "fact_ids": [
+        "ALB-F-0026"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1978",
+      "title": "National Security Council",
+      "text": "Albright was a Member of President Carter's National Security Council from 1978 to 1981.",
+      "fact_ids": [
+        "ALB-F-0010"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1993",
+      "title": "Ambassador to the United Nations",
+      "text": "In 1993 Albright was appointed Ambassador to the United Nations by President Clinton.",
+      "fact_ids": [
+        "ALB-F-0029"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1993-01-27",
+      "title": "Swearing in as Ambassador",
+      "text": "Vice President Gore was photographed swearing in Madeleine Albright as Ambassador to the United Nations on January 27, 1993.",
+      "fact_ids": [
+        "ALB-F-0141"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1999-09",
+      "title": "Visited Vietnam",
+      "text": "Secretary Albright visited Vietnam to open a new US Consulate General in Ho Chi Minh City.",
+      "fact_ids": [
+        "ALB-F-0144"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "2000-10",
+      "title": "With Kim Jong Il",
+      "text": "Secretary Albright was with Kim Jong Il at a mass spectacle in October 2000.",
+      "fact_ids": [
+        "ALB-F-0143"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "2003",
+      "title": "Madam Secretary: A Memoir",
+      "text": "Albright's autobiography is Madam Secretary: A Memoir (2003).",
+      "fact_ids": [
+        "ALB-F-0038"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "2009",
+      "title": "NATO's New Strategic Concept",
+      "text": "In 2009, NATO Secretary General Anders Fogh Rasmussen asked Albright to chair a group of experts on NATO's New Strategic Concept.",
+      "fact_ids": [
+        "ALB-F-0015"
+      ],
+      "media_ids": []
+    }
+  ],
+  "artifacts": [],
+  "avatar_lines": [
+    {
+      "speaker": "guide",
+      "kind": "narration",
+      "text": "Madeleine Albright was born in Prague, Czechoslovakia.",
+      "fact_ids": [
+        "ALB-F-0041",
+        "ALB-F-0080"
+      ]
+    },
+    {
+      "speaker": "guide",
+      "kind": "narration",
+      "text": "Albright became a U.S. citizen in 1957.",
+      "fact_ids": [
+        "ALB-F-0026"
+      ]
+    }
+  ],
+  "how_to_cite": null,
+  "gaps": [
+    "Family: no verified fact yet. Parents, marriage, children and the family's Jewish ancestry exist only as deferred candidates (staging/deferred-albright-2026-10-09-2: domain F-111, F-112; institutional F-122, F-130, F-149, F-150, F-152; nara F-901, F-902, F-107; media F-4).",
+    "Education: no verified fact yet. Secondary school, undergraduate study, graduate degrees, thesis and dissertation exist only as deferred candidates (institutional F-101 to F-110, domain F-113, nara F-104); none is staged in facts.jsonl.",
+    "Legacy: no verified fact yet. Papers at the Library of Congress and Wellesley, the Smithsonian donation and exhibition, the half-staff proclamation and the Senate tribute exist only as deferred candidates (institutional F-111 to F-113; smithsonian F-15, F-32 to F-34; nara F-106; domain F-124).",
+    "Birth date: no verified source yet (ALB-F-0003 is disputed: its browser-fetched snapshot could not be confirmed live). Birth place is verified (ALB-F-0041, ALB-F-0080).",
+    "Birth name variant 'Madlenka' (ALB-F-0025) is single-source.",
+    "Death date: no verified source yet (ALB-F-0004 disputed). Age at death (ALB-F-0048) and cause of death (ALB-F-0049) are single-source. Only the place of death is verified (ALB-F-0005), and the profile carries it inside the honors section rather than a death or legacy section.",
+    "Arrival in the United States: exact date and port of entry have no verified source yet (ALB-F-0064 and ALB-F-0082 disputed; ALB-F-0065 single-source; ALB-F-0063 on age at arrival disputed). Only the year is verified (ALB-F-0072).",
+    "Earlier flight to Britain and the 1948 departure from Prague: no verified source yet (ALB-F-0085, ALB-F-0157, ALB-F-0042 disputed; ALB-F-0086 single-source); the family's return after the war (ALB-F-0114) is disputed.",
+    "Asylum and settlement: political asylum (ALB-F-0012), teen years in Denver (ALB-F-0013) and the father's University of Denver post (ALB-F-0018) are single-source or disputed; ALB-F-0083 (father's United Nations job) is verified but no fact yet explains how the family came to settle in Denver.",
+    "Citizenship: the year is verified (ALB-F-0026); 'during college' (ALB-F-0073) is single-source and the 50th-anniversary oath renewal (ALB-F-0084) is disputed. No naturalization record found (NARA and LoC newspaper searches for 1955-1963 returned nothing).",
+    "Career, Secretary of State firsts: 'first female Secretary of State' (ALB-F-0007), '64th Secretary of State' (ALB-F-0024), the nomination date (ALB-F-0022), the swearing-in date (ALB-F-0068) and 'highest ranking woman' (ALB-F-0151) are all disputed; the profile cannot yet say she was the first woman in the post.",
+    "Career, United Nations dates: appointment and credentials dates are unresolved (ALB-F-0101 disputed; ALB-F-0102, ALB-F-0103, ALB-F-0104 single-source) and do not agree with each other; resolve before any date is shown.",
+    "Career, NATO enlargement detail: ALB-F-0089 to ALB-F-0092 are disputed; only the general claim ALB-F-0009 is verified.",
+    "Career, other single-source or disputed roles: Defense Policy Board (ALB-F-0036, ALB-F-0139), Community of Democracies (ALB-F-0040), Wilson Center fellowship (ALB-F-0039), Georgetown Women in Foreign Service program (ALB-F-0098), CSIS fellowship (ALB-F-0100), Mondale-Ferraro campaign (ALB-F-0096), NSC legislative affairs (ALB-F-0097), World Refugee Council (ALB-F-0113).",
+    "Awards and honors: National Women's Hall of Fame (ALB-F-0087, ALB-F-0088), Great Americans medal (ALB-F-0078) and Portrait of a Nation Prize (ALB-F-0079) are disputed; only the Order of the White Lion, Presidential Medal of Freedom (both in the profile) and the Transatlantic Leadership Award (ALB-F-0070, not in the profile) are verified.",
+    "Books: Prague Winter (ALB-F-0115) and the 1983 Poland book (ALB-F-0045) are disputed; Read My Pins (ALB-F-0075) is single-source. Bestseller count: ALB-F-0037 (verified) and ALB-F-0154 (single-source) give different numbers; do not state a count beyond ALB-F-0037 until reconciled.",
+    "Pins section rests on two facts (ALB-F-0136, ALB-F-0153); ALB-F-0152 on pins as a diplomatic signature is single-source, and the pin-diplomacy candidates (smithsonian F-14, F-37, F-38, F-47, F-52; media F-7) are deferred.",
+    "IHH page claims with no independent source yet: occupation 'Politician', post-government roles as professor, author and advisor, 'seven books', 'public policy and memoir', Hanno R. Ellenbogen Citizenship Award (2000), Fulbright Prize for International Understanding (2001), the brooch collection, 'trailblazer in diplomacy' and 'lasting impact' (deferred baseline F-14, F-29 to F-33, F-36, F-37, F-39 to F-42). The fulbright.org prize page did not mention her.",
+    "Name aliases: after the critic withdrew ALB-F-0019 to ALB-F-0021 (catalogue headings), the aliases 'Albright, Madeleine Korbel', 'Korbel, Madeleine', 'Korbel, Marie Jana' and 'Madeleine Korbel Albright' have no identity-fact evidence and are not used for name matching.",
+    "Media with no usable licence: ALB-M-0019, ALB-M-0020, ALB-M-0024, ALB-M-0046 and ALB-M-0047 have no rights statement (G1 errors). ALB-M-0025 to ALB-M-0045 carry only a page copyright line for 2026, not a reuse licence. ALB-M-0009 (Herblock), ALB-M-0021 to ALB-M-0023 (Smithsonian terms) and ALB-M-0011 to ALB-M-0013 (rights assessment left to the user) need clearance before display. The profile has no artifacts.",
+    "Single-source facts: 51 facts are single-source (G5), mostly NARA and State Department photo and travel records (ALB-F-0102 to ALB-F-0160); 35 are disputed, most because a browser-fetched snapshot could not be confirmed live (G10).",
+    "Search families that found nothing: LoC Albright Papers finding aid (Cloudflare challenge, ALB-Q-0048, ALB-Q-0186; PDF ALB-Q-0185), LoC 2015 press release on the papers (403, ALB-Q-0049), state.gov biography and Diplomatic Reception Rooms (403, ALB-Q-0050, ALB-Q-0051), State Magazine 2022 (JavaScript-only, ALB-Q-0047), loc.gov catalog and contributor searches (ALB-Q-0055 to ALB-Q-0062, ALB-Q-0194), LoC newspapers 1948-1963 (ALB-Q-0202 to ALB-Q-0208), NARA name-variant and education searches (ALB-Q-0092, ALB-Q-0114 to ALB-Q-0119, ALB-Q-0125, ALB-Q-0132 to ALB-Q-0134), Archives of American Art and Smithsonian Institution Archives (ALB-Q-0149, ALB-Q-0151).",
+    "Candidates deferred over the fact cap or pending corroboration: about 100 items in staging/deferred-albright-2026-10-09-2 (baseline 12, domain 14, institutional 40, loc 8, media 8, nara 17, smithsonian 15), including Albright's own quotations (domain F-105, F-106, F-136; nara F-103, F-108, F-116; smithsonian F-14, F-35)."
+  ]
+}

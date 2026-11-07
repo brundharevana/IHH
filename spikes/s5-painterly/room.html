@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<base href="/s2-style/">
+<title>S5 painterly room (spike)</title>
+<style>body{font:13px/1.4 ui-monospace,Menlo,monospace;margin:12px;background:#15141c;color:#ddd}pre{white-space:pre-wrap;word-break:break-word}</style>
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/"}}</script>
+</head>
+<body>
+<h1>S5 painterly room: illustrative reconstruction (spike)</h1>
+<pre id="log"></pre>
+<img id="preview" alt="" hidden>
+<script type="module">
+const v = new URLSearchParams(location.search).get('v') || Date.now();
+import(`/s5-painterly/room.js?v=${v}`).catch((e) => { document.getElementById('log').textContent += 'IMPORT ERROR ' + e.stack; window.__room = { err: String(e.stack || e) }; });
+</script>
+</body>
+</html>

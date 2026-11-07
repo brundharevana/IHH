@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/5708440",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=5708440",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:32:12Z",
+  "sha256": "9e99929b8eaa8239407f23ed20827f54da8ecdb8a692c466a242aa5c90f7f6e3",
+  "bytes": 6224,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=5708440"
+}

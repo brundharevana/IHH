@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/205611436",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=205611436",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:27:46Z",
+  "sha256": "0a9cea2387a7ff34a01c04582c54ecc22cb6f90fcdf37c376315c4c807f7c9f6",
+  "bytes": 3343,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=205611436"
+}

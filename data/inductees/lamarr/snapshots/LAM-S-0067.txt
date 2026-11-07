@@ -1,0 +1,565 @@
+_version_: 1769974624292962304
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82014085/1940-08-30/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82014085/1940-08-30/ed-1/
+batch[0]: ct_hepburn_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/connecticut/
+composite_location[2]: 2/united states/connecticut/new haven/
+composite_location[3]: 3/united states/connecticut/new haven/waterbury/
+contributor_names[0]: Connecticut State Library, Hartford, CT
+contributors[0].connecticut state library, hartford, ct: https://www.loc.gov/search/?fa=contributor:connecticut+state+library,+hartford,+ct&fo=json
+created_published[0]: Waterbury, Conn., August 30, 1940
+date: 1940-08-30
+date_issued: 1940-08-30
+dates[0].1940-08-30: https://www.loc.gov/search/?dates=1940-08-30/1940-08-30&fo=json
+dates_of_publication: 1917-1946
+description[0]: Waterbury, Conn.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-06-01T13:38:59.922Z
+extract_urls[0]: file:/service/ndnp//ct/batch_ct_hepburn_ver01/data/sn82014085/00393347624/1940083001/1940083001_1.xml#ndnp/ct
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ct
+group[1]: connecticut-state-library-hartford-ct-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn82014085/1940-08-30/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hepburn_ver01:data:sn82014085:00393347624:1940083001:0904/full/pct:6.25/0/default.jpg#h=447&w=330
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hepburn_ver01:data:sn82014085:00393347624:1940083001:0904/full/pct:12.5/0/default.jpg#h=894&w=661
+index: 15
+item.batch[0]: ct_hepburn_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Connecticut State Library, Hartford, CT
+item.created_published[0]: Waterbury, Conn., August 30, 1940
+item.date: 1917
+item.date_issued: 1940-08-30
+item.dates[0]: 1940-08-30
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn82014085
+item.location[0]: Waterbury (Conn.)
+item.location[1]: Connecticut--Waterbury
+item.medium: 22 pages
+item.newspaper_title[0]: The Waterbury Democrat.
+item.notes[0]: Daily (except Sun.)
+item.notes[1]: Vol. 36, no. 56 (Mar. 7, 1917)-v. 44, no. 301 (Dec. 28, 1946).
+item.notes[2]: "Independent Democratic."
+item.notes[3]: Description based on: Vol. 63, no. 85 (Apr. 13, 1945).
+item.notes[4]: Waterbury Republican (Waterbury, Conn. : 1896) (DLC)sn 82014095 (OCoLC)8769351
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_hepburn_ver01/data/sn82014085/00393347624/1940083001/1940083001_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82014085/marcxml
+item.place_of_publication: Waterbury, Conn.
+item.raw_lccn: sn 82014085
+item.reel_numbers[0]: 00393347624
+item.source_group: ndnp/ct
+item.subjects[0]: Waterbury (Conn.)--Newspapers
+item.subjects[1]: Connecticut--Waterbury
+item.subjects[2]: United States--Connecticut--New Haven--Waterbury
+item.title: The Waterbury Democrat (Waterbury, Conn.), August 30, 1940
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn82014085
+location[0]: new haven
+location[1]: connecticut
+location[2]: waterbury
+location[3]: united states
+location_city[0]: waterbury
+location_country[0]: united states
+location_county[0]: new haven
+location_state[0]: connecticut
+locations[0].connecticut: https://www.loc.gov/search/?fa=location:connecticut&fo=json
+locations[1].new haven: https://www.loc.gov/search/?fa=location:new+haven&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[3].waterbury: https://www.loc.gov/search/?fa=location:waterbury&fo=json
+locations_city[0].waterbury: https://www.loc.gov/search/?fa=location_city:waterbury&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].new haven: https://www.loc.gov/search/?fa=location_county:new+haven&fo=json
+locations_state[0].connecticut: https://www.loc.gov/search/?fa=location_state:connecticut&fo=json
+medium: 22 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Waterbury Democrat.
+notes[0]: Daily (except Sun.)
+notes[1]: Vol. 36, no. 56 (Mar. 7, 1917)-v. 44, no. 301 (Dec. 28, 1946).
+notes[2]: "Independent Democratic."
+notes[3]: Description based on: Vol. 63, no. 85 (Apr. 13, 1945).
+notes[4]: Waterbury Republican (Waterbury, Conn. : 1896) (DLC)sn 82014095 (OCoLC)8769351
+number[0]: 00393347624
+number[1]: 1
+number[2]: sn82014085
+number_edition[0]: 1
+number_lccn[0]: sn82014085
+number_reel[0]: 00393347624
+numeric_shelf_id: 194008301
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_hepburn_ver01/data/sn82014085/00393347624/1940083001/1940083001_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82014085/marcxml
+partof[0].count: 4932
+partof[0].title: the waterbury democrat (waterbury, conn.) 1917-1946
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+waterbury+democrat+%28waterbury,+conn.%29+1917-1946&fo=json
+partof[1].count: 3210900
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232412
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the waterbury democrat (waterbury, conn.) 1917-1946
+place_of_publication: Waterbury, Conn.
+publication_frequency[0]: daily
+raw_lccn: sn 82014085
+reel_numbers[0]: 00393347624
+resources[0].files: 22
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hepburn_ver01:data:sn82014085:00393347624:1940083001:0904/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82014085/1940-08-30/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.3663845
+shard: 07
+shelf_id: sn82014085, 1940-08-30, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ct
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: connecticut
+subject[1]: newspapers
+subject[2]: new haven
+subject[3]: waterbury
+subject[4]: united states
+subject[5]: waterbury (conn.)
+subject_headings[0]: Waterbury (Conn.)--Newspapers
+subject_headings[1]: Connecticut--Waterbury
+subject_headings[2]: United States--Connecticut--New Haven--Waterbury
+subjects[0].connecticut: https://www.loc.gov/search/?fa=subject:connecticut&fo=json
+subjects[1].new haven: https://www.loc.gov/search/?fa=subject:new+haven&fo=json
+subjects[2].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[3].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[4].waterbury: https://www.loc.gov/search/?fa=subject:waterbury&fo=json
+subjects[5].waterbury (conn.): https://www.loc.gov/search/?fa=subject:waterbury+%28conn.%29&fo=json
+timestamp: 2023-06-28T19:08:44.277Z
+title: The Waterbury Democrat (Waterbury, Conn.), August 30, 1940
+type[0]: issue
+url: https://www.loc.gov/item/sn82014085/1940-08-30/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_hepburn_ver01/data/sn82014085/00393347624/1940083001/0918.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82014085/1940-08-30/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hepburn_ver01:data:sn82014085:00393347624:1940083001:0904/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ct/batch_ct_hepburn_ver01/data/sn82014085/00393347624/1940083001/0918.pdf
+resources[0].segment_count: 22
+resources[0].url: https://www.loc.gov/resource/sn82014085/1940-08-30/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1940, August 30) The Waterbury Democrat. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82014085/1940-08-30/ed-1/.
+cite_this.chicago: The Waterbury Democrat. (Waterbury, CT), Aug. 30 1940. https://www.loc.gov/item/sn82014085/1940-08-30/ed-1/.
+cite_this.mla: The Waterbury Democrat. (Waterbury, CT) 30 Aug. 1940, p. 15. Retrieved from the Library of Congress, www.loc.gov/item/sn82014085/1940-08-30/ed-1/.
+
+segment_id: /service/ndnp/ct/batch_ct_hepburn_ver01/data/sn82014085/00393347624/1940083001/0918.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_hepburn_ver01/data/sn82014085/00393347624/1940083001/0918.xml&format=alto_xml&full_text=1
+full_text:
+G. B. S. Muzzled By War... Or Is He?
+Shaw Now Captivated By Cinema
+But fie Still Hates Hollywood
+2?
+i producer-director, Gabriel Pascal (left foreground, in polo sbirt), watches bis unit Une
+up a ahot at London’s famous Tower Bridge for “Major Barbara.”
+‘Major Barbara’ Film Almost
+Finished Meantime Europe
+Admires Shavian Complexion
+Almost torgotten these days by war-chasing reporters Is that bosom
+pal of all Americans, George Bernard Shaw. Paul Manning NEA
+representative in London, reports herewith on how the old boy is faring
+!n his 85th year.
+V BY PAUL MANNING
+NEA Service Staff Correspondent
+London, Aug. 30—No Hollywood tourist could be more enthusiastic
+about motion pictures than George Bernard Shaw. __,
+Today, in his study overlooking the Thames River, the white-bearded
+patriarch of Whitehall seems eager that the legend of his distaste for
+tne screen should be destroyed.
+The success of “Pygmalion” did
+that. And now that the screen
+adaptation of his “Major Barbara"
+is near completion. Shaw has near
+ly reached the state of bursting into
+lambics over what miracles the me
+diunt of motion pictures can achieve.
+Net that he's lost htt caustic
+tongue or sprightly wit. In one
+breath he condemns Hollywood by
+saying:
+“It is extraordinary how little
+Hollywood knows about its own bust
+ness.”
+In another he asks:
+‘‘Where can I buy a plastic helmet
+to protect my precious brains?"
+He goes on: “Today at 84 my com
+plexion Is still the admiration of
+Europe.
+“I never permitted Hollywood to
+have my plays because I did not
+want some California ex-bartender
+employed by the studio as a hack
+writer to murder them.
+“My work Is of supreme Interna
+Wendy Hiller as Major Barbara tries to reason with Robert Newton.
+G. B. 8. a mauled animal?
+tional Importance. So much so that
+the government daren’t let me do it.
+I am a muzzled animal at present.”
+SELLING
+SHAW
+Shaw, though slightly more mel
+low than in former years, is just as
+abrupt in his movements, Just as di
+rect, just as conscious of his ability
+as when he wrote "Heartbreak
+House” and then declared he would
+rewrite "Hamlet” some day when he
+had time to bring out its real mean
+ing.
+Gabriel Pascal is responsible for
+Shaw’s present driving interest in
+motion pictures. The day he walk
+ed into Shaw’s apartment cold and
+convinced the great one that he, Ga
+briel Pascal, with one guinea in his
+pocket and no bank balance, should
+be given screen rights to “Pygma
+lion,” Shaw discovered a new hob
+by.
+Now any day Shaw is likely to
+SMEDLEY ACTING
+FOR CIOGROUP
+City Employes Engage
+Counsel to Carry on Ne
+gotiations lor Changes
+Attorney Frederic C. Smedley has
+been named by the Waterbury
+chapter, State, County, and Muni
+cipal Workers union, to negotiate
+with the city government In re
+gard to wages and working condi
+tions. The union, a CIO affiliate,
+has a large membership In the
+street, sewer and water department.
+Adjustments In wage scales are
+to be sought In the 1941 budget,
+which comes up for discussion after
+department heads have submitted
+their next year’s estimates by Sept.
+15.' Changes In working conditions
+will be sought on the basis that they
+go into effect this year.
+The union was formed here last
+winter as a unit of the Waterbury
+Brass Workers Union, pending ap
+plication for a charter. The charter
+from the national CIO union was
+received June 1, and the chapter
+has been functioning Independent
+ly since.
+After Initial clashes with Supt. of
+Public Works Herbert Scott-Smith,
+the union secured several favorable
+changes in working regulations.
+James J. McLarney Is the president.
+turn up at the Denham studios
+where Pascal is filming "Major Bar
+bara” and present the swarthy pro
+ducer-director with a new version
+of a scene.
+To date he has written 60 new
+scenes. The whole affair has devel
+oped Into something of a neck-and
+neck race between Shaw and the
+cast to see who’ll reach the cutting
+room first.
+But the cast doesn’t seem to
+mind. Say* Wendy Hiller, the Eliza
+Doolittle of “Pygmalion” who now
+plays Major Barbara, the salvation
+army heroine:
+“What an experience it Is to speak
+these lines. Shaw provides you with
+whole speeches instead of scraps and
+I find that they have a definite
+rhythm which makes them easy to
+memorize.”
+The admiration is mutual, for
+Shaw says the cast Is doing a good
+Job and “Pascal will do for the film
+what Diagihlev did for the Russian
+ballet. Pascal is really producing,
+not murdering. Pascal Is a genius.”
+HILLER
+AGAIN
+Whether the production will be a
+box office click Is another matter.
+The story is of a munitions king
+whose philosophy is “first make a
+sufficient income and then practice
+virtue.” This causes a rift In his
+household. One daughter, Barbara,
+turns to the saving of souls as a
+Salvation Army worker.
+The story leans heavily toward so
+cial significance. And where Shaw
+is concerned, social significance has
+seldom paid off.
+Shaw’s path to riches In the the
+ater has been through the use of
+romantic material staged In other
+periods. “Arms and the Man” took
+him to the Balkans, "Caesar and
+Cleopatra” took him 2000 years be
+hind the times “The Devil’s Dis
+ciple,” now being revived in London
+by Robert Donat with Indifferent
+success, to the American revolution;
+“Back to Methuselah” to Adam and
+Eve.
+Pascal is a shrewd enough direc
+tor not to forget showmanship.
+There won’t be any famous bath
+tub sequence as in "Pygmalion.”
+But in Wendy Hiller, Pascal will
+have an actress with enough charm
+to breathe warmth into a part
+which has all the allure and sparkle
+of a laboratory experiment at the
+Mayo Clinic.
+BACKGAMMON FIEND
+Walter Pidgeon puts in time be
+tween scenes on the “Sky Murder”
+set at Metro-Goldwyn-Mayer, giv
+ing lessons in backgammon.
+DANCING GOES PATRIOTIC p",ph~,:
+Americans Will Soon Be
+The “Liberty Parade” and “Plymouth
+■Ml
+Virginia Self and Leroy Thayer demonstrate the
+“Liberty Parade.” Here’s the salute
+And here they two-step and then
+ler kick.
+Rita Schlei and Leroy Thayer, Jr., show one step
+in the “Plymouth Rock.”
+By JUNE GREENE
+NEA Service Special Correspondent
+Pittsburgh, Aug. 30—Dancing goes patriotic.
+Not the dawnse as practiced by metropolitan esthetes, but the
+dance—the common garden variety routines you’ll be seeing next winter
+at college proms, in night clubs, ballrooms and Juke Joints.
+Young America may not know it yet, but its favorite terpsichorean
+traipsings in the near future are going to have a distinctly American
+flavor.
+Take the titles, for instance. "Liberty” and “Plymouth Rock” are
+the two routines, say the Dancing Masters of America, which are des
+tined to be the most popular in the coming year.
+"Liberty Parade,” which got the teachers’ official sanction at their
+recent 17-day convention held in Pittsburgh, is danced to “God Bless
+America,” “Yankee Doodle,” “Dixie” and “California, Here I come,” in
+that order.
+The convention sounded the death knell for the London-inspired
+"Lambeth Walk” and the “Boomps-a-Daisy,” both of which were in
+vogue during the last two years.
+Many factors influenced composition of “Liberty Parade,” says Leroy
+Thayer of Washington, D. C., the dancing masters’ president.
+“With a war in Europe, the draft controversy and national defense
+major issues in this country, the dance naturally took a patriotic air,”
+he says.
+“Too, the steps of ‘Liberty Parade’ are not too conspicuous; couples
+won’t be hesitant to try them.”
+The routine, composed by Mrs. Edna Rothard Passapee of New
+Jersey, can be danced by a group or by couples.
+Here are the steps of "Liberty Parade”:
+Figure Partners walk four steps side by side, face each other and
+salute, clicking heels. Step to opposite side, click heels.
+Figure 2: Shoulder to shoulder, the couple walks in a circle (one)
+to the rhythm of the music.
+Figure 3: Take partner for four two-steps. Three steps forward,
+face forward, swing leg forward and backward.
+Figure 4: March away from partner, four steps, step to one side,
+click heels, salute and repeat other side.
+Meet partner, take partner for polka circle and repeat from Figure
+1. If dancing in group, partners are changed after Figure 4.
+“Plymouth Rock,” also sponsored by the Dancing Masters, reverses
+the jitterburg trend, for its keynote is smoothness.
+Danced to a fox trot, the routine combines smooth rhythm with steps
+not too difficult for the average bollroom dancer.
+It goes like this:
+Dancers take positions and with the rhythm of the music point heel,
+point toe and step, close step forward for the next three counts.
+Clap hands. Then with outstretched arms rock left, then right for
+counts 2, 3 and 4. Girl turns under partner’s arm for two counts. Face
+each other and clap hands. Then take dancing position for eight
+counts of polka. Then the set of steps is repeated.
+‘BOOM TOWN’TOPS
+LOEW-POU BILL
+New Picture Season Opens
+Tomorrow With Billion
+Dollar M=G=M Hit
+The new 1940-41 new picture sea
+son from Metro Goldwyn Mayer gets
+underway at the Loew Poll theater
+tomorrow with the four star hit
+“Boom Town.”
+Presenting one or tne greatest all
+star casts In the history of motion
+pictures, and utilizing this billion
+dollar talent in a story that is built
+for fast action and thrills, “Boom
+Town” is one of the most thrilling
+and spectacular productions to come
+out of Hollywood in some time.
+With Clark Gable, Spencer Tracy,
+Claudette Colbert and Hedy Lamarr
+in stellar roles, “Boom Town” sur
+passes in star names even that for
+mer “greatest of thrill pictures,” the
+air epic “Test Pilot” which had Ga
+ble, Tracy, Myrna Loy and Lionel
+Barrymore at the head of the cast.
+The supporting cast of the pic
+ture is as distinguished as its stars,
+including such well-known names as
+frank Morgan, Lionel Atwill, Chill
+Wills, Marion Martin and Minna
+Gombell, with lesser roles played by
+Joe Yule, Sara Haden and Baby
+Quintanilla of “Forty Little Moth
+ers” fame.
+These players join hands in pre
+senting a thrill-packed human-in
+terest story which shows Garry and
+Tracy in a total of five fights, one of
+which is a terrific battle between
+themselves, the frantic fight to blast
+out a roaring oil well fire, gushers
+tearing upward with mighty roars,
+a spouting water geyser, Gable on
+a bucking mule, a dive into a sea
+of mud by Gable and Tracy to es
+cape the bullets of two gun fighters,
+a fight between two dance hall girls,
+a dramatic hold-up of a load of oil
+equipment, in addition to comedy by
+Morgan, Wills and Miss Gombell
+and even the songs of the men who
+spud in for oil.
+Through a heart-tugging story of
+two men who are friends through
+all the heartaches and victories of
+oilmen runs a cavalcade of the oil
+business, with a brief history of its
+intense thrills. In the picture, Ga
+ble and Tracy form a partnership
+which exists even after Gable mar
+ried Claudette Colbert, Tracys sweet
+heart. It breaks dramatically and
+is reunited just as dramatically
+when Tracy evolved a startling plan
+to break up Gable’s affair with love
+ly Hedy Lamarr and send him back
+to Miss Colbert.
+Don’t miss “Boom Town” opening
+here tomorrow—it’s the year's smash
+action drama—Gable, Tracy, Col
+bert, Lamarr—need any picture
+have more?
+The second big hit “Pier 13” a film
+that is thfllling and delightfully
+amusing all the way through. Lloyd
+Nolan, in the lead, has a surprise
+role that tops his hit performance
+in “Johnny Apollo.” Lovely Lynn
+Bari is in the feminine lead, with
+Joan Valerie and Douglas Fowley
+heading a fine featured cast.
+Attractions coming to a close at
+Loew’s Poll this evening are “Girl
+Prom God’s Country” featuring
+Chester Morris and Jane Wyatt, and
+“Charlie Chan In The Wax Mu
+seum” with Sidney Toler.
+“Lucky Partners” co-starring Gin
+ger Rogers and Ronald Colman is
+the next smash hit to be presented
+in the Loew Poli new season parade
+of outstanding pictures.
+BABY PAMPHLET
+Billie Burke has compiled a
+pamphlet for Adrian, entitled "How
+to Dress a Baby,” inscribing it:
+“Prom a new grandmother who
+knew about clothes, to a new father
+wh still knows about clothes.”
+U.S. ARMY OFFICER
+ADDRESSES LIONS
+Lieut.-Col. Vincent Diaz, tr. S. A.,
+who has been assigned as instruc
+tor for the second battalion of the
+102n’d Inf. described the recent first
+army maneuvers in New York state
+at a meeting of the Waterbury Lions
+club yesterday noon.
+Lieut-CoL Diaz approved the pres
+ent method of using stove-pipe and
+wooden guns in training the men al- -4
+though this policy has several op
+ponents.
+Lieut,-Col. Dias stated that he
+found the national guard in good
+physical condition and possessing 0
+excellent morale.
+J. Sidney Pearson, secretary of the
+Lions club reported that the Chil
+dren’s Health Farm at Bantam Lake
+officially closed on last Wednesday.
+He stated that altogether 115 chil
+dren were given a vacation and that
+in a few cases, which he specifically
+mentioned the youngsters gained
+much weight and showed that their
+vacations had put them on the road
+to health.
+Many buildings in Reykjavik, Ice
+land, are still heated by hot springs.
+Clark Gable
+in
+BOOM TOWN
+Spencer Tracy
+in
+BOOM TOWN
+Claudette Colbert
+BOOM TOWN
+Hedy Lamarr
+BOOM TOW
+In other words BOOM. TCTWN
+is four great Pictures in One!
+Never before! Perhaps never again will
+Hollywood put four of its headline favor
+ites in one great entertainment so spec
+tacular, so big, that it towers over the
+i’s most famous roadshow attractions^
+Play by John Lee Mahin Based on Story by James Edward Grant Directed by JACK CONWAY Produced by Sam Zimbalist An M-G-M Picture
+PIER 13
+STARTS
+LYNN BARI
+LLOYD NOLAN
+0M0RR0W JOUUS

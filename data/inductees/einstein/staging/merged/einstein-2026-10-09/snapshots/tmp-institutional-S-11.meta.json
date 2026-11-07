@@ -1,0 +1,10 @@
+{
+  "url": "https://www.dpg-physik.de/auszeichnungen/dpg-preise/max-planck-medaille",
+  "fetch_url": "https://www.dpg-physik.de/auszeichnungen/dpg-preise/max-planck-medaille",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:27:15Z",
+  "sha256": "60472f40421076e5eb5e3325ca3ba4ec13292e1030fddce0d868d1b8dd49298e",
+  "bytes": 43183,
+  "http_status": 200,
+  "final_url": "https://www.dpg-physik.de/auszeichnungen/dpg-preise/max-planck-medaille"
+}

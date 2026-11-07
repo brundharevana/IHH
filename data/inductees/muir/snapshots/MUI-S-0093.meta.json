@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/yose/learn/historyculture/hutchings.htm",
+  "fetch_url": "https://www.nps.gov/yose/learn/historyculture/hutchings.htm",
+  "method": "http",
+  "fetched_at": "2026-10-15T04:17:28Z",
+  "sha256": "f679b5a13512a12be567b347bd65c20344abcd788953d285a95917fd877e0281",
+  "bytes": 9060,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/yose/learn/historyculture/hutchings.htm"
+}

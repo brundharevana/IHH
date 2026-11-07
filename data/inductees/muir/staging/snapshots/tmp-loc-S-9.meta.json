@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/today-in-history/june-30/",
+  "fetch_url": "https://www.loc.gov/item/today-in-history/june-30/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:33Z",
+  "sha256": "4cf49a12a1910e26b62c07b54809ab34bbc4b19cbe384f74f22657216e351ecc",
+  "bytes": 16627,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/today-in-history/june-30/?fo=json"
+}

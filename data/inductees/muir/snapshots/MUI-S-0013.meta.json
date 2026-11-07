@@ -1,0 +1,10 @@
+{
+  "url": "https://blogs.loc.gov/law/2022/12/how-a-dam-paved-the-way-for-the-national-park-service/",
+  "fetch_url": "https://blogs.loc.gov/law/2022/12/how-a-dam-paved-the-way-for-the-national-park-service/",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:43:31Z",
+  "sha256": "606a20302151a6862cc11da2047298bfd7edda5a1a54594053452273fc3f1f03",
+  "bytes": 8804,
+  "http_status": 200,
+  "final_url": "https://blogs.loc.gov/law/2022/12/how-a-dam-paved-the-way-for-the-national-park-service/"
+}

@@ -1,0 +1,34 @@
+occid: 23990867
+institutionCode: BRIT
+collectionCode: BRIT
+collectionID: fea81a47-2365-45cc-bef9-b6bbff7457e6
+basisOfRecord: PreservedSpecimen
+occurrenceID: 7a7f5ef5-7bb4-4587-9081-aee0f580f3b0
+catalogNumber: BRIT461292
+kingdom: Plantae
+phylum: Pteridophyta
+class: Polypodiopsida
+order: Polypodiales
+family: Pteridaceae
+scientificName: Pellaea ornithopus
+taxonID: 161560
+scientificNameAuthorship: Hk.
+genus: Pellaea
+specificEpithet: ornithopus
+taxonRank: Species
+recordedBy: John Muir
+recordNumber: s.n.
+eventDate: 1875
+year: 1875
+month: 0
+day: 0
+country: United States
+countryCode: US
+stateProvince: California
+locality: Sierra Nevada.
+recordEnteredBy: jesslane13
+modified: 2025-06-28 00:20:08
+rights: http://creativecommons.org/publicdomain/zero/1.0/
+rightsHolder: Botanical Research Institute of Texas
+recordID: 7a7f5ef5-7bb4-4587-9081-aee0f580f3b0
+references: https://portal.torcherbaria.org/portal/collections/individual/index.php?occid=23990867

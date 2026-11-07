@@ -1,0 +1,945 @@
+_version_: 1770612539748515840
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn87065645/1921-04-30/ed-1/
+aka[1]: http://www.loc.gov/resource/sn87065645/1921-04-30/ed-1/
+batch[0]: msar_emerald_ver02
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/mississippi/
+composite_location[2]: 2/united states/mississippi/bolivar/
+composite_location[3]: 3/united states/mississippi/bolivar/rosedale/
+contributor_names[0]: Mississippi Department of Archives and History
+contributors[0].mississippi department of archives and history: https://www.loc.gov/search/?fa=contributor:mississippi+department+of+archives+and+history&fo=json&st=text
+created_published[0]: Rosedale, Miss., April 30, 1921
+date: 1921-04-30
+date_issued: 1921-04-30
+dates[0].1921-04-30: https://www.loc.gov/search/?dates=1921-04-30/1921-04-30&fo=json&st=text
+dates_of_publication: 1887-1969
+description[0]: Rosedale, Miss.
+digitized: true
+digitized_label: Present
+display_offsite: true
+essay_contributor[0]: Mississippi Department of Archives and History
+essay_contributor[1]: Mississippi Department of Archives and History
+essay_contributor[2]: Mississippi Department of Archives and History
+essay_contributor[3]: Mississippi Department of Archives and History
+essay_contributor[4]: Mississippi Department of Archives and History
+essay_contributor[5]: Mississippi Department of Archives and History
+essay_contributor[6]: Mississippi Department of Archives and History
+essay_contributor[7]: Mississippi Department of Archives and History
+essay_contributor[8]: Mississippi Department of Archives and History
+essay_contributor[9]: Mississippi Department of Archives and History
+essay_contributor[10]: Mississippi Department of Archives and History
+essay_contributor[11]: Mississippi Department of Archives and History
+essay_contributor[12]: Mississippi Department of Archives and History
+extract_timestamp: 2023-07-03T13:41:58.328Z
+extract_urls[0]: file:/service/ndnp//msar/batch_msar_emerald_ver02/data/sn87065645/00383344359/1921043001/1921043001_1.xml#ndnp/msar
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/msar
+group[1]: mississippi-department-of-archives-and-history
+hassegments: true
+id: http://www.loc.gov/item/sn87065645/1921-04-30/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87065645:00383344359:1921043001:0388/full/pct:6.25/0/default.jpg#h=418&w=294
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87065645:00383344359:1921043001:0388/full/pct:12.5/0/default.jpg#h=837&w=589
+index: 6
+item.batch[0]: msar_emerald_ver02
+item.contributor_names[0]: Mississippi Department of Archives and History
+item.created_published[0]: Rosedale, Miss., April 30, 1921
+item.date: 1887
+item.date_issued: 1921-04-30
+item.dates[0]: 1921-04-30
+item.digitized_label: Present
+item.essay_contributor[0]: Mississippi Department of Archives and History
+item.essay_contributor[1]: Mississippi Department of Archives and History
+item.essay_contributor[2]: Mississippi Department of Archives and History
+item.essay_contributor[3]: Mississippi Department of Archives and History
+item.essay_contributor[4]: Mississippi Department of Archives and History
+item.essay_contributor[5]: Mississippi Department of Archives and History
+item.essay_contributor[6]: Mississippi Department of Archives and History
+item.essay_contributor[7]: Mississippi Department of Archives and History
+item.essay_contributor[8]: Mississippi Department of Archives and History
+item.essay_contributor[9]: Mississippi Department of Archives and History
+item.essay_contributor[10]: Mississippi Department of Archives and History
+item.essay_contributor[11]: Mississippi Department of Archives and History
+item.essay_contributor[12]: Mississippi Department of Archives and History
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn87065645
+item.location[0]: Rosedale (Miss.)
+item.location[1]: Mississippi--Rosedale
+item.medium: 8 pages
+item.newspaper_title[0]: The Bolivar County Democrat.
+item.notes[0]: Weekly
+item.notes[1]: Began in 1887; ceased with Feb. 27, 1969 issue.
+item.notes[2]: Published every Thursday.
+item.notes[3]: Description based on: Vol. 3, no. 11 (Mar. 20, 1890).
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//msar/batch_msar_emerald_ver02/data/sn87065645/00383344359/1921043001/1921043001_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn87065645/marcxml
+item.place_of_publication: Rosedale, Miss.
+item.raw_lccn: sn 87065645
+item.reel_numbers[0]: 00383344359
+item.source_group: ndnp/msar
+item.subjects[0]: Rosedale (Miss.)--Newspapers
+item.subjects[1]: Mississippi--Rosedale
+item.subjects[2]: United States--Mississippi--Bolivar--Rosedale
+item.title: The Bolivar County Democrat (Rosedale, Miss.), April 30, 1921
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn87065645
+location[0]: mississippi
+location[1]: rosedale
+location[2]: united states
+location[3]: bolivar
+location_city[0]: rosedale
+location_country[0]: united states
+location_county[0]: bolivar
+location_state[0]: mississippi
+locations[0].bolivar: https://www.loc.gov/search/?fa=location:bolivar&fo=json&st=text
+locations[1].mississippi: https://www.loc.gov/search/?fa=location:mississippi&fo=json&st=text
+locations[2].rosedale: https://www.loc.gov/search/?fa=location:rosedale&fo=json&st=text
+locations[3].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].rosedale: https://www.loc.gov/search/?fa=location_city:rosedale&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].bolivar: https://www.loc.gov/search/?fa=location_county:bolivar&fo=json&st=text
+locations_state[0].mississippi: https://www.loc.gov/search/?fa=location_state:mississippi&fo=json&st=text
+medium: 8 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Bolivar County Democrat.
+notes[0]: Weekly
+notes[1]: Began in 1887; ceased with Feb. 27, 1969 issue.
+notes[2]: Published every Thursday.
+notes[3]: Description based on: Vol. 3, no. 11 (Mar. 20, 1890).
+number[0]: sn87065645
+number[1]: 1
+number[2]: 00383344359
+number_edition[0]: 1
+number_lccn[0]: sn87065645
+number_reel[0]: 00383344359
+numeric_shelf_id: 192104301
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//msar/batch_msar_emerald_ver02/data/sn87065645/00383344359/1921043001/1921043001_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn87065645/marcxml
+partof[0].count: 551
+partof[0].title: the bolivar county democrat (rosedale, miss.) 1887-1969
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+bolivar+county+democrat+%28rosedale,+miss.%29+1887-1969&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the bolivar county democrat (rosedale, miss.) 1887-1969
+place_of_publication: Rosedale, Miss.
+publication_frequency[0]: weekly
+raw_lccn: sn 87065645
+reel_numbers[0]: 00383344359
+resources[0].files: 8
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87065645:00383344359:1921043001:0388/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn87065645/1921-04-30/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.820424
+shard: 09
+shelf_id: sn87065645, 1921-04-30, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/msar
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: newspapers
+subject[1]: bolivar
+subject[2]: rosedale
+subject[3]: mississippi
+subject[4]: united states
+subject[5]: rosedale (miss.)
+subject_headings[0]: Rosedale (Miss.)--Newspapers
+subject_headings[1]: Mississippi--Rosedale
+subject_headings[2]: United States--Mississippi--Bolivar--Rosedale
+subjects[0].bolivar: https://www.loc.gov/search/?fa=subject:bolivar&fo=json&st=text
+subjects[1].mississippi: https://www.loc.gov/search/?fa=subject:mississippi&fo=json&st=text
+subjects[2].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[3].rosedale: https://www.loc.gov/search/?fa=subject:rosedale&fo=json&st=text
+subjects[4].rosedale (miss.): https://www.loc.gov/search/?fa=subject:rosedale+%28miss.%29&fo=json&st=text
+subjects[5].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2023-07-05T20:08:18.922Z
+title: The Bolivar County Democrat (Rosedale, Miss.), April 30, 1921
+type[0]: issue
+url: https://www.loc.gov/item/sn87065645/1921-04-30/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_emerald_ver02/data/sn87065645/00383344359/1921043001/0393.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn87065645/1921-04-30/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87065645:00383344359:1921043001:0388/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/msar/batch_msar_emerald_ver02/data/sn87065645/00383344359/1921043001/0393.pdf
+resources[0].segment_count: 8
+resources[0].url: https://www.loc.gov/resource/sn87065645/1921-04-30/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1921, April 30) The Bolivar County Democrat. Retrieved from the Library of Congress, https://www.loc.gov/item/sn87065645/1921-04-30/ed-1/.
+cite_this.chicago: The Bolivar County Democrat. (Rosedale, MS), Apr. 30 1921. https://www.loc.gov/item/sn87065645/1921-04-30/ed-1/.
+cite_this.mla: The Bolivar County Democrat. (Rosedale, MS) 30 Apr. 1921, p. 6. Retrieved from the Library of Congress, www.loc.gov/item/sn87065645/1921-04-30/ed-1/.
+
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/msar/batch_msar_emerald_ver02/data/sn87065645/00383344359/1921043001/0393.xml&format=alto_xml&full_text=1
+full_text:
+ICi-Jck that Cold and J
+Gat Hid of that Cough^fl
+7t is rlzngerroo to lot then:
+A tonic Laxative of direct and
+positive action ^^Kk
+upon tba
+•eatrationi
+Pe-n*-fie has proved
+tha reliable treatment
+r tor ridding tba oystam
+of nil catarrhal poisons.
+It aids digestion, stimu
+lates tba liver and bowel
+action, enriches tba blood,
+tones up the nervous sys
+tem and soothes tba inflam
+ad and congested mucous
+linings. j
+Honest and dependable
+i is tba verdict of thousands.
+VaU KmaavmLasA
+wvlfl jPfBofl
+T«W«U of Liquid
+Comfort Baby's Skin
+With Cuticura Soap
+And Fragrant Talcum
+&««p 25c, Ontmct 25 uJ Wk.TJtw 25c.
+Must Pay Price for Success.
+Read of the lives of three-quarter*
+of the successful men, ami you will see
+that they started poor ami became
+successful without “pull." If that is
+being done today, as it is, you can do
+it. But you cau't do it by souring
+on the world. You have got to want
+to succeed, am] want to succeed more
+than anything else. If you don't want
+to succeed enough, you will not suc
+ceed. But it won't be unfairness and
+favoritism In the world that holds you
+back. It will he your unfairness and
+favoritism to yourself.—John Blake in
+Chicago Daily News.
+Cement-Coated Nails.
+Approximately one-tenth of the wire
+nails manufactured are now cement
+coated, according to H. A. Knight, who
+writes on the subject to the Iron Age.
+The nails are coated by shaking them
+up In a hot tumbling barrel with a
+compound consisting mainly of resin,
+from which they issue with a thin,
+tougli coating which greatly increases
+their holding power. The friction of
+the driven nail with the wood melts
+the cement and forms a glue, which
+cakes fast the nail.—Literary Digest.
+Not So Encouraging.
+“Your father merely grunted when
+I told him I wanted to marry you.
+“Don't be discouraged, Alexander.
+Father is an elemental creature and
+expresses pleasure as well as anger by
+grunts.”
+"Yes, dear, but this was a fortissimo
+grunt. In fact, there was so much
+power behind It I’m afraid it was a
+snort."—Birmingham Age-Herald.
+A farmer becomes accustomed to sol
+itude—and It isn't so bad.
+MAN’S
+BEST AGE
+A man is as old as his organs; he
+can be as vigorous and healthy at
+70 as at 35 if he aids his organs in
+performing their functions. Keep
+your vital organs healthy with
+COLD MEDAL
+The world’s standard remedy for kidney,
+liver, bladder and uric add troubles since
+1696; corrects disorders; stimulates vital
+organs. AH druggists, three sizes.
+Look for the name Gold Medal on every boa
+and accept no imitation
+Renew your health
+by purifying your
+system with
+Quick and delightful re
+lief for biliousness, colds,
+constipation, headaches,
+and stomach, liver and
+blood troubles.
+The genuine are sold
+only in 35c packages.
+Avoid imitations.
+Awful Sick
+With Gas
+Eatonic Brings Relief
+“I have been awful sick with gas,”
+writes Mrs. W. H. Person, “and
+Eatonic is all 1 can get to give me
+relief.”
+Acidity and gas on the stomach
+quickly taken up and carried out by
+Eatonic, then appetite and strength
+come back. And many other bodily
+miseries disappear when the stomach
+is right. Don’t let sourness, belching,
+bloating, indigestion and other stom
+ach Ills go on. Take Eatonic tablets
+after you eat—see how much better
+you feel. Big box costs only a trifle
+with your druggist’s guarantee._
+nilOV Cl V VII I CDPlaced anywtteke
+UA 01 rLT MLLtH AnKACTSANDKILLS
+AIX FLIES. Neat,
+citan.ornamental,con
+venient, cheap. La-ta
+all aeaaon. Ma e of
+metal, can’t spill or
+tip over will not aoil
+or injere anything.
+Guaranteed effective.
+Sold by dealers, <*r
+i 6 by EXPRESS,
+wm—' prepad, #1.25
+BiRjji.ji >J)MKHS, m be Kalb Ave Brooklyn, N. X,
+ha theLimeli^hfr
+A. J. Peters, Harun-al-Rashid
+Itising at 5 o'clock In the morn
+ing in a wayfarers' lodge and chopping
+wood to qualify for u breakfast of oat
+meal, bread and coffee, along with
+other down-and*<>uter»—not many may
+ors ure willing to resort to such strata
+gems In order to get the point of view
+of the submerged tenth, u close-up of
+the unemployment problem.
+But Andrew J. Peters, mayor of
+Boston, is somewhat of an exception
+to the rule. He has been in public
+life for some time since his gradua
+tion from the Harvard law school,
+first as a member of the state legis
+lature and later as an assistant secre
+tary of the treasury in Washington.
+It was from the latter job what he
+was recalled by his old friends and
+fellow-citizens to the mayoralty of
+Boston, being elected in 1917 over a
+held of other candidates, among them
+ex-Alavor (’urlev In the fanning Boa.
+ton police strike, backed up from the
+start by his friend, Calvin Coolidge, ns governor of the Hay state, be solved
+tbut problem to the extent that Boston today, with a brand-new force, Is one
+of the best policed cities In the country.
+Mayor I’eters found the municipal lodging house well managed, but will
+ask the council to put in more shower baths and tlx up the sleeping quarters.
+Nobody penetrated his disguise, but he was stopped when he tried to enter
+his own office In the city hall.
+Women Ask for Equal Rights
+-1 Miss Elsie Hill Is temporary
+chairman of the National Woman’s
+party. Senutor Curtis, Kansas, will
+Introduce and sponsor the bill drawn
+up by the National Woman's party
+removing discriminations against wom
+en over which congress has control.
+The bill covers three points:
+The citizenship of married women
+making citizenship dependent upon her
+will, not her marriage. Inequalities
+of the government service. Discrim
+ination in the District of Columbia
+code Involving guardianship, Inheri
+tance, and similar laws.
+President Harding received a dep
+utation of 50 women, who urged him
+g to support the legislation. They asked
+I specifically that the President put the
+power of the administration behind
+tne Din.
+The recent statement of Civil Serv
+ice Commissioner Helen Gardener, that
+women are not kept out of high posts
+under the civil service, but that they “neither apply for positions nor work for
+promotion,” called forth the statement from Miss Hill that the Instances of
+discrimination against women are numerous and widely known.
+Dr. Einstein and Relativity
+Dr. Albert Einstein, propounder
+of the famous theory of relativity,
+landed In New York the other day. It
+Is his Hrst visit. lie comes to raise
+money for the Hebrew university on
+the Mount of Olives.
+With him were his wife, Dr. Chaim
+Welzmann, president of the Zionist or
+ganization, and other prominent Zion
+ists. Shouting their welcome, singing,
+delirious with joy, fully 5,(MX) persons
+rushed nt Dr. Welzmann and I'rofessor
+Einstein the moment these two lead
+ers landed.
+Dr. Einstein clutched i. briar pipe
+and a violin. He Is a musician. He
+does not speak English. He says he’s
+a Swiss, not a German. Mrs. Ein
+stein frankly confesses she can’t un
+derstand relativity. New York report
+era swarmed uuuul lo. omaiuin uim
+tried their best. Kesult, brain storm.
+They did get this, however:
+"There lias been a false luea that
+the theory of relativity differs radically from previous developments in physics.
+The contrary is true. The four men who laid the foundations of physics on
+which I have been able to construct my theory are Galileo, Newton, Maxwell
+and Lorenz."
+Harvey, “Independent Democrat”
+Col. George Rrlnton McClellan
+Harvey has heen naiacd hy President
+Harding as Inited States ambassador
+to the court of St. James. “Who’s
+Who” for 1920-21 says lie is an "In
+dependent Democrat.” The knowing
+ones recall that it was Colonel Harvey
+who launched the Wilson boom in
+1900 in Harper’s Weekly. And every
+one who knows national politics at all
+knows that Colonel Harvey supported
+Hughes in 1910 and Harding in 1920.
+So naturally the political wiseacres are
+doing a lot of "reminiscing" over the
+appointment.
+Mr. Wilson was elected governor
+of New Jersey in 1910 and it was
+during the governorship that the fam
+ous Wilson-Harvey breach came about.
+Colonel Harvey was president of the
+.,ii.ll. I.lnn lloHlor A' HrOtllPrS
+pUDilsning nouht1 naipci wv iiiumt.o,
+which had come into the possession
+of J. P. Morgan Co. So, when Gov
+ernor Wilson was backed for tlie pres
+idency by Harper’s Weekly and the North American Review, parts of the West
+raised a cry of “Wall Street.” And thereupon the breach.
+j To Doctor the Mail Service j
+i.
+Dr. Hubert Work of Pueblo, Colo.,
+has been selected by Postmaster Gen
+eral .Hays as his first assistant. It is
+a position for which the executive abil
+ity of Dr. Work especially fits him.
+Colorado thinks, together with Ids
+knowledge of western needs and re
+quirements. Dr. Work is one of the
+eminent physicians and surgeons of
+the state and nation and lias been hon
+ored as president of the American Med
+ico-Psychological association. He was
+the founder of the Woodcroft hospi
+tal for mental and nervous diseases
+at Pueblo. He was an efficient officer
+in the medical department in the
+World war, serving as lieutenant col
+onel, M. C. U. S. A.
+Dr. Wrork has been a prominent
+factor in the Itepublican party in Col
+orado and national affairs. He has
+seriKi us uuuuun. W"**'*<!Pf3iSs?
+tliat state, and at one time was candi
+date for United States senator, and
+Rlthough defeated, made a good ruee tor thut office under the political coali
+tions tliut prevailed at that time.
+“GOOD BRAKES OF
+BIG IMPORTANCE
+They Are One of Most Excellent
+Forms of Guarding Against
+All Kinds of Accidents.
+METHOD OF CURBING ENGINE
+Emergency or Hand Brake Primarily
+Is to Hold Car When Standing and
+Secondarily to Use if Other
+Brake Gives Way.
+By H. CLIFFORD BROKAW,
+Technical Director West Side Y. M. C. A.
+Automobile Schools, New York City.
+Better have good brakes on your
+car than an engine, if you have to
+i choose between the two, for the
+brakes are the best form of accident
+Insurance you can have. This irnli
+cates tiie relative importance of the
+i two car features. You might have
+i the highest type of engine with un
+I limited power under the hood, hut if
+i you haven’t also some means of curb
+ing your high stepper and tethering it
+at will you are In for it. “Whoa”
+1 won’t stop it either. You might bet
+ter be driving an untamed broncho of
+the plains. The engine will get you
+there, it Is true, but if there be no
+means of stopping you may go too
+eternally far.
+The car has two sets of brakes—
+emphasizing the importance—and oc
+casionally a car has more. The emer
+gency or hand brake consists of a
+brake hand operating within a drum
+on each rear wheel, connected by rods
+and levers to the hand lever, which
+has a ratchet and pawl so that it may
+•be locked In position. This brake
+primarily is to hold the car when
+standing and secondarily to use in
+running If the other brake gives way
+or for alternating on long hills.
+Operation of Foot Brake.
+The foot brake, called running or
+service brake, Is operated hv a pedal,
+with a spring to release it when pres
+sure on the pedal Is removed, and Is
+connected by other rods and levers to
+brake hands operating on the outside
+ii'ttnui /friima nr nmislon
+DRAG DISABLED CARS
+WITH RIGID TOW-BAR
+Piece of Rope or Tire Chain Are
+Not Suitable.
+In Case of Sudden Stop Towed Ma.
+chine Runs Into Rear End of
+Pilot and Both Vehicles Ara
+Unnecessarily Injured.
+Invariably when an automobile has
+broken down in the streets or on the
+road, the owner of a small garage will
+send tlie first available car, equipped
+with a piece of rope or tire chain that
+lie may have on hand, to die sceDe
+of the breakdown to tow in the dere
+lict. The driver of the towlng-car lias
+frequently an exciting time, especially
+when it is necessary for him to drag
+tlie broken-down car through city
+streets with much traffic. When he is
+compelled to make a sudden stop the
+towed ear will often run Into tlie rear
+end of tlie pilot and both curs are
+damaged.
+All tiiis can lie avoided if the owner
+of tlie garage is provided with a
+rigid tow-har for dragging the disabled
+vehicle through the streets. A rigid
+liar Is by far the best means, as it
+keeps the two cars at a fixed distance
+from each other. Regardless of the
+conditions of the brakes of the dis
+aided car, it will come to a stop when
+the towing-car stops.
+In the accompanying Illustration t.
+tow-bar Is shown which can he made
+from a six-foot section of one-inch
+wrought-iron pipe, two short pieces of
+chain, two bolts, and two tire-chain
+snaps. The pipe Is flattened at each
+Never Attempt to Tow a Disabled Au
+tomobile With a Rope. U -e a Rigid
+Bar.
+end, and chains and snaps are at
+tached by bolts through drilled holes
+In the flattened ends. If no Iron pipe
+is available, n correspondingly heavier
+wooden bar may be used to the ends
+of which the chains and harness hooks
+are attached.—G. A. Inters in Popular
+Science Monthly.
+AUTOMOBILE
+*mt\ircnsm
+The Automobile club of Philadelphia
+is 21 years old.
+
+Mexico recently placed an order lu
+this country for 100,000 automobll*
+tires.
+
+The cost of a new pa<Renger car 1/
+not a deductible Item when tilling out
+an income tax return.
+
+In the city of Montevideo, Uruguay
+there are 5,500 private automobiles
+1,580 taxis and 200 commercial cars
+
+A smooth start is the sign of
+good driver. Do not fe>d the car to<‘
+much gasoline. Let the clutch in verf
+gently.
+
+Five chauffeurs and f* o footmen nr
+employed at the White House garagf
+In Washington, for the operation of
+motor vehicles.
+
+Re very careful when passing an
+other car. There may H- one cominj
+towards you. Many head-on collisions
+are caused by careless passings.
+
+As a supplement to the:r inadequats
+salaries, three siiperinten fonts of pub
+lie schools in Georgia af” antomobilr
+salesmen, and two are gio-ige men.
+
+Slow up the motor car before gn
+ing downhill and use the brakes spar
+ingly. Continual dragging of brake?
+is injurious to the health i.f the moto’
+car.
+ally upon a separate drum on the pro
+peller shaft. The latter gives greater
+i breaking power, because of the rear
+axle gearing leverage hack of the
+brake, and the second drum helps pre
+vent overheating on long hills. But
+this type brake does put a severe
+strain on the rear axle gears.
+Both brakes should he kept In such
+condition that either will stop the car
+quickly. Do not let one set remain
+out of order Just because you know
+the other Is all right. The other
+might go had Just when needed.
+Brake hands are lined with non
+bumlng friction material, usunlly an
+asbestos fabric, fastened to the steel
+bands by copper rivets, the heads of
+which are counter sunk deep Into the
+lining, to keep the heads from con
+tact with the drum. If the lining is
+allowed to wear thin the copper rivet
+heads score the drum Into shallow
+grooves, lessening the braking power.
+Such must be turned true on a lathe
+If they are to he worth much for
+braking purposes.
+Renew Brake Lining.
+Equally important Is the renewal of
+the brake lining before it is worn thin
+enough to expose the rivets to friction.
+Better have this done at the service
+station. It is a particular and tedious
+Job. It is possible, however, to get the
+right size linings and proper rivets at
+almost any supply house. Remove the
+brake bands, punch out the old rivets,
+noticing how they were put In. and go
+to it. Remember that the rivet heads
+must be countersunk deep into the
+lining and every rivet set up tight. It
+requires patience but can be done by
+the novice.
+The brake lining is one pla"e where
+i lubrication is not desirable, but every
+other place on the brake and linkage
+where there is motion should he lubri
+cated regularly according to the man
+ufacturer's lubrication chart, and be
+cleaned likewise. There is consider
+able wear to the clevises and pins;
+they may la* renewed for a few cents
+and should not be allowed to wear to
+the danger point; besides, worn link
+age rattles.
+START OF CHAMPIONSHIP RACE j
+Scene iroir. tin* .grandstand at the start ot tin- National auto cUampton
+ship race at the Los Angeles speedway. The event was won by Ralph de I’alma
+at an average speed of 107 miles per hour—a new record for cars of the 183
+tnch class.
+Piston Ring Expansion.
+Piston rings are placed in grooves
+on the piston to take up remaining
+space between it and the cylinder
+wail, to give better compression. They
+sire split so that they can expand
+enough to till that space.
+Bearings and Bushings.
+A bearing made of steel with balls
+or rollers is called an antifriction
+bearing. A bustling is usually made
+'»f bronze and lias only u smooth sur
+no ro'lers. for friction.
+I* iguring on the basis of 1020 motor
+vehicle registrations in the United
+States and the total amount of con
+j sumption of gasoline, the average
+amount for each ear last year is giver
+as 452.1 gallons.
+
+Because of the American women
+wind-shields, gear shift levers, fool
+brakes and upholstery have been al
+tered in the present style passengei
+automobiles to meet the comfort
+whims or practical demands of th*
+j fair sex.
+Swiss Lakes Disgorge Relics.
+The recent drought In Switzerland
+has lowered the lukes so much that
+archaeologists are having n great op
+portunity to examine the old lacus
+trine or pile dwellings which date back
+to the stone age. Old pottery is be
+ing discovered In two lake dwellings
+revealed ou the shores of Lake Neu
+clmtel, says a cablegram to the New
+York Times, and hundreds of piles In
+perfect preservation and on which
+these dwellings originally rested are
+now clearly visible. Many persons
+have volunteered help for excavating
+the remains 'of these ancient dwellings,
+which, according to Doctor Kellerchief,
+the Swiss authority ou the subject,
+ceased to be Inhabited about the first
+century of the Christian era. Numer
+our boats, which apparently were
+wrecked and sunk iu past times, are
+now visible.
+Catarrh Can Be Cured
+Catarrh Is a local disease greatly Influ
+enced by constitutional conditions. It
+therefore requires constitutional treat
+ment. HALL'S CATARRH MEDICINE
+Is taken Internally and acts through
+the Blood on the Mucous Surfaces of
+the System. HALL'S CATARRH
+MEDICINE destroys the foundation of
+the disease, gives the patient strength by
+improving the general health and assists
+nature In doing Its work.
+All Druggists. Circulars free.
+F. J. Cheney Co.. Toledo, Ohio.
+A Student Indeed.
+“I want to be procrastinated at de
+nex’ corner,” said the negro passenger
+to the tramenr conductor.
+“You want to be what?” demanded
+the conductor.
+“Don’t lose your temper. I had to
+look In the dictionary myself befo’ I
+found out dat ‘procrastinate’ means
+•put oft: ”—Dallas News.
+ASPIRIN
+Name "Bayer” on Genuine
+TAKEScSr^l
+of18DI1E||
+M I
+Vegetable Compound it
+Roxbury, Mass^TTI^ fii
+was afaJthL*
+iwSS 1
+acs^s I
+Md, b° SSffi B
+“8ld pt a ,j
+relieve t,M(i 3r
+_M tor's njg* I
+recommended Lydia E Hi
+•table Compound and Ihavefc)Vt*' M
+relief since using it. Mybwkfc B
+better and I can sleep' weH if* B
+house and have the care of fit I
+I
+such a help. I recommend kT* B
+friends and if you wish to UMtot?1 U
+I am very glad to help any wom» RP
+fering as I was until I used X5 B
+Pinkhara's Vegetable
+Mrs. Maude E Taylor. k Srr Hf
+Place, Roxbury, Mass B
+Backache is one of the most comm* H
+symptoms of a displacement or B
+ment of the female system. No B
+should make the mistake of^?? B
+overcome it by heroic endunmX Hi
+I
+Opossums Instead of Cats, I
+A writer In a nature publlcttio, I
+says: "1 kept a pair of opossum,),
+the cellar of my home. One nUi H
+when nil was still 1 was surprised to B
+bear grunts coming up from tl;e |\'i:
+Itir. I bad not known that opossum K
+grunted like pigs. These opossum B
+lived in the cellar nearly all winter, H
+am sure they scared the rats away,
+ns no more rat signs were noticed. J ■1
+fed them chicken beads, apples, sweet llff
+corn, etc."
+KILL RATS TODAY I
+Mf
+Take Aspirin only as told In each
+packuge of genuine Bayer Tablets of
+Aspirin. Then you will be following
+the directions and dosage worked out
+by physicians during 21 years, and
+proved safe by millions. Take no
+chances with substitutes. If you see
+the Bayer Cross on tablets, you can
+take them without fear for Colds,
+Headache, Neuralgia, Rheumatism,
+Earache, Toothache, Lumbago and
+for Pain. Handy tin boxes of twelve
+tablets cost few cents. Druggists also
+sell larger packages. Aspirin Is the
+trade mark of Bayer Manufacture of
+Monoacetlcacidester of Sallcylicacld.—
+Adr.
+Garden Spot, Anyway.
+A Boston geologist and philologist
+says he Is convinced that the Garden
+of Eden was located In the area now
+occupied by the state of Ohio. Wheth
+er right or wrong, Ohio Is certainly a
+garden spot when it comes to raising
+presidential timber.—Brooklyn Staud
+‘ard-Unlon.
+WHY DRUGGISTS RECOMMEND
+SWAMP-ROOT
+For many years druggists have watched
+with much interest the remarkable record
+maintained by Dr. Kilmer’s Swamp-Root,
+the great kidney, liver and bladder medi
+cine.
+It is a physician's prescription.
+Swamp-Root is a strengthening medi
+cine. It helps the kidneys, liver and blad
+der do the work nature intended they
+should do.
+Swamp-Root has stood the test of years.
+It is sold by all druggists on its merit
+and it should help you. No olher kidney
+medicine has so many friends.
+Be sure to get Swamp-Root and start
+treatment at once.
+However, if you wish first to test this
+great preparation send ten cents to Dr.
+Kilmer Co., Binghamton, N. Y., for a
+sample bottle. When writing be sure and
+mention this paper.—Adv.
+It is easier to convince a woman
+that she Is foolish than it Is to make
+her believe that she snores.
+Ijlllfc)
+WiiGmIm
+STEARNS’
+ELECTRIC PASTE
+The guaranteed ‘•killer" for Rata.Mice,Coekweda
+Ants and Watorbugs the greatest known onto
+of disease. They destroy both food and property
+Steams’ Blectrtc Paste forces these pests tons
+from the building for water and fresh air. fj
+READY FOR USE—BETTER THAN HAP1
+D1 rectlons In 15 languages In every box.
+TWO tines, 36c and 11.50. Enough to kill 8 to«Bi
+V* S. Government boys It
+Films Developed
+sod Priited h Ttln
+We solicit the patrooi|tt(
+those Kodak urn tbs
+demand the best Kodak pic
+tures. ONI DAY SERVICE
+Writ® for Kodak Catalog
+TIE ftDVPID FUN UNIT
+60 SesU Kali Si hafikto
+-PARkERfH
+HAIR BALSAM
+B«BOTMDiunf-lu»ail>hia
+uL»it\■••‘Safi*,,
+_—gjawttfjjaaifl
+HINDERCORNS
+loom. Ala., Atop, all PAID,
+DROPSY—
+swelling reduced in
+few days; regulates tha liver, kidneys, stoaicb
+and heart; purifies the blood, strengthens till
+entire system. Writ* for Fraa TrialTnttmm
+COLLUM OSOPSY KENEDY CO., OlftW.B,lUUTlU
+$10 CASH PRIZE C°NTEST
+full particulars .0.1
+Sunt,. HumltiB.. Review^ APril^ Rp1Wi
+i!s Ku,;;:rs,rA.m.
+lOll.U CO-NAT. K.U.
+rr'viiir i«;i« w&d.
+™—v“';:r.
+linns',! 1 MAKES THE •J,1", IJ'JUJSj
+KREMOLAsw^*^
+VV. N. U., MEMPHIS. NO. 18"®
+j
+Many a Pretty Face j I
+I Spoiled by Pimp'^j I
+Not only are these pimples and
+•plotches disfiguring, but they lead
+to serious skin diseases that spread
+and cause the most discomforting
+irritation and pain. Sometimes they
+foretell Eczema, boils, blisters, scaly
+eruptions and other annoyances that
+burn like flames of fire, and make
+you feel that your skin is ablaze.
+If you are afflicted with this
+form of skin disease do not expect
+
+to be cured by lotions,
+salves and other lo^' re h tto
+they can not possibly Xh Is i»
+source of the trouble, g to
+the blood. Begin taKing
+day, and write a ^medial
+^vI°eUrrXew"l give 7**$
+fnstructions, withou charge^
+at once to Medical Atlanta,
+Swift Laboratory, nunended
+S. S. S. is not sold or re
+for venereal disease
+Healthy Babies Sit Up and Play
+Good digestion and keeping the
+bowels open insure good healt in
+babyhood. Thousands of babies
+are kept healthy and happy y
+MPS-WINSLOWSiB*
+SYRUP UHI
+Tha Infants’ and Children’. Regulator
+Promptly and .atlsfaetorily relieve, d.ar
+rhoea. wind colic, flatulency. c0"*l^“ |tb NHPk
+and other disorders. You can g
+pleasure and the utmost confidence of only H^a>
+the most beneficial and satisfactory
+suits. Add a few drops, depending on age.
+to each feeding-it keep. baby’, bow* V
+regular. It 1. especially good for teething V* 1)/ J
+The complete, open published /tly^
+of thl. safe, health giving. Pur* {jom
+table preparation, guaranteed V
+narcotica. opiates, alcohol and a ^g^^
+Ingredients, appears on every la
+At All Druggiita J
+ANGLO-AMERICAN DRUG CO.
+215-217 Fulton street, Now Yor
+Ciwrul SsIKag -to*""
+Harold F. Ritchie*
+New York. Loudon, floront^^^^

@@ -1,0 +1,83 @@
+title: Photograph of Dr. James Naismith with His First Basketball Team
+scopeAndContentNote: Original caption: Dr. James Naismith (Wearing Suit), a Springfield College instructor and basketball’s inventor. He is with the “First Team”. The first game was played in 1891 in fulfillment of an assignment given to Naismith to create a game that could be played indoors between the football and baseball seasons, Source: Springfield College.
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-0561
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Still Pictures
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-3621
+physicalOccurrences[0].referenceUnits[0].email: stillpix@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Photographic Materials
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Photographic Print
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: National Archives at College Park – Still Pictures
+dataControlGroup.groupId: RRAM-S
+dataControlGroup.groupCd: RRAM-S
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+localIdentifier: 306-PSF-86-2445
+digitalObjects[0].objectFilename: 306-PSF-86-2445.JPG
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialive/2/47/12004702/content/arcmedia/stillpix/306-psf/306-PSF-86-2445.JPG
+digitalObjects[0].objectFileSize: 3139317
+digitalObjects[0].objectId: 15751922
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].inclusiveStartDate.year: 1900
+ancestors[0].inclusiveStartDate.logicalDate: 1900-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 306
+ancestors[0].inclusiveEndDate.year: 2003
+ancestors[0].inclusiveEndDate.logicalDate: 2003-12-31
+ancestors[0].title: Records of the U.S. Information Agency
+ancestors[0].naId: 622
+ancestors[1].inclusiveStartDate.dateQualifier: ca.
+ancestors[1].inclusiveStartDate.year: 1953
+ancestors[1].inclusiveStartDate.logicalDate: 1953-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Predecessor
+ancestors[1].creators[0].heading: U.S. Information Agency. Press and Publications Service. Visual Services Branch. Photo Library. (1953 - 04/01/1978)
+ancestors[1].creators[0].abolishDate.month: 4
+ancestors[1].creators[0].abolishDate.year: 1978
+ancestors[1].creators[0].abolishDate.day: 1
+ancestors[1].creators[0].abolishDate.logicalDate: 1978-04-01
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 1953
+ancestors[1].creators[0].establishDate.logicalDate: 1953-01-01
+ancestors[1].creators[0].naId: 10526338
+ancestors[1].creators[1].creatorType: Predecessor
+ancestors[1].creators[1].heading: International Communication Agency. Associate Directorate for Programs. Press and Publications Service. Publications Division. (04/01/1978 - 08/24/1982)
+ancestors[1].creators[1].abolishDate.month: 8
+ancestors[1].creators[1].abolishDate.year: 1982
+ancestors[1].creators[1].abolishDate.day: 24
+ancestors[1].creators[1].abolishDate.logicalDate: 1982-08-24
+ancestors[1].creators[1].authorityType: organization
+ancestors[1].creators[1].establishDate.month: 4
+ancestors[1].creators[1].establishDate.year: 1978
+ancestors[1].creators[1].establishDate.day: 1
+ancestors[1].creators[1].establishDate.logicalDate: 1978-04-01
+ancestors[1].creators[1].naId: 10466016
+ancestors[1].creators[2].creatorType: Most Recent
+ancestors[1].creators[2].heading: U.S. Information Agency. (08/24/1982 - 10/01/1999)
+ancestors[1].creators[2].abolishDate.month: 10
+ancestors[1].creators[2].abolishDate.year: 1999
+ancestors[1].creators[2].abolishDate.day: 1
+ancestors[1].creators[2].abolishDate.logicalDate: 1999-10-01
+ancestors[1].creators[2].authorityType: organization
+ancestors[1].creators[2].establishDate.month: 8
+ancestors[1].creators[2].establishDate.year: 1982
+ancestors[1].creators[2].establishDate.day: 24
+ancestors[1].creators[2].establishDate.logicalDate: 1982-08-24
+ancestors[1].creators[2].naId: 10452775
+ancestors[1].inclusiveEndDate.dateQualifier: ca.
+ancestors[1].inclusiveEndDate.year: 1994
+ancestors[1].inclusiveEndDate.logicalDate: 1994-12-31
+ancestors[1].title: Master File Photographs of U.S. and Foreign Personalities, World Events, and American Economic, Social, and Cultural Life
+ancestors[1].naId: 541937
+naId: 12004702

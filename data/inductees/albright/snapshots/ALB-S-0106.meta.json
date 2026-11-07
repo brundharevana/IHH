@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/404793996",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=404793996",
+  "method": "api",
+  "fetched_at": "2026-10-09T19:30:08Z",
+  "sha256": "a8a3fafde8410bb1501f5ef12b9dc997941bf74034b7edf66ef6f99f681bfadc",
+  "bytes": 3559,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=404793996"
+}

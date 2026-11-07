@@ -1,0 +1,145 @@
+title: Radio Scripts
+scopeAndContentNote: This series contains transcripts of radio broadcasts, lists of program participants, administrative correspondence, as well as examples of fan mail.  The files for the broadcast "Command Performance" contain studio photographs of program participants, including such notables as Bing Crosby, Dinah Shore, Judy Garland, Jack Benny and Hedy Lamarr.
+inclusiveStartDate.year: 1942
+inclusiveStartDate.logicalDate: 1942-01-01
+levelOfDescription: series
+creators[0].creatorType: Most Recent
+creators[0].heading: War Department. Office of the Secretary. Bureau of Public Relations. News Division. (02/11/1943 - 09/26/1945)
+creators[0].abolishDate.month: 9
+creators[0].abolishDate.year: 1945
+creators[0].abolishDate.day: 26
+creators[0].abolishDate.logicalDate: 1945-09-26
+creators[0].authorityType: organization
+creators[0].establishDate.month: 2
+creators[0].establishDate.year: 1943
+creators[0].establishDate.day: 11
+creators[0].establishDate.logicalDate: 1943-02-11
+creators[0].naId: 10450987
+recordType: description
+inclusiveEndDate.year: 1945
+inclusiveEndDate.logicalDate: 1945-12-31
+subjects[0].heading: Garland, Judy, 1922-1969
+subjects[0].deathDate.year: 1969
+subjects[0].deathDate.logicalDate: 1969-12-31
+subjects[0].authorityType: person
+subjects[0].birthDate.year: 1922
+subjects[0].birthDate.logicalDate: 1922-01-01
+subjects[0].naId: 10582932
+subjects[1].heading: Shore, Dinah, 1917-1994
+subjects[1].deathDate.year: 1994
+subjects[1].deathDate.logicalDate: 1994-12-31
+subjects[1].authorityType: person
+subjects[1].birthDate.year: 1917
+subjects[1].birthDate.logicalDate: 1917-01-01
+subjects[1].naId: 10582105
+subjects[2].heading: Benny, Jack, 1894-1974
+subjects[2].deathDate.year: 1974
+subjects[2].deathDate.logicalDate: 1974-12-31
+subjects[2].authorityType: person
+subjects[2].birthDate.year: 1894
+subjects[2].birthDate.logicalDate: 1894-01-01
+subjects[2].naId: 10582732
+subjects[3].heading: Lamarr, Hedy, 1913-2000
+subjects[3].deathDate.year: 2000
+subjects[3].deathDate.logicalDate: 2000-12-31
+subjects[3].authorityType: person
+subjects[3].birthDate.year: 1913
+subjects[3].birthDate.logicalDate: 1913-01-01
+subjects[3].naId: 10569195
+subjects[4].heading: Crosby, Bing, 1904-1977
+subjects[4].deathDate.year: 1977
+subjects[4].deathDate.logicalDate: 1977-12-31
+subjects[4].authorityType: person
+subjects[4].birthDate.year: 1904
+subjects[4].birthDate.logicalDate: 1904-01-01
+subjects[4].naId: 10581627
+subjects[5].heading: Radio broadcasting
+subjects[5].authorityType: topicalSubject
+subjects[5].naId: 10644297
+useRestriction.status: Unrestricted
+audiovisual: false
+physicalOccurrences[0].extent: 20 linear feet, 2 linear inches
+physicalOccurrences[0].referenceUnits[0].address2: 8601 Adelphi Road
+physicalOccurrences[0].referenceUnits[0].city: College Park
+physicalOccurrences[0].referenceUnits[0].phone: 301-837-3510
+physicalOccurrences[0].referenceUnits[0].address1: National Archives at College Park
+physicalOccurrences[0].referenceUnits[0].postalCode: 20740-6001
+physicalOccurrences[0].referenceUnits[0].name: National Archives at College Park - Textual Reference
+physicalOccurrences[0].referenceUnits[0].state: MD
+physicalOccurrences[0].referenceUnits[0].fax: 301-837-1752
+physicalOccurrences[0].referenceUnits[0].email: Archives2reference@nara.gov
+physicalOccurrences[0].containerList: Box 49:  Army Hour:  March 1, 1942 -- September 27, 1942
+Box 50:  Army Hour:  October 4, 1942 -- January 31, 1943
+Box 51:  Army Hour:  February 7, 1943 -- May 31, 1943
+Box 52:  Army Hour:  June 6, 1943 -- September 26, 1943
+Box 53:  Army Hour:  October 7, 1943 -- December 26, 1943
+Box 54:  Army Hour:  January 2, 1944 -- February 27, 1944
+Box 55:  Army Hour:  March 5, 1944 -- April 30, 1944
+Box 56:  Army Hour:  May 7, 1944 -- June 25, 1944
+Box 57:  Army Hour:  July 2, 1944 -- August 27, 1944
+Box 58:  Army Hour:  September 3, 1944 -- October 29, 1944
+Box 59:  Army Hour:  November 12, 1944 -- December 31, 1944
+Box 60:  Army Hour:  January 7, 1945 -- March 25, 1945
+Box 61:  Army Hour:  April 1, 1945 -- May 27, 1945
+Box 62:  Army Hour:  June 3, 1945 -- June 29, 1945
+Box 63:  Army Hour:  August 5, 1945 -- November 11, 1945
+Box 64:  Army Service Forces Presents:  May 29, 1943 -- July 31, 1943
+Box 65:  Army Service Forces Presents:  August 7, 1943 -- September 25, 1943
+Box 66:  Army Service Forces Presents:  October 2, 1943 -- November 27, 1943
+Box 67:  Army Service Forces Presents:  December 4, 1943 -- January 29, 1944
+Box 68:  Army Service Forces Presents:  February 5, 1944 -- April 8, 1944
+Box 69:  Army Service Forces Presents:  April 15, 1944 -- June 17, 1944
+Box 70:  Army Service Forces Presents:  June 24, 1944 -- September 2, 1944
+Box 71:  Assignment Home:  November 28, 1944 -- January 27, 1945
+Box 72:  Assignment Home:  February 3, 1945 -- March 31, 1945
+Box 73:  Assignment Home:  April 7, 1945 -- May 26, 1945
+Box 74:  Assignment Home:  June 2, 1945 -- September 8, 1945
+Box 75:  Command Performance:  March 8, 1942 -- April 26, 1942
+Box 76:  Command Performance:  May 3, 1942 -- June 28, 1942
+Box 77:  Command Performance:  July 5, 1942 -- August 30, 1942
+Box 78:  Command Performance:  September 6, 1942 -- October 18, 1942
+Box 79:  Command Performance:  October 25, 1942 -- December 13, 1942
+Box 80:  For the Record:  July 31, 1944 -- December 20, 1944
+Box 81:  Service Command Parade:  August 8, 1944 -- October 3, 1944
+Box 82:  Service to the Front:  June 23, 1944 -- November 28, 1944
+Box 83:  Service to the Front:  December 5, 1944 -- May 8, 1945
+Box 84:  Tokyo Calling:  June 25, 1945 -- October 22, 1945
+Box 85:  Twenty One Stars:  June 17, 1945 -- September 27, 1945
+Box 86:  Victory Serenade:  January 18, 1945 -- May 31, 1945
+Box 87:  Victory Serenade:  June 7, 1945 -- September 27, 1945
+Box 88:  Visiting Hour:  April 29, 1944 -- September 9, 1944
+Box 89:  Women's Army Corps (WACs) on Parade:  January 24, 1945 -- April 11, 1945
+Box 90:  Your Army Service Forces:  December 15, 1943 -- February 23, 1944
+Box 91:  Your Army Service Forces:  March 1, 1944 -- May 31, 1944
+Box 92:  Your Army Service Forces:  June 7, 1944 -- August 30, 1944
+Box 93:  Your Army Service Forces:  September 6, 1944 -- October 24, 1944
+Box 94:  Your Army Service Forces:  November 8, 1944 -- December 20, 1944
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].mediaOccurrences[0].containerId: Boxes 49-94
+physicalOccurrences[0].mediaOccurrences[1].specificMediaType: Photographic Print
+physicalOccurrences[0].mediaOccurrences[1].dimension: 8x10 inches
+physicalOccurrences[0].holdingsMeasurements[0].count: 46
+physicalOccurrences[0].holdingsMeasurements[0].type: Legal Archives Box, Standard
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+physicalOccurrences[0].physicalOccurrenceNote: The photographs are interfiled among the paper records in Boxes 75-79.
+accessRestriction.status: Unrestricted
+arrangement: Arranged alphabetically by the name of the radio program and thereunder chronologically by the date of broadcast.
+dataControlGroup.groupName: National Archives at College Park – Textual Reference
+dataControlGroup.groupId: RRAR
+dataControlGroup.groupCd: RRAR
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+generalRecordsTypes[1]: Textual Records
+variantControlNumbers[0].number: Entry 356 A1
+variantControlNumbers[0].type: HMS/MLR Entry Number
+variantControlNumbers[1].number: NND 770062
+variantControlNumbers[1].type: Declassification Project Number
+ancestors[0].inclusiveStartDate.year: 1791
+ancestors[0].inclusiveStartDate.logicalDate: 1791-01-01
+ancestors[0].distance: 1
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 107
+ancestors[0].inclusiveEndDate.year: 1948
+ancestors[0].inclusiveEndDate.logicalDate: 1948-12-31
+ancestors[0].title: Records of the Office of the Secretary of War
+ancestors[0].naId: 436
+naId: 563593

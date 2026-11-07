@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/today-in-history/february-26/",
+  "fetch_url": "https://www.loc.gov/item/today-in-history/february-26/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T19:26:08Z",
+  "sha256": "47eeaef5e5b3df42fd676ef69fb03c5f809140716c9bf87878b51d2cfc23a87a",
+  "bytes": 19748,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/today-in-history/february-26/?fo=json"
+}

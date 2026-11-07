@@ -1,0 +1,26 @@
+{
+  "$comment": "Named nodes in albright-archives-rotunda.glb / albright-archives-rotunda-mobile.glb (glTF Y-up, metres). hotspot_* are standing viewpoints at eye height 1.6 m whose local -Z axis faces the view direction (camera convention); artifact_* are framable objects; label_recreation carries the recreation label in extras.text. Walkable bounds: bounds.json.",
+  "hotspots": [
+    "hotspot_1",
+    "hotspot_2",
+    "hotspot_3",
+    "hotspot_4"
+  ],
+  "artifacts": [
+    "artifact_audience_chairs",
+    "artifact_bronze_gate",
+    "artifact_constitution_cases",
+    "artifact_constitution_inscription",
+    "artifact_exhibit_cases",
+    "artifact_flag_1",
+    "artifact_flag_2",
+    "artifact_lectern",
+    "artifact_light_column",
+    "artifact_mural",
+    "artifact_niches",
+    "artifact_tablet"
+  ],
+  "label": [
+    "label_recreation"
+  ]
+}

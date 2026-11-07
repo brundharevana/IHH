@@ -1,0 +1,15 @@
+title: File:Einstein 1921 by F Schmutzer - restoration.jpg
+DateTime: 2023-01-19 19:04:09
+ObjectName: Einstein 1921 by F Schmutzer - restoration
+CommonsMetadataExtension: 1.2
+Categories: PD Austria|Artworks without Wikidata item|Featured pictures on Wikipedia, English|Images with extracted images|Picture of week on the Czech Wikipedia|Information field template with formatting|Featured pictures on Wikipedia, Persian|Featured pictures on Wikipedia, Malay|CC-PD-Mark|Adam Cuerden's restorations|PD-old-95-expired|Featured pictures on Wikipedia, Bengali|Files with Assessments template missing SDC Commons no value quality assessment|Albert Einstein by Schmutzer (1921)|Illustrations used in Salute, Jonathan!
+Artist: Ferdinand Schmutzer / Adam Cuerden
+ImageDescription: Albert Einstein during a lecture in Vienna in 1921
+DateTimeOriginal: 1921 (ref.)
+Credit: http://www.bhm.ch/de/news_04a.cfm?bid=4&jahr=2006 [dead link], archived copy (image)
+Permission: Public Domain
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

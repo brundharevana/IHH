@@ -1,0 +1,10 @@
+{
+  "url": "https://www.archives.gov/nhprc/projects/catalog/john-muir",
+  "fetch_url": "https://www.archives.gov/nhprc/projects/catalog/john-muir",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:32:13Z",
+  "sha256": "e05e33f3034dcd54128fbf09675ea81582e2719603d417f2067fc87e75081b33",
+  "bytes": 3545,
+  "http_status": 200,
+  "final_url": "https://www.archives.gov/nhprc/projects/catalog/john-muir"
+}

@@ -1,0 +1,17 @@
+sourceNotes[0]: LC authorities online.
+heading: Springfield (Mass.)
+recordType: authority
+coordinates: 42 06 N, 072 35 W (42.1, -72.583)
+organizationalReferences[0].heading: War Department. Springfield Armory. (1794 - 1812)|War Department. Ordnance Department. Springfield Armory. (1812 - 1821)|War Department. Corps of Ordnance and Artillery. Springfield Armory. (1821 - 1832)|War Department. Office of the Chief of Ordnance. Springfield Armory. (1832 - 9/18/1947)|Department of Defense. Department of the Army. Office of the Chief of Ordnance. Springfield Armory. (9/18/1947 - 1962)
+organizationalReferences[0].naId: 10542798
+organizationalReferences[1].heading: Department of the Interior. National Park Service. Springfield Armory National Historical Site. (1978 - )
+organizationalReferences[1].naId: 164584501
+importRecordControlNumber: 7014531
+authorityType: geographicPlaceName
+naId: 10045845
+preferred: true
+linkCounts.totalDescriptions: 36
+linkCounts.subject: 36
+linkCounts.organization: 2
+recordSource: TGN
+scopeNote: Located on Connecticut River; moved to E bank 1636 & incorporated as town 1641; expanded after railway built 1835; site of Springfiled College (1885) & Naismith Memorial National Baskeball Hall of Fame, named for basketball inventor James Naismith.

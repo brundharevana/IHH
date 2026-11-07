@@ -1,0 +1,680 @@
+_version_: 1797409534308777984
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn88085445/1922-03-23/ed-1/
+aka[1]: http://www.loc.gov/resource/sn88085445/1922-03-23/ed-1/
+batch[0]: wa_bumping_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/washington/
+composite_location[2]: 2/united states/washington/whatcom/
+composite_location[3]: 3/united states/washington/whatcom/lynden/
+composite_location[4]: 3/united states/washington/whatcom/everson/
+composite_location[5]: 3/united states/washington/whatcom/sumas/
+composite_location[6]: 3/united states/washington/whatcom/nooksack/
+composite_location[7]: 3/united states/washington/whatcom/laurel/
+composite_location[8]: 3/united states/washington/whatcom/deming/
+contributor_names[0]: Washington State Library; Olympia, WA
+contributors[0].washington state library; olympia, wa: https://www.loc.gov/search/?fa=contributor:washington+state+library%3B+olympia,+wa&fo=json
+created_published[0]: Lynden, Wash., March 23, 1922
+date: 1922-03-23
+date_issued: 1922-03-23
+dates[0].1922-03-23: https://www.loc.gov/search/?dates=1922-03-23/1922-03-23&fo=json
+dates_of_publication: 1908-current
+description[0]: Lynden, Wash.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2024-04-26T11:24:09.017Z
+extract_urls[0]: file:/service/ndnp//wa/batch_wa_bumping_ver01/data/sn88085445/00211107595/1922032301/1922032301_1.xml#ndnp/wa
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/wa
+group[1]: washington-state-library-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn88085445/1922-03-23/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bumping_ver01:data:sn88085445:00211107595:1922032301:0731/full/pct:6.25/0/default.jpg#h=421&w=313
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bumping_ver01:data:sn88085445:00211107595:1922032301:0731/full/pct:12.5/0/default.jpg#h=843&w=626
+index: 4
+item.batch[0]: wa_bumping_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Washington State Library; Olympia, WA
+item.created_published[0]: Lynden, Wash., March 23, 1922
+item.date: 1908
+item.date_issued: 1922-03-23
+item.dates[0]: 1922-03-23
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn88085445
+item.location[0]: Lynden (Wash.)
+item.location[1]: Everson (Wash.)
+item.location[2]: Sumas (Wash.)
+item.location[3]: Nooksack (Wash.)
+item.location[4]: Laurel (Whatcom County, Wash.)
+item.location[5]: Deming (Wash.)
+item.location[6]: Washington (State)--Deming
+item.location[7]: Washington (State)--Everson
+item.location[8]: Washington (State)--Laurel (Whatcom County)
+item.location[9]: Washington (State)--Lynden
+item.location[10]: Washington (State)--Nooksack
+item.location[11]: Washington (State)--Sumas
+item.medium: 10 pages
+item.newspaper_title[0]: The Lynden tribune
+item.notes[0]: Weekly
+item.notes[1]: Vol. 1, no. 1 (July 9, 1908)-
+item.notes[2]: "Complete picture and news coverage of Lynden, Everson, Sumas, Nooksack, Laurel and Deming."
+item.notes[3]: Publisher: S.H. Lewis, <1922>.
+item.notes[4]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//wa/batch_wa_bumping_ver01/data/sn88085445/00211107595/1922032301/1922032301_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn88085445/marcxml
+item.place_of_publication: Lynden, Wash.
+item.raw_lccn: sn 88085445
+item.reel_numbers[0]: 00211107595
+item.source_group: ndnp/wa
+item.subjects[0]: Lynden (Wash.)--Newspapers
+item.subjects[1]: Everson (Wash.)--Newspapers
+item.subjects[2]: Sumas (Wash.)--Newspapers
+item.subjects[3]: Nooksack (Wash.)--Newspapers
+item.subjects[4]: Laurel (Whatcom County, Wash.)--Newspapers
+item.subjects[5]: Deming (Wash.)--Newspapers
+item.subjects[6]: Washington (State)--Deming
+item.subjects[7]: Washington (State)--Everson
+item.subjects[8]: Washington (State)--Laurel (Whatcom County)
+item.subjects[9]: Washington (State)--Lynden
+item.subjects[10]: Washington (State)--Nooksack
+item.subjects[11]: Washington (State)--Sumas
+item.subjects[12]: United States--Washington--Whatcom--Lynden
+item.subjects[13]: United States--Washington--Whatcom--Everson
+item.subjects[14]: United States--Washington--Whatcom--Sumas
+item.subjects[15]: United States--Washington--Whatcom--Nooksack
+item.subjects[16]: United States--Washington--Whatcom--Laurel
+item.subjects[17]: United States--Washington--Whatcom--Deming
+item.title: The Lynden tribune (Lynden, Wash.), March 23, 1922
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn88085445
+location[0]: nooksack
+location[1]: deming
+location[2]: whatcom
+location[3]: laurel
+location[4]: united states
+location[5]: lynden
+location[6]: sumas
+location[7]: washington
+location[8]: everson
+location[9]: whatcom county
+location_city[0]: lynden
+location_city[1]: everson
+location_city[2]: sumas
+location_city[3]: nooksack
+location_city[4]: laurel
+location_city[5]: deming
+location_country[0]: united states
+location_county[0]: whatcom
+location_state[0]: washington
+locations[0].deming: https://www.loc.gov/search/?fa=location:deming&fo=json
+locations[1].everson: https://www.loc.gov/search/?fa=location:everson&fo=json
+locations[2].laurel: https://www.loc.gov/search/?fa=location:laurel&fo=json
+locations[3].lynden: https://www.loc.gov/search/?fa=location:lynden&fo=json
+locations[4].nooksack: https://www.loc.gov/search/?fa=location:nooksack&fo=json
+locations[5].sumas: https://www.loc.gov/search/?fa=location:sumas&fo=json
+locations[6].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[7].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[8].whatcom: https://www.loc.gov/search/?fa=location:whatcom&fo=json
+locations[9].whatcom county: https://www.loc.gov/search/?fa=location:whatcom+county&fo=json
+locations_city[0].deming: https://www.loc.gov/search/?fa=location_city:deming&fo=json
+locations_city[1].everson: https://www.loc.gov/search/?fa=location_city:everson&fo=json
+locations_city[2].laurel: https://www.loc.gov/search/?fa=location_city:laurel&fo=json
+locations_city[3].lynden: https://www.loc.gov/search/?fa=location_city:lynden&fo=json
+locations_city[4].nooksack: https://www.loc.gov/search/?fa=location_city:nooksack&fo=json
+locations_city[5].sumas: https://www.loc.gov/search/?fa=location_city:sumas&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].whatcom: https://www.loc.gov/search/?fa=location_county:whatcom&fo=json
+locations_state[0].washington: https://www.loc.gov/search/?fa=location_state:washington&fo=json
+medium: 10 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Lynden tribune
+notes[0]: Weekly
+notes[1]: Vol. 1, no. 1 (July 9, 1908)-
+notes[2]: "Complete picture and news coverage of Lynden, Everson, Sumas, Nooksack, Laurel and Deming."
+notes[3]: Publisher: S.H. Lewis, <1922>.
+notes[4]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+number[0]: 1
+number[1]: sn88085445
+number[2]: 00211107595
+number_edition[0]: 1
+number_lccn[0]: sn88085445
+number_reel[0]: 00211107595
+numeric_shelf_id: 192203231
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//wa/batch_wa_bumping_ver01/data/sn88085445/00211107595/1922032301/1922032301_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn88085445/marcxml
+partof[0].count: 612
+partof[0].title: the lynden tribune (lynden, wash.) 1908-current
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+lynden+tribune+%28lynden,+wash.%29+1908-current&fo=json
+partof[1].count: 3210982
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232494
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the lynden tribune (lynden, wash.) 1908-current
+place_of_publication: Lynden, Wash.
+publication_frequency[0]: weekly
+raw_lccn: sn 88085445
+reel_numbers[0]: 00211107595
+resources[0].files: 10
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bumping_ver01:data:sn88085445:00211107595:1922032301:0731/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn88085445/1922-03-23/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.844794
+shard: 06
+shelf_id: sn88085445, 1922-03-23, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/wa
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: lynden (wash.)
+subject[1]: nooksack
+subject[2]: newspapers
+subject[3]: washington (state)
+subject[4]: deming
+subject[5]: laurel (whatcom county, wash.)
+subject[6]: everson
+subject[7]: whatcom
+subject[8]: nooksack (wash.)
+subject[9]: laurel (whatcom county)
+subject[10]: everson (wash.)
+subject[11]: united states
+subject[12]: laurel
+subject[13]: lynden
+subject[14]: sumas
+subject[15]: washington
+subject[16]: sumas (wash.)
+subject[17]: deming (wash.)
+subject_headings[0]: Lynden (Wash.)--Newspapers
+subject_headings[1]: Everson (Wash.)--Newspapers
+subject_headings[2]: Sumas (Wash.)--Newspapers
+subject_headings[3]: Nooksack (Wash.)--Newspapers
+subject_headings[4]: Laurel (Whatcom County, Wash.)--Newspapers
+subject_headings[5]: Deming (Wash.)--Newspapers
+subject_headings[6]: Washington (State)--Deming
+subject_headings[7]: Washington (State)--Everson
+subject_headings[8]: Washington (State)--Laurel (Whatcom County)
+subject_headings[9]: Washington (State)--Lynden
+subject_headings[10]: Washington (State)--Nooksack
+subject_headings[11]: Washington (State)--Sumas
+subject_headings[12]: United States--Washington--Whatcom--Lynden
+subject_headings[13]: United States--Washington--Whatcom--Everson
+subject_headings[14]: United States--Washington--Whatcom--Sumas
+subject_headings[15]: United States--Washington--Whatcom--Nooksack
+subject_headings[16]: United States--Washington--Whatcom--Laurel
+subject_headings[17]: United States--Washington--Whatcom--Deming
+subjects[0].deming: https://www.loc.gov/search/?fa=subject:deming&fo=json
+subjects[1].deming (wash.): https://www.loc.gov/search/?fa=subject:deming+%28wash.%29&fo=json
+subjects[2].everson: https://www.loc.gov/search/?fa=subject:everson&fo=json
+subjects[3].everson (wash.): https://www.loc.gov/search/?fa=subject:everson+%28wash.%29&fo=json
+subjects[4].laurel: https://www.loc.gov/search/?fa=subject:laurel&fo=json
+subjects[5].laurel (whatcom county): https://www.loc.gov/search/?fa=subject:laurel+%28whatcom+county%29&fo=json
+subjects[6].laurel (whatcom county, wash.): https://www.loc.gov/search/?fa=subject:laurel+%28whatcom+county,+wash.%29&fo=json
+subjects[7].lynden: https://www.loc.gov/search/?fa=subject:lynden&fo=json
+subjects[8].lynden (wash.): https://www.loc.gov/search/?fa=subject:lynden+%28wash.%29&fo=json
+subjects[9].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[10].nooksack: https://www.loc.gov/search/?fa=subject:nooksack&fo=json
+subjects[11].nooksack (wash.): https://www.loc.gov/search/?fa=subject:nooksack+%28wash.%29&fo=json
+subjects[12].sumas: https://www.loc.gov/search/?fa=subject:sumas&fo=json
+subjects[13].sumas (wash.): https://www.loc.gov/search/?fa=subject:sumas+%28wash.%29&fo=json
+subjects[14].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[15].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[16].washington (state): https://www.loc.gov/search/?fa=subject:washington+%28state%29&fo=json
+subjects[17].whatcom: https://www.loc.gov/search/?fa=subject:whatcom&fo=json
+timestamp: 2024-04-26T14:54:56.989Z
+title: The Lynden tribune (Lynden, Wash.), March 23, 1922
+type[0]: issue
+url: https://www.loc.gov/item/sn88085445/1922-03-23/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_bumping_ver01/data/sn88085445/00211107595/1922032301/0734.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn88085445/1922-03-23/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bumping_ver01:data:sn88085445:00211107595:1922032301:0731/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/wa/batch_wa_bumping_ver01/data/sn88085445/00211107595/1922032301/0734.pdf
+resources[0].segment_count: 10
+resources[0].url: https://www.loc.gov/resource/sn88085445/1922-03-23/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1922, March 23) The Lynden tribune. Retrieved from the Library of Congress, https://www.loc.gov/item/sn88085445/1922-03-23/ed-1/.
+cite_this.chicago: The Lynden tribune. (Lynden, WA), Mar. 23 1922. https://www.loc.gov/item/sn88085445/1922-03-23/ed-1/.
+cite_this.mla: The Lynden tribune. (Lynden, WA) 23 Mar. 1922, p. 4. Retrieved from the Library of Congress, www.loc.gov/item/sn88085445/1922-03-23/ed-1/.
+
+segment_id: /service/ndnp/wa/batch_wa_bumping_ver01/data/sn88085445/00211107595/1922032301/0734.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/wa/batch_wa_bumping_ver01/data/sn88085445/00211107595/1922032301/0734.xml&format=alto_xml&full_text=1
+full_text:
+Page fovb
+Lynden Butter
+and Cheese
+We are glad to handle LYNDEN Butter
+and DARIGOLD Cheese, the farmers' own
+products, because we know they are the best
+your money could buy anywheres. Our big
+283-pound cheese vanished in a hurry, and
+they are coming back for more—it was so
+good.
+TRY OUR HOME-MADE SAUSAGE—IT
+IS MIGHTY GOOD.
+PALACE MEAT MARKET
+ERNEST DEAN, Prop.
+Farmers
+WE ARE PAYING THE HIGHEST
+MARKET PRICES FOR
+EGGS, POULTRY, VEAL, PORK
+at our Lynden Station. Payments are made
+in cash.
+Our new phone number is MAIN 96.
+Call us if you have anything to sell.
+PERRY BROS.,
+Corner Third and Front Street
+CHEVROLET
+"THE PRODUCT OF EXPERIENCE"
+NO EXTRAS TO BUY BUT
+THE LICENSE!
+Completely equipped as it is today, the Chev-
+rolet Model "Four-Ninety" represents the
+greatest automobile value ever produced.
+TODAY is the best time to call and see the
+new model.
+$675
+F. O. B. LYNDEN
+Lynden IVlotor
+Company, Inc.
+THE LYNDEN TRIBUNE, LYNDEN. WASHINGTON, THURBDA V, MARCH 23, 1922
+SO LYNDEN FANS MAY KNOW,
+HOW BASKETBALL STARTED
+The editor of The Tribune was
+associated with the Inventor of
+the game of basketball, Dr. James
+Naismith, while serving on the
+faculty of the University of Kan
+sas ten years ago. Dr. Naismith
+was head of the physical educa
+tional department at Kansas, but
+did not coach the teams in tbe
+sport he had invented, as the
+game had developed fine points
+far beyond the simple contest
+he had planned originally.
+Lynden fans will be Interested
+In Dr. Naismlth's own story of
+how he Invented the game, as
+given in the Baseball Magazine
+this month:
+The next time you take part
+in or witness a game of basket
+ball, just remember you owe a
+debt of gratitude to Dr. James
+Naismith. The first time I ever
+saw Dr. Naismith was in a Red
+Triangle hut In France. "I need
+not ask you if you are scotch,"
+I said, "for one can tell by your
+looks that you are." Dr. Nai
+smith smiled and said, "I was
+born in Almonte,Canada, on Nov-
+ember 6, 1861; but you are right
+about my being Scotch, both my
+father and mother were born In
+Scotland, so you dont have to
+ask what church I belong to. It
+almost goes without saying that
+if one is Scotch he Is a Presby
+terian. My father was a woods
+man and a builder. While build
+ing a mill he drank some water
+containing typhoid germs and
+took the typhoid fever. My
+mother nursed him. He died.
+about ten days before I was nine
+years old. My mother died on my
+ninth birthday. When I was four
+teen years old, I was doing a
+man's work, driving a team in
+a lumber camp. By the time I
+was eighteen, I could chop my
+two cords of wood a day with
+the best of them. I had no op
+portunity of going to school until
+I was 19. I covered a four-year
+course in high school in a little
+less than two years, and when I
+was 21 I went to McGill Univer
+sity. I spent four years there,
+graduating in '87. Having work
+ed in the woods almost all my
+life I was very muscular, so was
+much in demand at McGill on the
+athletic team. I was on the foot
+ball team. I also threw the ham
+mer, and I was usually on the
+tug-o-'war team. I was also very
+fond of the good old-fashioned
+i.r* v uitum university to se
+cure an education to enable me
+to become a Presbyterian minis
+ter. Working with the men as
+I did on "the athletic field I came
+to the conclusion that I could
+get nearer them and be of more
+service to them in Y. M. C. A.
+wor,k than as a minister.
+After I had graduated from Mc
+Gill University, I /put in three
+years in the seminary. After
+graduating I went to Spring
+field Training School at Spring
+field, Mass. This was a school
+for Christian workers. It had
+been started by David Allen Reid.
+At first R. J. Roberts had charge
+of the physical work, but when
+I went there. Dr. Luther Gulick
+was in charge of the physical
+department. After completing my
+three years' training course there
+I was appointed instructor and
+taught boxing, wrestling, swim
+ming, anatomy and physhology.
+One of the men I met there of
+whom I became very fond was
+A. A. Stagg, a wonderful man
+In the football field. In 1895 I
+went to Denver as physical in
+structor of the Y. M. C. A. After
+three years there I went to the
+University of Kansas, at Law
+rence, to take charge of their
+department of physical educa
+tion. You probably know that
+the Springfield Training school
+where I was a physical instruc
+tor was a training school for
+NO. 4636
+NOTICE TO CREDITORS
+In the Superior Court of the
+State of Washington, in and
+for the County of Whatcom.
+In the Matter of the Estate of
+Lysje Buizer, deceased.
+Notice is hereby given that the
+undersigned has been appointed
+administrator with the will an
+nexed of the estate of Lysje
+Buizer, deceased, and has duly
+qualified as such, and that all
+persons having claims against
+said deceased or her estate are
+required to serve the same upon
+the undersigned administrator or
+upon his attorney of record at his
+office in Lynden, Washington,
+and file the same with the clerk
+of the above named court, togeth
+er with proof of such service
+within six months after the date
+of the first publication of this
+notice or the same will be for
+ever barred.
+Dated this 16th day of March
+1922.
+First publication March 16, 1922.
+Last publication April 6, 1922
+ARTHUR BUIZER,
+Administrator with the will
+annexed of estate of Lysje
+Buizer, deceased.
+R. B. LE COCQ,
+Lynden, Washington.
+Attorney for Administrator.
+fVOMENS APPAREL OF QUALITY
+BBLLUreSAM, WASH
+Y. M. O. A. workers. In the sea
+son of 1891 and 1892 there were
+18 men there taking training
+for Y. 11, C. A. work who did
+not care for the games and were
+unwilling to take up the routine
+of work in the gymnasium. Dr.
+Gulick said to me, "That group
+of men who do not care for the
+ordinary game need physical ex
+ercise. Why don't you invent a
+game that they will take an in
+terest in? Try to get up some
+game that will give them the
+exercise and at the same time
+will keep them interested." Be
+ing a football enthusiast myself,
+I thought I would see if I could
+invent a game of indoor Rugby
+football. I realized of course
+that Rugby football would be
+too rough for indoor work so I
+decided to eliminate the rough
+features such as tackling. The
+only reason a man is tackled is
+to down him when be is carrying
+the ball. I decided if I could
+have the ball thrown in place
+of being carried that would cut
+out a good deal of the roughness
+of the game.
+The next question was how to
+make a goal. I decided to do a
+little experimenting so I fastened
+two half-bushel peach baskets
+at opposite ends of the gallery
+out and wrote 13 rules for my
+new game which I called Indoor
+Rugby. When my 18 men lined
+up before me I read the rules
+to them, divided the classes into
+two sides of nine men each, tos
+sed the ball to the center and
+refereed the first game of basket
+ball ever played. Mahan, Archi
+bald, Davis, Thompson, Libby
+Bruce and the rest of the team
+became intensely lnieresieu in
+Farmers Mercantile Qo.
+NEW SPRING COATS—in the <J?OC AA
+latest materials styles, 14.75 to
+NEW SPRING FROCKS—of taffeta in a
+variety of styles. They are won- <j?OC AA
+ders at the price—sl6.7s to. «P^J.vU
+Ladies' Heather Hose 85c and $1.00
+Ladies' cotton hose, fine quality.. 2 pr. 75c
+Ladies' silk lisle hose 50c
+Ladies' Silk hose $1.00
+Infant's wool hose, tan, 4y 2 to 5V 2 25c
+Infant's fine cotton, size 5 and 6 20c
+Children's school hose, 7 to 9 25c
+Men's heavy cotton hose, brown and
+black, 2 pair 35c
+Men's cotton dress hose, brown and
+black 19c
+Men's dress suspenders 35c
+45-in. Imported Swiss Organdie—in all
+the wanted shades 90c
+40-in. Perma Lawn Organdie—one of the
+finest qualities 75c
+32-in. Silk Tissue Gingham 65c
+32-in. Tissue Gingham, beautiful color
+combinations 60c
+32-in. Dress Ginghams—in. the new
+Spring Patterns 30c
+27-in. Ginghams 25c
+27-in. Ginghams, Special 19c
+New Spring Suits for men and young men
+in the latest styles. d*OC AA
+$26.50 to «POJ.UU
+Men's New Spring Caps—sl.7s to
+$2.25
+New Spring Suits for Boys, some CI OE A
+with two pair trousers,sß.7s t0... V**Wv
+Boys' New Spring Caps $1.00
+it. Mahan said. "Why don't you
+have an attractive name for this
+new game?" he said, "why don't
+you call it Basket Ball since the
+object is to throw the ball Into
+the basket?" So Basket Ball it
+became. From this original class
+of 18 I developed a champion
+ship team which played all com
+ers. The fundamental principles
+of basket ball have never been
+changed, and today you will find
+it played not only In every Y. M.
+C. A. in the world, but wherever
+you find a gymnasium you are
+pretty apt to find basket ball
+one of the favorite sports."
+Entertains Amphlctyous
+Mrs. G. W. Robertson enter
+tained the members of the Am
+phictyon club at her home Friday
+afternoon. Mrs. Gale M. Edson
+was the guest of the club.
+Klatawas To Visit Everson
+The Klatawa club will be en
+tertained at the home of Mrs.
+Gus Nordstrom, at Everson, Wed
+nesday evening.
+Th Council of Lynden Camp
+No. 5527, M. W. A. will hold
+their next regular meeting Sat
+urday evening, March 25. They
+announce an Important meeting,
+and would like to have as many
+members present as possible.
+No. 3893
+NOTICE TO CREDITORS
+In the Superior Court of the
+State of Washington, In and
+for the County of Whatcom.
+In the Matter of the Estate of
+D. H. Jamieson, deceased.
+Notice is hereby given that
+under and by virtue of a certain
+community agreement executed
+by D. H. Jamieson, now deceased, i
+and the undersigned, said under-:
+signed as surviving wife of said
+deceased is the owner of all the J
+community estate of said deceas-
+ed and all creditors having claims
+against said deceased or his es-
+tate are hereby notified to serve
+tbeir claims upon the under-1
+signed or her attorney of record
+at his address below stated, and
+file the same with the clerk of j
+the above court, together with
+proof of such service, within six
+months after the date of the first
+publication of this notice or the
+IUU will be forever barred.
+Dated this 16th day of March,
+1922
+KATMRYN L. JAMIESON
+Surviving wife of said de
+ce&sod
+First publication March IG, 1922.
+Last publication April 6, 1922.
+R. B. LE COCQ,
+ktWrney oY a on> I
+The Home of Quality Goods
+Garden Tools
+We have a full line of Garden Tools
+come here when you are ready to make your
+garden this spring. You will be pleased w r ith
+the quality and prices.
+Shovels, spades, hoes, rakes, forks, etc.
+QUALITY SEEDS
+We have Clover, Alsike, Timothy, and
+Vetch Seed in bulk, and a full line of Garden
+and Flower Seeds. Get your Onion Sets
+here.
+FINE DRIED FRUITS
+You will like our Bulk Dried Fruits. At
+present prices, they offer an inexpensive ad
+dition to the daily menu.
+Bulk White and Black Figs.... 2 lb for 45c
+Dried Peaches 2 lb for 45c
+Dried Apples, 2 lb for 45c
+California Prunes 2 lb for 35c
+Thompson Seedless Raisins 2 lb for 45c
+Currants, 15 oz. package 25c
+Dried Apricots Raisins in Packages
+MEN'S WORK CLOTHES
+A new shipment of Coveralls has just
+arrived, men. We have a splendid line of
+overalls, work-shirts, work-pants, etc. And
+the prices are right.
+IT COSTS HALF AS MUCH
+A Vega Separator costs half as much
+practically as the expensive types, and it is
+guaranteed to give you satisfaction. There
+are many, many Vegas in this district, and
+they are all making good. At the present
+prices, it pays you to separate. Investigate
+the Vega.
+STAR MERCANTILE
+COMPANY
+ED EERKES, Proprietor
+36-in. MESSALINES—variety of tfO An
+colors, good quality «pZ.UU
+34-in. PONGEE— <t»i nr
+natural color «pl.Zt)
+36-in. SPORT SlLK—large plaid, the <PO An
+latest thing for skirts «p£.UU
+36-in. wool and cotton mixed SERGE or
+in several good colors »OU
+48-in. SERGE—grey, plum, black <I»1 or
+and green «pl.oo
+New Spring Voiles—in the latest patterns,
+good stock to choose from, 45c to 60c
+36-in. Pamico Cloth—in all the latest
+colors 40 C
+32-in. Kyrtle Cloth—large assortment of
+colors 40c
+30-in. Jap Crepe—best quality, fast col
+ors 40c
+Ladies' Brown kid oxfords—half <fr m
+rubber heels «pD.DU
+Ladies' Brown Calf Oxfords, mcd- ror
+ium heel tfO.tC'd
+Ladies' Brown Calf Pump—two (Pi r a
+strap, low heel «p4.3U
+Ladies' black kid oxford, medium heel
+$4.25
+Ladies' black kid pump, one-strap, (Pr aa
+medium heel «p3.UU
+Boyd Welch" pumps and oxfords—baby
+Louis and military heels, black (P7 nr
+or brown, $5.00 to «p/./0
+Children's Slippers—all sizes and priced ex
+tremely low.
+Shoes and Oxfords for men and boys <P£ AA
+in the latest styles,ss.so to «pO.UU

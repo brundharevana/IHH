@@ -1,0 +1,12 @@
+[
+  {"id": "born", "question": "Albert Einstein was born 14 March 1879 in ___.", "question_fact_ids": ["EIN-F-0005"], "options": [
+     {"text": "San Diego", "correct": false, "explanation": "In 1930, Albert Einstein arrived in San Diego on the Belgenland.", "fact_ids": ["EIN-F-0114"]},
+     {"text": "Ulm, Germany", "correct": true, "explanation": "Albert Einstein was born 14 March 1879 in Ulm, Germany.", "fact_ids": ["EIN-F-0005"]},
+     {"text": "Princeton, New Jersey", "correct": false, "explanation": "Albert Einstein died on April 18, 1955 at Princeton, New Jersey.", "fact_ids": ["EIN-F-0006"]}
+   ]},
+  {"id": "renounced", "question": "In ___ Albert Einstein renounced his German citizenship.", "question_fact_ids": ["EIN-F-0109"], "options": [
+     {"text": "1879", "correct": false, "explanation": "Albert Einstein was born 14 March 1879 in Ulm, Germany.", "fact_ids": ["EIN-F-0005"]},
+     {"text": "1933", "correct": true, "explanation": "In 1933 Albert Einstein renounced his German citizenship.", "fact_ids": ["EIN-F-0109"]},
+     {"text": "1940", "correct": false, "explanation": "On 1940 Oct. 1, Albert Einstein was photographed receiving from Judge Phillip Forman his certificate of American citizenship.", "fact_ids": ["EIN-F-0051"]}
+   ]}
+]

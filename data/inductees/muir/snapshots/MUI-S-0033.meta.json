@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/today-in-history/april-03/",
+  "fetch_url": "https://www.loc.gov/item/today-in-history/april-03/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:48:34Z",
+  "sha256": "2183a5d8e6a20b9f1634346f7ac27d4ceb2ae129697210d625e7ec2ee2ce37f7",
+  "bytes": 7532,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/today-in-history/april-03/?fo=json"
+}

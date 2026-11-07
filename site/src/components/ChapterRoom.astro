@@ -1,0 +1,532 @@
+---
+// Chapter room body, shared by the chapter page (/<slug>/<n>/) and the dev bench
+// (/dev/reconstruction/). Every prop is a view built from verified records (src/content/load.js)
+// except fixed UI labels; this component composes no content text.
+//   heading = { inductee, title, titleChips, accent }
+//   narration = { base, lines: [{ text, note }] } | null   (built narration audio + transcript lines; note: a museum note)
+//   exhibits = exhibitView(...)[]                portrait/quotes: see Portrait.astro
+//   reconstruction = reconstructionView(...) | null   (reconstructed-place rooms only)
+//   runtime = what src/museum/scene.js needs
+//   doors = roomDoors(...) | null (src/content/journey.js): the entrance and exit door links, in journey order
+//   scan = scanCredit(...) | null (src/museum/scanroom.js): a scanned room's credit label (real place, not
+//          connected to the inductee, CC BY with the licence link), shown under the stage and in the
+//          room credits; also the loading view's title and the Lite fallback message
+//   liteHref = the Lite page for this room (the scanned room's fallback link)
+//   hall = hallView(...).items | null (src/content/hall.js): the hallway's inductees instead of exhibits.
+//          Each easel's rail item and list entry is a link to the journey map where it exists; an
+//          inductee without one opens a card with the name, the verified line and "Journey in preparation".
+import FactChips from './FactChips.astro';
+import '../styles/panel.css';
+import Portrait from './Portrait.astro';
+import ReconstructionPlaque from './ReconstructionPlaque.astro';
+import { PLACE_WALLS } from '../museum/reconstruction.js';
+import StudyCornerPlaque from './StudyCornerPlaque.astro';
+import { exhibitFiles, roomTextureUrl } from '../museum/mediafiles.js';
+
+const { heading, narration = null, exhibits = [], portrait = null, quotes = [], reconstruction = null, corner = null, runtime, doors = null, scan = null, liteHref = null, hall = null } = Astro.props;
+const DOOR_KEYS = ['entrance', 'exit'];
+// Phone door chips (fix round 2): an arrow and a short label; the full button text stays the link's
+// accessible name and tooltip, and it contains the short label word for word, same apostrophe
+// (WCAG 2.5.3 Label in Name; e2e/phone-stage.spec.js).
+const shortDoor = (k, d) => (k === 'entrance' ? (d.kind === 'map' ? '\u2039 Journey map' : '\u2039 Previous room') : (d.kind === 'end' ? "Journey's end \u203a" : 'Next room \u203a'));
+// Rail thumbnails: the exhibit's room texture, which the 3D room loads anyway (no extra download).
+const rawExhibits = new Map(((runtime && runtime.chapter && runtime.chapter.exhibits) || []).map(e => [e.id, e]));
+const thumbOf = id => { const raw = rawExhibits.get(id), f = raw && exhibitFiles(raw); return f && f.front ? roomTextureUrl(f.front) : null; };
+---
+<div class="voa-chapter" style={`--c-room-accent:${heading.accent || '#3a2a2a'}`}>
+    <div class="chapter-head" data-chapter-head>
+      <p class="inductee">{heading.inductee}</p>
+      <h1>{heading.title}</h1>
+      <FactChips chips={heading.titleChips} prefix="tip-title" />
+    </div>
+
+    <!-- data-covered (a scanned room, until it is drawn, and while its failure card shows): the stage's
+         controls under the loading view or the card are hidden, so Tab never reaches what cannot be
+         seen (src/museum/scanstage.js scanLoadingView). -->
+    <div class="stage" data-stage data-covered={scan ? '' : undefined}>
+      <canvas id="room" aria-hidden="true"></canvas>
+      <!-- Reduced-motion moves between stations: a 300 ms fade to dark with a cut (src/museum/stationcam.js). -->
+      <div class="stage-fade" data-stage-fade aria-hidden="true"></div>
+      <!-- Exhibit hotspots are rings drawn in the room (src/museum/rings.js); the rail below is their
+           keyboard and screen-reader path. This layer holds the door pills. -->
+      <div class="hotspots" data-hotspots>
+        {doors && DOOR_KEYS.map(k => (
+          <a class={`hotspot door-hotspot door-${k}`} data-door-hotspot={k} href={doors[k].href} hidden>
+            <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+              {k === 'exit' ? <path d="M5 11h10.2l-4.6-4.6L12 5l7 7-7 7-1.4-1.4 4.6-4.6H5z" fill="currentColor" />
+                : <path d="M19 11H8.8l4.6-4.6L12 5l-7 7 7 7 1.4-1.4L8.8 13H19z" fill="currentColor" />}
+            </svg>
+            <span>{doors[k].label}</span>
+          </a>
+        ))}
+      </div>
+      {doors && (
+        <nav class="door-nav" aria-label="Rooms" data-door-nav>
+          {DOOR_KEYS.map(k => (
+            <a class={`door-btn door-btn-${k}`} data-door={k} href={doors[k].href} aria-label={doors[k].button} title={doors[k].button}>
+              <span class="door-full">{doors[k].button}</span>
+              <span class="door-short" aria-hidden="true">{shortDoor(k, doors[k])}</span>
+            </a>
+          ))}
+        </nav>
+      )}
+      {hall && (
+        <!-- Each thumbnail's name starts with the number it shows (label in name, WCAG 2.5.3). -->
+        <div class="rail" role="group" aria-label="Inductees in the hallway" data-rail-list>
+          {hall.map(it => (it.href
+            ? <a class="rail-btn" data-rail={it.id} href={it.href} aria-label={`${it.number}. ${it.name}: journey map`}>
+                {it.portrait ? <img src={it.portrait.image} alt="" width="52" height="52" decoding="async" /> : <span class="rail-card" aria-hidden="true"></span>}
+                <span class="rail-num" aria-hidden="true">{it.number}</span>
+              </a>
+            : <button type="button" class="rail-btn" data-rail={it.id} aria-label={`${it.number}. ${it.name}: journey in preparation`}>
+                {it.portrait ? <img src={it.portrait.image} alt="" width="52" height="52" decoding="async" /> : <span class="rail-card" aria-hidden="true"></span>}
+                <span class="rail-num" aria-hidden="true">{it.number}</span>
+              </button>))}
+        </div>
+      )}
+      {!hall && exhibits.length > 0 && (
+        <div class="rail" role="group" aria-label="Exhibits in this room" data-rail-list>
+          {exhibits.map(ex => (
+            <button type="button" class="rail-btn" data-rail={ex.id} aria-label={`Exhibit ${ex.number}: ${ex.title}`} hidden>
+              {thumbOf(ex.id) && <img src={thumbOf(ex.id)} alt="" width="52" height="52" decoding="async" />}
+              <span class="rail-num" aria-hidden="true">{ex.number}</span>
+            </button>
+          ))}
+        </div>
+      )}
+      <div class="drag-hint" data-drag-hint aria-hidden="true" hidden>
+        <span class="drag-pill">Drag to look around</span>
+        <svg class="drag-hand" viewBox="0 0 56 56" width="56" height="56" focusable="false">
+          <path d="M9 14l-5 5 5 5M47 14l5 5-5 5" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M23 33V13a3.5 3.5 0 0 1 7 0v13m0-3a3.5 3.5 0 0 1 7 0v4m0-2a3.5 3.5 0 0 1 7 0v8c0 9-6 15-14 15h-2c-5 0-9-2-12-7l-5-9a3.5 3.5 0 0 1 6-3.5l4 5.5"
+            fill="#0008" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </div>
+      <button type="button" class="now-showing" data-now hidden></button>
+      <p class="visually-hidden" aria-live="polite" data-announce></p>
+      <p class="visually-hidden" aria-live="polite" data-move-announce></p>
+      {doors && (
+        <>
+          <!-- Story mode (src/ui/story.js): a Close story control all through the story, and the countdown
+               card after the narration; neither takes focus. -->
+          <button type="button" class="story-pill" data-story-pill hidden>Close story</button>
+          <div class="story-card" role="group" aria-label="Story" data-story-card hidden>
+            <p class="story-text" data-story-text></p>
+            <div class="story-actions">
+              <button type="button" class="story-btn" data-story-stay>Stay</button>
+              <button type="button" class="story-btn" data-story-close>Close story</button>
+            </div>
+          </div>
+          <p class="visually-hidden" aria-live="polite" data-story-announce></p>
+        </>
+      )}
+      {narration && (
+        <>
+          <audio id="narration" preload="metadata" src={`${narration.base}.mp3`}>
+            <track kind="metadata" id="cues" src={`${narration.base}.vtt`} default />
+          </audio>
+          <div class="stage-captions" data-captions aria-hidden="true" hidden><span data-caption-text></span></div>
+          <button type="button" class="stage-play" data-stage-play aria-label="Play narration">
+            <svg viewBox="0 0 24 24" width="40" height="40" aria-hidden="true" focusable="false"><path d="M8 5v14l11-7z" fill="currentColor" /></svg>
+          </button>
+          <div class="player" role="group" aria-label="Narration player" data-player>
+            <button type="button" class="pbtn" data-play aria-label="Play narration" data-state="paused">
+              <svg class="i-play" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M8 5v14l11-7z" fill="currentColor" /></svg>
+              <svg class="i-pause" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M6 5h4v14H6zM14 5h4v14h-4z" fill="currentColor" /></svg>
+            </button>
+            <input type="range" class="scrub" data-scrub min="0" max="0" step="0.1" value="0" aria-label="Seek narration" aria-valuetext="0:00 of 0:00" />
+            <span class="ptime" data-time aria-hidden="true">0:00 / 0:00</span>
+            <button type="button" class="pbtn cc" data-cc aria-pressed="true" aria-label="Captions">CC</button>
+            <button type="button" class="pbtn" data-mute aria-pressed="false" aria-label="Mute">
+              <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M4 9v6h4l5 4V5L8 9zm12.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4z" fill="currentColor" /></svg>
+            </button>
+          </div>
+        </>
+      )}
+      {scan && (
+        <>
+          <!-- Scanned room: the loading view (title and byte progress) until the room is drawn, then
+               the room; if it cannot load, the Lite fallback message (src/museum/scene.js). -->
+          <!-- Without script nothing loads: no loading view over the stage (the door links stay usable). -->
+          <noscript set:html={'<style>.voa-chapter .scan-loading { display: none; } .voa-chapter .stage[data-covered] > * { visibility: visible !important; }</style>'} />
+          <div class="scan-loading" data-scan-loading>
+            <div class="scan-loading-card">
+              <p class="scan-loading-title" role="status">Loading the room: {scan.place}</p>
+              <progress max="100" value="0" aria-label={`Loading ${scan.place}`}></progress>
+              <p class="scan-loading-bytes" data-scan-progress-text aria-hidden="true">Starting</p>
+            </div>
+          </div>
+          <!-- The preview is shown; the full-detail bundle is still streaming in. -->
+          <div class="scan-detail" data-scan-detail aria-hidden="true" hidden>
+            <span>Loading full detail</span>
+            <progress max="100" value="0"></progress>
+          </div>
+          <div class="scan-failed" data-scan-failed role="alert" tabindex="-1" hidden>
+            <div class="scan-failed-card">
+              <p><strong>This 3D room could not load on this device.</strong></p>
+              <p>The exhibits are listed below the stage{liteHref ? ', and the Lite version shows them with the archive photographs and text.' : '.'}</p>
+              {liteHref && <a class="btn" href={liteHref} data-voa-mode="lite">Open the Lite version (no 3D)</a>}
+              {doors && <button type="button" class="btn" data-scan-failed-close-story hidden>Close story</button>}
+            </div>
+          </div>
+        </>
+      )}
+      <aside id="panel" role="dialog" aria-labelledby="panel-title" tabindex="-1" hidden>
+        <div class="panel-bar">
+          <button type="button" class="btn panel-step" data-panel-prev aria-label="Previous exhibit">&larr;</button>
+          <button type="button" class="btn panel-step" data-panel-next aria-label="Next exhibit">&rarr;</button>
+          <button type="button" class="btn panel-close" data-panel-close>Close</button>
+        </div>
+        <div class="panel-body" data-panel-body></div>
+      </aside>
+    </div>
+
+    {scan && (
+      <p class="scan-credit" data-scan-credit>
+        {scan.labelParts.before}<a href={scan.licence.url}>{scan.licence.name}</a>{scan.labelParts.after} {scan.notConnected} <a href="#room-credits">Room credits</a>
+      </p>
+    )}
+
+    {reconstruction && <ReconstructionPlaque reconstruction={reconstruction} doors={Boolean(doors)} />}
+
+    {corner && <StudyCornerPlaque corner={corner} />}
+
+    {reconstruction && (
+      <div class="look-around" role="group" aria-labelledby="look-heading" data-look-around hidden>
+        <h2 id="look-heading">Look around</h2>
+        <p>Drag in the room to look around, or face a wall:</p>
+        <div class="look-buttons">
+          {PLACE_WALLS.map(w => <button type="button" class="btn" data-viewpoint={w}>{`Face the ${w} wall`}</button>)}
+        </div>
+      </div>
+    )}
+
+    {narration && (
+      <div class="narration">
+        <details class="transcript">
+          <summary>Transcript</summary>
+          {narration.lines.map((l, i) => <p data-line={i} data-museum-note={l.note ? '' : undefined}>{l.note && <span class="line-kind">Museum note: </span>}{l.text}</p>)}
+        </details>
+      </div>
+    )}
+
+    {portrait && <Portrait portrait={portrait} quotes={quotes} />}
+
+    {hall && (
+      <section class="exhibit-list hall-list" aria-labelledby="exhibits-heading">
+        <h2 id="exhibits-heading">The inductees</h2>
+        <ol id="exhibits">
+          {hall.map(it => (
+            <li data-item={it.id}>
+              {it.href
+                ? <a class="btn exhibit-btn" data-hall-link={it.id} href={it.href}>{it.label}<span class="visually-hidden">: journey map</span></a>
+                : <button type="button" class="btn exhibit-btn" data-exhibit={it.id}>{it.label}</button>}
+              {it.comingSoon && <span class="hall-soon">Journey in preparation</span>}
+            </li>
+          ))}
+        </ol>
+      </section>
+    )}
+    {hall && hall.filter(it => !it.href).map(it => (
+      <template id={`tpl-${it.id}`}>
+        <h2 id="panel-title" tabindex="-1">{it.name}</h2>
+        <figure class="panel-media" data-figure>
+          {it.portrait
+            ? <img data-media src={it.portrait.image} alt={it.portrait.alt} width="648" height="800" />
+            : <div class="hall-name-card" aria-hidden="true"><span>{it.initials}</span></div>}
+        </figure>
+        {it.line && <p class="note">{it.line.text} <FactChips chips={it.line.chips} prefix={`tip-${it.id}-l`} /></p>}
+        <p class="note" data-coming-soon>Journey in preparation.</p>
+      </template>
+    ))}
+
+    {!hall && (
+    <section class="exhibit-list" aria-labelledby="exhibits-heading">
+      <h2 id="exhibits-heading">Exhibits</h2>
+      {exhibits.some(ex => ex.holderDate) && <p class="holder-note" data-holder-note>Photo dates are given as the holding archive dates them.</p>}
+      <button type="button" id="show-all" class="btn">Show all exhibits</button>
+      <ol id="exhibits">
+        {exhibits.map(ex => (
+          <li hidden data-item={ex.id}>
+            <button type="button" class="btn exhibit-btn" data-exhibit={ex.id}>{ex.label}</button>
+            <FactChips chips={ex.titleChips} prefix={`list-${ex.id}`} />
+            {ex.holderDate && <span class="holder-date" data-holder-date>{`Photo date: ${ex.holderDate}`}</span>}
+          </li>
+        ))}
+      </ol>
+    </section>
+    )}
+
+    {scan && (
+      <section class="room-credits" id="room-credits" aria-labelledby="room-credits-heading">
+        <h2 id="room-credits-heading">Room credits</h2>
+        <p>{scan.label} {scan.notConnected}</p>
+        <p>{scan.credit}</p>
+        <p>Licence: <a href={scan.licence.url}>{scan.licence.name}</a>. Source: <a href={scan.source}>{scan.place} on Sketchfab</a>.</p>
+        {corner && corner.credits.map(c => (
+          <p data-corner-credit>{`Study corner furniture: ${c.text} `}<a href={c.source}>Source on Sketchfab</a>{`. Licence: `}<a href={c.licence.url}>{c.licence.name}</a>{`. ${c.changes}`}</p>
+        ))}
+      </section>
+    )}
+
+    {exhibits.map(ex => (
+      <template id={`tpl-${ex.id}`}>
+        <h2 id="panel-title" tabindex="-1">{ex.label}</h2>
+        <FactChips chips={ex.titleChips} prefix={`tip-${ex.id}-t`} />
+        <figure class="panel-media" data-figure>
+          {ex.media.kind === 'model'
+            ? <model-viewer data-media src={ex.media.src} alt={ex.media.alt} camera-controls></model-viewer>
+            : <img data-media src={ex.media.src} alt={ex.media.alt} width={ex.media.width} height={ex.media.height} />}
+          <p class="media-missing" data-media-missing hidden>Image unavailable</p>
+        </figure>
+        {ex.notes.map((note, i) => (
+          <p class="note">{note.text} <FactChips chips={note.chips} prefix={`tip-${ex.id}-n${i}`} /></p>
+        ))}
+        <dl class="meta">
+          {ex.credit && (<><dt>Credit</dt><dd>{ex.credit}</dd></>)}
+          {ex.rights && (<><dt>Rights</dt><dd>{ex.rights}</dd></>)}
+          {ex.licence && (<><dt>Licence</dt><dd>{`“${ex.licence.workTitle}”, `}<a href={ex.licence.url} data-licence>{ex.licence.name}</a></dd><dt>Changes</dt><dd>{ex.licence.changes}</dd></>)}
+          {ex.holderDate && (<><dt>Photo date</dt><dd data-holder-date>{`${ex.holderDate} (as the holder dates it)`}</dd></>)}
+          {ex.evidence && (<><dt>Evidence</dt><dd>{ex.evidence}</dd></>)}
+        </dl>
+        {ex.reconstruction && <p class="reconstruction">{ex.reconstruction}</p>}
+        {ex.plainBack && <p class="model-note" data-plain-back>Back of this model is plain paper; the original is single-sided.</p>}
+        <p><a class="original" href={ex.originalUrl}>See the original</a></p>
+      </template>
+    ))}
+  </div>
+  {doors && <div class="door-fade" data-door-fade aria-hidden="true" hidden></div>}
+  <script type="application/json" id="chapter-data" set:html={JSON.stringify(runtime).replace(/</g, '\\u003c')}></script>
+
+
+<script>
+  import { startChapter } from '../museum/scene.js';
+  const data = JSON.parse(document.getElementById('chapter-data').textContent);
+  startChapter(data);
+</script>
+
+<style is:global>
+  /* Component display rules must never override the hidden attribute. */
+  .voa-chapter [hidden] { display: none !important; }
+  .voa-chapter { padding: var(--space-4); max-width: 1200px; margin: 0 auto; }
+  .voa-chapter .inductee { margin: 0; color: var(--c-muted); }
+  .voa-chapter h1 { font-family: var(--f-serif); margin: var(--space-2) 0; }
+  .voa-chapter .stage { position: relative; border-top: 6px solid var(--c-room-accent); }
+  .voa-chapter #room { display: block; width: 100%; height: min(70vh, 640px); background: #2a2622; touch-action: none; }
+  .voa-chapter .look-around h2 { font-size: 1rem; margin: var(--space-4) 0 var(--space-2); }
+  .voa-chapter .look-around p { margin: 0 0 var(--space-2); }
+  .voa-chapter .look-buttons { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+  .voa-chapter .narration { margin: var(--space-4) 0; }
+  /* Narration player over the stage: big play button first, then a control bar and captions. */
+  .voa-chapter .stage-play { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 88px; height: 88px;
+    border-radius: 50%; border: 2px solid #fff; background: var(--stage-control); color: #fff; cursor: pointer; display: grid; place-items: center;
+    box-shadow: 0 4px 24px #0006; }
+  .voa-chapter .stage-play:hover { background: var(--stage-card); }
+  .voa-chapter .stage-play svg { margin-left: 6px; }
+  .voa-chapter .player { position: absolute; left: 0; right: 0; bottom: var(--sheet-h, 0px); display: flex; align-items: center; gap: var(--space-2);
+    padding: 0 var(--space-2); background: linear-gradient(to top, var(--stage-bar-bottom), var(--stage-bar-top)); color: #fff; z-index: 2; }
+  .voa-chapter .pbtn { min-width: 44px; min-height: 44px; display: grid; place-items: center; padding: 0; font: inherit; font-weight: 700;
+    color: #fff; background: transparent; border: 0; border-radius: 6px; cursor: pointer; }
+  .voa-chapter .pbtn:hover { background: #ffffff26; }
+  .voa-chapter .pbtn[data-state="paused"] .i-pause, .voa-chapter .pbtn[data-state="playing"] .i-play { display: none; }
+  .voa-chapter .pbtn.cc[aria-pressed="false"], .voa-chapter .pbtn[data-mute][aria-pressed="true"] { opacity: 0.6; text-decoration: line-through; }
+  .voa-chapter .player :focus-visible, .voa-chapter .stage-play:focus-visible { outline: 3px solid #fff; outline-offset: 0; box-shadow: 0 0 0 6px var(--c-focus); }
+  .voa-chapter .scrub { flex: 1; min-width: 60px; height: 24px; accent-color: #fff; cursor: pointer; }
+  .voa-chapter .ptime { font-variant-numeric: tabular-nums; font-size: 0.9rem; white-space: nowrap; }
+  .voa-chapter .stage-captions { position: absolute; left: 0; right: 0; bottom: calc(var(--sheet-h, 0px) + 110px); display: flex; justify-content: center;
+    padding: 0 var(--space-4); pointer-events: none; z-index: 2; }
+  .voa-chapter .stage-captions span.is-turn { animation: voa-caption-turn 200ms ease-out; }
+  @keyframes voa-caption-turn { from { opacity: 0; } to { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .voa-chapter .stage-captions span.is-turn { animation: none; } }
+  .voa-chapter .stage-captions span { max-width: 46em; padding: var(--space-1) var(--space-3); background: var(--stage-caption); color: #fff; border-radius: 4px;
+    font-size: clamp(1rem, 2.2vw, 1.25rem); line-height: 1.4; text-align: center; }
+  @media (max-width: 599px) { .voa-chapter .ptime { display: none; } }
+  .voa-chapter .btn { min-height: 44px; min-width: 44px; padding: var(--space-2) var(--space-4); font: inherit; color: var(--c-ink);
+    background: #fff; border: 1px solid var(--c-muted); border-radius: 6px; cursor: pointer; }
+  .voa-chapter #exhibits { list-style: none; padding: 0; margin: var(--space-4) 0 0; display: grid; gap: var(--space-2); }
+  .voa-chapter .exhibit-btn { text-align: left; width: 100%; }
+  .voa-chapter .holder-date { display: block; font-size: 0.875rem; color: var(--c-muted); margin-top: var(--space-1); }
+  .voa-chapter .holder-note { font-size: 0.875rem; color: var(--c-muted); margin: 0 0 var(--space-2); }
+  .voa-chapter #exhibits li .chips { margin-top: var(--space-1); }
+  /* Door pills over the scene, placed on each door by scene.js. The layer clips (overflow: clip)
+     rather than hides: a hidden box scrolls when a pill at its edge is focused, which would move
+     every pill off its door. */
+  .voa-chapter .hotspots { position: absolute; inset: 0; pointer-events: none; z-index: 1; overflow: clip; }
+  .voa-chapter .hotspot { position: absolute; left: 0; top: 0; transform: translate(var(--x, -100px), var(--y, -100px)) translate(-50%, -50%);
+    pointer-events: auto; width: 36px; height: 36px; border-radius: 50%; padding: 0; font: inherit; font-weight: 700;
+    color: #1f1d1a; background: #f3eee2; border: 2px solid #1f1d1a; box-shadow: 0 2px 8px #0008; cursor: pointer; }
+  .voa-chapter .hotspot[data-offscreen] { visibility: hidden; }
+  .voa-chapter .stage-fade { position: absolute; inset: 0; background: #000; opacity: 0; pointer-events: none; z-index: 1; }
+  /* Thumbnail rail (src/ui/rail.js): numbered round thumbnails along the bottom of the stage, above
+     the player bar, linked both ways with the rings; the line playing lights its thumbnail. */
+  /* Rail and player bar together stay in the bottom fifth of the stage (Task 4 fix round 1: no stage
+     control in the middle 60 %), so hover and the lit state grow the thumbnail in place, without the lift. */
+  .voa-chapter .rail { position: absolute; left: 50%; bottom: calc(var(--sheet-h, 0px) + 44px); transform: translateX(-50%); z-index: 2;
+    display: flex; gap: 6px; max-width: calc(100% - 16px); box-sizing: border-box; padding: 6px 6px 2px; overflow-x: auto; scrollbar-width: none; }
+  .voa-chapter .rail-btn { position: relative; flex: none; width: 52px; height: 52px; padding: 0; border-radius: 50%; overflow: hidden; cursor: pointer;
+    font: inherit; background: #2a2622; border: 2px solid rgb(255 255 255 / 0.55); filter: drop-shadow(0 2px 4px rgb(0 0 0 / 0.4));
+    transition: transform 300ms cubic-bezier(0.16, 1, 0.3, 1), border-color 300ms, box-shadow 300ms; }
+  .voa-chapter .rail-btn img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .voa-chapter a.rail-btn { display: block; box-sizing: border-box; text-decoration: none; }
+  .voa-chapter .rail-card { position: absolute; inset: 0; background: #2f2a24; box-shadow: inset 0 0 0 3px #b8955a; border-radius: 50%; }
+  .voa-chapter .hall-list li { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-3); }
+  .voa-chapter .hall-list a.exhibit-btn { text-decoration: none; display: inline-block; }
+  .voa-chapter .hall-soon { color: var(--c-muted); font-size: 0.95rem; }
+  .voa-chapter .hall-name-card { aspect-ratio: 4 / 5; display: grid; place-items: center; background: #2f2a24; color: #f3eee2; font-family: var(--f-serif); font-size: 3rem; border: 4px solid #b8955a; }
+  .voa-chapter .rail-btn::after { content: ''; position: absolute; inset: 0; border-radius: 50%; background: rgb(0 0 0 / 0.42); }
+  /* The number sits on its own solid dark disc (--stage-rail-num), so it reads at 4.5:1 or more over any
+     thumbnail in every state; the lit state shows by the ring and border, not by the number. */
+  .voa-chapter .rail-num { position: absolute; left: 50%; top: 50%; z-index: 1; width: 28px; height: 28px; margin: -14px 0 0 -14px;
+    display: grid; place-items: center; border-radius: 50%; background: var(--stage-rail-num); color: #fff; font-weight: 700; font-size: 18px;
+    line-height: 1; }
+  .voa-chapter .rail-btn:hover, .voa-chapter .rail-btn.is-hover { transform: scale(1.08); border-color: rgb(240 232 221 / 0.85);
+    box-shadow: 0 0 20px 3px rgb(255 214 150 / 0.35); }
+  .voa-chapter .rail-btn.is-active { transform: scale(1.08); border-color: rgb(240 232 221 / 0.95);
+    box-shadow: 0 0 0 1px rgb(240 232 221 / 0.45), 0 0 16px 4px rgb(255 214 150 / 0.6); }
+  .voa-chapter .rail-btn.is-active::after { background: rgb(0 0 0 / 0.25); }
+  .voa-chapter .rail-btn:focus-visible { outline: 3px solid #fff; outline-offset: 2px; box-shadow: 0 0 0 7px var(--c-focus); }
+  /* Drag hint (src/ui/draghint.js): a glass pill over a hand, after the narration; it fades. A dark
+     glass rather than a white one: the gallery walls are light. */
+  .voa-chapter .drag-hint { position: absolute; left: 50%; bottom: calc(var(--sheet-h, 0px) + 190px); transform: translateX(-50%); z-index: 2;
+    display: flex; flex-direction: column; align-items: center; gap: var(--space-2); pointer-events: none; opacity: 0; transition: opacity 200ms; }
+  .voa-chapter .drag-hint.is-on { opacity: 1; }
+  /* With the panel open the rail steps aside, so the captions and story card sit back down on the player bar. */
+  .voa-chapter .stage[data-panel-open] .stage-captions { bottom: calc(var(--sheet-h, 0px) + 52px); }
+  .voa-chapter .stage[data-panel-open] .story-card { bottom: calc(var(--sheet-h, 0px) + 56px); }
+  /* The narration is over while the hint shows: its last caption gives way. */
+  .voa-chapter .stage:has(.drag-hint:not([hidden])) .stage-captions { display: none; }
+  .voa-chapter .drag-pill { padding: 6px 24px; border-radius: 999px; font-size: 16px; font-weight: 400; color: #fff; white-space: nowrap;
+    background: var(--stage-pill); border: 1px solid rgb(255 255 255 / 0.1); backdrop-filter: blur(6px) saturate(1.2);
+    -webkit-backdrop-filter: blur(6px) saturate(1.2); box-shadow: 0 2px 16px rgb(0 0 0 / 0.15); }
+  .voa-chapter .drag-hand { opacity: 0.9; animation: voa-hand 2.4s ease-in-out infinite; }
+  @keyframes voa-hand { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(-10px); } 75% { transform: translateX(10px); } }
+  @media (prefers-reduced-motion: reduce) {
+    .voa-chapter .drag-hand { animation: none; }
+    .voa-chapter .rail-btn, .voa-chapter .drag-hint { transition: none; }
+  }
+  @media (max-width: 768px) { .voa-chapter .rail-btn:not(.is-active):not(.is-hover):hover { transform: none; } }
+  /* Door hotspots: a labelled pill on each door's plate (scene.js keeps it inside the stage). */
+  .voa-chapter .door-hotspot { width: auto; height: auto; min-height: 36px; max-width: min(72%, 22em); border-radius: 18px; display: inline-flex;
+    align-items: center; gap: var(--space-1); padding: 4px 12px 4px 8px; font-weight: 600; font-size: 0.9rem; line-height: 1.2;
+    text-decoration: none; text-align: left; background: #f3eee2; }
+  .voa-chapter .door-hotspot svg { flex: none; }
+  /* Stage door buttons: the entrance and the exit as links, top right of the stage. */
+  .voa-chapter .door-nav { position: absolute; top: var(--space-2); right: var(--space-2); z-index: 2; display: flex; flex-wrap: wrap;
+    justify-content: flex-end; gap: var(--space-2); max-width: calc(100% - 16px); }
+  .voa-chapter .door-btn { display: inline-flex; align-items: center; min-height: 36px; padding: var(--space-1) var(--space-3); font-weight: 600;
+    font-size: 0.9rem; line-height: 1.2; color: #fff; background: var(--stage-control); border: 2px solid #fff; border-radius: 18px; text-decoration: none;
+    box-shadow: 0 2px 8px #0008; }
+  .voa-chapter .door-btn-exit { color: #1f1d1a; background: #f3eee2; border-color: #1f1d1a; }
+  .voa-chapter .door-short { display: none; }
+  .voa-chapter .door-btn:hover { text-decoration: underline; }
+  .voa-chapter .door-btn:focus-visible, .voa-chapter .door-hotspot:focus-visible { outline: 3px solid #fff; outline-offset: 2px; box-shadow: 0 0 0 7px var(--c-focus); }
+  .voa-chapter .stage[data-leaving] .door-nav, .voa-chapter .stage[data-leaving] .hotspots { pointer-events: none; }
+  /* Leaving through a door: the page fades to the room's dark ground, then the next page loads. */
+  .door-fade { position: fixed; inset: 0; z-index: 50; background: #1f1d1a; opacity: 0; transition: opacity 300ms ease-in; pointer-events: none; }
+  .door-fade.is-on { opacity: 1; }
+  /* Story card: small, on the stage above the player bar, never over the door buttons. */
+  .voa-chapter .story-card { position: absolute; left: 50%; bottom: calc(var(--sheet-h, 0px) + 110px); transform: translateX(-50%); z-index: 3;
+    display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-2) var(--space-3);
+    max-width: calc(100% - 2 * var(--space-3)); box-sizing: border-box; padding: var(--space-2) var(--space-3); border-radius: 12px;
+    background: var(--stage-card); color: #fff; border: 2px solid #fff; box-shadow: 0 4px 18px #0009; }
+  /* The narration has ended: its last caption gives way to the card. */
+  .voa-chapter .stage:is([data-story="counting"], [data-story="leaving"]) .stage-captions { display: none; }
+  .voa-chapter .story-pill { position: absolute; top: var(--space-2); left: var(--space-2); z-index: 2; min-height: 36px;
+    padding: var(--space-1) var(--space-3); font: inherit; font-weight: 600; font-size: 0.9rem; color: #fff; background: var(--stage-control);
+    border: 2px solid #fff; border-radius: 18px; cursor: pointer; box-shadow: 0 2px 8px #0008; }
+  .voa-chapter .story-pill:hover { background: var(--stage-card); }
+  .voa-chapter .story-pill:focus-visible { outline: 3px solid #fff; outline-offset: 2px; box-shadow: 0 0 0 7px var(--c-focus); }
+  /* The now-showing button moves below the pill while the story runs. */
+  .voa-chapter .stage[data-story] .now-showing { top: 56px; }
+  .voa-chapter .stage[data-panel-open] .story-pill { display: none; }
+  .voa-chapter .story-text { margin: 0; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .voa-chapter .story-actions { display: flex; gap: var(--space-2); }
+  .voa-chapter .story-btn { min-height: 44px; min-width: 44px; padding: var(--space-1) var(--space-4); font: inherit; font-weight: 700;
+    color: #1f1d1a; background: #f3eee2; border: 2px solid #fff; border-radius: 22px; cursor: pointer; }
+  .voa-chapter .story-btn:hover { background: #fff; }
+  .voa-chapter .story-btn:focus-visible { outline: 3px solid #fff; outline-offset: 2px; box-shadow: 0 0 0 7px var(--c-focus); }
+  .voa-chapter .now-showing { position: absolute; top: var(--space-2); left: var(--space-2); z-index: 2; max-width: calc(100% - 16px);
+    min-height: 36px; padding: var(--space-1) var(--space-3); font: inherit; text-align: left; color: #1f1d1a; background: #ffd166;
+    border: 2px solid #1f1d1a; border-radius: 18px; cursor: pointer; box-shadow: 0 2px 8px #0008; }
+  .voa-chapter .now-showing:focus-visible { outline: 3px solid #fff; box-shadow: 0 0 0 6px var(--c-focus); }
+  .voa-chapter #exhibits li.is-active .exhibit-btn { background: #fff3cf; border-color: var(--c-accent); box-shadow: inset 6px 0 0 var(--c-accent); }
+  .voa-chapter #exhibits li.is-active .chip-btn { background: var(--c-accent); color: #fff; }
+  .voa-chapter .transcript p.is-current { background: #fff3cf; box-shadow: inset 4px 0 0 var(--c-accent); padding-left: var(--space-3); }
+  /* Scanned room: loading view and Lite fallback over the whole stage (never a black stage), and the
+     credit label under it. */
+  /* While the loading view or the failure card covers the stage, every other stage layer is hidden
+     (out of the tab order and the accessibility tree); the live regions keep announcing and the
+     exhibit panel (opened from the list below) stays usable. */
+  .voa-chapter .stage[data-covered] > :not(.scan-loading):not(.scan-failed):not(#panel):not([aria-live]) { visibility: hidden; }
+  .voa-chapter .scan-loading, .voa-chapter .scan-failed { position: absolute; inset: 0; z-index: 4; display: grid; place-items: center;
+    padding: var(--space-4); box-sizing: border-box; }
+  .voa-chapter .scan-loading { background: radial-gradient(ellipse at 50% 40%, #4a4036 0%, #2a2622 70%); color: #fff; }
+  .voa-chapter .scan-loading-card { width: min(28em, 100%); text-align: center; }
+  .voa-chapter .scan-loading-title { margin: 0 0 var(--space-3); font-family: var(--f-serif); font-size: clamp(1.05rem, 2.4vw, 1.4rem); line-height: 1.3; }
+  .voa-chapter .scan-loading progress { width: 100%; height: 8px; accent-color: #f3eee2; }
+  .voa-chapter .scan-loading-bytes { margin: var(--space-2) 0 0; font-size: 0.9rem; font-variant-numeric: tabular-nums; color: #f3eee2; }
+  .voa-chapter .scan-loading { transition: opacity 400ms ease-out; }
+  .voa-chapter .scan-loading.is-leaving { opacity: 0; pointer-events: none; } /* fading out over a drawn room: input goes to the room */
+  @media (prefers-reduced-motion: reduce) { .voa-chapter .scan-loading { transition: none; } }
+  .voa-chapter .scan-detail { position: absolute; left: var(--space-2); bottom: calc(var(--sheet-h, 0px) + 52px); z-index: 2; display: flex;
+    align-items: center; gap: var(--space-2); padding: 2px 10px; border-radius: 999px; font-size: 0.8rem; color: #fff;
+    background: var(--stage-pill); pointer-events: none; }
+  .voa-chapter .scan-detail progress { width: 64px; height: 4px; accent-color: #f3eee2; }
+  .voa-chapter .stage[data-panel-open] .scan-detail { display: none; }
+  .voa-chapter .scan-failed { background: #f3eee2; color: var(--c-ink); }
+  .voa-chapter .scan-failed:focus-visible { outline: 3px solid var(--c-focus); outline-offset: -6px; }
+  .voa-chapter .scan-failed-card { width: min(32em, 100%); }
+  .voa-chapter .scan-failed-card p { margin: 0 0 var(--space-3); }
+  .voa-chapter .scan-failed .btn { display: inline-flex; align-items: center; text-decoration: none; }
+  .voa-chapter .scan-failed .btn + .btn { margin-left: var(--space-2); }
+  .voa-chapter .scan-failed .btn[hidden] { display: none; }
+  .voa-chapter .scan-credit { margin: var(--space-2) 0 0; font-size: 0.875rem; line-height: 1.45; color: var(--c-muted); }
+  .voa-chapter .scan-credit a, .voa-chapter .room-credits a { color: var(--c-accent); display: inline-block; min-height: 24px; }
+  .voa-chapter .room-credits { margin: var(--space-5) 0 0; font-size: 0.9rem; overflow-wrap: anywhere; }
+  .voa-chapter .room-credits h2 { font-size: 1rem; margin: 0 0 var(--space-2); }
+  /* The exhibit panel itself: src/styles/panel.css (shared with the journey globe's stop card). */
+  /* While the panel is open the door buttons step aside with the scene they belong to (the scene and
+     its hotspots are inert); the chapter nav below the page keeps the same links. */
+  .voa-chapter .stage[data-panel-open] .stage-play, .voa-chapter .stage[data-panel-open] .now-showing,
+  .voa-chapter .stage[data-panel-open] .door-nav, .voa-chapter .stage[data-panel-open] .rail,
+  .voa-chapter .stage[data-panel-open] .drag-hint { display: none; }
+  #panel .panel-media { margin: var(--space-4) 0; }
+  #panel .panel-media img { display: block; width: auto; height: auto; max-width: 100%; max-height: min(40vh, 300px); margin: 0 auto; }
+  #panel model-viewer { width: 100%; height: min(45vh, 320px); }
+  #panel .media-missing { padding: var(--space-5); text-align: center; border: 1px dashed var(--c-muted); }
+  #panel .meta { display: grid; grid-template-columns: max-content 1fr; gap: var(--space-1) var(--space-3); }
+  #panel .meta dt { font-weight: bold; }
+  /* Holder wording is verbatim and may hold long unbroken URLs: let it wrap anywhere, never widen the page. */
+  #panel .meta dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+  #panel .original { display: inline-block; min-height: 24px; padding: var(--space-1) 0; }
+  @media (min-width: 900px) {
+    /* The player and captions stay usable to the left of the panel. */
+    .voa-chapter .stage[data-panel-open] .player, .voa-chapter .stage[data-panel-open] .stage-captions { right: min(420px, 42%); }
+  }
+  @media (max-width: 599px) {
+    /* Phone (fix round 2): the door buttons are compact chips, an arrow and a short label, at either end
+       of one row (the top band stays under a tenth of the stage); the full room names stay their
+       accessible names and tooltips. The now-showing button gives way to the lit rail thumbnail, which
+       opens the same exhibit. */
+    .voa-chapter .door-nav { left: var(--space-2); flex-wrap: nowrap; justify-content: space-between; }
+    .voa-chapter .door-btn { flex: none; min-height: 36px; font-size: 0.8rem; padding: 2px var(--space-3); border-radius: 18px; white-space: nowrap; }
+    .voa-chapter .door-full { display: none; }
+    .voa-chapter .door-short { display: inline; }
+    .voa-chapter .now-showing { display: none; }
+    .voa-chapter .story-pill { top: 52px; }
+    /* Captions: at most two lines at 15 px in the band above the rail; a longer line pages through
+       (src/ui/player.js); the transcript below the stage has it whole. */
+    .voa-chapter .stage-captions { --caption-lines: 2; padding: 0 var(--space-2); }
+    .voa-chapter .stage-captions span { font-size: 15px; line-height: 1.35; max-height: calc(2 * 1.35em + 2 * var(--space-1)); overflow: hidden; }
+    /* Phone: a door hotspot is a round arrow like the numbered hotspots (its label stays its accessible
+       name, and the door's sign and the stage button show it), so it does not cover the exhibits. */
+    .voa-chapter .door-hotspot { width: 40px; height: 40px; min-height: 40px; padding: 0; justify-content: center; border-radius: 50%; }
+    .voa-chapter .door-hotspot span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  }
+  @media (max-width: 899px) {
+    /* The sheet leaves the scene visible above it; the player and captions ride on top of the sheet. */
+    .voa-chapter .stage[data-panel-open] { --sheet-h: 58%; }
+    #panel .panel-media img { max-height: 24vh; }
+    #panel model-viewer { height: 28vh; }
+  }
+</style>

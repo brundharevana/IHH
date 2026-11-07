@@ -1,0 +1,10 @@
+{
+  "url": "https://www.govinfo.gov/about/policies",
+  "fetch_url": "https://www.govinfo.gov/about/policies",
+  "method": "http",
+  "fetched_at": "2026-10-30T19:00:47Z",
+  "sha256": "a01a3e5c2c94a61da318447a220b2cd831e636ca65e23429f4b05d29ed8036ff",
+  "bytes": 13523,
+  "http_status": 200,
+  "final_url": "https://www.govinfo.gov/about/policies"
+}

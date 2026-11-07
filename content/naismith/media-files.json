@@ -1,0 +1,171 @@
+{
+ "$comment": "Exhibit image files built by tools/fetch_media.py from the holder's own files. key = file name in site/public/media/ (media id, or <id>-p<page> for one page of a multi-page record); page = the holder's page/object number.",
+ "files": [
+  {
+   "key": "NAI-M-0003-p1",
+   "media_id": "NAI-M-0003",
+   "page": 1,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0001/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p2",
+   "media_id": "NAI-M-0003",
+   "page": 2,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0002/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p3",
+   "media_id": "NAI-M-0003",
+   "page": 3,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0003/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p4",
+   "media_id": "NAI-M-0003",
+   "page": 4,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0004/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p5",
+   "media_id": "NAI-M-0003",
+   "page": 5,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0005/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p6",
+   "media_id": "NAI-M-0003",
+   "page": 6,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0006/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p7",
+   "media_id": "NAI-M-0003",
+   "page": 7,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0007/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p8",
+   "media_id": "NAI-M-0003",
+   "page": 8,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0008/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p9",
+   "media_id": "NAI-M-0003",
+   "page": 9,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0009/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p10",
+   "media_id": "NAI-M-0003",
+   "page": 10,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0010/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p11",
+   "media_id": "NAI-M-0003",
+   "page": 11,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0011/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p12",
+   "media_id": "NAI-M-0003",
+   "page": 12,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0012/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p13",
+   "media_id": "NAI-M-0003",
+   "page": 13,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0013/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p14",
+   "media_id": "NAI-M-0003",
+   "page": 14,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0014/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p15",
+   "media_id": "NAI-M-0003",
+   "page": 15,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0015/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p16",
+   "media_id": "NAI-M-0003",
+   "page": 16,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0016/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p17",
+   "media_id": "NAI-M-0003",
+   "page": 17,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0017/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p18",
+   "media_id": "NAI-M-0003",
+   "page": 18,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0018/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p19",
+   "media_id": "NAI-M-0003",
+   "page": 19,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0019/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p20",
+   "media_id": "NAI-M-0003",
+   "page": 20,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0020/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p21",
+   "media_id": "NAI-M-0003",
+   "page": 21,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0021/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p22",
+   "media_id": "NAI-M-0003",
+   "page": 22,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0022/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p23",
+   "media_id": "NAI-M-0003",
+   "page": 23,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0023/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p24",
+   "media_id": "NAI-M-0003",
+   "page": 24,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0024/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p25",
+   "media_id": "NAI-M-0003",
+   "page": 25,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0025/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0003-p26",
+   "media_id": "NAI-M-0003",
+   "page": 26,
+   "download": "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:basketball00nais:basketball00nais_0026/full/pct:100/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0049",
+   "media_id": "NAI-M-0049",
+   "download": "https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_forbes_ver01:data:sn82016014:00295870862:1908060901:0725/full/pct:50/0/default.jpg"
+  },
+  {
+   "key": "NAI-M-0050",
+   "media_id": "NAI-M-0050",
+   "download": "https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871404:1898091001:0508/full/pct:50/0/default.jpg"
+  }
+ ]
+}

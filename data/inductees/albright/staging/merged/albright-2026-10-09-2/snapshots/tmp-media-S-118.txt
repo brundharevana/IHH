@@ -1,0 +1,77 @@
+title: Remarks at the Swearing-In of Madeleine K. Albright as Secretary of State and an Exchange With Reporters
+scopeAndContentNote: This item is a video recording of President Clinton at the swearing-in ceremony of Madeleine Albright as Secretary of State. Vice President Gore administered the oath of office, and Secretary Albright made brief remarks.
+levelOfDescription: item
+recordType: description
+subjects[0].heading: Clinton, Bill, 1946-
+subjects[0].authorityType: person
+subjects[0].birthDate.year: 1946
+subjects[0].birthDate.logicalDate: 1946-01-01
+subjects[0].naId: 10569448
+subjects[1].heading: Albright, Madeleine Korbel, 1937-
+subjects[1].authorityType: person
+subjects[1].birthDate.year: 1937
+subjects[1].birthDate.logicalDate: 1937-01-01
+subjects[1].naId: 10568445
+subjects[2].heading: Gore, Albert, 1948-
+subjects[2].authorityType: person
+subjects[2].birthDate.year: 1948
+subjects[2].birthDate.logicalDate: 1948-01-01
+subjects[2].naId: 10571513
+useRestriction.status: Unrestricted
+audiovisual: True
+physicalOccurrences[0].referenceUnits[0].city: Little Rock
+physicalOccurrences[0].referenceUnits[0].phone: 501-244-2877
+physicalOccurrences[0].referenceUnits[0].address1: 1200 President Clinton Avenue
+physicalOccurrences[0].referenceUnits[0].postalCode: 72201
+physicalOccurrences[0].referenceUnits[0].name: William J. Clinton Library
+physicalOccurrences[0].referenceUnits[0].state: AR
+physicalOccurrences[0].referenceUnits[0].fax: 501-244-2881
+physicalOccurrences[0].referenceUnits[0].email: clinton.library@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Magnetic Media
+physicalOccurrences[0].mediaOccurrences[0].format: Video: Betacam
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Video Cassette
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupName: William J. Clinton Library
+dataControlGroup.groupId: PL-WJC
+dataControlGroup.groupCd: PL-WJC
+generalRecordsTypes[0]: Moving Images
+localIdentifier: MT06512
+productionDates[0].month: 1
+productionDates[0].year: 1997
+productionDates[0].day: 23
+productionDates[0].logicalDate: 1997-01-23
+ancestors[0].collectionIdentifier: WJC-WHTV
+ancestors[0].inclusiveStartDate.month: 1
+ancestors[0].inclusiveStartDate.year: 1993
+ancestors[0].inclusiveStartDate.day: 20
+ancestors[0].inclusiveStartDate.logicalDate: 1993-01-20
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.month: 1
+ancestors[0].inclusiveEndDate.year: 2001
+ancestors[0].inclusiveEndDate.day: 20
+ancestors[0].inclusiveEndDate.logicalDate: 2001-01-20
+ancestors[0].title: Video Recordings of the White House Television Office (Clinton Administration)
+ancestors[0].naId: 594546
+ancestors[1].inclusiveStartDate.month: 1
+ancestors[1].inclusiveStartDate.year: 1993
+ancestors[1].inclusiveStartDate.day: 20
+ancestors[1].inclusiveStartDate.logicalDate: 1993-01-20
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: Department of Defense. Defense Information Systems Agency. White House Communications Agency. (06/25/1991 - )
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 6
+ancestors[1].creators[0].establishDate.year: 1991
+ancestors[1].creators[0].establishDate.day: 25
+ancestors[1].creators[0].establishDate.logicalDate: 1991-06-25
+ancestors[1].creators[0].naId: 10480039
+ancestors[1].inclusiveEndDate.month: 1
+ancestors[1].inclusiveEndDate.year: 2001
+ancestors[1].inclusiveEndDate.day: 20
+ancestors[1].inclusiveEndDate.logicalDate: 2001-01-20
+ancestors[1].title: Video Recordings Relating to the Clinton Administration
+ancestors[1].naId: 594557
+naId: 521066039

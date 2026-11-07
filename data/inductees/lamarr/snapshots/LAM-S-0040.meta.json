@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/110111",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=110111",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:43:11Z",
+  "sha256": "ac01d62231457bb741473d2479d70dcdc04c1191a6958a8de267f75169fb9353",
+  "bytes": 4984,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=110111"
+}

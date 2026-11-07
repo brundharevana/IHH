@@ -1,0 +1,116 @@
+{
+  "$comment": "Walkable bounds for free roam. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (padded 0.15 m). The well inside the horseshoe is 0.45 m below the chamber floor and lies inside the horseshoe obstacle. Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 7.6,
+  "walkable": {
+    "x_min": -11.6,
+    "x_max": 9.4,
+    "z_min": -10.4,
+    "z_max": 11.6
+  },
+  "obstacles": [
+    {
+      "name": "artifact_horseshoe_table",
+      "x_min": -4.619,
+      "x_max": 5.015,
+      "z_min": -5.02,
+      "z_max": 5.02
+    },
+    {
+      "name": "advisor_rows_south",
+      "x_min": -6.599,
+      "x_max": 0.399,
+      "z_min": 1.486,
+      "z_max": 6.931
+    },
+    {
+      "name": "advisor_rows_north",
+      "x_min": -6.599,
+      "x_max": 0.399,
+      "z_min": -6.931,
+      "z_max": -1.486
+    },
+    {
+      "name": "advisor_rows_curve_0",
+      "x_min": -0.526,
+      "x_max": 6.677,
+      "z_min": 2.104,
+      "z_max": 7.269
+    },
+    {
+      "name": "advisor_rows_curve_1",
+      "x_min": 4.809,
+      "x_max": 7.904,
+      "z_min": -3.929,
+      "z_max": 3.929
+    },
+    {
+      "name": "advisor_rows_curve_2",
+      "x_min": -0.526,
+      "x_max": 6.677,
+      "z_min": -7.269,
+      "z_max": -2.104
+    },
+    {
+      "name": "artifact_red_chairs",
+      "x_min": -2.55,
+      "x_max": 9.65,
+      "z_min": -10.95,
+      "z_max": -8.66
+    },
+    {
+      "name": "marble_base",
+      "x_min": 9.4,
+      "x_max": 10.15,
+      "z_min": -9.85,
+      "z_max": 5.15
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": -6.0,
+      "z": -0.0,
+      "look_at": {
+        "x": 10.0,
+        "y": 1.2,
+        "z": -0.0
+      },
+      "note": "At the open end of the horseshoe, looking across it to the mural"
+    },
+    {
+      "name": "hotspot_2",
+      "x": -3.7,
+      "z": 9.0,
+      "look_at": {
+        "x": 1.5,
+        "y": 1.2,
+        "z": -2.0
+      },
+      "note": "South-west of the table, below the photograph's viewpoint"
+    },
+    {
+      "name": "hotspot_3",
+      "x": 8.9,
+      "z": 5.0,
+      "look_at": {
+        "x": -1.0,
+        "y": 1.2,
+        "z": -6.0
+      },
+      "note": "By the mural, looking back across the table to the interpreters' windows"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -5.0,
+      "z": -8.6,
+      "look_at": {
+        "x": 6.0,
+        "y": 1.2,
+        "z": 1.0
+      },
+      "note": "By the red chairs on the north side, looking towards the mural"
+    }
+  ]
+}

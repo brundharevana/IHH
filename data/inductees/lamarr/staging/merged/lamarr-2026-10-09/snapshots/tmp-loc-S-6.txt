@@ -1,0 +1,251 @@
+_version_: 1825399174650134528
+access_restricted: true
+aka[0]: https://www.loc.gov/pictures/item/2002706794/
+aka[1]: http://www.loc.gov/item/2002706794/
+aka[2]: http://www.loc.gov/pictures/item/2002706794/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/2002706794/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/2002706794/
+aka[5]: https://hdl.loc.gov/loc.pnp/cph.3c29016
+aka[6]: https://hdl.loc.gov/loc.pnp/cph.3c29016
+aka[7]: http://www.loc.gov/resource/cph.3c29016/
+aka[8]: https://www.loc.gov/pictures/collection/lmc/item/2002706794/
+aka[9]: http://www.loc.gov/pictures/collection/lmc/item/2002706794/
+aka[10]: http://lccn.loc.gov/2002706794
+call_number: Illus. in: LOOK COLL. (Suppl. Archives) 1937 March [P&P]
+created: 2025-02-25T07:22:57Z
+created_published[0]: 1937.
+created_published_date: 1937.
+date: 1937
+dates[0].1937: https://www.loc.gov/search/?dates=1937/1937&fo=json
+description[0]: 5 photomechanical prints : halftone, color.
+digital_id[0]: cph 3c29016 https://hdl.loc.gov/loc.pnp/cph.3c29016
+digitized: true
+display_offsite: false
+extract_timestamp: 2025-03-01T13:37:11.968Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/2002706794/#cph
+extract_urls[1]: http://www.loc.gov/pictures/collection/lmc/item/2002706794/#lmc
+extract_urls[2]: http://lccn.loc.gov/2002706794#catalog-split-05
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Halftone photomechanical prints--Color--1930-1940.
+format_headings[1]: Magazine covers--1930-1940.
+format_headings[2]: Periodical illustrations--1930-1940.
+genre[0]: Magazine covers--1930-1940
+genre[1]: Periodical illustrations--1930-1940
+genre[2]: Halftone photomechanical prints--Color--1930-1940
+group[0]: cph
+group[1]: lmc
+group[2]: catalog-split-05
+group[3]: catalog
+group[4]: miscellaneous-items-high-demand
+group[5]: look-magazine
+group[6]: main-catalog-split-05
+hassegments: false
+id: http://www.loc.gov/item/2002706794/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c29000/3c29000/3c29016_150px.jpg#h=150&w=121
+index: 1
+item.call_number: Illus. in: LOOK COLL. (Suppl. Archives) 1937 March [P&P]
+item.control_number: 2002706794
+item.created: 2025-02-25T07:22:57Z
+item.created_published: 1937.
+item.created_published_date: 1937.
+item.date: 1937.
+item.digital_id[0]: cph 3c29016 https://hdl.loc.gov/loc.pnp/cph.3c29016
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Halftone%20photomechanical%20prints--Color--1930-1940.&co=cph
+item.formats[0].title: Halftone photomechanical prints--Color--1930-1940.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Magazine%20covers--1930-1940.&co=cph
+item.formats[1].title: Magazine covers--1930-1940.
+item.formats[2].link: https://www.loc.gov/pictures/related/?fi=format&q=Periodical%20illustrations--1930-1940.&co=cph
+item.formats[2].title: Periodical illustrations--1930-1940.
+item.genre[0]: Magazine covers--1930-1940
+item.genre[1]: Periodical illustrations--1930-1940
+item.genre[2]: Halftone photomechanical prints--Color--1930-1940
+item.id: 2002706794
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2002706794/
+item.marc: https://www.loc.gov/pictures/item/2002706794/marc/
+item.medium[0]: 5 photomechanical prints : halftone, color.
+item.medium_brief: 5 photomechanical prints :
+item.mediums[0]: 5 photomechanical prints : halftone, color.
+item.modified: 2025-02-25T07:22:58Z
+item.notes[0]: Illus. in: LOOK v. 1, no. 3 (1937 March), cover.
+item.notes[1]: Issue contains articles on infant health care, Marlene Dietrich, children of sharecroppers, Greta Garbo, and Hedy (Lamarr) Kiesler's role in the movie "Ecstasy", each with a feature illustration on the cover.
+item.notes[2]: Forms part of: LOOK Magazine Photograph Collection (Library of Congress).
+item.number_former_id[0]: https://www.loc.gov/item/2002706794
+item.number_former_id[1]: https://www.loc.gov/item/12722838
+item.other_control_numbers[0]: 12722838
+item.part_of: Look magazine photograph collection (Library of Congress)
+item.raw_collections[0]: cph
+item.raw_collections[1]: lmc
+item.raw_collections[2]: pp
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-USZ62-129016 (b&w film copy neg.)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/cph.3c29016
+item.rights_advisory: Publication may be restricted. For information see "LOOK Magazine Photograph..." (http://lcweb.loc.gov/rr/print/res/074_look.html)
+item.rights_information: Publication may be restricted. For information see "LOOK Magazine Photograph..." (http://lcweb.loc.gov/rr/print/res/074_look.html)
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c29000/3c29000/3c29016_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c29000/3c29000/3c29016r.jpg
+item.sort_date: 1937
+item.source_collection[0]: Look magazine photograph collection (Library of Congress)
+item.source_created: 2002-03-28T00:00:00Z
+item.source_modified: 2025-02-18T10:28:09Z
+item.subject_headings[0]: Dietrich, Marlene.
+item.subject_headings[1]: Garbo, Greta,--1905-1990.
+item.subject_headings[2]: Lamarr, Hedy,--1913-2000.
+item.subject_headings[3]: Infants--1930-1940.
+item.subject_headings[4]: Births--1930-1940.
+item.subject_headings[5]: Physicians--1930-1940.
+item.subject_headings[6]: Health care--1930-1940.
+item.subjects[0]: Dietrich, Marlene
+item.subjects[1]: Garbo, Greta,--1905-1990
+item.subjects[2]: Lamarr, Hedy,--1913-2000
+item.subjects[3]: Infants--1930-1940
+item.subjects[4]: Births--1930-1940
+item.subjects[5]: Physicians--1930-1940
+item.subjects[6]: Health care--1930-1940
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c29000/3c29000/3c29016_150px.jpg
+item.title: [Look magazine cover illustration showing a doctor using a tracheal catheter to clear infant's lungs after birth]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2002706794
+link: https://www.loc.gov/pictures/item/2002706794/
+marc: https://www.loc.gov/pictures/item/2002706794/marc/
+medium[0]: 5 photomechanical prints : halftone, color.
+medium_brief: 5 photomechanical prints :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2025-02-25T07:22:58Z
+notes[0]: Illus. in: LOOK v. 1, no. 3 (1937 March), cover.
+notes[1]: Issue contains articles on infant health care, Marlene Dietrich, children of sharecroppers, Greta Garbo, and Hedy (Lamarr) Kiesler's role in the movie "Ecstasy", each with a feature illustration on the cover.
+notes[2]: Forms part of: LOOK Magazine Photograph Collection (Library of Congress).
+number[0]: http://www.loc.gov/item/12722838
+number[1]: 2002706794
+number[2]: 2025-02-18t10:28:09
+number[3]: http://www.loc.gov/item/2002706794
+number_former_id[0]: http://www.loc.gov/item/12722838
+number_former_id[1]: http://www.loc.gov/item/2002706794
+number_lccn[0]: 2002706794
+number_source_modified[0]: 2025-02-18t10:28:09
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 12722838
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2002706794/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2002706794/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2002706794/dc
+partof[0].count: 8285
+partof[0].title: look collection
+partof[0].url: https://www.loc.gov/collections/look-magazine/?fo=json
+partof[1].count: 1161984
+partof[1].title: prints and photographs division
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[2].count: 1909462
+partof[2].title: catalog
+partof[2].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+raw_collections[0]: cph
+raw_collections[1]: lmc
+raw_collections[2]: pp
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=2002706794&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-USZ62-129016 (b&w film copy neg.)
+reproductions[0]: Generally, Look Collection photographs have been described in groups. Look at the Medium field above. If it lists more than one item, select images for reproduction through one of these methods:
+
+Check for digital images: In a small number of cases, selected images from a job have been digitized and display online:
+
+Copy the information in the Call Number field above (e.g., LOOK - Job 54-2946)
+
+Go to the Prints & Photographs Online Catalog home page, and enter the Call Number in the "Search All" blank and press "Go"
+
+If a desired image displays you can download it yourself. (Most images display only as thumbnails outside the Library of Congress because of rights considerations, but you have access to larger size images on site.) Alternatively, you can purchase a copy through Library of Congress Duplication Services by citing the identifying information under the image (e.g., https://hdl.loc.gov/loc.pnp/ppmsca.12333)
+
+OR view materials in the Prints & Photographs Reading Room. If the Medium field lists unpublished color images or negatives, advance arrangements must be made to view them -- see: https://www.loc.gov/rr/print/info/022_unpr.html
+
+OR Prints & Photographs Reading Room staff can provide up to 15 quick copies of contact sheets per calendar year. For assistance, see our Ask a Librarian page
+
+OR hire a freelance researcher to do further selection for you (a list of researchers is available at: https://www.loc.gov/rr/print/resource/013_pic.html).
+
+OR check with libraries in your area to see if they hold Look magazine and use the publication to select images appearing in articles cited in catalog record NOTES.
+
+OR purchase copies of all of the materials in one or more media associated with the LOOK Job. Library of Congress Duplication Services can make copies of various types:
+
+Contact sheets can be ordered as quick copies (photocopies).
+
+Slides and transparencies can be ordered as high quality copies.
+
+Negatives - If the Medium field lists only negatives and no contact sheets or color materials, only negatives exist. Negatives cannot be quick copied but can be printed in the form of contact sheets or individual prints.
+
+To purchase copies through Duplication Services, cite the Call Number above and specify the medium you wish to order. If possible, include a copy of the catalog record when placing an order. Price lists, contact information, and order forms for Library of Congress Duplication Services are available on the Duplication Services Web site).
+
+Expect Delays in Service of Nitrate Negatives
+
+Reproductions of all types are available, but Duplication Services anticipates an 8-10 week turnaround in completing orders, as all negatives must be reproduced at their off-site, cold storage facility.
+
+Clue that a LOOK Magazine Photograph Collection image is affected is:
+Negative number begins with: LC-L92, L922, L924, or L927
+
+You may wish to consult with Prints and Photographs Division reference staff (202-707-6394) to determine whether scans may already exist for an image (rare, but worth a try).
+resource_links[0]: https://hdl.loc.gov/loc.pnp/cph.3c29016
+resources[0].caption: b&w film copy neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c29000/3c29000/3c29016_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3c29016/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: LOOK Magazine Photograph Collection - Rights and Restrictions Information
+rights_advisory: Publication may be restricted. For information see "LOOK Magazine Photograph..." (http://lcweb.loc.gov/rr/print/res/074_look.html)
+rights_information: Publication may be restricted. For information see "LOOK Magazine Photograph..." (http://lcweb.loc.gov/rr/print/res/074_look.html)
+score: 18.879913
+shard: 00
+shelf_id: Illus. in: LOOK COLL. (Suppl. Archives) 1937 March [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1937
+source_collection: Look magazine photograph collection (Library of Congress)
+source_created: 2002-03-28T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: periodical illustrations
+subject[1]: garbo, greta
+subject[2]: lamarr, hedy
+subject[3]: magazine covers
+subject[4]: halftone photomechanical prints
+subject[5]: color
+subject[6]: infants
+subject[7]: health care
+subject[8]: physicians
+subject[9]: dietrich, marlene
+subject[10]: births
+subject_headings[0]: Dietrich, Marlene
+subject_headings[1]: Garbo, Greta,--1905-1990
+subject_headings[2]: Lamarr, Hedy,--1913-2000
+subject_headings[3]: Infants--1930-1940
+subject_headings[4]: Births--1930-1940
+subject_headings[5]: Physicians--1930-1940
+subject_headings[6]: Health care--1930-1940
+subjects[0].births: https://www.loc.gov/search/?fa=subject:births&fo=json
+subjects[1].color: https://www.loc.gov/search/?fa=subject:color&fo=json
+subjects[2].dietrich, marlene: https://www.loc.gov/search/?fa=subject:dietrich,+marlene&fo=json
+subjects[3].garbo, greta: https://www.loc.gov/search/?fa=subject:garbo,+greta&fo=json
+subjects[4].halftone photomechanical prints: https://www.loc.gov/search/?fa=subject:halftone+photomechanical+prints&fo=json
+subjects[5].health care: https://www.loc.gov/search/?fa=subject:health+care&fo=json
+subjects[6].infants: https://www.loc.gov/search/?fa=subject:infants&fo=json
+subjects[7].lamarr, hedy: https://www.loc.gov/search/?fa=subject:lamarr,+hedy&fo=json
+subjects[8].magazine covers: https://www.loc.gov/search/?fa=subject:magazine+covers&fo=json
+subjects[9].periodical illustrations: https://www.loc.gov/search/?fa=subject:periodical+illustrations&fo=json
+subjects[10].physicians: https://www.loc.gov/search/?fa=subject:physicians&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c29000/3c29000/3c29016_150px.jpg
+timestamp: 2025-03-01T13:38:29.967Z
+title: [Look magazine cover illustration showing a doctor using a tracheal catheter to clear infant's lungs after birth]
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/2002706794/
+resources[0].caption: b&w film copy neg.
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c29000/3c29000/3c29016_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3c29016/
+cite_this.apa: (1937) Look Magazine Cover Illustration Showing a Doctor Using a Tracheal Catheter to Clear Infant's Lungs After Birth. , 1937. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2002706794/.
+cite_this.chicago: Look Magazine Cover Illustration Showing a Doctor Using a Tracheal Catheter to Clear Infant's Lungs After Birth. , 1937. Photograph. https://www.loc.gov/item/2002706794/.
+cite_this.mla: Look Magazine Cover Illustration Showing a Doctor Using a Tracheal Catheter to Clear Infant's Lungs After Birth. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2002706794/>.

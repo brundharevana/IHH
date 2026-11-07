@@ -1,0 +1,176 @@
+{
+ "viewBox": "-160 -175 320 360",
+ "shapes": "XABCDEFGH",
+ "characters": {
+  "guide": {
+   "name": "Museum guide",
+   "role": "Fictional guide, not a real person",
+   "ref": null,
+   "face": [
+    74,
+    62,
+    30,
+    96
+   ],
+   "mouth": [
+    0,
+    56,
+    1.1
+   ],
+   "levels": {
+    "L1": {
+     "file": "characters/guide-L1.svg",
+     "bytes": 4348,
+     "gzip": 1292
+    },
+    "L2": {
+     "file": "characters/guide-L2.svg",
+     "bytes": 6320,
+     "gzip": 1599
+    }
+   }
+  },
+  "einstein": {
+   "name": "Albert Einstein",
+   "role": "Stylized portrait, illustrative reconstruction (spike)",
+   "ref": "LoC 2004671908",
+   "face": [
+    82,
+    68,
+    36,
+    96
+   ],
+   "mouth": [
+    0,
+    68,
+    0.88
+   ],
+   "levels": {
+    "L1": {
+     "file": "characters/einstein-L1.svg",
+     "bytes": 4454,
+     "gzip": 1355
+    },
+    "L2": {
+     "file": "characters/einstein-L2.svg",
+     "bytes": 8661,
+     "gzip": 2016
+    }
+   }
+  },
+  "muir": {
+   "name": "John Muir",
+   "role": "Stylized portrait, illustrative reconstruction (spike)",
+   "ref": "LoC 2002719850, Commons John_Muir_Cane.JPG",
+   "face": [
+    70,
+    58,
+    30,
+    100
+   ],
+   "mouth": [
+    0,
+    62,
+    0.86
+   ],
+   "levels": {
+    "L1": {
+     "file": "characters/muir-L1.svg",
+     "bytes": 4382,
+     "gzip": 1317
+    },
+    "L2": {
+     "file": "characters/muir-L2.svg",
+     "bytes": 7020,
+     "gzip": 1756
+    }
+   }
+  },
+  "lamarr": {
+   "name": "Hedy Lamarr",
+   "role": "Stylized portrait, illustrative reconstruction (spike)",
+   "ref": "Commons Hedy_Lamarr_in_The_Heavenly_Body_1944.jpg",
+   "face": [
+    72,
+    56,
+    24,
+    100
+   ],
+   "mouth": [
+    0,
+    60,
+    1.05
+   ],
+   "levels": {
+    "L1": {
+     "file": "characters/lamarr-L1.svg",
+     "bytes": 4468,
+     "gzip": 1343
+    },
+    "L2": {
+     "file": "characters/lamarr-L2.svg",
+     "bytes": 6898,
+     "gzip": 1748
+    }
+   }
+  },
+  "albright": {
+   "name": "Madeleine Albright",
+   "role": "Stylized portrait, illustrative reconstruction (spike)",
+   "ref": "Commons Secretary_of_State_Madeleine_Albright.jpg (State Dept)",
+   "face": [
+    80,
+    72,
+    36,
+    93
+   ],
+   "mouth": [
+    0,
+    56,
+    1.08
+   ],
+   "levels": {
+    "L1": {
+     "file": "characters/albright-L1.svg",
+     "bytes": 4411,
+     "gzip": 1332
+    },
+    "L2": {
+     "file": "characters/albright-L2.svg",
+     "bytes": 6919,
+     "gzip": 1696
+    }
+   }
+  },
+  "naismith": {
+   "name": "James Naismith",
+   "role": "Stylized portrait, illustrative reconstruction (spike)",
+   "ref": "Commons JNAISMITH.jpg (1905)",
+   "face": [
+    78,
+    74,
+    42,
+    98
+   ],
+   "mouth": [
+    0,
+    66,
+    0.92
+   ],
+   "levels": {
+    "L1": {
+     "file": "characters/naismith-L1.svg",
+     "bytes": 4313,
+     "gzip": 1298
+    },
+    "L2": {
+     "file": "characters/naismith-L2.svg",
+     "bytes": 6730,
+     "gzip": 1673
+    }
+   }
+  }
+ },
+ "total_bytes": 68924,
+ "total_gzip": 18425
+}

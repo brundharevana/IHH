@@ -1,0 +1,74 @@
+title: Hedy Lamarr
+scopeAndContentNote: Actress Hedy Lamarr standing by a column near the entrance of a building.
+custodialHistoryNote: Transferred to the Photographs from the Donald S. Dawson Papers.
+levelOfDescription: item
+recordType: description
+subjects[0].heading: Lamarr, Hedy, 1913-2000
+subjects[0].deathDate.year: 2000
+subjects[0].deathDate.logicalDate: 2000-12-31
+subjects[0].authorityType: person
+subjects[0].birthDate.year: 1913
+subjects[0].birthDate.logicalDate: 1913-01-01
+subjects[0].naId: 10569195
+subjects[1].heading: Actresses
+subjects[1].authorityType: topicalSubject
+subjects[1].naId: 10637394
+useRestriction.note: The copyright status of this photograph is unknown.
+useRestriction.status: Undetermined
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].city: Independence
+physicalOccurrences[0].referenceUnits[0].phone: 816-268-8272
+physicalOccurrences[0].referenceUnits[0].address1: 500 West U.S. Highway 24
+physicalOccurrences[0].referenceUnits[0].postalCode: 64050-1798
+physicalOccurrences[0].referenceUnits[0].name: Harry S. Truman Library
+physicalOccurrences[0].referenceUnits[0].state: MO
+physicalOccurrences[0].referenceUnits[0].fax: 816-268-8295
+physicalOccurrences[0].referenceUnits[0].email: truman.reference@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Photographic Materials
+physicalOccurrences[0].mediaOccurrences[0].width: 5
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Photographic Print
+physicalOccurrences[0].mediaOccurrences[0].height: 3.5
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupId: ou=NLHST,ou=groups
+dataControlGroup.groupCd: LPHST
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+localIdentifier: 2017-2076
+productionDates[0].dateQualifier: ca.
+productionDates[0].year: 1940
+productionDates[0].logicalDate: 1940-01-01
+digitalObjects[0].objectFilename: 2017-2076.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/truman/photographs/2017/2017-2076.jpg
+digitalObjects[0].objectFileSize: 131235
+digitalObjects[0].objectId: 350486746
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].collectionIdentifier: HST-PHC
+ancestors[0].inclusiveStartDate.year: 1957
+ancestors[0].inclusiveStartDate.logicalDate: 1957-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.year: 2023
+ancestors[0].inclusiveEndDate.logicalDate: 2023-12-31
+ancestors[0].title: Photograph Collection
+ancestors[0].naId: 1207
+ancestors[1].inclusiveStartDate.year: 1957
+ancestors[1].inclusiveStartDate.logicalDate: 1957-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library. (4/1/1985 - 7/31/2011)
+ancestors[1].creators[0].abolishDate.month: 7
+ancestors[1].creators[0].abolishDate.year: 2011
+ancestors[1].creators[0].abolishDate.day: 31
+ancestors[1].creators[0].abolishDate.logicalDate: 2011-07-31
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 4
+ancestors[1].creators[0].establishDate.year: 1985
+ancestors[1].creators[0].establishDate.day: 1
+ancestors[1].creators[0].establishDate.logicalDate: 1985-04-01
+ancestors[1].creators[0].naId: 10498627
+ancestors[1].inclusiveEndDate.year: 2023
+ancestors[1].inclusiveEndDate.logicalDate: 2023-12-31
+ancestors[1].title: Photographs Relating to the Administration, Family, and Personal Life of Harry S. Truman
+ancestors[1].naId: 198606
+naId: 350486745

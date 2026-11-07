@@ -1,0 +1,164 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:ihh-challenge:schema:ihh-scene:1",
+  "title": "ihh-scene/1 (draft from spike S1)",
+  "description": "Baked-scene descriptor: what the viewer, the DOM hotspot list, the Lite view, the dialogs and the build gates read for ONE 360 scene. Written from what spike S1 actually needed, nothing speculative. Authoring input (builder props, 3D anchors) and bake output (derived yaw/pitch, gate results) live in one file because the bake rewrites it; a second 'authoring' schema would only need `hotspots[].derived`, `gates` and `render.pano.*` removed. Cross-file checks (every fact_id exists and is verified, every artifact_id exists, licence allowlist, derived angles recomputed from anchors, unique ids, 2:1 pano) are NOT expressible here; see validate-scene.py.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema", "id", "title", "evidence", "render", "hotspots", "assets", "a11y", "budgets", "gates"],
+  "properties": {
+    "schema": { "const": "ihh-scene/1" },
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{2,63}$", "description": "Stable slug. Used for the folder name, the URL fragment and cross-references." },
+    "title": { "type": "string", "minLength": 3, "maxLength": 120 },
+
+    "evidence": {
+      "description": "Scene-level honesty label (London Charter style). Shown as a badge and in every hotspot dialog. Per-prop evidence was NOT needed in S1; add `evidence` to props if scenes mix documented and invented objects.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["tier", "label", "summary", "refs"],
+      "properties": {
+        "tier": { "enum": ["documented", "reconstruction", "illustrative"], "description": "documented = photograph or scan of the real thing; reconstruction = built from cited sources with stated gaps; illustrative = generic stand-in." },
+        "label": { "type": "string", "description": "Exact words shown to the visitor, for example 'Illustrative reconstruction (spike)'." },
+        "summary": { "type": "string", "minLength": 10 },
+        "refs": { "type": "array", "items": { "type": "object", "required": ["sourceId"], "properties": { "sourceId": { "type": "string" }, "locator": { "type": "string" } }, "additionalProperties": false }, "description": "Source ids from the project source register. Empty is legal only when tier is illustrative." }
+      },
+      "if": { "properties": { "tier": { "enum": ["documented", "reconstruction"] } } },
+      "then": { "properties": { "refs": { "minItems": 1 } } }
+    },
+
+    "render": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["mode", "pano", "builder"],
+      "properties": {
+        "mode": { "enum": ["baked-equirect"], "description": "Only the mode S1 exercised. 'photo-plane' (archival photo in 3D) and 'live-three' are expected later; not defined until built." },
+        "pano": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["src", "preview", "w", "h", "projection", "yawOffsetDeg", "convention"],
+          "properties": {
+            "src": { "type": "string", "pattern": "^[A-Za-z0-9_./-]+\\.webp$", "description": "Relative path. The page never builds URLs from user input." },
+            "preview": { "type": "string", "pattern": "^[A-Za-z0-9_./-]+\\.webp$", "description": "1024x512 image used by Lite mode and as poster." },
+            "w": { "enum": [4096], "description": "S1 measured 4096 wide (32 MiB RGBA8 on the GPU). 2048 allowed later for weak devices." },
+            "h": { "enum": [2048] },
+            "projection": { "const": "equirectangular" },
+            "yawOffsetDeg": { "type": "number", "minimum": -180, "maximum": 180, "description": "Rotation applied by the viewer if the bake is not north-at-centre. 0 for baked scenes." },
+            "convention": { "type": "string", "description": "Human-readable statement of the angle convention so a later agent cannot guess it wrong." }
+          }
+        },
+        "builder": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["kit", "seed", "eye", "engine", "toneMapping", "cubeFacePx", "bakedAt"],
+          "properties": {
+            "kit": { "type": "string", "description": "Kit id (palette, light rig, material set) so a scene can be rebuilt." },
+            "seed": { "type": "integer" },
+            "eye": { "type": "array", "items": { "type": "number" }, "minItems": 3, "maxItems": 3, "description": "Camera position in metres, +X east, -Z north, +Y up. Needed to derive yaw/pitch from anchors." },
+            "engine": { "type": "string" },
+            "toneMapping": { "enum": ["NoToneMapping", "NeutralToneMapping", "ACESFilmicToneMapping", "AgXToneMapping"] },
+            "cubeFacePx": { "type": "integer", "minimum": 1024 },
+            "bakedAt": { "type": "string", "format": "date-time" }
+          }
+        }
+      }
+    },
+
+    "stops": {
+      "description": "Optional named camera positions (guided spine). S1 defined one start stop only; fov was not used by the viewer yet.",
+      "type": "array",
+      "items": { "type": "object", "additionalProperties": false, "required": ["id", "yawDeg", "pitchDeg", "label"], "properties": { "id": { "type": "string" }, "yawDeg": { "type": "number" }, "pitchDeg": { "type": "number" }, "fovDeg": { "type": "number", "minimum": 30, "maximum": 120 }, "label": { "type": "string" } } }
+    },
+
+    "hotspots": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "order", "label", "description", "anchor", "derived", "expectObject", "fact_ids", "artifact_id", "content_status"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^h-[a-z0-9-]+$" },
+          "order": { "type": "integer", "minimum": 1, "description": "List order. S1 sorted by yaw ascending so the DOM order matches left-to-right in the room." },
+          "label": { "type": "string", "minLength": 2, "maxLength": 60, "description": "Accessible name. Used in the list button, tooltip and dialog title." },
+          "description": { "type": "string", "minLength": 20, "maxLength": 600, "description": "Plain-text long description for screen readers and Lite mode. Not HTML." },
+          "anchor": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["world", "source"],
+            "properties": {
+              "world": { "type": "array", "items": { "type": "number" }, "minItems": 3, "maxItems": 3, "description": "Resolved 3D position in metres. The single source of truth for the angles." },
+              "source": { "type": "object", "additionalProperties": false, "properties": { "object": { "type": "string", "description": "Anchor was resolved to the centre of this scene object." }, "world": { "const": true, "description": "Anchor was given as explicit coordinates." } }, "minProperties": 1, "maxProperties": 1 }
+            }
+          },
+          "derived": {
+            "description": "Computed at bake time from anchor.world and render.builder.eye: yaw = atan2(x, -z), pitch = asin(y/|v|). Never hand-edited.",
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["yawDeg", "pitchDeg", "distanceM"],
+            "properties": { "yawDeg": { "type": "number", "minimum": -180, "maximum": 180 }, "pitchDeg": { "type": "number", "minimum": -90, "maximum": 90 }, "distanceM": { "type": "number", "exclusiveMinimum": 0 } }
+          },
+          "expectObject": { "type": "string", "description": "Id of the scene object the anchor must land on. The object-ID gate renders an ID pass and fails the bake if the pixel at derived yaw/pitch belongs to another object." },
+          "fact_ids": { "type": "array", "items": { "type": "string", "pattern": "^F-[0-9]{4}$" }, "uniqueItems": true, "description": "Verified fact ids from the fact store. Empty while content_status is placeholder." },
+          "artifact_id": { "type": ["string", "null"], "pattern": "^ART-[0-9]{4}$", "description": "Artifact record id, or null while a placeholder." },
+          "content_status": { "enum": ["placeholder", "verified"], "description": "'verified' requires non-empty fact_ids (checked in validate-scene.py and, here, by the rule below)." }
+        },
+        "if": { "properties": { "content_status": { "const": "verified" } } },
+        "then": { "properties": { "fact_ids": { "minItems": 1 } } }
+      }
+    },
+
+    "assets": {
+      "type": "array",
+      "description": "Every third-party object baked into the image. Licence allowlist is enforced here with enum; extend deliberately.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "provider", "licence", "pageUrl", "resolution", "declaredBytes", "role"],
+        "properties": {
+          "id": { "type": "string" },
+          "provider": { "type": "string" },
+          "licence": { "enum": ["CC0-1.0", "CC-BY-4.0", "PDM-1.0"] },
+          "pageUrl": { "type": "string", "pattern": "^https://" },
+          "resolution": { "enum": ["1k", "2k"] },
+          "declaredBytes": { "type": "integer", "minimum": 1, "description": "Download size declared by the provider API; used for build budgets, not for the visitor." },
+          "role": { "type": "string", "description": "Scene object id the asset became." }
+        }
+      }
+    },
+
+    "a11y": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["alt", "longDescription"],
+      "properties": {
+        "alt": { "type": "string", "minLength": 20, "maxLength": 300, "description": "Short alt for the Lite preview image." },
+        "longDescription": { "type": "string", "minLength": 80, "description": "Prose description of the whole room, for people who cannot see the picture. Must say if markers in the image are test markers." }
+      }
+    },
+
+    "budgets": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["panoKB", "textureMax"],
+      "properties": { "panoKB": { "type": "integer" }, "textureMax": { "enum": [2048, 4096] } }
+    },
+
+    "gates": {
+      "description": "Results the bake wrote. The viewer shows a count in Credits; CI would fail on any false.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["handedness", "objectId"],
+      "properties": {
+        "handedness": {
+          "type": "object", "additionalProperties": false, "required": ["pass", "checks"],
+          "properties": { "pass": { "const": true }, "checks": { "type": "array", "minItems": 3, "items": { "type": "object", "required": ["name", "pass"], "properties": { "name": { "type": "string" }, "pass": { "const": true } }, "additionalProperties": false } } }
+        },
+        "objectId": {
+          "type": "array", "minItems": 1,
+          "items": { "type": "object", "additionalProperties": false, "required": ["hotspot", "expect", "got", "pass"], "properties": { "hotspot": { "type": "string" }, "expect": { "type": "string" }, "got": { "type": "string" }, "pass": { "const": true } } }
+        }
+      }
+    }
+  }
+}

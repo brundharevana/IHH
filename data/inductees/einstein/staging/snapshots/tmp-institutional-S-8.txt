@@ -1,0 +1,107 @@
+Discoveries at the Edge of the Periodic Table: First Ever Measurements of Einsteinium – Berkeley Lab News Center
+
+Skip to main content
+
+All News
+
+Videos
+
+Podcasts
+
+Social Media
+
+In the News
+
+For the Media
+
+Media Contact
+
+Photos
+
+B-Roll
+
+All News
+
+Videos
+
+Podcasts
+
+Social Media
+
+In the News
+
+For the Media
+
+Media Contact
+
+Photos
+
+B-Roll
+
+Discoveries at the Edge of the Periodic Table: First Ever Measurements of Einsteinium
+
+Article
+
+Materials
+
+Since element 99 – einsteinium – was discovered in 1952 at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) from the debris of the first hydrogen bomb, scientists have performed very few experiments with it because it is so hard to create and is exceptionally radioactive. A team of Berkeley Lab chemists has overcome these obstacles to report the first study characterizing some of its properties, opening the door to a better understanding of the remaining transuranic elements of the actinide series.
+
+Published in the journal Nature, the study, “Structural and Spectroscopic Characterization of an Einsteinium Complex,” was co-led by Berkeley Lab scientist Rebecca Abergel and Los Alamos National Laboratory scientist Stosh Kozimor, and included scientists from the two laboratories, UC Berkeley, and Georgetown University, several of whom are graduate students and postdoctoral fellows. With less than 250 nanograms of the element, the team measured the first-ever einsteinium bond distance, a basic property of an element’s interactions with other atoms and molecules.
+
+“There’s not much known about einsteinium,” said Abergel, who leads Berkeley Lab’s Heavy Element Chemistry group and is an assistant professor in UC Berkeley’s Nuclear Engineering department. “It’s a remarkable achievement that we were able to work with this small amount of material and do inorganic chemistry. It’s significant because the more we understand about its chemical behavior, the more we can apply this understanding for the development of new materials or new technologies, not necessarily just with einsteinium, but with the rest of the actinides too. And we can establish trends in the periodic table.”
+
+Short-lived and hard to make
+
+Abergel and her team used experimental facilities not available decades ago when einsteinium was first discovered – the Molecular Foundry at Berkeley Lab and the Stanford Synchrotron Radiation Lightsource (SSRL) at SLAC National Accelerator Laboratory, both DOE Office of Science user facilities – to conduct luminescence spectroscopy and X-ray absorption spectroscopy experiments.
+
+Element 99, named after Albert Einstein, was discovered at Berkeley Lab in 1952 and announced in 1955. Einsteinium is considered a heavy element and is highly radioactive.
+
+But first, getting the sample in a usable form was almost half the battle. “This whole paper is a long series of unfortunate events,” she said wryly.
+
+The material was made at Oak Ridge National Laboratory’s High Flux Isotope Reactor, one of only a few places in the world that is capable of making einsteinium, which involves bombarding curium targets with neutrons to trigger a long chain of nuclear reactions. The first problem they encountered was that the sample was contaminated with a significant amount of californium, as making pure einsteinium in a usable quantity is extraordinarily challenging.
+
+So they had to scrap their original plan to use X-ray crystallography – which is considered the gold standard for obtaining structural information on highly radioactive molecules but requires a pure sample of metal – and instead came up with a new way to make samples and leverage element-specific research techniques. Researchers at Los Alamos provided critical assistance in this step by designing a sample holder uniquely suited to the challenges intrinsic to einsteinium.
+
+Then, contending with radioactive decay was another challenge. The Berkeley Lab team conducted their experiments with einsteinium-254, one of the more stable isotopes of the element. It has a half-life of 276 days, which is the time for half of the material to decay. Although the team was able to conduct many of the experiments before the coronavirus pandemic, they had plans for follow-up experiments that got interrupted thanks to pandemic-related shutdowns. By the time they were able to get back into their lab over the summer, most of the sample was gone.
+
+To protect against radiation, they worked with the sample – which is not visible to the human eye – in special containers in designated fume hoods. Abergel’s group specializes in working with actinides, including radioactive elements such as plutonium and berkelium.
+
+Bond distance and beyond
+
+Still, the researchers were able to measure a bond distance with einsteinium and also discovered some physical chemistry behavior that was different from what would be expected from the actinide series, which are the elements on the bottom row of the periodic table.
+
+“Determining the bond distance may not sound interesting, but it’s the first thing you would want to know about how a metal binds to other molecules. What kind of chemical interaction is this element going to have with other atoms and molecules?” Abergel said.
+
+Once scientists have this picture of the atomic arrangement of a molecule that incorporates einsteinium, they can try to find interesting chemical properties and improve understanding of periodic trends. “By getting this piece of data, we gain a better, broader understanding of how the whole actinide series behaves. And in that series, we have elements or isotopes that are useful for nuclear power production or radiopharmaceuticals,” she said.
+
+Tantalizingly, this research also offers the possibility of exploring what is beyond the edge of the periodic table, and possibly discovering a new element. “We’re really starting to understand a little better what happens toward the end of the periodic table, and the next thing is, you could also envision an einsteinium target for discovering new elements,” Abergel said. “Similar to the latest elements that were discovered in the past 10 years, like tennessine, which used a berkelium target, if you were to be able to isolate enough pure einsteinium to make a target, you could start looking for other elements and get closer to the (theorized) island of stability,” where nuclear physicists have predicted isotopes may have half-lives of minutes or even days, instead of the microsecond or less half-lives that are common in the superheavy elements.
+
+Study co-authors were Korey Carter, Katherine Shield, Kurt Smith, Leticia Arnedo-Sanchez, Tracy Mattox, Liane Moreau, and Corwin Booth of Berkeley Lab; Zachary Jones and Stosh Kozimor of Los Alamos National Laboratory; and Jennifer Wacker and Karah Knope of Georgetown University. The research was supported by the DOE Office of Science.
+
+# # #
+
+Founded in 1931 on the belief that the biggest scientific challenges are best addressed by teams, Lawrence Berkeley National Laboratory and its scientists have been recognized with 14 Nobel Prizes. Today, Berkeley Lab researchers develop sustainable energy and environmental solutions, create useful new materials, advance the frontiers of computing, and probe the mysteries of life, matter, and the universe. Scientists from around the world rely on the Lab’s facilities for their own discovery science. Berkeley Lab is a multiprogram national laboratory, managed by the University of California for the U.S. Department of Energy’s Office of Science.
+
+DOE’s Office of Science is the single largest supporter of basic research in the physical sciences in the United States, and is working to address some of the most pressing challenges of our time. For more information, please visit energy.gov/science.
+
+Tags:
+
+Materials
+
+Article
+
+Materials
+
+A Single Dose for Good Measure: How an Anti-Nuclear-Contamination Pill Could Also Help MRI Patients
+
+Article
+
+Materials
+
+Separation Anxiety No More: A Faster Technique to Purify Elements
+
+Article
+
+Materials
+
+How Berkelium Stands Out in a Heavy Metal Crowd

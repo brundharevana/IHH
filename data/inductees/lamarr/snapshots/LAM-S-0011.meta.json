@@ -1,0 +1,10 @@
+{
+  "url": "https://www.deutsche-biographie.de/dbo090250.html",
+  "fetch_url": "https://www.deutsche-biographie.de/dbo090250.html",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:50:25Z",
+  "sha256": "76aa402db5c40f4b290feba94241efe08bc3cfcfb1c53d67b0660e8b59e78eb4",
+  "bytes": 22745,
+  "http_status": 200,
+  "final_url": "https://www.deutsche-biographie.de/dbo090250.html"
+}

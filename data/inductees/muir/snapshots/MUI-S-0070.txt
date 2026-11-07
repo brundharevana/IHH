@@ -1,0 +1,110 @@
+title: Petition from the Society for the Preservation of National Parks against Granting San Francisco the Hetch Hetchy Valley
+scopeAndContentNote: The Society for the Preservation of National Parks submitted this petition to Congress, urging them to defeat the Raker Bill, which called for a dam to be built across the Hetch Hetchy Valley. Signed by John Muir and other leading preservationists, in this letter, the Society encouraged Congress to save the beautiful Valley so that the entire nation could enjoy the land for healthful pleasure and rest.
+beginCongress: 63
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].address2: Room 8E, 7th and Pennsylvania Avenue NW
+physicalOccurrences[0].referenceUnits[0].city: Washington
+physicalOccurrences[0].referenceUnits[0].phone: 202-357-5350
+physicalOccurrences[0].referenceUnits[0].address1: National Archives Building
+physicalOccurrences[0].referenceUnits[0].postalCode: 20408
+physicalOccurrences[0].referenceUnits[0].name: Center for Legislative Archives
+physicalOccurrences[0].referenceUnits[0].state: DC
+physicalOccurrences[0].referenceUnits[0].fax: 202-357-5911
+physicalOccurrences[0].referenceUnits[0].email: legislative.archives@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Loose Sheets
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].mediaOccurrences[0].containerId: 121
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+endCongress: 63
+dataControlGroup.groupName: Center for Legislative Archives
+dataControlGroup.groupId: RPL
+dataControlGroup.groupCd: RPL
+generalRecordsTypes[0]: Textual Records
+generalNotes[0]: Also known as the Hetch Hetchy Bill, the Raker Bill would allow San Francisco to build a dam in the Hetch Hetchy Valley, which fell within Yosemite National Park.  Environmental preservation groups, including the Society for the Preservation of National Parks, urged Congress to vote against the legislation.
+localIdentifier: SEN63A-F26
+productionDates[0].month: 6
+productionDates[0].year: 1913
+productionDates[0].day: 27
+productionDates[0].logicalDate: 1913-06-27
+variantControlNumbers[0].number: NWL-18692
+variantControlNumbers[0].type: HMS Record Entry ID
+digitalObjects[0].objectFilename: Society_for_the_Preservation_of_National_Parks_001.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialive/60/2680/7268060/content/arcmedia/legislative/gallery/Society_for_the_Preservation_of_National_Parks_001.jpg
+digitalObjects[0].objectFileSize: 1838711
+digitalObjects[0].objectDesignator: 1
+digitalObjects[0].objectId: 15887152
+digitalObjects[0].objectType: Image (JPG)
+digitalObjects[1].objectFilename: Society_for_the_Preservation_of_National_Parks_002.jpg
+digitalObjects[1].objectUrl: https://catalog.archives.gov/medialive/60/2680/7268060/content/arcmedia/legislative/gallery/Society_for_the_Preservation_of_National_Parks_002.jpg
+digitalObjects[1].objectFileSize: 1471418
+digitalObjects[1].objectDesignator: 2
+digitalObjects[1].objectId: 15887153
+digitalObjects[1].objectType: Image (JPG)
+digitalObjects[2].objectFilename: Society_for_the_Preservation_of_National_Parks.pdf
+digitalObjects[2].objectUrl: https://catalog.archives.gov/medialive/60/2680/7268060/content/arcmedia/legislative/gallery/Society_for_the_Preservation_of_National_Parks.pdf
+digitalObjects[2].objectFileSize: 1532599
+digitalObjects[2].objectId: 15887154
+digitalObjects[2].objectDescription: Download the PDF
+digitalObjects[2].objectType: Portable Document File (PDF)
+ancestors[0].inclusiveStartDate.year: 1789
+ancestors[0].inclusiveStartDate.logicalDate: 1789-01-01
+ancestors[0].distance: 3
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 46
+ancestors[0].inclusiveEndDate.year: 2023
+ancestors[0].inclusiveEndDate.logicalDate: 2023-12-31
+ancestors[0].title: Records of the U.S. Senate
+ancestors[0].naId: 375
+ancestors[1].inclusiveStartDate.year: 1816
+ancestors[1].inclusiveStartDate.logicalDate: 1816-01-01
+ancestors[1].distance: 2
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Predecessor
+ancestors[1].creators[0].heading: U.S. Senate. Committee on Public Lands and Surveys. (04/18/1921 - 01/02/1947)
+ancestors[1].creators[0].abolishDate.month: 1
+ancestors[1].creators[0].abolishDate.year: 1947
+ancestors[1].creators[0].abolishDate.day: 2
+ancestors[1].creators[0].abolishDate.logicalDate: 1947-01-02
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 4
+ancestors[1].creators[0].establishDate.year: 1921
+ancestors[1].creators[0].establishDate.day: 18
+ancestors[1].creators[0].establishDate.logicalDate: 1921-04-18
+ancestors[1].creators[0].naId: 217669925
+ancestors[1].creators[1].creatorType: Predecessor
+ancestors[1].creators[1].heading: U.S. Senate. Committee on Public Lands. (12/10/1816 - 04/18/1921)
+ancestors[1].creators[1].abolishDate.month: 4
+ancestors[1].creators[1].abolishDate.year: 1921
+ancestors[1].creators[1].abolishDate.day: 18
+ancestors[1].creators[1].abolishDate.logicalDate: 1921-04-18
+ancestors[1].creators[1].authorityType: organization
+ancestors[1].creators[1].establishDate.month: 12
+ancestors[1].creators[1].establishDate.year: 1816
+ancestors[1].creators[1].establishDate.day: 10
+ancestors[1].creators[1].establishDate.logicalDate: 1816-12-10
+ancestors[1].creators[1].naId: 217662933
+ancestors[1].creators[2].creatorType: Most Recent
+ancestors[1].creators[2].heading: U.S. Senate. Committee on Public Lands. (01/02/1947 - 01/28/1948)
+ancestors[1].creators[2].abolishDate.month: 1
+ancestors[1].creators[2].abolishDate.year: 1948
+ancestors[1].creators[2].abolishDate.day: 28
+ancestors[1].creators[2].abolishDate.logicalDate: 1948-01-28
+ancestors[1].creators[2].authorityType: organization
+ancestors[1].creators[2].establishDate.month: 1
+ancestors[1].creators[2].establishDate.year: 1947
+ancestors[1].creators[2].establishDate.day: 2
+ancestors[1].creators[2].establishDate.logicalDate: 1947-01-02
+ancestors[1].creators[2].naId: 10459346
+ancestors[1].inclusiveEndDate.year: 1948
+ancestors[1].inclusiveEndDate.logicalDate: 1948-12-31
+ancestors[1].title: Committee Papers of the Committee on Public Lands and Committee on Public Lands and Surveys
+ancestors[1].naId: 559832
+ancestors[2].distance: 1
+ancestors[2].levelOfDescription: fileUnit
+ancestors[2].title: Committee Papers of the Committee on Public Lands from the 63rd Congress
+ancestors[2].naId: 18502869
+naId: 7268060

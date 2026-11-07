@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/2002705528/",
+  "fetch_url": "https://www.loc.gov/item/2002705528/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-24T06:17:03Z",
+  "sha256": "fc3265d3f74cf16596b48f7afdf4cc271948ae6d940f287a45ff3cc8f74faf62",
+  "bytes": 9239,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/2002705528/?fo=json"
+}

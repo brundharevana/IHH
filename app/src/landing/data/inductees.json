@@ -1,0 +1,925 @@
+[
+  {
+    "slug": "einstein",
+    "name": "Albert Einstein",
+    "ihh_url": "https://immigranthallofhonor.org/inductees/inductee-albert-einstein/",
+    "portrait": {
+      "src": "landing/portraits/einstein.jpg",
+      "media_id": "EIN-M-0006",
+      "alt": "Photograph shows Albert Einstein, head-and-shoulders portrait, facing slightly right. Copyright by Orren Jack Turner, Princeton, N.J.",
+      "credit": "Library of Congress, Prints & Photographs Division, LC-USZ62-60242. Photograph by Orren Jack Turner, Princeton, N.J.",
+      "rights": "No known restrictions on publication. No renewal in Copyright office (checked 8/31/76).",
+      "url": "https://www.loc.gov/item/2004671908/"
+    },
+    "points": [
+      {
+        "id": "birth",
+        "kind": "birth",
+        "label": "Born in Ulm",
+        "year": 1879,
+        "factId": "EIN-F-0005",
+        "claim": "Albert Einstein was born 14 March 1879 in Ulm, Germany.",
+        "source": {
+          "id": "EIN-S-0003",
+          "title": "Albert Einstein – Facts",
+          "institution": "Nobel Prize Outreach",
+          "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "honoured",
+        "kind": "honoured",
+        "label": "The Nobel Prize",
+        "year": 1922,
+        "factId": "EIN-F-0147",
+        "claim": "Albert Einstein received his Nobel Prize in 1922.",
+        "source": {
+          "id": "EIN-S-0003",
+          "title": "Albert Einstein – Facts",
+          "institution": "Nobel Prize Outreach",
+          "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "leaving",
+        "kind": "leaving",
+        "label": "Renouncing German citizenship",
+        "year": 1933,
+        "factId": "EIN-F-0109",
+        "claim": "In 1933 Albert Einstein renounced his German citizenship.",
+        "source": {
+          "id": "EIN-S-0004",
+          "title": "Albert Einstein – Biographical",
+          "institution": "Nobel Prize Outreach",
+          "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "arriving",
+        "kind": "arriving",
+        "label": "Arriving in New York",
+        "year": 1933,
+        "factId": "EIN-F-0122",
+        "claim": "On October 17, 1933, Einstein arrived in New York on the Red Star liner Westernland.",
+        "source": {
+          "id": "EIN-S-0101",
+          "title": "Brownsville herald (Brownsville, Tex.), October 17, 1933, Image 1 (page text)",
+          "institution": "Library of Congress",
+          "url": "https://www.loc.gov/resource/sn86063730/1933-10-17/ed-1/?sp=1&st=text"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "history",
+        "kind": "history",
+        "label": "A letter to the President",
+        "year": 1939,
+        "factId": "EIN-F-0110",
+        "claim": "Albert Einstein signed a letter to President Roosevelt.",
+        "source": {
+          "id": "EIN-S-0008",
+          "title": "Albert Einstein: In Brief | Institute for Advanced Study",
+          "institution": "Institute for Advanced Study",
+          "url": "https://www.ias.edu/albert-einstein-brief"
+        },
+        "artifact": {
+          "kind": "object",
+          "media": {
+            "id": "EIN-M-0063",
+            "title": "Letter from Albert Einstein to President Franklin D. Roosevelt",
+            "thumb": null,
+            "alt": "Letter from Albert Einstein to President Franklin D. Roosevelt; 8/2/1939; Sachs, Alexander; Franklin D. Roosevelt Library, Hyde Park, NY.",
+            "credit": "Franklin D. Roosevelt Library, Hyde Park, NY; President's Secretary's File (Franklin D. Roosevelt Administration), Safe Files, Sachs, Alexander; National Archives Identifier 16608874 (DocsTeach, National Archives Foundation).",
+            "rights": "Public Domain, Free of Known Copyright Restrictions.",
+            "license": "public-domain",
+            "url": "https://docsteach.org/document/letter-from-albert-einstein-to-president-franklin-d-roosevelt/",
+            "holder": "DocsTeach (National Archives Foundation)"
+          }
+        }
+      },
+      {
+        "id": "citizen",
+        "kind": "citizen",
+        "label": "Becoming a citizen",
+        "year": 1940,
+        "factId": "EIN-F-0051",
+        "claim": "On 1940 Oct. 1, Albert Einstein was photographed receiving from Judge Phillip Forman his certificate of American citizenship.",
+        "source": {
+          "id": "EIN-S-0019",
+          "title": "America gains a famous citizen / photo by Al. Aumuller.",
+          "institution": "Library of Congress",
+          "url": "https://www.loc.gov/item/2004672481/"
+        },
+        "artifact": {
+          "kind": "object",
+          "media": {
+            "id": "EIN-M-0019",
+            "title": "Declaration of Intention and Petition for Naturalization for Albert Einstein",
+            "thumb": "landing/artifacts/EIN-M-0019.webp",
+            "alt": "Record of naturalization for Albert Einstein which includes a Certificate of Arrival, Declaration of Intention, Petition for Naturalization, and Oath of Allegiance.",
+            "credit": "National Archives at Philadelphia, Records of District Courts of the United States, NAID 596270.",
+            "rights": "Unrestricted",
+            "license": "public-domain",
+            "url": "https://catalog.archives.gov/id/596270",
+            "holder": "U.S. National Archives and Records Administration"
+          }
+        }
+      },
+      {
+        "id": "big-work",
+        "kind": "big-work",
+        "label": "Research for the Navy",
+        "year": 1943,
+        "factId": "EIN-F-0138",
+        "claim": "On 1 Sept. 1943, Dr. Albert Einstein at Princeton, N.J. is engaged in research work for the U.S. Navy.",
+        "source": {
+          "id": "EIN-S-0107",
+          "title": "Dr. Albert Einstein at Princeton, N.J. Where He is Engaged in Research Work for the U.S. Navy",
+          "institution": "U.S. National Archives and Records Administration",
+          "url": "https://catalog.archives.gov/id/276538322"
+        },
+        "artifact": {
+          "kind": "object",
+          "media": {
+            "id": "EIN-M-0050",
+            "title": "Letter of Albert Einstein to the Lieutenant Stephen Brunauer, U.S. Navy Bureau of Ordnance",
+            "thumb": "landing/artifacts/EIN-M-0050.webp",
+            "alt": "Letter of Albert Einstein to the Lieutenant Stephen Brunauer, U.S. Navy Bureau of Ordnance, 1943-05-17. It is in regards to Albert Einstein participating in the Research and Development Division of the Navy to research Navy problems.",
+            "credit": "National Archives at College Park, Records of the Bureau of Ordnance, NAID 305247.",
+            "rights": "Unrestricted",
+            "license": "public-domain",
+            "url": "https://catalog.archives.gov/id/305247",
+            "holder": "U.S. National Archives and Records Administration"
+          }
+        }
+      },
+      {
+        "id": "legacy",
+        "kind": "legacy",
+        "label": "Home until 1955",
+        "year": 1955,
+        "factId": "EIN-F-0107",
+        "claim": "112 Mercer Street remained Albert Einstein's home until his death in 1955.",
+        "source": {
+          "id": "EIN-S-0091",
+          "title": "Albert Einstein House, 112 Mercer Street: National Register of Historic Places Inventory -- Nomination Form (National Historic Landmark 76002297)",
+          "institution": "National Park Service",
+          "url": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/76002297_text"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "EIN-M-0030",
+            "title": "Albert Einstein in study, seated",
+            "thumb": null,
+            "alt": "Albert Einstein seated in his home office at 112 Mercer Street, Princeton, New Jersey.",
+            "credit": "Alan Richards, photographer. Shelby White and Leon Levy Archives Center, Institute for Advanced Study, Princeton, NJ, USA (E 30). CC BY 4.0.",
+            "rights": "The Institute for Advanced Study owns the copyright for this image. This image is licensed with the \"CC By\" license to support research use with proper attribution. For more information, see https://creativecommons.org/licenses/by/4.0/",
+            "license": "cc-by",
+            "url": "https://albert.ias.edu/entities/archivalmaterial/41b4e02c-4c2d-40d9-a7dd-42c21d5a0916",
+            "holder": "Institute for Advanced Study"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "slug": "lamarr",
+    "name": "Hedy Lamarr",
+    "ihh_url": "https://immigranthallofhonor.org/inductees/inductee-hedy-lamarr/",
+    "portrait": {
+      "src": "landing/portraits/lamarr.jpg",
+      "media_id": "LAM-M-0013",
+      "alt": "Portrait of actress Hedy Lamarr. January 19, 1939. Newspaper caption: IN FILM SPAT -- Hedy Lamarr, actress, who is in row over contract (Los Angeles Times, 10/4/1939).",
+      "credit": "Los Angeles Times Photographic Collection, University of California, Los Angeles. Library. Department of Special Collections. CC BY 4.0.",
+      "rights": "This work is licensed under a \"Creative Commons BY Attribution 4.0 International\" .",
+      "url": "https://digital.library.ucla.edu/catalog/ark:/21198/zz002d9663",
+      "changes": "Cropped and resized from the holder's file.",
+      "licence": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    },
+    "points": [
+      {
+        "id": "birth",
+        "kind": "birth",
+        "label": "Born in Vienna",
+        "year": 1914,
+        "factId": "LAM-F-0012",
+        "claim": "Hedy Lamarr was born Nov. 9, 1914.",
+        "source": {
+          "id": "LAM-S-0009",
+          "title": "Hedy Lamarr",
+          "institution": "National Inventors Hall of Fame",
+          "url": "https://www.invent.org/inductees/hedy-lamarr"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "arriving",
+        "kind": "arriving",
+        "label": "Arriving in New York",
+        "year": 1937,
+        "factId": "LAM-F-0100",
+        "claim": "The Waterbury Democrat (Waterbury, Conn.), October 4, 1937, on Austrian Hedy Kiesler: Now Miss Kiesler is here in person (above as New York saw her).",
+        "source": {
+          "id": "LAM-S-0051",
+          "title": "The Waterbury Democrat (Waterbury, Conn.), October 4, 1937, Image 14",
+          "institution": "Library of Congress",
+          "url": "https://www.loc.gov/resource/sn82014085/1937-10-04/ed-1/?sp=14"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "first-work",
+        "kind": "first-work",
+        "label": "Films for Metro-Goldwyn-Mayer",
+        "year": 1940,
+        "factId": "LAM-F-0044",
+        "claim": "The 1940 motion picture poster for the Metro-Goldwyn-Mayer picture Boom Town shows Hedy Lamarr in scenes from the movie.",
+        "source": {
+          "id": "LAM-S-0025",
+          "title": "Boom Town",
+          "institution": "Library of Congress",
+          "url": "https://www.loc.gov/item/2004673433/"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "LAM-M-0013",
+            "title": "Actress Hedy Lamarr, 1939",
+            "thumb": "landing/artifacts/LAM-M-0013.webp",
+            "alt": "Portrait of actress Hedy Lamarr. January 19, 1939. Newspaper caption: IN FILM SPAT -- Hedy Lamarr, actress, who is in row over contract (Los Angeles Times, 10/4/1939).",
+            "credit": "Los Angeles Times Photographic Collection, University of California, Los Angeles. Library. Department of Special Collections. CC BY 4.0.",
+            "rights": "This work is licensed under a \"Creative Commons BY Attribution 4.0 International\" .",
+            "license": "cc-by",
+            "url": "https://digital.library.ucla.edu/catalog/ark:/21198/zz002d9663",
+            "holder": "UCLA Library Digital Collections"
+          }
+        }
+      },
+      {
+        "id": "big-work",
+        "kind": "big-work",
+        "label": "The invention",
+        "year": 1941,
+        "factId": "LAM-F-0091",
+        "claim": "Secret Communication System, by Hedy Kiesler Markey and George Antheil, was filed June 10, 1941.",
+        "source": {
+          "id": "LAM-S-0049",
+          "title": "Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil (page transcriptions)",
+          "institution": "U.S. National Archives and Records Administration",
+          "url": "https://catalog.archives.gov/id/167820368"
+        },
+        "artifact": {
+          "kind": "object",
+          "media": {
+            "id": "LAM-M-0001",
+            "title": "Patent Case File No. 2,292,387, Secret Communication System",
+            "thumb": "landing/artifacts/LAM-M-0001.webp",
+            "alt": "Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil. Architectural and Engineering Drawings and Textual Records.",
+            "credit": "National Archives at Kansas City, Records of the Patent and Trademark Office, Utility Patent Case Files, NAID 167820368.",
+            "rights": "Unrestricted",
+            "license": "public-domain",
+            "url": "https://catalog.archives.gov/id/167820368",
+            "holder": "U.S. National Archives and Records Administration"
+          }
+        }
+      },
+      {
+        "id": "history",
+        "kind": "history",
+        "label": "On screen and on air",
+        "year": 1942,
+        "factId": "LAM-F-0061",
+        "claim": "EVERYBODY JOINS U.S. WAR EFFORT [ETC.] (1942) has film entertainers on war bond tours, including Heddy Lamar.",
+        "source": {
+          "id": "LAM-S-0039",
+          "title": "EVERYBODY JOINS U.S. WAR EFFORT [ETC.]",
+          "institution": "U.S. National Archives and Records Administration",
+          "url": "https://catalog.archives.gov/id/38919"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "LAM-M-0014",
+            "title": "Actress Heddy LaMarr at the \"Tales of Manhattan\" film premiere in Los Angeles, Calif., 1942",
+            "thumb": "landing/artifacts/LAM-M-0014.webp",
+            "alt": "Actress Heddy LaMarr at the \"Tales of Manhattan\" film premiere in Los Angeles, Calif., August 5, 1942.",
+            "credit": "Los Angeles Times Photographic Collection, University of California, Los Angeles. Library. Department of Special Collections. CC BY 4.0.",
+            "rights": "This work is licensed under a \"Creative Commons BY Attribution 4.0 International\" .",
+            "license": "cc-by",
+            "url": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002v4v7",
+            "holder": "UCLA Library Digital Collections"
+          }
+        }
+      },
+      {
+        "id": "legacy",
+        "kind": "legacy",
+        "label": "Later life",
+        "year": 2000,
+        "factId": "LAM-F-0083",
+        "claim": "Lamarr died in 2000 at the age of 85.",
+        "source": {
+          "id": "LAM-S-0047",
+          "title": "Highlighting the Legacy of Hedy Lamarr",
+          "institution": "National Inventors Hall of Fame",
+          "url": "https://www.invent.org/blog/inventors/hedy-lamarr"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "LAM-M-0015",
+            "title": "Actress Hedy LaMarr and John Loder in courtroom, 1946",
+            "thumb": "landing/artifacts/LAM-M-0015.webp",
+            "alt": "Actress Hedy LaMarr and John Loder in courtroom, confronting men suspected of robbing their house in Los Angeles, Calif., May 20, 1946.",
+            "credit": "Los Angeles Times Photographic Collection, University of California, Los Angeles. Library. Department of Special Collections. CC BY 4.0.",
+            "rights": "This work is licensed under a \"Creative Commons BY Attribution 4.0 International\" .",
+            "license": "cc-by",
+            "url": "https://digital.library.ucla.edu/catalog/ark:/21198/zz0002v7w6",
+            "holder": "UCLA Library Digital Collections"
+          }
+        }
+      },
+      {
+        "id": "honoured",
+        "kind": "honoured",
+        "label": "National Inventors Hall of Fame",
+        "year": 2014,
+        "factId": "LAM-F-0006",
+        "claim": "In 2014 Hedy Lamarr was inducted into the National Inventors Hall of Fame.",
+        "source": {
+          "id": "LAM-S-0007",
+          "title": "Hedy Lamarr - Florida Inventors Hall of Fame",
+          "institution": "Florida Inventors Hall of Fame",
+          "url": "https://floridainvents.org/hedy-lamarr/"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      }
+    ]
+  },
+  {
+    "slug": "muir",
+    "name": "John Muir",
+    "ihh_url": "https://immigranthallofhonor.org/inductees/inductee-john-muir/",
+    "portrait": {
+      "src": "landing/portraits/muir.jpg",
+      "media_id": "MUI-M-0011",
+      "alt": "John Muir, half-length portrait, facing left. 1 photographic print; photoprint by J. Edward Greene, Pasadena, California.",
+      "credit": "Library of Congress, Prints & Photographs Division, LC-USZC4-1576",
+      "rights": "No known restrictions on publication.",
+      "url": "https://www.loc.gov/item/2002719850/",
+      "changes": "Cropped and resized from the holder's file."
+    },
+    "points": [
+      {
+        "id": "birth",
+        "kind": "birth",
+        "label": "Born in Dunbar",
+        "year": 1838,
+        "factId": "MUI-F-0092",
+        "claim": "In 1838, on April 21, John Muir was born in Dunbar, Scotland.",
+        "source": {
+          "id": "MUI-S-0017",
+          "title": "John Muir Timeline",
+          "institution": "National Park Service",
+          "url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-timeline.htm"
+        },
+        "artifact": {
+          "kind": "object",
+          "media": {
+            "id": "MUI-M-0062",
+            "title": "Passport application of John Muir, Volume 995: May 1 to 6, 1903",
+            "thumb": "landing/artifacts/MUI-M-0062.webp",
+            "alt": "Images of the passport application of John Muir, Year of Birth: 1838, in Volume 995: May 1 to 6, 1903 of the Passport Applications, General Records of the Department of State.",
+            "credit": "National Archives at College Park, General Records of the Department of State, Passport Applications, Volume 995: May 1 to 6, 1903, NAID 235846313 (images 0420 and 0421; image provided by Fold3).",
+            "rights": "Unrestricted",
+            "license": "public-domain",
+            "url": "https://catalog.archives.gov/id/235846313",
+            "holder": "U.S. National Archives and Records Administration"
+          }
+        }
+      },
+      {
+        "id": "arriving",
+        "kind": "arriving",
+        "label": "Fountain Lake farm",
+        "year": 1849,
+        "factId": "MUI-F-0098",
+        "claim": "In 1849 the Muirs landed in New York City and went by boat to Albany and then across the Erie Canal to Buffalo.",
+        "source": {
+          "id": "MUI-S-0089",
+          "title": "National Register of Historic Places Registration Form: National Historic Landmark Nomination, Fountain Lake Farm",
+          "institution": "National Park Service",
+          "url": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/90000471_text"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "first-work",
+        "kind": "first-work",
+        "label": "Inventions, Madison",
+        "year": 1860,
+        "factId": "MUI-F-0111",
+        "claim": "In 1860 Muir exhibited inventions at the State Fair in Madison.",
+        "source": {
+          "id": "MUI-S-0017",
+          "title": "John Muir Timeline",
+          "institution": "National Park Service",
+          "url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-timeline.htm"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "MUI-M-0034",
+            "title": "John Muir's Clock Design",
+            "thumb": "landing/artifacts/MUI-M-0034.webp",
+            "alt": "Sketch of John Muir's clock design, 1863. The built clock was a combination of scythes, wheels and arrows.",
+            "credit": "Wisconsin Historical Society, John Muir's Clock Design, W0133MG",
+            "rights": "NO COPYRIGHT - UNITED STATES",
+            "license": "public-domain",
+            "url": "https://www.wisconsinhistory.org/record/image/W0133MG/john-muirs-clock-design",
+            "holder": "Wisconsin Historical Society"
+          }
+        }
+      },
+      {
+        "id": "big-work",
+        "kind": "big-work",
+        "label": "Yosemite",
+        "year": 1868,
+        "factId": "MUI-F-0141",
+        "claim": "Muir's first visit to Yosemite was in 1868.",
+        "source": {
+          "id": "MUI-S-0087",
+          "title": "John Muir Life Chronology",
+          "institution": "University of the Pacific",
+          "url": "https://www.pacific.edu/university-libraries/find/holt-atherton-special-collections/john-muir-personal-life-chronology"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "MUI-M-0063",
+            "title": "Muir's signature in Grand Register",
+            "thumb": "landing/artifacts/MUI-M-0063.webp",
+            "alt": "Muir's signature in Grand Register, Yosemite National Park, California, August 1938. Photographer: Ralph H. Anderson.",
+            "credit": "National Park Service, Yosemite National Park Archives, Yosemite Historic Photo Collection, RL_01368. Photographer: Ralph H. Anderson.",
+            "rights": "Public domain",
+            "license": "public-domain",
+            "url": "https://npgallery.nps.gov/AssetDetail/161c5230636b4f6e956a3a57a9c41e77",
+            "holder": "National Park Service"
+          }
+        }
+      },
+      {
+        "id": "study",
+        "kind": "big-work",
+        "label": "The John Muir House",
+        "year": 1890,
+        "factId": "MUI-F-0123",
+        "claim": "In 1890 the Muir family moves into the big house.",
+        "source": {
+          "id": "MUI-S-0087",
+          "title": "John Muir Life Chronology",
+          "institution": "University of the Pacific",
+          "url": "https://www.pacific.edu/university-libraries/find/holt-atherton-special-collections/john-muir-personal-life-chronology"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "MUI-M-0020",
+            "title": "Self Portrait of John Muir",
+            "thumb": "landing/artifacts/MUI-M-0020.webp",
+            "alt": "Self Portrait of John Muir in a letter to Miss Janet Douglass Moores, February 23, 1887",
+            "credit": "National Park Service, GGNRA, Park Archives, GOGA 32470.0345",
+            "rights": "Public domain:Full Granting Rights",
+            "license": "public-domain",
+            "url": "https://npgallery.nps.gov/AssetDetail/90D2F38E-E5CB-F9DD-9DAC6877E2337352",
+            "holder": "National Park Service"
+          }
+        }
+      },
+      {
+        "id": "history",
+        "kind": "history",
+        "label": "In Yosemite with Roosevelt",
+        "year": 1903,
+        "factId": "MUI-F-0146",
+        "claim": "Theodore Roosevelt and John Muir were on Glacier Point, Yosemite Valley, California, in 1903.",
+        "source": {
+          "id": "MUI-S-0132",
+          "title": "[Theodore Roosevelt and John Muir on Glacier Point, Yosemite Valley, California, in 1903]",
+          "institution": "Library of Congress",
+          "url": "https://www.loc.gov/item/93503130/"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "MUI-M-0013",
+            "title": "Theodore Roosevelt and John Muir on Glacier Point, Yosemite Valley, California, in 1903",
+            "thumb": "landing/artifacts/MUI-M-0013.webp",
+            "alt": "Theodore Roosevelt and John Muir on Glacier Point, Yosemite Valley, California, in 1903. Stereograph copyright claimant Underwood & Underwood.",
+            "credit": "Library of Congress, Prints & Photographs Division, LC-DIG-ppmsca-36413",
+            "rights": "No known restrictions on publication.",
+            "license": "public-domain",
+            "url": "https://www.loc.gov/item/93503130/",
+            "holder": "Library of Congress"
+          }
+        }
+      },
+      {
+        "id": "legacy",
+        "kind": "legacy",
+        "label": "Hetch Hetchy",
+        "year": 1911,
+        "factId": "MUI-F-0046",
+        "claim": "In 1911 Muir published My First Summer in the Sierra.",
+        "source": {
+          "id": "MUI-S-0017",
+          "title": "John Muir Timeline",
+          "institution": "National Park Service",
+          "url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-timeline.htm"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      }
+    ]
+  },
+  {
+    "slug": "albright",
+    "name": "Madeleine Albright",
+    "ihh_url": "https://immigranthallofhonor.org/inductees/inductee-madeleine-albright/",
+    "portrait": {
+      "src": "landing/portraits/albright.jpg",
+      "media_id": "ALB-M-0014",
+      "alt": "Photograph, 1997-01-23, Washington (D.C.): Madeleine Albright speaks at her swearing-in ceremoney as Secretary of State.",
+      "credit": "William J. Clinton Library, National Archives; photographer Ralph Alswang; 42-WHPO-P49689-09A",
+      "rights": "Unrestricted",
+      "url": "https://catalog.archives.gov/id/183374012",
+      "changes": "Cropped and resized from the holder's file."
+    },
+    "points": [
+      {
+        "id": "birth",
+        "kind": "birth",
+        "label": "Born in Prague",
+        "year": 1937,
+        "factId": "ALB-F-0003",
+        "claim": "Madeleine Albright was born on May 15, 1937.",
+        "source": {
+          "id": "ALB-S-0001",
+          "title": "Inductee Madeleine Albright",
+          "institution": "Immigrant Hall of Honor",
+          "url": "https://immigranthallofhonor.org/inductees/inductee-madeleine-albright/"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "arriving",
+        "kind": "arriving",
+        "label": "Into New York Harbor",
+        "year": 1948,
+        "factId": "ALB-F-0175",
+        "claim": "In 1948 Albright's family immigrated to the United States.",
+        "source": {
+          "id": "ALB-S-0025",
+          "title": "Madeleine Albright: 2018 National Book Festival",
+          "institution": "Library of Congress",
+          "url": "https://www.loc.gov/item/2021692298/"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "citizen",
+        "kind": "citizen",
+        "label": "A U.S. citizen",
+        "year": 1957,
+        "factId": "ALB-F-0026",
+        "claim": "Albright became a U.S. citizen in 1957.",
+        "source": {
+          "id": "ALB-S-0012",
+          "title": "Madeleine Korbel Albright - People - Department History - Office of the Historian",
+          "institution": "U.S. Department of State",
+          "url": "https://history.state.gov/departmenthistory/people/albright-madeleine-korbel"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "ALB-M-0070",
+            "title": "Madeleine Albright Make Remarks During the Naturalization Ceremony at the National Archives in Washington, D.C.",
+            "thumb": "landing/artifacts/ALB-M-0070.webp",
+            "alt": "Madeleine Albright make remarks during the naturalization ceremony at the National Archives in Washington, D.C., September 14, 2016.",
+            "credit": "National Archives at College Park - Still Pictures, Records of the National Archives and Records Administration, 64-CFDA-20160914-01-095, NAID 445648821",
+            "rights": "Unrestricted",
+            "license": "public-domain",
+            "url": "https://catalog.archives.gov/id/445648821",
+            "holder": "U.S. National Archives and Records Administration"
+          }
+        }
+      },
+      {
+        "id": "big-work",
+        "kind": "big-work",
+        "label": "Ambassador to the United Nations",
+        "year": 1993,
+        "factId": "ALB-F-0029",
+        "claim": "In 1993 Albright was appointed Ambassador to the United Nations by President Clinton.",
+        "source": {
+          "id": "ALB-S-0012",
+          "title": "Madeleine Korbel Albright - People - Department History - Office of the Historian",
+          "institution": "U.S. Department of State",
+          "url": "https://history.state.gov/departmenthistory/people/albright-madeleine-korbel"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "ALB-M-0058",
+            "title": "V000113, January 27, 1993",
+            "thumb": "landing/artifacts/ALB-M-0058.webp",
+            "alt": "Contact sheet with photographs of Vice President Gore swearing in Madeleine Albright as Ambassador to the United Nations.",
+            "credit": "Vice Presidential Records of the White House Photograph Office (Clinton Administration), National Archives, NAID 24326093",
+            "rights": "Unrestricted",
+            "license": "public-domain",
+            "url": "https://catalog.archives.gov/id/24326093",
+            "holder": "U.S. National Archives and Records Administration"
+          }
+        }
+      },
+      {
+        "id": "secretary",
+        "kind": "big-work",
+        "label": "Secretary of State",
+        "year": 1997,
+        "factId": "ALB-F-0193",
+        "claim": "Madeleine Albright was sworn in as Secretary of State in the Oval Office on January 23, 1997.",
+        "source": {
+          "id": "ALB-S-0118",
+          "title": "Madelaine K. Albright Swearing-In Remarks, Jan 23, 1997",
+          "institution": "U.S. Department of State",
+          "url": "https://1997-2001.state.gov/statements/970123.html"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "ALB-M-0059",
+            "title": "Swearing-In Ceremony for Madeleine Albright as Secretary of State",
+            "thumb": "landing/artifacts/ALB-M-0059.webp",
+            "alt": "Swearing-In Ceremony for Madeleine Albright as Secretary of State.",
+            "credit": "White House Photograph Office (Clinton Administration), photographer Ralph Alswang; William J. Clinton Library, NAID 131493882",
+            "rights": "Unrestricted",
+            "license": "public-domain",
+            "url": "https://catalog.archives.gov/id/131493882",
+            "holder": "U.S. National Archives and Records Administration"
+          }
+        }
+      },
+      {
+        "id": "history",
+        "kind": "history",
+        "label": "NATO enlargement",
+        "year": 1997,
+        "factId": "ALB-F-0200",
+        "claim": "On July 8, 1997, at the Miguel Angel Hotel, Madrid, Spain, Secretary of State Madeleine Albright and Secretary of Defense William Cohen talked to reporters about the decision, made at the NATO summit, to invite Poland, Hungary, and the Czech Republic to begin accession negotiations to join the NATO alliance.",
+        "source": {
+          "id": "ALB-S-0138",
+          "title": "Secretary of Defense William Cohen, accompanied by National Security Advisor Samuel Burger (left) and Secretary of State Madeleine Albright (right), speaks during a press conference, held July 8, 1997, at the Miguel Angel Hotel, Madrid, Spain",
+          "institution": "U.S. National Archives and Records Administration",
+          "url": "https://catalog.archives.gov/id/6598395"
+        },
+        "artifact": {
+          "kind": "photograph",
+          "media": {
+            "id": "ALB-M-0071",
+            "title": "Secretary of Defense William Cohen, accompanied by National Security Advisor Samuel Burger (left) and Secretary of State Madeleine Albright (right), speaks during a press conference, held July 8, 1997, at the Miguel Angel Hotel, Madrid, Spain",
+            "thumb": null,
+            "alt": "Secretary of Defense William Cohen, accompanied by Secretary of State Madeleine Albright (right), speaks during a press conference, held July 8, 1997, at the Miguel Angel Hotel, Madrid, Spain.",
+            "credit": "Records of the Office of the Secretary of Defense (RG 330), Combined Military Service Digital Photographic Files, 330-CFD-DD-SD-03-01644, Scene Camera Operator: R. D. Ward, Civilian, National Archives, NAID 6598395",
+            "rights": "Unrestricted",
+            "license": "public-domain",
+            "url": "https://catalog.archives.gov/id/6598395",
+            "holder": "U.S. National Archives and Records Administration"
+          }
+        }
+      },
+      {
+        "id": "honoured",
+        "kind": "honoured",
+        "label": "The Presidential Medal of Freedom",
+        "year": 2012,
+        "factId": "ALB-F-0164",
+        "claim": "In 2012 Albright received the Presidential Medal of Freedom from President Obama.",
+        "source": {
+          "id": "ALB-S-0015",
+          "title": "About the Secretary - Read My Pins: The Madeleine Albright Collection",
+          "institution": "U.S. Department of State",
+          "url": "https://readmypins.state.gov/about-the-secretary"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "legacy",
+        "kind": "legacy",
+        "label": "Her legacy",
+        "year": 2022,
+        "factId": "ALB-F-0004",
+        "claim": "Madeleine Albright died on March 23, 2022.",
+        "source": {
+          "id": "ALB-S-0001",
+          "title": "Inductee Madeleine Albright",
+          "institution": "Immigrant Hall of Honor",
+          "url": "https://immigranthallofhonor.org/inductees/inductee-madeleine-albright/"
+        },
+        "artifact": {
+          "kind": "document",
+          "media": {
+            "id": "ALB-M-0018",
+            "title": "President Barack Obama greets former Secretary of State Madeleine Albright prior to the screening of the film \"Nuclear Tipping Point\" in the Family Theater",
+            "thumb": "landing/artifacts/ALB-M-0018.webp",
+            "alt": "Photograph: President Barack Obama greets former Secretary of State Madeleine Albright prior to a screening of the film \"Nuclear Tipping Point\" in the Family Theater of the White House, April 6, 2010.",
+            "credit": "Barack Obama Presidential Library, National Archives; photographer Pete Souza; P040610PS-0846",
+            "rights": "Unrestricted",
+            "license": "public-domain",
+            "url": "https://catalog.archives.gov/id/301972196",
+            "holder": "U.S. National Archives and Records Administration"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "slug": "naismith",
+    "name": "James Naismith",
+    "ihh_url": "https://immigranthallofhonor.org/inductees/inductee-james-naismith/",
+    "portrait": null,
+    "points": [
+      {
+        "id": "birth",
+        "kind": "birth",
+        "label": "Born in Almonte",
+        "year": 1861,
+        "factId": "NAI-F-0035",
+        "claim": "James Naismith was born in Almonte, Ontario on November 6, 1861.",
+        "source": {
+          "id": "NAI-S-0012",
+          "title": "About the Exhibit · James Naismith’s Life and Legacy: Celebrating 150 Years",
+          "institution": "University of Kansas",
+          "url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/openingstatement"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "education",
+        "kind": "education",
+        "label": "The Presbyterian College, Montreal",
+        "year": 1887,
+        "factId": "NAI-F-0094",
+        "claim": "In 1887 Naismith entered the Presbyterian College in Montreal.",
+        "source": {
+          "id": "NAI-S-0017",
+          "title": "Collection: Personal Papers of James Naismith",
+          "institution": "University of Kansas",
+          "url": "https://archives.lib.ku.edu/repositories/3/resources/3237"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "first-work",
+        "kind": "first-work",
+        "label": "Inventing basketball",
+        "year": 1891,
+        "factId": "NAI-F-0100",
+        "claim": "In December 1891 Naismith invented basketball in Springfield.",
+        "source": {
+          "id": "NAI-S-0005",
+          "title": "DeBruce Center",
+          "institution": "University of Kansas",
+          "url": "https://places.ku.edu/buildings/debruce-center"
+        },
+        "artifact": {
+          "kind": "object",
+          "media": {
+            "id": "NAI-M-0003",
+            "title": "Basket ball. (1894)",
+            "thumb": "landing/artifacts/NAI-M-0003.webp",
+            "alt": "Book Basket ball. by Naismith, James, 1861-1939, and Gulick, Luther Halsey, 1865-1918, joint author. New York City, American sports publishing company, c1894. 24 p. illus. port.",
+            "credit": "Library of Congress",
+            "rights": "The books in this collection are in the public domain and are free to use and reuse.",
+            "license": "public-domain",
+            "url": "https://www.loc.gov/item/ca05024520/",
+            "holder": "Library of Congress"
+          }
+        }
+      },
+      {
+        "id": "big-work",
+        "kind": "big-work",
+        "label": "The University of Kansas",
+        "year": 1898,
+        "factId": "NAI-F-0083",
+        "claim": "In 1898, James Naismith was hired by the University of Kansas to coach basketball.",
+        "source": {
+          "id": "NAI-S-0010",
+          "title": "Basketball",
+          "institution": "Smithsonian Institution",
+          "url": "https://postalmuseum.si.edu/exhibition/playing-to-win/basketball"
+        },
+        "artifact": {
+          "kind": "object",
+          "media": {
+            "id": "NAI-M-0050",
+            "title": "The Topeka state journal (Topeka, Kansas), September 10, 1898, (THIRD EDITION)",
+            "thumb": "landing/artifacts/NAI-M-0050.webp",
+            "alt": "The Topeka state journal (Topeka, Kansas), September 10, 1898: Naismith succeeded Rev. Hector Cowan as the new director of physical culture (NAI-F-0104).",
+            "credit": "Library of Congress, Chronicling America",
+            "rights": "The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.",
+            "license": "public-domain",
+            "url": "https://www.loc.gov/resource/sn82016014/1898-09-10/ed-1/?sp=7&st=text",
+            "holder": "Library of Congress"
+          }
+        }
+      },
+      {
+        "id": "history",
+        "kind": "history",
+        "label": "The Olympics in Berlin, and Lawrence",
+        "year": 1936,
+        "factId": "NAI-F-0098",
+        "claim": "In 1936 Naismith was at the Olympics in Berlin.",
+        "source": {
+          "id": "NAI-S-0017",
+          "title": "Collection: Personal Papers of James Naismith",
+          "institution": "University of Kansas",
+          "url": "https://archives.lib.ku.edu/repositories/3/resources/3237"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      },
+      {
+        "id": "honoured",
+        "kind": "honoured",
+        "label": "Basketball Hall of Fame",
+        "year": 1959,
+        "factId": "NAI-F-0086",
+        "claim": "James Naismith was inducted into the Basketball Hall of Fame in 1959.",
+        "source": {
+          "id": "NAI-S-0017",
+          "title": "Collection: Personal Papers of James Naismith",
+          "institution": "University of Kansas",
+          "url": "https://archives.lib.ku.edu/repositories/3/resources/3237"
+        },
+        "artifact": {
+          "kind": "record",
+          "media": null
+        }
+      }
+    ]
+  }
+]

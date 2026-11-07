@@ -1,0 +1,163 @@
+{
+  "$comment": "Exhibit image files built by tools/fetch_media.py from the holder's own files. key = file name in site/public/media/ (media id, or <id>-p<page> for one page of a multi-page record); page = the holder's page/object number.",
+  "files": [
+    {
+      "key": "EIN-M-0006",
+      "media_id": "EIN-M-0006",
+      "download": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b46000/3b46000/3b46036v.jpg"
+    },
+    {
+      "key": "EIN-M-0019-p1",
+      "media_id": "EIN-M-0019",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialz/nyc/rg-021/599364/596270_001.jpg"
+    },
+    {
+      "key": "EIN-M-0019-p2",
+      "media_id": "EIN-M-0019",
+      "page": 2,
+      "download": "https://catalog.archives.gov/medialz/nyc/rg-021/599364/596270_002.jpg"
+    },
+    {
+      "key": "EIN-M-0019-p3",
+      "media_id": "EIN-M-0019",
+      "page": 3,
+      "download": "https://catalog.archives.gov/medialz/nyc/rg-021/599364/596270_003.jpg"
+    },
+    {
+      "key": "EIN-M-0019-p4",
+      "media_id": "EIN-M-0019",
+      "page": 4,
+      "download": "https://catalog.archives.gov/medialz/nyc/rg-021/599364/596270_004.jpg"
+    },
+    {
+      "key": "EIN-M-0013",
+      "media_id": "EIN-M-0013",
+      "download": "https://catalog.archives.gov/medialz/stillpix/111-c/Batch0006/80-G-0042918_001.jpg"
+    },
+    {
+      "key": "EIN-M-0014",
+      "media_id": "EIN-M-0014",
+      "download": "https://catalog.archives.gov/medialz/stillpix/111-c/Batch0006/80-G-0042919_001.jpg"
+    },
+    {
+      "key": "EIN-M-0015-p1",
+      "media_id": "EIN-M-0015",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialive/48/3052/305248/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991429-2012-001-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0034",
+      "media_id": "EIN-M-0034",
+      "download": "https://tile.loc.gov/storage-services/service/pnp/npcc/04000/04038v.jpg"
+    },
+    {
+      "key": "EIN-M-0004",
+      "media_id": "EIN-M-0004",
+      "download": "https://tile.loc.gov/storage-services/service/pnp/hec/31000/31006v.jpg"
+    },
+    {
+      "key": "EIN-M-0005",
+      "media_id": "EIN-M-0005",
+      "download": "https://tile.loc.gov/storage-services/service/pnp/hec/31000/31011v.jpg"
+    },
+    {
+      "key": "EIN-M-0036",
+      "media_id": "EIN-M-0036",
+      "download": "https://tile.loc.gov/storage-services/service/pnp/npcc/04000/04040v.jpg"
+    },
+    {
+      "key": "EIN-M-0025",
+      "media_id": "EIN-M-0025",
+      "download": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002dd690/full/2048,/0/default.jpg"
+    },
+    {
+      "key": "EIN-M-0015-p2",
+      "media_id": "EIN-M-0015",
+      "page": 2,
+      "download": "https://catalog.archives.gov/medialive/48/3052/305248/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991429-2012-002-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0015-p3",
+      "media_id": "EIN-M-0015",
+      "page": 3,
+      "download": "https://catalog.archives.gov/medialive/48/3052/305248/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991429-2012-003-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0050-p1",
+      "media_id": "EIN-M-0050",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialive/47/3052/305247/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991428-2012-001-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0050-p2",
+      "media_id": "EIN-M-0050",
+      "page": 2,
+      "download": "https://catalog.archives.gov/medialive/47/3052/305247/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991428-2012-002-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0051-p1",
+      "media_id": "EIN-M-0051",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialive/49/3052/305249/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991430-2012-001-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0052-p1",
+      "media_id": "EIN-M-0052",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialive/50/3052/305250/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991441-2012-001-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0053-p1",
+      "media_id": "EIN-M-0053",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialive/51/3052/305251/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991443-2012-001-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0054-p1",
+      "media_id": "EIN-M-0054",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialive/52/3052/305252/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991442-2012-001-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0054-p2",
+      "media_id": "EIN-M-0054",
+      "page": 2,
+      "download": "https://catalog.archives.gov/medialive/52/3052/305252/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991442-2012-002-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0055-p1",
+      "media_id": "EIN-M-0055",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialive/53/3052/305253/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991444-2012-001-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0056-p1",
+      "media_id": "EIN-M-0056",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialive/54/3052/305254/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991445-2012-001-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0056-p2",
+      "media_id": "EIN-M-0056",
+      "page": 2,
+      "download": "https://catalog.archives.gov/medialive/54/3052/305254/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991445-2012-002-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0057-p1",
+      "media_id": "EIN-M-0057",
+      "page": 1,
+      "download": "https://catalog.archives.gov/medialive/55/3052/305255/content/arcmedia/dc-metro/rg-074/ud-183b-einstein/hd1-98991446-2012-002-pr.jpg"
+    },
+    {
+      "key": "EIN-M-0059",
+      "media_id": "EIN-M-0059",
+      "download": "https://catalog.archives.gov/medialz/stillpix/111-c/Batch0006/80-G-0042917_001.jpg"
+    },
+    {
+      "key": "EIN-M-0002",
+      "media_id": "EIN-M-0002",
+      "download": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/05600/05649v.jpg"
+    }
+  ]
+}

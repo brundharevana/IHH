@@ -1,0 +1,67 @@
+{
+  "$comment": "Walkable bounds for free roam in muir-glacier-point-1903.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 30.0,
+  "walkable": {
+    "x_min": -5.5,
+    "x_max": 5.5,
+    "z_min": -5.2,
+    "z_max": 5.0
+  },
+  "obstacles": [
+    {
+      "name": "brush",
+      "x_min": -9.15,
+      "x_max": -4.05,
+      "z_min": -5.65,
+      "z_max": -0.35
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": -0.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -60.0
+      },
+      "note": "Viewpoint of the 1903 stereographs: the ledge and Yosemite Falls across the valley"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 0.2,
+      "z": -3.4,
+      "look_at": {
+        "x": -6.0,
+        "y": 1.5,
+        "z": -60.0
+      },
+      "note": "Where the figures stand in the 1903 photographs, at the ledge's highest point"
+    },
+    {
+      "name": "hotspot_3",
+      "x": -2.0,
+      "z": -2.0,
+      "look_at": {
+        "x": -20.0,
+        "y": 1.5,
+        "z": -60.0
+      },
+      "note": "By the brush at the left edge of the ledge"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 1.8,
+      "z": -1.0,
+      "look_at": {
+        "x": 14.0,
+        "y": 1.5,
+        "z": -60.0
+      },
+      "note": "Looking up the valley to the high country"
+    }
+  ]
+}

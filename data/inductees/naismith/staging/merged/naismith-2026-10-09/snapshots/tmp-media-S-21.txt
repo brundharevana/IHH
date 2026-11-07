@@ -1,0 +1,14 @@
+title: File:James Naismith 1935.jpeg
+DateTime: 2021-04-06 04:33:35
+ObjectName: James Naismith 1935
+CommonsMetadataExtension: 1.2
+Categories: James Naismith|1935 in basketball|PD US no notice|Template Unknown (author)|PD-US missing SDC copyright status
+ImageDescription: James Naismith, inventor of the sport of basketball, in 1935 during the annual meeting of the National Coaches Association.
+DateTimeOriginal: 1935
+Credit: Gunnison Valley News
+Artist: Unknown authorUnknown author
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

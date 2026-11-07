@@ -1,0 +1,1031 @@
+_version_: 1769965685117550592
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82014085/1937-10-04/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82014085/1937-10-04/ed-1/
+batch[0]: ct_grasso_ver02
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/connecticut/
+composite_location[2]: 2/united states/connecticut/new haven/
+composite_location[3]: 3/united states/connecticut/new haven/waterbury/
+contributor_names[0]: Connecticut State Library, Hartford, CT
+contributors[0].connecticut state library, hartford, ct: https://www.loc.gov/search/?fa=contributor:connecticut+state+library,+hartford,+ct&fo=json
+created_published[0]: Waterbury, Conn., October 4, 1937
+date: 1937-10-04
+date_issued: 1937-10-04
+dates[0].1937-10-04: https://www.loc.gov/search/?dates=1937-10-04/1937-10-04&fo=json
+dates_of_publication: 1917-1946
+description[0]: Waterbury, Conn.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-06-01T13:39:02.272Z
+extract_urls[0]: file:/service/ndnp//ct/batch_ct_grasso_ver02/data/sn82014085/00393346954/1937100401/1937100401_1.xml#ndnp/ct
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ct
+group[1]: connecticut-state-library-hartford-ct-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn82014085/1937-10-04/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_grasso_ver02:data:sn82014085:00393346954:1937100401:0542/full/pct:6.25/0/default.jpg#h=433&w=320
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_grasso_ver02:data:sn82014085:00393346954:1937100401:0542/full/pct:12.5/0/default.jpg#h=867&w=640
+index: 14
+item.batch[0]: ct_grasso_ver02
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Connecticut State Library, Hartford, CT
+item.created_published[0]: Waterbury, Conn., October 4, 1937
+item.date: 1917
+item.date_issued: 1937-10-04
+item.dates[0]: 1937-10-04
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn82014085
+item.location[0]: Waterbury (Conn.)
+item.location[1]: Connecticut--Waterbury
+item.medium: 22 pages
+item.newspaper_title[0]: The Waterbury Democrat.
+item.notes[0]: Daily (except Sun.)
+item.notes[1]: Vol. 36, no. 56 (Mar. 7, 1917)-v. 44, no. 301 (Dec. 28, 1946).
+item.notes[2]: "Independent Democratic."
+item.notes[3]: Description based on: Vol. 63, no. 85 (Apr. 13, 1945).
+item.notes[4]: Waterbury Republican (Waterbury, Conn. : 1896) (DLC)sn 82014095 (OCoLC)8769351
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_grasso_ver02/data/sn82014085/00393346954/1937100401/1937100401_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82014085/marcxml
+item.place_of_publication: Waterbury, Conn.
+item.raw_lccn: sn 82014085
+item.reel_numbers[0]: 00393346954
+item.source_group: ndnp/ct
+item.subjects[0]: Waterbury (Conn.)--Newspapers
+item.subjects[1]: Connecticut--Waterbury
+item.subjects[2]: United States--Connecticut--New Haven--Waterbury
+item.title: The Waterbury Democrat (Waterbury, Conn.), October 4, 1937
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn82014085
+location[0]: connecticut
+location[1]: waterbury
+location[2]: united states
+location[3]: new haven
+location_city[0]: waterbury
+location_country[0]: united states
+location_county[0]: new haven
+location_state[0]: connecticut
+locations[0].connecticut: https://www.loc.gov/search/?fa=location:connecticut&fo=json
+locations[1].new haven: https://www.loc.gov/search/?fa=location:new+haven&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[3].waterbury: https://www.loc.gov/search/?fa=location:waterbury&fo=json
+locations_city[0].waterbury: https://www.loc.gov/search/?fa=location_city:waterbury&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].new haven: https://www.loc.gov/search/?fa=location_county:new+haven&fo=json
+locations_state[0].connecticut: https://www.loc.gov/search/?fa=location_state:connecticut&fo=json
+medium: 22 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Waterbury Democrat.
+notes[0]: Daily (except Sun.)
+notes[1]: Vol. 36, no. 56 (Mar. 7, 1917)-v. 44, no. 301 (Dec. 28, 1946).
+notes[2]: "Independent Democratic."
+notes[3]: Description based on: Vol. 63, no. 85 (Apr. 13, 1945).
+notes[4]: Waterbury Republican (Waterbury, Conn. : 1896) (DLC)sn 82014095 (OCoLC)8769351
+number[0]: 1
+number[1]: sn82014085
+number[2]: 00393346954
+number_edition[0]: 1
+number_lccn[0]: sn82014085
+number_reel[0]: 00393346954
+numeric_shelf_id: 193710041
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_grasso_ver02/data/sn82014085/00393346954/1937100401/1937100401_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82014085/marcxml
+partof[0].count: 4932
+partof[0].title: the waterbury democrat (waterbury, conn.) 1917-1946
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+waterbury+democrat+%28waterbury,+conn.%29+1917-1946&fo=json
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the waterbury democrat (waterbury, conn.) 1917-1946
+place_of_publication: Waterbury, Conn.
+publication_frequency[0]: daily
+raw_lccn: sn 82014085
+reel_numbers[0]: 00393346954
+resources[0].files: 22
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_grasso_ver02:data:sn82014085:00393346954:1937100401:0542/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82014085/1937-10-04/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.850525
+shard: 07
+shelf_id: sn82014085, 1937-10-04, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ct
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: newspapers
+subject[1]: waterbury
+subject[2]: waterbury (conn.)
+subject[3]: new haven
+subject[4]: connecticut
+subject[5]: united states
+subject_headings[0]: Waterbury (Conn.)--Newspapers
+subject_headings[1]: Connecticut--Waterbury
+subject_headings[2]: United States--Connecticut--New Haven--Waterbury
+subjects[0].connecticut: https://www.loc.gov/search/?fa=subject:connecticut&fo=json
+subjects[1].new haven: https://www.loc.gov/search/?fa=subject:new+haven&fo=json
+subjects[2].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[3].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[4].waterbury: https://www.loc.gov/search/?fa=subject:waterbury&fo=json
+subjects[5].waterbury (conn.): https://www.loc.gov/search/?fa=subject:waterbury+%28conn.%29&fo=json
+timestamp: 2023-06-28T16:46:27.174Z
+title: The Waterbury Democrat (Waterbury, Conn.), October 4, 1937
+type[0]: issue
+url: https://www.loc.gov/item/sn82014085/1937-10-04/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_grasso_ver02/data/sn82014085/00393346954/1937100401/0555.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82014085/1937-10-04/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_grasso_ver02:data:sn82014085:00393346954:1937100401:0542/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ct/batch_ct_grasso_ver02/data/sn82014085/00393346954/1937100401/0555.pdf
+resources[0].segment_count: 22
+resources[0].url: https://www.loc.gov/resource/sn82014085/1937-10-04/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1937, October 4) The Waterbury Democrat. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82014085/1937-10-04/ed-1/.
+cite_this.chicago: The Waterbury Democrat. (Waterbury, CT), Oct. 4 1937. https://www.loc.gov/item/sn82014085/1937-10-04/ed-1/.
+cite_this.mla: The Waterbury Democrat. (Waterbury, CT) 4 Oct. 1937, p. 14. Retrieved from the Library of Congress, www.loc.gov/item/sn82014085/1937-10-04/ed-1/.
+
+segment_id: /service/ndnp/ct/batch_ct_grasso_ver02/data/sn82014085/00393346954/1937100401/0555.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_grasso_ver02/data/sn82014085/00393346954/1937100401/0555.xml&format=alto_xml&full_text=1
+full_text:
+1 Household Hints WOMAN’S REALM Latest Styles
+Caroline
+Chatfield
+Says Today
+f
+A Young Pair Who Regard Marriage So Lightly That
+They Are Ready to Flip a Coin to Decide For or
+Against, Haven’t a Ghost of a Chance to Make
+a Satisfactory Partnership.
+SCAB MISS CHATFIELD:
+A girl who has meant much to me in days gone by, married my
+rival. The marriage didn't take and now she wants to leave him and
+marry me. She came to my office and asked me to meet her that
+evening at a restaurant for a talk, which I did, and she spilled the
+beans. Said her husband didn’t love her and that no sooner was she
+married than she realized she had chosen the wrong one. I told her
+the truth that my love was as cold as winter molasses and that I
+didn’t believe we could ever make a success of marriage when I felt
+this way. Please slide in the answer to this question as we are anx
+iously waiting: Whe na boy loses his taste for a girl who turned him
+down and took another, could he marry her for old times sake and
+expect to make a success of it? “US.”
+ANSWER:
+There would be about as much chance of success in such a mar
+riage as there would be of a pair's surviving a leap from an airplane
+Without the aid of parachutes. Have a look at the odds against success;
+the girl emotionally unstable, making decisions without knowing her
+own mind, yet unwilling to stand by them if the results are distaste
+ful. The girl deceiving her husband and trying with an old beau to
+chisel and cheat and divorce her lawful mate.
+The old beau cold to her entreaties, confessing that he's finished,
+disinterested, disinclined to be drawn Into a loveless marriage, yet
+casual about the whole business, so casual that he would almost be
+willing to flip a coin to decide the most momentous matter in life—
+marriage. And with no thought for the moralities involved.
+It doesn't take a fortune teller to foresee the end of this sort of a
+match. A charitable observer might give such a couple a year to re
+main married but I think that’s eleven months too long.
+CAROLINE CHATFIELD.
+DEAR MISS CHATFIELD:
+Have I a right to a grudge? My fiancee's sister was married and my
+fiancee was maid of honor. I was not in the wedding party. A few
+night* before the wedding my fiancee entertained the wedding party
+at her home and I assumed I would be bidden. I was not; although
+I was on most friendly terms with bride and groom. Y. S.
+ANSWER:
+If anybody ever had a right to a grudge I should say you have it:
+but what good will it do you to hold hte grudge? Eeither your girl
+took this opportunity to push you permanently out of the picture or
+•he was so taken up with her own selfish pleasure in the family
+party that she forgot about you. In any rase, she stood you up and
+•bowed you very plainly that she was not the person you took her
+to be. Give her a chance to explain and if the explanation isn't sat
+isfactory to the extent of healing your wounded feelings, you enjoy
+that glorious prerogative of a ipan to get another girl and forget the
+•ne that stood you up. CAROLINE CHATFIELD.
+DEAR MISS CHATFIELD:
+I am a pianist and among my patrons is a young girl of sixteen
+who plays the violin. She is lovely to look at, and fun to be with. I am
+quite a few years older and for this reason I haven’t tried to go with
+her to any extent. Boys as well as maidens make prayers and I am
+•lire she is the answer to mine. Her parents have been rather strict
+with her and I hesitate to step up and ask for dates. I thought maybe
+you could tell me if it would be all right, D.
+ANSWER:
+Why not tell her of your fears and ask her to consult her parents.
+They won't be slow about speaking their minds and when they hear
+that you have been considerate of them in the matter they will no
+doubt give you the right of way. This keen sense of obligation which
+you have yhown toward her because of her extreme youth is a feather
+m your cap which any father and mother will honor.
+CAROLINE CHATFIELD.
+Problems of denrrnl imprest submitted will lie discussed In
+Iblo column. I.rllrrs unsiillnlile for pulillcntlon will he answered
+personnlly provided they conlnln slumped, srlf-nilrirrsscd envelope.
+All nnntes are held In confidence. Write Miss Chiitlllefl, In enrs of
+(bln paper. _• _
+T. M. nee. U. S. Pat Off.
+Early Treatment For Breast Cancer
+Adds Many Years To Life Expectancy
+Jhm&aWiaL
+IWaidles.s Entertaining Needs
+Planning Ahead
+No trick at all to prepare and
+serve—this three-course maidless
+luncheon for six.
+And how pretty the table looks!
+Shrimp patty, green peas, and col
+orful tomato aspic salad on each
+guest’s plate combine with rust
+tinted linen doilies, golden chry
+santhemums in a glowing autumn
+color scheme.
+First course was clear mushroom
+soup. Dessert will be Ice cream
+molds, served at table from a large
+platter, and coffee.
+The hostess kept china and sil
+verware at a minimum by serving
+main-course plates In kitchen before
+Bringing to table. To avoid un
+running back and forth,
+had china for each course ar
+ahead of time on a series
+of trays.
+.Because she planned food that
+ttould wait unattended In oven or
+refrigerator, the last guest to ar
+rive found this maidless hostess un
+flurrled and hospitably gay.
+Our 32-page booklet is full of
+clever practical pointers on lunch
+eons, dinners, bridge parties, show
+ers, the five o'clock hour. Table
+ttgeoratlons, menus.
+1 10c for your copy of HOS
+OUIDE TO SUCCESSFUL
+TAINING to the Waterbury
+A Home Service. 635 Sixth
+New York, N. Y. Be sure to
+plainly your NAME, AD*
+SS, and the NAME of book
+This is the 13th In a series of
+articles In which. Dr. Morris Flsh
+bein discusses cancer, Its causes
+and methods for prevention and
+treatment.
+(No. 334)
+By DR. MORRIS FISHBEIN
+Editor, Journal of the American
+Medical Association, and of
+Hygia, the Health Magazine.
+Any woman who has been trou
+bled with cancer or tumor of the
+breast should know that modern
+medicine, given a chance, provides
+ways of extending life.
+The average length of life after
+discovery of cancer of the bfreast is
+38 months, but scientific medicine
+has advanced so far that any
+woman who Is treated early with
+this condition has a good chance
+of living for 10 years or more.
+In 1878, a famous German sur
+geon found that 23 per cent of the
+women on whom he operated with
+cancer of the breast died and that
+less than 5 per cent lived for more
+than three years after the opera
+tion. Today as many as 70 per afcnt
+of women in whom the dlaghosirf is
+made early will be found alive and
+well 10 years after treatment is
+begun.
+Probably the best figures are those
+developed by the Medical Research
+Council of Great Britain. It was
+found that a woman with cancer of
+the breast who Is not treated at all
+may expect to live 17.2 per cent of
+the normal duration of her life.
+A woman operated on under or
+dinary conditions may expect to
+live 30.4 per cent of her normal
+duration.
+However, a person operated on
+under the most favorable condi
+tions, when the tumor Is seen early,
+may expect to live 68.5 per cent of
+the normal duration.
+In one hospital, 90.1 per cent of
+women operated on while the
+growth was still confined to the
+breast were alive 10 years after op
+eration. But 91.3 per cent of those
+operated on after the glands under
+the arm were Involved by the can
+cer were dead within 10 years.
+A woman In England 55 years
+old normally expects to live 18.87
+years longer. If she develops a can
+cer of the breast and Is not treated
+promptly, she may reasonably ex
+pect to live 3.25 years. If, hoY/ever,
+the cancer is diagnosed early and
+she Is given adequate treatment, she
+m*v expect to live 12.93 veers
+i Vn 1/ I aVill
+WE, the WOMEN
+By RUTH MILLETT
+We’reTooEagertoPlease
+The Men of Our Dreams
+Women can try too hard to please men. A man says
+“That blue is the color of your eyes.” Prom then on the
+woman who adores him wears blue until the man wonders
+why her clothes are so uninteresting. Or perhaps he says,
+“That perfume smells nice,” so she buys bottle after bottle
+of it
+He likes to play golf. Whereupon she tfdces up golf,
+even though she secretly hates the thought of hitting an
+Ruth Mlllctl
+undependable little ball.
+He says “Gosh, she’s a knock-out I” after
+watching Myrna Loy on the screen—and for
+the next week she tilts her head to one side
+whenever she makes a whimsical remark.
+He criticizes her and she tries to defend
+herself or else takes refuge in tears.
+All that is true of one type /of woman.
+Whether she is fifteen or forty, she is wil
+ling to throw her own likes and dislikes, her
+I own beliefs and ideals overboard in order to
+become the kind of person she thinks the
+man she loves wants her to be.
+And what of the man in the meantime He
+is in love, too. In the .beginning, at least.
+Does he wear yellow neckties because she
+likes yellow? Does he smoke a certain brand of tobacco be
+cause she thinks it smells nice? Does he take up golf be
+cause she spends her afternoons trying to cut down her
+score? Has he ever changed the part in his hair in the
+hope of looking a little like Robert Taylor, who she thinks
+is wonderful? When she criticizes, does he try to justify
+himself, or does he go out and slam the door behind him?
+It must be a pretty disappointing experience for a man
+to fall in Iqvg with a girl because she seems different from
+anyone else in the world only to find that she is, after all,
+willing and eager to become any kind of person she imag
+ines he wants her to be.
+It must be rather disappointing to be that girl and as
+"She is willing to throw overboard her own likes to become the kind
+of person she thinks the man the loves wants her to be.”
+the years go by find yourself a shadow of a stronger, more
+unchangeable person. A shadow that even in your own eyes
+seems dull and uninteresting beside the women who have
+stayed themselves—in spite of love and passing years
+Democrat
+Fashions
+PATTSRN
+456
+WIN A NAME FOR CHIC
+IN TAILORED FROCK!
+Claire Tilden
+PATTERN 456
+Here's a trimly tailored frock
+that Claire Tilden knows Is slated
+for success in school, office, or for
+day-ln-day-out wear! Just one
+glance at lti crisp, vertical lines
+will reveal to you the chic of Its
+jaunty panel, choice of sleeves,
+youthful collar, and well-placed
+tucks. Every would-be seamstress
+with little or no sewing experience
+will find this well-fitting pattern a
+joy to make-*-thanks to the simple
+Instructions of Its accompanying
+Detailed Sewing Guide. You've
+wide choice of fabrics, too. and In
+expensive wool crepe, a spun syn
+thetic. challls, or tie silk would be
+Just right 1
+Pattern 456 is cut In misses’ and
+women’s sizes 14, 16, 18, 20, 32, 34,
+36, 38, 40 and 42. Size 16 requires
+3 3-4 yards 39 Inch fabric.
+Send FIFTEEN CENTS (15c) In
+coins or stamps (preferably coins
+for this pattern. WRITE CLEAR
+LY SIZE. NAME. ADDRESS AND
+STYLE NUMBER.
+Send orders to the Waterbury
+Democrat, Pattern Department, 70
+Fifth Avenue, New York, N. Y.
+STYLE CHATS
+By DOROTHY CAKEW
+(United Press Staff Correspondent)
+Paris (UP)—Your choice of but
+tons may be an Index to your per
+sonality during the coming winter—
+for they have ceased to be utilitar
+ian fasteners following conventional
+designs and may be simple or elab
+orate, humorous or symbolic, ac
+cording to the whim of the individ
+ual.
+Simple, dark bone buttons
+that another season would be
+tucked away out of sight, parade
+up the backs of simple sports
+dresses. Large wooden buttons
+are made Into flowers and ani
+mals for the blouses of soft
+woolens.
+Schiaparelli features wooden but
+tons in the form of flowers. Violins
+are another of her button types that
+serve as the only trim for severely
+cut frocks.
+There are fur buttons for
+double-breasted coats and suits, and
+Jenny uses large gold buttons on a
+black Afternoon dress and trims the
+'.1''
+-HEALTH
+How To Keep Well
+By DR. WILLIAM BRADY, M.D.
+(Signed letter, pertaining to per.nnnl health and hyglenei not to
+dl.en.e, diagnosis or treatnioat, will lie an.wered by Ur. Brady It a
+■tamped aelt-nddre.aed envelope I. encloaed. I.ettera ahonld be brief
+and written In Ink. Owing to the large another of lettera received
+only a few can be an.wered In thl. column. No reply can be made to
+queries nut conforming to Instructions. Address Dr. William Brady.
+National Newspnper Service, 320 West Madison Street, Chicago, 111.,
+or care of Waterbary Democrat.)
+THE AFFAIR OF THE BLUE
+ANDALUSIANS
+Last week we endeavored to ex
+plain that there was no scandal In
+volved in the situation we discov
+ered when we called to see how the
+Andalusian romance was progress
+ing. You will remember we intro
+duced a black Andalusian cock to
+a white Andalusian hen and left
+them alone together for a season.
+Then one day it occurred to us to
+drop in and see how they were get
+ting along ,and by jingle we found
+as astonishing situation, as indi
+cated m this diagram:
+CUT— OUT—
+Immediately we betrayed our ig
+norance—or at any rate I did,
+whether you knew better or not—
+by glancing around for an unob
+trusive grayish or spotted black
+and white stranger, but drew blank,
+as the best English mystery story
+writers say. So we passed the buck
+to the reader. The problem we
+submitted to the reader—presum
+ing the reader is not an expert—
+was this: What will be the color of
+the offspring if a pair of these
+"blue” Andalusians elect to carry
+on the family line?
+As I have said before, I can’t
+carry in my head relationships be
+yond first cousins, my own first
+cousins at that. Possibly there are
+other Individuals similarly handi
+capped. For their benefit perhaps
+we ought to provide the guinea-pig
+example as an aid In determlng
+what the second generation of An
+dalusians will be. It seems that if
+a pure black guinea-pig and a pure
+white guinea-pig are blessed with a
+a fine litter of little'pigs, the little
+ones are not gray or blue or spot
+ted, but all pure black, or at least
+they are all black. Well, sir, a pig
+Is not necessarily so black as he Is
+printed, for, according to Mendel,
+when a pair of these all black pigs
+In turn have young, the young are
+not all black and not mottled or
+spotted, but three-fourths of the
+young are black and one-fourth
+white, as a rule.
+t/uguate umi iui a wane ana
+then try your skill at deduction.
+What color will the second genera
+tion of Andaluslons be and why?
+Remember, a pair of the first gen
+eration, blue (really grayish In
+color) hybrids mate, and we’ll say
+they produce a brood of four chicks.
+Quick, now Watson, what color arc
+the chicks?
+We’ll give the answer In the next
+article on heredity. Here It Is fair
+to say that a “blue” Andalusian Is
+really gray, or half and half, thanks
+to the black contributed by one
+parent and the white contributed by
+the other parent. That's all you
+need to know. One must under
+stand these simple problems of
+short division and rapid multiplica
+tion, so to speak, before one tackles
+the integral calculus of heredity.
+QUESTIONS AND ANSWERS
+Angina Pectoris
+Two doctors told me my "Indiges
+tion" pains really mean angina pec
+toris. On learning this I began tak
+ing nitroglycerin and found relief
+neckline of a white evening gown
+with small circles of the metal.
+Chanel trims a black velvet
+strapless evening gown with a
+flower design In shell-Uke but
+tons from the corsage to below the
+waist decorate a black wool daytime
+frock of Bruyere.
+Double-breasted Jackets fasten
+with large wooden buttons at
+many fashion houses and others
+show jackets buttoned to high,
+round necklines. Loulseboulanger
+uses buttons on the side-seams of
+a straight black wool dress with
+square collar and yoke edged in
+white.
+Buttons are featured as trim on
+a gold wool dress worn with a gray
+ish beige double-breasted coat trim
+med In lynx at Jenny’s. Maln
+bocher uses large gold and black
+ones on the front of a black broad
+cloth coat. Lanvin buttons back the
+revers of a dark green suit trim
+med in lighter green with big gold
+buttons and repeats the trim on the
+orange blouse of the suit.
+Just as you described. Thank you.
+(W. K.)
+Answer—Perfectly harmless, at
+any rate, for any one subject to
+angina pectoris, to carry a small
+vial of nitroglycerin tablets and
+take one tablet whenever an at
+tack threatens or take one tablet
+three of four times a day. Each
+tablet contains 1 200th grain.
+White Bread
+Your statement that bread con
+tains practically no vitamins while
+potato contains vitamins B, C and
+O brands you as ignorant. A per
+son can live a year on nothing but
+bread and water, but could anyone
+live a month on potato and water?
+(B. J. o.)
+Answer—Yes, I believe one re
+stricted to potato and water could
+get along better than one restricted
+to white bread and water. Of course,
+bread is three times as nourishing,
+in calories, as potato.
+Multiple Sclerosis
+Can you please say if multlpl#
+sclerosis can be cured? (M. E. L.)
+Answer—I know of no cure. Prof.
+Edward Mellanby has observed
+benefit from and advocates as part
+of the treatment a high vitamin A
+diet—which includes not less than a
+quart of milk, two eggs, liberal use
+of oheese, plenty of green leafy
+vegetable, carrots, etc., and two tea
+spoonfuls of a good standard cod
+liver oil dally.
+(Copyright 1937, John F. Dllle Co.)
+TODAY’S FA8HION TIP
+Leather belts and matching but
+totns are shown on woolen sports
+frocks for winter.
+MAKE IT YOURSELF NEEDLE
+WORK PATTERN
+HOLDER TRIO
+C 6640
+Usually It Is six of one and half
+a dozen of the other about which
+we hear—but the answer Is the
+same In the end—SIX. So by a
+little different combination—three
+of one and three of the other, we
+give you transfer patterns for six
+pan holders. One design Is a waste
+basket, made In sections, and the
+other Is a sunburst of rainbow col
+ors to be appllqued to muslin. OBS48
+Is a NTJMO hot Iron transfer which
+may be used a number of times.
+To order, gsk for No. 08846, or
+tear out Illustration and send with
+10 cents stamps or coin. (Any three
+10 cent “Make It Yourself’’ patterns
+only 25 cents.) Address your
+orders to WATERBURY DEMO
+CRAT MAKE IT YOURSELF PAT
+TERN BUREAU, BOX 186, KAN
+SAS CITY, MO. Be sure to give
+name and complete address.
+MAKE IT ruURSELP
+PATTERN BUREAU
+BOX 160. Kansas city. Mo.
+Enclosed Is cents (coin
+or stamps) for
+Pattern No.
+Name
+Address
+Olty
+at Oil*
+newspaper
+-BEAUT*-——————
+Glorifying
+Yourself
+By Alicia Hart
+According to modem experts who
+compile skin tone and complexion
+charts of varloft sorts, one shade
+of powder Is not enough for any
+woman. She may bet by with two,
+but, to bring out the best In her
+skin and clothes during the season,
+four are necessary.
+At first thought, this Idea may
+seem a bit extravagant. However,
+It really Is pretty practical—accord*
+lng to the new theories, four cor
+rectly selected powder shades will
+see you through a year and what
+ever Is left of each can be used the
+following year. In the long run, It
+makes no difference in your budget
+powder and use them for two years
+or two boxes which laBt only one.
+But having several shades to wear
+at different times makes much dif
+ference In your appearance.
+There are, of course, two com
+plexion groups—creamy (with yel
+low undertones) andplnklsh (with
+rosy undertones). The creamy skin
+ned woman will need a summer
+suntan powder and a creamy one
+which matches exactly her natural
+skin tones. The latter she will wear
+when her frock Is a neutral color
+that does not cast any particular
+shade over her face. Dress colon
+do not change skin tones, but they
+often seem to.
+Therefore, even though her skin
+be creamy, she will need a powder
+with rosy lights In it to apply when
+she wears a rfock which casts a
+yellowish glow. The powder coun
+teracts the sallow effect created by
+the dress. Conversely, bright colors
+and glistening fabrics brighten the
+face even before makeup Is applied.
+In this case, to achieve a natural
+look, one would use duller powder.
+If your powder wardrobe Isn’t
+complete, by all means year your
+newest dress when you shop for
+another shade. Never buy face pow
+der until you have tried It. To aid
+slightly bewildered customers, one
+line cosmetics manufacturer (fa
+mous for perfumes as well as for
+powders) puts out clever little cel
+larettes with nine shaker bottles
+In each. You’ll find one of these on
+the beauty preparation counter of
+your favorite store where you can
+test and test to your heart’s con
+tent.
+Just as Important as the correct
+shade Is the right type of powder
+for your particular skin. When you
+have found the right one your
+shiny-nose problems are over,
+Generally speaking, dry-skinned
+Individuals need powder with night
+covering power; normal ones re
+quire a medium-weight variety;
+oily complexions require heavier
+types with great covering power.
+Remember, too, that the perfectly
+powdered woman 1s one who does
+noe look powdered at all. Using
+powder to whiten the skin and call
+attention to It was a fashionable
+custom In the days of the ancient
+Babylonians and the Romans, but
+modern Ideas of beauty have come
+a long way since then. Always press
+powder or firmly, let it set a mo
+ment or two, then be sure to whisk
+off the excess with a soft baby
+brush or the reverse side of the
+cotton pad.
+NEXT: Bright and sparkling.
+MIND Your
+MANNERS
+Test your knowledge of correct
+social usage by answering the fol
+lowing questions, then checking
+against the authoritative answers
+below:
+1. Should a man raise his hat
+to a woman when he offers a seat in
+a public car?
+3. When a man and woman are
+entering a street car or bus, which
+one goes first?
+3. May a woman be the first to
+suggest that a man call on her?
+4. After a man has been intro
+duced to a woman with whom he
+thinks he would be aoceptable com
+pany, may he be the first to suggest
+that he call?
+3. Should a man smoke a pipe
+on a formal occasion?
+What would you do if—
+tfou are a woman and you drop
+Your
+Children
+By OH™ Retorts Barton
+A well-known criminologist asks,
+“Where Is the discipline of yester
+day? Why is crime Increasing lh
+the younger ranks? What are par
+ents thinking about when they al
+low their children to go places and
+do things they have no idea of?”
+He Is right. Where has the free
+dom demanded by the sympathizers
+of youth led us? Look at the fig
+ures. Seventy per cent of all crime
+Is committed by boys (and girls)
+under age.
+Taking Into consideration that
+outside forces are at work which
+never entered the picture before,
+there is still this to say. Discipline
+at home has become more lax, es
+pecially where adolescents are con
+cerned. The steady pull has been
+away from home.
+Parents have had a double battle
+to fight, It is true, but Instead of
+valiantly making a fight against the
+obscure recreations of their children,
+have supinely allowed their author
+ity to be undermined by advisors
+who insist that youth needs greater
+freedom and more air; that it
+should be allowed the benefit at all
+times; and that self dependence is
+always greater than imposed au
+thority.
+All this is true as far as it goes.
+Youth does need much freedom and
+Independence to work out ideas and
+Ideals. The younger child, should be
+part of each growing year. Indi
+vidualism is Important. Self suffi
+ciency is important. The growing
+child should be strengthened to
+the proper kind of self dependence.
+But again, parents have too fre
+quently misunderstood the signs,
+and have been led to think they
+must relinquish all authority. I ad
+mire the mother and father who in
+sist on knowing who their chil
+dren's friends are, where they are
+spending their time; and who make
+a point of supervision until an age
+of surer Judgment is reached.
+Parents, do not allow yourselves
+to be hoodwinked by those mis
+guided ones who urge free living.
+Know what your boy or girl is do
+ling and thinking. Do not be con
+tent to let others use your own off
+sprlgn. They are yours and you are
+responsible for them. Be a friend,
+but be a mentor, too. Social forces
+are against you, but you can defeat
+ay joining arms with other
+parents, and taking a stand. Crime
+Is not always the product of un
+derprlvllege. Too often the contrary.
+There are many ways of making
+youth happy and contented with
+life, without their getting mixed up
+with people you don’t know, and go
+ing places you know nothing of.
+It Is time for a crusade against
+had Influence. Your children will
+think you. They need prtoectlon
+both against crime and FROM It.
+(Copyright 1937, NBA Service, Inc.)
+Modern
+Menus
+BIT MRS. OAYNOR MADDOX
+EA Service Staff Writer
+The leaves are falling, but not
+the appetite. October makes the
+family hungry, so look about for
+new dishes to supply the dejnand.
+The following are “little sturdies”
+which though simple enough, do fill
+the need for food with a bit more
+punch to it.
+Vegetable Meat Cakes
+(4 to 6 servings)
+Three-quarter pound ground beef,
+2 potatoes, 2 carrots, 1 tablespoon
+chopped parsley, 1 small onion, X
+teaspoon catsup, 1 teaspoon salt, 1-8
+teaspoon pepper.
+Chop carrots, potato and onion
+very fine—all raw. Combine with
+meat and parsley, add seasoning
+and catsup and mix thoroughly.
+Form into small cakes. Grease an
+iron frying pan and heat. Brown
+cakes in pan, turning frequently to
+prevent burning. Reduce heat, add
+about 1 tablespoon water to pan,
+cover and simmer cakes for 20
+minutes. Youngsters will like this
+method of getting part of their
+dally requirement of vegetables.
+Broiled mackerel for breakfast
+a glove while you sit talking to a
+man? He does not immediately
+pick it up
+fa) Reach for it yourself?
+(b) Wait until you are ready
+to leave and quietly pick it
+up?
+(c) When you are ready to leave
+say, “I must have dropped a
+glove
+Answers
+X. Yes.
+3. Woman, but man alights first.
+3. Yes.
+4. Yes.
+6. No.
+Best "What Would You Do” solu
+tion (c) will give him the hint,
+otherwise (b).
+In Ecstasy?
+
+—With Hollywood
+Ahead of Her
+America's first introduction >to
+Austrian Hedy Kiesler through the
+film, "Ecstasy,” was marred by cen
+sors who thought her lack of clot^eifi
+and celluoid love scenes a touch toa
+torrid. Now Miss Kiesler is here in
+person (above as New York saw her)
+and nary a censor in sight. “Ec
+stasy” also disrupted her marriage tty
+Fritz Mandel, munitions maker.
+i"ii
+is an ancient and honorable Ameri
+can custom. Better try it soma cdRl
+morning and you will understand
+why it belongs among the better
+things American. Use either fresh or
+salt mackerel. Salt mackerel should
+be soaked overnight in cold water
+to remove excess salt. To broil, first
+brush with melted butter, then
+splnkle with salt and pepper. Salt
+mackerel will probably not require
+extra salt. Place skin side down on
+oven-proof platter under low oven
+flame and broil for from 12 to 15
+minutes, basting with melted butter.
+This always calls for creamed po
+tatoes and corn bread.
+Waffles, of course, but hbtt
+about trying them made of com
+rriAftl? *'r
+Cornmeal Waffles
+(4 sets of waffles)
+One cup sifted flour, 2 teaspoons
+baking powder, cup yellow corn
+meal, a teaspoon salt, 2 teaspoons
+salt, 1 cup milk, 2 eggs, 1-3 cup
+melted butter.
+Mix flour, baking powder, corn*
+meal, salt and sugar. Beat egg
+yolks Into milk, and add melted
+butter. Stir this liquid mixture Into
+dry Ingredients. Mix Just a little,
+only enough to blend. Beat egg
+whites stiff, then fold Into mixture.
+To bake, place 1 teapsoon of batter
+In each waffle compartment which
+has been preheated to right degree
+of temperature. Cover and cook un
+til brown on both sides. Serve with
+softened butter and maple syrup.
+Tomorrow’s Menu
+BREAKFAST: Grape and-.i
+grapefruit Juice, cornmeal-:
+waffles, maple syrup, coffee,
+milk. ■:r.
+LUNCHEON: Vegetable meat
+cakes, buttered rye bread, cab-
+bage and apple salad, chocolate
+cake, tea, coffee.
+DINNER: Apple Juice, larded...
+beef liver, mashed potatoes,-
+scalloped broccoli, stuffed cel
+ery, cherry gelatin, custard
+sauce, coffee, milk.
+The Democrat’s Service Bulletins
+FALL GARDENING
+Now U the time for iO rood gardeners to do the man; things
+in fall gardens that mean beaut; and satisfaction in gardens next
+;ear, or that will produce beautiful house plants during the winter.
+Our service bureau at Washington has read; for ;ou a packet
+of six of Its authoritative gardening Booklets, each treating of a
+special phase of gardening, that ;ou will want.
+The titles are;
+1. The Bulb Book
+2. House Plants
+3. Lawns, Their Making and Upkeep
+t Flower Gardens
+5. Perennial Flowering Plants
+t. Lil; Pools, Book Gardens, Hedges
+Send the coupon below, with fift; cents enolosed, for your
+packet containing these six booklets:
+_ __CLIP COUPON HERE:
+^Frederick M. Kerb;, Dept SG-2, The Waterbuiy Democrat's")
+Service Bureau,
+IMS Thirteenth Street, Washington, D. C.
+I 1 want the "Fall Gardening” packet of six booklets, and enclose I
+lift; cents In coin (careful!; wrapped), or money order or oheck. 1
+Send m; packet to:—
+^fAMK ...a..,,
+i/
+
+I,
+STREET AND NO.
+I
+■■VPVi
+I CITY. STATE... I
+I sm a reader of The Waterbur; Domcorat (A-T)
+i"~ in

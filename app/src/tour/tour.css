@@ -1,0 +1,608 @@
+/* Tour UI. Values come from app/src/design/tokens.css (Tapestry measurements). */
+
+.tour-stage {
+  position: fixed;
+  inset: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-ui);
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+.tour-stage canvas { touch-action: none; }
+/* the canvas, its vignette and its labels; in a photo room with a band (place.hudBand) it starts below the band
+   (ChapterPlayer sets its top) */
+.stage-frame { position: absolute; inset: 0; }
+/* the band behind the top HUD (place.hudBand): the page's own dark */
+.hud-band { position: absolute; top: 0; left: 0; right: 0; background: var(--bg); pointer-events: none; }
+/* hidden copies of the controls hint and Step back, in their own places: the band's height includes their slots */
+.tour-hud .hud-band-probe { position: absolute; inset: 0; visibility: hidden; pointer-events: none; }
+.band-probe-back { line-height: normal; }
+/* holds the canvas's place (and its accessible name) while the three.js chunk loads */
+.tour-canvas-loading { position: absolute; inset: 0; }
+/* the stage is the page's main landmark; it takes focus (tabindex -1) only as the last place a closed
+   viewer can return focus to, so it draws no ring of its own around the whole screen */
+.tour-stage:focus { outline: none; }
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
+.eyebrow {
+  font-size: 11px; font-weight: 500; letter-spacing: .15em; text-transform: uppercase;
+  color: var(--subtitle);
+}
+
+/* ---------- glass recipes ---------- */
+.glass-panel {
+  background: var(--glass-panel-bg);
+  -webkit-backdrop-filter: var(--glass-panel-filter);
+  backdrop-filter: var(--glass-panel-filter);
+  border: 1px solid var(--hairline);
+  border-radius: var(--r-panel);
+}
+.glass-pill, .btn-glass, .btn-round, .hotspot, .btn-next {
+  background: var(--glass-pill-bg);
+  -webkit-backdrop-filter: var(--glass-pill-filter);
+  backdrop-filter: var(--glass-pill-filter);
+  border: 1px solid var(--hairline);
+  box-shadow: var(--glass-glow), var(--glass-edge);
+}
+/* Over the room's canvas the glass alone is too thin: on a bright room (the Oval Office, the East Room)
+   cream text on the light pill measured 1.3-3.7:1 (e2e/hud-contrast.mjs). A dark scrim under the glass
+   keeps HUD text at 4.5:1 or more over any room; the eyebrow, which is a muted colour elsewhere, is
+   lifted on the HUD for the same reason. */
+.tour-stage :is(.glass-pill, .btn-glass, .btn-round, .hotspot, .btn-next) { background: var(--glass-pill-bg), var(--hud-scrim); }
+.tour-stage .btn-next-eyebrow, .tour-stage .speech-src { color: var(--hud-muted); }
+.tour-stage .stop-dot:not(.is-on), .tour-stage .speech-bubble { background-color: var(--hud-scrim); }
+
+button { font-family: var(--font-ui); cursor: pointer; }
+button:focus-visible, .tour-stage a:focus-visible {
+  outline: 2px solid var(--accent-soft);
+  outline-offset: 3px;
+  box-shadow: var(--accent-glow);
+}
+
+.btn-glass {
+  color: var(--ui-text);
+  border-radius: var(--r-pill);
+  padding: 9px 18px;
+  font-size: 12px; font-weight: 500; letter-spacing: .02em;
+  transition: transform .3s var(--ease-out), border-color .3s ease, box-shadow .3s ease;
+}
+.btn-glass:hover { transform: translateY(-1px); border-color: var(--hairline-strong); box-shadow: var(--accent-glow), var(--glass-edge); }
+
+.btn-cream {
+  display: inline-flex; align-items: center; gap: 10px;
+  background: var(--ui-text);
+  color: var(--on-cream);
+  border: 0;
+  border-radius: var(--r-pill);
+  padding: 11px 22px;
+  font-size: 11px; font-weight: 500; letter-spacing: .7px; text-transform: uppercase;
+  box-shadow: 0 4px 16px rgba(255, 155, 45, .25);
+  transition: transform .2s, box-shadow .2s;
+}
+.btn-cream:hover { transform: translateY(-1px); box-shadow: 0 6px 24px rgba(255, 155, 45, .45); }
+
+.btn-round {
+  width: 36px; height: 36px; border-radius: 50%;
+  display: grid; place-items: center; color: var(--ui-text);
+  transition: transform .3s var(--ease-out);
+}
+.btn-round:hover { transform: scale(1.06); }
+
+/* ---------- HUD layout ---------- */
+.tour-hud { position: absolute; inset: 0; pointer-events: none; }
+.tour-hud > *, .tour-hud button, .tour-hud nav { pointer-events: auto; }
+.tour-hud .hint-pill, .tour-hud .map-footnote, .tour-hud .standin-badge, .tour-hud .bubble-slot { pointer-events: none; }
+
+.hud-top {
+  position: absolute; top: 0; left: 0; right: 0;
+  display: flex; align-items: flex-start; justify-content: space-between; gap: 16px;
+  padding: 22px var(--gutter); isolation: isolate;
+  pointer-events: none;
+}
+.hud-top > * { pointer-events: auto; }
+/* Legibility over any background (pale paper map, sunlit walls): the title block sits on a dark
+   glass plate, and every HUD text that floats over the scene gets a dark body or a text shadow. */
+.hud-top .eyebrow { color: var(--text); }
+.hud-brand {
+  display: flex; flex-direction: column; gap: 2px; min-width: 0;
+  max-width: min(340px, 100%); padding: 12px 16px 13px;
+  background: color-mix(in srgb, var(--bg) 66%, transparent);
+  -webkit-backdrop-filter: var(--glass-panel-filter); backdrop-filter: var(--glass-panel-filter);
+  border: 1px solid var(--hairline); border-radius: var(--r-card);
+  box-shadow: var(--glass-edge);
+  text-shadow: 0 1px 2px color-mix(in srgb, var(--bg) 70%, transparent);
+}
+.hud-name { font-family: var(--font-display); font-size: 22px; font-weight: 400; color: var(--title); letter-spacing: -.01em; }
+.hud-stop { font-size: 12px; color: var(--accent-soft); font-weight: 500; letter-spacing: .02em; }
+.hud-end { flex: none; }
+.hud-actions { display: flex; align-items: center; gap: 10px; flex: none; }
+.hud-actions .btn-glass, .hud-voice { background-color: var(--hud-scrim); }
+.hud-voice { height: 36px; background-image: var(--glass-pill-bg); -webkit-backdrop-filter: var(--glass-pill-filter); backdrop-filter: var(--glass-pill-filter); }
+.splash-from { margin: 0; font-size: 13px; color: var(--accent-soft); }
+
+.map-footnote {
+  position: absolute; left: 50%; transform: translateX(-50%); top: 34px; margin: 0;
+  font-size: 11px; line-height: 1.45; color: var(--text); text-align: center; max-width: min(560px, 90vw);
+  padding: 6px 14px; border-radius: var(--r-card); border: 1px solid var(--hairline);
+  background: color-mix(in srgb, var(--bg) 66%, transparent);
+  -webkit-backdrop-filter: var(--glass-panel-filter); backdrop-filter: var(--glass-panel-filter);
+}
+
+.hint-pill, .band-probe-hint {
+  position: absolute; left: 50%; transform: translateX(-50%); top: 76px; margin: 0;
+  font-size: 12px; color: var(--ui-text); padding: 6px 14px; border-radius: var(--r-pill);
+  background: color-mix(in srgb, var(--bg) 60%, transparent); border: 1px solid var(--hairline);
+  text-shadow: 0 1px 2px color-mix(in srgb, var(--bg) 60%, transparent);
+  -webkit-backdrop-filter: blur(5px) saturate(1.2); backdrop-filter: blur(5px) saturate(1.2);
+  white-space: nowrap;
+}
+/* the recreation label, inside the title plate under a hairline */
+.recreation-note {
+  margin: 8px 0 0; padding: 8px 0 0; border: 0; border-top: 1px solid var(--hairline);
+  font-size: 11px; line-height: 1.45; letter-spacing: .02em; color: var(--text);
+}
+.chip {
+  width: 100%; display: flex; align-items: center; gap: 10px; text-align: left;
+  font-size: 12px; font-weight: 500; color: var(--ui-text); letter-spacing: .02em;
+  background: rgba(0,0,0,.35); border: 1px solid var(--hairline); border-radius: 24px;
+  padding: 7px 12px 7px 7px; transition: border-color .25s ease, background .25s ease;
+}
+.chip:hover { border-color: var(--hairline-strong); }
+.chip.is-on { border-color: var(--accent); box-shadow: var(--accent-glow); }
+
+/* the title block's More: the basis note (recreation label, map route note) folds under it */
+.hud-more {
+  justify-self: start; align-self: flex-start; display: inline-flex; align-items: center; gap: 5px;
+  margin-top: 6px; padding: 2px 0; background: none; border: 0; color: var(--accent-soft);
+  font-size: 10px; font-weight: 500; letter-spacing: .15em; text-transform: uppercase;
+}
+.hud-more:hover { color: var(--ui-text); }
+.hud-brand .recreation-note { margin-top: 6px; }
+.hud-brand .recreation-note[hidden] { display: none; }
+
+/* the chapter's stops: numbered glass dots along the bottom centre (Tapestry style) */
+.stop-dots { position: absolute; left: 50%; bottom: 30px; transform: translateX(-50%); }
+.stop-dots ol { list-style: none; margin: 0; padding: 0; display: flex; gap: 10px; }
+.stop-dot {
+  position: relative; width: 34px; height: 34px; border-radius: 50%; padding: 0;
+  display: grid; place-items: center; font-size: 13px; font-weight: 600; color: var(--ui-text);
+  background: color-mix(in srgb, var(--bg) 55%, transparent);
+  background-image: var(--glass-pill-bg);
+  -webkit-backdrop-filter: var(--glass-pill-filter); backdrop-filter: var(--glass-pill-filter);
+  border: 1px solid var(--hairline-strong);
+  box-shadow: var(--glass-edge);
+  text-shadow: 0 1px 2px color-mix(in srgb, var(--bg) 70%, transparent);
+  transition: transform .3s var(--ease-out), background-color .25s ease, border-color .25s ease, box-shadow .25s ease;
+}
+.stop-dot:hover { transform: translateY(-2px); border-color: var(--accent-soft); }
+.stop-dot.is-seen { color: var(--text); }
+.stop-dot.is-on {
+  background: var(--accent); color: var(--on-cream); border-color: var(--accent);
+  box-shadow: var(--accent-glow), var(--glass-edge); text-shadow: none;
+}
+.stop-dot-name {
+  position: absolute; left: 50%; bottom: calc(100% + 10px); transform: translateX(-50%) translateY(4px);
+  white-space: nowrap; font-size: 12px; font-weight: 500; color: #fef1d7; text-shadow: none;
+  padding: 5px 11px; border-radius: var(--r-pill);
+  background: rgba(0,0,0,.66); border: 1px solid var(--hairline);
+  opacity: 0; transition: opacity .25s ease, transform .3s var(--ease-out); pointer-events: none;
+}
+.stop-dot:hover .stop-dot-name, .stop-dot:focus-visible .stop-dot-name { opacity: 1; transform: translateX(-50%); }
+/* the guide's caption sits above the dots, centred over them on wide screens */
+.phase-room .hud-bottom .bubble-slot { padding-bottom: 58px; }
+@media (min-width: 1100px) {
+  .phase-room .hud-bottom .bubble-slot { position: absolute; left: 50%; bottom: 84px; transform: translateX(-50%); width: min(560px, calc(100vw - 640px)); padding: 0; }
+  .phase-room .hud-bottom .speech-bubble { margin: 0 auto; }
+}
+
+/* the guide's sound: a small icon-only toggle (M key too) */
+.hud-actions .hud-sound { background-color: var(--hud-scrim); }
+.hud-sound.is-muted { color: var(--subtitle); }
+
+/* the controls hint: once per chapter, with the guide's opening line, then it fades */
+.hint-pill { animation: fade-in .6s var(--ease-out); transition: opacity .9s ease, visibility .9s; }
+.hint-pill.is-fading { opacity: 0; visibility: hidden; pointer-events: none; }
+.hud-back, .band-probe-back { position: absolute; left: 50%; transform: translateX(-50%); top: 122px; }
+
+.hud-bottom {
+  position: absolute; left: 0; right: 0; bottom: 0;
+  display: flex; align-items: flex-end; justify-content: space-between; gap: 16px;
+  padding: 0 var(--gutter) 26px;
+  pointer-events: none;
+}
+.hud-bottom > button, .hud-bottom-right > button, .hud-bottom-right > a { pointer-events: auto; }
+/* bottom right: "Hear this chapter" beside the next-stop button */
+.hud-bottom-right { flex: none; margin-left: auto; display: flex; align-items: flex-end; gap: 10px; }
+.hud-hear { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 14px; border-radius: 999px; color: var(--ui-text); font-size: 13px; }
+.hud-hear.is-on { border-color: var(--accent); box-shadow: var(--accent-glow), var(--glass-edge); }
+.bubble-slot { flex: 1; display: flex; min-width: 0; }
+.phase-map .bubble-slot { padding-left: clamp(150px, 20vw, 300px); }
+.phase-room .bubble-slot { justify-content: center; padding-left: 0; }
+
+.btn-next {
+  flex: none; display: grid; grid-template-columns: auto auto; align-items: center; column-gap: 12px;
+  text-align: left; color: var(--ui-text); border-radius: var(--r-card); padding: 10px 14px 10px 18px;
+  transition: transform .3s var(--ease-out), box-shadow .3s ease, border-color .3s ease;
+}
+.btn-next svg { grid-row: span 2; }
+.hud-bottom > .btn-next { margin-left: auto; }
+.btn-next-eyebrow { font-size: 10px; letter-spacing: .15em; text-transform: uppercase; color: var(--subtitle); }
+.btn-next-label { font-size: 14px; font-weight: 500; }
+.btn-next:hover { transform: translateY(-1px); border-color: var(--hairline-strong); }
+.btn-next.is-ready { border-color: var(--accent); box-shadow: var(--accent-glow), var(--glass-edge); }
+.btn-next-inductee { text-decoration: none; }
+/* the end of a tour: "Next inductee" on its own row, over "Finish the tour" */
+.hud-bottom-right:has(.end-next) { flex-wrap: wrap; justify-content: flex-end; }
+.end-next { order: -1; flex: 1 0 100%; display: flex; justify-content: flex-end; pointer-events: none; }
+.end-next > a { pointer-events: auto; }
+
+/* ---------- speech bubble ---------- */
+.speech-bubble {
+  position: relative; max-width: min(560px, 100%);
+  background: var(--glass-panel-bg);
+  -webkit-backdrop-filter: blur(14px) saturate(1.3); backdrop-filter: blur(14px) saturate(1.3);
+  border: 1px solid var(--hairline); border-radius: var(--r-panel);
+  box-shadow: var(--glass-glow), var(--glass-edge);
+  padding: 12px 18px 13px;
+  opacity: 0; transform: translateY(6px);
+  /* hidden, it takes no taps (round 9 fix round 7b: an invisible panel must not cover a control) */
+  visibility: hidden; pointer-events: none;
+  transition: opacity .4s ease, transform .6s var(--ease-out), visibility .4s;
+}
+.speech-bubble.is-on { opacity: 1; transform: none; visibility: visible; pointer-events: auto; }
+.speech-bubble::after {
+  content: ''; position: absolute; width: 14px; height: 14px;
+  background: inherit; border: inherit; border-top: 0; border-right: 0;
+  -webkit-backdrop-filter: none; backdrop-filter: none;
+}
+.speech-bubble.tail-left::after { left: -8px; bottom: 18px; transform: rotate(45deg); border-radius: 0 0 0 4px; background: rgba(0,0,0,.5); }
+.speech-bubble.tail-down::after { display: none; }
+.speech-who { font-size: 10px; letter-spacing: .15em; text-transform: uppercase; color: var(--accent-soft); font-weight: 600; }
+.speech-text { margin: 4px 0 0; font-size: 15px; line-height: 1.45; color: var(--ui-text); }
+.speech-src { display: block; margin-top: 6px; font-size: 10px; color: var(--subtitle); letter-spacing: .04em; }
+
+/* ---------- map labels ---------- */
+.map-place {
+  display: flex; flex-direction: column; gap: 1px; white-space: nowrap;
+  padding: 7px 12px; border-radius: 12px;
+  background: rgba(0,0,0,.58); border: 1px solid var(--hairline-strong);
+  -webkit-backdrop-filter: blur(12px) saturate(1.3); backdrop-filter: blur(12px) saturate(1.3);
+  box-shadow: 0 1px 12px rgba(0,0,0,.4);
+  transform: translate(14px, -50%);
+  user-select: none;
+}
+.map-place.side-left { transform: translate(calc(-100% - 14px), -50%); }
+.map-place.side-above { transform: translate(-50%, calc(-100% - 12px)); }
+.map-place.side-below { transform: translate(-50%, 12px); }
+.map-place-date { font-size: 10px; color: var(--accent-soft); font-weight: 600; letter-spacing: .08em; }
+.map-place-name { font-family: var(--font-display); font-size: 15px; color: var(--title); }
+.map-place-note { font-size: 11px; color: var(--text); }
+.map-place { transition: opacity .35s ease, visibility .35s; }
+.map-place.is-hidden { opacity: 0; visibility: hidden; pointer-events: none; }
+.map-place.is-minor { padding: 4px 8px; }
+/* round 9: the note beside an un-routed line, and the place photographs pinned on the map */
+.map-place.map-unrouted { padding: 4px 9px; border-style: dashed; }
+.map-place.map-unrouted .map-place-note { font-size: 10.5px; }
+.map-place.map-resource { gap: 4px; pointer-events: auto; }
+.map-place.map-resource.is-hidden { pointer-events: none; }
+.map-resource-thumbs { display: flex; gap: 6px; }
+.map-resource-thumb {
+  padding: 0; border: 1px solid var(--hairline-strong); border-radius: 8px; overflow: hidden; cursor: pointer;
+  width: 64px; height: 48px; background: rgba(0,0,0,.4);
+  transition: transform .2s var(--ease-out), border-color .2s ease;
+}
+.map-resource-thumb:hover, .map-resource-thumb:focus-visible { transform: scale(1.06); border-color: var(--accent); }
+.map-resource-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.tour-stage.is-phone .map-resource-thumb { width: 52px; height: 40px; }
+.map-place.is-minor .map-place-name { font-size: 12px; }
+.map-place.is-minor .map-place-note { display: none; }
+.map-pill-mode { display: inline-flex; align-items: center; gap: 6px; border-style: solid; }
+.map-pill {
+  display: inline-block; white-space: nowrap; font-size: 11px; font-weight: 500; letter-spacing: .02em;
+  padding: 5px 10px; border-radius: var(--r-pill); color: #fef1d7;
+  background: rgba(0,0,0,.55); border: 1px dashed rgba(240,232,221,.45);
+  user-select: none;
+}
+
+/* ---------- hotspots ---------- */
+.hotspot {
+  position: relative; width: 38px; height: 38px; border-radius: 50%; padding: 0;
+  display: grid; place-items: center; color: var(--ui-text); font-size: 13px; font-weight: 600;
+  border-color: rgba(255,155,45,.7);
+  /* a dark glass body so the number reads on pale paper and walls */
+  background: color-mix(in srgb, var(--bg) 55%, transparent);
+  text-shadow: 0 1px 2px color-mix(in srgb, var(--bg) 70%, transparent);
+  box-shadow: 0 0 0 6px rgba(255,155,45,.10), var(--accent-glow), var(--glass-edge);
+  transition: transform .3s var(--ease-out), box-shadow .3s ease;
+}
+.hotspot::before {
+  content: ''; position: absolute; inset: -9px; border-radius: 50%;
+  border: 1px solid rgba(255,155,45,.55);
+  animation: hotspot-pulse 3.5s ease-in-out infinite;
+}
+.hotspot.no-pulse::before { animation: none; }
+.hotspot.is-seen { border-color: var(--hairline-strong); box-shadow: var(--glass-glow), var(--glass-edge); }
+.hotspot.is-seen::before { border-color: rgba(240,232,221,.25); }
+.hotspot.is-active { transform: scale(.85); opacity: .7; }
+.hotspot:hover { transform: scale(1.08); }
+.hotspot-label {
+  position: absolute; left: 50%; bottom: calc(100% + 12px); transform: translateX(-50%) translateY(4px);
+  white-space: nowrap; font-size: 12px; font-weight: 500; color: #fef1d7;
+  padding: 5px 11px; border-radius: var(--r-pill);
+  background: rgba(0,0,0,.6); border: 1px solid var(--hairline);
+  opacity: 0; transition: opacity .25s ease, transform .3s var(--ease-out); pointer-events: none;
+}
+.hotspot:hover .hotspot-label, .hotspot:focus-visible .hotspot-label { opacity: 1; transform: translateX(-50%); }
+@keyframes hotspot-pulse {
+  0%, 100% { transform: scale(.92); opacity: .9; }
+  50% { transform: scale(1.12); opacity: .25; }
+}
+
+/* ---------- splash ---------- */
+.tour-splash {
+  position: absolute; inset: 0; display: grid; place-items: center; padding: 16px;
+  background: radial-gradient(120% 90% at 50% 40%, rgba(10,14,20,.25) 0%, rgba(10,14,20,.8) 100%);
+}
+.splash-card { padding: 26px 44px 26px; text-align: center; max-width: 520px; display: grid; gap: 10px; justify-items: center; }
+.splash-title { margin: 4px 0 0; font-family: var(--font-display); font-weight: 400; font-size: 46px; line-height: 1.1; color: var(--title); letter-spacing: -.02em; }
+.splash-sub { margin: 0; font-size: 14px; color: var(--text); }
+.splash-note { margin: 4px 0 10px; font-size: 12px; color: var(--subtitle); }
+
+/* ---------- letter ---------- */
+.letter-overlay {
+  position: absolute; inset: 0; z-index: 50;
+  display: grid; grid-template-columns: minmax(0, 1fr) minmax(300px, 400px); gap: 24px; align-items: center;
+  padding: 90px var(--gutter) 40px;
+  background: radial-gradient(90% 80% at 35% 50%, rgba(28,27,26,.55) 0%, rgba(10,14,20,.88) 100%);
+  -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+  animation: fade-in .6s var(--ease-out);
+}
+.is-reduced .letter-overlay { animation: none; }
+.letter-stage { position: relative; height: 100%; min-height: 320px; }
+.letter-hint { position: absolute; bottom: 4px; left: 50%; transform: translateX(-50%); margin: 0; font-size: 12px; color: var(--subtitle); }
+.letter-panel { position: relative; padding: 22px 24px 18px; display: grid; gap: 12px; }
+.letter-title { margin: 0; font-family: var(--font-display); font-weight: 400; font-size: 24px; line-height: 1.2; color: var(--title); padding-right: 40px; }
+/* the label column fits its longest word (DECLARED, PHOTOGRAPH, CATALOGUE), up to 96 px; one column for
+   every row (subgrid), so the texts line up */
+.letter-lines { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: fit-content(96px) 1fr; column-gap: 10px; row-gap: 9px; }
+.letter-lines li { grid-column: 1 / -1; display: grid; grid-template-columns: subgrid; row-gap: 2px; align-items: baseline; }
+.letter-line-label { font-size: 10px; letter-spacing: .15em; text-transform: uppercase; color: var(--subtitle); }
+.letter-line-text { font-size: 14px; line-height: 1.4; color: var(--ui-text); }
+.fact-chip { display: inline-block; vertical-align: 1px; margin-left: 4px; white-space: nowrap; font-size: 9px; color: var(--subtitle); border: 1px solid var(--hairline); border-radius: 10px; padding: 1px 7px; }
+.letter-actions {
+  /* fixed columns: the toggle's column fits its longer label ("Unfold the letter"), so the row
+     never reflows when the label changes; both labels stay on one line */
+  display: grid; grid-template-columns: 10.5em minmax(0, 1fr); gap: 8px; margin-top: 4px;
+}
+.letter-actions > button { justify-content: center; white-space: nowrap; min-width: 0; padding-left: 12px; padding-right: 12px; }
+.letter-actions > .btn-cream { gap: 8px; letter-spacing: .5px; }
+.audio-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--on-cream); opacity: .5; }
+.audio-dot.is-on { background: #e92c42; opacity: 1; animation: hotspot-pulse 1.6s infinite; }
+.letter-caption { min-height: 40px; margin: 0; font-size: 13px; line-height: 1.45; color: var(--ui-text); opacity: 0; transition: opacity .4s ease; }
+.letter-caption.is-on { opacity: 1; }
+.letter-credit { margin: 0; font-size: 10px; color: var(--subtitle); line-height: 1.4; }
+/* the viewer: the dialog holds the scrolling overlay and, above it, the close button pinned to the
+   top-right corner of the screen */
+.artifact-viewer { position: absolute; inset: 0; z-index: 50; }
+.letter-close { position: absolute; top: 16px; right: 16px; z-index: 51; width: 44px; height: 44px; }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+
+/* ---------- phone ---------- */
+@media (max-width: 720px) {
+  .hud-top { padding: 14px var(--gutter); }
+  .hud-name { font-size: 18px; }
+  .map-footnote { top: 108px; }
+  /* a short toast mid-screen for a few seconds; the guide's caption keeps the bottom */
+  .hint-pill, .band-probe-hint { top: 116px; font-size: 11px; white-space: normal; text-align: center; max-width: calc(100vw - 2 * var(--gutter)); }
+  .hud-brand { padding: 9px 12px 10px; max-width: calc(100vw - 2 * var(--gutter) - 150px); }
+  .hud-top .eyebrow { font-size: 9px; }
+  .recreation-note.is-fold .recreation-text { -webkit-line-clamp: 2; }
+  .chip { width: auto; white-space: nowrap; }
+  /* the dots above the next-stop button; the caption above them */
+  /* above the next card, which may wrap a long chapter name onto a second line */
+  .stop-dots { bottom: 100px; }
+  .stop-dot { width: 38px; height: 38px; }
+  .phase-room .hud-bottom .bubble-slot { padding-bottom: 0; }
+  /* under the top-right buttons, clear of the title plate */
+  .hud-back, .band-probe-back { bottom: auto; top: 70px; left: auto; right: var(--gutter); transform: none; }
+  .hud-bottom { padding-bottom: 16px; gap: 10px; flex-direction: column; align-items: stretch; }
+  .phase-map .bubble-slot { padding-left: 0; padding-bottom: 0; }
+  /* room: a compact bubble just above the object chips, low enough to leave the guide (framed in
+     the upper two thirds by the phone poses) uncovered */
+  .phase-room .bubble-slot { position: absolute; left: var(--gutter); right: var(--gutter); bottom: 146px; }
+  .phase-room .speech-bubble { padding: 8px 13px 9px; border-radius: var(--r-card); }
+  .phase-room .speech-text { font-size: 13px; line-height: 1.4; margin-top: 2px; }
+  .phase-room .speech-src { margin-top: 3px; }
+  /* the row of "Hear this chapter" and the next card spans the screen inside the gutter (clear of the
+     Moments button at its left end); the next card takes the room left beside the hear button and a
+     long chapter name wraps inside it, so neither control runs past the edge or is squeezed */
+  .hud-bottom-right { align-self: stretch; justify-content: flex-end; align-items: flex-end; min-width: 0; padding-left: var(--moments-clear, 56px); }
+  .hud-hear { flex: none; }
+  .btn-next { flex: 0 1 auto; min-width: 0; grid-template-columns: minmax(0, 1fr) auto; padding: 8px 12px 8px 16px; }
+  /* the eyebrow over the name in the left column, the arrow in the right */
+  .btn-next-eyebrow { grid-column: 1; grid-row: 1; }
+  .btn-next-label { grid-column: 1; grid-row: 2; white-space: normal; overflow-wrap: anywhere; }
+  .btn-next svg { grid-column: 2; grid-row: 1 / span 2; }
+  /* a tour's end on a phone: "Next inductee" and "Finish the tour" share the bottom row, and "Hear this
+     chapter" moves up beside the stops, so the caption keeps its place (and the guide her room above it) */
+  .chapter-player.is-end .hud-bottom-right:has(.end-next) { flex-wrap: nowrap; }
+  .chapter-player.is-end .end-next { order: 0; flex: 1 1 0; min-width: 0; }
+  .chapter-player.is-end .end-next .btn-next-inductee { flex: 1 1 auto; }
+  .chapter-player.is-end .hud-bottom-right .btn-next { flex: 1 1 0; }
+  /* at the end the two cards share the row by their words: a name wraps between words, never inside one
+     ("Madeleine" stays whole), and each card is at least as wide as its longest word */
+  .chapter-player.is-end .end-next, .chapter-player.is-end .hud-bottom-right .btn-next { min-width: min-content; }
+  .chapter-player.is-end .hud-bottom-right .btn-next { grid-template-columns: minmax(min-content, 1fr) auto; }
+  .chapter-player.is-end .btn-next-label { overflow-wrap: break-word; }
+  .chapter-player.is-end .hud-hear { position: absolute; right: var(--gutter); bottom: max(97px, calc(var(--hud-row-height, 0px) + 29px)); }
+  .chapter-player.is-end .stop-dots { bottom: max(100px, calc(var(--hud-row-height, 0px) + 32px)); }
+  .chapter-player.is-end .phase-room .bubble-slot { bottom: max(146px, calc(var(--hud-row-height, 0px) + 78px)); }
+  /* icon only on phones; the name stays as its accessible label */
+  .hud-hear { width: 44px; padding: 0; justify-content: center; }
+  .hud-hear-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  .speech-text { font-size: 14px; }
+  .splash-title { font-size: 36px; }
+  .splash-card { padding: 22px 20px; }
+  .letter-close { top: 12px; right: var(--gutter); }
+  /* (minmax(0, 1fr): a long word or address in the card wraps; it never widens the column past the screen) */
+  .letter-overlay { grid-template-columns: minmax(0, 1fr); grid-template-rows: minmax(300px, 1fr) auto; padding: 64px var(--gutter) 12px; gap: 8px; overflow-y: auto; }
+  .letter-lines { row-gap: 6px; }
+  .letter-line-text { font-size: 13px; }
+  .letter-panel { gap: 8px; }
+  .letter-hint { bottom: -4px; }
+  /* beside a model's zoom buttons the hint sits left of them, on their row, so no word runs under them
+     or is cut by the card below (round 9 screenshots) */
+  .stage-zoom ~ .letter-hint { left: 16px; right: 112px; bottom: 16px; transform: none; text-align: left; line-height: 1.3; }
+  .letter-panel { padding: 16px; }
+  .letter-title { font-size: 19px; }
+  .letter-actions { grid-template-columns: 1fr; }
+  .map-place { padding: 5px 9px; transform: translate(-50%, 14px); }
+  .map-place.side-left { transform: translate(-50%, calc(-100% - 14px)); }
+  .map-place-name { font-size: 13px; }
+}
+
+/* reduced motion = cuts (spec 5): nothing in the tour slides, scales, pulses or fades; every state
+   change shows at once (e2e/a11y.mjs motion checks the computed styles) */
+@media (prefers-reduced-motion: reduce) {
+  .hotspot::before, .audio-dot.is-on { animation: none; }
+  .tour-stage *, .tour-stage *::before, .tour-stage *::after { transition: none !important; animation-duration: 0s !important; animation-iteration-count: 1 !important; }
+}
+
+/* ---------- screen-space label layer ---------- */
+.label-layer { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
+.label-anchor { position: absolute; left: 0; top: 0; width: 0; height: 0; will-change: transform; }
+.label-anchor > .map-pill { position: absolute; transform: translate(-50%, -100%); }
+.label-anchor > .hotspot { position: absolute; transform: translate(-50%, -50%); pointer-events: auto; }
+.label-anchor > .hotspot:hover { transform: translate(-50%, -50%) scale(1.08); }
+.label-anchor > .hotspot.is-active { transform: translate(-50%, -50%) scale(.85); }
+/* a record's badge stands on the point just above the record (round 9 fix round 1: centred there, a badge hid a
+   small, far record) */
+.label-anchor > .hotspot.is-above { transform: translate(-50%, calc(-100% - 4px)); }
+.label-anchor > .hotspot.is-above:hover { transform: translate(-50%, calc(-100% - 4px)) scale(1.08); }
+.label-anchor > .hotspot.is-above.is-active { transform: translate(-50%, calc(-100% - 4px)) scale(.85); }
+.label-anchor > .map-place { position: absolute; top: 0; left: 0; }
+
+/* the paper map is light: give glass a darker body so text keeps its contrast */
+.tour-stage.map-paper .speech-bubble,
+.tour-stage.map-paper .map-place,
+.tour-stage.map-paper .btn-next { background: rgba(26, 18, 10, .78); }
+.tour-stage.map-paper .map-pill { background: rgba(26, 18, 10, .8); }
+.tour-stage.map-paper .map-footnote { color: var(--ui-text); }
+
+/* ---------- artifact viewer (artifact/ArtifactViewer.jsx; the letter's layout, any kind) ---------- */
+.letter-actions.is-single { grid-template-columns: 1fr; }
+.object-card { max-height: calc(100% - 8px); overflow-y: auto; }
+.object-byline { margin: -4px 0 0; font-size: 13px; color: var(--accent-soft); font-weight: 500; letter-spacing: .02em; }
+.object-recreation { margin: 0; color: var(--ui-text); font-style: italic; }
+.object-place-note { margin: 0; display: grid; gap: 2px; font-size: 13px; color: var(--ui-text); }
+.object-meta { margin: 0; display: grid; grid-template-columns: fit-content(96px) 1fr; column-gap: 10px; row-gap: 4px; font-size: 12px; line-height: 1.4; }
+.object-meta dt { font-size: 10px; letter-spacing: .15em; text-transform: uppercase; color: var(--subtitle); padding-top: 2px; }
+.object-meta dd { margin: 0; color: var(--ui-text); min-width: 0; overflow-wrap: anywhere; }
+/* the card's title and its lines wrap inside it (fix round 12: a long title or address never runs past the card) */
+.object-card { min-width: 0; }
+.object-card .letter-title, .object-card .letter-line-text, .object-card .object-byline { overflow-wrap: break-word; }
+.object-meta a { color: var(--accent-soft); text-underline-offset: 3px; }
+.object-notes { display: grid; gap: 6px; }
+.object-notes ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.object-note {
+  display: inline-flex; align-items: center; gap: 8px; padding: 5px 12px 5px 5px;
+  border-radius: var(--r-pill); border: 1px solid var(--hairline); background: var(--glass-pill-bg);
+  color: var(--ui-text); font-size: 12px;
+}
+.object-note.is-on { border-color: var(--accent); box-shadow: var(--accent-glow); }
+.object-note-num, .object-note-pin {
+  display: grid; place-items: center; width: 22px; height: 22px; border-radius: 50%;
+  background: var(--accent); color: var(--on-cream); font-size: 11px; font-weight: 600;
+}
+.object-note-pin { border: 0; box-shadow: var(--accent-glow); }
+.object-note-pin.is-on { background: var(--ui-text); }
+.object-walk { display: flex; justify-content: space-between; gap: 8px; }
+.stage-pager {
+  position: absolute; left: 50%; bottom: 30px; transform: translateX(-50%);
+  display: flex; align-items: center; gap: 12px; padding: 4px; border-radius: var(--r-pill);
+  font-size: 12px; color: var(--ui-text); white-space: nowrap;
+}
+.stage-pager .btn-round:disabled { opacity: .35; cursor: default; }
+.stage-views { position: absolute; left: 50%; bottom: 30px; transform: translateX(-50%); display: flex; gap: 6px; }
+.stage-views .chip { width: auto; padding: 7px 14px; }
+.photo-stage { margin: 0; height: 100%; display: grid; place-items: center; overflow: hidden; touch-action: pan-y; cursor: grab; position: relative; }
+/* one track the size of the stage, so the photograph's max-height resolves against it (an auto track
+   sizes to the image and a tall photograph ran past the stage, even at Fit to view) */
+.photo-stage { grid-template: minmax(0, 1fr) / minmax(0, 1fr); }
+.photo-stage img {
+  max-width: 100%; max-height: calc(100% - 80px); object-fit: contain; border-radius: 4px;
+  box-shadow: 0 20px 60px rgba(0,0,0,.55); transition: transform .5s var(--ease-out); user-select: none;
+}
+.photo-stage img.is-zoomed { transform: scale(1.8); }
+/* zoomed: the picture pans under a drag (mouse or touch: the browser does not scroll it away) */
+.photo-stage.is-zoomed { touch-action: none; cursor: grab; }
+.photo-stage.is-zoomed.is-panning { cursor: grabbing; }
+.photo-stage.is-panning img { transition: none; }
+.stage-pan { position: absolute; left: 50%; bottom: 30px; transform: translateX(-50%); display: flex; gap: 4px; padding: 4px; border-radius: var(--r-pill); }
+.stage-pan.has-views { bottom: 78px; }
+/* a 3D object's zoom (+ / -), bottom right of the stage, clear of the hint */
+.stage-zoom { position: absolute; right: 16px; bottom: 30px; display: flex; gap: 4px; padding: 4px; border-radius: var(--r-pill); }
+.stage-zoom .btn-round:disabled { opacity: .45; cursor: default; }
+.photo-view-label { position: absolute; top: 8px; left: 50%; transform: translateX(-50%); font-size: 10px; letter-spacing: .15em; text-transform: uppercase; color: var(--subtitle); }
+.viewer-loading { font-size: 12px; color: var(--subtitle); white-space: nowrap; }
+.is-reduced .photo-stage img { transition: none; }
+@media (max-width: 720px) {
+  .object-meta { font-size: 11px; }
+  .stage-pager, .stage-views, .stage-pan, .stage-zoom { bottom: 14px; }
+  .stage-pan.has-views { bottom: 60px; }
+  .object-card { max-height: none; overflow: visible; }
+}
+.hud-moments { background-color: color-mix(in srgb, var(--bg) 55%, transparent); }
+/* the top-right corner holds only End tour and the sound toggle; Moments That Made Them sits bottom left */
+.tour-hud .hud-corner { position: absolute; left: var(--gutter); bottom: 26px; }
+@media (max-width: 720px) { .tour-hud .hud-corner { bottom: 26px; } }
+
+/* series viewer: date picker above the stage */
+.series-picker {
+  position: absolute; z-index: 4; top: 0; left: 50%; transform: translateX(-50%);
+  display: flex; align-items: center; gap: 8px; padding: 4px 6px; border-radius: var(--r-pill);
+  max-width: min(100%, 880px); box-sizing: border-box; font-size: 12px; color: var(--ui-text);
+}
+.series-dates { list-style: none; margin: 0; padding: 2px; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; min-width: 0; }
+.series-dates::-webkit-scrollbar { display: none; }
+.series-dates .chip { width: auto; padding: 6px 12px; white-space: nowrap; }
+.series-picker .btn-round { flex: none; }
+.series-count { flex: none; padding-right: 8px; color: var(--subtitle); white-space: nowrap; }
+.letter-stage:has(.series-picker) { padding-top: 54px; box-sizing: border-box; }
+@media (max-width: 720px) {
+  .series-count { display: none; }
+  .letter-stage:has(.series-picker) { padding-top: 52px; }
+}
+.object-card .eyebrow { padding-right: 44px; flex-wrap: wrap; }
+
+/* chapter player: a soft vignette over the photo room and the gallery case (as in their demos) */
+.place-vignette {
+  position: absolute; inset: 0; pointer-events: none;
+  background: radial-gradient(130% 110% at 50% 45%, transparent 55%, rgba(13, 11, 9, .55) 100%);
+}
+.tier-gallery .place-vignette { background: radial-gradient(120% 100% at 50% 45%, transparent 60%, rgba(11, 9, 7, .5) 100%); }
+@media (max-width: 720px) {
+  /* phones: the controls hint just under the title block, whatever its height */
+  .chapter-player .hint-pill, .chapter-player .band-probe-hint { top: calc(var(--hud-title-bottom, 104px) + 10px); }
+}
+
+/* a room that could not be loaded (ChapterPlayer roomFailed): the message, Try again and the records */
+.room-error {
+  position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 5;
+  width: min(30rem, calc(100% - 2 * var(--gutter))); box-sizing: border-box; padding: 18px 20px;
+  background: var(--hud-scrim); color: var(--ui-text);
+}
+.room-error-title { margin: 0 0 6px; font-family: var(--font-display); font-size: 20px; color: var(--title); }
+.room-error-why { margin: 0 0 14px; font-size: 14px; line-height: 1.5; }
+.room-error-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.room-error-actions .btn-glass { min-height: 44px; padding: 0 16px; font-size: 13px; color: var(--ui-text); }
+/* the stage is still loading (ChapterPlayer): a quiet status pill until it is ready or fails */
+.stage-loading {
+  position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 4; margin: 0;
+  padding: 8px 16px; border-radius: var(--r-pill); font-size: 13px; color: var(--ui-text); pointer-events: none;
+}

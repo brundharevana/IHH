@@ -1,0 +1,213 @@
+_version_: 1774497044178665472
+access_advisory: Use digital images.
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2019640182/
+aka[1]: http://www.loc.gov/item/2019640182/
+aka[2]: http://www.loc.gov/pictures/item/2019640182/
+aka[3]: https://hdl.loc.gov/loc.pnp/ppmsca.61394
+aka[4]: https://hdl.loc.gov/loc.pnp/ppmsca.61394
+aka[5]: http://www.loc.gov/resource/ppmsca.61394/
+aka[6]: http://lccn.loc.gov/2019640182
+call_number: LC-CQ06-WR97102104 [P&P]
+contributor_names[0]: Graham, Douglas (Photographer), photographer
+contributors[0].graham, douglas: https://www.loc.gov/search/?fa=contributor:graham,+douglas&fo=json
+contributors[1].graham, douglas (photographer): https://www.loc.gov/search/?fa=contributor:graham,+douglas+%28photographer%29&fo=json
+created: 2019-10-01T06:13:32Z
+created_published[0]: [21 Oct. 1997]
+created_published_date: [21 Oct. 1997]
+date: 1997-10-21
+dates[0].1997: https://www.loc.gov/search/?dates=1997/1997&fo=json
+dates[1].1997-10-21: https://www.loc.gov/search/?dates=1997-10-21/1997-10-21&fo=json
+description[0]: 5 photographs : color film negatives ; film width 35mm (roll format) | Caption for frame no. 16A: Secretary of State Madeleine Albright testifies at the Senate Appropriations Committee hearings on the proposed enlargement of the NATO alliance.
+digital_id[0]: ppmsca 61394 https://hdl.loc.gov/loc.pnp/ppmsca.61394
+digitized: true
+display_offsite: true
+extract_timestamp: 2023-07-17T14:44:42.901Z
+extract_urls[0]: http://www.loc.gov/pictures/item/2019640182/#pp_other
+extract_urls[1]: http://lccn.loc.gov/2019640182#catalog-split-01
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Film negatives--Color--1990-2000.
+genre[0]: Film negatives--Color--1990-2000
+group[0]: pp_other
+group[1]: catalog-split-01
+group[2]: catalog
+group[3]: prints-and-photographs-other
+group[4]: main-catalog-split-01
+hassegments: false
+id: http://www.loc.gov/item/2019640182/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394_150px.jpg#h=27&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394r.jpg#h=116&w=640
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394v.jpg#h=186&w=1024
+index: 1
+item.access_advisory: Use digital images.
+item.call_number: LC-CQ06-WR97102104 [P&P]
+item.contributors[0]: Graham, Douglas (Photographer), photographer.
+item.control_number: 2019640182
+item.created: 2019-10-01T06:13:32Z
+item.created_published: [21 Oct. 1997]
+item.created_published_date: [21 Oct. 1997]
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Graham%2C%20Douglas%20%28Photographer%29
+item.creators[0].role: photographer
+item.creators[0].title: Graham, Douglas (Photographer)
+item.date: [21 Oct. 1997]
+item.digital_id[0]: ppmsca 61394 https://hdl.loc.gov/loc.pnp/ppmsca.61394
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Film%20negatives--Color--1990-2000.
+item.formats[0].title: Film negatives--Color--1990-2000.
+item.genre[0]: Film negatives--Color--1990-2000
+item.id: 2019640182
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2019640182/
+item.marc: https://www.loc.gov/pictures/item/2019640182/marc/
+item.medium[0]: 5 photographs : color film negatives ; film width 35mm (roll format)
+item.medium_brief: 5 photographs :
+item.mediums[0]: 5 photographs : color film negatives ; film width 35mm (roll format)
+item.modified: 2019-10-01T06:13:32Z
+item.notes[0]: Title, date, and photographer based on information provided by Congressional Quarterly (CQ). Caption/summary only present when provided by CQ.
+item.notes[1]: LC-CQ06-WR97102104: Frame nos. 15A-19A.
+item.notes[2]: Gift; CQ Roll Call; 2011; (DLC/PP-2011:177).
+item.notes[3]: Forms part of: CQ Roll Call Photograph Collection.
+item.other_control_numbers[0]: 21108276
+item.part_of: CQ Roll Call Photograph Collection
+item.raw_collections[0]: cqrc
+item.raw_collections[1]: diof
+item.raw_collections[2]: pp
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/ppmsca.61394
+item.restriction: Use digital images.
+item.rights_advisory: No known restrictions on work by staff photographers. Other material may be restricted by copyright. Privacy and publicity rights may also apply. For information see: "CQ Roll Call Photograph Collection" https://www.loc.gov/rr/print/res/683_cqrc.html
+item.rights_information: No known restrictions on work by staff photographers. Other material may be restricted by copyright. Privacy and publicity rights may also apply. For information see: "CQ Roll Call Photograph Collection" https://www.loc.gov/rr/print/res/683_cqrc.html
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394r.jpg
+item.sort_date: 19971021
+item.source_collection[0]: CQ Roll Call Photograph Collection
+item.source_created: 2019-07-30T00:00:00Z
+item.source_modified: 2019-09-27T08:30:19Z
+item.subject_headings[0]: Albright, Madeleine
+item.subject_headings[1]: Legislative hearings
+item.subject_headings[2]: Senate Appropriations Committee
+item.subject_headings[3]: NATO (North Atlantic Treaty Organization)
+item.subjects[0]: Albright, Madeleine
+item.subjects[1]: Legislative hearings
+item.subjects[2]: Senate Appropriations Committee
+item.subjects[3]: NATO (North Atlantic Treaty Organization)
+item.summary: Caption for frame no. 16A: Secretary of State Madeleine Albright testifies at the Senate Appropriations Committee hearings on the proposed enlargement of the NATO alliance.
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394_150px.jpg
+item.title: NATO enlargement costs
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2019640182
+link: https://www.loc.gov/pictures/item/2019640182/
+marc: https://www.loc.gov/pictures/item/2019640182/marc/
+medium[0]: 5 photographs : color film negatives ; film width 35mm (roll format)
+medium_brief: 5 photographs :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2019-10-01T06:13:32Z
+notes[0]: Title, date, and photographer based on information provided by Congressional Quarterly (CQ). Caption/summary only present when provided by CQ.
+notes[1]: LC-CQ06-WR97102104: Frame nos. 15A-19A.
+notes[2]: Gift; CQ Roll Call; 2011; (DLC/PP-2011:177).
+notes[3]: Forms part of: CQ Roll Call Photograph Collection.
+number[0]: http://www.loc.gov/item/21108276
+number[1]: 2019640182
+number[2]: sheet
+number[3]: 2019-09-27t08:30:19
+number_carrier_type[0]: sheet
+number_former_id[0]: http://www.loc.gov/item/21108276
+number_lccn[0]: 2019640182
+number_source_modified[0]: 2019-09-27t08:30:19
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 21108276
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2019640182/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2019640182/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2019640182/dc
+partof[0].count: 911026
+partof[0].title: prints & photographs online catalog (library of congress)
+partof[0].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[1].count: 1161984
+partof[1].title: prints and photographs division
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[2].count: 1909462
+partof[2].title: catalog
+partof[2].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+raw_collections[0]: cqrc
+raw_collections[1]: diof
+raw_collections[2]: pp
+related.neighbors: https://www.loc.gov/pictures/related/?&pk=2019640182&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+resource_links[0]: https://hdl.loc.gov/loc.pnp/ppmsca.61394
+resources[0].caption: digital file from original
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.61394/
+restriction: Use digital images.
+rights_advisory: No known restrictions on work by staff photographers. Other material may be restricted by copyright. Privacy and publicity rights may also apply. For information see: "CQ Roll Call Photograph Collection" https://www.loc.gov/rr/print/res/683_cqrc.html
+rights_information: No known restrictions on work by staff photographers. Other material may be restricted by copyright. Privacy and publicity rights may also apply. For information see: "CQ Roll Call Photograph Collection" https://www.loc.gov/rr/print/res/683_cqrc.html
+score: 18.49569
+shard: 00
+shelf_id: LC-CQ06-WR97102104 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 19971021
+source_collection: CQ Roll Call Photograph Collection
+source_created: 2019-07-30T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: legislative hearings
+subject[1]: color
+subject[2]: nato (north atlantic treaty organization)
+subject[3]: film negatives
+subject[4]: albright, madeleine
+subject[5]: senate appropriations committee
+subject_headings[0]: Albright, Madeleine
+subject_headings[1]: Legislative hearings
+subject_headings[2]: Senate Appropriations Committee
+subject_headings[3]: NATO (North Atlantic Treaty Organization)
+subjects[0].albright, madeleine: https://www.loc.gov/search/?fa=subject:albright,+madeleine&fo=json
+subjects[1].color: https://www.loc.gov/search/?fa=subject:color&fo=json
+subjects[2].film negatives: https://www.loc.gov/search/?fa=subject:film+negatives&fo=json
+subjects[3].legislative hearings: https://www.loc.gov/search/?fa=subject:legislative+hearings&fo=json
+subjects[4].nato (north atlantic treaty organization): https://www.loc.gov/search/?fa=subject:nato+%28north+atlantic+treaty+organization%29&fo=json
+subjects[5].senate appropriations committee: https://www.loc.gov/search/?fa=subject:senate+appropriations+committee&fo=json
+summary: Caption for frame no. 16A: Secretary of State Madeleine Albright testifies at the Senate Appropriations Committee hearings on the proposed enlargement of the NATO alliance.
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394_150px.jpg
+timestamp: 2023-08-17T17:10:55.478Z
+title: NATO enlargement costs
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/2019640182/
+resources[0].caption: digital file from original
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 2827833
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/ppmsca/61300/61394u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 27
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 85821
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 116
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].size: 103483
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394r.jpg
+resources[0].files[0][2].width: 640
+resources[0].files[0][3].height: 186
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 238553
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394v.jpg
+resources[0].files[0][3].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/61300/61394_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.61394/
+cite_this.apa: Graham, D., photographer. (1997) NATO enlargement costs. , 1997. [21 Oct] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2019640182/.
+cite_this.chicago: Graham, Douglas, photographer. NATO enlargement costs. , 1997. [21 Oct] Photograph. https://www.loc.gov/item/2019640182/.
+cite_this.mla: Graham, Douglas, photographer. NATO enlargement costs. [21 Oct] Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2019640182/>.

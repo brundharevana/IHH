@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/articles/alberteinstein.htm",
+  "fetch_url": "https://www.nps.gov/articles/alberteinstein.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:56:04Z",
+  "sha256": "bcc4fb7f32a3130c01915fd3937ff2be4998cfbb8fabab049ebd7bfc8b03efe6",
+  "bytes": 7215,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/articles/alberteinstein.htm"
+}

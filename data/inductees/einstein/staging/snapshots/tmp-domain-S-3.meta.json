@@ -1,0 +1,10 @@
+{
+  "url": "https://patents.google.com/patent/US1781541A/en",
+  "fetch_url": "https://patents.google.com/patent/US1781541A/en",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:19:03Z",
+  "sha256": "096e9a94d05a9c2ce04c6dba36a0ef941675fb911b8e3d35f1f23bdf91880bda",
+  "bytes": 36461,
+  "http_status": 200,
+  "final_url": "https://patents.google.com/patent/US1781541A/en"
+}

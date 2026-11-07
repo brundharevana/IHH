@@ -1,0 +1,267 @@
+_version_: 1774496666242514944
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2018651375/
+aka[1]: http://www.loc.gov/item/2018651375/
+aka[2]: http://www.loc.gov/pictures/item/2018651375/
+aka[3]: https://hdl.loc.gov/loc.pnp/ppss.01014
+aka[4]: https://hdl.loc.gov/loc.pnp/ppss.01014
+aka[5]: http://www.loc.gov/resource/ppss.01014/
+aka[6]: http://lccn.loc.gov/2018651375
+call_number: LC-DIG-ppss- 01014 (ONLINE) [P&P]
+contributor_names[0]: Geissinger, Michael, photographer
+contributors[0].geissinger, michael: https://www.loc.gov/search/?fa=contributor:geissinger,+michael&fo=json
+created: 2018-08-07T05:41:34Z
+created_published[0]: 1988.
+created_published_date: 1988.
+date: 1988
+dates[0].1988: https://www.loc.gov/search/?dates=1988/1988&fo=json
+description[0]: 1 photograph : digital, tiff file, color.
+digital_id[0]: ppss 01014 https://hdl.loc.gov/loc.pnp/ppss.01014
+digitized: true
+display_offsite: true
+extract_timestamp: 2023-07-17T14:46:29.063Z
+extract_urls[0]: http://www.loc.gov/pictures/item/2018651375/#pp_other
+extract_urls[1]: http://lccn.loc.gov/2018651375#catalog-split-06
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Photographs--1980-1990.
+format_headings[1]: Portrait photographs--1980-1990.
+genre[0]: Portrait photographs--1980-1990
+genre[1]: Photographs--1980-1990
+group[0]: pp_other
+group[1]: catalog-split-06
+group[2]: catalog
+group[3]: prints-and-photographs-other
+group[4]: main-catalog-split-06
+hassegments: false
+id: http://www.loc.gov/item/2018651375/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014_150px.jpg#h=100&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014r.jpg#h=427&w=640
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014v.jpg#h=683&w=1024
+index: 1
+item.call_number: LC-DIG-ppss- 01014 (ONLINE) [P&P]
+item.contributors[0]: Geissinger, Michael, photographer.
+item.control_number: 2018651375
+item.created: 2018-08-07T05:41:34Z
+item.created_published: 1988.
+item.created_published_date: 1988.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Geissinger%2C%20Michael
+item.creators[0].role: photographer
+item.creators[0].title: Geissinger, Michael
+item.date: 1988.
+item.digital_id[0]: ppss 01014 https://hdl.loc.gov/loc.pnp/ppss.01014
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Photographs--1980-1990.
+item.formats[0].title: Photographs--1980-1990.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs--1980-1990.
+item.formats[1].title: Portrait photographs--1980-1990.
+item.genre[0]: Portrait photographs--1980-1990
+item.genre[1]: Photographs--1980-1990
+item.id: 2018651375
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2018651375/
+item.marc: https://www.loc.gov/pictures/item/2018651375/marc/
+item.medium[0]: 1 photograph : digital, tiff file, color.
+item.medium_brief: 1 photograph :
+item.mediums[0]: 1 photograph : digital, tiff file, color.
+item.modified: 2018-08-07T05:41:34Z
+item.notes[0]: Title, date and keywords based on information provided by photographer.
+item.notes[1]: Photograph taken in Georgetown, Washington, D.C.
+item.notes[2]: Published in the New York Times.
+item.notes[3]: Gift; Michael Geissinger; 2016; (DLC/PP-2017:007).
+item.other_control_numbers[0]: 20616276
+item.part_of: Geissinger, Michael 50 photographs: one on one
+item.raw_collections[0]: diof
+item.raw_collections[1]: pp
+item.raw_collections[2]: ppss
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-ppss-01014 (digital file from original item)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/ppss.01014
+item.rights_advisory: No known restrictions on publication. Photographer released restrictions on September 15, 2016.
+item.rights_information: No known restrictions on publication. Photographer released restrictions on September 15, 2016.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014r.jpg
+item.sort_date: 1988
+item.source_collection[0]: Geissinger, Michael 50 photographs: one on one
+item.source_created: 2018-08-04T00:00:00Z
+item.source_modified: 2018-08-04T09:19:02Z
+item.subject_headings[0]: Albright, Madeleine Korbel
+item.subject_headings[1]: Cabinet officers--1980-1990.
+item.subject_headings[2]: Personalities
+item.subject_headings[3]: US
+item.subject_headings[4]: cabinet
+item.subject_headings[5]: DC
+item.subject_headings[6]: District of Columbia
+item.subject_headings[7]: Government
+item.subject_headings[8]: politics
+item.subject_headings[9]: Portrait
+item.subject_headings[10]: secretary
+item.subject_headings[11]: state department
+item.subject_headings[12]: United States
+item.subject_headings[13]: USA
+item.subject_headings[14]: Washington
+item.subjects[0]: Albright, Madeleine Korbel
+item.subjects[1]: Cabinet officers--1980-1990
+item.subjects[2]: Personalities
+item.subjects[3]: US
+item.subjects[4]: cabinet
+item.subjects[5]: dc
+item.subjects[6]: district of columbia
+item.subjects[7]: government
+item.subjects[8]: politics
+item.subjects[9]: portrait
+item.subjects[10]: secretary
+item.subjects[11]: state department
+item.subjects[12]: united states
+item.subjects[13]: usa
+item.subjects[14]: washington
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014_150px.jpg
+item.title: Professor Madeliene Albright named foreign policy adivser for Michael Dukakis' campaign at her Georgetown home
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2018651375
+link: https://www.loc.gov/pictures/item/2018651375/
+marc: https://www.loc.gov/pictures/item/2018651375/marc/
+medium[0]: 1 photograph : digital, tiff file, color.
+medium_brief: 1 photograph :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2018-08-07T05:41:34Z
+notes[0]: Title, date and keywords based on information provided by photographer.
+notes[1]: Photograph taken in Georgetown, Washington, D.C.
+notes[2]: Published in the New York Times.
+notes[3]: Gift; Michael Geissinger; 2016; (DLC/PP-2017:007).
+number[0]: online resource
+number[1]: http://www.loc.gov/item/20616276
+number[2]: 2018-08-04t09:19:02
+number[3]: 2018651375
+number_carrier_type[0]: online resource
+number_former_id[0]: http://www.loc.gov/item/20616276
+number_lccn[0]: 2018651375
+number_source_modified[0]: 2018-08-04t09:19:02
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 20616276
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2018651375/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2018651375/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2018651375/dc
+partof[0].count: 911026
+partof[0].title: prints & photographs online catalog (library of congress)
+partof[0].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[1].count: 1161984
+partof[1].title: prints and photographs division
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[2].count: 1909462
+partof[2].title: catalog
+partof[2].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+raw_collections[0]: diof
+raw_collections[1]: pp
+raw_collections[2]: ppss
+related.neighbors: https://www.loc.gov/pictures/related/?&pk=2018651375&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-ppss-01014 (digital file from original item)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/ppss.01014
+resources[0].caption: digital file from original item
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppss.01014/
+rights_advisory: No known restrictions on publication. Photographer released restrictions on September 15, 2016.
+rights_information: No known restrictions on publication. Photographer released restrictions on September 15, 2016.
+score: 18.49569
+shard: 00
+shelf_id: LC-DIG-ppss- 01014 (ONLINE) [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1988
+source_collection: Geissinger, Michael 50 photographs: one on one
+source_created: 2018-08-04T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: cabinet
+subject[1]: albright, madeleine korbel
+subject[2]: personalities
+subject[3]: district of columbia
+subject[4]: secretary
+subject[5]: washington
+subject[6]: us
+subject[7]: usa
+subject[8]: portrait photographs
+subject[9]: state department
+subject[10]: dc
+subject[11]: photographs
+subject[12]: cabinet officers
+subject[13]: government
+subject[14]: portrait
+subject[15]: politics
+subject[16]: united states
+subject_headings[0]: Albright, Madeleine Korbel
+subject_headings[1]: Cabinet officers--1980-1990
+subject_headings[2]: Personalities
+subject_headings[3]: US
+subject_headings[4]: cabinet
+subject_headings[5]: dc
+subject_headings[6]: district of columbia
+subject_headings[7]: government
+subject_headings[8]: politics
+subject_headings[9]: portrait
+subject_headings[10]: secretary
+subject_headings[11]: state department
+subject_headings[12]: united states
+subject_headings[13]: usa
+subject_headings[14]: washington
+subjects[0].albright, madeleine korbel: https://www.loc.gov/search/?fa=subject:albright,+madeleine+korbel&fo=json
+subjects[1].cabinet: https://www.loc.gov/search/?fa=subject:cabinet&fo=json
+subjects[2].cabinet officers: https://www.loc.gov/search/?fa=subject:cabinet+officers&fo=json
+subjects[3].dc: https://www.loc.gov/search/?fa=subject:dc&fo=json
+subjects[4].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[5].government: https://www.loc.gov/search/?fa=subject:government&fo=json
+subjects[6].personalities: https://www.loc.gov/search/?fa=subject:personalities&fo=json
+subjects[7].photographs: https://www.loc.gov/search/?fa=subject:photographs&fo=json
+subjects[8].politics: https://www.loc.gov/search/?fa=subject:politics&fo=json
+subjects[9].portrait: https://www.loc.gov/search/?fa=subject:portrait&fo=json
+subjects[10].portrait photographs: https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json
+subjects[11].secretary: https://www.loc.gov/search/?fa=subject:secretary&fo=json
+subjects[12].state department: https://www.loc.gov/search/?fa=subject:state+department&fo=json
+subjects[13].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[14].us: https://www.loc.gov/search/?fa=subject:us&fo=json
+subjects[15].usa: https://www.loc.gov/search/?fa=subject:usa&fo=json
+subjects[16].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014_150px.jpg
+timestamp: 2023-08-17T17:04:55.111Z
+title: Professor Madeliene Albright named foreign policy adivser for Michael Dukakis' campaign at her Georgetown home
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/2018651375/
+resources[0].caption: digital file from original item
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 38730640
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/ppss/01000/01014u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 100
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 66241
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 427
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].size: 202235
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014r.jpg
+resources[0].files[0][2].width: 640
+resources[0].files[0][3].height: 683
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 408396
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014v.jpg
+resources[0].files[0][3].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppss/01000/01014_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppss.01014/
+cite_this.apa: Geissinger, M., photographer. (1988) Professor Madeliene Albright named foreign policy adivser for Michael Dukakis' campaign at her Georgetown home. , 1988. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2018651375/.
+cite_this.chicago: Geissinger, Michael, photographer. Professor Madeliene Albright named foreign policy adivser for Michael Dukakis' campaign at her Georgetown home. , 1988. Photograph. https://www.loc.gov/item/2018651375/.
+cite_this.mla: Geissinger, Michael, photographer. Professor Madeliene Albright named foreign policy adivser for Michael Dukakis' campaign at her Georgetown home. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2018651375/>.

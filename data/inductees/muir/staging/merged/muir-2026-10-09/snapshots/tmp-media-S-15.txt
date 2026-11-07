@@ -1,0 +1,1281 @@
+_version_: 1821162661619957760
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/ca0124/
+aka[1]: http://www.loc.gov/item/ca0124/
+aka[2]: http://www.loc.gov/pictures/item/ca0124/
+aka[3]: https://www.loc.gov/pictures/collection/hh/item/ca0124/
+aka[4]: http://www.loc.gov/pictures/collection/hh/item/ca0124/
+aka[5]: https://cdn.loc.gov/master/pnp/habshaer/ca/ca0100/ca0124/data/ca0124data.pdf
+aka[6]: http://cdn.loc.gov/master/pnp/habshaer/ca/ca0100/ca0124/data/ca0124data.pdf
+aka[7]: https://cdn.loc.gov/master/pnp/habshaer/ca/ca0100/ca0124/supp/ca0124supp.pdf
+aka[8]: http://cdn.loc.gov/master/pnp/habshaer/ca/ca0100/ca0124/supp/ca0124supp.pdf
+aka[9]: https://stage.loc.gov/pictures/search/?q=photograph: ca0124&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true
+aka[10]: http://stage.loc.gov/pictures/search/?q=photograph: ca0124&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true
+aka[11]: https://stage.loc.gov/pictures/search/?q=drawing: ca0124&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true
+aka[12]: http://stage.loc.gov/pictures/search/?q=drawing: ca0124&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true
+aka[13]: http://www.loc.gov/resource/hhh.ca0124data/
+aka[14]: http://www.loc.gov/resource/hhh.ca0124supp/
+aka[15]: http://www.loc.gov/resource/hhh.ca0124.sheet/
+aka[16]: http://www.loc.gov/resource/hhh.ca0124.photos/
+aka[17]: http://www.loc.gov/resource/hhh.ca0124.photos
+aka[18]: http://www.loc.gov/resource/hhh.ca0124.photos.020419p
+aka[19]: http://www.loc.gov/resource/hhh.ca0124.photos.020420p
+aka[20]: http://www.loc.gov/resource/hhh.ca0124.photos.020421p
+aka[21]: http://www.loc.gov/resource/hhh.ca0124.photos.020422p
+aka[22]: http://www.loc.gov/resource/hhh.ca0124.photos.020423p
+aka[23]: http://www.loc.gov/resource/hhh.ca0124.photos.020424p
+aka[24]: http://www.loc.gov/resource/hhh.ca0124.photos.020425p
+aka[25]: http://www.loc.gov/resource/hhh.ca0124.photos.020426p
+aka[26]: http://www.loc.gov/resource/hhh.ca0124.photos.020427p
+aka[27]: http://www.loc.gov/resource/hhh.ca0124.photos.020428p
+aka[28]: http://www.loc.gov/resource/hhh.ca0124.photos.020429p
+aka[29]: http://www.loc.gov/resource/hhh.ca0124.photos.020430p
+aka[30]: http://www.loc.gov/resource/hhh.ca0124.photos.020431p
+aka[31]: http://www.loc.gov/resource/hhh.ca0124.photos.020432p
+aka[32]: http://www.loc.gov/resource/hhh.ca0124.sheet
+aka[33]: http://www.loc.gov/resource/hhh.ca0124.sheet.00000a
+aka[34]: http://www.loc.gov/resource/hhh.ca0124.sheet.00001a
+aka[35]: http://www.loc.gov/resource/hhh.ca0124.sheet.00002a
+aka[36]: http://www.loc.gov/resource/hhh.ca0124.sheet.00003a
+aka[37]: http://www.loc.gov/resource/hhh.ca0124.sheet.00004a
+aka[38]: http://www.loc.gov/resource/hhh.ca0124.sheet.00005a
+aka[39]: http://www.loc.gov/resource/hhh.ca0124.sheet.00006a
+aka[40]: http://www.loc.gov/resource/hhh.ca0124.sheet.00007a
+aka[41]: http://www.loc.gov/resource/hhh.ca0124.sheet.00008a
+aka[42]: http://www.loc.gov/resource/hhh.ca0124.sheet.00009a
+aka[43]: http://www.loc.gov/resource/hhh.ca0124.sheet.00010a
+aka[44]: http://www.loc.gov/resource/hhh.ca0124.sheet.00011a
+aka[45]: http://www.loc.gov/resource/hhh.ca0124.sheet.00012a
+aka[46]: http://www.loc.gov/resource/hhh.ca0124.sheet.00013a
+call_number: HABS CAL,7-MART,1-
+contributor_names[0]: Historic American Buildings Survey, creator
+contributor_names[1]: Muir, John
+contributor_names[2]: Muir, Louisa Wanda (Louie) Strentzel
+contributor_names[3]: Strentzel, John Theophil
+contributor_names[4]: Boucher, Jack E., photographer
+contributor_names[5]: Koue, A. Lewis, historian
+contributor_names[6]: Pope, Charles S., project manager
+contributor_names[7]: Rotsch, Melvin M., field team supervisor
+contributor_names[8]: Jones, David T., field team
+contributor_names[9]: Roark, H. Randal, field team
+contributor_names[10]: Torphy, David N., field team
+contributor_names[11]: Whitmire, John C., field team
+contributor_names[12]: Stark, Nancy E., field team
+contributor_names[13]: Steele, Mark W., field team
+contributors[0].boucher, jack e.: https://www.loc.gov/search/?fa=contributor:boucher,+jack+e.&fo=json
+contributors[1].historic american buildings survey: https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json
+contributors[2].jones, david t.: https://www.loc.gov/search/?fa=contributor:jones,+david+t.&fo=json
+contributors[3].koue, a. lewis: https://www.loc.gov/search/?fa=contributor:koue,+a.+lewis&fo=json
+contributors[4].muir, john: https://www.loc.gov/search/?fa=contributor:muir,+john&fo=json
+contributors[5].muir, louisa wanda (louie) strentzel: https://www.loc.gov/search/?fa=contributor:muir,+louisa+wanda+%28louie%29+strentzel&fo=json
+contributors[6].pope, charles s.: https://www.loc.gov/search/?fa=contributor:pope,+charles+s.&fo=json
+contributors[7].roark, h. randal: https://www.loc.gov/search/?fa=contributor:roark,+h.+randal&fo=json
+contributors[8].rotsch, melvin m.: https://www.loc.gov/search/?fa=contributor:rotsch,+melvin+m.&fo=json
+contributors[9].stark, nancy e.: https://www.loc.gov/search/?fa=contributor:stark,+nancy+e.&fo=json
+contributors[10].steele, mark w.: https://www.loc.gov/search/?fa=contributor:steele,+mark+w.&fo=json
+contributors[11].strentzel, john theophil: https://www.loc.gov/search/?fa=contributor:strentzel,+john+theophil&fo=json
+contributors[12].torphy, david n.: https://www.loc.gov/search/?fa=contributor:torphy,+david+n.&fo=json
+contributors[13].whitmire, john c.: https://www.loc.gov/search/?fa=contributor:whitmire,+john+c.&fo=json
+control_number: ca0124
+created: 2024-05-20T17:37:48Z
+created_published[0]: Documentation compiled after 1933
+created_published_date: Documentation compiled after 1933
+description[0]: Photo(s): 14 | Measured Drawing(s): 14 | Data Page(s): 9
+digitized: true
+display_offsite: true
+extract_timestamp: 2025-01-13T19:17:51.848Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/hh/item/ca0124/#hh-1
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+group[0]: hh-1
+group[1]: habshaer-group-1
+hassegments: true
+id: http://www.loc.gov/item/ca0124/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419p_150px.jpg#h=109&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419pr.jpg#h=467&w=640
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419pv.jpg#h=746&w=1024
+index: 1
+item.call_number: HABS CAL,7-MART,1-
+item.contributor_names[0]: Muir, John,
+item.contributor_names[1]: Muir, Louisa Wanda (Louie) Strentzel,
+item.contributor_names[2]: Strentzel, John Theophil,
+item.contributor_names[3]: Boucher, Jack E., photographer
+item.contributor_names[4]: Koue, A. Lewis, historian
+item.contributor_names[5]: Pope, Charles S., project manager
+item.contributor_names[6]: Rotsch, Melvin M., field team supervisor
+item.contributor_names[7]: Jones, David T., field team
+item.contributor_names[8]: Roark, H. Randal, field team
+item.contributor_names[9]: Torphy, David N., field team
+item.contributor_names[10]: Whitmire, John C., field team
+item.contributor_names[11]: Stark, Nancy E., field team
+item.contributor_names[12]: Steele, Mark W., field team
+item.control_number: ca0124
+item.created: 2024-05-20T17:37:48Z
+item.created_published: Documentation compiled after 1933
+item.created_published_date: Documentation compiled after 1933
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh
+item.creators[0].role: creator
+item.creators[0].title: Historic American Buildings Survey
+item.creators[1].link: https://www.loc.gov/pictures/related/?fi=name&q=Muir%2C%20John&co=hh
+item.creators[1].title: Muir, John
+item.creators[2].link: https://www.loc.gov/pictures/related/?fi=name&q=Muir%2C%20Louisa%20Wanda%20%28Louie%29%20Strentzel&co=hh
+item.creators[2].title: Muir, Louisa Wanda (Louie) Strentzel
+item.creators[3].link: https://www.loc.gov/pictures/related/?fi=name&q=Strentzel%2C%20John%20Theophil&co=hh
+item.creators[3].title: Strentzel, John Theophil
+item.creators[4].link: https://www.loc.gov/pictures/related/?fi=name&q=Boucher%2C%20Jack%20E.&co=hh
+item.creators[4].role: photographer
+item.creators[4].title: Boucher, Jack E.
+item.creators[5].link: https://www.loc.gov/pictures/related/?fi=name&q=Koue%2C%20A.%20Lewis&co=hh
+item.creators[5].role: historian
+item.creators[5].title: Koue, A. Lewis
+item.creators[6].link: https://www.loc.gov/pictures/related/?fi=name&q=Pope%2C%20Charles%20S.&co=hh
+item.creators[6].role: project manager
+item.creators[6].title: Pope, Charles S.
+item.creators[7].link: https://www.loc.gov/pictures/related/?fi=name&q=Rotsch%2C%20Melvin%20M.&co=hh
+item.creators[7].role: field team supervisor
+item.creators[7].title: Rotsch, Melvin M.
+item.creators[8].link: https://www.loc.gov/pictures/related/?fi=name&q=Jones%2C%20David%20T.&co=hh
+item.creators[8].role: field team
+item.creators[8].title: Jones, David T.
+item.creators[9].link: https://www.loc.gov/pictures/related/?fi=name&q=Roark%2C%20H.%20Randal&co=hh
+item.creators[9].role: field team
+item.creators[9].title: Roark, H. Randal
+item.creators[10].link: https://www.loc.gov/pictures/related/?fi=name&q=Torphy%2C%20David%20N.&co=hh
+item.creators[10].role: field team
+item.creators[10].title: Torphy, David N.
+item.creators[11].link: https://www.loc.gov/pictures/related/?fi=name&q=Whitmire%2C%20John%20C.&co=hh
+item.creators[11].role: field team
+item.creators[11].title: Whitmire, John C.
+item.creators[12].link: https://www.loc.gov/pictures/related/?fi=name&q=Stark%2C%20Nancy%20E.&co=hh
+item.creators[12].role: field team
+item.creators[12].title: Stark, Nancy E.
+item.creators[13].link: https://www.loc.gov/pictures/related/?fi=name&q=Steele%2C%20Mark%20W.&co=hh
+item.creators[13].role: field team
+item.creators[13].title: Steele, Mark W.
+item.display_offsite: true
+item.id: ca0124
+item.latitude / longitude: 37.991253,-122.131329
+item.link: https://www.loc.gov/pictures/item/ca0124/
+item.medium_brief: Photo(s): 14, Measured Drawing(s): 14, Data Page(s): 9
+item.mediums[0]: Photo(s): 14
+item.mediums[1]: Measured Drawing(s): 14
+item.mediums[2]: Data Page(s): 9
+item.modified: 2024-12-13T20:10:54Z
+item.notes[0]: See also HALS CA-132 for additional documentation.
+item.notes[1]: Significance: The house was built in 1882 by Dr. John Theophile Strentzel, outstanding early horticulturist and physician.  John Muir, who married Strentzel's daughter, made this his home from 1890 until his death in 1914. Here Muir, naturalist, conservationist and rancher, produced most of his significant published works on the flora and fauna of the west. Later occupied by various owners, the house was kept in reasonably good repair until 1952, but was later vacated and neglected for two years. Purchased in 1955 by Mr. and Mrs. Henry W. Sax, the house has been partially repaired and refurnished.
+item.notes[2]: Unprocessed Field note material exists for this structure: FN-84
+item.notes[3]: Survey number: HABS CA-1890
+item.notes[4]: Building/structure dates: 1882 Initial Construction
+item.notes[5]: National Register of Historic Places NRIS Number: 66000083
+item.other_title[0]: John Muir National Historic Site
+John Strentzel House
+Strentzel-Muir Ranch
+item.part_of: Historic American Buildings Survey (Library of Congress)
+item.part_of_group: Survey Number ca0124
+item.place[0].latitude: 37.991253
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Contra%20Costa%20County--Martinez&co=hh
+item.place[0].longitude: -122.131329
+item.place[0].title: California--Contra Costa County--Martinez
+item.raw_collections[0]: diof
+item.raw_collections[1]: hh
+item.raw_collections[2]: survey
+item.repository: Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.resource_links[0]: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/data/ca0124data.pdf
+item.resource_links[1]: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/supp/ca0124supp.pdf
+item.resource_links[2]: https://stage.loc.gov/pictures/search/?q=Photograph: ca0124&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true
+item.resource_links[3]: https://stage.loc.gov/pictures/search/?q=Drawing: ca0124&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true
+item.rights_advisory: No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html
+item.rights_information: No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419p_150px.jpg?q=ca0124.photos.020419p&c=14&st=gallery
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419pr.jpg?q=ca0124.photos.020419p&c=14&st=gallery
+item.source_created: 1970-01-01T00:00:00Z
+item.source_modified: 2024-05-20T17:37:00Z
+item.subject_headings[0]: historic house museums
+item.subject_headings[1]: houses
+item.subject_headings[2]: wildlife conservation
+item.subject_headings[3]: naturalists
+item.subject_headings[4]: Victorian architectural elements
+item.subject_headings[5]: national parks & reserves
+item.subject_headings[6]: authors
+item.subject_headings[7]: domestic life
+item.subject_headings[8]: California--Contra Costa County--Martinez
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419p_150px.jpg?q=ca0124.photos.020419p&c=14&st=gallery
+item.title: John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+latitude / longitude: 37.991253,-122.131329
+latlong[0]: 37.991253
+latlong[1]: -122.131329
+link: https://www.loc.gov/pictures/item/ca0124/
+location[0]: california
+location[1]: martinez
+location[2]: contra costa county
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].contra costa county: https://www.loc.gov/search/?fa=location:contra+costa+county&fo=json
+locations[2].martinez: https://www.loc.gov/search/?fa=location:martinez&fo=json
+lonlat[0]: -122.131329
+lonlat[1]: 37.991253
+medium[0]: Photo(s): 14
+medium[1]: Measured Drawing(s): 14
+medium[2]: Data Page(s): 9
+medium_brief: Photo(s): 14, Measured Drawing(s): 14, Data Page(s): 9
+mime_type[0]: image/gif
+mime_type[1]: application/pdf
+modified: 2024-12-13T20:10:54Z
+notes[0]: See also HALS CA-132 for additional documentation.
+notes[1]: Significance: The house was built in 1882 by Dr. John Theophile Strentzel, outstanding early horticulturist and physician.  John Muir, who married Strentzel's daughter, made this his home from 1890 until his death in 1914. Here Muir, naturalist, conservationist and rancher, produced most of his significant published works on the flora and fauna of the west. Later occupied by various owners, the house was kept in reasonably good repair until 1952, but was later vacated and neglected for two years. Purchased in 1955 by Mr. and Mrs. Henry W. Sax, the house has been partially repaired and refurnished.
+notes[2]: Unprocessed Field note material exists for this structure: FN-84
+notes[3]: Survey number: HABS CA-1890
+notes[4]: Building/structure dates: 1882 Initial Construction
+notes[5]: National Register of Historic Places NRIS Number: 66000083
+online_format[0]: image
+online_format[1]: pdf
+original_format[0]: photo, print, drawing
+other_title[0]: John Muir National Historic Site
+John Strentzel House
+Strentzel-Muir Ranch
+part_of_group: Survey Number ca0124
+partof[0].count: 45882
+partof[0].title: historic american buildings survey/historic american engineering record/historic american landscapes survey
+partof[0].url: https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json
+partof[1].count: 418988
+partof[1].title: american memory
+partof[1].url: https://www.loc.gov/search/?fa=partof:american+memory&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+place[0].latitude: 37.991253
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Contra%20Costa%20County--Martinez&co=hh
+place[0].longitude: -122.131329
+place[0].title: California--Contra Costa County--Martinez
+raw_collections[0]: diof
+raw_collections[1]: hh
+raw_collections[2]: survey
+related.neighbors: https://www.loc.gov/pictures/related/?&co=hh&pk=ca0124&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproductions[0]: If Digital Images Are Displaying
+
+You can download online images yourself. Alternatively, you can purchase copies of various types through Library of Congress Duplication Services.
+
+HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see Digitizing the Collection for further details about the digital images).
+
+Photographs--All photographs are printed from digital files to preserve the fragile originals.
+
+Make note of the Call Number and Item Number that appear under the photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2).
+
+If possible, include a printout of the photograph.
+
+Drawings--All drawings are printed from digital files to preserve the fragile originals.
+
+Make note of the Survey Number (e.g., HAER NY - 143) and Sheet Number (e.g., "Sheet 1 of 4"), which appear on the edge of the drawing. (NOTE: These numbers are visible in the Tiff "Reference Image" display.)
+
+If possible, include a printout of the drawing.
+
+Data Pages
+
+Make note of the Call Number in the catalog record.
+
+If Digital Images Are Not Displaying
+
+In the rare case that a digital image for HABS/HAER/HALS documentation is not displaying online, select images for reproduction through one of these methods:
+
+Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: https://www.loc.gov/rr/print/info/001_ref.html). It is best to contact reference staff in advance (see: https://www.loc.gov/rr/print/address.html) to make sure the material is on site. OR
+
+P&P reading room staff can provide up to 15 quick copies of items per calendar year (many original items in the holdings are too old or fragile to make such copies, but generally HABS/HAER/HALS materials are in good enough condition to be placed on photocopy machines). For assistance, see our Ask a Librarian page OR
+
+Hire a freelance researcher to do further selection for you (a list of researchers in available at: https://www.loc.gov/rr/print/resource/013_pic.html).
+
+You can purchase copies of various types, including quick copies, through Library of Congress Duplication Services (price lists, contact information, and order forms for Library of Congress Duplication Services are available on the Duplication Services Web site):
+
+Make note of the Call Number listed above.
+
+Look at the Medium field above. If it lists more than one item:
+
+The entire group can be ordered as photocopies or high-quality copies.
+
+All the items in a particular medium (e.g., all drawings, all photographs) can be ordered as photocopies or high-quality copies.
+resource_links[0]: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/data/ca0124data.pdf
+resource_links[1]: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/supp/ca0124supp.pdf
+resource_links[2]: https://stage.loc.gov/pictures/search/?q=Photograph: ca0124&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true
+resource_links[3]: https://stage.loc.gov/pictures/search/?q=Drawing: ca0124&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true
+resources[0].caption: Photos from Survey HABS CA-1890
+resources[0].files: 14
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419p_150px.jpg
+resources[0].url: https://www.loc.gov/resource/hhh.ca0124.photos
+resources[1].caption: Drawings from Survey HABS CA-1890
+resources[1].files: 14
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00000_150px.jpg
+resources[1].url: https://www.loc.gov/resource/hhh.ca0124.sheet
+resources[2].caption: Data Pages from Survey HABS CA-1890
+resources[2].files: 1
+resources[2].image: /static/images/original-format/manuscript-mixed-material.svg
+resources[3].caption: pdf version of supplemental pages
+resources[3].files: 1
+resources[3].image: /static/images/original-format/manuscript-mixed-material.svg
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information
+rights_advisory: No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html
+rights_information: No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html
+score: 19.46323
+shard: 00
+shelf_id: HABS CAL,7-MART,1-
+site[0]: pictures
+source_collection: Historic American Buildings Survey (Library of Congress)
+source_created: 1970-01-01T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: domestic life
+subject[1]: authors
+subject[2]: naturalists
+subject[3]: houses
+subject[4]: wildlife conservation
+subject[5]: historic house museums
+subject[6]: victorian architectural elements
+subject[7]: national parks & reserves
+subject_headings[0]: historic house museums
+subject_headings[1]: houses
+subject_headings[2]: wildlife conservation
+subject_headings[3]: naturalists
+subject_headings[4]: Victorian architectural elements
+subject_headings[5]: national parks & reserves
+subject_headings[6]: authors
+subject_headings[7]: domestic life
+subject_headings[8]: California--Contra Costa County--Martinez
+subjects[0].authors: https://www.loc.gov/search/?fa=subject:authors&fo=json
+subjects[1].domestic life: https://www.loc.gov/search/?fa=subject:domestic+life&fo=json
+subjects[2].historic house museums: https://www.loc.gov/search/?fa=subject:historic+house+museums&fo=json
+subjects[3].houses: https://www.loc.gov/search/?fa=subject:houses&fo=json
+subjects[4].national parks & reserves: https://www.loc.gov/search/?fa=subject:national+parks+%26+reserves&fo=json
+subjects[5].naturalists: https://www.loc.gov/search/?fa=subject:naturalists&fo=json
+subjects[6].victorian architectural elements: https://www.loc.gov/search/?fa=subject:victorian+architectural+elements&fo=json
+subjects[7].wildlife conservation: https://www.loc.gov/search/?fa=subject:wildlife+conservation&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419p_150px.jpg?q=ca0124.photos.020419p&c=14&st=gallery
+timestamp: 2025-01-13T19:20:56.280Z
+title: John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/ca0124/
+resources[0].caption: Photos from Survey HABS CA-1890
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 18227544
+resources[0].files[0][0].type: bw_photos
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020419pu.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 109
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpg
+resources[0].files[0][1].size: 5284
+resources[0].files[0][1].type: bw_photos
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419p_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 467
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/jpeg
+resources[0].files[0][2].size: 60402
+resources[0].files[0][2].type: bw_photos
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419pr.jpg
+resources[0].files[0][2].width: 640
+resources[0].files[0][3].height: 746
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 145941
+resources[0].files[0][3].type: bw_photos
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419pv.jpg
+resources[0].files[0][3].width: 1024
+resources[0].files[0][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020419p
+resources[0].files[0][4].mimetype: application/json
+resources[0].files[0][4].title: 1.  Historic American Buildings Survey Photograph Original 1900 - Recopy 1960 GENERAL VIEW FROM SOUTH - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[0][4].use: caption
+resources[0].files[1][0].height: 0
+resources[0].files[1][0].levels: 1
+resources[0].files[1][0].mimetype: image/tiff
+resources[0].files[1][0].size: 17912504
+resources[0].files[1][0].type: bw_photos
+resources[0].files[1][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020420pu.tif
+resources[0].files[1][0].width: 0
+resources[0].files[1][1].height: 107
+resources[0].files[1][1].levels: 1
+resources[0].files[1][1].mimetype: image/jpg
+resources[0].files[1][1].size: 5048
+resources[0].files[1][1].type: bw_photos
+resources[0].files[1][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020420p_150px.jpg
+resources[0].files[1][1].width: 150
+resources[0].files[1][2].height: 458
+resources[0].files[1][2].levels: 1
+resources[0].files[1][2].mimetype: image/jpeg
+resources[0].files[1][2].size: 54495
+resources[0].files[1][2].type: bw_photos
+resources[0].files[1][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020420pr.jpg
+resources[0].files[1][2].width: 640
+resources[0].files[1][3].height: 734
+resources[0].files[1][3].levels: 1
+resources[0].files[1][3].mimetype: image/jpeg
+resources[0].files[1][3].size: 126944
+resources[0].files[1][3].type: bw_photos
+resources[0].files[1][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020420pv.jpg
+resources[0].files[1][3].width: 1024
+resources[0].files[1][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020420p
+resources[0].files[1][4].mimetype: application/json
+resources[0].files[1][4].title: 2.  Historic American Buildings Survey Photograph Original C 1920 - Recopy 1960 NORTHEAST CORNER ELEVATION - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[1][4].use: caption
+resources[0].files[2][0].height: 0
+resources[0].files[2][0].levels: 1
+resources[0].files[2][0].mimetype: image/tiff
+resources[0].files[2][0].size: 18052520
+resources[0].files[2][0].type: bw_photos
+resources[0].files[2][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020421pu.tif
+resources[0].files[2][0].width: 0
+resources[0].files[2][1].height: 150
+resources[0].files[2][1].levels: 1
+resources[0].files[2][1].mimetype: image/jpg
+resources[0].files[2][1].size: 5834
+resources[0].files[2][1].type: bw_photos
+resources[0].files[2][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020421p_150px.jpg
+resources[0].files[2][1].width: 108
+resources[0].files[2][2].height: 640
+resources[0].files[2][2].levels: 1
+resources[0].files[2][2].mimetype: image/jpeg
+resources[0].files[2][2].size: 86499
+resources[0].files[2][2].type: bw_photos
+resources[0].files[2][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020421pr.jpg
+resources[0].files[2][2].width: 462
+resources[0].files[2][3].height: 1024
+resources[0].files[2][3].levels: 1
+resources[0].files[2][3].mimetype: image/jpeg
+resources[0].files[2][3].size: 194648
+resources[0].files[2][3].type: bw_photos
+resources[0].files[2][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020421pv.jpg
+resources[0].files[2][3].width: 739
+resources[0].files[2][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020421p
+resources[0].files[2][4].mimetype: application/json
+resources[0].files[2][4].title: 3. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 DETAIL FRONT (NORTH) ENTRANCE - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[2][4].use: caption
+resources[0].files[3][0].height: 0
+resources[0].files[3][0].levels: 1
+resources[0].files[3][0].mimetype: image/tiff
+resources[0].files[3][0].size: 17932520
+resources[0].files[3][0].type: bw_photos
+resources[0].files[3][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020422pu.tif
+resources[0].files[3][0].width: 0
+resources[0].files[3][1].height: 150
+resources[0].files[3][1].levels: 1
+resources[0].files[3][1].mimetype: image/jpg
+resources[0].files[3][1].size: 5460
+resources[0].files[3][1].type: bw_photos
+resources[0].files[3][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020422p_150px.jpg
+resources[0].files[3][1].width: 108
+resources[0].files[3][2].height: 640
+resources[0].files[3][2].levels: 1
+resources[0].files[3][2].mimetype: image/jpeg
+resources[0].files[3][2].size: 91846
+resources[0].files[3][2].type: bw_photos
+resources[0].files[3][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020422pr.jpg
+resources[0].files[3][2].width: 459
+resources[0].files[3][3].height: 1024
+resources[0].files[3][3].levels: 1
+resources[0].files[3][3].mimetype: image/jpeg
+resources[0].files[3][3].size: 216260
+resources[0].files[3][3].type: bw_photos
+resources[0].files[3][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020422pv.jpg
+resources[0].files[3][3].width: 734
+resources[0].files[3][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020422p
+resources[0].files[3][4].mimetype: application/json
+resources[0].files[3][4].title: 4. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 FRONT (NORTH) ELEVATION - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[3][4].use: caption
+resources[0].files[4][0].height: 0
+resources[0].files[4][0].levels: 1
+resources[0].files[4][0].mimetype: image/tiff
+resources[0].files[4][0].size: 18087520
+resources[0].files[4][0].type: bw_photos
+resources[0].files[4][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020423pu.tif
+resources[0].files[4][0].width: 0
+resources[0].files[4][1].height: 150
+resources[0].files[4][1].levels: 1
+resources[0].files[4][1].mimetype: image/jpg
+resources[0].files[4][1].size: 5977
+resources[0].files[4][1].type: bw_photos
+resources[0].files[4][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020423p_150px.jpg
+resources[0].files[4][1].width: 109
+resources[0].files[4][2].height: 640
+resources[0].files[4][2].levels: 1
+resources[0].files[4][2].mimetype: image/jpeg
+resources[0].files[4][2].size: 79470
+resources[0].files[4][2].type: bw_photos
+resources[0].files[4][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020423pr.jpg
+resources[0].files[4][2].width: 463
+resources[0].files[4][3].height: 1024
+resources[0].files[4][3].levels: 1
+resources[0].files[4][3].mimetype: image/jpeg
+resources[0].files[4][3].size: 172676
+resources[0].files[4][3].type: bw_photos
+resources[0].files[4][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020423pv.jpg
+resources[0].files[4][3].width: 741
+resources[0].files[4][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020423p
+resources[0].files[4][4].mimetype: application/json
+resources[0].files[4][4].title: 5. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 DETAIL OF WEST ELEVATION - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[4][4].use: caption
+resources[0].files[5][0].height: 0
+resources[0].files[5][0].levels: 1
+resources[0].files[5][0].mimetype: image/tiff
+resources[0].files[5][0].size: 17842520
+resources[0].files[5][0].type: bw_photos
+resources[0].files[5][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020424pu.tif
+resources[0].files[5][0].width: 0
+resources[0].files[5][1].height: 150
+resources[0].files[5][1].levels: 1
+resources[0].files[5][1].mimetype: image/jpg
+resources[0].files[5][1].size: 5257
+resources[0].files[5][1].type: bw_photos
+resources[0].files[5][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020424p_150px.jpg
+resources[0].files[5][1].width: 107
+resources[0].files[5][2].height: 640
+resources[0].files[5][2].levels: 1
+resources[0].files[5][2].mimetype: image/jpeg
+resources[0].files[5][2].size: 77975
+resources[0].files[5][2].type: bw_photos
+resources[0].files[5][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020424pr.jpg
+resources[0].files[5][2].width: 457
+resources[0].files[5][3].height: 1024
+resources[0].files[5][3].levels: 1
+resources[0].files[5][3].mimetype: image/jpeg
+resources[0].files[5][3].size: 182527
+resources[0].files[5][3].type: bw_photos
+resources[0].files[5][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020424pv.jpg
+resources[0].files[5][3].width: 731
+resources[0].files[5][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020424p
+resources[0].files[5][4].mimetype: application/json
+resources[0].files[5][4].title: 6. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 WEST PORCH - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[5][4].use: caption
+resources[0].files[6][0].height: 0
+resources[0].files[6][0].levels: 1
+resources[0].files[6][0].mimetype: image/tiff
+resources[0].files[6][0].size: 17792488
+resources[0].files[6][0].type: bw_photos
+resources[0].files[6][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020425pu.tif
+resources[0].files[6][0].width: 0
+resources[0].files[6][1].height: 107
+resources[0].files[6][1].levels: 1
+resources[0].files[6][1].mimetype: image/jpg
+resources[0].files[6][1].size: 6317
+resources[0].files[6][1].type: bw_photos
+resources[0].files[6][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020425p_150px.jpg
+resources[0].files[6][1].width: 150
+resources[0].files[6][2].height: 455
+resources[0].files[6][2].levels: 1
+resources[0].files[6][2].mimetype: image/jpeg
+resources[0].files[6][2].size: 105001
+resources[0].files[6][2].type: bw_photos
+resources[0].files[6][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020425pr.jpg
+resources[0].files[6][2].width: 640
+resources[0].files[6][3].height: 729
+resources[0].files[6][3].levels: 1
+resources[0].files[6][3].mimetype: image/jpeg
+resources[0].files[6][3].size: 250788
+resources[0].files[6][3].type: bw_photos
+resources[0].files[6][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020425pv.jpg
+resources[0].files[6][3].width: 1024
+resources[0].files[6][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020425p
+resources[0].files[6][4].mimetype: application/json
+resources[0].files[6][4].title: 7. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 SOUTHWEST ELEVATION - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[6][4].use: caption
+resources[0].files[7][0].height: 0
+resources[0].files[7][0].levels: 1
+resources[0].files[7][0].mimetype: image/tiff
+resources[0].files[7][0].size: 17947512
+resources[0].files[7][0].type: bw_photos
+resources[0].files[7][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020426pu.tif
+resources[0].files[7][0].width: 0
+resources[0].files[7][1].height: 108
+resources[0].files[7][1].levels: 1
+resources[0].files[7][1].mimetype: image/jpg
+resources[0].files[7][1].size: 4755
+resources[0].files[7][1].type: bw_photos
+resources[0].files[7][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020426p_150px.jpg
+resources[0].files[7][1].width: 150
+resources[0].files[7][2].height: 459
+resources[0].files[7][2].levels: 1
+resources[0].files[7][2].mimetype: image/jpeg
+resources[0].files[7][2].size: 63739
+resources[0].files[7][2].type: bw_photos
+resources[0].files[7][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020426pr.jpg
+resources[0].files[7][2].width: 640
+resources[0].files[7][3].height: 735
+resources[0].files[7][3].levels: 1
+resources[0].files[7][3].mimetype: image/jpeg
+resources[0].files[7][3].size: 144580
+resources[0].files[7][3].type: bw_photos
+resources[0].files[7][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020426pv.jpg
+resources[0].files[7][3].width: 1024
+resources[0].files[7][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020426p
+resources[0].files[7][4].mimetype: application/json
+resources[0].files[7][4].title: 8. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 CUPOLA - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[7][4].use: caption
+resources[0].files[8][0].height: 0
+resources[0].files[8][0].levels: 1
+resources[0].files[8][0].mimetype: image/tiff
+resources[0].files[8][0].size: 18012520
+resources[0].files[8][0].type: bw_photos
+resources[0].files[8][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020427pu.tif
+resources[0].files[8][0].width: 0
+resources[0].files[8][1].height: 150
+resources[0].files[8][1].levels: 1
+resources[0].files[8][1].mimetype: image/jpg
+resources[0].files[8][1].size: 5727
+resources[0].files[8][1].type: bw_photos
+resources[0].files[8][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020427p_150px.jpg
+resources[0].files[8][1].width: 108
+resources[0].files[8][2].height: 640
+resources[0].files[8][2].levels: 1
+resources[0].files[8][2].mimetype: image/jpeg
+resources[0].files[8][2].size: 77859
+resources[0].files[8][2].type: bw_photos
+resources[0].files[8][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020427pr.jpg
+resources[0].files[8][2].width: 461
+resources[0].files[8][3].height: 1024
+resources[0].files[8][3].levels: 1
+resources[0].files[8][3].mimetype: image/jpeg
+resources[0].files[8][3].size: 175144
+resources[0].files[8][3].type: bw_photos
+resources[0].files[8][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020427pv.jpg
+resources[0].files[8][3].width: 738
+resources[0].files[8][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020427p
+resources[0].files[8][4].mimetype: application/json
+resources[0].files[8][4].title: 9. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 STAIR HALL FROM ENTRANCE - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[8][4].use: caption
+resources[0].files[9][0].height: 0
+resources[0].files[9][0].levels: 1
+resources[0].files[9][0].mimetype: image/tiff
+resources[0].files[9][0].size: 17957520
+resources[0].files[9][0].type: bw_photos
+resources[0].files[9][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020428pu.tif
+resources[0].files[9][0].width: 0
+resources[0].files[9][1].height: 150
+resources[0].files[9][1].levels: 1
+resources[0].files[9][1].mimetype: image/jpg
+resources[0].files[9][1].size: 4882
+resources[0].files[9][1].type: bw_photos
+resources[0].files[9][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020428p_150px.jpg
+resources[0].files[9][1].width: 108
+resources[0].files[9][2].height: 640
+resources[0].files[9][2].levels: 1
+resources[0].files[9][2].mimetype: image/jpeg
+resources[0].files[9][2].size: 63538
+resources[0].files[9][2].type: bw_photos
+resources[0].files[9][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020428pr.jpg
+resources[0].files[9][2].width: 460
+resources[0].files[9][3].height: 1024
+resources[0].files[9][3].levels: 1
+resources[0].files[9][3].mimetype: image/jpeg
+resources[0].files[9][3].size: 143461
+resources[0].files[9][3].type: bw_photos
+resources[0].files[9][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020428pv.jpg
+resources[0].files[9][3].width: 735
+resources[0].files[9][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020428p
+resources[0].files[9][4].mimetype: application/json
+resources[0].files[9][4].title: 10. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 WEST PARLOR - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[9][4].use: caption
+resources[0].files[10][0].height: 0
+resources[0].files[10][0].levels: 1
+resources[0].files[10][0].mimetype: image/tiff
+resources[0].files[10][0].size: 17912504
+resources[0].files[10][0].type: bw_photos
+resources[0].files[10][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020429pu.tif
+resources[0].files[10][0].width: 0
+resources[0].files[10][1].height: 107
+resources[0].files[10][1].levels: 1
+resources[0].files[10][1].mimetype: image/jpg
+resources[0].files[10][1].size: 4187
+resources[0].files[10][1].type: bw_photos
+resources[0].files[10][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020429p_150px.jpg
+resources[0].files[10][1].width: 150
+resources[0].files[10][2].height: 458
+resources[0].files[10][2].levels: 1
+resources[0].files[10][2].mimetype: image/jpeg
+resources[0].files[10][2].size: 52104
+resources[0].files[10][2].type: bw_photos
+resources[0].files[10][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020429pr.jpg
+resources[0].files[10][2].width: 640
+resources[0].files[10][3].height: 734
+resources[0].files[10][3].levels: 1
+resources[0].files[10][3].mimetype: image/jpeg
+resources[0].files[10][3].size: 123511
+resources[0].files[10][3].type: bw_photos
+resources[0].files[10][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020429pv.jpg
+resources[0].files[10][3].width: 1024
+resources[0].files[10][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020429p
+resources[0].files[10][4].mimetype: application/json
+resources[0].files[10][4].title: 11. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 CEILING MEDALLION, WEST PARLOR - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[10][4].use: caption
+resources[0].files[11][0].height: 0
+resources[0].files[11][0].levels: 1
+resources[0].files[11][0].mimetype: image/tiff
+resources[0].files[11][0].size: 17932520
+resources[0].files[11][0].type: bw_photos
+resources[0].files[11][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020430pu.tif
+resources[0].files[11][0].width: 0
+resources[0].files[11][1].height: 150
+resources[0].files[11][1].levels: 1
+resources[0].files[11][1].mimetype: image/jpg
+resources[0].files[11][1].size: 5719
+resources[0].files[11][1].type: bw_photos
+resources[0].files[11][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020430p_150px.jpg
+resources[0].files[11][1].width: 108
+resources[0].files[11][2].height: 640
+resources[0].files[11][2].levels: 1
+resources[0].files[11][2].mimetype: image/jpeg
+resources[0].files[11][2].size: 73871
+resources[0].files[11][2].type: bw_photos
+resources[0].files[11][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020430pr.jpg
+resources[0].files[11][2].width: 459
+resources[0].files[11][3].height: 1024
+resources[0].files[11][3].levels: 1
+resources[0].files[11][3].mimetype: image/jpeg
+resources[0].files[11][3].size: 165798
+resources[0].files[11][3].type: bw_photos
+resources[0].files[11][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020430pv.jpg
+resources[0].files[11][3].width: 734
+resources[0].files[11][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020430p
+resources[0].files[11][4].mimetype: application/json
+resources[0].files[11][4].title: 12. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 DETAIL OF LIBRARY - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[11][4].use: caption
+resources[0].files[12][0].height: 0
+resources[0].files[12][0].levels: 1
+resources[0].files[12][0].mimetype: image/tiff
+resources[0].files[12][0].size: 18127520
+resources[0].files[12][0].type: bw_photos
+resources[0].files[12][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020431pu.tif
+resources[0].files[12][0].width: 0
+resources[0].files[12][1].height: 150
+resources[0].files[12][1].levels: 1
+resources[0].files[12][1].mimetype: image/jpg
+resources[0].files[12][1].size: 4552
+resources[0].files[12][1].type: bw_photos
+resources[0].files[12][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020431p_150px.jpg
+resources[0].files[12][1].width: 109
+resources[0].files[12][2].height: 640
+resources[0].files[12][2].levels: 1
+resources[0].files[12][2].mimetype: image/jpeg
+resources[0].files[12][2].size: 57900
+resources[0].files[12][2].type: bw_photos
+resources[0].files[12][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020431pr.jpg
+resources[0].files[12][2].width: 464
+resources[0].files[12][3].height: 1024
+resources[0].files[12][3].levels: 1
+resources[0].files[12][3].mimetype: image/jpeg
+resources[0].files[12][3].size: 129124
+resources[0].files[12][3].type: bw_photos
+resources[0].files[12][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020431pv.jpg
+resources[0].files[12][3].width: 742
+resources[0].files[12][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020431p
+resources[0].files[12][4].mimetype: application/json
+resources[0].files[12][4].title: 13. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 JOHN MUIR BEDROOM & STUDY - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[12][4].use: caption
+resources[0].files[13][0].height: 0
+resources[0].files[13][0].levels: 1
+resources[0].files[13][0].mimetype: image/tiff
+resources[0].files[13][0].size: 17832524
+resources[0].files[13][0].type: bw_photos
+resources[0].files[13][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/photos/020432pu.tif
+resources[0].files[13][0].width: 0
+resources[0].files[13][1].height: 150
+resources[0].files[13][1].levels: 1
+resources[0].files[13][1].mimetype: image/jpg
+resources[0].files[13][1].size: 5312
+resources[0].files[13][1].type: bw_photos
+resources[0].files[13][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020432p_150px.jpg
+resources[0].files[13][1].width: 107
+resources[0].files[13][2].height: 640
+resources[0].files[13][2].levels: 1
+resources[0].files[13][2].mimetype: image/jpeg
+resources[0].files[13][2].size: 55996
+resources[0].files[13][2].type: bw_photos
+resources[0].files[13][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020432pr.jpg
+resources[0].files[13][2].width: 458
+resources[0].files[13][3].height: 1024
+resources[0].files[13][3].levels: 1
+resources[0].files[13][3].mimetype: image/jpeg
+resources[0].files[13][3].size: 138021
+resources[0].files[13][3].type: bw_photos
+resources[0].files[13][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020432pv.jpg
+resources[0].files[13][3].width: 732
+resources[0].files[13][4].aka: https://www.loc.gov/resource/hhh.ca0124.photos.020432p
+resources[0].files[13][4].mimetype: application/json
+resources[0].files[13][4].title: 14. Historic American Buildings Survey, Jack E. Boucher, photographer, October 1960 FIREPLACE, SECOND FLOOR BEDROOM - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[0].files[13][4].use: caption
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/photos/020419p_150px.jpg
+resources[0].url: https://www.loc.gov/resource/hhh.ca0124.photos
+resources[1].caption: Drawings from Survey HABS CA-1890
+resources[1].files[0][0].height: 0
+resources[1].files[0][0].levels: 1
+resources[1].files[0][0].mimetype: image/tiff
+resources[1].files[0][0].size: 102948
+resources[1].files[0][0].type: drawing
+resources[1].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00000a.tif
+resources[1].files[0][0].width: 0
+resources[1].files[0][1].height: 115
+resources[1].files[0][1].levels: 1
+resources[1].files[0][1].mimetype: image/jpg
+resources[1].files[0][1].size: 2341
+resources[1].files[0][1].type: drawing
+resources[1].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00000_150px.jpg
+resources[1].files[0][1].width: 150
+resources[1].files[0][2].height: 489
+resources[1].files[0][2].levels: 1
+resources[1].files[0][2].mimetype: image/jpeg
+resources[1].files[0][2].size: 20854
+resources[1].files[0][2].type: drawing
+resources[1].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00000r.jpg
+resources[1].files[0][2].width: 640
+resources[1].files[0][3].height: 782
+resources[1].files[0][3].levels: 1
+resources[1].files[0][3].mimetype: image/jpeg
+resources[1].files[0][3].size: 40267
+resources[1].files[0][3].type: drawing
+resources[1].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00000v.jpg
+resources[1].files[0][3].width: 1024
+resources[1].files[0][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00000a
+resources[1].files[0][4].mimetype: application/json
+resources[1].files[0][4].title: 0. Cover sheet - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[0][4].use: caption
+resources[1].files[1][0].height: 0
+resources[1].files[1][0].levels: 1
+resources[1].files[1][0].mimetype: image/tiff
+resources[1].files[1][0].size: 530592
+resources[1].files[1][0].type: drawing
+resources[1].files[1][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00001a.tif
+resources[1].files[1][0].width: 0
+resources[1].files[1][1].height: 118
+resources[1].files[1][1].levels: 1
+resources[1].files[1][1].mimetype: image/jpg
+resources[1].files[1][1].size: 5271
+resources[1].files[1][1].type: drawing
+resources[1].files[1][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00001_150px.jpg
+resources[1].files[1][1].width: 150
+resources[1].files[1][2].height: 502
+resources[1].files[1][2].levels: 1
+resources[1].files[1][2].mimetype: image/jpeg
+resources[1].files[1][2].size: 71870
+resources[1].files[1][2].type: drawing
+resources[1].files[1][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00001r.jpg
+resources[1].files[1][2].width: 640
+resources[1].files[1][3].height: 803
+resources[1].files[1][3].levels: 1
+resources[1].files[1][3].mimetype: image/jpeg
+resources[1].files[1][3].size: 149363
+resources[1].files[1][3].type: drawing
+resources[1].files[1][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00001v.jpg
+resources[1].files[1][3].width: 1024
+resources[1].files[1][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00001a
+resources[1].files[1][4].mimetype: application/json
+resources[1].files[1][4].title: 1. Location and site plans - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[1][4].use: caption
+resources[1].files[2][0].height: 0
+resources[1].files[2][0].levels: 1
+resources[1].files[2][0].mimetype: image/tiff
+resources[1].files[2][0].size: 451174
+resources[1].files[2][0].type: drawing
+resources[1].files[2][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00002a.tif
+resources[1].files[2][0].width: 0
+resources[1].files[2][1].height: 118
+resources[1].files[2][1].levels: 1
+resources[1].files[2][1].mimetype: image/jpg
+resources[1].files[2][1].size: 4831
+resources[1].files[2][1].type: drawing
+resources[1].files[2][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00002_150px.jpg
+resources[1].files[2][1].width: 150
+resources[1].files[2][2].height: 502
+resources[1].files[2][2].levels: 1
+resources[1].files[2][2].mimetype: image/jpeg
+resources[1].files[2][2].size: 58745
+resources[1].files[2][2].type: drawing
+resources[1].files[2][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00002r.jpg
+resources[1].files[2][2].width: 640
+resources[1].files[2][3].height: 803
+resources[1].files[2][3].levels: 1
+resources[1].files[2][3].mimetype: image/jpeg
+resources[1].files[2][3].size: 111714
+resources[1].files[2][3].type: drawing
+resources[1].files[2][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00002v.jpg
+resources[1].files[2][3].width: 1024
+resources[1].files[2][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00002a
+resources[1].files[2][4].mimetype: application/json
+resources[1].files[2][4].title: 2. Basement and first floor plans - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[2][4].use: caption
+resources[1].files[3][0].height: 0
+resources[1].files[3][0].levels: 1
+resources[1].files[3][0].mimetype: image/tiff
+resources[1].files[3][0].size: 409414
+resources[1].files[3][0].type: drawing
+resources[1].files[3][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00003a.tif
+resources[1].files[3][0].width: 0
+resources[1].files[3][1].height: 118
+resources[1].files[3][1].levels: 1
+resources[1].files[3][1].mimetype: image/jpg
+resources[1].files[3][1].size: 4721
+resources[1].files[3][1].type: drawing
+resources[1].files[3][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00003_150px.jpg
+resources[1].files[3][1].width: 150
+resources[1].files[3][2].height: 502
+resources[1].files[3][2].levels: 1
+resources[1].files[3][2].mimetype: image/jpeg
+resources[1].files[3][2].size: 58979
+resources[1].files[3][2].type: drawing
+resources[1].files[3][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00003r.jpg
+resources[1].files[3][2].width: 640
+resources[1].files[3][3].height: 803
+resources[1].files[3][3].levels: 1
+resources[1].files[3][3].mimetype: image/jpeg
+resources[1].files[3][3].size: 111214
+resources[1].files[3][3].type: drawing
+resources[1].files[3][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00003v.jpg
+resources[1].files[3][3].width: 1024
+resources[1].files[3][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00003a
+resources[1].files[3][4].mimetype: application/json
+resources[1].files[3][4].title: 3. Second floor and attic plans - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[3][4].use: caption
+resources[1].files[4][0].height: 0
+resources[1].files[4][0].levels: 1
+resources[1].files[4][0].mimetype: image/tiff
+resources[1].files[4][0].size: 741912
+resources[1].files[4][0].type: drawing
+resources[1].files[4][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00004a.tif
+resources[1].files[4][0].width: 0
+resources[1].files[4][1].height: 118
+resources[1].files[4][1].levels: 1
+resources[1].files[4][1].mimetype: image/jpg
+resources[1].files[4][1].size: 3373
+resources[1].files[4][1].type: drawing
+resources[1].files[4][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00004_150px.jpg
+resources[1].files[4][1].width: 150
+resources[1].files[4][2].height: 502
+resources[1].files[4][2].levels: 1
+resources[1].files[4][2].mimetype: image/jpeg
+resources[1].files[4][2].size: 44697
+resources[1].files[4][2].type: drawing
+resources[1].files[4][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00004r.jpg
+resources[1].files[4][2].width: 640
+resources[1].files[4][3].height: 803
+resources[1].files[4][3].levels: 1
+resources[1].files[4][3].mimetype: image/jpeg
+resources[1].files[4][3].size: 95014
+resources[1].files[4][3].type: drawing
+resources[1].files[4][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00004v.jpg
+resources[1].files[4][3].width: 1024
+resources[1].files[4][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00004a
+resources[1].files[4][4].mimetype: application/json
+resources[1].files[4][4].title: 4. North elevation - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[4][4].use: caption
+resources[1].files[5][0].height: 0
+resources[1].files[5][0].levels: 1
+resources[1].files[5][0].mimetype: image/tiff
+resources[1].files[5][0].size: 959736
+resources[1].files[5][0].type: drawing
+resources[1].files[5][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00005a.tif
+resources[1].files[5][0].width: 0
+resources[1].files[5][1].height: 118
+resources[1].files[5][1].levels: 1
+resources[1].files[5][1].mimetype: image/jpg
+resources[1].files[5][1].size: 3995
+resources[1].files[5][1].type: drawing
+resources[1].files[5][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00005_150px.jpg
+resources[1].files[5][1].width: 150
+resources[1].files[5][2].height: 502
+resources[1].files[5][2].levels: 1
+resources[1].files[5][2].mimetype: image/jpeg
+resources[1].files[5][2].size: 55523
+resources[1].files[5][2].type: drawing
+resources[1].files[5][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00005r.jpg
+resources[1].files[5][2].width: 640
+resources[1].files[5][3].height: 803
+resources[1].files[5][3].levels: 1
+resources[1].files[5][3].mimetype: image/jpeg
+resources[1].files[5][3].size: 119419
+resources[1].files[5][3].type: drawing
+resources[1].files[5][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00005v.jpg
+resources[1].files[5][3].width: 1024
+resources[1].files[5][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00005a
+resources[1].files[5][4].mimetype: application/json
+resources[1].files[5][4].title: 5. East elevation - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[5][4].use: caption
+resources[1].files[6][0].height: 0
+resources[1].files[6][0].levels: 1
+resources[1].files[6][0].mimetype: image/tiff
+resources[1].files[6][0].size: 712484
+resources[1].files[6][0].type: drawing
+resources[1].files[6][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00006a.tif
+resources[1].files[6][0].width: 0
+resources[1].files[6][1].height: 118
+resources[1].files[6][1].levels: 1
+resources[1].files[6][1].mimetype: image/jpg
+resources[1].files[6][1].size: 3364
+resources[1].files[6][1].type: drawing
+resources[1].files[6][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00006_150px.jpg
+resources[1].files[6][1].width: 150
+resources[1].files[6][2].height: 502
+resources[1].files[6][2].levels: 1
+resources[1].files[6][2].mimetype: image/jpeg
+resources[1].files[6][2].size: 43385
+resources[1].files[6][2].type: drawing
+resources[1].files[6][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00006r.jpg
+resources[1].files[6][2].width: 640
+resources[1].files[6][3].height: 803
+resources[1].files[6][3].levels: 1
+resources[1].files[6][3].mimetype: image/jpeg
+resources[1].files[6][3].size: 93343
+resources[1].files[6][3].type: drawing
+resources[1].files[6][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00006v.jpg
+resources[1].files[6][3].width: 1024
+resources[1].files[6][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00006a
+resources[1].files[6][4].mimetype: application/json
+resources[1].files[6][4].title: 6. South elevation - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[6][4].use: caption
+resources[1].files[7][0].height: 0
+resources[1].files[7][0].levels: 1
+resources[1].files[7][0].mimetype: image/tiff
+resources[1].files[7][0].size: 968180
+resources[1].files[7][0].type: drawing
+resources[1].files[7][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00007a.tif
+resources[1].files[7][0].width: 0
+resources[1].files[7][1].height: 118
+resources[1].files[7][1].levels: 1
+resources[1].files[7][1].mimetype: image/jpg
+resources[1].files[7][1].size: 4005
+resources[1].files[7][1].type: drawing
+resources[1].files[7][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00007_150px.jpg
+resources[1].files[7][1].width: 150
+resources[1].files[7][2].height: 502
+resources[1].files[7][2].levels: 1
+resources[1].files[7][2].mimetype: image/jpeg
+resources[1].files[7][2].size: 56119
+resources[1].files[7][2].type: drawing
+resources[1].files[7][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00007r.jpg
+resources[1].files[7][2].width: 640
+resources[1].files[7][3].height: 803
+resources[1].files[7][3].levels: 1
+resources[1].files[7][3].mimetype: image/jpeg
+resources[1].files[7][3].size: 122010
+resources[1].files[7][3].type: drawing
+resources[1].files[7][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00007v.jpg
+resources[1].files[7][3].width: 1024
+resources[1].files[7][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00007a
+resources[1].files[7][4].mimetype: application/json
+resources[1].files[7][4].title: 7. West elevation - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[7][4].use: caption
+resources[1].files[8][0].height: 0
+resources[1].files[8][0].levels: 1
+resources[1].files[8][0].mimetype: image/tiff
+resources[1].files[8][0].size: 678096
+resources[1].files[8][0].type: drawing
+resources[1].files[8][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00008a.tif
+resources[1].files[8][0].width: 0
+resources[1].files[8][1].height: 118
+resources[1].files[8][1].levels: 1
+resources[1].files[8][1].mimetype: image/jpg
+resources[1].files[8][1].size: 4101
+resources[1].files[8][1].type: drawing
+resources[1].files[8][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00008_150px.jpg
+resources[1].files[8][1].width: 150
+resources[1].files[8][2].height: 503
+resources[1].files[8][2].levels: 1
+resources[1].files[8][2].mimetype: image/jpeg
+resources[1].files[8][2].size: 55846
+resources[1].files[8][2].type: drawing
+resources[1].files[8][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00008r.jpg
+resources[1].files[8][2].width: 640
+resources[1].files[8][3].height: 805
+resources[1].files[8][3].levels: 1
+resources[1].files[8][3].mimetype: image/jpeg
+resources[1].files[8][3].size: 112512
+resources[1].files[8][3].type: drawing
+resources[1].files[8][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00008v.jpg
+resources[1].files[8][3].width: 1024
+resources[1].files[8][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00008a
+resources[1].files[8][4].mimetype: application/json
+resources[1].files[8][4].title: 8. Longitudinal section - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[8][4].use: caption
+resources[1].files[9][0].height: 0
+resources[1].files[9][0].levels: 1
+resources[1].files[9][0].mimetype: image/tiff
+resources[1].files[9][0].size: 731682
+resources[1].files[9][0].type: drawing
+resources[1].files[9][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00009a.tif
+resources[1].files[9][0].width: 0
+resources[1].files[9][1].height: 118
+resources[1].files[9][1].levels: 1
+resources[1].files[9][1].mimetype: image/jpg
+resources[1].files[9][1].size: 4410
+resources[1].files[9][1].type: drawing
+resources[1].files[9][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00009_150px.jpg
+resources[1].files[9][1].width: 150
+resources[1].files[9][2].height: 503
+resources[1].files[9][2].levels: 1
+resources[1].files[9][2].mimetype: image/jpeg
+resources[1].files[9][2].size: 64739
+resources[1].files[9][2].type: drawing
+resources[1].files[9][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00009r.jpg
+resources[1].files[9][2].width: 640
+resources[1].files[9][3].height: 804
+resources[1].files[9][3].levels: 1
+resources[1].files[9][3].mimetype: image/jpeg
+resources[1].files[9][3].size: 134523
+resources[1].files[9][3].type: drawing
+resources[1].files[9][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00009v.jpg
+resources[1].files[9][3].width: 1024
+resources[1].files[9][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00009a
+resources[1].files[9][4].mimetype: application/json
+resources[1].files[9][4].title: 9. Front porch details - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[9][4].use: caption
+resources[1].files[10][0].height: 0
+resources[1].files[10][0].levels: 1
+resources[1].files[10][0].mimetype: image/tiff
+resources[1].files[10][0].size: 674366
+resources[1].files[10][0].type: drawing
+resources[1].files[10][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00010a.tif
+resources[1].files[10][0].width: 0
+resources[1].files[10][1].height: 118
+resources[1].files[10][1].levels: 1
+resources[1].files[10][1].mimetype: image/jpg
+resources[1].files[10][1].size: 4546
+resources[1].files[10][1].type: drawing
+resources[1].files[10][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00010_150px.jpg
+resources[1].files[10][1].width: 150
+resources[1].files[10][2].height: 503
+resources[1].files[10][2].levels: 1
+resources[1].files[10][2].mimetype: image/jpeg
+resources[1].files[10][2].size: 65129
+resources[1].files[10][2].type: drawing
+resources[1].files[10][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00010r.jpg
+resources[1].files[10][2].width: 640
+resources[1].files[10][3].height: 805
+resources[1].files[10][3].levels: 1
+resources[1].files[10][3].mimetype: image/jpeg
+resources[1].files[10][3].size: 130175
+resources[1].files[10][3].type: drawing
+resources[1].files[10][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00010v.jpg
+resources[1].files[10][3].width: 1024
+resources[1].files[10][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00010a
+resources[1].files[10][4].mimetype: application/json
+resources[1].files[10][4].title: 10. Cornice, porches, and cupola details - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[10][4].use: caption
+resources[1].files[11][0].height: 0
+resources[1].files[11][0].levels: 1
+resources[1].files[11][0].mimetype: image/tiff
+resources[1].files[11][0].size: 780590
+resources[1].files[11][0].type: drawing
+resources[1].files[11][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00011a.tif
+resources[1].files[11][0].width: 0
+resources[1].files[11][1].height: 118
+resources[1].files[11][1].levels: 1
+resources[1].files[11][1].mimetype: image/jpg
+resources[1].files[11][1].size: 5008
+resources[1].files[11][1].type: drawing
+resources[1].files[11][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00011_150px.jpg
+resources[1].files[11][1].width: 150
+resources[1].files[11][2].height: 502
+resources[1].files[11][2].levels: 1
+resources[1].files[11][2].mimetype: image/jpeg
+resources[1].files[11][2].size: 70684
+resources[1].files[11][2].type: drawing
+resources[1].files[11][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00011r.jpg
+resources[1].files[11][2].width: 640
+resources[1].files[11][3].height: 803
+resources[1].files[11][3].levels: 1
+resources[1].files[11][3].mimetype: image/jpeg
+resources[1].files[11][3].size: 148330
+resources[1].files[11][3].type: drawing
+resources[1].files[11][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00011v.jpg
+resources[1].files[11][3].width: 1024
+resources[1].files[11][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00011a
+resources[1].files[11][4].mimetype: application/json
+resources[1].files[11][4].title: 11. Interior details - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[11][4].use: caption
+resources[1].files[12][0].height: 0
+resources[1].files[12][0].levels: 1
+resources[1].files[12][0].mimetype: image/tiff
+resources[1].files[12][0].size: 653414
+resources[1].files[12][0].type: drawing
+resources[1].files[12][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00012a.tif
+resources[1].files[12][0].width: 0
+resources[1].files[12][1].height: 118
+resources[1].files[12][1].levels: 1
+resources[1].files[12][1].mimetype: image/jpg
+resources[1].files[12][1].size: 4533
+resources[1].files[12][1].type: drawing
+resources[1].files[12][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00012_150px.jpg
+resources[1].files[12][1].width: 150
+resources[1].files[12][2].height: 502
+resources[1].files[12][2].levels: 1
+resources[1].files[12][2].mimetype: image/jpeg
+resources[1].files[12][2].size: 61598
+resources[1].files[12][2].type: drawing
+resources[1].files[12][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00012r.jpg
+resources[1].files[12][2].width: 640
+resources[1].files[12][3].height: 803
+resources[1].files[12][3].levels: 1
+resources[1].files[12][3].mimetype: image/jpeg
+resources[1].files[12][3].size: 127590
+resources[1].files[12][3].type: drawing
+resources[1].files[12][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00012v.jpg
+resources[1].files[12][3].width: 1024
+resources[1].files[12][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00012a
+resources[1].files[12][4].mimetype: application/json
+resources[1].files[12][4].title: 12. Dining room details - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[12][4].use: caption
+resources[1].files[13][0].height: 0
+resources[1].files[13][0].levels: 1
+resources[1].files[13][0].mimetype: image/tiff
+resources[1].files[13][0].size: 554094
+resources[1].files[13][0].type: drawing
+resources[1].files[13][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/sheet/00013a.tif
+resources[1].files[13][0].width: 0
+resources[1].files[13][1].height: 118
+resources[1].files[13][1].levels: 1
+resources[1].files[13][1].mimetype: image/jpg
+resources[1].files[13][1].size: 4320
+resources[1].files[13][1].type: drawing
+resources[1].files[13][1].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00013_150px.jpg
+resources[1].files[13][1].width: 150
+resources[1].files[13][2].height: 502
+resources[1].files[13][2].levels: 1
+resources[1].files[13][2].mimetype: image/jpeg
+resources[1].files[13][2].size: 58817
+resources[1].files[13][2].type: drawing
+resources[1].files[13][2].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00013r.jpg
+resources[1].files[13][2].width: 640
+resources[1].files[13][3].height: 803
+resources[1].files[13][3].levels: 1
+resources[1].files[13][3].mimetype: image/jpeg
+resources[1].files[13][3].size: 122258
+resources[1].files[13][3].type: drawing
+resources[1].files[13][3].url: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00013v.jpg
+resources[1].files[13][3].width: 1024
+resources[1].files[13][4].aka: https://www.loc.gov/resource/hhh.ca0124.sheet.00013a
+resources[1].files[13][4].mimetype: application/json
+resources[1].files[13][4].title: 13. John Muir study details - John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA
+resources[1].files[13][4].use: caption
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca0100/ca0124/sheet/00000_150px.jpg
+resources[1].url: https://www.loc.gov/resource/hhh.ca0124.sheet
+resources[2].caption: Data Pages from Survey HABS CA-1890
+resources[2].files[0][0].height: 1
+resources[2].files[0][0].levels: 1
+resources[2].files[0][0].mimetype: application/pdf
+resources[2].files[0][0].size: 199783
+resources[2].files[0][0].type: data
+resources[2].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/data/ca0124data.pdf
+resources[2].files[0][0].width: 1
+resources[2].image: /static/images/original-format/manuscript-mixed-material.svg
+resources[3].caption: pdf version of supplemental pages
+resources[3].files[0][0].height: 1
+resources[3].files[0][0].levels: 1
+resources[3].files[0][0].mimetype: application/pdf
+resources[3].files[0][0].size: 52426
+resources[3].files[0][0].type: supp
+resources[3].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/habshaer/ca/ca0100/ca0124/supp/ca0124supp.pdf
+resources[3].files[0][0].width: 1
+resources[3].image: /static/images/original-format/manuscript-mixed-material.svg
+cite_this.apa: Historic American Buildings Survey, C., Muir, J., Muir, L. W. S., Strentzel, J. T., Koue, A. L., Pope, C. S. [...] Steele, M. W., Boucher, J. E., photographer. (1933) John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA. California Martinez Contra Costa County, 1933. Documentation Compiled After. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/ca0124/.
+cite_this.chicago: Historic American Buildings Survey, Creator, John Muir, Louisa Wanda Strentzel Muir, John Theophil Strentzel, A. Lewis Koue, Charles S Pope, Melvin M Rotsch, et al., Boucher, Jack E, photographer. John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA. California Martinez Contra Costa County, 1933. Documentation Compiled After. Photograph. https://www.loc.gov/item/ca0124/.
+cite_this.mla: Historic American Buildings Survey, Creator, et al., photographer by Boucher, Jack E. John Muir House, Alhambra Boulevard, Martinez, Contra Costa County, CA. Documentation Compiled After. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/ca0124/>.

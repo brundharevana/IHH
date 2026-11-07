@@ -1,0 +1,91 @@
+title: Senator Edmund Muskie - With Madeleine Albright, Fr. 2-3; Z. Brzezenski - With Senator Edmund Muskie, Fr 4-5; Jimmy Carter - Congressional Leadership Meeting, Fr. 6-13
+levelOfDescription: fileUnit
+recordType: description
+useRestriction.status: Unrestricted
+coverageEndDate.month: 4
+coverageEndDate.year: 1980
+coverageEndDate.day: 29
+coverageEndDate.logicalDate: 1980-04-29
+physicalOccurrences[0].extent: 12 image(s)
+physicalOccurrences[0].referenceUnits[0].city: Atlanta
+physicalOccurrences[0].referenceUnits[0].phone: 404-865-7100
+physicalOccurrences[0].referenceUnits[0].address1: 441 Freedom Parkway
+physicalOccurrences[0].referenceUnits[0].postalCode: 30307-1498
+physicalOccurrences[0].referenceUnits[0].name: Jimmy Carter Library
+physicalOccurrences[0].referenceUnits[0].state: GA
+physicalOccurrences[0].referenceUnits[0].fax: 404-865-7102
+physicalOccurrences[0].referenceUnits[0].email: carter.library@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Photographic Print
+physicalOccurrences[0].mediaOccurrences[0].reproductionCount: 12
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+physicalOccurrences[1].extent: 12 image(s)
+physicalOccurrences[1].referenceUnits[0].city: Atlanta
+physicalOccurrences[1].referenceUnits[0].phone: 404-865-7100
+physicalOccurrences[1].referenceUnits[0].address1: 441 Freedom Parkway
+physicalOccurrences[1].referenceUnits[0].postalCode: 30307-1498
+physicalOccurrences[1].referenceUnits[0].name: Jimmy Carter Library
+physicalOccurrences[1].referenceUnits[0].state: GA
+physicalOccurrences[1].referenceUnits[0].fax: 404-865-7102
+physicalOccurrences[1].referenceUnits[0].email: carter.library@nara.gov
+physicalOccurrences[1].mediaOccurrences[0].color: Color
+physicalOccurrences[1].mediaOccurrences[0].specificMediaType: Negative
+physicalOccurrences[1].mediaOccurrences[0].reproductionCount: 12
+physicalOccurrences[1].mediaOccurrences[0].dimension: Film: 35 mm
+physicalOccurrences[1].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+coverageStartDate.month: 4
+coverageStartDate.year: 1980
+coverageStartDate.day: 29
+coverageStartDate.logicalDate: 1980-04-29
+dataControlGroup.groupId: ou=NLJC,ou=groups
+dataControlGroup.groupCd: LPJC
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+variantControlNumbers[0].number: NLC-WHSP-C-16783
+variantControlNumbers[0].type: NAIL Control Number
+contributors[0].heading: Schumacher, Karl H.
+contributors[0].contributorType: Photographer
+contributors[0].authorityType: person
+contributors[0].naId: 10610729
+digitalObjects[0].objectFilename: nlc16783cs.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialive/75/8447/844775/content/arcmedia/presidential-libraries/carter/173341/16000/nlc16783cs.jpg
+digitalObjects[0].objectFileSize: 279392
+digitalObjects[0].objectId: 14950999
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].collectionIdentifier: JC-WHSP
+ancestors[0].inclusiveStartDate.month: 1
+ancestors[0].inclusiveStartDate.year: 1977
+ancestors[0].inclusiveStartDate.day: 20
+ancestors[0].inclusiveStartDate.logicalDate: 1977-01-20
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.month: 1
+ancestors[0].inclusiveEndDate.year: 1981
+ancestors[0].inclusiveEndDate.day: 20
+ancestors[0].inclusiveEndDate.logicalDate: 1981-01-20
+ancestors[0].title: White House Staff Photographers Collection
+ancestors[0].naId: 1120
+ancestors[1].inclusiveStartDate.month: 1
+ancestors[1].inclusiveStartDate.year: 1977
+ancestors[1].inclusiveStartDate.day: 20
+ancestors[1].inclusiveStartDate.logicalDate: 1977-01-20
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: President (1977-1981 : Carter). White House Staff Photographers. 1/20/1977-1/20/1981
+ancestors[1].creators[0].abolishDate.month: 1
+ancestors[1].creators[0].abolishDate.year: 1981
+ancestors[1].creators[0].abolishDate.day: 20
+ancestors[1].creators[0].abolishDate.logicalDate: 1981-01-20
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 1
+ancestors[1].creators[0].establishDate.year: 1977
+ancestors[1].creators[0].establishDate.day: 20
+ancestors[1].creators[0].establishDate.logicalDate: 1977-01-20
+ancestors[1].creators[0].naId: 10468184
+ancestors[1].inclusiveEndDate.month: 1
+ancestors[1].inclusiveEndDate.year: 1981
+ancestors[1].inclusiveEndDate.day: 20
+ancestors[1].inclusiveEndDate.logicalDate: 1981-01-20
+ancestors[1].title: Jimmy Carter's Presidential Photographs
+ancestors[1].naId: 173341
+naId: 844775

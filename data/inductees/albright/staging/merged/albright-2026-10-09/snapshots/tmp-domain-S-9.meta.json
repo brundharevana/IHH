@@ -1,0 +1,10 @@
+{
+  "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1051/vote_105_1_00001.htm",
+  "fetch_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1051/vote_105_1_00001.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:32:47Z",
+  "sha256": "bddd0b354c98695d1868fcb870221aca38ad175c182cfcca462bab5b0dd4d027",
+  "bytes": 8168,
+  "http_status": 200,
+  "final_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1051/vote_105_1_00001.htm"
+}

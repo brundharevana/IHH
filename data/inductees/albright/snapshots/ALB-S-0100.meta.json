@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/24326093",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=24326093",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:25:48Z",
+  "sha256": "a44cfa1ea9e19a6713474ed5ece3797da0be72c2aa26c2e6a39f31aec95b63d6",
+  "bytes": 4348,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=24326093"
+}

@@ -1,0 +1,14 @@
+title: File:Albert Einstein's exam of maturity grades (color2).jpg
+DateTime: 2006-10-30 22:48:53
+ObjectName: Albert Einstein's exam of maturity grades (color2)
+CommonsMetadataExtension: 1.2
+Categories: Documents related to Albert Einstein|Matura certificate (Switzerland)|PD Switzerland (Official documents)|Albert Einstein in 1896|History of Aarau|1896 documents of Switzerland
+ImageDescription: The certificate of maturity issued to Albert Einstein in 1896, at the age of 17, after attending the cantonal high school in Aarau, Switzerland. In this scoring scheme, 6 is the highest, and 1 the lowest grade.
+DateTimeOriginal: 1896-10-03
+Credit: scanned from p. 29 of the book "Albert Einstein – Derrière l'image", by Ze'ev Rosenkranz. Editions Neue Zürcher Zeitung, 2005. ISBN 3-03823-182-7.
+Artist: The authorities of the Canton of Aargau, Switzerland
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

@@ -1,0 +1,289 @@
+{
+  "slug": "einstein",
+  "generated": "2026-10-09",
+  "run_id": "einstein-2026-10-09",
+  "summary": [
+    {
+      "text": "Albert Einstein was born 14 March 1879 in Ulm, Germany.",
+      "fact_ids": [
+        "EIN-F-0005"
+      ]
+    },
+    {
+      "text": "Albert Einstein died on April 18, 1955 at Princeton, New Jersey.",
+      "fact_ids": [
+        "EIN-F-0006",
+        "EIN-F-0050"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "citizenship",
+      "title": "Citizenship",
+      "sentences": [
+        {
+          "text": "The Declaration of Intention for Albert Einstein is from January 15, 1936.",
+          "fact_ids": [
+            "EIN-F-0045"
+          ]
+        },
+        {
+          "text": "A photograph of Albert Einstein is affixed to the Declaration of Intention.",
+          "fact_ids": [
+            "EIN-F-0057"
+          ]
+        },
+        {
+          "text": "His Petition for Naturalization has petition number 4009, assigned by the U.S. District Court for the District of New Jersey, Trenton.",
+          "fact_ids": [
+            "EIN-F-0056"
+          ]
+        },
+        {
+          "text": "In 1940, Albert Einstein was photographed receiving from Judge Phillip Forman his certificate of American citizenship.",
+          "fact_ids": [
+            "EIN-F-0051"
+          ]
+        },
+        {
+          "text": "The record of naturalization for Albert Einstein at the National Archives at Philadelphia includes a Certificate of Arrival, Declaration of Intention, Petition for Naturalization, and Oath of Allegiance.",
+          "fact_ids": [
+            "EIN-F-0001"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "navy",
+      "title": "Research for the Navy",
+      "sentences": [
+        {
+          "text": "Albert Einstein was working as a consultant to the United States Government during World War II.",
+          "fact_ids": [
+            "EIN-F-0054"
+          ]
+        },
+        {
+          "text": "Albert Einstein was doing research for the Bureau of Ordnance, in his study at Princeton, N.J.",
+          "fact_ids": [
+            "EIN-F-0055"
+          ]
+        },
+        {
+          "text": "Nine letters were written by Albert Einstein to Lieutenant Stephen Brunauer of the Research and Development Division.",
+          "fact_ids": [
+            "EIN-F-0062"
+          ]
+        },
+        {
+          "text": "The letters relate to his research with the Research and Development Division of the Navy, specifically underwater explosions and a proposed electromagnetic torpedo detonator.",
+          "fact_ids": [
+            "EIN-F-0063"
+          ]
+        },
+        {
+          "text": "His letter of May 17, 1943 is in regards to Albert Einstein participating in the Research and Development Division of the Navy to research Navy problems.",
+          "fact_ids": [
+            "EIN-F-0064"
+          ]
+        },
+        {
+          "text": "His letter of June 18, 1943 discusses his idea of an electro-magnetic device that will automatically explode a torpedo as it passes underneath a ship.",
+          "fact_ids": [
+            "EIN-F-0065"
+          ]
+        },
+        {
+          "text": "In a letter of June 29, 1943, Albert Einstein says that he will not be able to come to Washington, DC for health reasons.",
+          "fact_ids": [
+            "EIN-F-0066"
+          ]
+        },
+        {
+          "text": "In a letter of July 30, 1943, Albert Einstein reveals that he has come up with a mathematical simplification to analyze the impact an underwater explosion would have on the hull of an armored ship.",
+          "fact_ids": [
+            "EIN-F-0067"
+          ]
+        },
+        {
+          "text": "In a letter of August 13, 1943, Albert Einstein mentions an offer from Dr. Vannever Bush to accept an appointment as a consultant to Division 8 of the National Research Committee.",
+          "fact_ids": [
+            "EIN-F-0068"
+          ]
+        },
+        {
+          "text": "Signed copies of a contract and naturalization papers were enclosed with that letter.",
+          "fact_ids": [
+            "EIN-F-0069"
+          ]
+        },
+        {
+          "text": "In a letter of August 22, 1943, Albert Einstein gives his opinion on the best localization for installation of the torpedo explosion.",
+          "fact_ids": [
+            "EIN-F-0070"
+          ]
+        },
+        {
+          "text": "In a letter of September 1, 1943, Albert Einstein discusses the need to carry out experiments, as he will not be able to progress any further in the problem through mathematical calculation.",
+          "fact_ids": [
+            "EIN-F-0071"
+          ]
+        },
+        {
+          "text": "His letter of January 4, 1944 discusses his idea to have a torpedo positioned parallel to the wall of a ship before it exploded.",
+          "fact_ids": [
+            "EIN-F-0072"
+          ]
+        },
+        {
+          "text": "When he worked the problem out, the idea of a torpedo positioned parallel to the wall of a ship proved impossible.",
+          "fact_ids": [
+            "EIN-F-0073"
+          ]
+        },
+        {
+          "text": "His letter of October 15, 1944 discusses quick compression in a metal container.",
+          "fact_ids": [
+            "EIN-F-0074"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "atomic",
+      "title": "Emergency Committee of Atomic Scientists",
+      "sentences": [
+        {
+          "text": "Albert Einstein was Chairman of the Emergency Committee of Atomic Scientists.",
+          "fact_ids": [
+            "EIN-F-0080"
+          ]
+        },
+        {
+          "text": "In a letter of October 11, 1947, Albert Einstein wrote on behalf of the Emergency Committee of Atomic Scientists regarding questions, topics, and warnings concerning the use of nuclear or atomic resources as a means for diplomatic or military solutions.",
+          "fact_ids": [
+            "EIN-F-0079"
+          ]
+        },
+        {
+          "text": "In a letter of November 29, 1947, Albert Einstein writes as Chairman of the Emergency Committee of Atomic Scientists discussing the issue of international atomic energy control.",
+          "fact_ids": [
+            "EIN-F-0075"
+          ]
+        },
+        {
+          "text": "In a letter of November 29, 1947, Albert Einstein pushes for an effort in public education about atomic energy.",
+          "fact_ids": [
+            "EIN-F-0078"
+          ]
+        },
+        {
+          "text": "The letter includes the article Atomic War or Peace, authored by Albert Einstein.",
+          "fact_ids": [
+            "EIN-F-0076"
+          ]
+        },
+        {
+          "text": "In Atomic War or Peace, Albert Einstein discusses his opinion on the need of a supranational agreement for the regulation and use of nuclear weaponry.",
+          "fact_ids": [
+            "EIN-F-0077"
+          ]
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1879-03-14",
+      "title": "Born in Ulm, Germany",
+      "text": "Albert Einstein was born 14 March 1879 in Ulm, Germany.",
+      "fact_ids": [
+        "EIN-F-0005"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1936-01-15",
+      "title": "Declaration of Intention",
+      "text": "The Declaration of Intention for Albert Einstein is from January 15, 1936.",
+      "fact_ids": [
+        "EIN-F-0045"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1940-10-01",
+      "title": "Certificate of American citizenship",
+      "text": "In 1940, Albert Einstein was photographed receiving from Judge Phillip Forman his certificate of American citizenship.",
+      "fact_ids": [
+        "EIN-F-0051"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1943-06-18",
+      "title": "Torpedo device",
+      "text": "In a letter of June 18, 1943 to Lieutenant Stephen Brunauer, Albert Einstein discusses his idea of an electro-magnetic device that will automatically explode a torpedo as it passes underneath a ship.",
+      "fact_ids": [
+        "EIN-F-0065"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1947-11-29",
+      "title": "Atomic energy control",
+      "text": "In a letter of November 29, 1947, Albert Einstein writes as Chairman of the Emergency Committee of Atomic Scientists discussing the issue of international atomic energy control.",
+      "fact_ids": [
+        "EIN-F-0075"
+      ],
+      "media_ids": []
+    },
+    {
+      "date": "1955-04-18",
+      "title": "Died at Princeton, New Jersey",
+      "text": "Albert Einstein died on April 18, 1955 at Princeton, New Jersey.",
+      "fact_ids": [
+        "EIN-F-0006"
+      ],
+      "media_ids": []
+    }
+  ],
+  "artifacts": [],
+  "avatar_lines": [
+    {
+      "speaker": "guide",
+      "kind": "narration",
+      "text": "Albert Einstein was born 14 March 1879 in Ulm, Germany.",
+      "fact_ids": [
+        "EIN-F-0005"
+      ]
+    },
+    {
+      "speaker": "guide",
+      "kind": "narration",
+      "text": "Albert Einstein was Chairman of the Emergency Committee of Atomic Scientists.",
+      "fact_ids": [
+        "EIN-F-0080"
+      ]
+    }
+  ],
+  "how_to_cite": null,
+  "gaps": [
+    "Education: no verified source yet; no fact in facts.jsonl covers schooling, university study or doctorate (candidates from the Nobel Prize Outreach biography, ETH/UZH pages and the IHH page are deferred in staging, unconfirmed).",
+    "Family: no verified source yet; EIN-F-0042 (family background) is single-source (EIN-S-0008, IAS); marriages, spouses and children have no fact (candidates deferred, unconfirmed).",
+    "Arrival in the United States: no verified source yet for an arrival date, port or ship; EIN-F-0007 (verified) gives no date or place; EIN-F-0004 is single-source (IHH page only), EIN-F-0015 and EIN-F-0043 are disputed, EIN-F-0026, EIN-F-0049 and EIN-F-0052 are single-source; departure-year wording conflicts across these sources and is unresolved.",
+    "Citizenship: EIN-F-0013 (German citizenship) and EIN-F-0014 (renunciation) are disputed (Franklin Institute source judged not an authority for the claim); EIN-F-0016 (US citizenship year) is disputed; EIN-F-0044, EIN-F-0046 and EIN-F-0047 (Declaration of Intention details) are single-source (EIN-S-0012, LoC).",
+    "Career and main work: the scientific work before 1933 has no verified fact; EIN-F-0009, EIN-F-0017, EIN-F-0018, EIN-F-0019, EIN-F-0022 and EIN-F-0023 are single-source (Nobel Prize Outreach pages) and EIN-F-0011, EIN-F-0012, EIN-F-0020 and EIN-F-0021 are disputed; appointments in Zurich, Prague and Berlin have no fact (deferred, unconfirmed).",
+    "Awards and honors: only the Copley Medal (EIN-F-0024) is verified; EIN-F-0025 (Franklin Medal) is disputed; the Nobel Prize in Physics has no fact in facts.jsonl (Nobel Prize Outreach candidates deferred, unconfirmed); other honors named on the IHH page (Royal Astronomical Society Gold Medal, Max Planck Medal, element name, US stamps, magazine title) have no independent source.",
+    "Legacy: no verified fact; no fact carries a legacy category (Einstein House National Historic Landmark candidates from NARA are deferred and the NPS nomination text was image-only; EIN-M-0007 and EIN-M-0017 are media only).",
+    "Birth: EIN-F-0042 (birth-year family background) is single-source and EIN-F-0053 (birthday) is disputed (LoC folklife blog and NPS page judged not authorities for the claim); EIN-F-0005 is verified.",
+    "Identity: EIN-F-0028 and EIN-F-0032 to EIN-F-0041 (NARA authority heading and variant names) are single-source (EIN-S-0006); EIN-F-0048 (career) is single-source; the LoC name authority record could not be snapshotted (bot challenge). Catalogue metadata EIN-F-0002, EIN-F-0003, EIN-F-0029 to EIN-F-0031, EIN-F-0058 to EIN-F-0061 and EIN-F-0081 was withdrawn.",
+    "IHH page claims with no independent source: EIN-F-0004 rests only on EIN-S-0002; 19 IHH page candidates (education, 1905 and 1915 papers, honors and namings, stamps) were deferred in staging/deferred-einstein-2026-10-09/baseline.jsonl and are unconfirmed.",
+    "Pending review: every fact in facts.jsonl still has review state pending; no fact has been confirmed by a human reviewer.",
+    "Media licences: EIN-M-0001 and EIN-M-0020 to EIN-M-0024 (Wikimedia Commons files) are disputed because the public-domain statement comes from Commons, not the holder; EIN-M-0011 is rights-restricted; EIN-M-0002 to EIN-M-0010 and EIN-M-0012 to EIN-M-0019 carry licence class unknown; only EIN-M-0025 (cc-by), EIN-M-0026 and EIN-M-0027 (cc0) have a usable licence class.",
+    "Sections resting on one fact: the Copley Medal section rests only on EIN-F-0024; the Institute for Advanced Study section rests on two facts (EIN-F-0008, EIN-F-0027).",
+    "Search families that found nothing: NARA found no passenger or crew list, visa, FBI file or catalog item for the 1939 letter to Roosevelt (EIN-Q-0075, EIN-Q-0077, EIN-Q-0078, EIN-Q-0081, EIN-Q-0091); LoC 'Einstein arrives' had no results (EIN-Q-0056); the Einstein Archives site had no biographical content (EIN-Q-0027); Smithsonian unit searches were rate-limited or bot-blocked (EIN-Q-0067, EIN-Q-0068, EIN-Q-0099, EIN-Q-0104 to EIN-Q-0106); National Postal Museum stamp searches returned nothing usable (EIN-Q-0014, EIN-Q-0015); the NPS NHL nomination was image-only (EIN-Q-0111); RAS Gold Medal and Princeton Einstein Papers volumes were a PDF or paywalled (EIN-Q-0032, EIN-Q-0033).",
+    "Deferred over the fact cap: about 130 candidate facts are held in staging/deferred-einstein-2026-10-09 (baseline 19, domain 47, institutional 30, loc 24, nara 4, media 5, smithsonian 4); several cover the empty stages above (education, family, Nobel Prize, legacy) and none has been checked by the adversary."
+  ]
+}

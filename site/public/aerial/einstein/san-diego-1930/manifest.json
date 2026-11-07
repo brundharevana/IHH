@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "slug": "einstein",
+  "stop": "san-diego-1930",
+  "country": "US",
+  "precision": "city",
+  "centre": {
+    "lat": 32.715,
+    "lon": -117.1625
+  },
+  "coord_source": "https://www.wikidata.org/wiki/Q16552",
+  "levels": [
+    {
+      "extent_m": 300000,
+      "file": "0.webp"
+    },
+    {
+      "extent_m": 60000,
+      "file": "1.webp"
+    },
+    {
+      "extent_m": 10000,
+      "file": "2.webp"
+    },
+    {
+      "extent_m": 2000,
+      "file": "3.webp"
+    },
+    {
+      "extent_m": 300,
+      "file": "4.webp",
+      "labels": "labels-4.webp"
+    },
+    {
+      "extent_m": 150,
+      "file": "5.webp",
+      "labels": "labels-5.webp"
+    }
+  ],
+  "credits": [
+    {
+      "source": "nasa-bmng",
+      "text": "NASA Earth Observatory, Blue Marble Next Generation (via NASA GIBS)",
+      "url": "https://www.earthdata.nasa.gov/engage/open-data-services-software-policies/data-use-guidance",
+      "licence": "CC0 (NASA)"
+    },
+    {
+      "source": "naip",
+      "text": "U.S. Geological Survey / Department of the Interior/USGS",
+      "url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+      "licence": "U.S. Public Domain"
+    },
+    {
+      "source": "osm",
+      "text": "(c) OpenStreetMap contributors",
+      "url": "https://www.openstreetmap.org/copyright",
+      "licence": "ODbL 1.0"
+    }
+  ],
+  "fetched_at": "2026-10-11T05:22:27Z",
+  "source_urls": [
+    "https://gibs.earthdata.nasa.gov/wms/epsg3857/best/wms.cgi?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=BlueMarble_NextGeneration&STYLES=&CRS=EPSG:3857&BBOX=-13220750.646,3679254.987,-12864189.034,4035816.598&WIDTH=1024&HEIGHT=1024&FORMAT=image/jpeg",
+    "https://gibs.earthdata.nasa.gov/wms/epsg3857/best/wms.cgi?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS=BlueMarble_NextGeneration&STYLES=&CRS=EPSG:3857&BBOX=-13078126.001,3821879.631,-13006813.679,3893191.954&WIDTH=1024&HEIGHT=1024&FORMAT=image/jpeg",
+    "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer/exportImage?bbox=-13048412.534,3851593.099,-13036527.147,3863478.486&bboxSR=3857&imageSR=3857&size=1024,1024&format=jpgpng&f=image",
+    "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer/exportImage?bbox=-13043658.379,3856347.254,-13041281.301,3858724.331&bboxSR=3857&imageSR=3857&size=1024,1024&format=jpgpng&f=image",
+    "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer/exportImage?bbox=-13042648.121,3857357.512,-13042291.559,3857714.073&bboxSR=3857&imageSR=3857&size=1024,1024&format=jpgpng&f=image",
+    "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer/exportImage?bbox=-13042558.980,3857446.652,-13042380.700,3857624.933&bboxSR=3857&imageSR=3857&size=1024,1024&format=jpgpng&f=image",
+    "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3Bway%5B%22highway%22%5D%5B%22name%22%5D%2832.713316%2C-117.164502%2C32.716684%2C-117.160498%29%3Bout+geom%3B"
+  ]
+}

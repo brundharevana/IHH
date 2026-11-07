@@ -1,0 +1,10 @@
+{
+  "url": "https://www.loc.gov/item/today-in-history/january-16/",
+  "fetch_url": "https://www.loc.gov/item/today-in-history/january-16/?fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T19:55:31Z",
+  "sha256": "e7d223e9a4e96e711f74935297d43088f92b9fe72b7fd83fb58182f74d560ce6",
+  "bytes": 17843,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/item/today-in-history/january-16/?fo=json"
+}

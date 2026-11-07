@@ -1,0 +1,202 @@
+---
+// Home: a short introduction, then one section per inductee known to the fact pipeline (built ones
+// first). Each shows the painted portrait if its photo record passes the licence gate (else a name
+// card), the name, one verified fact as its own claim with its source chip (content/home.json picks
+// the fact), and, where the journey exists, Explore (the journey map) and Info (the timeline);
+// otherwise the inductee sits in a compact roster labelled "Journey in preparation". The hallway is linked once content/hall.json exists. Text about an
+// inductee comes only from records (src/content/home.js); the rest is fixed interface copy.
+import Base from '../layouts/Base.astro';
+import FactChips from '../components/FactChips.astro';
+import { listPipelineInductees, listInductees, loadInductee, factIndex, mediaIndex, loadJourney, portraitFiles } from '../content/load.js';
+import { gatedPortrait } from '../content/portrait.js';
+import { homeSections, loadHomeLines, hallHref } from '../content/home.js';
+
+const lines = loadHomeLines();
+const withContent = new Set(listInductees());
+const portraitOf = slug => (withContent.has(slug)
+  ? gatedPortrait(loadInductee(slug), { ...factIndex(slug), media: mediaIndex(slug) }, s => Boolean(portraitFiles(s)))
+  : null);
+const sections = homeSections({
+  inductees: listPipelineInductees(), lineOf: s => lines.get(s), idxOf: factIndex,
+  built: s => withContent.has(s) && Boolean(loadJourney(s)), portraitOf,
+});
+const built = sections.filter(s => !s.comingSoon), soon = sections.filter(s => s.comingSoon);
+const hall = hallHref();
+// The page backdrop: a heavily blurred copy of the first cleared portrait (decorative).
+const backdrop = sections.find(s => s.portrait)?.portrait.image || null;
+---
+<Base title="Entrance" description="A virtual museum of five immigrant inductees of the Immigrant Hall of Honor." theme="dark">
+  <div slot="backdrop" class="home-backdrop" aria-hidden="true">
+    {backdrop && <div class="home-backdrop-img" style={`background-image:url(${backdrop})`}></div>}
+    <div class="home-backdrop-shade"></div>
+  </div>
+  <div class="home">
+    <section class="hero" aria-labelledby="home-title">
+      <div class="hero-head">
+        <p class="eyebrow">Immigrant Hall of Honor</p>
+        <h1 id="home-title"><span class="hero-mark">IHH:</span> Voices of Arrival</h1>
+      </div>
+      <div class="hero-copy">
+        <p>A museum of the Immigrant Hall of Honor's inductees, built from the records of their lives.</p>
+        <p>Every date and line here comes from a saved source; open a source chip to see which one. Follow a journey on
+          the map, walk through its rooms, or read it as a timeline.</p>
+        {hall && <p><a class="btn btn-glass" href={hall}>Enter the hallway</a></p>}
+      </div>
+    </section>
+
+    <section class="inductees" aria-labelledby="inductees-title">
+      <div class="inductees-head">
+        <h2 id="inductees-title">The inductees</h2>
+        <p>Explore opens a journey map. Info lists the dated stops.</p>
+      </div>
+      <div class="cards">
+        <div class="built">
+          {built.map((s, i) => (
+            <section class="card" data-inductee={s.slug} aria-labelledby={`name-${s.slug}`} style={`--i:${i}`}>
+              <div class="card-media">
+                {s.portrait
+                  ? <img src={s.portrait.image} alt={s.portrait.alt} width="648" height="800" loading="eager" decoding="async" />
+                  : <div class="name-card" data-name-card aria-hidden="true"><span>{s.initials}</span></div>}
+                {s.portrait && (
+                  <details class="about-portrait">
+                    <summary>About this portrait</summary>
+                    <p>{s.portrait.badge}</p>
+                  </details>
+                )}
+              </div>
+              <div class="card-body" data-glass>
+                <h3 id={`name-${s.slug}`}>{s.name}</h3>
+                {s.line && <p class="fact-line" data-fact-line>{s.line.text} <FactChips chips={s.line.chips} prefix={`home-${s.slug}`} /></p>}
+                <p class="actions">
+                  <a class="btn btn-primary" href={s.explore}><span data-label>Explore</span><span class="visually-hidden">: {s.name}, journey map</span></a>
+                  <a class="btn btn-glass" href={s.info}><span data-label>Info</span><span class="visually-hidden">: {s.name}, timeline</span></a>
+                </p>
+              </div>
+            </section>
+          ))}
+        </div>
+        {soon.length > 0 && (
+          <div class="roster" data-roster>
+            <p class="roster-label" data-roster-label>Journey in preparation</p>
+            <div class="roster-items">
+              {soon.map((s, i) => (
+                <section class="roster-item" data-inductee={s.slug} data-glass aria-labelledby={`name-${s.slug}`} style={`--i:${built.length + i}`}>
+                  {s.portrait
+                    ? <img class="roster-face" src={s.portrait.image} alt={s.portrait.alt} width="56" height="56" loading="lazy" decoding="async" />
+                    : <div class="roster-initials" data-name-card aria-hidden="true">{s.initials}</div>}
+                  <div class="roster-text">
+                    <h3 id={`name-${s.slug}`}>{s.name}</h3>
+                    {s.line && <p class="fact-line" data-fact-line>{s.line.text} <FactChips chips={s.line.chips} prefix={`home-${s.slug}`} /></p>}
+                  </div>
+                </section>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    </section>
+  </div>
+</Base>
+
+<script>
+  import { initToggletips } from '../ui/sources.js';
+  initToggletips(document.querySelector('.home') || document.body);
+</script>
+
+<style is:global>
+  [data-theme="dark"] body { background: var(--voa-bg); }
+  .home-backdrop { position: fixed; inset: 0; z-index: -1; overflow: hidden; background: var(--voa-bg); }
+  .home-backdrop-img { position: absolute; inset: -40px; background-size: cover; background-position: center 30%;
+    filter: blur(44px) saturate(1.2); transform: scale(1.1); opacity: .85; }
+  /* The hero text sits on this shade: at least --hero-scrim everywhere (the contrast check composites
+     it over a white backdrop, lighter than any blurred portrait pixel can be at this opacity). */
+  .home-backdrop-shade { position: absolute; inset: 0;
+    background: radial-gradient(120% 90% at 30% 20%, transparent 30%, rgb(11 15 21 / .55) 75%),
+      linear-gradient(to bottom, transparent 40%, var(--voa-bg)), var(--hero-scrim); }
+
+  .home { font-family: var(--f-ui); color: var(--voa-text); padding: 0 var(--space-8) var(--space-9); max-width: 1680px; margin: 0 auto; box-sizing: border-box; }
+  .hero { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: var(--space-8); align-items: end;
+    padding: var(--space-8) 0 var(--space-7); }
+  .eyebrow { margin: 0 0 var(--space-3); font-size: var(--t-label); font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--voa-accent-text); }
+  .hero h1 { margin: 0; font-size: var(--t-hero); font-weight: 600; line-height: 1.1; letter-spacing: -0.02em;
+    text-shadow: 0 2px 4px rgb(0 0 0 / .45), 0 6px 18px rgb(0 0 0 / .35); }
+  .hero-mark { color: var(--voa-accent-text); font-weight: 500; }
+  .hero-copy { max-width: 36rem; }
+  .hero-copy p { margin: 0 0 var(--space-3); font-size: clamp(.9375rem, 1.1vw, 1.0625rem); line-height: 1.6; color: var(--voa-text-2); }
+  .hero-copy p:first-child { color: var(--voa-text); font-weight: 500; }
+
+  .inductees-head { display: flex; align-items: baseline; justify-content: space-between; gap: var(--space-4); flex-wrap: wrap; margin-bottom: var(--space-4); }
+  .inductees-head h2 { margin: 0; font-size: clamp(1.5rem, 2.4vw, 2rem); font-weight: 700; letter-spacing: -0.02em; }
+  .inductees-head p { margin: 0; color: var(--voa-text-2); font-size: var(--t-small); }
+
+  /* Built inductees as full cards; the rest as a compact roster beside them (below on narrow screens). */
+  .cards { display: grid; grid-template-columns: minmax(280px, 360px) minmax(0, 1fr); gap: var(--space-5); align-items: stretch; }
+  .built { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(280px, 360px); gap: var(--space-4); }
+  .card { position: relative; display: flex; flex-direction: column; min-height: clamp(440px, 56vh, 600px); border-radius: var(--radius-card);
+    overflow: hidden; background: rgb(20 26 36 / .6); box-shadow: var(--card-shadow); isolation: isolate;
+    transition: transform 600ms var(--ease-std), box-shadow 600ms var(--ease-std);
+    animation: card-rise 800ms var(--ease-out) both; animation-delay: calc(150ms + var(--i) * 90ms); }
+  .card:hover, .card:focus-within { box-shadow: var(--card-shadow-active); }
+  @media (hover: hover) and (pointer: fine) { .card:hover { transform: translateY(-4px); } }
+  .card-media { position: absolute; inset: 0; z-index: -1; }
+  .card-media img { width: 100%; height: 100%; object-fit: cover; object-position: center 25%; filter: contrast(1.04) saturate(1.06);
+    transition: transform 600ms var(--ease-std); }
+  .card:hover .card-media img, .card:focus-within .card-media img { transform: scale(1.06); }
+  .name-card { position: absolute; inset: 0; display: grid; place-items: start; padding: var(--space-5);
+    background: radial-gradient(140% 70% at 0% 0%, rgb(217 110 44 / .30), transparent 60%),
+      radial-gradient(120% 80% at 100% 30%, rgb(70 100 150 / .25), transparent 65%), #121822; }
+  .name-card span { font-size: clamp(4rem, 6vw, 6.5rem); font-weight: 300; line-height: 1; letter-spacing: -0.04em; color: rgb(255 255 255 / .2); }
+  .about-portrait { position: absolute; top: var(--space-3); left: var(--space-3); right: var(--space-3); z-index: 2; font-size: var(--t-label); }
+  .about-portrait summary { display: inline-flex; align-items: center; min-height: 32px; padding: 0 var(--space-3); cursor: pointer; list-style: none;
+    color: var(--voa-text); background: var(--glass-panel); border: 1px solid var(--glass-border); border-radius: var(--radius-pill);
+    backdrop-filter: var(--glass-blur); -webkit-backdrop-filter: var(--glass-blur); font-weight: 500; }
+  .about-portrait summary::-webkit-details-marker { display: none; }
+  .about-portrait p { margin: var(--space-2) 0 0; padding: var(--space-3); line-height: 1.5; font-size: .8125rem; color: var(--voa-text);
+    background: var(--glass-panel); border: 1px solid var(--glass-border); border-radius: var(--radius-btn);
+    backdrop-filter: var(--glass-blur); -webkit-backdrop-filter: var(--glass-blur); }
+  .card-body { margin-top: auto; padding: var(--space-4) var(--space-4) var(--space-4); background: var(--glass-panel);
+    backdrop-filter: var(--glass-blur); -webkit-backdrop-filter: var(--glass-blur); border-top: 1px solid var(--glass-border); }
+  .card-body h3 { margin: 0 0 var(--space-2); font-size: var(--t-card); font-weight: 600; line-height: 1.25; letter-spacing: -0.01em; }
+  .fact-line { margin: 0 0 var(--space-3); font-size: .875rem; line-height: 1.55; color: var(--voa-text-2); }
+  .fact-line .chips { vertical-align: baseline; }
+  .roster { display: flex; flex-direction: column; justify-content: flex-end; gap: var(--space-3); min-width: 0; }
+  .roster-label { margin: 0; font-size: var(--t-label); font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--voa-text-3); }
+  .roster-items { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-3); }
+  .roster-item { display: flex; gap: var(--space-4); align-items: flex-start; padding: var(--space-4) var(--space-5); background: var(--glass-panel);
+    border: 1px solid var(--glass-border); border-radius: var(--radius-card); box-shadow: var(--card-shadow);
+    backdrop-filter: var(--glass-blur); -webkit-backdrop-filter: var(--glass-blur); animation: card-rise 800ms var(--ease-out) both; animation-delay: calc(150ms + var(--i) * 90ms); }
+  .roster-initials, .roster-face { flex: none; width: 56px; height: 56px; border-radius: 50%; }
+  .roster-face { object-fit: cover; }
+  .roster-initials { display: grid; place-items: center; font-size: 1.125rem; font-weight: 500; letter-spacing: .02em; color: var(--voa-text-2);
+    background: radial-gradient(120% 120% at 0% 0%, rgb(217 110 44 / .35), transparent 70%), #1a212d; border: 1px solid var(--glass-border); }
+  .roster-text { min-width: 0; }
+  .roster-item h3 { margin: 2px 0 var(--space-2); font-size: 1.0625rem; font-weight: 600; line-height: 1.3; }
+  .roster-item .fact-line { margin: 0; }
+  .actions { display: flex; flex-wrap: wrap; gap: var(--space-2); margin: 0; }
+  .card .tip-body { position: relative; z-index: 3; }
+
+  /* A rise only, no fade: text keeps its full contrast from the first frame. */
+  @keyframes card-rise { from { transform: translateY(30px); } to { transform: none; } }
+
+  @media (max-width: 1100px) {
+    .roster-items { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 950px) {
+    .hero { grid-template-columns: 1fr; gap: var(--space-5); padding-top: var(--space-8); }
+    .cards { grid-template-columns: 1fr; }
+    .built { grid-auto-flow: row; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); grid-auto-columns: auto; }
+    .roster-items { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  @media (max-width: 640px) {
+    .home { padding: 0 var(--space-4) var(--space-8); }
+    .hero { padding: var(--space-7) 0 var(--space-7); }
+    .cards { gap: var(--space-5); }
+    .card { min-height: 0; }
+    .card-media { position: relative; inset: auto; z-index: 0; height: 260px; }
+    .roster-items { grid-template-columns: 1fr; }
+    .roster-item { padding: var(--space-3) var(--space-4); gap: var(--space-3); }
+    .roster-initials, .roster-face { width: 44px; height: 44px; font-size: 1rem; }
+    .name-card span { font-size: 4rem; }
+    .card-body { margin-top: 0; }
+  }
+</style>

@@ -1,0 +1,10 @@
+{
+  "url": "https://wisconsinhistory.org/record/property/HI100645",
+  "fetch_url": "https://wisconsinhistory.org/record/property/HI100645",
+  "method": "http",
+  "fetched_at": "2026-10-29T19:35:30Z",
+  "sha256": "4e08d21667d4329ad5f2b7496007c62a9c8191f01671b71abe2589f5e50f32c6",
+  "bytes": 12462,
+  "http_status": 200,
+  "final_url": "https://wisconsinhistory.org/record/property/HI100645"
+}

@@ -1,0 +1,116 @@
+For Immediate Release 11 March 1997
+Movie Legend Hedy Lamarr to be Given Special Award at EFF's Sixth Annual Pioneer Awards
+Electronic Frontier Foundation Media Release
+Burlingame, CA - March 12, 1997 - In what the organization's spokesman
+describes as "a unique event both for EFF and for the Computers, Freedom,
+and Privacy conference," the Electronic Frontier Foundation (EFF) will
+honor former movie actress Hedy Lamarr with a special award this evening
+for her co-invention of spread-spectrum broadcast communications
+technologies. Lamarr will be honored along with Johan Helsingius of
+Finland, and Marc Rotenberg of Washington, D.C., whose work for civil
+liberties on the Net has earned them each a 1997 Pioneer Award.
+EFF Staff Counsel Mike Godwin, who serves on the Pioneer Awards' panel of
+judges and who has coordinated the Awards event for four of its six years,
+said his organization regards both Lamarr's contribution and the general
+public's "nearly absolute ignorance about it" to merit special recognition
+for Lamarr as well as for late George Antheil, who, working with Lamarr
+more than half a century ago, developed and patented what is now known as
+spread-spectrum broadcasting. Communications experts say that one of the
+chief benefits of spread-spectrum broadcasting is the access to the
+airwaves it will give ordinary people with ordinary resources. Only
+recently has the promise of spread-spectrum technologies begun to be
+affordable -- this is due to the recent development of inexpensive
+computers, Godwin said, adding that the amount of mathematical calculation
+one had to do in the pre-microcomputer era to implement spread-spectrum
+broadcasting made such broadcasting "a practical impossibility most of
+the time."
+The presentation of the Sixth Annual Pioneer Awards will take place in a
+ceremony this evening at the seventh annual Computers, Freedom and Privacy
+Conference. The conference is being held Tuesday through Friday of this
+week at the San Francisco Airport Hyatt Regency hotel in Burlingame,
+California.
+The Pioneer Awards were started in 1991 in order to recognize individuals
+who have made significant and influential contributions to the development
+of computer-based communications or to the empowerment of individuals in
+using computers. Two individuals were named recipients of this year's
+Pioneer award; they are Johan ("Julf")
+Helsingius, for his pioneering work in exploring the socially constructive
+uses of anonymous communications on the Internet, and Marc Rotenberg, now
+the head of Electronic Privacy Information Center, for his many years of
+work in educating both the general public and the Washington policy
+community about the privacy and civil-liberties
+concerns raised by computer communications.
+"Both Rotenberg and Helsingius have set standards of education and
+consciousness-raising about social issues on the Net that any of us could
+be proud of," Godwin said. Both winners of this year's Pioneer Awards, he
+said, "have taken a lot of heat for their principles, but have shown an
+exemplary willingness to stand their ground in the hope
+of teaching us something about the importance of sticking to such
+principles where the Net is concerned."
+"The special award for Lamarr and Antheil is remarkable for other reasons
+besides its recognition of a woman whose contributions were thought to be
+solely in the field of entertainment," Godwin said. Partly this is because
+Lamarr and Antheil had hoped that the military applications of their
+invention would play a role in the defeat of Nazi Germany. "Ironically,"
+Godwin said, "this tool they developed to defend democracy half a century
+ago promises to extend democracy in the 21st century."
+Godwin also noted that the chief architect behind the public campaign to
+honor Lamarr and Antheil was Dave Hughes, an online community activist
+based in Colorado. Hughes won a Pioneer Award himself some years ago for
+his online activism, Godwin said, "and his effective use of the Net to
+tell the story of Ms. Lamarr's and Mr. Antheil's contributions just goes
+to show that we picked the right guy back then."
+Will the special award for Lamarr and Antheil eclipse the awards to
+Rotenberg and Helsingius? "We expect the awards to complement each
+other," he responded. "People who come to see Ms. Lamarr and Mr. Antheil
+being honored will learn about the great work Marc and Julf have done, and
+vice versa."
+Brief Profiles of the Honorees:
+Johan Helsingius, Managing Director for EUnet Finland Oy, the major
+commercial ISP in Finland, is being honored with a Pioneer Award for his
+contribution to online freedom and privacy by establishing and maintaining
+the first practical anonymous e-mail server. For many years his anonymous
+remailer, anon.penet.fi, allowed people who might otherwise be intimidated
+or even endangered to speak out and to express their views. From battered
+women to political refugees, Helsingius' system provided all users the
+ability to communicate freely and safely in cyberspace.
+Marc Rotenberg, founder and Director of the Electronic Privacy Information
+Center (EPIC), is being honored with a Pioneer Award for his as role as a
+tireless champion of privacy, human rights and civil liberties on the
+electronic frontier. His efforts have kept the
+important issues concerning the impact of computer and telecommunications
+technologies on freedom and privacy in society in the forefront of public
+policy debates, both in this country and around the world.
+Actress Hedy Lamarr and composer George Antheil are being honored by the
+EFF this year with a special award for their trail-blazing development of
+a technology that has become a key component of wireless data systems. In
+1942 Lamarr, once named the "most beautiful woman in the world" and
+Antheil, dubbed "the bad boy of music" patented the concept of
+"frequency-hopping" that is now the basis for the spread spectrum radio
+systems used in the products of over 40 companies manufacturing items
+ranging from cell phones to wireless networking systems.
+The Judges
+The judges for the sixth annual EFF Pioneer Awards were: Hal Abelson,
+Professor of Computer Science at the Massachusetts Institute of
+Technology; Karen Coyle, librarian at the University of California and
+president of the Berkeley chapter of Computer Professionals for Social
+Responsibility; Bruce Koball, technical consultant and one of the
+organizers of the Computers, Freedom, and Privacy conference; Simona Nass,
+founder of the Society for Electronic Access and board member of the
+Voters Telecommunications Watch; Peter Neumann, principal scientist at SRI
+International; and Mike Godwin, staff counsel for the Electronic Frontier
+Foundation, who coordinated the judging process.
+Links:
+EFF Pioneer Awards
+Contact:
+Mike Godwin
+mnemonic@eff.org
+510-548-3290, Fax: 415-436-9993
+About EFF
+The Electronic Frontier Foundation (EFF) is a non-profit organization
+founded in 1990 to ensure the protection of civil liberties, such as
+privacy and freedom of expression, as new communications technologies
+emerge. Through its work with policymakers, industry organizations,
+communications media and the public, EFF is committed to protecting and
+defining civil rights and responsibilities within the realm of computing
+and telecommunications.

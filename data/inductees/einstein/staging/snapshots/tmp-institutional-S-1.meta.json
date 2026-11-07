@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  "fetch_url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:19:33Z",
+  "sha256": "89e5ea4490f1a62f0f9873039a1b92b5bd63fd5515fad14c09bb10579983eb4b",
+  "bytes": 7479,
+  "http_status": 200,
+  "final_url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/"
+}

@@ -1,0 +1,489 @@
+{
+  "id": "kings-hall",
+  "title": "The King´s Hall",
+  "place": "The King's Hall, Skokloster Castle, Sweden",
+  "publisher": "Skokloster Castle (Skoklosters slott), Swedish National Historical Museums",
+  "sketchfab_url": "https://sketchfab.com/3d-models/the-king-s-hall-d18155613363445b9b68c0c67196d98d",
+  "uid": "d18155613363445b9b68c0c67196d98d",
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "credit": "This work is based on \"The King´s Hall\" (https://sketchfab.com/3d-models/the-king-s-hall-d18155613363445b9b68c0c67196d98d) by Skokloster Castle (Skoklosters slott) (https://sketchfab.com/SkoklosterCastle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Scan by Erik Lernestål. Changes: reoriented and recentred; mesh simplified for the web and recompressed (meshopt); textures resized, colour- and exposure-corrected and recompressed (KTX2); rendered unlit; 2 regions masked with a flat colour (artworks not cleared for copyright, or modern signage).",
+  "credit_source": "Sketchfab Data API https://api.sketchfab.com/v3/models/d18155613363445b9b68c0c67196d98d fields name, user.displayName, user.username and license, read 2026-10-13; scan credit quoted from that model's description field: \"Scan by Erik Lernestål\"",
+  "changes": "Changes: reoriented and recentred; mesh simplified for the web and recompressed (meshopt); textures resized, colour- and exposure-corrected and recompressed (KTX2); rendered unlit; 2 regions masked with a flat colour (artworks not cleared for copyright, or modern signage).",
+  "label": "3D scan of The King's Hall, Skokloster Castle, Sweden (Skokloster Castle (Skoklosters slott), CC BY 4.0).",
+  "source_file": "the-king-s-hall.zip",
+  "source_sha256": "35a59c7f848d2a898bd257bb95ab35b798b078152e6675ca27149e0f1670dcab",
+  "source": {
+    "format": "OBJ (RealityCapture)",
+    "textures": 1,
+    "texture_px": 8192,
+    "tris": 999999,
+    "source_tris_capped": true
+  },
+  "transform": {
+    "up": "y",
+    "scale": 1.0,
+    "scale_note": "source units are metres: the central table top measures 0.76 m above the levelled floor",
+    "floor_y": 0,
+    "levelled_by_deg": 0.071,
+    "ceiling_m": 6.26,
+    "extent_m": [
+      15.231,
+      21.352
+    ],
+    "yaw_deg": -1.166,
+    "walls_off_axis_deg": 0.0,
+    "root_matrix": [
+      0.999792005,
+      -0.001235671,
+      0.020357286,
+      0.0,
+      0.001233604,
+      0.999999233,
+      0.000114076,
+      0.0,
+      -0.020357412,
+      -8.894e-05,
+      0.999792762,
+      0.0,
+      0.551238375,
+      2.041523468,
+      -14.028585542,
+      1.0
+    ]
+  },
+  "colour": {
+    "method": "partial grey-world white balance (strength 0.2) then gamma on sRGB values toward median luminance 0.42 (gamma clamped to [0.75, 1.15])",
+    "gains_rgb": [
+      0.9781,
+      1.0045,
+      1.0265
+    ],
+    "gamma": 1.0005,
+    "median_luminance_before": 0.4203,
+    "median_luminance_after": 0.42
+  },
+  "bundles": {
+    "desktop": {
+      "file": "scans/kings-hall/desktop/room.72dbeca7.glb",
+      "bytes": 8679384,
+      "sha256": "72dbeca7f3c4ba7a5f17cdf9d81b5b9f509d412905c6d209482c233925d4e777",
+      "gpu_bytes": 43981093,
+      "gpu_texture_bytes": 22369621,
+      "gpu_geometry_bytes": 21611472,
+      "tris": 999999,
+      "textures": 1,
+      "texture_px": 4096,
+      "texture_format": "KTX2 ETC1S (basisu -q 255, mipmaps, sRGB)",
+      "simplify_ratio": 1.0,
+      "crops_sha256": "9beb27e04865996f794372e16e84aa805b43bcdf87c8bc79ea93ab20e7e5da41",
+      "crops_applied": {
+        "sko-629-karl-xv": {
+          "faces": 1655,
+          "texels": 11158
+        },
+        "sko-632-gustav-vi-adolf": {
+          "faces": 1300,
+          "texels": 7994
+        }
+      }
+    },
+    "phone": {
+      "file": "scans/kings-hall/phone/room.ac431fa0.glb",
+      "bytes": 4248584,
+      "sha256": "ac431fa00b1fb24a3c1efdfcdc5c2c3d7373a9f1e213a1cc79a780a2e18caab4",
+      "gpu_bytes": 13877230,
+      "gpu_texture_bytes": 2796202,
+      "gpu_geometry_bytes": 11081028,
+      "tris": 449917,
+      "textures": 1,
+      "texture_px": 2048,
+      "texture_format": "KTX2 ETC1S (basisu -q 255, mipmaps, sRGB)",
+      "simplify_ratio": 0.45,
+      "crops_sha256": "9beb27e04865996f794372e16e84aa805b43bcdf87c8bc79ea93ab20e7e5da41",
+      "crops_applied": {
+        "sko-629-karl-xv": {
+          "faces": 1655,
+          "texels": 5209
+        },
+        "sko-632-gustav-vi-adolf": {
+          "faces": 1300,
+          "texels": 2545
+        }
+      }
+    }
+  },
+  "preview": {
+    "file": "scans/kings-hall/preview/room.2e6ce40d.glb",
+    "bytes": 364732,
+    "sha256": "2e6ce40d19c7dfff38b284af3219413511d2ec16cdcb0cb9313b31517379f29d",
+    "gpu_bytes": 948762,
+    "tris": 39654,
+    "texture_px": 512,
+    "texture_format": "KTX2 ETC1S (basisu -q 255, mipmaps, sRGB), baked on a new UV atlas (xatlas)",
+    "simplify": "gltfpack -si 0.040000 -se 0.05 on welded positions (from 999999 tris), re-atlased and re-baked",
+    "crops_sha256": "9beb27e04865996f794372e16e84aa805b43bcdf87c8bc79ea93ab20e7e5da41"
+  },
+  "occluder": {
+    "file": "scans/kings-hall/occluder.080daa9c.glb",
+    "bytes": 59716,
+    "sha256": "080daa9cb2f3eca8ca28bdddd17110d325c997fee74e1ae7c7b4b6cd03810cf4",
+    "tris": 17558
+  },
+  "budgets": {
+    "phone": 5000000,
+    "desktop": 10000000
+  },
+  "preview_max_bytes": 400000,
+  "downloads": {
+    "phone": 4673032,
+    "desktop": 9103832
+  },
+  "tooling": {
+    "gltfpack": "1.3",
+    "basisu": "2.50.0"
+  },
+  "inventory_reviewed": {
+    "source_sha256": "35a59c7f848d2a898bd257bb95ab35b798b078152e6675ca27149e0f1670dcab",
+    "date": "2026-10-13",
+    "count": 29,
+    "artworks_sha256": "88d65226dd3b6b406d0e6f6ec4eba194a4b4fa55fcdd36d09986ffb5d11e3bbe",
+    "evidence": "docs/research/direction/B11-artwork-clearance.md"
+  },
+  "artworks": [
+    {
+      "label": "Karl X Gustav on horseback (SKO 616)",
+      "location": "west wall (-x), south end",
+      "artist": "Joachim von Sandrart",
+      "died": 1688,
+      "died_source": "https://www.wikidata.org/wiki/Q551624",
+      "dated": 1650,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/77FFF9F5-31A0-42BF-B0AF-A451B5FA8703"
+    },
+    {
+      "label": "Karl XI on horseback (SKO 619)",
+      "location": "west wall (-x), centre",
+      "artist": "David Klöcker Ehrenstrahl",
+      "died": 1698,
+      "died_source": "https://www.wikidata.org/wiki/Q902649",
+      "dated": 1697,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/165BC759-F877-4C48-ACC2-9AC6F2ECD8CB"
+    },
+    {
+      "label": "Karl XII on horseback (SKO 620)",
+      "location": "west wall (-x), north of centre",
+      "artist": "David von Krafft",
+      "died": 1724,
+      "died_source": "https://www.wikidata.org/wiki/Q586719",
+      "dated": 1718,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/F0A140F9-28EE-462D-9EB8-39763AAA2EAF"
+    },
+    {
+      "label": "Karl XI as a boy, full length (SKO 618)",
+      "location": "west wall (-x), north end, upper",
+      "artist": "David Klöcker Ehrenstrahl",
+      "died": 1698,
+      "died_source": "https://www.wikidata.org/wiki/Q902649",
+      "dated": 1666,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/600230E1-85C8-4C98-AEBA-46872892909F"
+    },
+    {
+      "label": "Gustav II Adolf in a red hat (SKO 614)",
+      "location": "west wall (-x), north corner, upper",
+      "artist": "Matthäus Merian the Elder",
+      "died": 1650,
+      "died_source": "https://www.wikidata.org/wiki/Q57968",
+      "dated": 1632,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/24E68A8C-11FF-41F1-9245-C5C9D7520FA7"
+    },
+    {
+      "label": "Queen Kristina against a red ground (SKO 3041)",
+      "location": "west wall (-x), north corner, lower",
+      "artist": "David Beck",
+      "died": 1656,
+      "died_source": "https://www.wikidata.org/wiki/Q1173687",
+      "dated": 1659,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/55804A1E-E1BE-47A9-B200-03D7651D26D8"
+    },
+    {
+      "label": "Gustav III (SKO 624)",
+      "location": "north window wall (-z), west pier, upper",
+      "artist": "Lorens Pasch the Younger",
+      "died": 1805,
+      "died_source": "https://www.wikidata.org/wiki/Q725347",
+      "dated": 1792,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/B0D99B3C-BD08-47C4-BC77-74DD800C0431"
+    },
+    {
+      "label": "Adolf Fredrik (SKO 623)",
+      "location": "north window wall (-z), east pier, upper",
+      "artist": "Lorens Pasch the Younger",
+      "died": 1805,
+      "died_source": "https://www.wikidata.org/wiki/Q725347",
+      "dated": 1771,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/3C6298D4-EF44-4A8F-AF20-9F8B58A10111"
+    },
+    {
+      "label": "Erik XIV, 17th-century bust copy (SKO 610)",
+      "location": "north window wall (-z), east pier, lower",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1699,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/64A23E8B-297F-490A-9671-50582AF0A0AC"
+    },
+    {
+      "label": "Gustav Vasa or Johan III, 17th-century bust copy (SKO 609 / 611)",
+      "location": "north window wall (-z), west pier, lower",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1699,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/72CD04E9-9971-424E-8C2B-8FC2BE9FACA0",
+      "note": "Too dark in the scan to tell which of the two 17th-century bust copies hangs here; the other hangs in the north-east corner group. Both records (609_SKO dated 1600-1699, 611_SKO dated 1600) name no maker and date the work to the 17th century, so the clearance is the same either way."
+    },
+    {
+      "label": "Johan III or Gustav Vasa, 17th-century bust copy (SKO 611 / 609)",
+      "location": "east wall (+x), north corner group, lower left",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1600,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/50FBA971-2B06-4BAD-B7FD-263DB192D69A",
+      "note": "See the west-pier bust: 609_SKO and 611_SKO, both 17th-century copies with no maker named."
+    },
+    {
+      "label": "Sigismund, 17th-century bust copy (SKO 612)",
+      "location": "east wall (+x), north corner group, lower middle",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1699,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/A1BC318D-F02F-4680-A206-A8EA836B9944"
+    },
+    {
+      "label": "Karl IX, 17th-century bust copy (SKO 613)",
+      "location": "east wall (+x), north corner group, lower right",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1699,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/9098BF09-CA52-42FD-B7E1-90F6FF1DA6F7"
+    },
+    {
+      "label": "Karl XV in hussar uniform (SKO 629)",
+      "location": "east wall (+x), north corner group, upper left",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1872,
+      "status": "cropped",
+      "evidence_url": "https://samlingar.shm.se/object/8C59D907-F23A-450A-ADF8-6261CF43D058",
+      "crop": "sko-629-karl-xv",
+      "note": "The catalogue names no painter and dates the portrait 1850-1872: too recent to clear without an identified artist and death year. Masked."
+    },
+    {
+      "label": "Gustav V in profile (SKO 631)",
+      "location": "east wall (+x), north corner group, upper right",
+      "artist": "Emil Österman and Bernhard Österman",
+      "died": 1938,
+      "died_source": "https://www.wikidata.org/wiki/Q4391878",
+      "dated": 1929,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/B94A6EA4-B2A6-4F13-A429-A259ABBDC17E",
+      "note": "The record names both twins (Carl Emil Österman, died 1927, https://www.wikidata.org/wiki/Q4392193; Gustaf Bernhard Österman, died 1938); the later death year is used."
+    },
+    {
+      "label": "Queen Hedvig Eleonora seated, in black (SKO 617)",
+      "location": "east wall (+x), over the north door",
+      "artist": "David Klöcker Ehrenstrahl",
+      "died": 1698,
+      "died_source": "https://www.wikidata.org/wiki/Q902649",
+      "dated": 1675,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/633D28F1-56AE-4601-A2A1-8917DD04EC7B"
+    },
+    {
+      "label": "Fredrik I, full length (SKO 622)",
+      "location": "east wall (+x), north of the fireplace",
+      "artist": "Georg Engelhard Schröder",
+      "died": 1750,
+      "died_source": "https://www.wikidata.org/wiki/Q1504147",
+      "dated": 1750,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/78E87578-C952-4B23-B58E-2103C76DBC58"
+    },
+    {
+      "label": "Apollo and Coronis, painted overmantel panel (SKO 13880)",
+      "location": "east wall (+x), fireplace overmantel",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1669,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/762E3FB1-4E9C-4BCB-BCB4-B5F785987D70"
+    },
+    {
+      "label": "Painted fire screen with a palace interior (SKO 608)",
+      "location": "east wall (+x), fireplace opening",
+      "artist": "Jean Le Pautre",
+      "died": 1682,
+      "died_source": "https://www.wikidata.org/wiki/Q290751",
+      "dated": 1700,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/E2EBFCDB-E5A2-47CC-975C-C0EC29E82C00",
+      "note": "The catalogue names Jean Lepautre (the design source); the screen is dated 1659-1700."
+    },
+    {
+      "label": "Gustav VI Adolf seated (SKO 632)",
+      "location": "east wall (+x), over the south door",
+      "artist": "Kurt Jungstedt",
+      "died": 1963,
+      "died_source": "https://www.wikidata.org/wiki/Q5894434",
+      "dated": 1961,
+      "status": "cropped",
+      "evidence_url": "https://samlingar.shm.se/object/8A5F4402-BC53-4436-AB64-4C6D19A4C56C",
+      "crop": "sko-632-gustav-vi-adolf",
+      "note": "Painted 1960-61 by Kurt Jungstedt (died 1963): in copyright until the end of 2033. Masked."
+    },
+    {
+      "label": "Oscar II in admiral's uniform (SKO 630)",
+      "location": "east wall (+x), south corner, upper",
+      "artist": "Oscar Björck",
+      "died": 1929,
+      "died_source": "https://www.wikidata.org/wiki/Q282512",
+      "dated": 1893,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/2AF9339A-0EFA-48F5-ABC9-59E3ED8B75BC"
+    },
+    {
+      "label": "Karl XIII with the bust of Karl Johan (SKO 626)",
+      "location": "east wall (+x), south corner, lower",
+      "artist": "Per Krafft the Younger",
+      "died": 1863,
+      "died_source": "https://www.wikidata.org/wiki/Q927593",
+      "dated": 1815,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/323B1870-C274-4B15-9AC9-4BA368495F8C"
+    },
+    {
+      "label": "Oscar I as crown prince (SKO 628)",
+      "location": "south window wall (+z), east pier, upper",
+      "artist": "Fredric Westin",
+      "died": 1862,
+      "died_source": "https://www.wikidata.org/wiki/Q1453234",
+      "dated": 1836,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/B69DCDB2-3061-4873-8A7E-8327F9266D3B"
+    },
+    {
+      "label": "Queen Desideria (SKO 3352)",
+      "location": "south window wall (+z), east pier, lower",
+      "artist": "Fredric Westin",
+      "died": 1862,
+      "died_source": "https://www.wikidata.org/wiki/Q1453234",
+      "dated": 1845,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/0FDB906E-3997-4C87-BD94-1B6708D5C713"
+    },
+    {
+      "label": "Queen Josefina (SKO 3351)",
+      "location": "south window wall (+z), west pier, upper",
+      "artist": "Olof Johan Södermark",
+      "died": 1848,
+      "died_source": "https://www.wikidata.org/wiki/Q1658721",
+      "dated": 1832,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/AFEAF763-0457-46A0-A080-F0696BD95ED0"
+    },
+    {
+      "label": "Karl XIV Johan (SKO 627)",
+      "location": "south window wall (+z), west pier, lower",
+      "artist": "Olof Johan Södermark",
+      "died": 1848,
+      "died_source": "https://www.wikidata.org/wiki/Q1658721",
+      "dated": 1831,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/16371565-C299-4E04-BBD7-4670D2454F20"
+    },
+    {
+      "label": "Painted stucco ceiling: Jason and the dragon, the four continents, the Wrangel and von Haugwitz monograms",
+      "location": "ceiling",
+      "artist": "Hans Zauch (stucco); painting attributed to Nils Eriksson in the museum's photo record",
+      "died": null,
+      "died_source": null,
+      "dated": 1664,
+      "status": "cleared",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Kungssalen_-_Skoklosters_slott_-_30913.tif",
+      "note": "The museum's photo record (LSH photo 30913, republished by the museum on Wikimedia Commons) states the stucco ceiling was made by Hans Zauch in 1663-1664; LSH photo 88015 names Nils Eriksson for the painted stucco. Zauch died 1666 (https://www.wikidata.org/wiki/Q30331456)."
+    },
+    {
+      "label": "Carved and painted fireplace (Markus Hebel) and relief-tiled stove",
+      "location": "east wall (+x)",
+      "artist": "Markus Hebel (carving)",
+      "died": null,
+      "died_source": null,
+      "dated": 1670,
+      "status": "cleared",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Kungssalen_-_Skoklosters_slott_-_30913.tif",
+      "note": "The same museum record: wooden fireplace with sculptures by Markus Hebel (1663), screens decorated by Johan Malchow, and a stove with reliefs by Hindrich Thim (1670). Hebel died 1664 (https://www.wikidata.org/wiki/Q27300028)."
+    },
+    {
+      "label": "Room fabric: gilt-leather wall hangings (SKO 633), painted joinery, limestone floor",
+      "location": "walls and floor",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1700,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/5D925715-BDAD-42A7-A3CD-775FEF9D360A",
+      "note": "The gilt leather is catalogued 1650-1700; the castle was built 1654-1676 (https://skoklostersslott.se/skoklosters-slotts-historia/)."
+    }
+  ],
+  "stations": [],
+  "crops": [
+    {
+      "id": "sko-629-karl-xv",
+      "label": "Karl XV portrait (SKO 629)",
+      "min": [
+        6.453,
+        3.32,
+        -9.1767
+      ],
+      "max": [
+        7.2531,
+        4.57,
+        -8.1566
+      ],
+      "rot_y_deg": -1.166471
+    },
+    {
+      "id": "sko-632-gustav-vi-adolf",
+      "label": "Gustav VI Adolf portrait (SKO 632)",
+      "min": [
+        6.496,
+        3.8,
+        5.8268
+      ],
+      "max": [
+        7.2461,
+        5.25,
+        6.9969
+      ],
+      "rot_y_deg": -1.166471
+    }
+  ]
+}

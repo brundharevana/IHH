@@ -1,0 +1,81 @@
+title: Press Copies of Letters Sent by the Chiefs
+scopeAndContentNote: This series consists of letters sent by Chiefs of Division "L" to the Secretary of the Interior; members of Congress; officials of other government agencies, such as the Board on Geographic Names and the Lighthouse Board; state officials; chiefs of other General Land Office (GLO) divisions; attorneys; contractors; and other interested persons.  The letters concern requests for state maps and information needed for mapping purposes; the preparation and reproduction of maps and plats; and surveys of townships, national parks, states, and land districts.  Also included are reports and periodic statements of work, recommendations concerning the administration of the Division, requests for supplies and equipment, requests for samples from manufacturers in connection with bids, recommendations for awarding or withdrawing contracts, and reports of investigations of personnel efficiency and performance of assigned duties.
+
+Frank Bond served as Division Chief from 1903 to 1907.  Included are several of his letters that concern maps to be exhibited at the Louisiana Purchase Exposition, the correct forms of place names, and a few that relate to his work on a commission to examine Yosemite Park lands.  There is also a 1906 letter that he wrote to the GLO Commissioner, after the Division was put in charge of matters relating to prehistoric sites.  In this letter, he recommended the resurvey and reassessment of land covered by a homestead entry in New Mexico that embraced Pueblo Bonito, the largest prehistoric ruin in the United States; and the resurvey and reassessment of three other nearby ruins.  In this letter, he likewise recommended an examination of the natural bridges area in southeastern Utah.  In his letter of December 28, 1906, he wrote to John Muir regarding the location of certain Petrified Forest remains in Arizona that were outside the boundaries of the Petrified Forest National Monument.
+inclusiveStartDate.year: 1893
+inclusiveStartDate.logicalDate: 1893-01-01
+levelOfDescription: series
+creators[0].creatorType: Most Recent
+creators[0].heading: Department of the Interior. General Land Office. Division "L" (Drafting Division). (ca. 1880 - 02/26/1925)
+creators[0].abolishDate.month: 2
+creators[0].abolishDate.year: 1925
+creators[0].abolishDate.day: 26
+creators[0].abolishDate.logicalDate: 1925-02-26
+creators[0].authorityType: organization
+creators[0].establishDate.year: 1880
+creators[0].establishDate.logicalDate: 1880-01-01
+creators[0].naId: 10455955
+recordType: description
+inclusiveEndDate.month: 1
+inclusiveEndDate.year: 1915
+inclusiveEndDate.logicalDate: 1915-01-31
+subjects[0].heading: Muir, John, 1838-1914
+subjects[0].deathDate.year: 1914
+subjects[0].deathDate.logicalDate: 1914-12-31
+subjects[0].authorityType: person
+subjects[0].birthDate.year: 1838
+subjects[0].birthDate.logicalDate: 1838-01-01
+subjects[0].naId: 10580990
+useRestriction.status: Unrestricted
+findingAids[0].note: Each volume contains an alphabetical index by subject or name of addressee.
+findingAids[0].source: Division "L"
+findingAids[0].findingAidType: Index
+audiovisual: false
+physicalOccurrences[0].extent: 5 linear inches
+physicalOccurrences[0].referenceUnits[0].address2: 7th and Pennsylvania Avenue NW
+physicalOccurrences[0].referenceUnits[0].city: Washington
+physicalOccurrences[0].referenceUnits[0].phone: 202-357-5385
+physicalOccurrences[0].referenceUnits[0].address1: National Archives Building
+physicalOccurrences[0].referenceUnits[0].postalCode: 20408
+physicalOccurrences[0].referenceUnits[0].name: National Archives at Washington, DC - Textual Reference
+physicalOccurrences[0].referenceUnits[0].state: DC
+physicalOccurrences[0].referenceUnits[0].fax: 202-357-5936
+physicalOccurrences[0].referenceUnits[0].email: Archives1reference@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Bound Volume
+physicalOccurrences[0].holdingsMeasurements[0].count: 4
+physicalOccurrences[0].holdingsMeasurements[0].type: Volume, Oversize [larger than 9 x 3 x 14]
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+arrangement: Arranged in chronological order.
+dataControlGroup.groupName: National Archives at Washington, DC   – Textual Reference
+dataControlGroup.groupId: RR1
+dataControlGroup.groupCd: RR1
+generalRecordsTypes[0]: Textual Records
+variantControlNumbers[0].note: This series is described in section 49.L11 of “The Trans-Mississippi West 1804-1912, Part IV, A Guide to Records of the Department of the Interior for the Territorial Period, Section 3: Records of the General Land Office.”
+variantControlNumbers[0].number: 49.L11
+variantControlNumbers[0].type: Other Finding Aid Identifier
+variantControlNumbers[1].note: This series is described in section 49.L12 of “The Trans-Mississippi West 1804-1912, Part IV, A Guide to Records of the Department of the Interior for the Territorial Period, Section 3: Records of the General Land Office.”
+variantControlNumbers[1].number: 49.L12
+variantControlNumbers[1].type: Other Finding Aid Identifier
+variantControlNumbers[2].number: UD 705
+variantControlNumbers[2].type: HMS/MLR Entry Number
+variantControlNumbers[3].note: This entry was formerly known as Division L 3.
+variantControlNumbers[3].number: PI-22 3
+variantControlNumbers[3].type: Former HMS/MLR Entry Number
+variantControlNumbers[4].note: This entry was formerly known as Division L 4.
+variantControlNumbers[4].number: PI-22 4
+variantControlNumbers[4].type: Former HMS/MLR Entry Number
+variantControlNumbers[5].number: UD 706
+variantControlNumbers[5].type: Former HMS/MLR Entry Number
+otherTitles[0]: Press Copies of Letters Sent by the Chief, 1893-January 1915
+otherTitles[1]: Press Copies of Letters Sent by the Chiefs of Division "L"
+ancestors[0].inclusiveStartDate.year: 1685
+ancestors[0].inclusiveStartDate.logicalDate: 1685-01-01
+ancestors[0].distance: 1
+ancestors[0].levelOfDescription: recordGroup
+ancestors[0].recordGroupNumber: 49
+ancestors[0].inclusiveEndDate.year: 2006
+ancestors[0].inclusiveEndDate.logicalDate: 2006-12-31
+ancestors[0].title: Records of the Bureau of Land Management
+ancestors[0].naId: 378
+naId: 5708440

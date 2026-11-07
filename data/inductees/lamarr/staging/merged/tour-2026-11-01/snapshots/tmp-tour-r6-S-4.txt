@@ -1,0 +1,339 @@
+_version_: 1859961535021973504
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82016181/1941-10-01/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82016181/1941-10-01/ed-1/
+batch[0]: dlc_hara_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json
+created_published[0]: Washington, D.C., October 1, 1941
+date: 1941-10-01
+date_issued: 1941-10-01
+dates[0].1941-10-01: https://www.loc.gov/search/?dates=1941-10-01/1941-10-01&fo=json
+dates_of_publication: 1921-1972
+description[0]: Washington, D.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-04-13T08:52:37.856Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_hara_ver01/data/sn82016181/00516999846/1941100101/1941100101_1.xml#ndnp/dlc-2020_now
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2020_now
+group[1]: library-of-congress-washington-dc-awardee-8
+hassegments: true
+id: http://www.loc.gov/item/sn82016181/1941-10-01/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hara_ver01:data:sn82016181:00516999846:1941100101:1057/full/pct:6.25/0/default.jpg#h=338&w=235
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hara_ver01:data:sn82016181:00516999846:1941100101:1057/full/pct:12.5/0/default.jpg#h=676&w=470
+index: 32
+item.batch[0]: dlc_hara_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington, D.C., October 1, 1941
+item.date: 1921
+item.date_issued: 1941-10-01
+item.dates[0]: 1941-10-01
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn82016181
+item.location[0]: Washington (D.C.)
+item.medium: 44 pages
+item.newspaper_title[0]: The Washington daily news
+item.notes[0]: Daily (except Sunday)
+item.notes[1]: Vol. 1, no. 1 (Nov. 8, 1921)-v. 51, no. 211 (July 12, 1972).
+item.notes[2]: Nov. 8, 1971 issue called also "Golden anniversary edition."
+item.notes[3]: "Independent."
+item.notes[4]: Also issued on microfilm from the Library of Congress Photoduplication Service and Microfilming Corp. of America.
+item.notes[5]: Evening star (Washington, D.C.) 2331-9968 (DLC)sn 83045462 (OCoLC)2260929
+item.notes[6]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_hara_ver01/data/sn82016181/00516999846/1941100101/1941100101_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82016181/marcxml
+item.place_of_publication: Washington, D.C.
+item.raw_lccn: sn 82016181
+item.reel_numbers[0]: 00516999846
+item.source_group: ndnp/dlc-2020_now
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: The Washington daily news (Washington, D.C.), October 1, 1941
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn82016181
+location[0]: washington
+location[1]: district of columbia
+location[2]: united states
+location[3]: washington d.c.
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+medium: 44 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Washington daily news
+notes[0]: Daily (except Sunday)
+notes[1]: Vol. 1, no. 1 (Nov. 8, 1921)-v. 51, no. 211 (July 12, 1972).
+notes[2]: Nov. 8, 1971 issue called also "Golden anniversary edition."
+notes[3]: "Independent."
+notes[4]: Also issued on microfilm from the Library of Congress Photoduplication Service and Microfilming Corp. of America.
+notes[5]: Evening star (Washington, D.C.) 2331-9968 (DLC)sn 83045462 (OCoLC)2260929
+notes[6]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+number[0]: 00516999846
+number[1]: 1
+number[2]: sn82016181
+number_edition[0]: 1
+number_lccn[0]: sn82016181
+number_reel[0]: 00516999846
+numeric_shelf_id: 194110011
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_hara_ver01/data/sn82016181/00516999846/1941100101/1941100101_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82016181/marcxml
+partof[0].count: 9019
+partof[0].title: the washington daily news (washington, d.c.) 1921-1972
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+washington+daily+news+%28washington,+d.c.%29+1921-1972&fo=json
+partof[1].count: 3212149
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3233655
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the washington daily news (washington, d.c.) 1921-1972
+place_of_publication: Washington, D.C.
+publication_frequency[0]: daily
+raw_lccn: sn 82016181
+reel_numbers[0]: 00516999846
+resources[0].files: 44
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hara_ver01:data:sn82016181:00516999846:1941100101:1057/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82016181/1941-10-01/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn82016181, 1941-10-01, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2020_now
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: washington (d.c.)
+subject[1]: district of columbia
+subject[2]: washington
+subject[3]: newspapers
+subject[4]: united states
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+timestamp: 2026-03-18T01:32:21.151Z
+title: The Washington daily news (Washington, D.C.), October 1, 1941
+type[0]: issue
+url: https://www.loc.gov/item/sn82016181/1941-10-01/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_hara_ver01/data/sn82016181/00516999846/1941100101/1088.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82016181/1941-10-01/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hara_ver01:data:sn82016181:00516999846:1941100101:1057/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_hara_ver01/data/sn82016181/00516999846/1941100101/1088.pdf
+resources[0].segment_count: 44
+resources[0].url: https://www.loc.gov/resource/sn82016181/1941-10-01/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1941, October 1) The Washington daily news. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82016181/1941-10-01/ed-1/.
+cite_this.chicago: The Washington daily news. (Washington, DC), Oct. 1 1941. https://www.loc.gov/item/sn82016181/1941-10-01/ed-1/.
+cite_this.mla: The Washington daily news. (Washington, DC) 1 Oct. 1941, p. 32. Retrieved from the Library of Congress, www.loc.gov/item/sn82016181/1941-10-01/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_hara_ver01/data/sn82016181/00516999846/1941100101/1088.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_hara_ver01/data/sn82016181/00516999846/1941100101/1088.xml&format=alto_xml&full_text=1
+full_text:
+Page 32
+Likelihood of Sea War Shelves Naval Epic
+HOLLYWOOD—lncreasing likelihood of the Navy getting into
+a shooting war on the high seas caused a hasty reshuffling of
+production plans at several studios preparing defense stories.
+Paramount had to shelve, perhaps’
+permanently, one of its biggest of
+forts, "Tomorrow's Admirals," when
+the Navy Department served notice
+that no ships would be available for
+filming. This is the first time that
+Government co-operation has been
+withdrawn from approved stories.
+
+Hearing that a certain warbling
+actor h s had his nose bobbed, Milton
+Berle asked: “What’s he gonna sing
+thn: now—his eyes?” And talking
+about Hollywood parties, Berle said:
+“When an invitation says ‘formal,’ the
+men wear studs in their sweatshirts
+and the women come in strapless
+slacks.”
+
+The moviemakers are just now get
+ting around to the dramatic possi
+bilities of the Burma Road. Metro
+and 20th-Fox are racing to put rival
+epics into production. Sonja Henle
+is back at her old studio with a new
+contract. It doesn't call for such
+strat spheric sums as the original deal,
+but the gal won’t starve. Charlie
+Chaplin Lsn’t attempting to dub dialog
+into his silent "Gold Rush," which will
+be reissued in December. He’s just
+adding music and the voice of a nar
+rator (probably his own), who’ll make
+cracks about the a< tors and action.
+NO SCHACHT FOR SERIES
+A! Schacht, the baseball comedian,
+probably won't entertain world senes
+crowds this yea.. Sam Goldwyn U
+holding him here for tests and aid
+in preparing the screen Efe of Lou
+Gehrig. Incidentally, success of
+The Little Foxes” hasn't dulled Gold
+wyn's critical sense. He commented to
+a friend that he had wanted somebody
+Gary, Seeking
+Doves, Stung
+by Bees
+HOLLYWOOD—Actor Gary Cooper
+today is nursing 16 hornet stings. Coo
+per, wearing costume tophat and for
+ma! dress picked up a gun and went
+looking for doves for recreation while
+on ’ocation. He stepped on a hornet
+*ievs and was stung about the ankles
+and s.dc.
+
+Rough and tumble brawls in the
+novies may be fewer from now on.
+not because they don't sell, but because
+the materials for breakaway furniture
+-nd windows are limited.
+Ine light balsa wood for chairs
+wh ch fall apart when they crack the
+hero ever the head comes from the
+Conge, and the movies have imported
+none for several months. Bulgaria
+us®d to furnish the resin material for
+plate glass that shatters without in
+juring anybody, but it is impossible
+now to import it.
+Jesse Matthews, young British ac
+tress, is en route to her home in Eng
+land to rejoin her family. She received
+word Sunday that her husband. Sonnie
+Hale. English comedian, had been
+called into active service. The actress
+cut short her Hollywood stay.
+Hedy Invents
+Defense Device
+HOLLYWOOD. Oct. 1— Hedy Lamarr
+has invented a remote control device
+for use in warfare that is considered
+“of potential value” by the Govern
+ment, it was disclosed today.
+Col. I B. Lent, chief engineer of
+the national inventors council, said
+that of some 30,000 inventions sub
+nitted to ‘he Department of Com
+merce. about 100 had been turned over
+to the Army and Navy. Of these,
+abouj a dozen are “red hot.” he said,
+cnd the screen actress’ invention is
+one of them. It is of a highly secret
+nature.
+o Ki:rrH’STf 3
+Ope. 10:15 A. M.
+P Fint Feature at 10:4$ A.M.
+SAMUEL GOLDMAN
+Presents
+BEHOAVIS
+Lin&XES
+HUBUT MARSHALL
+Tartu Wright Ricbarf Carltt*
+MnttN by Willlaw Wyler
+WM Step Seecett
+•y LliUu NetaM
+the Washington daily news, Wednesday, October 1,1941
+“much like Herbert Marshall” for the
+father’s role. “But Marshall is playing
+"'"T
+B j
+With music’s magic
+with glowing Techni
+color...the most beloved
+story ever told will
+weave a spell around
+your heart. Here is a
+picture meant to be seen
+with someone you love!
+a Macdonald aherne
+THE MUSi H ^iss MacDonald sings
+Smilin' Through
+Just A Little Love,
+with /A Little Kiss
+_ GENE RAYMOND IAN HUNTER\<a
+A Frank Barrage Production
+creen Flay by Donald Ogd*r Stewart and John Ba Id erst on Based on the Flay by Jane Cowl and
+Jane Martin An M-G-M Ficture Directed by FRANK BORZAGE Produced by VICTOR SAVILLE
+A SONG AND DANCE REVUE
+CONDOS BROTHERS
+Dancing Stars of "Moon Over Miami"
+i P au l Winchell Rhythm Rockets vVr
+KAUFMAN 7 I
+and Held Over for a 2nd Week! Vs
+CAPITOL ORCH. lAfVIF MFI I FD DYNAMIC V
+ART BROWN JAVMt ntLLtK si NGER V
+CAPITOL ws
+ROBERT YOUNG RUTH HUSSEY In “MARRIED BACHELOR”
+TODAY' Stage “LITTLECAFE” with JACKIE HELLER ROCKETS others
+it!” exclaimed the puzzled friend. “I
+know,” said the producer, “tut he isn’t
+the type.”
+Ginger Rogers and Howard Hughes,
+a long-time twosome of years ago. are
+going places again. Clara Bow
+I in town, seeing doctors. Warner
+Baxter has no more picture plans, is
+concentrating on radio. Richard
+Himber, band leader, magician and
+flicker author, will make a series of
+film shorts on magic. But the pic
+ture will puzzle rather than expose;
+they’ll have the collaboration of the
+Society of American Magicians.
+
+New basic agreements between movie
+companies and technical and labor
+unions will add up to a million-dollar
+increase in wages here. It’s a blanket
+10 per cent increase. Employes are
+happy, but their jobs probably will
+be jeopardized by an AFL-CIO fight
+for control of this rich field.

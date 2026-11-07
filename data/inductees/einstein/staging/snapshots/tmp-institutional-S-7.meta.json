@@ -1,0 +1,10 @@
+{
+  "url": "https://news.uzh.ch/en/articles/news/2022/Doctor-Einstein.html",
+  "fetch_url": "https://news.uzh.ch/en/articles/news/2022/Doctor-Einstein.html",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:24:09Z",
+  "sha256": "a4a43a9279a5cbdf079244f71022d39ffbf724d24fcd6fa330daea9cb2f830d6",
+  "bytes": 6876,
+  "http_status": 200,
+  "final_url": "https://news.uzh.ch/en/articles/news/2022/Doctor-Einstein.html"
+}

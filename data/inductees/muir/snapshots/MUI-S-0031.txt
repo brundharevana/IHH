@@ -1,0 +1,393 @@
+_version_: 1783543425433337856
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/93503130/
+aka[1]: http://www.loc.gov/item/93503130/
+aka[2]: http://www.loc.gov/pictures/item/93503130/
+aka[3]: https://www.loc.gov/pictures/collection/stereo/item/93503130/
+aka[4]: http://www.loc.gov/pictures/collection/stereo/item/93503130/
+aka[5]: https://hdl.loc.gov/loc.pnp/ppmsca.36413
+aka[6]: https://hdl.loc.gov/loc.pnp/ppmsca.36413
+aka[7]: https://hdl.loc.gov/loc.pnp/cph.3g04698
+aka[8]: https://hdl.loc.gov/loc.pnp/cph.3g04698
+aka[9]: https://hdl.loc.gov/loc.pnp/cph.3c07389
+aka[10]: https://hdl.loc.gov/loc.pnp/cph.3c07389
+aka[11]: https://hdl.loc.gov/loc.pnp/cph.3a11256
+aka[12]: https://hdl.loc.gov/loc.pnp/cph.3a11256
+aka[13]: http://www.loc.gov/resource/ppmsca.36413/
+aka[14]: http://www.loc.gov/resource/cph.3g04698/
+aka[15]: http://www.loc.gov/resource/cph.3c07389/
+aka[16]: http://www.loc.gov/resource/cph.3a11256/
+aka[17]: http://lccn.loc.gov/93503130
+call_number: PRES FILE - Roosevelt, Theodore--Misc. Political and Social Activities [item] [P&P]
+contributor_names[0]: Underwood & Underwood, copyright claimant
+contributors[0].underwood & underwood: https://www.loc.gov/search/?fa=contributor:underwood+%26+underwood&fo=json
+created: 2023-11-21T05:36:53Z
+created_published[0]: c1906 [photo taken 1903].
+created_published_date: c1906 [photo taken 1903].
+date: 1906
+dates[0].1906: https://www.loc.gov/search/?dates=1906/1906&fo=json
+description[0]: 1 photographic print : stereograph (unmounted).
+digital_id[0]: ppmsca 36413 https://hdl.loc.gov/loc.pnp/ppmsca.36413
+digital_id[1]: cph 3g04698 https://hdl.loc.gov/loc.pnp/cph.3g04698
+digital_id[2]: cph 3c07389 https://hdl.loc.gov/loc.pnp/cph.3c07389
+digital_id[3]: cph 3a11256 https://hdl.loc.gov/loc.pnp/cph.3a11256
+digitized: true
+display_offsite: true
+extract_timestamp: 2023-11-25T13:38:43.083Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/stereo/item/93503130/#stereo
+extract_urls[1]: http://lccn.loc.gov/93503130#catalog-split-08
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Group portraits--1900-1910.
+format_headings[1]: Portrait photographs--1900-1910.
+format_headings[2]: Silver printing-out paper prints--1900-1910.
+format_headings[3]: Stereographs--1900-1910.
+genre[0]: Portrait photographs--1900-1910
+genre[1]: Group portraits--1900-1910
+genre[2]: Stereographs--1900-1910
+genre[3]: Silver printing-out paper prints--1900-1910
+group[0]: stereo
+group[1]: catalog-split-08
+group[2]: catalog
+group[3]: stereograph-cards
+group[4]: main-catalog-split-08
+hassegments: false
+id: http://www.loc.gov/item/93503130/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413_150px.jpg#h=93&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413t.gif#h=93&w=150
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413r.jpg#h=398&w=640
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413v.jpg#h=637&w=1024
+index: 1
+item.call_number: PRES FILE - Roosevelt, Theodore--Misc. Political and Social Activities [item] [P&P]
+item.contributors[0]: Underwood & Underwood, copyright claimant
+item.control_number: 93503130
+item.created: 2023-11-21T05:36:53Z
+item.created_published: c1906 [photo taken 1903].
+item.created_published_date: c1906 [photo taken 1903].
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Underwood%20%26%20Underwood&co=stereo
+item.creators[0].role: copyright claimant
+item.creators[0].title: Underwood & Underwood
+item.date: c1906 [photo taken 1903].
+item.digital_id[0]: ppmsca 36413 https://hdl.loc.gov/loc.pnp/ppmsca.36413
+item.digital_id[1]: cph 3g04698 https://hdl.loc.gov/loc.pnp/cph.3g04698
+item.digital_id[2]: cph 3c07389 https://hdl.loc.gov/loc.pnp/cph.3c07389
+item.digital_id[3]: cph 3a11256 https://hdl.loc.gov/loc.pnp/cph.3a11256
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Group%20portraits--1900-1910.&co=stereo
+item.formats[0].title: Group portraits--1900-1910.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs--1900-1910.&co=stereo
+item.formats[1].title: Portrait photographs--1900-1910.
+item.formats[2].link: https://www.loc.gov/pictures/related/?fi=format&q=Silver%20printing-out%20paper%20prints--1900-1910.&co=stereo
+item.formats[2].title: Silver printing-out paper prints--1900-1910.
+item.formats[3].link: https://www.loc.gov/pictures/related/?fi=format&q=Stereographs--1900-1910.&co=stereo
+item.formats[3].title: Stereographs--1900-1910.
+item.genre[0]: Portrait photographs--1900-1910
+item.genre[1]: Group portraits--1900-1910
+item.genre[2]: Stereographs--1900-1910
+item.genre[3]: Silver printing-out paper prints--1900-1910
+item.id: 93503130
+item.link: https://www.loc.gov/pictures/item/93503130/
+item.location[0]: California--Yosemite Valley
+item.marc: https://www.loc.gov/pictures/item/93503130/marc/
+item.medium[0]: 1 photographic print : stereograph (unmounted).
+item.medium_brief: 1 photographic print :
+item.mediums[0]: 1 photographic print : stereograph (unmounted).
+item.modified: 2023-11-21T05:36:56Z
+item.notes[0]: H82467 U.S. Copyright Office.
+item.notes[1]: Published in: Eyes of the nation : a visual history of the United States / Vincent Virga and curators of the Library of Congress ; historical commentary by Alan Brinkley. New York : Knopf, 1997.
+item.number_former_id[0]: https://www.loc.gov/item/93503130
+item.number_former_id[1]: https://www.loc.gov/item/11615318
+item.other_control_numbers[0]: 11615318
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+item.place[0].title: California--Yosemite Valley
+item.place[1].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+item.place[1].title: California--Yosemite Valley
+item.raw_collections[0]: ammem
+item.raw_collections[1]: amrvp
+item.raw_collections[2]: diof
+item.raw_collections[3]: pfl
+item.raw_collections[4]: pp
+item.raw_collections[5]: stereo
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-DIG-ppmsca-36413 (digital file from original item)
+LC-USZC4-4698 (color film copy transparency)
+LC-USZ62-107389 (b&w film copy neg.)
+LC-USZ62-8672 (b&w film copy neg. of half stereo)
+LC-USZCN4-226 (color film copy neg.)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/ppmsca.36413
+item.resource_links[1]: https://hdl.loc.gov/loc.pnp/cph.3g04698
+item.resource_links[2]: https://hdl.loc.gov/loc.pnp/cph.3c07389
+item.resource_links[3]: https://hdl.loc.gov/loc.pnp/cph.3a11256
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413r.jpg
+item.sort_date: 1906
+item.source_created: 1993-03-03T00:00:00Z
+item.source_modified: 2023-11-16T16:19:11Z
+item.subject_headings[0]: Roosevelt, Theodore,--1858-1919--Travel--California--Yosemite Valley.
+item.subject_headings[1]: Muir, John,--1838-1914,--Travel--California--Yosemite Valley.
+item.subject_headings[2]: California--Yosemite Valley
+item.subjects[0]: Roosevelt, Theodore,--1858-1919--Travel--California--Yosemite Valley
+item.subjects[1]: Muir, John,--1838-1914,--Travel--California--Yosemite Valley
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413_150px.jpg
+item.title: [Theodore Roosevelt and John Muir on Glacier Point, Yosemite Valley, California, in 1903]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 93503130
+link: https://www.loc.gov/pictures/item/93503130/
+location[0]: california
+location[1]: yosemite valley
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].yosemite valley: https://www.loc.gov/search/?fa=location:yosemite+valley&fo=json
+marc: https://www.loc.gov/pictures/item/93503130/marc/
+medium[0]: 1 photographic print : stereograph (unmounted).
+medium_brief: 1 photographic print :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2023-11-21T05:36:56Z
+notes[0]: H82467 U.S. Copyright Office.
+notes[1]: Published in: Eyes of the nation : a visual history of the United States / Vincent Virga and curators of the Library of Congress ; historical commentary by Alan Brinkley. New York : Knopf, 1997.
+number[0]: 93503130
+number[1]: http://www.loc.gov/item/11615318
+number[2]: http://www.loc.gov/item/93503130
+number[3]: 2023-11-16t16:19:11
+number_former_id[0]: http://www.loc.gov/item/11615318
+number_former_id[1]: http://www.loc.gov/item/93503130
+number_lccn[0]: 93503130
+number_source_modified[0]: 2023-11-16t16:19:11
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 11615318
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/93503130/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/93503130/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/93503130/dc
+partof[0].count: 235
+partof[0].title: evolution of the conservation movement, 1850-1920
+partof[0].url: https://www.loc.gov/search/?fa=partof:evolution+of+the+conservation+movement,+1850-1920&fo=json
+partof[1].count: 55799
+partof[1].title: stereograph cards
+partof[1].url: https://www.loc.gov/collections/stereograph-cards/?fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+place[0].title: California--Yosemite Valley
+place[1].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+place[1].title: California--Yosemite Valley
+raw_collections[0]: ammem
+raw_collections[1]: amrvp
+raw_collections[2]: diof
+raw_collections[3]: pfl
+raw_collections[4]: pp
+raw_collections[5]: stereo
+related.neighbors: https://www.loc.gov/pictures/related/?&co=stereo&pk=93503130&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-DIG-ppmsca-36413 (digital file from original item)
+LC-USZC4-4698 (color film copy transparency)
+LC-USZ62-107389 (b&w film copy neg.)
+LC-USZ62-8672 (b&w film copy neg. of half stereo)
+LC-USZCN4-226 (color film copy neg.)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/ppmsca.36413
+resource_links[1]: https://hdl.loc.gov/loc.pnp/cph.3g04698
+resource_links[2]: https://hdl.loc.gov/loc.pnp/cph.3c07389
+resource_links[3]: https://hdl.loc.gov/loc.pnp/cph.3a11256
+resources[0].caption: digital file from original item
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.36413/
+resources[1].caption: digital file from color film copy transparency
+resources[1].files: 1
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g04000/3g04600/3g04698_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3g04698/
+resources[2].caption: digital file from b&w film copy neg.
+resources[2].files: 1
+resources[2].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c07000/3c07300/3c07389_150px.jpg
+resources[2].url: https://www.loc.gov/resource/cph.3c07389/
+resources[3].caption: digital file from b&w film copy neg. of half stereo
+resources[3].files: 1
+resources[3].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a11000/3a11200/3a11256_150px.jpg
+resources[3].url: https://www.loc.gov/resource/cph.3a11256/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Stereographs - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.46323
+shard: 00
+shelf_id: PRES FILE - Roosevelt, Theodore--Misc. Political and Social Activities [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1906
+source_created: 1993-03-03T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: california
+subject[1]: portrait photographs
+subject[2]: stereographs
+subject[3]: silver printing-out paper prints
+subject[4]: yosemite valley
+subject[5]: group portraits
+subject[6]: roosevelt, theodore
+subject[7]: travel
+subject[8]: muir, john
+subject_headings[0]: Roosevelt, Theodore,--1858-1919--Travel--California--Yosemite Valley
+subject_headings[1]: Muir, John,--1838-1914,--Travel--California--Yosemite Valley
+subjects[0].california: https://www.loc.gov/search/?fa=subject:california&fo=json
+subjects[1].group portraits: https://www.loc.gov/search/?fa=subject:group+portraits&fo=json
+subjects[2].muir, john: https://www.loc.gov/search/?fa=subject:muir,+john&fo=json
+subjects[3].portrait photographs: https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json
+subjects[4].roosevelt, theodore: https://www.loc.gov/search/?fa=subject:roosevelt,+theodore&fo=json
+subjects[5].silver printing-out paper prints: https://www.loc.gov/search/?fa=subject:silver+printing-out+paper+prints&fo=json
+subjects[6].stereographs: https://www.loc.gov/search/?fa=subject:stereographs&fo=json
+subjects[7].travel: https://www.loc.gov/search/?fa=subject:travel&fo=json
+subjects[8].yosemite valley: https://www.loc.gov/search/?fa=subject:yosemite+valley&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413_150px.jpg
+timestamp: 2023-11-25T13:39:16.993Z
+title: [Theodore Roosevelt and John Muir on Glacier Point, Yosemite Valley, California, in 1903]
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/93503130/
+resources[0].caption: digital file from original item
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 42185854
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/ppmsca/36400/36413u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 93
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 5176
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 93
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 12446
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413t.gif
+resources[0].files[0][2].width: 150
+resources[0].files[0][3].height: 398
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 51911
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413r.jpg
+resources[0].files[0][3].width: 640
+resources[0].files[0][4].height: 637
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 353507
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413v.jpg
+resources[0].files[0][4].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/36400/36413_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.36413/
+resources[1].caption: digital file from color film copy transparency
+resources[1].files[0][0].height: 0
+resources[1].files[0][0].levels: 1
+resources[1].files[0][0].mimetype: image/tiff
+resources[1].files[0][0].size: 5150222
+resources[1].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3g00000/3g04000/3g04600/3g04698u.tif
+resources[1].files[0][0].width: 0
+resources[1].files[0][1].height: 121
+resources[1].files[0][1].levels: 1
+resources[1].files[0][1].mimetype: image/jpeg
+resources[1].files[0][1].size: 6299
+resources[1].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g04000/3g04600/3g04698_150px.jpg
+resources[1].files[0][1].width: 150
+resources[1].files[0][2].height: 121
+resources[1].files[0][2].levels: 1
+resources[1].files[0][2].mimetype: image/gif
+resources[1].files[0][2].size: 15468
+resources[1].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g04000/3g04600/3g04698t.gif
+resources[1].files[0][2].width: 150
+resources[1].files[0][3].height: 517
+resources[1].files[0][3].levels: 1
+resources[1].files[0][3].mimetype: image/jpeg
+resources[1].files[0][3].size: 54961
+resources[1].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g04000/3g04600/3g04698r.jpg
+resources[1].files[0][3].width: 640
+resources[1].files[0][4].height: 827
+resources[1].files[0][4].levels: 1
+resources[1].files[0][4].mimetype: image/jpeg
+resources[1].files[0][4].size: 189401
+resources[1].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g04000/3g04600/3g04698v.jpg
+resources[1].files[0][4].width: 1024
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g04000/3g04600/3g04698_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3g04698/
+resources[2].caption: digital file from b&w film copy neg.
+resources[2].files[0][0].height: 0
+resources[2].files[0][0].levels: 1
+resources[2].files[0][0].mimetype: image/tiff
+resources[2].files[0][0].size: 1302290
+resources[2].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3c00000/3c07000/3c07300/3c07389u.tif
+resources[2].files[0][0].width: 0
+resources[2].files[0][1].height: 119
+resources[2].files[0][1].levels: 1
+resources[2].files[0][1].mimetype: image/jpeg
+resources[2].files[0][1].size: 4685
+resources[2].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c07000/3c07300/3c07389_150px.jpg
+resources[2].files[0][1].width: 150
+resources[2].files[0][2].height: 119
+resources[2].files[0][2].levels: 1
+resources[2].files[0][2].mimetype: image/gif
+resources[2].files[0][2].size: 15772
+resources[2].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c07000/3c07300/3c07389t.gif
+resources[2].files[0][2].width: 150
+resources[2].files[0][3].height: 508
+resources[2].files[0][3].levels: 1
+resources[2].files[0][3].mimetype: image/jpeg
+resources[2].files[0][3].size: 79014
+resources[2].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c07000/3c07300/3c07389r.jpg
+resources[2].files[0][3].width: 640
+resources[2].files[0][4].height: 813
+resources[2].files[0][4].levels: 1
+resources[2].files[0][4].mimetype: image/jpeg
+resources[2].files[0][4].size: 193974
+resources[2].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c07000/3c07300/3c07389v.jpg
+resources[2].files[0][4].width: 1024
+resources[2].image: https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c07000/3c07300/3c07389_150px.jpg
+resources[2].url: https://www.loc.gov/resource/cph.3c07389/
+resources[3].caption: digital file from b&w film copy neg. of half stereo
+resources[3].files[0][0].height: 0
+resources[3].files[0][0].levels: 1
+resources[3].files[0][0].mimetype: image/tiff
+resources[3].files[0][0].size: 1317754
+resources[3].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3a10000/3a11000/3a11200/3a11256u.tif
+resources[3].files[0][0].width: 0
+resources[3].files[0][1].height: 150
+resources[3].files[0][1].levels: 1
+resources[3].files[0][1].mimetype: image/jpeg
+resources[3].files[0][1].size: 4375
+resources[3].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a11000/3a11200/3a11256_150px.jpg
+resources[3].files[0][1].width: 120
+resources[3].files[0][2].height: 150
+resources[3].files[0][2].levels: 1
+resources[3].files[0][2].mimetype: image/gif
+resources[3].files[0][2].size: 18889
+resources[3].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a11000/3a11200/3a11256t.gif
+resources[3].files[0][2].width: 120
+resources[3].files[0][3].height: 640
+resources[3].files[0][3].levels: 1
+resources[3].files[0][3].mimetype: image/jpeg
+resources[3].files[0][3].size: 96033
+resources[3].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a11000/3a11200/3a11256r.jpg
+resources[3].files[0][3].width: 514
+resources[3].files[0][4].height: 1280
+resources[3].files[0][4].levels: 1
+resources[3].files[0][4].mimetype: image/jpeg
+resources[3].files[0][4].size: 164074
+resources[3].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a11000/3a11200/3a11256v.jpg
+resources[3].files[0][4].width: 1028
+resources[3].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a10000/3a11000/3a11200/3a11256_150px.jpg
+resources[3].url: https://www.loc.gov/resource/cph.3a11256/
+cite_this.apa: Underwood & Underwood, C. C. (ca. 1906) Theodore Roosevelt and John Muir on Glacier Point, Yosemite Valley, California, IN. California Yosemite Valley, ca. 1906. [Photo Taken 1903] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/93503130/.
+cite_this.chicago: Underwood & Underwood, Copyright Claimant. Theodore Roosevelt and John Muir on Glacier Point, Yosemite Valley, California, IN. California Yosemite Valley, ca. 1906. [Photo Taken 1903] Photograph. https://www.loc.gov/item/93503130/.
+cite_this.mla: Underwood & Underwood, Copyright Claimant. Theodore Roosevelt and John Muir on Glacier Point, Yosemite Valley, California, IN. [Photo Taken 1903] Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/93503130/>.

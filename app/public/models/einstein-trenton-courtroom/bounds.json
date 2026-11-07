@@ -1,0 +1,81 @@
+{
+  "$comment": "Walkable bounds for free roam in einstein-trenton-courtroom.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 4.88,
+  "walkable": {
+    "x_min": -7.65,
+    "x_max": 7.65,
+    "z_min": 0.35,
+    "z_max": 19.65
+  },
+  "obstacles": [
+    {
+      "name": "dais_and_bench",
+      "x_min": -4.55,
+      "x_max": 3.05,
+      "z_min": -0.15,
+      "z_max": 4.85
+    },
+    {
+      "name": "left_window_drapes",
+      "x_min": -5.85,
+      "x_max": -3.35,
+      "z_min": -0.15,
+      "z_max": 0.45
+    },
+    {
+      "name": "right_window_drapes",
+      "x_min": 3.35,
+      "x_max": 5.85,
+      "z_min": -0.15,
+      "z_max": 0.45
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": 8.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "Facing the bench, where the register photograph was taken"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 0.0,
+      "z": 6.0,
+      "look_at": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "Before the clerk's desk and the judge's bench"
+    },
+    {
+      "name": "hotspot_3",
+      "x": -4.6,
+      "z": 3.0,
+      "look_at": {
+        "x": -4.6,
+        "y": 1.5,
+        "z": -0.0
+      },
+      "note": "By the left window"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 5.5,
+      "z": 14.0,
+      "look_at": {
+        "x": -1.0,
+        "y": 1.5,
+        "z": 1.0
+      },
+      "note": "At the back of the courtroom"
+    }
+  ]
+}

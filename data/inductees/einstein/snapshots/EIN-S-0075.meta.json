@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn83045774/1921-04-26/ed-1/?sp=6&st=text",
+  "fetch_url": "https://www.loc.gov/resource/sn83045774/1921-04-26/ed-1/?sp=6&st=text&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-10T21:43:45Z",
+  "sha256": "0f57ce3f680b64f5dad3eb553bb5879ace6d1c455717b854037c4bb2050a184c",
+  "bytes": 38602,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn83045774/1921-04-26/ed-1/?sp=6&st=text&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744158/1921042601/0846.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744158/1921042601/0846.xml"
+}

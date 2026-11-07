@@ -1,0 +1,55 @@
+{"loc":"profile:summary:0","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"9b3317f55ccab9ac9546c9b53f6369f52417a4c6a1d63e5f982a113c0666545e"}
+{"loc":"profile:summary:1","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"a2fdb513302d9e300b0c9642c12a3e992575310ecbe5dbac2eb2697d15b7356c"}
+{"loc":"profile:summary:2","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"9da3dc9fc8acb379aa2738027081e3fa91b646393e3f44ac684a45a1b3df669c"}
+{"loc":"profile:sections:names:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"f907118ad4315ac673ccd54ac924e80a107cf91a1c2297fcdc6de1a3f4f24250"}
+{"loc":"profile:sections:names:0","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"9a5481e576ebbdff3d0633c8831d3333dea39688e1f2421ad1b18bf73c265635"}
+{"loc":"profile:sections:names:1","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"ef521aa2e052612164a4b4b100cd4fc089a299946c254e5ccd2be089ada52efb"}
+{"loc":"profile:sections:names:2","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"ab93ed65164b347c7b9d57d9a55c2678718fc38dc66d0ac4714cd2268c7ff061"}
+{"loc":"profile:sections:immigration:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"2ddba591d8ce952a2099b85de5368258fa89dfedad107fc713fa5852ee17af42"}
+{"loc":"profile:sections:immigration:0","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"04ee49594662fa6bf6eab2f5b04e1cb5044b66f776ae7c11804bf21827374d80"}
+{"loc":"profile:sections:immigration:1","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"7a0009066bc39003a9fecf63ddb687102a6a4e14c07e064485281214f55bf847"}
+{"loc":"profile:sections:film:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"4b1837f64541f50f5922be11e2f0ee9b250e2a24eeef88b9f34577c4c184c483"}
+{"loc":"profile:sections:film:0","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"cb92de7b23fe8d1c91d53b8ae28123ebe13e28d359c8b1153ac2f9df6f876713"}
+{"loc":"profile:sections:film:1","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"2e1e825b76fdd3c601781b486620af7bc5f41c952977e12aa7023abf9bd3f39a"}
+{"loc":"profile:sections:invention:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"ddbc9b519f3b3efee9377cb1852c50aac24d04c566cf20b01bb6488af10ec289"}
+{"loc":"profile:sections:invention:0","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"34ee1708eacb96d53d9f93ceaf08bd49c0d56aadea8015d8f820f8315cc8d29f"}
+{"loc":"profile:sections:invention:1","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"0950272fdf28e8beae9c9d217d0cfd2d8b92f47fbf602b3e450d31251f65d4b2"}
+{"loc":"profile:sections:invention:2","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"0a849669b03be649cd7aeafcfdb6702255b582cab0698c757664af2d1b555e69"}
+{"loc":"profile:sections:invention:3","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"f611cf4de2fe4e0fd0d50005a897fa043072d58ec2efdcb0984eb37895e1e309"}
+{"loc":"profile:sections:invention:4","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"ea6b991d6289bab417c4d84147ddee189333d10378402b363c9de2d2745b1c1e"}
+{"loc":"profile:sections:war:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"8ee99a235027c2aef420e8378da6bf51e1a09fc24594c58f84cbc3d2e1bab7d2"}
+{"loc":"profile:sections:radio:title","verdict":"supported","adds_information":false,"rationale":"none; 'Command Performance' is a neutral label taken from both cited verified claims.","unit_sha256":"cd67e9a76c46924311e649dbd25000374e10457117a7c6e871bce82782304f93"}
+{"loc":"profile:sections:radio:0","verdict":"supported","adds_information":false,"rationale":"none; the date, program, place and participants match LAM-F-0062, with only the record's 'LaMarr' spelling and all-caps titles normalized.","unit_sha256":"684dc58eaf03559e6d145aa42ea1d9bfe29fe4bde8a0c7b578940cadbb650346"}
+{"loc":"profile:sections:radio:1","verdict":"supported","adds_information":false,"rationale":"none; the sentence restates verified LAM-F-0063 word for word.","unit_sha256":"117e10ed950a57aeb15ee87e45bbc2ba6cdb673cc43624f442d2c1b78ff4521f"}
+{"loc":"profile:sections:honors:0","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"dc1dac904ad554a4deee25d51262690c0ef5f4b5a9b2dfd1f4e13675061864ce"}
+{"loc":"profile:sections:honors:1","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"9da3dc9fc8acb379aa2738027081e3fa91b646393e3f44ac684a45a1b3df669c"}
+{"loc":"profile:sections:death:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"f3f02259ce62d4b193e0c5e31022d56738983822cb0eda4d2a79405d9bdb9cc2"}
+{"loc":"profile:sections:death:0","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"40ef4381158fb1e281b410f4dadac627c1800585c6e7bc4fc1f600562c98d352"}
+{"loc":"profile:timeline:0","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"04ee49594662fa6bf6eab2f5b04e1cb5044b66f776ae7c11804bf21827374d80"}
+{"loc":"profile:timeline:0:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"b1c1d0aa477af89fb685e9ae7433d0fdd4d7d787eb7f383097c6ccc357f1221f"}
+{"loc":"profile:timeline:1","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"34ee1708eacb96d53d9f93ceaf08bd49c0d56aadea8015d8f820f8315cc8d29f"}
+{"loc":"profile:timeline:1:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"920f1ed74f6947ad3597df1eacb3e5705cf8cdbf6d13f251a70f0538ba5b0a70"}
+{"loc":"profile:timeline:2","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"cb92de7b23fe8d1c91d53b8ae28123ebe13e28d359c8b1153ac2f9df6f876713"}
+{"loc":"profile:timeline:2:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"6505221f074889260738e0d43d11e8a42997fab570ec21cc04d8392df2d5728b"}
+{"loc":"profile:timeline:3","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"2e1e825b76fdd3c601781b486620af7bc5f41c952977e12aa7023abf9bd3f39a"}
+{"loc":"profile:timeline:3:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"6f1ecda1dd2fc47013b96b0f780ebffd67437bfb7191f2d506bc8acb49c181de"}
+{"loc":"profile:timeline:4","verdict":"supported","adds_information":false,"rationale":"none; the title is set in title case without the cataloger's '[ETC.]', and 'Heddy Lamar' is normalized to Hedy Lamarr, which the record's subject heading supports. Both are neutral restatements.","unit_sha256":"871d9e8716a1842464fd4989fd638b6d9325d46f3a69c6715e0bde8cdd46302d"}
+{"loc":"profile:timeline:4:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"8ee99a235027c2aef420e8378da6bf51e1a09fc24594c58f84cbc3d2e1bab7d2"}
+{"loc":"profile:timeline:5","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"a2fdb513302d9e300b0c9642c12a3e992575310ecbe5dbac2eb2697d15b7356c"}
+{"loc":"profile:timeline:5:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"994d846cbb3fdf295323c77e5c74d69cb22ef66a91558513195b3e01bd0c48ff"}
+{"loc":"profile:timeline:6","verdict":"supported","adds_information":false,"rationale":"none; 'in 1949' restates the claim's film year '(1949)'.","unit_sha256":"a3d17b5afbc3c05d6fcf6e65cf5e743fddfc16ac6cf9eb7534c2c428c0d1f169"}
+{"loc":"profile:timeline:6:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"321fba7c3d855cab021ef1912d48ea4089d1761b8fd823110ca78eafb28fc53d"}
+{"loc":"profile:timeline:7","verdict":"supported","adds_information":false,"rationale":"none; the date 1954-03-05 is reformatted and 'LaMarr' is normalized to Lamarr, which are neutral restatements.","unit_sha256":"684dc58eaf03559e6d145aa42ea1d9bfe29fe4bde8a0c7b578940cadbb650346"}
+{"loc":"profile:timeline:7:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"1e37a02bd3a0fb2aa1948659e521e13ad339b5d93d64f21d3a4a57339c36aa24"}
+{"loc":"profile:timeline:8","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"dc1dac904ad554a4deee25d51262690c0ef5f4b5a9b2dfd1f4e13675061864ce"}
+{"loc":"profile:timeline:8:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"262a87df73c784df2591bd7d46d5546cc1a72e82e60600af5e0936c4b4fb6d20"}
+{"loc":"profile:timeline:9","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"9da3dc9fc8acb379aa2738027081e3fa91b646393e3f44ac684a45a1b3df669c"}
+{"loc":"profile:timeline:9:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"d11845130c4801949f216d1963b3386d59e8b24afe1d4b2af76ab7a50cd62567"}
+{"loc":"profile:avatar_lines:0","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"9b3317f55ccab9ac9546c9b53f6369f52417a4c6a1d63e5f982a113c0666545e"}
+{"loc":"profile:avatar_lines:1","verdict":"supported","adds_information":false,"rationale":"none; the first-person wording restates verified LAM-F-0020 without adding content","unit_sha256":"146196c40b87a9cd4efc786f4dde5a03353899cf4daffcba8f245d093e8c8dbf"}
+{"loc":"profile:avatar_lines:2","verdict":"supported","adds_information":false,"rationale":"none; the first-person wording restates verified LAM-F-0067 (England, 1937) without adding content","unit_sha256":"f97bbd4bea62eb9f84825a6d296ba72b152a89cc6cc148fb1e8c28292045cd74"}
+{"loc":"profile:avatar_lines:3","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"34ee1708eacb96d53d9f93ceaf08bd49c0d56aadea8015d8f820f8315cc8d29f"}
+{"loc":"profile:avatar_lines:4","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"a2fdb513302d9e300b0c9642c12a3e992575310ecbe5dbac2eb2697d15b7356c"}
+{"loc":"profile:sections:film:2","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"3f7987da062d714daf5ba2602e18799beabea8b59c73f9b8793d5e203aa54d50"}
+{"loc":"profile:sections:war:0","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"41e3d770be6e78da04c166f67dd9ee90110b64b5bfb85f989dfc2656cacc1462"}
+{"loc":"profile:sections:honors:title","verdict":"supported","adds_information":false,"rationale":"none","unit_sha256":"a91752508c35001949d0dc8e6ad53092e66e19472c6fb967b4a9b6efdbbd2db4"}

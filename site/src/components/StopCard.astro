@@ -1,0 +1,23 @@
+---
+// One journey stop as the stop list and the globe's stop card both show it: heading (number,
+// label, date) with its fact chips, each cited line with its chips, and the room link when the
+// stop opens a room. `card` is stopCard(view) from src/content/journey.js; this component adds no
+// content text. `inPanel`: the copy inside the panel template, whose heading takes focus.
+// `prefix` keeps toggletip ids unique between the two copies. In the list the whole title (number and place name) is one control: with the globe running, a
+// pinned stop's title is a button that turns the globe to the stop and opens its card; otherwise a
+// stop with a room has its title as a link to the room; a stop with neither is plain text.
+import FactChips from './FactChips.astro';
+const { card, prefix, inPanel = false } = Astro.props;
+---
+{inPanel
+  ? <h2 id="panel-title" tabindex="-1"><span class="num">{card.number}</span> {card.heading} <FactChips chips={card.chips} prefix={prefix} /></h2>
+  : <h2>
+      {card.coords && <button type="button" class="stop-title" data-show-stop={card.id} hidden><span class="num">{card.number}</span> {card.heading}</button>}
+      {card.room
+        ? <a class="stop-title" href={card.room.href} data-title-static><span class="num">{card.number}</span> {card.heading}</a>
+        : <span data-title-static><span class="num">{card.number}</span> {card.heading}</span>}
+      <FactChips chips={card.chips} prefix={prefix} />
+    </h2>}
+{card.lines.map((l, i) => <p>{l.text} <FactChips chips={l.chips} prefix={`${prefix}-${i}`} /></p>)}
+{card.room && <p><a class="room-link" href={card.room.href}>{card.room.text}</a></p>}
+{card.coords && <p class="coords">Pin position approximate: <a href={card.coords.href}>{card.coords.text}</a></p>}

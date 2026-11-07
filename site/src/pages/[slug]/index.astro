@@ -1,0 +1,260 @@
+---
+// Journey map: /<slug>/. Dated stops from content/<slug>/journey.json (every label, date and line
+// grounded in verified facts by tools/content_check.py; chips re-checked here). In 3D mode a
+// draggable globe (src/museum/globe.js) shows a pin at the published coordinates of each pinned
+// stop's named place, with travel arcs and a stop card on the stage; in Lite mode, without WebGL2,
+// under reduced motion (unless the visitor chose 3D) or without script, the flat SVG map shows
+// instead. Positions are approximate locations, not facts. The ordered list below carries every
+// stop and link for keyboard and screen reader users in both modes.
+import Base from '../../layouts/Base.astro';
+import StopCard from '../../components/StopCard.astro';
+import '../../styles/panel.css';
+import { listInductees, loadInductee, loadJourney, loadChapter, listChapters, factIndex, aerialManifest } from '../../content/load.js';
+import { journeyView, stopCard, globeStops, storyJourney } from '../../content/journey.js';
+import { nextStop } from '../../ui/story.js';
+import { PRODUCTION_ORIGIN } from '../../content/embed.js';
+
+export function getStaticPaths() {
+  return listInductees().filter(slug => loadJourney(slug)).map(slug => ({ params: { slug }, props: { slug } }));
+}
+const { slug } = Astro.props;
+const inductee = loadInductee(slug);
+const idx = factIndex(slug);
+const chapterList = listChapters().filter(c => c.slug === slug);
+const chapters = new Map(chapterList.map(c => [c.n, loadChapter(slug, c.n).title]));
+const { stops, mapped } = journeyView(loadJourney(slug), idx, { slug, chapters });
+// Story mode (src/ui/story.js): "Start the story" enters the first room in journey order; without
+// script it is a plain link to that room.
+const story = storyJourney(loadJourney(slug), { slug, chapters });
+const firstStep = story.rooms.length ? nextStop(story, null) : null;
+
+// Route through the drawn stops: straight segments, except a long hop (an ocean crossing) bends upward.
+const route = mapped.map((s, i) => {
+  if (i === 0) return `M ${s.x} ${s.y}`;
+  const p = mapped[i - 1];
+  const far = Math.abs(s.x - p.x) > 300;
+  return far ? `Q ${(p.x + s.x) / 2} ${Math.min(p.y, s.y) - 170} ${s.x} ${s.y}` : `L ${s.x} ${s.y}`;
+}).join(' ');
+---
+<Base title={`${inductee.name}: journey map`} description={`Journey map for ${inductee.name}: dated stops from verified records.`}>
+  <link slot="head" rel="alternate" type="application/json+oembed" href={`${PRODUCTION_ORIGIN}/oembed/${slug}.json`} title={inductee.name} />
+  <div class="journey">
+    <p class="kicker">Journey map</p>
+    <h1>{inductee.name}</h1>
+    {firstStep && (
+      <p class="story-start-row"><a class="story-start" href={firstStep.href} data-story-start>Start the story</a>
+        <span class="story-start-note">Room to room in time order, with narration. Close it at any time.</span></p>
+    )}
+
+    <figure class="globe" data-globe-figure hidden>
+      <div class="globe-stage" data-stage>
+        <svg class="leaders" aria-hidden="true" focusable="false" data-leaders></svg>
+        <div class="pins" data-pins>
+          {mapped.map(s => (
+            <button type="button" class:list={['pin', { linked: s.href }]} data-pin={s.id} aria-label={`Stop ${s.number}: ${s.heading}`} data-offscreen>{s.number}</button>
+          ))}
+        </div>
+        <div class="tour" role="group" aria-label="Journey tour" data-tour>
+          <button type="button" class="tour-btn" data-tour-play data-state="idle">
+            <svg class="i-play" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M8 5v14l11-7z" fill="currentColor" /></svg>
+            <svg class="i-pause" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M6 5h4v14H6zM14 5h4v14h-4z" fill="currentColor" /></svg>
+            <span data-tour-label>Play journey</span>
+          </button>
+          <button type="button" class="tour-btn" data-tour-stop hidden>
+            <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M6 6h12v12H6z" fill="currentColor" /></svg>
+            <span>Stop</span>
+          </button>
+        </div>
+        <p class="globe-hint" aria-hidden="true">Drag to turn the globe. Scroll or pinch to zoom.</p>
+        <!-- Aerial zoom (src/museum/aerial.js): present-day images of the stop's place, labelled and credited. -->
+        <span class="aerial-mark" data-aerial-mark aria-hidden="true" hidden></span>
+        <div class="aerial-bar">
+          <button type="button" class="tour-btn" data-aerial-skip hidden>Skip</button>
+          <button type="button" class="tour-btn" data-aerial-back hidden>
+            <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.5" /></svg>
+            <span>Back to the globe</span>
+          </button>
+          <div class="aerial-caption" data-aerial-caption hidden>
+            <p class="aerial-label"><strong>Present-day aerial view</strong> <span data-aerial-place></span></p>
+            <p class="aerial-credits" data-aerial-credits></p>
+          </div>
+        </div>
+        <a class="aerial-enter" data-aerial-enter href="#" hidden></a>
+        <!-- Story mode on the globe: what comes next, Skip and Close story (src/ui/story.js). -->
+        <div class="story-bar" role="group" aria-label="Story" data-story-bar hidden>
+          <p class="story-status" data-story-status></p>
+          <button type="button" class="tour-btn" data-story-skip>Skip</button>
+          <button type="button" class="tour-btn" data-story-close>Close story</button>
+        </div>
+        <p class="visually-hidden" aria-live="polite" data-announce></p>
+        <aside id="panel" role="dialog" aria-labelledby="panel-title" tabindex="-1" hidden>
+          <div class="panel-bar">
+            <button type="button" class="btn panel-step" data-panel-prev aria-label="Previous stop">&larr;</button>
+            <button type="button" class="btn panel-step" data-panel-next aria-label="Next stop">&rarr;</button>
+            <button type="button" class="btn panel-close" data-panel-close>Close</button>
+          </div>
+          <div class="panel-body" data-panel-body></div>
+        </aside>
+      </div>
+      <figcaption>
+        Each pin marks the place a stop's record names, at that place's published coordinates; positions are approximate.
+        Lines show the order of the stops, not the route travelled. Stops without a named place are listed below only. Filled pins have a room.
+        Earth imagery: <a href="https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-topography-bathymetry/">NASA Visible Earth / Blue Marble</a>, public domain.
+        <a class="mode-link" href={`/${slug}/?lite=1`} data-voa-mode="lite">Flat map (no 3D)</a>
+      </figcaption>
+    </figure>
+
+    <figure class="map" data-flat-map>
+      <svg viewBox="0 0 1000 600" aria-hidden="true" focusable="false">
+        <rect width="1000" height="600" class="sea" />
+        <!-- Hand-drawn outlines, not to scale. -->
+        <path class="land" d="M0 40 L120 52 L196 86 L262 120 L318 150 L352 182 L330 204 L296 214 L284 238 L262 252 L270 276 L252 300 L246 332 L226 368 L204 404 L214 440 L236 478 L244 520 L224 528 L196 486 L162 452 L118 470 L60 486 L0 492 Z" />
+        <path class="land" d="M1000 70 L940 84 L902 120 L880 160 L858 150 L846 176 L820 168 L800 196 L772 214 L756 232 L728 246 L716 274 L676 290 L694 318 L702 352 L672 392 L640 404 L624 452 L650 500 L700 506 L736 470 L758 432 L790 418 L814 438 L846 470 L878 512 L898 496 L872 452 L852 420 L884 410 L926 452 L960 470 L1000 460 Z" />
+        <path class="land" d="M668 150 L700 140 L716 170 L712 214 L692 240 L664 236 L672 206 L656 182 Z" />
+        <path class="land" d="M630 186 L652 180 L656 206 L636 214 Z" />
+        <path class="land" d="M842 40 L880 20 L928 30 L900 70 L874 120 L852 112 L862 76 Z" />
+        <path class="route" d={route} />
+        {mapped.map(s => {
+          const marker = (
+            <g class:list={['stop', { linked: s.href }]}>
+              <circle cx={s.x} cy={s.y} r="14" />
+              <text x={s.x} y={s.y} dy="0.35em" text-anchor="middle">{s.number}</text>
+            </g>
+          );
+          return s.href ? <a href={s.href} tabindex="-1">{marker}</a> : marker;
+        })}
+      </svg>
+      <figcaption>Map positions are approximate and not to scale. A stop is drawn only where its record names the place; every stop is listed below. Filled stops open a room.
+        <a class="mode-link" href={`/${slug}/`} data-voa-mode="3d" data-to-globe hidden>Show the 3D globe</a></figcaption>
+    </figure>
+
+    <ol class="stops">
+      {stops.map(s => (
+        <li id={`stop-${s.id}`} data-stop={s.id}>
+          <StopCard card={stopCard(s)} prefix={`tip-${s.id}`} />
+        </li>
+      ))}
+    </ol>
+
+    {mapped.map(s => (
+      <template id={`tpl-${s.id}`}>
+        <StopCard card={stopCard(s)} prefix={`card-${s.id}`} inPanel />
+      </template>
+    ))}
+    <script type="application/json" id="globe-data" set:html={JSON.stringify({ slug, stops: globeStops(mapped, { aerialOf: id => aerialManifest(slug, id) }), story: { journey: story } }).replace(/</g, '\\u003c')}></script>
+
+    <nav class="journey-nav" aria-label="More ways in">
+      <a href={`/${slug}/lite/`}>All rooms as one page (no 3D)</a>
+      <a href={`/${slug}/end/`}>Finish: quiz and other inductees</a>
+    </nav>
+  </div>
+</Base>
+
+<script>
+  import { initToggletips } from '../../ui/sources.js';
+  import { startJourney } from '../../ui/journey.js';
+  initToggletips(document.querySelector('.journey') || document.body);
+  startJourney(JSON.parse(document.getElementById('globe-data').textContent));
+</script>
+
+<style is:global>
+  /* Display rules below must never override the hidden attribute. */
+  .journey [hidden] { display: none !important; }
+  .journey { padding: var(--space-4); max-width: 1100px; margin: 0 auto; }
+  /* Globe stage: deep space behind the Earth; pins, leader lines and the tour ride over the canvas. */
+  .journey .globe { margin: 0 0 var(--space-5); }
+  /* overflow: clip, not hidden: a hidden box can still be scrolled (focus or scrollIntoView of a pin
+     at its edge), which shifts the canvas under the pins, caption and card that are placed over it. */
+  .journey .globe-stage { position: relative; height: min(74vh, 680px); min-height: 420px; overflow: clip; border-radius: 8px;
+    background: radial-gradient(ellipse at 50% 45%, #1d2b45 0%, #0c1322 55%, #05070d 100%); }
+  @media (max-width: 599px) { .journey .globe-stage { height: min(64vh, 540px); min-height: 380px; } }
+  .journey #globe { display: block; width: 100%; height: 100%; touch-action: none; cursor: grab; }
+  .journey #globe:active { cursor: grabbing; }
+  .journey .pins { position: absolute; inset: 0; pointer-events: none; z-index: 1; }
+  .journey .pin { position: absolute; left: 0; top: 0; transform: translate(var(--x, -100px), var(--y, -100px)) translate(-50%, -50%);
+    pointer-events: auto; width: 32px; height: 32px; padding: 0; border-radius: 50%; font: inherit; font-weight: 700; font-size: 0.95rem;
+    color: var(--c-accent); background: #fffdf9; border: 2px solid var(--c-accent); box-shadow: 0 0 0 2px #fffdf9aa, 0 2px 10px #000a; cursor: pointer; }
+  .journey .pin.linked { color: #fff; background: var(--c-accent); border-color: #fffdf9; }
+  .journey .pin[data-offscreen] { visibility: hidden; }
+  .journey .pin.is-active { box-shadow: 0 0 0 3px #ffd166, 0 0 18px 6px #ffd166aa; }
+  .journey .pin:focus-visible { outline: 3px solid #fff; outline-offset: 2px; box-shadow: 0 0 0 7px var(--c-focus); }
+  .journey .leaders { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 1; }
+  .journey .leaders line { stroke: #fffdf9; stroke-width: 1.5; stroke-opacity: 0.85; }
+  .journey .tour { position: absolute; top: var(--space-3); left: var(--space-3); z-index: 2; display: flex; flex-wrap: wrap; gap: var(--space-2); }
+  .journey .tour-btn { display: inline-flex; align-items: center; gap: var(--space-2); min-height: 44px; padding: var(--space-2) var(--space-4);
+    font: inherit; font-weight: 700; color: #fff; background: #0b1220d9; border: 1px solid #ffffff59; border-radius: 22px; cursor: pointer;
+    box-shadow: 0 2px 10px #0008; }
+  .journey .tour-btn:hover { background: #16223a; }
+  .journey .tour-btn:focus-visible { outline: 3px solid #fff; outline-offset: 0; box-shadow: 0 0 0 6px var(--c-focus); }
+  .journey .tour-btn[data-state="playing"] .i-play, .journey .tour-btn:not([data-state="playing"]) .i-pause { display: none; }
+  .journey .globe-hint { position: absolute; left: var(--space-3); bottom: var(--space-2); z-index: 1; margin: 0; font-size: 0.85rem;
+    color: #e8edf5; text-shadow: 0 1px 3px #000; pointer-events: none; }
+  .journey .globe-stage[data-panel-open] .globe-hint { display: none; }
+  /* Aerial zoom: pins, leader lines, the tour and the hint give way to the zoom's own controls. */
+  .journey .globe-stage:is([data-aerial="loading"], [data-aerial="zooming"], [data-aerial="arrived"], [data-aerial="leaving"]) :is(.pins, .leaders, .globe-hint) { visibility: hidden; }
+  .journey .globe-stage:not([data-aerial="idle"]) .tour { display: none; }
+  .journey .aerial-bar { position: absolute; top: var(--space-3); left: var(--space-3); right: var(--space-3); z-index: 2; display: flex;
+    flex-wrap: wrap; align-items: flex-start; gap: var(--space-2); pointer-events: none; }
+  .journey .aerial-bar > * { pointer-events: auto; }
+  @media (min-width: 900px) { .journey .globe-stage[data-panel-open] .aerial-bar { right: calc(min(420px, 42%) + var(--space-3)); } }
+  .journey .aerial-caption { max-width: 34rem; padding: var(--space-2) var(--space-3); border-radius: 8px; background: #0b1220d9;
+    color: #e8edf5; font-size: 0.85rem; line-height: 1.35; box-shadow: 0 2px 10px #0008; }
+  .journey .aerial-caption p { margin: 0; }
+  @media (max-width: 599px) { .journey .aerial-caption { font-size: 0.75rem; padding: var(--space-1) var(--space-2); } }
+  .journey .aerial-label strong { color: #fff; }
+  .journey .aerial-caption a { color: #ffd98a; }
+  .journey .aerial-enter { position: absolute; left: 50%; bottom: var(--space-4); transform: translateX(-50%); z-index: 2; display: inline-flex;
+    align-items: center; min-height: 48px; max-width: calc(100% - 2 * var(--space-4)); box-sizing: border-box; padding: var(--space-2) var(--space-5);
+    border-radius: 24px; background: var(--c-accent); color: #fff !important; font-weight: 700; text-align: center; text-decoration: none;
+    border: 2px solid #fffdf9; box-shadow: 0 2px 14px #000a; }
+  .journey .aerial-enter:hover { background: #5c2116; }
+  .journey .aerial-enter:focus-visible { outline: 3px solid #fff; outline-offset: 2px; box-shadow: 0 0 0 7px var(--c-focus); }
+  /* Story mode: the story bar (bottom left) replaces the zoom's own Skip; "Start the story" by the title. */
+  .journey .story-bar { position: absolute; left: var(--space-3); bottom: var(--space-3); z-index: 3; display: flex; flex-wrap: wrap;
+    align-items: center; gap: var(--space-2); max-width: calc(100% - 2 * var(--space-3)); }
+  .journey .story-status { margin: 0; padding: var(--space-2) var(--space-3); border-radius: 8px; background: #0b1220d9; color: #fff;
+    font-weight: 700; box-shadow: 0 2px 10px #0008; }
+  .journey .globe-stage[data-story] [data-aerial-skip] { display: none; }
+  .journey .globe-stage[data-story] .globe-hint { visibility: hidden; }
+  /* The story bar sits where the room link would: the link moves up above it while the story holds. */
+  .journey .globe-stage[data-story] .aerial-enter { bottom: calc(var(--space-4) + 56px); }
+  @media (max-width: 599px) { .journey .globe-stage[data-story] .aerial-enter { bottom: calc(var(--space-4) + 112px); } }
+  .journey .story-start-row { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-2) var(--space-4); margin: 0 0 var(--space-4); }
+  .journey .story-start { display: inline-flex; align-items: center; min-height: 44px; padding: var(--space-2) var(--space-5); border-radius: 22px;
+    background: var(--c-accent); color: #fff !important; font-weight: 700; text-decoration: none; }
+  .journey .story-start:hover { background: #5c2116; }
+  .journey .story-start:focus-visible { outline: 3px solid var(--c-focus); outline-offset: 2px; }
+  .journey .story-start-note { color: var(--c-muted); font-size: 0.9rem; }
+  .journey .aerial-mark { position: absolute; left: 0; top: 0; z-index: 1; width: 34px; height: 34px; border-radius: 50%; pointer-events: none;
+    transform: translate(var(--x, -100px), var(--y, -100px)) translate(-50%, -50%); border: 3px solid #ffd166;
+    box-shadow: 0 0 0 2px #0009, inset 0 0 0 2px #0009; }
+  .journey .globe figcaption, .journey .map figcaption { margin-top: var(--space-2); font-size: 0.875rem; color: var(--c-muted); }
+  .journey .mode-link { display: inline-block; min-height: 24px; padding: var(--space-1) 0; margin-left: var(--space-2); font-weight: bold; }
+  /* The whole stop title (number + place name) is one control: a button on the globe, a room link otherwise. */
+  .journey .stop-title { display: inline-block; min-height: 24px; padding: 0; margin: 0; border: 0; background: none; font: inherit;
+    font-weight: inherit; color: var(--c-accent); text-align: left; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+  .journey .stop-title:hover { color: #5c2116; text-decoration-thickness: 2px; }
+  .journey .coords { font-size: 0.85rem; color: var(--c-muted); }
+  #panel .chips { margin-left: var(--space-1); }
+  .journey .kicker { margin: 0; color: var(--c-muted); }
+  .journey h1 { font-family: var(--f-serif); margin: var(--space-2) 0 var(--space-4); }
+  .journey .map { margin: 0 0 var(--space-5); }
+  .journey .map svg { display: block; width: 100%; height: auto; border-radius: 6px; }
+  .journey .sea { fill: #e3e7e6; }
+  .journey .land { fill: #ddd3c2; stroke: #8a7f70; stroke-width: 2; stroke-linejoin: round; }
+  .journey .route { fill: none; stroke: var(--c-accent); stroke-width: 3; stroke-dasharray: 8 7; }
+  .journey .stop circle { fill: #fffdf9; stroke: var(--c-accent); stroke-width: 3; }
+  .journey .stop text { font: bold 15px var(--f-sans); fill: var(--c-accent); }
+  .journey .stop.linked circle { fill: var(--c-accent); }
+  .journey .stop.linked text { fill: #fff; }
+  .journey a .stop { cursor: pointer; }
+  .journey .stops { list-style: none; padding: 0; display: grid; gap: var(--space-4); }
+  .journey .stops li { background: #fffdf9; border-left: 4px solid var(--c-accent); padding: var(--space-3) var(--space-4); }
+  .journey .stops h2 { font-size: 1.1rem; margin: 0 0 var(--space-2); }
+  .journey .stops p { margin: var(--space-2) 0; }
+  .journey .num { display: inline-flex; align-items: center; justify-content: center; min-width: 28px; height: 28px; margin-right: var(--space-1);
+    border-radius: 50%; background: var(--c-accent); color: #fff; font-size: 0.9rem; }
+  .journey a { color: var(--c-accent); }
+  .journey .room-link, .journey-nav a { display: inline-block; min-height: 24px; padding: var(--space-2) 0; font-weight: bold; }
+  .journey-nav { display: flex; flex-wrap: wrap; gap: var(--space-5); margin: var(--space-5) 0; }
+</style>

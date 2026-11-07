@@ -1,0 +1,729 @@
+_version_: 1774999234671542272
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn82015313/1931-01-01/ed-1/
+aka[1]: http://www.loc.gov/resource/sn82015313/1931-01-01/ed-1/
+batch[0]: in_huxley_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/indiana/
+composite_location[2]: 2/united states/indiana/marion/
+composite_location[3]: 3/united states/indiana/marion/indianapolis/
+contributor_names[0]: Indiana State Library
+contributors[0].indiana state library: https://www.loc.gov/search/?fa=contributor:indiana+state+library&fo=json&st=text
+created_published[0]: Indianapolis [Ind.], January 1, 1931
+date: 1931-01-01
+date_issued: 1931-01-01
+dates[0].1931-01-01: https://www.loc.gov/search/?dates=1931-01-01/1931-01-01&fo=json&st=text
+dates_of_publication: 1922-1965
+description[0]: Indianapolis [Ind.]
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-08-22T13:12:59.153Z
+extract_urls[0]: file:/service/ndnp//in/batch_in_huxley_ver01/data/sn82015313/0038334931A/1931010101/1931010101_1.xml#ndnp/in
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/in
+group[1]: indiana-state-library-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn82015313/1931-01-01/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_huxley_ver01:data:sn82015313:0038334931A:1931010101:0001/full/pct:3.125/0/default.jpg#h=284&w=205
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_huxley_ver01:data:sn82015313:0038334931A:1931010101:0001/full/pct:6.25/0/default.jpg#h=569&w=410
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_huxley_ver01:data:sn82015313:0038334931A:1931010101:0001/full/pct:12.5/0/default.jpg#h=1138&w=821
+index: 12
+item.batch[0]: in_huxley_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Indiana State Library
+item.created_published[0]: Indianapolis [Ind.], January 1, 1931
+item.date: 1922
+item.date_issued: 1931-01-01
+item.dates[0]: 1931-01-01
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn82015313
+item.location[0]: Indianapolis (Ind.)
+item.location[1]: Marion County (Ind.)
+item.location[2]: Indiana--Indianapolis
+item.location[3]: Indiana--Marion County
+item.medium: 12 pages
+item.newspaper_title[0]: The Indianapolis times
+item.notes[0]: Daily
+item.notes[1]: Vol. 35, no. 39 (June 26, 1922)-78th year, no. 214 (Oct. 11, 1965).
+item.notes[2]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//in/batch_in_huxley_ver01/data/sn82015313/0038334931A/1931010101/1931010101_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn82015313/marcxml
+item.place_of_publication: Indianapolis [Ind.]
+item.raw_lccn: sn 82015313
+item.reel_numbers[0]: 0038334931a
+item.source_group: ndnp/in
+item.subjects[0]: Indianapolis (Ind.)--Newspapers
+item.subjects[1]: Marion County (Ind.)--Newspapers
+item.subjects[2]: Indiana--Indianapolis
+item.subjects[3]: Indiana--Marion County
+item.subjects[4]: United States--Indiana--Marion--Indianapolis
+item.title: The Indianapolis times (Indianapolis [Ind.]), January 1, 1931, (Home Edition)
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn82015313
+location[0]: indiana
+location[1]: marion
+location[2]: united states
+location[3]: indianapolis
+location[4]: marion county
+location_city[0]: indianapolis
+location_country[0]: united states
+location_county[0]: marion
+location_state[0]: indiana
+locations[0].indiana: https://www.loc.gov/search/?fa=location:indiana&fo=json&st=text
+locations[1].indianapolis: https://www.loc.gov/search/?fa=location:indianapolis&fo=json&st=text
+locations[2].marion: https://www.loc.gov/search/?fa=location:marion&fo=json&st=text
+locations[3].marion county: https://www.loc.gov/search/?fa=location:marion+county&fo=json&st=text
+locations[4].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].indianapolis: https://www.loc.gov/search/?fa=location_city:indianapolis&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].marion: https://www.loc.gov/search/?fa=location_county:marion&fo=json&st=text
+locations_state[0].indiana: https://www.loc.gov/search/?fa=location_state:indiana&fo=json&st=text
+medium: 12 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: The Indianapolis times
+notes[0]: Daily
+notes[1]: Vol. 35, no. 39 (June 26, 1922)-78th year, no. 214 (Oct. 11, 1965).
+notes[2]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+number[0]: 1
+number[1]: 0038334931a
+number[2]: sn82015313
+number_edition[0]: 1
+number_lccn[0]: sn82015313
+number_reel[0]: 0038334931a
+numeric_shelf_id: 193101011
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//in/batch_in_huxley_ver01/data/sn82015313/0038334931A/1931010101/1931010101_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn82015313/marcxml
+partof[0].count: 4532
+partof[0].title: the indianapolis times (indianapolis [ind.]) 1922-1965
+partof[0].url: https://www.loc.gov/search/?fa=partof:the+indianapolis+times+%28indianapolis+%5Bind.%5D%29+1922-1965&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: the indianapolis times (indianapolis [ind.]) 1922-1965
+place_of_publication: Indianapolis [Ind.]
+publication_frequency[0]: daily
+raw_lccn: sn 82015313
+reel_numbers[0]: 0038334931a
+resources[0].files: 12
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_huxley_ver01:data:sn82015313:0038334931A:1931010101:0001/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn82015313/1931-01-01/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.3352585
+shard: 07
+shelf_id: sn82015313, 1931-01-01, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/in
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: indiana
+subject[1]: newspapers
+subject[2]: marion
+subject[3]: united states
+subject[4]: indianapolis
+subject[5]: marion county
+subject[6]: indianapolis (ind.)
+subject[7]: marion county (ind.)
+subject_headings[0]: Indianapolis (Ind.)--Newspapers
+subject_headings[1]: Marion County (Ind.)--Newspapers
+subject_headings[2]: Indiana--Indianapolis
+subject_headings[3]: Indiana--Marion County
+subject_headings[4]: United States--Indiana--Marion--Indianapolis
+subjects[0].indiana: https://www.loc.gov/search/?fa=subject:indiana&fo=json&st=text
+subjects[1].indianapolis: https://www.loc.gov/search/?fa=subject:indianapolis&fo=json&st=text
+subjects[2].indianapolis (ind.): https://www.loc.gov/search/?fa=subject:indianapolis+%28ind.%29&fo=json&st=text
+subjects[3].marion: https://www.loc.gov/search/?fa=subject:marion&fo=json&st=text
+subjects[4].marion county: https://www.loc.gov/search/?fa=subject:marion+county&fo=json&st=text
+subjects[5].marion county (ind.): https://www.loc.gov/search/?fa=subject:marion+county+%28ind.%29&fo=json&st=text
+subjects[6].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[7].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2023-08-23T06:12:39.267Z
+title: The Indianapolis times (Indianapolis [Ind.]), January 1, 1931, (Home Edition)
+type[0]: issue
+url: https://www.loc.gov/item/sn82015313/1931-01-01/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/in/batch_in_huxley_ver01/data/sn82015313/0038334931A/1931010101/0012.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn82015313/1931-01-01/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_huxley_ver01:data:sn82015313:0038334931A:1931010101:0001/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/in/batch_in_huxley_ver01/data/sn82015313/0038334931A/1931010101/0012.pdf
+resources[0].segment_count: 12
+resources[0].url: https://www.loc.gov/resource/sn82015313/1931-01-01/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1931, January 1) The Indianapolis times. Retrieved from the Library of Congress, https://www.loc.gov/item/sn82015313/1931-01-01/ed-1/.
+cite_this.chicago: The Indianapolis times. (Indianapolis, IN), Jan. 1 1931. https://www.loc.gov/item/sn82015313/1931-01-01/ed-1/.
+cite_this.mla: The Indianapolis times. (Indianapolis, IN) 1 Jan. 1931, p. 12. Retrieved from the Library of Congress, www.loc.gov/item/sn82015313/1931-01-01/ed-1/.
+
+segment_id: /service/ndnp/in/batch_in_huxley_ver01/data/sn82015313/0038334931A/1931010101/0012.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/in/batch_in_huxley_ver01/data/sn82015313/0038334931A/1931010101/0012.xml&format=alto_xml&full_text=1
+full_text:
+PAGE 12
+EINSTEIN MOVED
+BY WARMTH OF
+0. WELCOME
+Famous Professor’s Eyes
+Are Misty as He Greets
+Waiting Crowds.
+BY DUAYE HENNESSY
+tatted Pre* Staff Correspondent
+SAN DIEGO. Cal.. Jan. I.—The
+eyes of Professor Albert Einstein
+were misty as the meek mannered
+little man whose theories have in
+trigued the world stood on an open
+Ur stage Wednesday and praised
+the present age for giving recogni
+tion to the men who think.
+There were few in the crowd of
+8.000 who understood his soft spoken
+German, but the human appeal of
+the man carried his sentiments to
+hem and won their hearts. His
+words were not interpreted.
+“I am a simple man,” Dr. Einstein
+began. He paused and shifted nerv
+ously from one foot to the other
+‘Such a wecome as you give to a
+man who has only originated a
+thought to my mind illustrates one
+*hing, that is, that never before in
+history has the world so honored a
+man
+Have Busy Day
+It was a busy day for Dr and
+Frau Einstein. Just at dawn news
+paper reporters boarded the Bel
+genland, on which the Einsteins
+came here from Germany, enroute
+to the California Institute of Tech
+nology at Pasadena, Calif
+There Dr.j Einstein will confer
+with scientists working out the
+theories he originated. He himself
+cares only for the mathematical
+ride of the work.
+The Herr Professor was still in
+bed when, the newspapermen ar
+rived, but he obligingly hurried to
+makean appearance in the ship’s
+loungs.
+The battle between reporters and
+cameramen started immediately.
+rn he professor sat in an arm chair
+while his. wife, ever smiling and
+making friends, got the interview
+started, sorting a question from the
+many asked in quick succession,
+"Do you think man ever can
+reach another planet?”
+"Explain relativity in a few
+words.”
+‘ls Europe approaching war?”
+In a*side remark to his wife in
+German, Dr. Einstein smiled and
+raid:
+It would take a whole library to
+answer these fellows.”
+But here are some of his views:
+Not a Politician
+Is Europe approaching war?”
+Einstein was asked The pacifist
+replied: “This is a time for action,
+not for waiting.”
+"How are you feeling?”
+"Fine, until now,” he grinned.
+"Have you any new announce
+ments to make?”
+"I am not a politician I can not
+say something new every day.”
+"Are you going to engage in any
+new work?” was another question.
+"Do you mean work already born
+or yet to be born?” he countered.
+"Will man be able to travel to an
+other planet?”
+“I do not know who is on the
+other planet.”
+Before speaking. Dr. Einstein was
+greeted by Mayor Harry C. Clark
+and two local rabbis, one of whom
+spoke in German. The Associated
+Jewish Societies of San Diego pre
+sented the professor with a gold
+medal
+Safely and Regularly
+How by depositing part of your salary in a Savings Account
+each pay day... money in. a Savings Account is always worth
+par, is always "readv cash,” is earning interest for you,
+IVhy because no matter how much—or how little—-thoney
+you have, a Savings Account always should be the "backbone”
+of your financial plan keep a Savings Account as an emer
+gency reserve fund.
+IVhere at a Fletcher Trust Bank Fletcher Trust offices
+are all over town, easy to get to they pay 4% interest, h
+compounded semi-annually, on balances of $5 or more jyA
+interest starts monthly and, important to you,
+every Fletcher Trust Bank is controlled through stock jjk
+ownership by Fletcher Savings and Trust Company,
+a member of the Federal Reserve System and also a
+member of the Indianapolis Clearing House Association SrasSna *v
+its capital and surplus is $3,000,000,
+4fletriter fmst SBanlts
+DOWNTOWN OFFICE i j r&
+Northwest Comer Pennsylvania and Market Streets I I B?*. £s i* $1
+ft ffe- W' V' i** Si 5s i
+NORTH SIDE OFFICES jjj T jjjl
+I. I Aft
+SOUTH SIDE OFFICE P lif £jl Issi
+1233 Olrw Avenue 1123 South Meridian Street jMxbt3Bjj
+FLBTCHBR SAVINGS QQMPANY IS A MWMWCT
+BLIZZARD ADDS DIN
+TO CHICAGO FROLIC
+Hilarious Welcome as Ever
+Extended by City Given
+to New Year.
+By United Frets
+CHICAGO, Jan. I.—A shrieking
+ing wind that carried in a blizzard
+from the western prairies swirled
+between Chicago's skyscrapers to
+day, adding to the din, and the dis
+comfort, of thousands who gave
+1931 as hilarious a welcome as the
+city ever extended to anew year.
+Old 1930, the year of depression,
+was forgotten entirely by the opti
+mistic citizens who thronged the
+loop in bu ness and formal dress;
+by the thousands who paid from $5
+to S3O a plate for midnight dinners
+in fashionable hotels; by the hun
+dreds who knelt in prayer in the
+city’s churches; by everyone, per
+haps, except the jobless, who
+warmed themselves with newspapers
+on the lower street levels or begged
+dimes from the merrymakers.
+At midnight a deafening din was
+raised throughout the city. State
+street was packed with shouting
+humanity. Some of the merrymak
+ers staggered. Little attention was
+paid to the fact that it was 10 above
+zero and getting colder. Some, in
+fact, did not appear even to realize
+that it was cold at all.
+Few Dry Arrests
+Prohibition agents were stationed
+in all hotel dining rooms and made
+unannounced visits to the better
+known night clubs, but in few in
+stances did they interfere with the
+celebration.
+When they did interfere, it was
+to give warnings and few arrests,
+none important, were made.
+In the hotels, guests were warned
+to keep bottles out of sight and
+managers reported they had no
+difficulties either with officers or
+customers. One hotel refused to
+serve “setups,” but delivered ice
+cold ginger ale to the table of any
+guest who asked for it.
+While the din was at its height,
+with people shouting, auto sirens
+blowing, and steamboats in the
+Chicago river adding to the noise,
+a comparatively small group of 300
+persons knelt in prayer in the First
+Methodist church, which is located
+on the main floor of a skyscraper m
+the heart of the loop.
+“Need we care for the frantic
+mirth going on outside tonight,”
+said the Rev. John Thompson to
+his congregation. "We, gathered
+here in the peaceful atmosphere of
+this house oi prayer can pity those
+frenzied worldlings who in their
+lolly, doubtless pity us.”
+Drowns Depression in Gin
+Although the depression of the
+passing year was forgotten in most
+places, it was recalled, humorously,
+at the Turkish village, a famous
+Clark street restaurant where two
+years ago a double murder was
+committed.
+As the clock struck 12, one reveler
+there produced a rag doll labeled
+Old Man Depression, and, with
+much solemnity, drowned it in a tub
+of gin.
+Traffic, throughout the city, was
+heavy. Many accidents were re
+ported. most of them minor. Shortly
+before midnight an automobile
+plowed into a group of pedestrians
+waiting for a street car. Two men
+were killed, two others injured.
+The two deaths brought the total
+automobile fatalities in Cook county
+in 1930 to 1,335, a record of 114 more
+than in 1929.
+A policeman saved the driver of
+the death car from mob violence. A
+woman and a 12-year-old boy were
+run down and killed by motorists
+1 earlier in the evening.
+CLASH ON AUTO TAGS
+Kentucky and Indiana Feud
+Flares Again.
+Upon request of Secretary of
+i State Frank Mayr Jr. and James
+Carpenter, chief of the automobile
+license plate division of Mayr’s of
+fice, Governor Harry G. Leslie has
+taken a hand in trying to settle
+the Indiana-Kentucky license plate
+feud, which has flared anew.
+Wednesday, following a confer
+ence in his office with Mayr and
+Carpenter, Governor Leslie tele
+phoned Governor Flem D. Sampson
+of Kentucky regarding the matter.
+Governor Sampson promised to
+I take up the question with Walter
+Glenn, Kentucky tax commisioner,
+and see if reciprocal relations can
+not be re-established.
+Terre Haute truckmen have com
+plained to Carpenter that they are
+being harassed and threatened by
+officers on Kentucky highways, who
+declare they must purchase Ken
+j tucky truck plates to travel there.
+FRANK E. TURNBULL
+IS TAKEN BY DEATH
+Funeral Service* for Old Resident to
+Be Held Friday,
+Funeral services for Frank E.
+Turnbull, 70, of 1340 Burdsal Park
+way, who died at his home Wednes
+day of heart disease, will be held
+Friday at the undertaking establish
+ment of Hisey Titus at 2 p. m.
+i Burial will be in Memorial Park
+cemetary.
+Mr. Turnbull was superintendent
+of the paving department of the In
+dianapolis Street Railway Company
+and had worked for the company
+about thirty years. He was born in
+Mattocn, HI., July 10, 1360.
+Survivors are the widow, a daughter,
+j Mrs. H. M. O’Brien and a grand
+son, Joseph O’Brien, all of Indian-
+I apolis,
+NICHOLAS BURIAL IS
+SET FOR SATURDAY
+J*-
+Woman and Two Children Will Be
+Laid to Rest.
+Funeral services for Mrs. Royal
+A. Nicholas, 2035 Central avenue,
+and her two children, Hichard Al
+len and Virginia, whom she killed
+Monday, then committing suicide,
+will be held at 2 p. m. Saturday at
+the Westminster Presbyterian
+church. Burial will be in Memorial
+Park cemetery.
+In the Air
+Weather conditions at 9 a, m. at
+Mars Hill airport Ceiling unlim
+ited; visibility, ten miles; west
+I wind, four miles an hour; tempera
+ture, 12 degrees.
+Choking May Be Fatal
+i By United Press.
+ROCHESTER, Ind., Jan. I—A
+grain of corn, lodged in the wind
+pipe, is expected to cause the death
+of 14-months-old William Bans ot
+near Rochester. An incision was
+made to remove the grain.
+THE INDIANAPOLIS TIMES
+FRANCE, ITALY
+NAVAL BUILDING
+RACEFORESEEN
+Expiration of Truce on Arms
+May Result In Warlike
+Activities.
+BY RALPH HE IN ZEN.
+CnitH Pres* Staff Correspondent
+PARIS. Jan 1. Expiration
+Wednesday of the brief Franco-
+Italian naval construction trace was
+regarded as the beginning of an
+armaments race between these two
+powers, long at loggerheads over
+sea power.
+The ministry of marine an
+nounced the truce now is definitely
+considered expired, and that France
+had regained complete liberty of
+•action,
+The government intends laying
+keels of warships early in the new
+year, in accordance with credits al
+ready voted.
+Truce Has Expired
+This will mean that some 40,000
+tons of warships will be started al
+most forthwith.
+As soon as parliament recon
+venes, the ministry will present a
+project to proceed with further por
+tion of France’s building program,
+including the much discussed
+“pocket” battleship to be built in
+answer to Germany’s electrically
+welded cruiser.
+The Franco-Italian naval truce
+dating from September automatic
+ally expired Wednesday unless the
+government made representatives to
+have it prolonged. Neither did.
+New Warships Planned
+Advices from a neutral source
+indicated that Italy desired to con
+tinue the building holiday, but the
+Italian government failed to make
+overtures, and allowed the truce to
+lapse.
+Meanwhile, the ministry of ma
+rine here declared that France
+could not delay construction further
+without a vote of parliament, since
+the law granting the naval credits
+called for construction to start
+within a year. j
+AMUSEMENTS
+ENGLISH-"™?
+Tonight and All Week
+MATINEE SATURDAY
+Matinees—soc to $1.50
+Nights— soc to $2.50
+PEMBERTON ppejentj
+/iRSCTLY
+Dl/nONORABIj
+COMEDY HIT PRESTON JTUR6ES\
+TMED &Y ANTOINETTE DERW^M&.PEMBERTOH
+Yes—Ton Get Yonr Money’s Worth
+3 DAYS BEG. Z 5
+Popular Matinee Wednesday
+"COLONEL SATAN"
+(A Night in the Life ot Aaron Barr)
+A NEW PLAY BY
+BOOTH TARKINGTON
+Eve., 50c to $2.50; Wed.
+Mat., 50c to $1.50
+BUY SEATS NOW
+French Premier
+r3§§&
+Theodore Steeg (above) has
+been a French senator, but at
+the request of the president he
+tried his hand at cabinet making.
+For, after the French cabinet
+under Andrew Tardieu had fallen
+with the resignation of the pre
+mier, Steeg assumed the post.
+SUCH AS W
+IHS>IANAPOI!S V
+HAS J
+NEVER j
+INDIANA THEATPvE JAN U A lOft.
+MOTION PICTURES
+CIRCLEiSKI
+■J- |f§F
+I I 1
+The flying hero of
+U “Dawn Patrol’’ in
+|H the greatest pic-
+I ture of his hit
+packed career!
+First National-VitapFone Romantic Triumph vritb
+MARIAN NIXON MARY ASTOR 1
+FREO KOHLER
+Thrill to Barthelmess in a brand new
+kind of role! He is El Puma, the
+Bandit! Feared by men adored by
+women He held a vow of vengeance
+above his vow of love! if
+DALE“YOUNG SLIM SUMMERVILLE I
+Organ Production Comedy, “Hello Russia”
+r gi Holiday Prices _ Children ISA ci
+MOTION PICTURES
+|PS TODAY!
+D'vfS'/S Rex Beach’s Epic
+Drama of Mighty
+Adventure and
+Raw Romance in
+Alaska Wlth
+EVELYN
+g-Kfli BRENT
+Louis Wolheim
+Jean Arthur
+Joel McCrea
+;3Sj Blanche Sweet
+ftf,- 1 M and a big cast!
+Holiday Prices!
+Doors Open 9:43 A. M.
+OHIO
+CALL Rl. 3591
+Excelsior
+Laundry
+and End Your
+WASH-DAY
+Troubles
+TRY A AD THE TIMES
+BIDS ON BRIDGE!
+TO BE OPENED
+Illinois Board to Be Here
+for Decision.
+Members of the Illinois highway
+commission will be on hand at the
+Indiana state highway commission
+offices Jan. 20 to open bids for the
+interstate bridge over the Wabash
+river at Vincennes on United States
+road 50.
+The structure is to be financed
+jointly by Indiana and Illinois.
+According to specifications pre
+pared by the Indiana commission
+the Vincennes bridge will be in the
+nature of a memorial to George
+Rogers Clark and Abraham Lin
+coln. It will be 1,000 feet long with
+seven spans of reinforced concrete
+construction. Estimated cost is
+$500,000.
+The roadway will be twenty-two
+feet wide with a five-foot sidewalk.
+Contract calls for completion by fall.
+Illinois officials to attend the Vin
+cennes bridge opening here are H.
+H. Cleveland, department director;
+Frank T. Sheets, chief engineer, and
+i George F. Burch, bridge engineer.
+S liana
+omorrow!
+
+itterton the lovely!
+itterton the great: j B 9
+v see her in an i:
+azing triple char- rj
+erization H
+mother who stakes §W
+happiness on JIM
+i loses! „’3B
+laughter who gambles ljro|
+love—and wins!
+r I
+ti IMB
+v fi
+rich;
+TO IOVf Vfj
+david Banners AliJjlllfe Mm i
+What happens when a woman ~s,;
+as this wonder woman of the
+screen unfolds a terriffic Whhz:'^
+drama of love that spans two
+NOTICE—This is the first picture fL. W"\
+ever filmed by the marvelous new r; v
+HOLIDAY PRICES—CHILDREN 15c %2Mk
+AMUSEMENTS
+IfllNJ YF’l NssPSlf
+j W That the, Year 1831 will
+bring yon untold Happine**
+HE? A JL yi *nd Prosperity is our
+jf sincere wish to all.
+i- i&jn a —The Lyric Management.
+.Iff fiL Every One Will Enjoy This
+y Gladsome Holiday Show
+Last Times —TODAY and TOMORROW
+Edmund j TOM BROWN
+L W Ea and Original Six
+and LEILA HYAMS BROWN BROTHERS
+V in (IN PERSON)
+I “PART-TIME reo
+WIFE” VAUDEVILLE
+WirEl J Holiday Prices—Kiddie* 15c
+SATURDAY—HaiI! Hail! The Glad All Here!
+The World s Greatest—Funniest “Nut” Comedians
+OLSEN and JOHNSON
+15 Merry-Mad Maniacs (IN PERSON)
+in 45 minutes of rip-roaring;—riotous— rough-house fun
+OUier Acts RKO I "UNDER SUSPICION”
+VAUDEVILLE J All-Talking Thrill Drama with
+L——— LOUIS MORAN and Star Cast
+Bayard VetUer’s
+“WITHIN THE LAW"
+start* SATURDAY
+Lrawfora i
+‘"Pap d* wfSHI
+fit ROBEBT ARMSTRONG M
+MARIE PREVOST 1
+i~~ last' days' s Z'* frtw
+\“ONE HEAVENLY/
+A NIGHT"
+LATE
+We Wish Each and Every One of You
+a Happy and Prosperous New Year!
+LAST TWO Start the New Year Bight—* JSSjP
+DAYS <3et the Laugh Habit See
+Brow a,M Hemterioi’*
+Mighty Successor to
+"SUNNY SIDE UP"
+mm “JUST IMAGINE” w
+Bl” EL BREN DEL
+WHAT IS LOVE?
+Those who have felt the thrill of a first ORTiinnAV
+kiss and seen hopes vanish will under- (3 rl i Uflo *4 T
+stand!
+RrajEiLL h
+~\VEREMADE FOR
+
+Love that wasbornMn gay- Mm Mh-AftMai
+ety, lived in tragedy and
+never, never died, It’s a joy |3P
+to see it.
+MOTION PICTURES
+.JAN. 1, 1

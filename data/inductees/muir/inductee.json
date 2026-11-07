@@ -1,0 +1,107 @@
+{
+  "slug": "muir",
+  "code": "MUI",
+  "name": "John Muir",
+  "aliases": [
+    "Muir, John"
+  ],
+  "authority": {
+    "loc_naf": "https://id.loc.gov/authorities/names/n79078692",
+    "wikidata": "Q379580"
+  },
+  "birth_year": 1838,
+  "death_year": 1914,
+  "ihh_url": "https://immigranthallofhonor.org/inductees/inductee-john-muir/",
+  "runs": [
+    {
+      "run_id": "muir-2026-10-09",
+      "date": "2026-10-09",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-09: 80 facts, 85 sources, 43 media, 143 searches merged from baseline.jsonl, baseline.searches.jsonl, domain.jsonl, domain.searches.jsonl, identify.jsonl, identify.searches.jsonl, institutional.jsonl, institutional.searches.jsonl, loc.jsonl, loc.searches.jsonl, media.jsonl, media.searches.jsonl, nara.jsonl, nara.searches.jsonl, smithsonian.jsonl, smithsonian.searches.jsonl; 0 duplicates refused\nmerge_staging 2026-10-09: 0 facts, 3 sources, 0 media, 38 searches merged from corroborate-MUI-F-0003.jsonl, corroborate-MUI-F-0003.searches.jsonl, corroborate-MUI-F-0022.searches.jsonl, corroborate-MUI-F-0023.searches.jsonl, corroborate-MUI-F-0035.searches.jsonl, corroborate-MUI-F-0047.searches.jsonl, corroborate-MUI-F-0048.jsonl, corroborate-MUI-F-0048.searches.jsonl, corroborate-MUI-F-0049.searches.jsonl, corroborate-MUI-F-0053.searches.jsonl, corroborate-MUI-F-0054.searches.jsonl, corroborate-MUI-F-0055.searches.jsonl, corroborate-MUI-F-0056.searches.jsonl, corroborate-MUI-F-0057.searches.jsonl, corroborate-MUI-F-0060.searches.jsonl, corroborate-MUI-F-0064.jsonl, corroborate-MUI-F-0064.searches.jsonl, corroborate-MUI-F-0065.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-recover-2026-10-10",
+      "date": "2026-10-10",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-10: 11 facts, 0 sources, 0 media, 4 searches merged from recover.jsonl, recover.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-tour-2026-10-15",
+      "date": "2026-10-15",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-15: 39 facts, 8 sources, 1 media, 14 searches merged from tour.jsonl, tour.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-tour-repair-2026-10-15",
+      "date": "2026-10-15",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-15: 7 facts, 0 sources, 0 media, 1 searches merged from tour-repair.jsonl, tour-repair.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-tour-repair2-2026-10-15",
+      "date": "2026-10-15",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-15: 4 facts, 0 sources, 0 media, 1 searches merged from tour-repair2.jsonl, tour-repair2.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-conflicts-2026-10-16",
+      "date": "2026-10-17",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-17: 0 facts, 5 sources, 0 media, 5 searches merged from basis-2026-10-16.jsonl, conflicts.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-basis-2026-10-17",
+      "date": "2026-10-17",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-17: 0 facts, 0 sources, 16 media, 0 searches merged from basis2-2026-10-17.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-artifacts-2026-10-20",
+      "date": "2026-10-20",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-20: 3 facts, 3 sources, 6 media, 11 searches merged from artifacts.jsonl, artifacts.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-rooms-2026-10-20",
+      "date": "2026-10-20",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-20: 0 facts, 9 sources, 9 media, 16 searches merged from rooms.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-euro-2026-10-22",
+      "date": "2026-10-22",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-22: 0 facts, 0 sources, 0 media, 4 searches merged from euro-2026-10-22.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-loc-2026-10-22",
+      "date": "2026-10-22",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-22: 0 facts, 8 sources, 8 media, 7 searches merged from locrooms.jsonl, locrooms.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "ratio-lift-2026-10-24",
+      "date": "2026-10-24",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-24: 5 facts, 11 sources, 7 media, 7 searches merged from ratiolift.jsonl, ratiolift.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "muir-habs-items-2026-10-29",
+      "date": "2026-10-29",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-29: 0 facts, 0 sources, 3 media, 1 searches merged from habssheets.jsonl, habssheets.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "round9-2026-10-29",
+      "date": "2026-10-29",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-29: 3 facts, 1 sources, 0 media, 7 searches merged from round9.jsonl, round9.searches.jsonl; 0 duplicates refused\nmerge_staging 2026-10-29: 1 facts, 1 sources, 0 media, 1 searches merged from round9b.jsonl, round9b.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "round9-records-2026-10-30",
+      "date": "2026-10-30",
+      "adversary": null,
+      "notes": "merge_staging 2026-10-30: 0 facts, 6 sources, 8 media, 9 searches merged from round9r.jsonl, round9r.searches.jsonl; 0 duplicates refused"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-and-yosemite.htm",
+  "fetch_url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-and-yosemite.htm",
+  "method": "http",
+  "fetched_at": "2026-10-15T04:17:27Z",
+  "sha256": "ce1f7c8c7f874b463af92d0108af0050b2d8deda563fdfd81b8102979758b421",
+  "bytes": 5899,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-and-yosemite.htm"
+}

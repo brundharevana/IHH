@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/597840",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=597840",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:20:15Z",
+  "sha256": "eda392a236ca24acd99b80dfda960b2a1f9d5d5be201a4e5ab433b76ce5195f4",
+  "bytes": 5338,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=597840"
+}

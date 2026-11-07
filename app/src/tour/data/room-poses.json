@@ -1,0 +1,2695 @@
+{
+ "$comment": "The guide's preferred spot (pos, face = a point she faces) and camera poses per room and device (pos = eye, look = orbit target, stand = the hotspot_N viewpoint of the stop; round 9: Step back returns to the start view), keyed by the tour artifact ids. Start views stand at the room's photograph viewpoint (assets-src/<room>/build_room.py CAMERAS: Muir cam_habs13, Albright cam_photo, Springfield cam_sc696, Robinson cam_ku1907, Lamarr cam_photo moved forward along its line of sight into the walkable street) at eye height 1.6 m. The guide's spot and the focus views were chosen by a search over the walkable floor (bounds.json) and the artifact nodes' boxes: on a 1440x900 desktop (fov 58) she is 33-52% of the screen height, on a 390x844 phone (fov 70) 24-42%; her head to waist is on screen and clear of the HUD (title plate, object list, hint, bubble; phone: everything below 590 px), she is seen from her front half, nothing stands between the eye and her chest, she does not cover a standing artifact, and the focused artifact is in frame beside her. Focus views look at most 8.5 degrees up (RoomControls focus mode clamps the polar angle at 0.55 pi). Round 5: Muir's mantel and pictures views face the fireplace wall (they had looked along it, edge-on); every focus is checked for path and framing by a script (yaw change, eye inside the room, artifact on screen and not edge-on). A pose may carry lookUp (degrees above the horizon its focus may look; RoomControls), for a subject high over the eye: the Hall of Fame tower and ball (Task 11 fix round 1). Round 8: the architecture-only stops were removed, and their poses with them; the labelled panel stops (Einstein's 1947 article, Naismith's uncle and McGill) stand on museum stands in front of the start view. Round 9 (owner feedback): the guide walks to another spot whenever the view settles where she would be out of frame, hidden or in front of the focus (room/RoomGuide.jsx, room/guideFrame.js); the focus views were searched again for the records that moved onto walls, easels near the architecture and stages (each record face-on, nothing between it and the eye, a spot for the guide beside it: e2e/camcheck.mjs and e2e/chapters.mjs --only=guide check every one), and a focus view may stand on rising ground (North Hall's lawn: its eye 1.6 m above the ground there).",
+ "muir-martinez-study": {
+  "guide": {
+   "pos": [
+    -0.42,
+    0,
+    2.06
+   ],
+   "face": [
+    1.1,
+    0,
+    -1.31
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      1.1,
+      1.6,
+      -1.31
+     ],
+     "look": [
+      -1.44,
+      1.35,
+      0.28
+     ]
+    },
+    "portrait": {
+     "pos": [
+      1.39,
+      1.6,
+      -0.18
+     ],
+     "look": [
+      0.54,
+      1.5,
+      2.54
+     ],
+     "stand": 3
+    },
+    "sierra": {
+     "pos": [
+      1.1,
+      1.6,
+      -1.31
+     ],
+     "look": [
+      0.55,
+      1.5,
+      2.6
+     ],
+     "stand": 3
+    },
+    "parks": {
+     "pos": [
+      1.1,
+      1.6,
+      -1.31
+     ],
+     "look": [
+      1.65,
+      1.5,
+      2.6
+     ],
+     "stand": 3
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      1.1,
+      1.6,
+      -1.31
+     ],
+     "look": [
+      -0.75,
+      1.35,
+      1.05
+     ]
+    },
+    "portrait": {
+     "pos": [
+      1.1,
+      1.6,
+      -1.2
+     ],
+     "look": [
+      0.64,
+      1.5,
+      2.6
+     ],
+     "stand": 3
+    },
+    "sierra": {
+     "pos": [
+      0.35,
+      1.6,
+      -2.35
+     ],
+     "look": [
+      1.5,
+      1.5,
+      2.63
+     ],
+     "stand": 3
+    },
+    "parks": {
+     "pos": [
+      -0.58,
+      1.6,
+      -2.19
+     ],
+     "look": [
+      2.04,
+      1.5,
+      2.5
+     ],
+     "stand": 3
+    }
+   }
+  }
+ },
+ "albright-un-security-council": {
+  "guide": {
+   "pos": [
+    -1.6,
+    0,
+    7.6
+   ],
+   "face": [
+    -3.71,
+    0,
+    10.52
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      -3.71,
+      1.6,
+      10.52
+     ],
+     "look": [
+      -0.67,
+      1.0,
+      1.28
+     ]
+    },
+    "sheet": {
+     "pos": [
+      -9.31,
+      1.6,
+      8.17
+     ],
+     "look": [
+      -11.8,
+      1.55,
+      6.77
+     ],
+     "stand": 1
+    },
+    "hearing": {
+     "pos": [
+      -9.31,
+      1.6,
+      7.07
+     ],
+     "look": [
+      -11.8,
+      1.55,
+      5.67
+     ],
+     "stand": 1
+    },
+    "angola": {
+     "pos": [
+      -9.31,
+      1.6,
+      4.87
+     ],
+     "look": [
+      -11.8,
+      1.55,
+      3.47
+     ],
+     "stand": 1
+    },
+    "photo": {
+     "pos": [
+      -8.44,
+      1.6,
+      9.76
+     ],
+     "look": [
+      -11.8,
+      1.55,
+      7.87
+     ],
+     "stand": 1
+    },
+    "havel": {
+     "pos": [
+      -9.31,
+      1.6,
+      5.97
+     ],
+     "look": [
+      -11.8,
+      1.55,
+      4.57
+     ],
+     "stand": 1
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -3.71,
+      1.6,
+      10.52
+     ],
+     "look": [
+      0.89,
+      1.0,
+      1.95
+     ]
+    },
+    "sheet": {
+     "pos": [
+      -3.94,
+      1.6,
+      8.75
+     ],
+     "look": [
+      -11.96,
+      1.55,
+      7.42
+     ],
+     "stand": 1
+    },
+    "hearing": {
+     "pos": [
+      -7.02,
+      1.6,
+      6.62
+     ],
+     "look": [
+      -11.68,
+      1.55,
+      5.45
+     ],
+     "stand": 1
+    },
+    "angola": {
+     "pos": [
+      -7.98,
+      1.6,
+      5.3
+     ],
+     "look": [
+      -11.81,
+      1.55,
+      3.52
+     ],
+     "stand": 1
+    },
+    "photo": {
+     "pos": [
+      -4.35,
+      1.6,
+      11.38
+     ],
+     "look": [
+      -11.81,
+      1.55,
+      7.92
+     ],
+     "stand": 0
+    },
+    "havel": {
+     "pos": [
+      -7.98,
+      1.6,
+      6.4
+     ],
+     "look": [
+      -11.81,
+      1.55,
+      4.62
+     ],
+     "stand": 1
+    }
+   }
+  }
+ },
+ "naismith-springfield-gym": {
+  "guide": {
+   "pos": [
+    1.6,
+    0,
+    0.85
+   ],
+   "face": [
+    2.8,
+    0,
+    4.6
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      2.8,
+      1.6,
+      4.6
+     ],
+     "look": [
+      -1.06,
+      1.75,
+      0.0
+     ]
+    },
+    "book": {
+     "pos": [
+      -2.0,
+      1.6,
+      2.6
+     ],
+     "look": [
+      -0.75,
+      2.3,
+      -3.66
+     ],
+     "stand": 0
+    },
+    "basket": {
+     "pos": [
+      4.11,
+      1.6,
+      3.37
+     ],
+     "look": [
+      1.6,
+      0.95,
+      2.7
+     ],
+     "stand": 0
+    },
+    "ball": {
+     "pos": [
+      0.45,
+      1.6,
+      4.45
+     ],
+     "look": [
+      1.95,
+      0.91,
+      2.55
+     ],
+     "stand": 0
+    },
+    "game": {
+     "pos": [
+      -1.4,
+      1.6,
+      4.7
+     ],
+     "look": [
+      -1.4,
+      1.3,
+      2.9
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      2.8,
+      1.6,
+      4.6
+     ],
+     "look": [
+      -0.2,
+      1.75,
+      -0.6
+     ]
+    },
+    "book": {
+     "pos": [
+      -2.0,
+      1.6,
+      2.6
+     ],
+     "look": [
+      -0.75,
+      2.3,
+      -3.66
+     ],
+     "stand": 0
+    },
+    "basket": {
+     "pos": [
+      4.69,
+      1.6,
+      3.53
+     ],
+     "look": [
+      1.6,
+      1.35,
+      2.7
+     ],
+     "stand": 0
+    },
+    "ball": {
+     "pos": [
+      4.92,
+      1.6,
+      4.35
+     ],
+     "look": [
+      2.15,
+      1.31,
+      2.75
+     ],
+     "stand": 0
+    },
+    "game": {
+     "pos": [
+      -1.4,
+      1.6,
+      4.7
+     ],
+     "look": [
+      -1.4,
+      1.3,
+      2.9
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "lamarr-mgm-gate": {
+  "guide": {
+   "pos": [
+    -5.5,
+    0,
+    6.3
+   ],
+   "face": [
+    -8.0,
+    0,
+    9.82
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      -8.0,
+      1.6,
+      9.82
+     ],
+     "look": [
+      3.22,
+      2.4,
+      3.76
+     ]
+    },
+    "portrait": {
+     "pos": [
+      -2.0,
+      1.6,
+      7.0
+     ],
+     "look": [
+      2.2,
+      2.6,
+      0.9
+     ],
+     "stand": 2
+    },
+    "star1940": {
+     "pos": [
+      4.02,
+      1.6,
+      3.74
+     ],
+     "look": [
+      5.15,
+      1.45,
+      1.4
+     ],
+     "stand": 0
+    },
+    "waterbury1940": {
+     "pos": [
+      7.31,
+      1.6,
+      3.84
+     ],
+     "look": [
+      8.2,
+      1.45,
+      1.4
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -8.0,
+      1.6,
+      9.82
+     ],
+     "look": [
+      1.27,
+      2.4,
+      1.06
+     ]
+    },
+    "portrait": {
+     "pos": [
+      -2.0,
+      1.6,
+      7.5
+     ],
+     "look": [
+      2.2,
+      2.6,
+      0.9
+     ],
+     "stand": 2
+    },
+    "star1940": {
+     "pos": [
+      3.76,
+      1.6,
+      4.28
+     ],
+     "look": [
+      5.15,
+      1.45,
+      1.4
+     ],
+     "stand": 0
+    },
+    "waterbury1940": {
+     "pos": [
+      7.1,
+      1.6,
+      4.41
+     ],
+     "look": [
+      8.2,
+      1.45,
+      1.4
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "naismith-robinson-gym": {
+  "guide": {
+   "pos": [
+    -1.9,
+    0,
+    10.0
+   ],
+   "face": [
+    -0.3,
+    0,
+    13.5
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      -0.3,
+      1.6,
+      13.5
+     ],
+     "look": [
+      -2.04,
+      2.6,
+      3.65
+     ]
+    },
+    "paper1898": {
+     "pos": [
+      -6.5,
+      1.6,
+      7.0
+     ],
+     "look": [
+      -9.88,
+      1.35,
+      4.5
+     ],
+     "stand": 0
+    },
+    "paper1908": {
+     "pos": [
+      6.5,
+      1.6,
+      7.0
+     ],
+     "look": [
+      9.88,
+      1.35,
+      4.5
+     ],
+     "stand": 0
+    },
+    "kc1898": {
+     "pos": [
+      -5.6,
+      1.6,
+      8.4
+     ],
+     "look": [
+      -9.1,
+      1.4,
+      6.6
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -0.3,
+      1.6,
+      13.5
+     ],
+     "look": [
+      -2.89,
+      2.1,
+      3.84
+     ]
+    },
+    "paper1898": {
+     "pos": [
+      -5.43,
+      1.6,
+      7.86
+     ],
+     "look": [
+      -9.88,
+      1.35,
+      4.5
+     ],
+     "stand": 0
+    },
+    "paper1908": {
+     "pos": [
+      5.43,
+      1.6,
+      7.86
+     ],
+     "look": [
+      9.88,
+      1.35,
+      4.5
+     ],
+     "stand": 0
+    },
+    "kc1898": {
+     "pos": [
+      -5.6,
+      1.6,
+      8.8
+     ],
+     "look": [
+      -9.1,
+      1.4,
+      6.6
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "study": {
+  "guide": {
+   "pos": [
+    1.66,
+    0,
+    -0.74
+   ],
+   "face": [
+    -0.6,
+    0,
+    1.3
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      -1.55,
+      1.6,
+      1.6
+     ],
+     "look": [
+      0.0,
+      1.05,
+      -0.6
+     ]
+    },
+    "desk": {
+     "pos": [
+      -1.34,
+      1.6,
+      1.22
+     ],
+     "look": [
+      0.5,
+      0.93,
+      -0.62
+     ],
+     "stand": 0
+    },
+    "letter": {
+     "pos": [
+      -0.64,
+      1.6,
+      1.49
+     ],
+     "look": [
+      0.66,
+      1.66,
+      -0.79
+     ],
+     "stand": 0
+    },
+    "photo": {
+     "pos": [
+      0.3,
+      1.6,
+      0.9
+     ],
+     "look": [
+      0.85,
+      1.24,
+      -0.92
+     ],
+     "stand": 0
+    },
+    "pipe": {
+     "pos": [
+      1.56,
+      1.6,
+      0.91
+     ],
+     "look": [
+      0.86,
+      1.18,
+      -0.3
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -1.55,
+      1.6,
+      1.6
+     ],
+     "look": [
+      0.52,
+      1.05,
+      -0.58
+     ]
+    },
+    "desk": {
+     "pos": [
+      -1.62,
+      1.6,
+      1.5
+     ],
+     "look": [
+      0.75,
+      1.33,
+      -0.37
+     ],
+     "stand": 0
+    },
+    "letter": {
+     "pos": [
+      -0.98,
+      1.6,
+      1.54
+     ],
+     "look": [
+      0.67,
+      1.66,
+      -0.74
+     ],
+     "stand": 0
+    },
+    "photo": {
+     "pos": [
+      0.01,
+      1.6,
+      1.86
+     ],
+     "look": [
+      1.14,
+      1.24,
+      -0.83
+     ],
+     "stand": 3
+    },
+    "pipe": {
+     "pos": [
+      -0.04,
+      1.6,
+      1.25
+     ],
+     "look": [
+      1.05,
+      1.58,
+      -0.2
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "einstein-trenton-courtroom": {
+  "guide": {
+   "pos": [
+    2.4,
+    0,
+    5.4
+   ],
+   "face": [
+    -0.5,
+    0,
+    9.0
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      0.0,
+      1.6,
+      9.5
+     ],
+     "look": [
+      0.0,
+      1.4,
+      2.0
+     ]
+    },
+    "record": {
+     "pos": [
+      -1.35,
+      1.6,
+      6.2
+     ],
+     "look": [
+      0.25,
+      0.59,
+      4.7
+     ],
+     "stand": 1
+    },
+    "photo": {
+     "pos": [
+      -0.6,
+      1.6,
+      7.0
+     ],
+     "look": [
+      0.55,
+      0.62,
+      4.4
+     ],
+     "stand": 0
+    },
+    "press1940": {
+     "pos": [
+      0.9,
+      1.6,
+      7.2
+     ],
+     "look": [
+      1.75,
+      1.25,
+      5.0
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      1.2,
+      1.6,
+      11.0
+     ],
+     "look": [
+      1.0,
+      1.3,
+      2.5
+     ]
+    },
+    "record": {
+     "pos": [
+      1.5,
+      1.6,
+      11.15
+     ],
+     "look": [
+      0.88,
+      0.48,
+      4.16
+     ],
+     "stand": 0
+    },
+    "photo": {
+     "pos": [
+      1.2,
+      1.6,
+      10.6
+     ],
+     "look": [
+      0.85,
+      0.55,
+      4.2
+     ],
+     "stand": 0
+    },
+    "press1940": {
+     "pos": [
+      1.6,
+      1.6,
+      10.8
+     ],
+     "look": [
+      1.6,
+      1.1,
+      5.0
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "einstein-mercer-street-front": {
+  "guide": {
+   "pos": [
+    3.9,
+    0,
+    8.6
+   ],
+   "face": [
+    1.5,
+    0,
+    16.0
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      0.6,
+      1.6,
+      13.5
+     ],
+     "look": [
+      1.6,
+      2.8,
+      0.0
+     ]
+    },
+    "house": {
+     "pos": [
+      3.4,
+      1.6,
+      12.3
+     ],
+     "look": [
+      4.77,
+      3.6,
+      -3.69
+     ],
+     "stand": 1
+    },
+    "desk": {
+     "pos": [
+      -3.2,
+      1.6,
+      10.6
+     ],
+     "look": [
+      -3.2,
+      1.3,
+      8.0
+     ],
+     "stand": 1
+    },
+    "standing": {
+     "pos": [
+      5.2,
+      1.6,
+      10.6
+     ],
+     "look": [
+      5.2,
+      1.3,
+      8.0
+     ],
+     "stand": 1
+    },
+    "article": {
+     "pos": [
+      -1.7,
+      1.6,
+      10.6
+     ],
+     "look": [
+      -1.7,
+      1.3,
+      8.0
+     ],
+     "stand": 1
+    },
+    "star1955": {
+     "pos": [
+      -4.7,
+      1.6,
+      10.6
+     ],
+     "look": [
+      -4.7,
+      1.3,
+      8.0
+     ],
+     "stand": 1
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      2.5,
+      1.6,
+      14.5
+     ],
+     "look": [
+      3.0,
+      3.0,
+      0.0
+     ]
+    },
+    "house": {
+     "pos": [
+      2.0,
+      1.6,
+      12.5
+     ],
+     "look": [
+      0.0,
+      2.2,
+      0.0
+     ],
+     "stand": 0
+    },
+    "desk": {
+     "pos": [
+      -3.2,
+      1.73,
+      11.4
+     ],
+     "look": [
+      -3.61,
+      1.3,
+      8
+     ],
+     "stand": 1
+    },
+    "standing": {
+     "pos": [
+      5.2,
+      1.73,
+      11.2
+     ],
+     "look": [
+      4.82,
+      1.3,
+      8
+     ],
+     "stand": 1
+    },
+    "article": {
+     "pos": [
+      -1.7,
+      1.73,
+      11.2
+     ],
+     "look": [
+      -2.08,
+      1.3,
+      8
+     ],
+     "stand": 1
+    },
+    "star1955": {
+     "pos": [
+      -4.7,
+      1.73,
+      11.2
+     ],
+     "look": [
+      -5.08,
+      1.3,
+      8.0
+     ],
+     "stand": 1
+    }
+   }
+  }
+ },
+ "lamarr-vienna-graben": {
+  "guide": {
+   "pos": [
+    -0.8,
+    0,
+    -16.5
+   ],
+   "face": [
+    1.0,
+    0,
+    -12.0
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      1.0,
+      1.6,
+      -11.0
+     ],
+     "look": [
+      -1.0,
+      2.6,
+      -60.0
+     ]
+    },
+    "photo": {
+     "pos": [
+      -1.25,
+      1.6,
+      -33.08
+     ],
+     "look": [
+      -2.47,
+      1.7,
+      -35.37
+     ],
+     "stand": 0
+    },
+    "paper1953": {
+     "pos": [
+      -3.97,
+      1.6,
+      -33.57
+     ],
+     "look": [
+      -3.12,
+      1.7,
+      -35.36
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      1.0,
+      1.6,
+      -10.0
+     ],
+     "look": [
+      -1.0,
+      2.6,
+      -60.0
+     ]
+    },
+    "photo": {
+     "pos": [
+      -0.3,
+      1.6,
+      -31.3
+     ],
+     "look": [
+      -2.47,
+      1.7,
+      -35.37
+     ],
+     "stand": 0
+    },
+    "paper1953": {
+     "pos": [
+      -4.28,
+      1.6,
+      -32.94
+     ],
+     "look": [
+      -3.12,
+      1.7,
+      -35.36
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "naismith-almonte-high-school": {
+  "guide": {
+   "pos": [
+    -2.2,
+    0,
+    23.0
+   ],
+   "face": [
+    0,
+    0,
+    28
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      0,
+      1.6,
+      28
+     ],
+     "look": [
+      0,
+      5.0,
+      0
+     ]
+    },
+    "uncle": {
+     "pos": [
+      2.4,
+      1.6,
+      25.6
+     ],
+     "look": [
+      2.4,
+      1.3,
+      23.0
+     ],
+     "stand": 0
+    },
+    "lynden": {
+     "pos": [
+      -7.1,
+      1.6,
+      10
+     ],
+     "look": [
+      -10.1,
+      2.3,
+      0.09
+     ],
+     "stand": 0
+    },
+    "milwaukee": {
+     "pos": [
+      3.4,
+      1.6,
+      10
+     ],
+     "look": [
+      6.4,
+      2.3,
+      0.09
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -1.85,
+      1.6,
+      31.5
+     ],
+     "look": [
+      -1.85,
+      4.6,
+      0
+     ]
+    },
+    "uncle": {
+     "pos": [
+      2.4,
+      1.6,
+      26.4
+     ],
+     "look": [
+      2.4,
+      1.3,
+      23.0
+     ],
+     "stand": 0
+    },
+    "lynden": {
+     "pos": [
+      -8.6,
+      1.6,
+      11
+     ],
+     "look": [
+      -10.1,
+      2.3,
+      0.09
+     ],
+     "stand": 0
+    },
+    "milwaukee": {
+     "pos": [
+      4.9,
+      1.6,
+      11
+     ],
+     "look": [
+      6.4,
+      2.3,
+      0.09
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "naismith-presbyterian-dining-hall": {
+  "guide": {
+   "pos": [
+    -2.5,
+    0,
+    3.7
+   ],
+   "face": [
+    0,
+    0,
+    7.9
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      0.6,
+      1.6,
+      8.6
+     ],
+     "look": [
+      -0.4,
+      1.3,
+      0.5
+     ]
+    },
+    "mcgill": {
+     "pos": [
+      1.39,
+      1.6,
+      5.38
+     ],
+     "look": [
+      4.89,
+      1.68,
+      4.28
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -0.8,
+      1.6,
+      9.6
+     ],
+     "look": [
+      -2.0,
+      1.2,
+      1.0
+     ]
+    },
+    "mcgill": {
+     "pos": [
+      0.37,
+      1.6,
+      5
+     ],
+     "look": [
+      4.97,
+      1.68,
+      4.45
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "naismith-hall-of-fame": {
+  "guide": {
+   "pos": [
+    -6.32,
+    0,
+    -7.1
+   ],
+   "face": [
+    0.5,
+    0,
+    4.5
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      0.5,
+      1.6,
+      4.5
+     ],
+     "look": [
+      -9,
+      10.5,
+      -30
+     ]
+    },
+    "photo": {
+     "pos": [
+      -9.05,
+      1.6,
+      -25.7
+     ],
+     "look": [
+      -9.05,
+      1.3,
+      -28.3
+     ],
+     "stand": 0
+    },
+    "star1959": {
+     "pos": [
+      -10.95,
+      1.6,
+      -25.7
+     ],
+     "look": [
+      -10.95,
+      1.3,
+      -28.3
+     ],
+     "stand": 0
+    },
+    "star1961": {
+     "pos": [
+      -10.05,
+      1.6,
+      -25.7
+     ],
+     "look": [
+      -10.05,
+      1.3,
+      -28.3
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      0.5,
+      1.6,
+      4.5
+     ],
+     "look": [
+      -13.71,
+      3.4,
+      -28.34
+     ]
+    },
+    "photo": {
+     "pos": [
+      -10.61,
+      1.6,
+      -24.46
+     ],
+     "look": [
+      -10.03,
+      1.3,
+      -28.23
+     ],
+     "stand": 0
+    },
+    "star1959": {
+     "pos": [
+      -10.95,
+      1.6,
+      -24.6
+     ],
+     "look": [
+      -10.95,
+      1.3,
+      -28.3
+     ],
+     "stand": 0
+    },
+    "star1961": {
+     "pos": [
+      -10.05,
+      1.6,
+      -22.6
+     ],
+     "look": [
+      -10.35,
+      1.3,
+      -28.3
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "muir-north-hall": {
+  "guide": {
+   "pos": [
+    -1.4,
+    0,
+    -7.2
+   ],
+   "face": [
+    0.5,
+    0,
+    -3
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      0.5,
+      1.6,
+      -3
+     ],
+     "look": [
+      -0.5,
+      7,
+      -60
+     ]
+    },
+    "clock": {
+     "pos": [
+      -0.21,
+      2.55,
+      -47.21
+     ],
+     "look": [
+      -1.6,
+      2.52,
+      -49.46
+     ],
+     "stand": 0
+    },
+    "star": {
+     "pos": [
+      0.98,
+      2.55,
+      -48.33
+     ],
+     "look": [
+      -0.41,
+      2.52,
+      -50.58
+     ],
+     "stand": 0
+    },
+    "thermometer": {
+     "pos": [
+      2.17,
+      2.55,
+      -49.45
+     ],
+     "look": [
+      0.78,
+      2.52,
+      -51.7
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      0.5,
+      1.6,
+      -1
+     ],
+     "look": [
+      -0.5,
+      7,
+      -60
+     ]
+    },
+    "clock": {
+     "pos": [
+      0.2,
+      2.5,
+      -46.77
+     ],
+     "look": [
+      -1.7,
+      2.52,
+      -49.37
+     ],
+     "stand": 0
+    },
+    "star": {
+     "pos": [
+      1.39,
+      2.5,
+      -47.89
+     ],
+     "look": [
+      -0.51,
+      2.52,
+      -50.49
+     ],
+     "stand": 0
+    },
+    "thermometer": {
+     "pos": [
+      2.88,
+      2.5,
+      -48.61
+     ],
+     "look": [
+      0.68,
+      2.52,
+      -51.61
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "muir-hutchings-house": {
+  "guide": {
+   "pos": [
+    0.75,
+    0,
+    -1.6
+   ],
+   "face": [
+    0.2,
+    0,
+    0.75
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      0.2,
+      1.6,
+      0.6
+     ],
+     "look": [
+      -0.2,
+      1.5,
+      -4
+     ]
+    },
+    "register": {
+     "pos": [
+      0.3,
+      1.6,
+      0.6
+     ],
+     "look": [
+      -3.1,
+      1.45,
+      -1.8
+     ],
+     "stand": 0
+    },
+    "fern": {
+     "pos": [
+      -0.3,
+      1.6,
+      0.6
+     ],
+     "look": [
+      2.95,
+      1.45,
+      -1.8
+     ],
+     "stand": 0
+    },
+    "summer": {
+     "pos": [
+      0.3,
+      1.6,
+      0.9
+     ],
+     "look": [
+      -3.1,
+      1.45,
+      -0.95
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      0.2,
+      1.6,
+      0.75
+     ],
+     "look": [
+      0.46,
+      1.5,
+      -4.25
+     ]
+    },
+    "register": {
+     "pos": [
+      2.49,
+      1.6,
+      1.08
+     ],
+     "look": [
+      -3.33,
+      1.45,
+      -1.41
+     ],
+     "stand": 0
+    },
+    "fern": {
+     "pos": [
+      0.18,
+      1.6,
+      0.45
+     ],
+     "look": [
+      2.76,
+      1.45,
+      -2.13
+     ],
+     "stand": 0
+    },
+    "summer": {
+     "pos": [
+      0.19,
+      1.6,
+      0.1
+     ],
+     "look": [
+      -3.33,
+      1.45,
+      -0.75
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "muir-hetch-hetchy": {
+  "guide": {
+   "pos": [
+    -0.9,
+    0,
+    0
+   ],
+   "face": [
+    0.5,
+    0,
+    4.5
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      0.5,
+      1.6,
+      3
+     ],
+     "look": [
+      0,
+      8,
+      -150
+     ]
+    },
+    "photo": {
+     "pos": [
+      0.3,
+      1.6,
+      1.0
+     ],
+     "look": [
+      0,
+      1.45,
+      -1.3
+     ],
+     "stand": 0
+    },
+    "call": {
+     "pos": [
+      0.8,
+      1.6,
+      1.1
+     ],
+     "look": [
+      1.15,
+      1.45,
+      -1.15
+     ],
+     "stand": 0
+    },
+    "death": {
+     "pos": [
+      0.8,
+      1.6,
+      1.1
+     ],
+     "look": [
+      1.15,
+      1.45,
+      -1.15
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      0.5,
+      1.6,
+      4.5
+     ],
+     "look": [
+      -17.8,
+      8,
+      -144.4
+     ]
+    },
+    "photo": {
+     "pos": [
+      0.3,
+      1.6,
+      1.4
+     ],
+     "look": [
+      0,
+      1.45,
+      -1.3
+     ],
+     "stand": 0
+    },
+    "call": {
+     "pos": [
+      0.8,
+      1.6,
+      1.5
+     ],
+     "look": [
+      1.15,
+      1.45,
+      -1.15
+     ],
+     "stand": 0
+    },
+    "death": {
+     "pos": [
+      0.8,
+      1.6,
+      1.5
+     ],
+     "look": [
+      1.15,
+      1.45,
+      -1.15
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "albright-ss-america": {
+  "guide": {
+   "pos": [
+    -0.8,
+    0,
+    -1.4
+   ],
+   "face": [
+    0,
+    0,
+    2
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      0,
+      1.6,
+      1.5
+     ],
+     "look": [
+      0.6,
+      1.5,
+      -8
+     ]
+    },
+    "photo": {
+     "pos": [
+      -0.21,
+      1.6,
+      0.77
+     ],
+     "look": [
+      -0.85,
+      1.4,
+      -1.75
+     ],
+     "stand": 0
+    },
+    "resolution": {
+     "pos": [
+      1.6,
+      1.6,
+      0.15
+     ],
+     "look": [
+      3.6,
+      1.4,
+      -1.5
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      0,
+      1.6,
+      2.1
+     ],
+     "look": [
+      -0.6,
+      1.5,
+      -8
+     ]
+    },
+    "photo": {
+     "pos": [
+      -0.06,
+      1.6,
+      1.35
+     ],
+     "look": [
+      -0.85,
+      1.4,
+      -1.75
+     ],
+     "stand": 0
+    },
+    "resolution": {
+     "pos": [
+      1.1,
+      1.6,
+      0.53
+     ],
+     "look": [
+      3.6,
+      1.4,
+      -1.5
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "albright-archives-rotunda": {
+  "guide": {
+   "pos": [
+    1.3,
+    0,
+    -3.3
+   ],
+   "face": [
+    0,
+    0,
+    1.8
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      0,
+      1.6,
+      1.8
+     ],
+     "look": [
+      -0.6,
+      1.5,
+      -6.5
+     ]
+    },
+    "remarks": {
+     "pos": [
+      0,
+      1.6,
+      -1.6
+     ],
+     "look": [
+      -2.9,
+      1.45,
+      -3.7
+     ],
+     "stand": 1
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      0,
+      1.6,
+      2.6
+     ],
+     "look": [
+      -0.6,
+      1.5,
+      -6.5
+     ]
+    },
+    "remarks": {
+     "pos": [
+      0,
+      1.6,
+      -0.8
+     ],
+     "look": [
+      -2.9,
+      1.45,
+      -3.7
+     ],
+     "stand": 1
+    }
+   }
+  }
+ },
+ "muir-dunbar-high-street": {
+  "guide": {
+   "pos": [
+    -2.6,
+    0,
+    6.8
+   ],
+   "face": [
+    1.5,
+    0,
+    12
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      1.0,
+      1.6,
+      12.4
+     ],
+     "look": [
+      0.0,
+      2.6,
+      1.0
+     ]
+    },
+    "passport": {
+     "pos": [
+      -6.25,
+      1.6,
+      3.55
+     ],
+     "look": [
+      -6.25,
+      1.4,
+      0.95
+     ],
+     "stand": 0
+    },
+    "boyhood": {
+     "pos": [
+      -5.05,
+      1.6,
+      3.55
+     ],
+     "look": [
+      -5.05,
+      1.4,
+      0.95
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -2.0,
+      1.6,
+      11.15
+     ],
+     "look": [
+      -1.36,
+      2.6,
+      1.12
+     ],
+     "stand": 0
+    },
+    "passport": {
+     "pos": [
+      -6.25,
+      1.6,
+      4.15
+     ],
+     "look": [
+      -6.63,
+      1.4,
+      0.95
+     ],
+     "stand": 0
+    },
+    "boyhood": {
+     "pos": [
+      -4.75,
+      1.6,
+      6.64
+     ],
+     "look": [
+      -5.43,
+      1.4,
+      0.95
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "albright-oval-office-1993": {
+  "guide": {
+   "pos": [
+    -2.2,
+    0,
+    -1.6
+   ],
+   "face": [
+    1.5,
+    0,
+    1.2
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      -0.5,
+      1.6,
+      2.5
+     ],
+     "look": [
+      -0.25,
+      1.6,
+      -4.21
+     ],
+     "stand": 0
+    },
+    "frame": {
+     "pos": [
+      -0.1,
+      1.6,
+      2.1
+     ],
+     "look": [
+      -0.82,
+      1.39,
+      -0.04
+     ],
+     "stand": 1
+    },
+    "photo": {
+     "pos": [
+      -0.3,
+      1.6,
+      2.1
+     ],
+     "look": [
+      -2.27,
+      1.41,
+      -0.24
+     ],
+     "stand": 2
+    },
+    "memo": {
+     "pos": [
+      -0.3,
+      1.6,
+      2.1
+     ],
+     "look": [
+      -2.26,
+      1.39,
+      -0.1
+     ],
+     "stand": 2
+    },
+    "korea": {
+     "pos": [
+      -0.3,
+      1.6,
+      2.3
+     ],
+     "look": [
+      -2.27,
+      1.4,
+      0.44
+     ],
+     "stand": 2
+    },
+    "wye": {
+     "pos": [
+      -0.3,
+      1.6,
+      2.1
+     ],
+     "look": [
+      -2.29,
+      1.44,
+      -0.37
+     ],
+     "stand": 2
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -1.9,
+      1.6,
+      3.1
+     ],
+     "look": [
+      -0.75,
+      1.6,
+      -3.54
+     ],
+     "stand": 0
+    },
+    "frame": {
+     "pos": [
+      0.5,
+      1.6,
+      2.5
+     ],
+     "look": [
+      -0.16,
+      1.43,
+      0.7
+     ],
+     "stand": 1
+    },
+    "photo": {
+     "pos": [
+      -0.3,
+      1.6,
+      2.1
+     ],
+     "look": [
+      -2.27,
+      1.4,
+      -0.35
+     ],
+     "stand": 2
+    },
+    "memo": {
+     "pos": [
+      -0.1,
+      1.6,
+      2.7
+     ],
+     "look": [
+      -2.27,
+      1.4,
+      0.04
+     ],
+     "stand": 2
+    },
+    "korea": {
+     "pos": [
+      1.04,
+      1.6,
+      0.97
+     ],
+     "look": [
+      -2.3,
+      1.4,
+      2
+     ],
+     "stand": 2
+    },
+    "wye": {
+     "pos": [
+      -0.1,
+      1.6,
+      2.1
+     ],
+     "look": [
+      -2.3,
+      1.45,
+      -0.3
+     ],
+     "stand": 2
+    }
+   }
+  }
+ },
+ "albright-east-room-2012": {
+  "guide": {
+   "pos": [
+    2.6,
+    0,
+    -0.5
+   ],
+   "face": [
+    0.2,
+    0,
+    -3.6
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      -1.5,
+      1.6,
+      -2.0
+     ],
+     "look": [
+      3.77,
+      1.9,
+      -2.0
+     ],
+     "stand": 0
+    },
+    "photo": {
+     "pos": [
+      0.95,
+      1.6,
+      -5.75
+     ],
+     "look": [
+      4.55,
+      1.45,
+      -5.75
+     ],
+     "stand": 0
+    },
+    "remarks": {
+     "pos": [
+      0.95,
+      1.6,
+      -4.85
+     ],
+     "look": [
+      4.55,
+      1.45,
+      -4.85
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -1.75,
+      1.6,
+      0.5
+     ],
+     "look": [
+      4.1,
+      1.9,
+      -2.43
+     ],
+     "stand": 0
+    },
+    "photo": {
+     "pos": [
+      0.85,
+      1.6,
+      -5.69
+     ],
+     "look": [
+      4.55,
+      1.45,
+      -6.13
+     ],
+     "stand": 0
+    },
+    "remarks": {
+     "pos": [
+      0.49,
+      1.6,
+      -3.55
+     ],
+     "look": [
+      4.55,
+      1.45,
+      -5.2
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "lamarr-vienna-central-cemetery": {
+  "guide": {
+   "pos": [
+    -4.3,
+    0,
+    -11.4
+   ],
+   "face": [
+    0.5,
+    0,
+    -6.0
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      -0.75,
+      1.6,
+      -7.2
+     ],
+     "look": [
+      -1.34,
+      1.8,
+      -17.26
+     ],
+     "stand": 0
+    },
+    "photo": {
+     "pos": [
+      -5.38,
+      1.63,
+      -11.35
+     ],
+     "look": [
+      -6.2,
+      1.4,
+      -13.6
+     ],
+     "stand": 0
+    },
+    "file": {
+     "pos": [
+      -6.31,
+      1.63,
+      -11.16
+     ],
+     "look": [
+      -7.49,
+      1.4,
+      -13.49
+     ],
+     "stand": 0
+    },
+    "paper1953": {
+     "pos": [
+      -7.31,
+      1.63,
+      -11.16
+     ],
+     "look": [
+      -8.2,
+      1.4,
+      -13.6
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -4.75,
+      1.6,
+      -6.7
+     ],
+     "look": [
+      -1.47,
+      1.8,
+      -16.13
+     ]
+    },
+    "photo": {
+     "pos": [
+      -4.93,
+      1.63,
+      -10.12
+     ],
+     "look": [
+      -6.2,
+      1.4,
+      -13.6
+     ],
+     "stand": 0
+    },
+    "file": {
+     "pos": [
+      -6.68,
+      1.63,
+      -9.85
+     ],
+     "look": [
+      -7.2,
+      1.4,
+      -13.6
+     ],
+     "stand": 0
+    },
+    "paper1953": {
+     "pos": [
+      -7.1,
+      1.63,
+      -10.59
+     ],
+     "look": [
+      -8.2,
+      1.4,
+      -13.6
+     ],
+     "stand": 0
+    }
+   }
+  }
+ },
+ "einstein-gothenburg-lecture-hall": {
+  "guide": {
+   "pos": [
+    -13.5,
+    0,
+    -6.5
+   ],
+   "face": [
+    -9.5,
+    0,
+    -1.8
+   ]
+  },
+  "poses": {
+   "desktop": {
+    "start": {
+     "pos": [
+      -12.0,
+      1.6,
+      -2.2
+     ],
+     "look": [
+      -10.8,
+      2.2,
+      -16.31
+     ],
+     "stand": 0
+    },
+    "photo": {
+     "pos": [
+      -14.2,
+      1.6,
+      -7.8
+     ],
+     "look": [
+      -14.2,
+      1.45,
+      -10.4
+     ],
+     "stand": 0
+    },
+    "relativity": {
+     "pos": [
+      -7.19,
+      1.6,
+      -7.96
+     ],
+     "look": [
+      -6.3,
+      1.95,
+      -10.4
+     ],
+     "stand": 0
+    },
+    "light": {
+     "pos": [
+      -5.79,
+      1.6,
+      -7.96
+     ],
+     "look": [
+      -4.9,
+      1.95,
+      -10.4
+     ],
+     "stand": 0
+    }
+   },
+   "phone": {
+    "start": {
+     "pos": [
+      -15.5,
+      1.6,
+      -2.2
+     ],
+     "look": [
+      -10.8,
+      2.2,
+      -16.31
+     ],
+     "stand": 0
+    },
+    "photo": {
+     "pos": [
+      -14.2,
+      1.6,
+      -6
+     ],
+     "look": [
+      -14.73,
+      1.45,
+      -10.4
+     ],
+     "stand": 0
+    },
+    "relativity": {
+     "pos": [
+      -7.4,
+      1.6,
+      -7.39
+     ],
+     "look": [
+      -6.3,
+      1.95,
+      -10.4
+     ],
+     "stand": 0
+    },
+    "light": {
+     "pos": [
+      -6,
+      1.6,
+      -7.39
+     ],
+     "look": [
+      -4.9,
+      1.95,
+      -10.4
+     ],
+     "stand": 0
+    }
+   }
+  }
+ }
+}

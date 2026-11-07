@@ -1,0 +1,838 @@
+{
+  "$comment": "Every line the guide says in her or his own words (wayfinding; no claims about an inductee). Each entry is a whole line, synthesized as one clip per guide voice by assets-src/audio/build_guide_audio.py, so nothing is stitched mid-sentence. {n} = inductee name (app/src/landing/data/inductees.json), {pos} = that inductee's possessive pronoun (pronouns below). The name is said once per line; after that, the pronoun. Facts about an inductee are never here: they come from the narration script (assets-src/audio/narration/), tied to verified fact ids. tour.rooms.<room id> holds the lines for each recreated room (arrivals, intros and nudges per object); the study keeps the tour-level lists.",
+  "pronouns": {
+    "einstein": "his",
+    "lamarr": "her",
+    "muir": "his",
+    "albright": "her",
+    "naismith": "his"
+  },
+  "landing": {
+    "offer": [
+      "This is {n}. Would you like me to walk you through {pos} story?",
+      "Shall we take the tour of {n}? I'll lead the way.",
+      "Here is {n}. I can take you through {pos} story, if you like.",
+      "Care to walk through {n}'s story with me?",
+      "Ready when you are. Shall we follow {n}'s story together?",
+      "How about a tour? {n}'s story starts just through here."
+    ],
+    "decline": [
+      "Of course. Keep scrolling, and I'll be right here.",
+      "No rush at all. Open any story point when you're ready.",
+      "That's fine. You can ask me again from any portrait.",
+      "All right. Take your time."
+    ],
+    "greeting": [
+      "Welcome in. Scroll down to meet the first inductee.",
+      "Hello, and welcome. Five people are waiting along this hall.",
+      "Good to see you. Take the hall at your own pace."
+    ]
+  },
+  "tour": {
+    "arrivals": [
+      "Welcome to the study. Look around, and pick whatever catches your eye.",
+      "This is the study. Choose any object, and I'll tell you about it.",
+      "Here we are, in the study. Start wherever you like."
+    ],
+    "intros": {
+      "desk": [
+        "Come and see his research in his study.",
+        "Now, his research in his study.",
+        "Have a look at this with me."
+      ],
+      "letter": [
+        "Look closely at this letter.",
+        "Now, this letter.",
+        "Come and see this letter."
+      ],
+      "photo": [
+        "Come and see the photograph from 1943.",
+        "Now, one of the Navy photographs.",
+        "Have a look at this photograph with me."
+      ],
+      "pipe": [
+        "Look at this pipe: a recreation. The original is at the Smithsonian.",
+        "Now, this pipe. It is a recreation; the original is at the Smithsonian.",
+        "Come and see this pipe, a recreation."
+      ]
+    },
+    "nudges": {
+      "desk": [
+        "You haven't seen his research in the study yet.",
+        "Before you go, spend a moment with his research."
+      ],
+      "letter": [
+        "There's still the letter.",
+        "Before you leave, have a look at the letter."
+      ],
+      "photo": [
+        "You haven't seen the photograph yet.",
+        "If you have a moment, look at the Navy photograph."
+      ],
+      "pipe": [
+        "There's still the pipe.",
+        "Before you leave, have a look at the pipe."
+      ]
+    },
+    "done": [
+      "That's everything in this room.",
+      "You've seen every object here. Take your time."
+    ],
+    "rooms": {
+      "naismith-springfield-gym": {
+        "arrivals": [
+          "This is the gymnasium in Springfield. Walk around, and pick anything you'd like to hear about.",
+          "Here we are, in the gymnasium. Choose an object, and I'll tell you what we know.",
+          "Welcome to the gymnasium. Start wherever you like."
+        ],
+        "intros": {
+          "book": [
+            "Come and see the book, Basket ball.",
+            "Now, a book from 1894.",
+            "Have a look at this book with me."
+          ],
+          "basket": [
+            "Look at the basket on the floor.",
+            "Now, the peach basket. It is a recreation.",
+            "Come and see the basket."
+          ],
+          "ball": [
+            "Look at the ball beside it.",
+            "Now, the ball. It is a recreation too.",
+            "Have a look at the ball with me."
+          ],
+          "game": [
+            "Come and see this, about the first game.",
+            "Now, the first game.",
+            "Have a look at this with me."
+          ]
+        },
+        "nudges": {
+          "book": [
+            "You haven't seen the book yet.",
+            "Before you go, have a look at the book."
+          ],
+          "basket": [
+            "Don't miss the peach basket.",
+            "If you have a minute, look at the basket."
+          ],
+          "ball": [
+            "There's still the ball.",
+            "Before you leave, have a look at the ball."
+          ],
+          "game": [
+            "You haven't seen the one about the first game yet.",
+            "Before you go, look at what we know of the first game."
+          ]
+        }
+      },
+      "naismith-robinson-gym": {
+        "arrivals": [
+          "This is Robinson Gymnasium. Look around, and pick whatever catches your eye.",
+          "Here we are, in Robinson Gymnasium. Choose anything, and I'll tell you about it.",
+          "Welcome to the gymnasium in Lawrence. Start wherever you like."
+        ],
+        "intros": {
+          "paper1898": [
+            "Come and see the journal from 1898.",
+            "Now, the Topeka state journal of 1898.",
+            "Have a look at this journal with me."
+          ],
+          "paper1908": [
+            "Now, the journal from 1908.",
+            "Come and see the Topeka state journal of 1908.",
+            "Look at this journal with me."
+          ],
+          "kc1898": [
+            "Come and see the Kansas City journal of 1898.",
+            "Now, the Kansas City journal of 1898."
+          ]
+        },
+        "nudges": {
+          "paper1898": [
+            "You haven't seen the journal of 1898 yet.",
+            "Before you go, have a look at the 1898 journal."
+          ],
+          "paper1908": [
+            "There's still the journal of 1908.",
+            "Before you leave, look at the 1908 journal."
+          ],
+          "kc1898": [
+            "You haven't seen the Kansas City journal of 1898 yet.",
+            "Before you go, have a look at the Kansas City journal of 1898."
+          ]
+        }
+      },
+      "muir-martinez-study": {
+        "arrivals": [
+          "This is the study in the John Muir House. Look around, and choose anything.",
+          "Here we are, in the study. Pick an object, and I'll tell you what we know.",
+          "Welcome to the study. Start wherever you like."
+        ],
+        "intros": {
+          "portrait": [
+            "Come and see the self-portrait.",
+            "Now, the drawing on the wall.",
+            "Have a look at the self-portrait with me."
+          ],
+          "parks": [
+            "Come and see Our National Parks, of 1901.",
+            "Now, Our National Parks, of 1901."
+          ],
+          "sierra": [
+            "Come and see the Sierra Club, of 1892.",
+            "Now, the Sierra Club, of 1892."
+          ]
+        },
+        "nudges": {
+          "portrait": [
+            "You haven't seen the self-portrait yet.",
+            "Before you leave, look at the self-portrait."
+          ],
+          "parks": [
+            "You haven't seen Our National Parks, of 1901 yet.",
+            "Before you go, have a look at Our National Parks, of 1901."
+          ],
+          "sierra": [
+            "You haven't seen the Sierra Club, of 1892 yet.",
+            "Before you go, have a look at the Sierra Club, of 1892."
+          ]
+        }
+      },
+      "albright-un-security-council": {
+        "arrivals": [
+          "This is the Security Council chamber. Look around, and pick whatever catches your eye.",
+          "Here we are, in the chamber. Choose anything, and I'll tell you about it.",
+          "Welcome to the Security Council chamber. Start wherever you like."
+        ],
+        "intros": {
+          "sheet": [
+            "Come and see the contact sheet.",
+            "Now, the contact sheet.",
+            "Have a look at the contact sheet with me."
+          ],
+          "hearing": [
+            "Come and see the photograph of the hearing.",
+            "Now, the confirmation hearing.",
+            "Have a look at the hearing with me."
+          ],
+          "angola": [
+            "Come and see the photograph from Angola.",
+            "Now, the arrival in Angola.",
+            "Have a look at this photograph with me."
+          ],
+          "photo": [
+            "Here is the slide the chamber is built from.",
+            "Now, the slide itself.",
+            "Come and see the slide."
+          ],
+          "havel": [
+            "Come and look at the book from Prague.",
+            "Now, the book from Prague.",
+            "Have a look at this photograph with me."
+          ]
+        },
+        "nudges": {
+          "sheet": [
+            "You haven't seen the contact sheet yet.",
+            "Before you go, look at the contact sheet."
+          ],
+          "hearing": [
+            "Don't miss the hearing.",
+            "If you have a minute, see the confirmation hearing."
+          ],
+          "angola": [
+            "There's still the photograph from Angola.",
+            "Before you leave, see the arrival in Angola."
+          ],
+          "photo": [
+            "Don't miss the slide.",
+            "If you have a minute, see the slide."
+          ],
+          "havel": [
+            "There's still the book from Prague.",
+            "Before you leave, see the book from Prague."
+          ]
+        }
+      },
+      "lamarr-mgm-gate": {
+        "arrivals": [
+          "These are the studios in Culver City, as a photograph shows them. Look around, and choose anything.",
+          "Here we are, outside the studios. Pick something, and I'll tell you what we know.",
+          "Welcome to the studios. Start wherever you like."
+        ],
+        "intros": {
+          "portrait": [
+            "Now, a portrait from the Los Angeles Times collection.",
+            "Next, a portrait of her. It was not taken at this street front.",
+            "Have a look at this portrait with me."
+          ],
+          "star1940": [
+            "Come and see the Evening star of 1940.",
+            "Now, the Evening star of 1940."
+          ],
+          "waterbury1940": [
+            "Come and see the Waterbury Democrat of 1940.",
+            "Now, the Waterbury Democrat of 1940."
+          ]
+        },
+        "nudges": {
+          "portrait": [
+            "You haven't looked at the portrait yet.",
+            "Before you go, see the portrait."
+          ],
+          "star1940": [
+            "You haven't seen the Evening star of 1940 yet.",
+            "Before you go, have a look at the Evening star of 1940."
+          ],
+          "waterbury1940": [
+            "You haven't seen the Waterbury Democrat of 1940 yet.",
+            "Before you go, have a look at the Waterbury Democrat of 1940."
+          ]
+        }
+      },
+      "einstein-trenton-courtroom": {
+        "arrivals": [
+          "This is the courthouse in Trenton. Look around, and choose anything.",
+          "Here we are, in the courthouse. Pick something, and I'll tell you what we know.",
+          "Welcome to the courthouse. Start wherever you like."
+        ],
+        "intros": {
+          "record": [
+            "Come and see the naturalization record.",
+            "Now, the naturalization record.",
+            "Have a look at this record with me."
+          ],
+          "photo": [
+            "Come and see the photograph from 1940.",
+            "Now, this photograph.",
+            "Have a look at the photograph with me."
+          ],
+          "press1940": [
+            "Come and see the Imperial Valley press of 1940.",
+            "Now, the Imperial Valley press of 1940."
+          ]
+        },
+        "nudges": {
+          "record": [
+            "You haven't looked at the record yet.",
+            "Before you go, spend a moment with the record."
+          ],
+          "photo": [
+            "Don't miss the photograph.",
+            "If you have a minute, look at the photograph."
+          ],
+          "press1940": [
+            "You haven't seen the Imperial Valley press of 1940 yet.",
+            "Before you go, have a look at the Imperial Valley press of 1940."
+          ]
+        }
+      },
+      "einstein-mercer-street-front": {
+        "arrivals": [
+          "This is his home on Mercer Street. Look around, and choose anything.",
+          "Here we are, across from his home. Pick something, and I'll tell you what we know.",
+          "Welcome to Mercer Street. Start wherever you like."
+        ],
+        "intros": {
+          "house": [
+            "Come and look at his home.",
+            "Now, his home itself.",
+            "Have a look at his home with me."
+          ],
+          "desk": [
+            "Come and see him seated in his study.",
+            "Now, the photographs of him seated in his study.",
+            "Have a look at these photographs with me."
+          ],
+          "standing": [
+            "Come and see him standing in his study.",
+            "Now, him standing in his study, and at the window.",
+            "Have a look at these photographs with me."
+          ],
+          "article": [
+            "Come and see “Atomic War or Peace.”",
+            "Now, his article, “Atomic War or Peace.”",
+            "Have a look at this with me."
+          ],
+          "star1955": [
+            "Come and see the Evening star of 1955.",
+            "Now, the Evening star of 1955."
+          ]
+        },
+        "nudges": {
+          "house": [
+            "You haven't looked at his home yet.",
+            "Before you go, spend a moment with his home."
+          ],
+          "desk": [
+            "You haven't seen him seated in his study yet.",
+            "Before you go, look at him seated in his study."
+          ],
+          "standing": [
+            "There's still him standing in his study.",
+            "Before you leave, look at him standing in the study."
+          ],
+          "article": [
+            "You haven't seen “Atomic War or Peace” yet.",
+            "Before you go, look at his article."
+          ],
+          "star1955": [
+            "You haven't seen the Evening star of 1955 yet.",
+            "Before you go, have a look at the Evening star of 1955."
+          ]
+        }
+      },
+      "lamarr-vienna-graben": {
+        "arrivals": [
+          "This is the Graben in Vienna, as a photograph of 1902 shows it. Look around, and choose anything.",
+          "Here we are on the Graben. Pick something, and I'll tell you what we know.",
+          "Welcome to the Graben. Start wherever you like."
+        ],
+        "intros": {
+          "photo": [
+            "Here is the photograph this room is built from.",
+            "Now, the stereograph.",
+            "Have a look at the photograph with me."
+          ],
+          "paper1953": [
+            "Come and see the Evening star of 1953.",
+            "Now, the Evening star of 1953."
+          ]
+        },
+        "nudges": {
+          "photo": [
+            "There's still the photograph.",
+            "Before you leave, have a look at the stereograph."
+          ],
+          "paper1953": [
+            "You haven't seen the Evening star of 1953 yet.",
+            "Before you go, have a look at the Evening star of 1953."
+          ]
+        }
+      },
+      "naismith-almonte-high-school": {
+        "arrivals": [
+          "This is the high school in Almonte, as a photograph shows it. Look around.",
+          "Here we are, in Almonte. Take a look around.",
+          "Welcome to Almonte."
+        ],
+        "intros": {
+          "lynden": [
+            "Come and see the Lynden tribune.",
+            "Now, the Lynden tribune of 1922.",
+            "Have a look at this tribune with me."
+          ],
+          "milwaukee": [
+            "Now, the Milwaukee leader of 1930.",
+            "Come and see the Milwaukee leader.",
+            "Look at this leader with me."
+          ]
+        },
+        "nudges": {
+          "lynden": [
+            "You haven't seen the Lynden tribune yet.",
+            "Before you go, have a look at the Lynden tribune."
+          ],
+          "milwaukee": [
+            "There's still the Milwaukee leader.",
+            "Before you leave, look at the Milwaukee leader."
+          ]
+        }
+      },
+      "naismith-presbyterian-dining-hall": {
+        "arrivals": [
+          "This is the dining room of the Presbyterian College, as a photograph shows it. Look around, and pick anything.",
+          "Here we are, in the college dining room. Choose something, and I'll tell you what we know.",
+          "Welcome to the dining room. Start wherever you like."
+        ],
+        "intros": {
+          "mcgill": [
+            "Come and see this, about McGill.",
+            "Now, at McGill.",
+            "Have a look at this with me."
+          ]
+        },
+        "nudges": {
+          "mcgill": [
+            "You haven't seen the one about McGill yet.",
+            "Before you go, look at what we know of McGill."
+          ]
+        }
+      },
+      "naismith-hall-of-fame": {
+        "arrivals": [
+          "These are the Hall of Fame grounds, as photographs of 2019 show them. Look around, and pick anything.",
+          "Here we are, on the Hall of Fame grounds. Choose something, and I'll tell you what we know.",
+          "Welcome to the Hall of Fame grounds. Start wherever you like."
+        ],
+        "intros": {
+          "photo": [
+            "Here is the photograph these grounds are built from.",
+            "Now, the photograph of 2019.",
+            "Have a look at the photograph with me."
+          ],
+          "star1959": [
+            "Come and see the Evening star of 1959.",
+            "Now, the Evening star of 1959."
+          ],
+          "star1961": [
+            "Come and see the Evening star of 1961.",
+            "Now, the Evening star of 1961."
+          ]
+        },
+        "nudges": {
+          "photo": [
+            "There's still the photograph.",
+            "Before you leave, have a look at the photograph."
+          ],
+          "star1959": [
+            "You haven't seen the Evening star of 1959 yet.",
+            "Before you go, have a look at the Evening star of 1959."
+          ],
+          "star1961": [
+            "You haven't seen the Evening star of 1961 yet.",
+            "Before you go, have a look at the Evening star of 1961."
+          ]
+        }
+      },
+      "muir-north-hall": {
+        "arrivals": [
+          "This is North Hall in Madison, as a photograph of about 1885 shows it. Look around, and pick anything.",
+          "Here we are, in Madison. Choose something, and I'll tell you what we know.",
+          "Welcome to North Hall. Start wherever you like."
+        ],
+        "intros": {
+          "clock": [
+            "Come and see the clock design.",
+            "Now, the drawing of a clock.",
+            "Have a look at the clock design with me."
+          ],
+          "star": [
+            "Come and see the star hand.",
+            "Now, the star hand.",
+            "Have a look at the star hand with me."
+          ],
+          "thermometer": [
+            "Come and see the combined thermometer.",
+            "Now, the combined thermometer."
+          ]
+        },
+        "nudges": {
+          "clock": [
+            "There's still the clock design.",
+            "Before you leave, look at the clock design."
+          ],
+          "star": [
+            "You haven't seen the star hand yet.",
+            "Before you go, look at the star hand."
+          ],
+          "thermometer": [
+            "You haven't seen the combined thermometer yet.",
+            "Before you go, have a look at the combined thermometer."
+          ]
+        }
+      },
+      "muir-hutchings-house": {
+        "arrivals": [
+          "This is a room of the Hutchings House, as a photograph of about 1902 shows it. Look around, and pick anything.",
+          "Here we are, in Yosemite Valley. Choose something, and I'll tell you what we know.",
+          "Welcome to the Hutchings House. Start wherever you like."
+        ],
+        "intros": {
+          "register": [
+            "Come and see the Grand Register.",
+            "Now, the register on the wall.",
+            "Have a look at the register with me."
+          ],
+          "fern": [
+            "Come and see the fern sheet.",
+            "Now, the sheet on the wall.",
+            "Have a look at the fern sheet with me."
+          ],
+          "summer": [
+            "Come and see My first summer in the Sierra.",
+            "Now, My first summer in the Sierra."
+          ]
+        },
+        "nudges": {
+          "register": [
+            "There's still the Grand Register.",
+            "Before you leave, see the register."
+          ],
+          "fern": [
+            "You haven't seen the fern sheet yet.",
+            "Before you go, look at the fern sheet."
+          ],
+          "summer": [
+            "You haven't seen My first summer in the Sierra yet.",
+            "Before you go, have a look at My first summer in the Sierra."
+          ]
+        }
+      },
+      "muir-hetch-hetchy": {
+        "arrivals": [
+          "This is the Hetch Hetchy Valley, as a panorama of about 1911 shows it. Look around, and pick anything.",
+          "Here we are, in the Hetch Hetchy Valley. Choose something, and I'll tell you what we know.",
+          "Welcome to the Hetch Hetchy Valley. Start wherever you like."
+        ],
+        "intros": {
+          "photo": [
+            "Here is the panorama the valley is built from.",
+            "Now, the panorama itself.",
+            "Come and see the panorama."
+          ],
+          "call": [
+            "Come and see Let everyone help to save Hetch-Hetchy.",
+            "Now, Let everyone help to save Hetch-Hetchy."
+          ]
+        },
+        "nudges": {
+          "photo": [
+            "There's still the panorama.",
+            "Before you leave, see the panorama."
+          ],
+          "call": [
+            "You haven't seen Let everyone help to save Hetch-Hetchy yet.",
+            "Before you go, have a look at Let everyone help to save Hetch-Hetchy."
+          ]
+        }
+      },
+      "albright-ss-america": {
+        "arrivals": [
+          "This is a liner's tourist lounge, as a photograph of 1940 shows it. Look around, and pick anything.",
+          "Here we are, in the tourist lounge. Choose something, and I'll tell you what we know.",
+          "Welcome to the tourist lounge. Start wherever you like."
+        ],
+        "intros": {
+          "photo": [
+            "Here is the photograph of the lounge.",
+            "Now, the photograph itself.",
+            "Come and see the photograph."
+          ],
+          "resolution": [
+            "Come and see S. Res. 585, of 2022.",
+            "Now, S. Res. 585, of 2022."
+          ]
+        },
+        "nudges": {
+          "photo": [
+            "Don't miss the photograph.",
+            "If you have a minute, see the photograph."
+          ],
+          "resolution": [
+            "You haven't seen S. Res. 585, of 2022 yet.",
+            "Before you go, have a look at S. Res. 585, of 2022."
+          ]
+        }
+      },
+      "albright-archives-rotunda": {
+        "arrivals": [
+          "This is the Rotunda of the National Archives, as photographs of September 14, 2016 show it. Look around, and pick anything.",
+          "Here we are, in the Rotunda. Choose something, and I'll tell you what we know.",
+          "Welcome to the Rotunda. Start wherever you like."
+        ],
+        "intros": {
+          "remarks": [
+            "Come and see the photographs of the ceremony.",
+            "Now, the photographs of the naturalization ceremony.",
+            "Have a look at these photographs with me."
+          ]
+        },
+        "nudges": {
+          "remarks": [
+            "Don't miss the photographs of the ceremony.",
+            "If you have a minute, see the photographs of the ceremony."
+          ]
+        }
+      },
+      "muir-dunbar-high-street": {
+        "arrivals": [
+          "This is High Street, Dunbar, as a photograph shows it. Look around, and pick anything.",
+          "Here we are, on High Street. Choose something, and I'll tell you what we know.",
+          "Welcome to High Street, Dunbar. Start wherever you like."
+        ],
+        "intros": {
+          "passport": [
+            "Here is the passport application.",
+            "Now, an application from 1903.",
+            "Have a look at the application with me."
+          ],
+          "boyhood": [
+            "Come and see The story of my boyhood and youth.",
+            "Now, The story of my boyhood and youth."
+          ]
+        },
+        "nudges": {
+          "passport": [
+            "There's still the passport application.",
+            "Before you leave, see the application."
+          ],
+          "boyhood": [
+            "You haven't seen The story of my boyhood and youth yet.",
+            "Before you go, have a look at The story of my boyhood and youth."
+          ]
+        }
+      },
+      "albright-oval-office-1993": {
+        "arrivals": [
+          "This is the Oval Office, as photographs of April 1993 show it. Look around, and pick anything.",
+          "Here we are, in the Oval Office. Choose something, and I'll tell you what we know.",
+          "Welcome to the Oval Office. Start wherever you like."
+        ],
+        "intros": {
+          "frame": [
+            "Here is the photograph the room is built from.",
+            "Now, the Oval Office on April 20, 1993.",
+            "Come and see the photograph of April 20, 1993."
+          ],
+          "photo": [
+            "Here is the swearing-in, 1997.",
+            "Now, the photograph of the swearing-in.",
+            "Come and see the swearing-in."
+          ],
+          "memo": [
+            "Have a look at the memorandum.",
+            "Now, a memorandum for the President.",
+            "Come and see the memorandum."
+          ],
+          "korea": [
+            "Look at the photograph from Panmunjom.",
+            "Now, Panmunjom, 1997.",
+            "Come and see Panmunjom."
+          ],
+          "wye": [
+            "Look at the photograph from Wye River.",
+            "Now, Wye River, 1998.",
+            "Come and see Wye River."
+          ]
+        },
+        "nudges": {
+          "frame": [
+            "There's still the photograph of April 20, 1993.",
+            "Before you leave, see the photograph."
+          ],
+          "photo": [
+            "There's still the swearing-in.",
+            "Before you leave, see the swearing-in."
+          ],
+          "memo": [
+            "There's still the memorandum.",
+            "Before you leave, see the memorandum."
+          ],
+          "korea": [
+            "You haven't seen Panmunjom yet.",
+            "Before you go, see Panmunjom."
+          ],
+          "wye": [
+            "You haven't seen Wye River yet.",
+            "Before you go, see Wye River."
+          ]
+        }
+      },
+      "albright-east-room-2012": {
+        "arrivals": [
+          "This is the East Room, as photographs of May 29, 2012 show it. Look around, and pick anything.",
+          "Here we are, in the East Room. Choose something, and I'll tell you what we know.",
+          "Welcome to the East Room. Start wherever you like."
+        ],
+        "intros": {
+          "photo": [
+            "Here is the photograph of the ceremony.",
+            "Now, the ceremony itself, May 29, 2012.",
+            "Come and see the photograph of the ceremony."
+          ],
+          "remarks": [
+            "Come and see the President’s remarks of 2012.",
+            "Now, the President’s remarks of 2012."
+          ]
+        },
+        "nudges": {
+          "photo": [
+            "There's still the photograph of the ceremony.",
+            "Before you leave, see the ceremony."
+          ],
+          "remarks": [
+            "You haven't seen the President’s remarks of 2012 yet.",
+            "Before you go, have a look at the President’s remarks of 2012."
+          ]
+        }
+      },
+      "lamarr-vienna-central-cemetery": {
+        "arrivals": [
+          "This is the Vienna Central Cemetery, as a postcard of around 1905 shows it. Look around, and pick anything.",
+          "Here we are, in the Vienna Central Cemetery. Choose something, and I'll tell you what we know.",
+          "Welcome to the Vienna Central Cemetery. Start wherever you like."
+        ],
+        "intros": {
+          "photo": [
+            "Here is the courtroom, 1946.",
+            "Now, a photograph from 1946.",
+            "Come and see the courtroom photograph."
+          ],
+          "file": [
+            "Here is the naturalization file.",
+            "Now, her naturalization file.",
+            "Come and see the naturalization file."
+          ],
+          "paper1953": [
+            "Come and see the Evening star of 1953.",
+            "Now, the Evening star of 1953."
+          ]
+        },
+        "nudges": {
+          "photo": [
+            "There's still the courtroom photograph.",
+            "Before you leave, see the courtroom."
+          ],
+          "file": [
+            "There's still the naturalization file.",
+            "Before you leave, see the naturalization file."
+          ],
+          "paper1953": [
+            "You haven't seen the Evening star of 1953 yet.",
+            "Before you go, have a look at the Evening star of 1953."
+          ]
+        }
+      },
+      "einstein-gothenburg-lecture-hall": {
+        "arrivals": [
+          "This is a lecture hall in Gothenburg. Look around, and pick anything.",
+          "Here we are, in the lecture hall. Choose something, and I'll tell you what we know.",
+          "Welcome to the lecture hall. Start wherever you like."
+        ],
+        "intros": {
+          "photo": [
+            "Come and see him at his lecture, in the photographs.",
+            "Now, the photographs of his lecture.",
+            "Have a look at these photographs with me."
+          ],
+          "relativity": [
+            "Come and see his relativity paper.",
+            "Now, his paper of 1905.",
+            "Have a look at the relativity paper with me."
+          ],
+          "light": [
+            "Look at his paper on light.",
+            "Now, his paper on light, from 1905.",
+            "Have a look at the paper on light with me."
+          ]
+        },
+        "nudges": {
+          "photo": [
+            "You haven't seen the photographs of his lecture yet.",
+            "Before you go, look at the photographs."
+          ],
+          "relativity": [
+            "There's still his relativity paper.",
+            "Before you leave, look at the paper of 1905."
+          ],
+          "light": [
+            "Don't miss his paper on light.",
+            "If you have a minute, look at the paper on light."
+          ]
+        }
+      }
+    }
+  }
+}

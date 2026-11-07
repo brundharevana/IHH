@@ -1,0 +1,732 @@
+_version_: 1774111028487913472
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn91068401/1939-11-28/ed-1/
+aka[1]: http://www.loc.gov/resource/sn91068401/1939-11-28/ed-1/
+batch[0]: ncu_jordan_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/north carolina/
+composite_location[2]: 2/united states/north carolina/vance/
+composite_location[3]: 3/united states/north carolina/vance/henderson/
+contributor_names[0]: University of North Carolina at Chapel Hill Library, Chapel Hill, NC
+contributors[0].university of north carolina at chapel hill library, chapel hill, nc: https://www.loc.gov/search/?fa=contributor:university+of+north+carolina+at+chapel+hill+library,+chapel+hill,+nc&fo=json
+created_published[0]: Henderson, N.C., November 28, 1939
+date: 1939-11-28
+date_issued: 1939-11-28
+dates[0].1939-11-28: https://www.loc.gov/search/?dates=1939-11-28/1939-11-28&fo=json
+dates_of_publication: 1914-1995
+description[0]: Henderson, N.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-08-12T17:37:16.356Z
+extract_urls[0]: file:/service/ndnp//ncu/batch_ncu_jordan_ver01/data/sn91068401/0033289285A/1939112801/1939112801_1.xml#ndnp/ncu
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ncu
+group[1]: university-of-north-carolina-chapel-hill-library-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn91068401/1939-11-28/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jordan_ver01:data:sn91068401:0033289285A:1939112801:0393/full/pct:3.125/0/default.jpg#h=294&w=223
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jordan_ver01:data:sn91068401:0033289285A:1939112801:0393/full/pct:6.25/0/default.jpg#h=588&w=447
+image_url[2]: https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jordan_ver01:data:sn91068401:0033289285A:1939112801:0393/full/pct:12.5/0/default.jpg#h=1177&w=894
+index: 1
+item.batch[0]: ncu_jordan_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: University of North Carolina at Chapel Hill Library, Chapel Hill, NC
+item.created_published[0]: Henderson, N.C., November 28, 1939
+item.date: 1914
+item.date_issued: 1939-11-28
+item.dates[0]: 1939-11-28
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn91068401
+item.location[0]: Henderson (N.C.)
+item.location[1]: Vance County (N.C.)
+item.location[2]: North Carolina--Henderson
+item.location[3]: North Carolina--Vance County
+item.medium: 8 pages
+item.newspaper_title[0]: Henderson daily dispatch
+item.notes[0]: Daily (except Sunday)
+item.notes[1]: Began in 1914.
+item.notes[2]: -v. 82, no. 79 (Apr. 1, 1995).
+item.notes[3]: Issue for Mar. 8, 1932 called: All-Women's Work Edition.
+item.notes[4]: Vols. for Aug. 14, 1930- dropped vol. numbering.
+item.notes[5]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[6]: Description based on: 3rd yr., no. 15 (Aug. 29, 1916).
+item.notes[7]: Daily dispatch (Henderson, N.C.) (DLC)sn 97064551
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ncu/batch_ncu_jordan_ver01/data/sn91068401/0033289285A/1939112801/1939112801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn91068401/marcxml
+item.other_title[0]: Henderson, N.C. daily dispatch
+item.place_of_publication: Henderson, N.C.
+item.raw_lccn: sn 91068401
+item.reel_numbers[0]: 0033289285a
+item.source_group: ndnp/ncu
+item.subjects[0]: Henderson (N.C.)--Newspapers
+item.subjects[1]: Vance County (N.C.)--Newspapers
+item.subjects[2]: North Carolina--Henderson
+item.subjects[3]: North Carolina--Vance County
+item.subjects[4]: United States--North Carolina--Vance--Henderson
+item.title: Henderson daily dispatch (Henderson, N.C.), November 28, 1939
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn91068401
+location[0]: united states
+location[1]: henderson
+location[2]: vance
+location[3]: north carolina
+location[4]: vance county
+location_city[0]: henderson
+location_country[0]: united states
+location_county[0]: vance
+location_state[0]: north carolina
+locations[0].henderson: https://www.loc.gov/search/?fa=location:henderson&fo=json
+locations[1].north carolina: https://www.loc.gov/search/?fa=location:north+carolina&fo=json
+locations[2].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[3].vance: https://www.loc.gov/search/?fa=location:vance&fo=json
+locations[4].vance county: https://www.loc.gov/search/?fa=location:vance+county&fo=json
+locations_city[0].henderson: https://www.loc.gov/search/?fa=location_city:henderson&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].vance: https://www.loc.gov/search/?fa=location_county:vance&fo=json
+locations_state[0].north carolina: https://www.loc.gov/search/?fa=location_state:north+carolina&fo=json
+medium: 8 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Henderson daily dispatch
+notes[0]: Daily (except Sunday)
+notes[1]: Began in 1914.
+notes[2]: -v. 82, no. 79 (Apr. 1, 1995).
+notes[3]: Issue for Mar. 8, 1932 called: All-Women's Work Edition.
+notes[4]: Vols. for Aug. 14, 1930- dropped vol. numbering.
+notes[5]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[6]: Description based on: 3rd yr., no. 15 (Aug. 29, 1916).
+notes[7]: Daily dispatch (Henderson, N.C.) (DLC)sn 97064551
+number[0]: 0033289285a
+number[1]: 1
+number[2]: sn91068401
+number_edition[0]: 1
+number_lccn[0]: sn91068401
+number_reel[0]: 0033289285a
+numeric_shelf_id: 193911281
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ncu/batch_ncu_jordan_ver01/data/sn91068401/0033289285A/1939112801/1939112801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn91068401/marcxml
+other_title[0]: Henderson, N.C. daily dispatch
+partof[0].count: 4847
+partof[0].title: henderson daily dispatch (henderson, n.c.) 1914-1995
+partof[0].url: https://www.loc.gov/search/?fa=partof:henderson+daily+dispatch+%28henderson,+n.c.%29+1914-1995&fo=json
+partof[1].count: 3210938
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232450
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: henderson daily dispatch (henderson, n.c.) 1914-1995
+place_of_publication: Henderson, N.C.
+publication_frequency[0]: daily
+raw_lccn: sn 91068401
+reel_numbers[0]: 0033289285a
+resources[0].files: 8
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jordan_ver01:data:sn91068401:0033289285A:1939112801:0393/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn91068401/1939-11-28/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.331948
+shard: 06
+shelf_id: sn91068401, 1939-11-28, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ncu
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: united states
+subject[1]: vance county (n.c.)
+subject[2]: newspapers
+subject[3]: henderson
+subject[4]: henderson (n.c.)
+subject[5]: vance
+subject[6]: north carolina
+subject[7]: vance county
+subject_headings[0]: Henderson (N.C.)--Newspapers
+subject_headings[1]: Vance County (N.C.)--Newspapers
+subject_headings[2]: North Carolina--Henderson
+subject_headings[3]: North Carolina--Vance County
+subject_headings[4]: United States--North Carolina--Vance--Henderson
+subjects[0].henderson: https://www.loc.gov/search/?fa=subject:henderson&fo=json
+subjects[1].henderson (n.c.): https://www.loc.gov/search/?fa=subject:henderson+%28n.c.%29&fo=json
+subjects[2].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[3].north carolina: https://www.loc.gov/search/?fa=subject:north+carolina&fo=json
+subjects[4].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[5].vance: https://www.loc.gov/search/?fa=subject:vance&fo=json
+subjects[6].vance county: https://www.loc.gov/search/?fa=subject:vance+county&fo=json
+subjects[7].vance county (n.c.): https://www.loc.gov/search/?fa=subject:vance+county+%28n.c.%29&fo=json
+timestamp: 2023-08-13T10:55:15.256Z
+title: Henderson daily dispatch (Henderson, N.C.), November 28, 1939
+type[0]: issue
+url: https://www.loc.gov/item/sn91068401/1939-11-28/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_jordan_ver01/data/sn91068401/0033289285A/1939112801/0393.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn91068401/1939-11-28/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jordan_ver01:data:sn91068401:0033289285A:1939112801:0393/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ncu/batch_ncu_jordan_ver01/data/sn91068401/0033289285A/1939112801/0393.pdf
+resources[0].segment_count: 8
+resources[0].url: https://www.loc.gov/resource/sn91068401/1939-11-28/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1939, November 28) Henderson Daily Dispatch. Retrieved from the Library of Congress, https://www.loc.gov/item/sn91068401/1939-11-28/ed-1/.
+cite_this.chicago: Henderson Daily Dispatch. (Henderson, NC), Nov. 28 1939. https://www.loc.gov/item/sn91068401/1939-11-28/ed-1/.
+cite_this.mla: Henderson Daily Dispatch. (Henderson, NC) 28 Nov. 1939, p. 1. Retrieved from the Library of Congress, www.loc.gov/item/sn91068401/1939-11-28/ed-1/.
+
+segment_id: /service/ndnp/ncu/batch_ncu_jordan_ver01/data/sn91068401/0033289285A/1939112801/0393.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ncu/batch_ncu_jordan_ver01/data/sn91068401/0033289285A/1939112801/0393.xml&format=alto_xml&full_text=1
+full_text:
+()]'K SILVER
+vXXIVERSARY
+11914-1939
+rv, E> TY-SIXTH YEAR
+BERMANS CLAIM 818 BRITISH BATTLESHIP
+N ext Year’s Crop Allotments
+Announced Same As For 1939,
+With Few Particular Changes
+payments In
+Some Cases
+To Be Less
+Acreage Goals Low
+ered For Tobacco But
+Same For Cotton;
+Wheat Quotas Larger
+But Payments Less;
+Corn Is Cut,
+n. Nov. 28.—(AP)—The
+Adjustment Adminis
+y >-et the 1940 goal for
+4 crops at 270,000.000 to
+icres. the same as this
+inn-eased the aci-eage for
+1 cut the rate of soil con
+payments'on that grain to
+a bushel from this year’s
+t creage goal was lowered
+nd the payments to coop
+armors set ut ten cents a
+mpared with nine cents this
+VrT:"
+a acreage was unchanged,
+rate lowered to 1.6 cents a
+rom 1.8 cents.
+ge goals were l-aised also for
+d type 41 Georgia-Florida
+tobacco. They were lowered
+■.ut s and hurley, flue-cured
+and dark air-cured tobacco,
+r as authorized funds per
+il R. AT. Evans, AAA admin
+"the 1940 program continues
+t its of farmers toward abun
+e for the nation’s consumers,
+.ation of our vital soil resour
+:.d parity income from agricul
+‘rmal yields, officials said, the
+i'A pmgram would provide ample
+(Continued on Page Seven!
+FDR’s Wife
+Not Likely
+To Testify
+ngton, Nov. 28.—(AP)—Re
+hive Starnes, Democrat, Ala
+cting chairman, said today
+v of no questions, which the
+committee on un-American
+had to ask Mrs. Franklin
+<~evelt, but “if she or any one
+any light to shed on sub
+•ictivities, of course, we would
+u >d to hear her.”
+e absence of Chairman Dies,
+at, Texas, who was at home
+a. he committee put off a de
+on calling the first lady, who
+'erday, she would be willing
+y she had information help
+the investigation,
+aes said “it is all up to the
+an.”
+•id Mrs. Roosevelt testify, she
+t a precedent in congression
+b'ontinued on Page Seven)
+Insistent Demands Heard
+For Federal Expense Cut
+K.v IIARLES P. STEWART
+ntral Press Columnist
+ion, Nov. 28. —Senator
+Adams of Colorado is not
+olon who has expressed
+himself in favor of
+closer congression
+V
+T
+
+k
+ft.
+mil
+Se,luto Adams
+al control over
+govern ment ex
+penditures. How
+ever, he’s a Dem
+ocrat, which adds
+somewhat to the
+significance of his
+.implied suggestion
+that maybe quite a
+few cf our national
+executive depart
+ments and othei
+agencies have been
+a bit excessive in
+mds for public money. Re
+lawmakers are expected to
+Mnthrrsmi Bath? Dtspatrlr
+ONLY DAILY NEWSPAPER PUBLISHED IN THIS SECTION OF NORmCAROLINA AND VIRGINIA
+WIRE SERVICE
+the associ a ted press
+They Seek Her Immortality
+Here is Baby Jean, the five-months-old baby adopted by James B. Schafer,
+master metaphysician, who predicts that if plans work out Jean will live
+forever. Plans call for Baby Jean to refrain front meats (including eggs,
+milk and butter) and never to hear the words “sickness” or “death.”
+Forty master metaphysicians, whose headquarters are in Oakdale, L. L,
+are cooperating in the “eternal life” program.
+British Navy
+Cleared Out,
+Germans Say
+Its Threat Removed
+From North Sea And
+North Atlantic, Ber
+lin Experts Claim;
+Supremacy in Air
+Over France, Eng
+land Claimed.
+Berlin, Nov. 28.—(AP)—The Bri
+tish fleet, in the opinion of German
+military experts, now has been clear
+ed, not only from the North Sea, but
+.also from the North Atlantic.
+Authoritative commentators said
+that the British “auxiliary cruiser”
+Rawalpindi, destroyed in a naval en
+gagement off the coast of Iceland,
+was discovered absolutely alone be
+tween the Faroe Islands and Green
+land. Moreover, they quoted 26
+Rawalpindi crewmen, whose rescue
+(Continued on Page Two)
+be critical of a Democratic admin
+istration’s spending. It counts more
+when a Democratic legislator hints
+that he thinks there’s been extrava
+gance on the part of a Democratic
+executive regime.
+When an executive outfit has cal
+culated how much it needs to carry
+it through an ensuing fiscal year it
+turns its figures over to the budget
+bureau. The budget bureau, in turn,
+having assembled all these estimates,
+refers them to Congress, requesting
+corresponding appropriations.
+Suppose the Navy Department, il
+lustratively, makes an application for
+a financial allowance. It’s a depart
+ment which. is answerable directly
+to the WhiTe House. Therefore it’s
+presumable that its plea has presi
+dential indorsement. The budget bu
+reau likewise is of presidential crea
+(Continued on Page Three.)
+HENDERSON, N. C., TUESDAY AFTERNOON, NOVEMBER 28, 1939
+Asheville Is Host
+Tomorrow to FDR
+Asheville, Nov. 28. —(AP)
+White House secret service agents
+worked out final details here to
+day for the visit to Asheville to
+morrow of President Roosevelt,
+who will stop here enroute from
+Warm Springs, Ga., to Washing
+ton.
+The President is expected to ar
+rive here at 6:10 p. m. tomorrow
+and will depart at 8 p. m. He will
+visit Marvin Mclntyre, one of his
+secretaries, and Miss Margaret
+Durand, former secretary of the
+late Louis Howe.
+Horton Scoffs
+At Rumor Os
+Withdrawal
+In the Sir Walter Hofei,
+Daily Disoatcli Bureau.
+Raleigh, Nov. 28.—Rumors that he
+will withdraw from his unannounced
+candidacy for the governorship drew
+from Lieutenant Governor Wilkins
+P. Horton, here on business, a denial
+that he will be influenced in his de
+cision by “what this group, or that
+group or any other gi'oup does about
+my running.”
+“I am still in the race as much as
+I ever was”, was the somewhat
+oracular summing up of the Horton
+statement with refernce to the re
+ports.
+Naturally this settles nothing
+whatsoever as to the certainly of
+the Horton intentions. He has never.
+said for publication that he is in the
+race. He has never said he isn’t. From
+all of which there can be logically
+deduced one of two conclusions, to
+wit: (1) Horton will run for gover
+nor or (2) Horton will not run for
+governor.
+That’s where we came in, and it
+seems that no matter how long we
+hang around, that’s just about where
+we land in speculating on this gov
+ernorship race.
+There was one thing, though,
+standing out clearly and distinctly
+in the lieutenant governor’s talk and
+demeanor. He isn’t going to quit the
+race because he fears he will not
+have administration support. That’s
+where the part about not letting
+himself be influenced by “what any
+group does” comes into the picture.
+The Number Two Tar Heel is a
+rather positive and steadfast person,
+even his political opponents concede
+that, and he spoke with an air of
+(Continued on Page Two)
+Big Cruiser
+Torpedoed,
+Berlin Says
+London Denies Sink
+ing in Note to Editors
+Declaring There Is no
+Truth in “Rumor”;
+Warships Admittedly
+Lost Listed.
+Berlin, Nov. 28. (AP)
+The German high command
+announced today that a British
+heavy cruiser had been tor
+pedoed and destroyed in the
+North Sea east of the Shetland
+Islands by the same submarine
+commander whose sinking of
+the battleship Royal Oak Octo
+ber 14 made him a German na
+tional hero.
+A communique said the British
+vessel was of the London class —32-
+knot ships of nearly 10,000 tons. It
+named Lieutenant-Captain Guenther
+Prien, 31-year-old U-boal command
+er, who slipped into Scapa Flow past
+British mine fields and obstructions
+to sink the Royal Oak as skipper of
+the submarine, which torpedoed the
+ci'uiser.
+Meanwhile, the German press still
+was citing the sinking of the British
+armed merchantman Rawalpindi
+November 23 off the coast of Iceland
+as evidence ol German mastery of
+the North Atlantic.
+(The London, one of four sister
+ships, displaces 9,850 tons, carries
+eight 8-inch guns, and has a normal
+complement of 650 men.)
+Britain has acknowledged the loss
+of eight warships since the start of
+the war: The merchant cruiser
+Rawalpindi, the*destroyer Gypsy, the
+aircraft carrier Courageous, the bat
+tleship Royal Oak, and an unnamed
+destroyer; the submarine Oxley, the
+auxiliary vessel Northern Rover, and
+the mine sweeping trawler Mastiff.
+Britain has acknowledged damage
+to the 9,100-ton cruiser Southamop—
+ton in an air raid on the Firth of
+Forth October 1, and the 10,000-ton
+cruiser Belfast November 21 by
+(Continued on Page Two)
+Lawyers In
+Wordy Duel
+In Kuhn Case
+New York, Nov. 28.—(AP)—As
+sistant District Attorney Herman J.
+McCarthy, summing up for the
+State today at the larceny trial of
+Fritz Kuhn, He attacked Kuhn’s
+counsel, Peter L. Sabbatino, as “a
+caliban of ethics”.
+McCarthy replied to Sabbatino’s
+intimation, made yesterday, that
+McCarthy kept a “tryst” in Miami
+with Mrs. Florence Camp, the “gol
+den angel” of Kuhn’s love letters.
+Mrs. Camp testified for the State.
+“This caliban of ethics hasn’t yet
+learned the prime requisite of a
+gentleman or a lawyer—decency,”
+the young prosecutor declared,
+looking directly at Sabbatino, a for
+mer city magistrate.
+Sabbatino argued in his summa
+tion yesterday that Kuhn, though
+he might have fallen in love with
+Mrs. Camp, was not the first mar
+ried man to fall in love with anoth
+er woman. But McCarthy told the
+jury he would keep to the records.
+The State, he said, charged that
+Kuhn stole SSOO listed in the bund
+ledgers as having been paid to
+James D. C. Murray, lawyer, for
+services in a criminal action against
+bund members.
+Kuhn is also accused of stealing
+$717.02 which the State contends
+paid Mrs. Camp’s moving expenses.
+Shopping
+©Ays TILL
+FOR NORTH CAROLINA.
+Fair tonight and Wednesday
+not much change in tempera
+ture.
+Sea Lanes Are Free And Open
+Despite Activity Os Germans,
+King George Assures Empire
+U. S. Increases Air Defenses
+
+v- V
+4
+IPH Iw i
+National Guardsmen of B&ttery D, 212th Coast Artillery, load one of
+three new anti-aircraft guns added to New York City’s defenses, during
+winter practice at Fort Tilden. The government has ordered 325 of the
+three-inch weapons, which fire thirty 28-pound shrapnel projectiles a
+minute, each containing 253 half-inch lead pellets.
+Finland Will Negotiate
+But Won’t Capitulate
+Answer to Soviet De
+mands For Tr 9 o p
+Withdrawals F rom
+Border Leaves Door
+Open; Offers to Re
+tire if Russians Do
+Also.
+Helsinki, Nov. 28. —(AP) —Finland
+left the door open today for arbitra
+tion of growing differences with
+Soviet Russia, while apparently de
+termined to refuse her mighty neigh
+bor any one-sided concessions which
+might jeopardize her own defenses.
+Denying alleged “hostile actions”
+toward Russia, the government last
+night notified Moscow it is ready to
+meet Soviet demands for withdrawal
+of Finnish Woops along part of their
+common border, on condition that
+i'ed army forces likewise retire.
+In a note addressed to the Krem
+lin, Foreign Minister Eljas Frkko
+suggested that the pi’oposal be re
+feired to a joint commission estab
+lished in 1938 to consider frontier
+problems. Erkko’s note replied to an
+ultimatum-like message from Soviet
+Premier-Foreign Commissar Molo
+toff protesting an alleged “border
+incident” Sunday, in which the Rus
+sians said 13 red army soldiers were
+killed or wounded by Finnish artil
+lery fire on the Karelian isthmus.
+Molotoff requested that Finnish
+(Continued on Page Three)
+Man Who Invented
+Basketball Passes
+Os Heart Disease
+Lawrence, Kans. Nov. 28.—(AP)
+—Dr. James A. Naisith, 78, inven
+tor of basketball, died at 1:50 a. m.
+today of heart disease following a
+cerebral hemorrhage.
+Dr. Naismith, professor emeritus
+of physical education at Kansas
+University, suffered a critical hemor
+rhage November 19. but rallied and
+returned home from a hospital last
+Wednesdav. He was stricken again
+Friday with a heart attack.
+With two peach baskets as equip
+ment, Dr. Naismith originated bas
+ketball in 1891 as a winter sport for
+youth at the Springfield, Mass., Y.
+M. C. A. training school. There were
+nine men on a team and baskets
+were on the floor. Later, he elevated
+the baskets, reduced the number of
+players and established rules which
+have been changed but little in the
+intervening years.
+PUBLISHED EVERY AFTERNOON
+EXCEPT SUNDAY.
+Truck Rates
+Attacked By
+Other Lines
+Washington. Nov. 28. (AP)
+Nearly 50 railroads and steamship
+companies participating in joint rates
+between North Atlantic ports and in
+terior southeastern points today
+branded as “unreasonably and un
+necessarily low” the rates of com
+peting motor carriers.
+The companies petitioned the In
+terstate Commerce Commission for
+an investigation with a view to es
+tablishing minimum truck rates high
+er than the ocean mail rates. The
+rates of motor carriers, the commis
+sion said, “have the effect of de
+priving the water-rail carriers of a
+fair and reasonable opportunity to
+compete for this traffic.”
+The tei'ritory involved embraces
+the ports of Boston, Providence, New
+York, Philadelphia and Baltimore, on
+the one hand, and the states of Vir
+ginia, North Carolina, South Cai'o
+lina, Florida, George, Alabama and
+Tennessee, on the other.
+The petition said the truck rates
+generally are as low as or lower than
+the joint water-rail rates.
+RUSSIA BREAKS
+FINNISH TREATY
+Helsinki, Nov. 28. (AP) —A foreign office spokesman
+announced tonight that Russia had denounced her non-ag
+gression pact with Finland in a note handed to the Finnish
+minister in Moscow.
+Soviet Russia and Finland concluded their non-aggression
+pact in 1932, and supplemented it the following year with an
+agreement defining an aggressor. Subsequent pacts in 1937 and
+1938 pledged them to good neighbor relations, and defined the
+Finnish-Soviet frontier.
+The Soviet action, though re
+ceived with outward calm by the
+foreign office, shocked Finland
+more than any other single step in
+the “war of nerves,” which mounted
+in the Baltic region after the Ger-
+8 PAGES
+TODAY
+FIVE gENTS COPY
+Parliament
+Is Opened
+By Monarch
+Blockade Against
+German Exports De
+layed Few Days; Ra
+tioning Not to Start
+Until After Christ
+mas; Finnish Row
+Worries,
+London, Nov. 28.—(AP) King
+George assured the British Empire
+today that the Royal Navy was keep
+ing the sea lanes tree and open, de
+spite the sinking of the armed Bri
+tish merchantman Rawalpindi by two
+German warships, and recent heavy
+shipping losses.
+The monarch’s assurance was given
+in a speech opening the first war ses
+sion of Parliament as the conflict
+with Germany brought these devel
+opments:
+1. An authoritative statement said
+that application of the British-French
+blockade against German exports
+would be delayed until December 4
+and perhaps a week longer to soften
+the blow to neutral shippers.
+2. Britain manifested concern over
+the Finnish-Soviet frontier dispute.
+3. It was announced that a British
+auxiliary cruiser landed 73 German
+prisoners, including 12 officers, at a
+Scottish port; they were understood
+to be the survivors of a sunken sub
+(Continued on Page Three.)
+Blockade Os
+Germany Is
+Tightened Up
+London, Nov. 28. (AP)
+The British government tonight
+issued a formal order in coun
+cil extending the naval block
+ade to Germany’s exports, ef
+fective December 4. The order
+is entitled: “Reprisals restrict
+ing German commerce.”
+The delay in application of
+the order, which was signed by
+King George yesterday, was
+understood to give neutral ship
+pers an opportunity to make ar
+rangements to avoid undue
+hardships.
+The new order provides that
+a merchant vessel which sails
+from an enemy port or other
+port after December 4, and
+“having on hoard goods which
+are of enemy origin, or are
+enemy property, may be re
+quired to discharge such goods
+in a British or Allied port.”
+Such goods will be placed in
+custody of the marshal of a
+prize court, and, unless the
+court orders that they be re
+quistioned for the use of Ilis
+Majesty, shall be detained or
+sold under direction of the
+court. The proceeds of goods so
+sold shall be paid into the
+court.
+man-Soviet partition of Poland.
+A spokesman said the Russian
+note was “very unconciliatory”, but
+declined further comment while the
+(Continued on Page Seven)

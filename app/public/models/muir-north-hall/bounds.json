@@ -1,0 +1,795 @@
+{
+  "$comment": "Walkable bounds for free roam in muir-north-hall.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.0 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 60.0,
+  "walkable": {
+    "x_min": -25.0,
+    "x_max": 45.0,
+    "z_min": -75.0,
+    "z_max": 5.0
+  },
+  "obstacles": [
+    {
+      "name": "north_hall_0_0",
+      "x_min": -7.4,
+      "x_max": -5.0,
+      "z_min": -48.8,
+      "z_max": -46.4
+    },
+    {
+      "name": "north_hall_0_2",
+      "x_min": -8.769,
+      "x_max": -6.369,
+      "z_min": -50.258,
+      "z_max": -47.858
+    },
+    {
+      "name": "north_hall_0_4",
+      "x_min": -10.138,
+      "x_max": -7.738,
+      "z_min": -51.716,
+      "z_max": -49.316
+    },
+    {
+      "name": "north_hall_0_6",
+      "x_min": -11.507,
+      "x_max": -9.107,
+      "z_min": -53.174,
+      "z_max": -50.774
+    },
+    {
+      "name": "north_hall_0_8",
+      "x_min": -12.876,
+      "x_max": -10.476,
+      "z_min": -54.632,
+      "z_max": -52.232
+    },
+    {
+      "name": "north_hall_0_10",
+      "x_min": -14.245,
+      "x_max": -11.845,
+      "z_min": -56.09,
+      "z_max": -53.69
+    },
+    {
+      "name": "north_hall_0_12",
+      "x_min": -15.615,
+      "x_max": -13.215,
+      "z_min": -57.548,
+      "z_max": -55.148
+    },
+    {
+      "name": "north_hall_2_0",
+      "x_min": -5.942,
+      "x_max": -3.542,
+      "z_min": -50.169,
+      "z_max": -47.769
+    },
+    {
+      "name": "north_hall_2_2",
+      "x_min": -7.311,
+      "x_max": -4.911,
+      "z_min": -51.627,
+      "z_max": -49.227
+    },
+    {
+      "name": "north_hall_2_4",
+      "x_min": -8.68,
+      "x_max": -6.28,
+      "z_min": -53.085,
+      "z_max": -50.685
+    },
+    {
+      "name": "north_hall_2_6",
+      "x_min": -10.049,
+      "x_max": -7.649,
+      "z_min": -54.543,
+      "z_max": -52.143
+    },
+    {
+      "name": "north_hall_2_8",
+      "x_min": -11.418,
+      "x_max": -9.018,
+      "z_min": -56.001,
+      "z_max": -53.601
+    },
+    {
+      "name": "north_hall_2_10",
+      "x_min": -12.788,
+      "x_max": -10.388,
+      "z_min": -57.459,
+      "z_max": -55.059
+    },
+    {
+      "name": "north_hall_2_12",
+      "x_min": -14.157,
+      "x_max": -11.757,
+      "z_min": -58.917,
+      "z_max": -56.517
+    },
+    {
+      "name": "north_hall_4_0",
+      "x_min": -4.484,
+      "x_max": -2.084,
+      "z_min": -51.538,
+      "z_max": -49.138
+    },
+    {
+      "name": "north_hall_4_2",
+      "x_min": -5.853,
+      "x_max": -3.453,
+      "z_min": -52.996,
+      "z_max": -50.596
+    },
+    {
+      "name": "north_hall_4_4",
+      "x_min": -7.222,
+      "x_max": -4.822,
+      "z_min": -54.454,
+      "z_max": -52.054
+    },
+    {
+      "name": "north_hall_4_6",
+      "x_min": -8.591,
+      "x_max": -6.191,
+      "z_min": -55.912,
+      "z_max": -53.512
+    },
+    {
+      "name": "north_hall_4_8",
+      "x_min": -9.961,
+      "x_max": -7.561,
+      "z_min": -57.37,
+      "z_max": -54.97
+    },
+    {
+      "name": "north_hall_4_10",
+      "x_min": -11.33,
+      "x_max": -8.93,
+      "z_min": -58.828,
+      "z_max": -56.428
+    },
+    {
+      "name": "north_hall_4_12",
+      "x_min": -12.699,
+      "x_max": -10.299,
+      "z_min": -60.286,
+      "z_max": -57.886
+    },
+    {
+      "name": "north_hall_6_0",
+      "x_min": -3.026,
+      "x_max": -0.626,
+      "z_min": -52.907,
+      "z_max": -50.507
+    },
+    {
+      "name": "north_hall_6_2",
+      "x_min": -4.395,
+      "x_max": -1.995,
+      "z_min": -54.365,
+      "z_max": -51.965
+    },
+    {
+      "name": "north_hall_6_4",
+      "x_min": -5.764,
+      "x_max": -3.364,
+      "z_min": -55.823,
+      "z_max": -53.423
+    },
+    {
+      "name": "north_hall_6_6",
+      "x_min": -7.133,
+      "x_max": -4.733,
+      "z_min": -57.281,
+      "z_max": -54.881
+    },
+    {
+      "name": "north_hall_6_8",
+      "x_min": -8.503,
+      "x_max": -6.103,
+      "z_min": -58.739,
+      "z_max": -56.339
+    },
+    {
+      "name": "north_hall_6_10",
+      "x_min": -9.872,
+      "x_max": -7.472,
+      "z_min": -60.197,
+      "z_max": -57.797
+    },
+    {
+      "name": "north_hall_6_12",
+      "x_min": -11.241,
+      "x_max": -8.841,
+      "z_min": -61.655,
+      "z_max": -59.255
+    },
+    {
+      "name": "north_hall_8_0",
+      "x_min": -1.568,
+      "x_max": 0.832,
+      "z_min": -54.276,
+      "z_max": -51.876
+    },
+    {
+      "name": "north_hall_8_2",
+      "x_min": -2.937,
+      "x_max": -0.537,
+      "z_min": -55.734,
+      "z_max": -53.334
+    },
+    {
+      "name": "north_hall_8_4",
+      "x_min": -4.306,
+      "x_max": -1.906,
+      "z_min": -57.192,
+      "z_max": -54.792
+    },
+    {
+      "name": "north_hall_8_6",
+      "x_min": -5.676,
+      "x_max": -3.276,
+      "z_min": -58.65,
+      "z_max": -56.25
+    },
+    {
+      "name": "north_hall_8_8",
+      "x_min": -7.045,
+      "x_max": -4.645,
+      "z_min": -60.108,
+      "z_max": -57.708
+    },
+    {
+      "name": "north_hall_8_10",
+      "x_min": -8.414,
+      "x_max": -6.014,
+      "z_min": -61.566,
+      "z_max": -59.166
+    },
+    {
+      "name": "north_hall_8_12",
+      "x_min": -9.783,
+      "x_max": -7.383,
+      "z_min": -63.024,
+      "z_max": -60.624
+    },
+    {
+      "name": "north_hall_10_0",
+      "x_min": -0.11,
+      "x_max": 2.29,
+      "z_min": -55.645,
+      "z_max": -53.245
+    },
+    {
+      "name": "north_hall_10_2",
+      "x_min": -1.479,
+      "x_max": 0.921,
+      "z_min": -57.103,
+      "z_max": -54.703
+    },
+    {
+      "name": "north_hall_10_4",
+      "x_min": -2.849,
+      "x_max": -0.449,
+      "z_min": -58.561,
+      "z_max": -56.161
+    },
+    {
+      "name": "north_hall_10_6",
+      "x_min": -4.218,
+      "x_max": -1.818,
+      "z_min": -60.019,
+      "z_max": -57.619
+    },
+    {
+      "name": "north_hall_10_8",
+      "x_min": -5.587,
+      "x_max": -3.187,
+      "z_min": -61.477,
+      "z_max": -59.077
+    },
+    {
+      "name": "north_hall_10_10",
+      "x_min": -6.956,
+      "x_max": -4.556,
+      "z_min": -62.935,
+      "z_max": -60.535
+    },
+    {
+      "name": "north_hall_10_12",
+      "x_min": -8.325,
+      "x_max": -5.925,
+      "z_min": -64.393,
+      "z_max": -61.993
+    },
+    {
+      "name": "north_hall_12_0",
+      "x_min": 1.348,
+      "x_max": 3.748,
+      "z_min": -57.015,
+      "z_max": -54.615
+    },
+    {
+      "name": "north_hall_12_2",
+      "x_min": -0.021,
+      "x_max": 2.379,
+      "z_min": -58.472,
+      "z_max": -56.072
+    },
+    {
+      "name": "north_hall_12_4",
+      "x_min": -1.391,
+      "x_max": 1.009,
+      "z_min": -59.93,
+      "z_max": -57.53
+    },
+    {
+      "name": "north_hall_12_6",
+      "x_min": -2.76,
+      "x_max": -0.36,
+      "z_min": -61.388,
+      "z_max": -58.988
+    },
+    {
+      "name": "north_hall_12_8",
+      "x_min": -4.129,
+      "x_max": -1.729,
+      "z_min": -62.846,
+      "z_max": -60.446
+    },
+    {
+      "name": "north_hall_12_10",
+      "x_min": -5.498,
+      "x_max": -3.098,
+      "z_min": -64.304,
+      "z_max": -61.904
+    },
+    {
+      "name": "north_hall_12_12",
+      "x_min": -6.867,
+      "x_max": -4.467,
+      "z_min": -65.762,
+      "z_max": -63.362
+    },
+    {
+      "name": "north_hall_14_0",
+      "x_min": 2.806,
+      "x_max": 5.206,
+      "z_min": -58.384,
+      "z_max": -55.984
+    },
+    {
+      "name": "north_hall_14_2",
+      "x_min": 1.436,
+      "x_max": 3.836,
+      "z_min": -59.842,
+      "z_max": -57.442
+    },
+    {
+      "name": "north_hall_14_4",
+      "x_min": 0.067,
+      "x_max": 2.467,
+      "z_min": -61.3,
+      "z_max": -58.9
+    },
+    {
+      "name": "north_hall_14_6",
+      "x_min": -1.302,
+      "x_max": 1.098,
+      "z_min": -62.757,
+      "z_max": -60.357
+    },
+    {
+      "name": "north_hall_14_8",
+      "x_min": -2.671,
+      "x_max": -0.271,
+      "z_min": -64.215,
+      "z_max": -61.815
+    },
+    {
+      "name": "north_hall_14_10",
+      "x_min": -4.04,
+      "x_max": -1.64,
+      "z_min": -65.673,
+      "z_max": -63.273
+    },
+    {
+      "name": "north_hall_14_12",
+      "x_min": -5.409,
+      "x_max": -3.009,
+      "z_min": -67.131,
+      "z_max": -64.731
+    },
+    {
+      "name": "north_hall_16_0",
+      "x_min": 4.263,
+      "x_max": 6.663,
+      "z_min": -59.753,
+      "z_max": -57.353
+    },
+    {
+      "name": "north_hall_16_2",
+      "x_min": 2.894,
+      "x_max": 5.294,
+      "z_min": -61.211,
+      "z_max": -58.811
+    },
+    {
+      "name": "north_hall_16_4",
+      "x_min": 1.525,
+      "x_max": 3.925,
+      "z_min": -62.669,
+      "z_max": -60.269
+    },
+    {
+      "name": "north_hall_16_6",
+      "x_min": 0.156,
+      "x_max": 2.556,
+      "z_min": -64.127,
+      "z_max": -61.727
+    },
+    {
+      "name": "north_hall_16_8",
+      "x_min": -1.213,
+      "x_max": 1.187,
+      "z_min": -65.585,
+      "z_max": -63.185
+    },
+    {
+      "name": "north_hall_16_10",
+      "x_min": -2.582,
+      "x_max": -0.182,
+      "z_min": -67.042,
+      "z_max": -64.642
+    },
+    {
+      "name": "north_hall_16_12",
+      "x_min": -3.951,
+      "x_max": -1.551,
+      "z_min": -68.5,
+      "z_max": -66.1
+    },
+    {
+      "name": "north_hall_18_0",
+      "x_min": 5.721,
+      "x_max": 8.121,
+      "z_min": -61.122,
+      "z_max": -58.722
+    },
+    {
+      "name": "north_hall_18_2",
+      "x_min": 4.352,
+      "x_max": 6.752,
+      "z_min": -62.58,
+      "z_max": -60.18
+    },
+    {
+      "name": "north_hall_18_4",
+      "x_min": 2.983,
+      "x_max": 5.383,
+      "z_min": -64.038,
+      "z_max": -61.638
+    },
+    {
+      "name": "north_hall_18_6",
+      "x_min": 1.614,
+      "x_max": 4.014,
+      "z_min": -65.496,
+      "z_max": -63.096
+    },
+    {
+      "name": "north_hall_18_8",
+      "x_min": 0.245,
+      "x_max": 2.645,
+      "z_min": -66.954,
+      "z_max": -64.554
+    },
+    {
+      "name": "north_hall_18_10",
+      "x_min": -1.124,
+      "x_max": 1.276,
+      "z_min": -68.412,
+      "z_max": -66.012
+    },
+    {
+      "name": "north_hall_18_12",
+      "x_min": -2.493,
+      "x_max": -0.093,
+      "z_min": -69.869,
+      "z_max": -67.469
+    },
+    {
+      "name": "north_hall_20_0",
+      "x_min": 7.179,
+      "x_max": 9.579,
+      "z_min": -62.491,
+      "z_max": -60.091
+    },
+    {
+      "name": "north_hall_20_2",
+      "x_min": 5.81,
+      "x_max": 8.21,
+      "z_min": -63.949,
+      "z_max": -61.549
+    },
+    {
+      "name": "north_hall_20_4",
+      "x_min": 4.441,
+      "x_max": 6.841,
+      "z_min": -65.407,
+      "z_max": -63.007
+    },
+    {
+      "name": "north_hall_20_6",
+      "x_min": 3.072,
+      "x_max": 5.472,
+      "z_min": -66.865,
+      "z_max": -64.465
+    },
+    {
+      "name": "north_hall_20_8",
+      "x_min": 1.703,
+      "x_max": 4.103,
+      "z_min": -68.323,
+      "z_max": -65.923
+    },
+    {
+      "name": "north_hall_20_10",
+      "x_min": 0.334,
+      "x_max": 2.734,
+      "z_min": -69.781,
+      "z_max": -67.381
+    },
+    {
+      "name": "north_hall_20_12",
+      "x_min": -1.035,
+      "x_max": 1.365,
+      "z_min": -71.239,
+      "z_max": -68.839
+    },
+    {
+      "name": "north_hall_22_0",
+      "x_min": 8.637,
+      "x_max": 11.037,
+      "z_min": -63.86,
+      "z_max": -61.46
+    },
+    {
+      "name": "north_hall_22_2",
+      "x_min": 7.268,
+      "x_max": 9.668,
+      "z_min": -65.318,
+      "z_max": -62.918
+    },
+    {
+      "name": "north_hall_22_4",
+      "x_min": 5.899,
+      "x_max": 8.299,
+      "z_min": -66.776,
+      "z_max": -64.376
+    },
+    {
+      "name": "north_hall_22_6",
+      "x_min": 4.53,
+      "x_max": 6.93,
+      "z_min": -68.234,
+      "z_max": -65.834
+    },
+    {
+      "name": "north_hall_22_8",
+      "x_min": 3.161,
+      "x_max": 5.561,
+      "z_min": -69.692,
+      "z_max": -67.292
+    },
+    {
+      "name": "north_hall_22_10",
+      "x_min": 1.792,
+      "x_max": 4.192,
+      "z_min": -71.15,
+      "z_max": -68.75
+    },
+    {
+      "name": "north_hall_22_12",
+      "x_min": 0.423,
+      "x_max": 2.823,
+      "z_min": -72.608,
+      "z_max": -70.208
+    },
+    {
+      "name": "north_hall_24_0",
+      "x_min": 10.095,
+      "x_max": 12.495,
+      "z_min": -65.229,
+      "z_max": -62.829
+    },
+    {
+      "name": "north_hall_24_2",
+      "x_min": 8.726,
+      "x_max": 11.126,
+      "z_min": -66.687,
+      "z_max": -64.287
+    },
+    {
+      "name": "north_hall_24_4",
+      "x_min": 7.357,
+      "x_max": 9.757,
+      "z_min": -68.145,
+      "z_max": -65.745
+    },
+    {
+      "name": "north_hall_24_6",
+      "x_min": 5.988,
+      "x_max": 8.388,
+      "z_min": -69.603,
+      "z_max": -67.203
+    },
+    {
+      "name": "north_hall_24_8",
+      "x_min": 4.619,
+      "x_max": 7.019,
+      "z_min": -71.061,
+      "z_max": -68.661
+    },
+    {
+      "name": "north_hall_24_10",
+      "x_min": 3.25,
+      "x_max": 5.65,
+      "z_min": -72.519,
+      "z_max": -70.119
+    },
+    {
+      "name": "north_hall_24_12",
+      "x_min": 1.881,
+      "x_max": 4.281,
+      "z_min": -73.977,
+      "z_max": -71.577
+    },
+    {
+      "name": "north_hall_26_0",
+      "x_min": 11.553,
+      "x_max": 13.953,
+      "z_min": -66.598,
+      "z_max": -64.198
+    },
+    {
+      "name": "north_hall_26_2",
+      "x_min": 10.184,
+      "x_max": 12.584,
+      "z_min": -68.056,
+      "z_max": -65.656
+    },
+    {
+      "name": "north_hall_26_4",
+      "x_min": 8.815,
+      "x_max": 11.215,
+      "z_min": -69.514,
+      "z_max": -67.114
+    },
+    {
+      "name": "north_hall_26_6",
+      "x_min": 7.446,
+      "x_max": 9.846,
+      "z_min": -70.972,
+      "z_max": -68.572
+    },
+    {
+      "name": "north_hall_26_8",
+      "x_min": 6.077,
+      "x_max": 8.477,
+      "z_min": -72.43,
+      "z_max": -70.03
+    },
+    {
+      "name": "north_hall_26_10",
+      "x_min": 4.708,
+      "x_max": 7.108,
+      "z_min": -73.888,
+      "z_max": -71.488
+    },
+    {
+      "name": "north_hall_26_12",
+      "x_min": 3.339,
+      "x_max": 5.739,
+      "z_min": -75.346,
+      "z_max": -72.946
+    },
+    {
+      "name": "north_hall_28_0",
+      "x_min": 13.011,
+      "x_max": 15.411,
+      "z_min": -67.967,
+      "z_max": -65.567
+    },
+    {
+      "name": "north_hall_28_2",
+      "x_min": 11.642,
+      "x_max": 14.042,
+      "z_min": -69.425,
+      "z_max": -67.025
+    },
+    {
+      "name": "north_hall_28_4",
+      "x_min": 10.273,
+      "x_max": 12.673,
+      "z_min": -70.883,
+      "z_max": -68.483
+    },
+    {
+      "name": "north_hall_28_6",
+      "x_min": 8.904,
+      "x_max": 11.304,
+      "z_min": -72.341,
+      "z_max": -69.941
+    },
+    {
+      "name": "north_hall_28_8",
+      "x_min": 7.535,
+      "x_max": 9.935,
+      "z_min": -73.799,
+      "z_max": -71.399
+    },
+    {
+      "name": "north_hall_28_10",
+      "x_min": 6.166,
+      "x_max": 8.566,
+      "z_min": -75.257,
+      "z_max": -72.857
+    },
+    {
+      "name": "north_hall_28_12",
+      "x_min": 4.797,
+      "x_max": 7.197,
+      "z_min": -76.715,
+      "z_max": -74.315
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": -8.0,
+      "look_at": {
+        "x": -6.199999809265137,
+        "y": 1.5,
+        "z": -47.599998474121094
+      },
+      "note": "Near the viewpoint of the ca. 1885 photograph: North Hall from the south-west"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 10.166484832763672,
+      "z": -50.62294006347656,
+      "look_at": {
+        "x": 4.005560874938965,
+        "y": 1.5,
+        "z": -57.183658599853516
+      },
+      "note": "On the lawn before the long front, by the doors"
+    },
+    {
+      "name": "hotspot_3",
+      "x": -6.46652889251709,
+      "z": -39.11890411376953,
+      "look_at": {
+        "x": -6.199999809265137,
+        "y": 1.5,
+        "z": -47.599998474121094
+      },
+      "note": "By the rail fence at the corner"
+    },
+    {
+      "name": "hotspot_4",
+      "x": 23.883625030517578,
+      "z": -59.388790130615234,
+      "look_at": {
+        "x": -6.199999809265137,
+        "y": 1.5,
+        "z": -47.599998474121094
+      },
+      "note": "Along the boardwalk, looking back"
+    }
+  ]
+}

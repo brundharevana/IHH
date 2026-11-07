@@ -1,0 +1,189 @@
+_version_: 1731717837626540032
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/95514642/
+aka[1]: http://www.loc.gov/item/95514642/
+aka[2]: http://www.loc.gov/pictures/item/95514642/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/95514642/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/95514642/
+aka[5]: http://www.loc.gov/resource/cph.3a37136/
+aka[6]: https://hdl.loc.gov/loc.pnp/cph.3a37136
+aka[7]: http://lccn.loc.gov/95514642
+call_number: BIOG FILE - Muir, John, 1838-1914 [P&P]
+created: 2016-04-20T22:41:50Z
+created_published[0]: c1899.
+created_published_date: c1899.
+date: 1899-01-01
+dates[0].1899: https://www.loc.gov/search/?dates=1899/1899&fo=json
+description[0]: 1 photographic print.
+digital_id[0]: cph 3a37136 //hdl.loc.gov/loc.pnp/cph.3a37136
+digitized: true
+display_offsite: true
+extract_timestamp: 2021-08-24T22:09:30.565Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/95514642/#cph
+extract_urls[1]: http://lccn.loc.gov/95514642#catalog-split-04
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Group portraits--1890-1900.
+format_headings[1]: Photographic prints--1890-1900.
+format_headings[2]: Portrait photographs--1890-1900.
+genre[0]: Portrait photographs--1890-1900
+genre[1]: Group portraits--1890-1900
+genre[2]: Photographic prints--1890-1900
+group[0]: cph
+group[1]: catalog-split-04
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-04
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/95514642/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136_150px.jpg#h=110&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136t.gif#h=110&w=150
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136r.jpg#h=470&w=640
+index: 1
+item.call_number: BIOG FILE - Muir, John, 1838-1914 [P&P]
+item.control_number: 95514642
+item.created: 2016-04-20T22:41:50Z
+item.created_published: c1899.
+item.created_published_date: c1899.
+item.date: c1899.
+item.digital_id[0]: cph 3a37136 //hdl.loc.gov/loc.pnp/cph.3a37136
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Group%20portraits--1890-1900.&co=cph
+item.formats[0].title: Group portraits--1890-1900.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1890-1900.&co=cph
+item.formats[1].title: Photographic prints--1890-1900.
+item.formats[2].link: https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs--1890-1900.&co=cph
+item.formats[2].title: Portrait photographs--1890-1900.
+item.genre[0]: Portrait photographs--1890-1900
+item.genre[1]: Group portraits--1890-1900
+item.genre[2]: Photographic prints--1890-1900
+item.id: 95514642
+item.link: https://www.loc.gov/pictures/item/95514642/
+item.marc: https://www.loc.gov/pictures/item/95514642/marc/
+item.medium[0]: 1 photographic print.
+item.medium_brief: 1 photographic print.
+item.mediums[0]: 1 photographic print.
+item.modified: 2016-04-20T22:41:50Z
+item.notes[0]: 61322 U.S. Copyright Office.
+item.notes[1]: Photo by Edward S. Curtis.
+item.number_former_id[0]: https://www.loc.gov/item/95514642
+item.number_former_id[1]: https://www.loc.gov/item/11655682
+item.other_control_numbers[0]: 11655682
+item.reproduction_number: LC-USZ62-36760 (b&w film copy neg.)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3a37136
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136r.jpg
+item.sort_date: 1899
+item.source_created: 1995-09-29T00:00:00Z
+item.source_modified: 2004-10-19T12:00:57Z
+item.subject_headings[0]: Muir, John,--1838-1914.
+item.subject_headings[1]: Burroughs, John,--1837-1921.
+item.subjects[0]: Muir, John,--1838-1914
+item.subjects[1]: Burroughs, John,--1837-1921
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136_150px.jpg
+item.title: [John Muir and John Burroughs, full-length portrait, standing on snow]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 95514642
+link: https://www.loc.gov/pictures/item/95514642/
+marc: https://www.loc.gov/pictures/item/95514642/marc/
+medium[0]: 1 photographic print.
+medium_brief: 1 photographic print.
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-20T22:41:50Z
+notes[0]: 61322 U.S. Copyright Office.
+notes[1]: Photo by Edward S. Curtis.
+number[0]: http://www.loc.gov/item/11655682
+number[1]: 95514642
+number[2]: http://www.loc.gov/item/95514642
+number[3]: 2004-10-19t12:00:57
+number_former_id[0]: http://www.loc.gov/item/11655682
+number_former_id[1]: http://www.loc.gov/item/95514642
+number_lccn[0]: 95514642
+number_source_modified[0]: 2004-10-19t12:00:57
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 11655682
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/95514642/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/95514642/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/95514642/dc
+partof[0].count: 110701
+partof[0].title: miscellaneous items in high demand
+partof[0].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=95514642&st=gallery&sb=call_number#focus
+reproduction_number: LC-USZ62-36760 (b&w film copy neg.)
+resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3a37136
+resources[0].caption: b&w film copy neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3a37136/
+score: 19.46323
+shard: 00
+shelf_id: BIOG FILE - Muir, John, 1838-1914 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1899
+source_created: 1995-09-29T00:00:00Z
+source_modified: 2004-10-19T12:00:57Z
+subject[0]: photographic prints
+subject[1]: portrait photographs
+subject[2]: group portraits
+subject[3]: burroughs, john
+subject[4]: muir, john
+subject_headings[0]: Muir, John,--1838-1914
+subject_headings[1]: Burroughs, John,--1837-1921
+subjects[0].burroughs, john: https://www.loc.gov/search/?fa=subject:burroughs,+john&fo=json
+subjects[1].group portraits: https://www.loc.gov/search/?fa=subject:group+portraits&fo=json
+subjects[2].muir, john: https://www.loc.gov/search/?fa=subject:muir,+john&fo=json
+subjects[3].photographic prints: https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json
+subjects[4].portrait photographs: https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136_150px.jpg
+timestamp: 2022-05-02T12:33:44.894Z
+title: [John Muir and John Burroughs, full-length portrait, standing on snow]
+unrestricted: true
+url: https://www.loc.gov/item/95514642/
+resources[0].caption: b&w film copy neg.
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 1733330
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3a30000/3a37000/3a37100/3a37136u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 110
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 3990
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 110
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 16267
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136t.gif
+resources[0].files[0][2].width: 150
+resources[0].files[0][3].height: 470
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 51656
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136r.jpg
+resources[0].files[0][3].width: 640
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a37000/3a37100/3a37136_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3a37136/
+cite_this.apa: (ca. 1899) John Muir and John Burroughs, full-length portrait, standing on snow. , ca. 1899. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/95514642/.
+cite_this.chicago: John Muir and John Burroughs, full-length portrait, standing on snow. , ca. 1899. Photograph. https://www.loc.gov/item/95514642/.
+cite_this.mla: John Muir and John Burroughs, full-length portrait, standing on snow. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/95514642/>.

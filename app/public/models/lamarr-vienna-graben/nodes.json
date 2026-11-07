@@ -1,0 +1,21 @@
+{
+  "$comment": "Named nodes in lamarr-vienna-graben.glb / lamarr-vienna-graben-mobile.glb (glTF Y-up, metres). hotspot_* are standing viewpoints at eye height 1.6 m whose local -Z axis faces the view direction (camera convention); artifact_* are framable objects; label_recreation carries the recreation label in extras.text. Walkable bounds: bounds.json.",
+  "hotspots": [
+    "hotspot_1",
+    "hotspot_2",
+    "hotspot_3",
+    "hotspot_4"
+  ],
+  "artifacts": [
+    "artifact_advertising_column",
+    "artifact_fountain",
+    "artifact_pavilion",
+    "artifact_plague_column",
+    "artifact_street_front_left",
+    "artifact_street_front_right",
+    "artifact_street_lamps"
+  ],
+  "label": [
+    "label_recreation"
+  ]
+}

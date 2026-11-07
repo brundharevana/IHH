@@ -1,0 +1,10 @@
+{
+  "url": "https://blogs.loc.gov/law/2020/08/einsteins-fateful-letter/",
+  "fetch_url": "https://blogs.loc.gov/law/2020/08/einsteins-fateful-letter/",
+  "method": "http",
+  "fetched_at": "2026-10-09T23:00:51Z",
+  "sha256": "4a284694db8975f08ca7b9ad779a1e093a3040c241866b73039534c6eeb97a11",
+  "bytes": 9094,
+  "http_status": 200,
+  "final_url": "https://blogs.loc.gov/law/2020/08/einsteins-fateful-letter/"
+}

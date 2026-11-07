@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/articles/john-muir.htm",
+  "fetch_url": "https://www.nps.gov/articles/john-muir.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:32:07Z",
+  "sha256": "be3a31094cf35bcfa430f57d2f45581883c05725dbf604efa5d7ea6662b4b095",
+  "bytes": 5846,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/articles/john-muir.htm"
+}

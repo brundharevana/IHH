@@ -1,0 +1,27 @@
+role.reference: true
+role.creator: false
+role.contributor: true
+role.donor: false
+sourceNotes[0]: Her Poland, the role of the press in political change, 1983: CIP t.p. (Madeleine Korbel Albright) pub. info. (prof. of international affairs, School of Foreign Service, Georgetown Univ.)
+sourceNotes[1]: Madeleine Albright, 1998: CIP galley (Marie Jana Korbel, b. May 15, 1937; grandmother called her "Madeleine"; Madeleine Jana Korbel Albright earned Ph.D.; served as UN Ambassador; became Secretary of State)
+heading: Albright, Madeleine Korbel, 1937-
+recordType: authority
+organizationalReferences[0].heading: Department of State. Office of the Secretary. (09/1789 - )
+organizationalReferences[0].naId: 10677139
+organizationalReferences[1].heading: Department of State. U.S. Mission to the United Nations. (04/28/1947 - )
+organizationalReferences[1].naId: 10538036
+importRecordControlNumber: n 83125999
+authorityType: person
+birthDate.year: 1937
+birthDate.logicalDate: 1937-01-01
+linkCounts.totalDescriptions: 34
+linkCounts.contributor: 1
+linkCounts.subject: 31
+linkCounts.organization: 2
+name: Albright, Madeleine Korbel,
+variantPersonNames[0].heading: Korbel, Madeleine
+variantPersonNames[0].name: Korbel, Madeleine
+variantPersonNames[1].heading: Korbel, Marie Jana
+variantPersonNames[1].name: Korbel, Marie Jana
+naId: 10568445
+preferred: true

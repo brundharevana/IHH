@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/articles/muir-woods-proclamation.htm",
+  "fetch_url": "https://www.nps.gov/articles/muir-woods-proclamation.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:35:49Z",
+  "sha256": "b7e8d121800c25e9206a7b5833db77f4d49b87cf2cde426a50b96a1831e363bb",
+  "bytes": 4864,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/articles/muir-woods-proclamation.htm"
+}

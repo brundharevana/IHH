@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+  "fetch_url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:19:02Z",
+  "sha256": "002650d9115c2cd73ecd981c7c46303f2f412066cc81dcc17c257c94a4e8dac2",
+  "bytes": 3802,
+  "http_status": 200,
+  "final_url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/"
+}

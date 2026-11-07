@@ -1,0 +1,10 @@
+{
+  "url": "https://www.invent.org/inductees/hedy-lamarr",
+  "fetch_url": "https://www.invent.org/inductees/hedy-lamarr",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:47:34Z",
+  "sha256": "1498c51bfc8c7d928159c72a256bd7f2d284ba7fc2a84dba97507f7fbe00b950",
+  "bytes": 4126,
+  "http_status": 200,
+  "final_url": "https://www.invent.org/inductees/hedy-lamarr"
+}

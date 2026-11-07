@@ -1,0 +1,77 @@
+title: President Barack Obama greets former Secretary of State Madeleine Albright prior to the screening of the film "Nuclear Tipping Point" in the Family Theater
+scopeAndContentNote: President Barack Obama greets former Secretary of State Madeleine Albright prior to a screening of the film "Nuclear Tipping Point" in the Family Theater of the White House, April 6, 2010.
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].city: Hoffman Estates
+physicalOccurrences[0].referenceUnits[0].phone: 847-252-5700
+physicalOccurrences[0].referenceUnits[0].address1: 2500 W. Golf Road
+physicalOccurrences[0].referenceUnits[0].postalCode: 60169
+physicalOccurrences[0].referenceUnits[0].name: Barack Obama Presidential Library
+physicalOccurrences[0].referenceUnits[0].state: IL
+physicalOccurrences[0].referenceUnits[0].fax: 847-252-5799
+physicalOccurrences[0].referenceUnits[0].email: obama.library@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Magnetic Media
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Magnetic Disk: Hard Drive
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupId: ou=LPBHO,ou=groups
+dataControlGroup.groupCd: LPBHO
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+productionDates[0].month: 4
+productionDates[0].year: 2010
+productionDates[0].day: 6
+productionDates[0].logicalDate: 2010-04-06
+variantControlNumbers[0].note: This is the roll and frame number assigned by the White House Photo Office.
+variantControlNumbers[0].number: P040610PS-0846
+variantControlNumbers[0].type: Agency-Assigned Identifier
+variantControlNumbers[1].number: 22-16572-F
+variantControlNumbers[1].type: FOIA Tracking Number
+contributors[0].heading: Souza, Pete, 1954
+contributors[0].contributorType: Photographer
+contributors[0].authorityType: person
+contributors[0].birthDate.year: 1954
+contributors[0].birthDate.logicalDate: 1954-01-01
+contributors[0].naId: 118712371
+digitalObjects[0].objectFilename: P040610PS-0846.JPG
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/obama/bho-whpo/81145631/Batch0024/P040610PS-0846.JPG
+digitalObjects[0].objectFileSize: 1234
+digitalObjects[0].objectId: 301972197
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].collectionIdentifier: BHO-WHPO
+ancestors[0].inclusiveStartDate.month: 1
+ancestors[0].inclusiveStartDate.year: 2009
+ancestors[0].inclusiveStartDate.day: 20
+ancestors[0].inclusiveStartDate.logicalDate: 2009-01-20
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.month: 1
+ancestors[0].inclusiveEndDate.year: 2017
+ancestors[0].inclusiveEndDate.day: 20
+ancestors[0].inclusiveEndDate.logicalDate: 2017-01-20
+ancestors[0].title: Records of the White House Photo Office (Obama Administration)
+ancestors[0].naId: 63542089
+ancestors[1].inclusiveStartDate.month: 1
+ancestors[1].inclusiveStartDate.year: 2009
+ancestors[1].inclusiveStartDate.day: 20
+ancestors[1].inclusiveStartDate.logicalDate: 2009-01-20
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: President (2009-2017 : Obama). Office of Management and Administration. Office of White House Personnel. Photography Office. (ca. 2010 - 1/20/2017)
+ancestors[1].creators[0].abolishDate.month: 1
+ancestors[1].creators[0].abolishDate.year: 2017
+ancestors[1].creators[0].abolishDate.day: 20
+ancestors[1].creators[0].abolishDate.logicalDate: 2017-01-20
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.year: 2010
+ancestors[1].creators[0].establishDate.logicalDate: 2010-01-01
+ancestors[1].creators[0].naId: 66391679
+ancestors[1].inclusiveEndDate.month: 1
+ancestors[1].inclusiveEndDate.year: 2017
+ancestors[1].inclusiveEndDate.day: 20
+ancestors[1].inclusiveEndDate.logicalDate: 2017-01-20
+ancestors[1].title: Presidential Photographs
+ancestors[1].naId: 81145631
+naId: 301972196

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
+  "fetch_url": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
+  "method": "http",
+  "fetched_at": "2026-10-09T19:18:49Z",
+  "sha256": "f42db89ffa1d3ce80529e5c20e67b8ff3a7b6fbacf8e0c9b95e79f52e4ec8730",
+  "bytes": 11918,
+  "http_status": 200,
+  "final_url": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr"
+}

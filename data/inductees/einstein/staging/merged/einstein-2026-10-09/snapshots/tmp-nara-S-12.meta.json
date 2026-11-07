@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/7873451",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=7873451",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:20:19Z",
+  "sha256": "027a550d487d1647b826a8655a87a232b2ef7901fcf7f0bf4b7af53a12a46e4a",
+  "bytes": 7345,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=7873451"
+}

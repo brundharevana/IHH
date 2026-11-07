@@ -1,0 +1,83 @@
+---
+// Quiz: /<slug>/quiz/. Questions, options and explanations from content/<slug>/quiz.json, each
+// grounded in verified facts (tools/content_check.py); explanations carry their source chips.
+// Scoring runs in the browser (src/ui/quiz.js); answers stay on the device.
+import Base from '../../layouts/Base.astro';
+import FactChips from '../../components/FactChips.astro';
+import { listInductees, loadInductee, loadQuiz, factIndex } from '../../content/load.js';
+import { quizView } from '../../content/journey.js';
+
+export function getStaticPaths() {
+  return listInductees().filter(slug => loadQuiz(slug)).map(slug => ({ params: { slug }, props: { slug } }));
+}
+const { slug } = Astro.props;
+const inductee = loadInductee(slug);
+const { questions, runtime } = quizView(loadQuiz(slug), factIndex(slug));
+const data = { slug, questions: runtime };
+---
+<Base title={`${inductee.name}: quiz`} description={`A short quiz about ${inductee.name}, with sources for every answer.`}>
+  <div class="quiz" data-quiz>
+    <p class="kicker">{inductee.name}</p>
+    <h1>Quiz</h1>
+    <p>Pick an answer, then check it. Your answers stay in this browser.</p>
+    <ol class="questions">
+      {questions.map((q, qi) => (
+        <li>
+          <fieldset data-question={q.id}>
+            <legend>{q.question}</legend>
+            <FactChips chips={q.chips} prefix={`tip-${q.id}-q`} />
+            <div class="options">
+              {q.options.map((o, oi) => (
+                <label class="option"><input type="radio" name={`q-${q.id}`} value={oi} /> {o.text}</label>
+              ))}
+            </div>
+            <button type="button" class="btn" data-check>Check answer</button>
+            <p class="hint" data-hint hidden>Pick an answer first.</p>
+            <div class="result" data-result hidden>
+              <p class="verdict" data-verdict tabindex="-1" role="status"></p>
+              {q.options.map((o, oi) => (
+                <p class="explanation" data-explanation={oi} hidden>{o.explanation} <FactChips chips={o.chips} prefix={`tip-${q.id}-o${oi}`} /></p>
+              ))}
+            </div>
+          </fieldset>
+        </li>
+      ))}
+    </ol>
+    <button type="button" class="btn" data-reset>Clear my answers</button>
+    <nav class="quiz-nav" aria-label="After the quiz">
+      <a href={`/${slug}/end/`}>Back to what next</a>
+      <a href={`/${slug}/`}>Journey map</a>
+    </nav>
+  </div>
+  <script type="application/json" id="quiz-data" set:html={JSON.stringify(data).replace(/</g, '\\u003c')}></script>
+</Base>
+
+<script>
+  import { mountQuiz } from '../../ui/quiz.js';
+  import { initToggletips } from '../../ui/sources.js';
+  const data = JSON.parse(document.getElementById('quiz-data').textContent);
+  initToggletips(document.querySelector('[data-quiz]'));
+  mountQuiz(document.querySelector('[data-quiz]'), data);
+</script>
+
+<style is:global>
+  .quiz { padding: var(--space-4); max-width: 800px; margin: 0 auto; }
+  .quiz .kicker { margin: 0; color: var(--c-muted); }
+  .quiz h1 { font-family: var(--f-serif); margin: var(--space-2) 0 var(--space-3); }
+  .quiz [hidden] { display: none !important; }
+  .quiz .questions { padding-left: var(--space-5); display: grid; gap: var(--space-5); }
+  .quiz fieldset { border: 1px solid #d8d0c2; border-radius: 6px; background: #fffdf9; padding: var(--space-4); }
+  .quiz legend { float: left; width: 100%; padding: 0; margin-bottom: var(--space-2); font-family: var(--f-serif); font-size: 1.15rem; }
+  .quiz legend + * { clear: both; }
+  .quiz .options { display: grid; gap: var(--space-2); margin: var(--space-3) 0; }
+  .quiz .option { display: flex; align-items: center; gap: var(--space-2); min-height: 44px; padding: 0 var(--space-2);
+    border: 1px solid #e2dbcf; border-radius: 6px; cursor: pointer; }
+  .quiz .option input { width: 24px; height: 24px; margin: 0; }
+  .quiz .btn { min-height: 44px; min-width: 44px; padding: var(--space-2) var(--space-4); font: inherit; color: var(--c-ink);
+    background: #fff; border: 1px solid var(--c-muted); border-radius: 6px; cursor: pointer; }
+  .quiz .verdict { font-weight: bold; }
+  .quiz .result { margin-top: var(--space-3); border-left: 4px solid var(--c-accent); padding-left: var(--space-3); }
+  .quiz a { color: var(--c-accent); }
+  .quiz-nav { display: flex; flex-wrap: wrap; gap: var(--space-5); margin: var(--space-5) 0; }
+  .quiz-nav a { display: inline-block; min-height: 24px; padding: var(--space-1) 0; }
+</style>

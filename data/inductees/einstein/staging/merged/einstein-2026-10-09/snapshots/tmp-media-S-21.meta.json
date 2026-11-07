@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein's_exam_of_maturity_grades_(color2).jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein%27s_exam_of_maturity_grades_%28color2%29.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T06:22:33Z",
+  "sha256": "24d9167ce5a7c014a3a864c6e0279eec9d62578ee7b5022a1edbddd2e67d6cea",
+  "bytes": 973,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:Albert_Einstein%27s_exam_of_maturity_grades_%28color2%29.jpg&format=json"
+}

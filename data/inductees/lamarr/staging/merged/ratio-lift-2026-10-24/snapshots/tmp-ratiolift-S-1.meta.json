@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn83045462/1942-09-13/ed-1/?sp=70",
+  "fetch_url": "https://www.loc.gov/resource/sn83045462/1942-09-13/ed-1/?sp=70&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-24T06:17:13Z",
+  "sha256": "894ce2a4e44ca9c679dd9e9c1e9df0292861333d2b78932debb65d779438dc28",
+  "bytes": 37293,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn83045462/1942-09-13/ed-1/?sp=70&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_1warhol_ver01/data/sn83045462/00280603648/1942091301/0564.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/dlc/batch_dlc_1warhol_ver01/data/sn83045462/00280603648/1942091301/0564.xml"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://npgallery.nps.gov/AssetDetail/e49b04407f0340c3a3db3447da64be63",
+  "fetch_url": "https://npgallery.nps.gov/AssetDetail/e49b04407f0340c3a3db3447da64be63",
+  "method": "http",
+  "fetched_at": "2026-10-20T22:41:24Z",
+  "sha256": "e9cb48dad21f3b05c652b38d626fa62b6786d7d4249cc293ab401f45dbe137bf",
+  "bytes": 3215,
+  "http_status": 200,
+  "final_url": "https://npgallery.nps.gov/AssetDetail/e49b04407f0340c3a3db3447da64be63"
+}

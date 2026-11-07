@@ -1,0 +1,31 @@
+{
+  "$comment": "Named nodes in albright-oval-office-1993.glb / albright-oval-office-1993-mobile.glb (glTF Y-up, metres). hotspot_* are standing viewpoints at eye height 1.6 m whose local -Z axis faces the view direction (camera convention); artifact_* are framable objects; label_recreation carries the recreation label in extras.text. Walkable bounds: bounds.json.",
+  "hotspots": [
+    "hotspot_1",
+    "hotspot_2",
+    "hotspot_3",
+    "hotspot_4"
+  ],
+  "artifacts": [
+    "artifact_bronze",
+    "artifact_bust",
+    "artifact_console_east",
+    "artifact_desk",
+    "artifact_drapes",
+    "artifact_flag_presidential",
+    "artifact_flag_us",
+    "artifact_jar_l",
+    "artifact_jar_r",
+    "artifact_mantel",
+    "artifact_mantel_plant",
+    "artifact_niche_shelves",
+    "artifact_painting_east",
+    "artifact_painting_mantel_r",
+    "artifact_painting_west",
+    "artifact_wing_chair_e",
+    "artifact_wing_chair_w"
+  ],
+  "label": [
+    "label_recreation"
+  ]
+}

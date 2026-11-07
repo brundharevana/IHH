@@ -1,0 +1,1288 @@
+_version_: 1853996922700824576
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn85060004/1936-08-08/ed-1/
+aka[1]: http://www.loc.gov/resource/sn85060004/1936-08-08/ed-1/
+batch[0]: txdn_jay_ver01
+call_number[0]: Newspaper
+call_number[1]: AN2.S3 L53
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/texas/
+composite_location[2]: 2/united states/texas/bexar/
+composite_location[3]: 3/united states/texas/bexar/san antonio/
+contributor_names[0]: University of North Texas; Denton, TX
+contributors[0].university of north texas; denton, tx: https://www.loc.gov/search/?fa=contributor:university+of+north+texas%3B+denton,+tx&fo=json
+created_published[0]: San Antonio, Tex., August 8, 1936
+date: 1936-08-08
+date_issued: 1936-08-08
+dates[0].1936-08-08: https://www.loc.gov/search/?dates=1936-08-08/1936-08-08&fo=json
+dates_of_publication: 1911-1993
+description[0]: San Antonio, Tex.
+digital_id[0]: https://hdl.loc.gov/loc.sgp/chronam.sn85060004
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2026-01-11T05:10:26.680Z
+extract_urls[0]: file:/service/ndnp//txdn/batch_txdn_jay_ver01/data/sn85060004/00516994605/1936080801/1936080801_1.xml#ndnp/txdn
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/txdn
+group[1]: university-of-north-texas-denton-tx-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn85060004/1936-08-08/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_jay_ver01:data:sn85060004:00516994605:1936080801:0218/full/pct:6.25/0/default.jpg#h=322&w=255
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_jay_ver01:data:sn85060004:00516994605:1936080801:0218/full/pct:12.5/0/default.jpg#h=645&w=511
+index: 4
+item.batch[0]: txdn_jay_ver01
+item.call_number[0]: Newspaper
+item.call_number[1]: AN2.S3 L53
+item.contributor_names[0]: University of North Texas; Denton, TX
+item.created_published[0]: San Antonio, Tex., August 8, 1936
+item.date: 1911
+item.date_issued: 1936-08-08
+item.dates[0]: 1936-08-08
+item.digital_id[0]: https://hdl.loc.gov/loc.sgp/chronam.sn85060004
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn85060004
+item.location[0]: San Antonio (Tex.)
+item.location[1]: Texas--San Antonio
+item.medium: 14 pages
+item.newspaper_title[0]: San Antonio light
+item.notes[0]: Daily
+item.notes[1]: Vol. 32, no. 70 (Apr. 1, 1911)-
+item.notes[2]: Ceased with Jan. 28, 1993.
+item.notes[3]: On Sunday published as: San Antonio Sunday light, .
+item.notes[4]: Last numbered issue was 112th year, no. 8 (Jan. 27, 1993). Jan. 28, 1993 issue also called Commemorative edition.
+item.notes[5]: Also issued on microfilm from Southwest Micropublishing Inc., and Bell and Howell.
+item.notes[6]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+item.notes[7]: Latest issue consulted: Jan. 28, 1993.
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//txdn/batch_txdn_jay_ver01/data/sn85060004/00516994605/1936080801/1936080801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn85060004/marcxml
+item.other_title[0]: San Antonio Sunday light
+item.place_of_publication: San Antonio, Tex.
+item.raw_lccn: sn 85060004
+item.reel_numbers[0]: 00516994605
+item.source_group: ndnp/txdn
+item.subjects[0]: San Antonio (Tex.)--Newspapers
+item.subjects[1]: Texas--San Antonio
+item.subjects[2]: United States--Texas--Bexar--San Antonio
+item.title: San Antonio light (San Antonio, Tex.), August 8, 1936, (HOME EDITION)
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn85060004
+location[0]: texas
+location[1]: bexar
+location[2]: united states
+location[3]: san antonio
+location_city[0]: san antonio
+location_country[0]: united states
+location_county[0]: bexar
+location_state[0]: texas
+locations[0].bexar: https://www.loc.gov/search/?fa=location:bexar&fo=json
+locations[1].san antonio: https://www.loc.gov/search/?fa=location:san+antonio&fo=json
+locations[2].texas: https://www.loc.gov/search/?fa=location:texas&fo=json
+locations[3].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].san antonio: https://www.loc.gov/search/?fa=location_city:san+antonio&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].bexar: https://www.loc.gov/search/?fa=location_county:bexar&fo=json
+locations_state[0].texas: https://www.loc.gov/search/?fa=location_state:texas&fo=json
+medium: 14 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: San Antonio light
+notes[0]: Daily
+notes[1]: Vol. 32, no. 70 (Apr. 1, 1911)-
+notes[2]: Ceased with Jan. 28, 1993.
+notes[3]: On Sunday published as: San Antonio Sunday light, .
+notes[4]: Last numbered issue was 112th year, no. 8 (Jan. 27, 1993). Jan. 28, 1993 issue also called Commemorative edition.
+notes[5]: Also issued on microfilm from Southwest Micropublishing Inc., and Bell and Howell.
+notes[6]: Archived issues are available in digital format from the Library of Congress Chronicling America online collection.
+notes[7]: Latest issue consulted: Jan. 28, 1993.
+number[0]: 00516994605
+number[1]: sn85060004
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn85060004
+number_reel[0]: 00516994605
+numeric_shelf_id: 193608081
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//txdn/batch_txdn_jay_ver01/data/sn85060004/00516994605/1936080801/1936080801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn85060004/marcxml
+other_title[0]: San Antonio Sunday light
+partof[0].count: 2215
+partof[0].title: san antonio light (san antonio, tex.) 1911-1993
+partof[0].url: https://www.loc.gov/search/?fa=partof:san+antonio+light+%28san+antonio,+tex.%29+1911-1993&fo=json
+partof[1].count: 3210989
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232495
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: san antonio light (san antonio, tex.) 1911-1993
+place_of_publication: San Antonio, Tex.
+publication_frequency[0]: daily
+raw_lccn: sn 85060004
+reel_numbers[0]: 00516994605
+resources[0].files: 14
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_jay_ver01:data:sn85060004:00516994605:1936080801:0218/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn85060004/1936-08-08/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.16233
+shard: 05
+shelf_id: sn85060004, 1936-08-08, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/txdn
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: newspapers
+subject[1]: san antonio
+subject[2]: texas
+subject[3]: bexar
+subject[4]: san antonio (tex.)
+subject[5]: united states
+subject_headings[0]: San Antonio (Tex.)--Newspapers
+subject_headings[1]: Texas--San Antonio
+subject_headings[2]: United States--Texas--Bexar--San Antonio
+subjects[0].bexar: https://www.loc.gov/search/?fa=subject:bexar&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].san antonio: https://www.loc.gov/search/?fa=subject:san+antonio&fo=json
+subjects[3].san antonio (tex.): https://www.loc.gov/search/?fa=subject:san+antonio+%28tex.%29&fo=json
+subjects[4].texas: https://www.loc.gov/search/?fa=subject:texas&fo=json
+subjects[5].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+timestamp: 2026-01-11T05:27:23.041Z
+title: San Antonio light (San Antonio, Tex.), August 8, 1936, (HOME EDITION)
+type[0]: issue
+url: https://www.loc.gov/item/sn85060004/1936-08-08/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_jay_ver01/data/sn85060004/00516994605/1936080801/0221.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn85060004/1936-08-08/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_jay_ver01:data:sn85060004:00516994605:1936080801:0218/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/txdn/batch_txdn_jay_ver01/data/sn85060004/00516994605/1936080801/0221.pdf
+resources[0].segment_count: 14
+resources[0].url: https://www.loc.gov/resource/sn85060004/1936-08-08/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1936, August 8) San Antonio light. Retrieved from the Library of Congress, https://www.loc.gov/item/sn85060004/1936-08-08/ed-1/.
+cite_this.chicago: San Antonio light. (San Antonio, TX), Aug. 8 1936. https://www.loc.gov/item/sn85060004/1936-08-08/ed-1/.
+cite_this.mla: San Antonio light. (San Antonio, TX) 8 Aug. 1936, p. 4. Retrieved from the Library of Congress, www.loc.gov/item/sn85060004/1936-08-08/ed-1/.
+
+segment_id: /service/ndnp/txdn/batch_txdn_jay_ver01/data/sn85060004/00516994605/1936080801/0221.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/txdn/batch_txdn_jay_ver01/data/sn85060004/00516994605/1936080801/0221.xml&format=alto_xml&full_text=1
+full_text:
+4-A
+SATIRDAY.
+MORRIS LEADS IN DECATHLON TITLE BATTLE
+TRID IN
+GREAT FORN
+AT BERLIN
+BERLIN. Aug. 8. ~-Capiuring
+both events, 110-meter Luraies s
+discus throw, starting ilir last hall
+of the Olvmpic decathlon batil
+Glenn Morris of Fort Colins. Colo.
+todav gained a commanding lead
+over his two mates, Boo Clark and
+Jack Parker. s the Amrrican "0
+continued domination *hrough srven
+events of the 10-even: all-around
+program
+With three events remaminz the
+Colorado automobile :alrsman o6
+with an aggregate of 3041 poinis;
+Clark, San Francisco:= former na
+tional A. A. U. champion. was sec-
+PP S r—— e
+e i s e
+VERSATILE GLENN MORRIS.
+Takes lead in decathlon.
+ond with 5705 points, and Parker
+who hails from Sacramento. Calif.
+third with 5502. Armin Guchl of
+Bwitzerland was fourth with 3333
+points.
+MAY BE SWEEP.
+The Americans’ unprecedented
+pace left European challengers
+trailing by such margins thau there
+appeared an excellent chance for
+the United States trio to annex all
+three medals for the first time in
+Olympic history.
+Morris. getting steadily better and
+proving he is a remarkable compe:
+tor, electrified 25.000 spectators by
+winning the hurdles in 14.9 seconds
+and then hurling the discus 4302
+meters (141 feet 47-64 inch', thus
+gaining his fourth first of the firs:
+seven events.
+The 24-vear-old former Coloracn
+State football gnd track star who
+broke the world decathion recorc
+with 2 total of 7800 points in the
+American trvouts .June 27 trailed
+Clark by two peinis at the end of
+yesterday's five event: Howeier he
+passed the San Franciscan by win
+ning the hurdle event as Clarg va
+timed 1n 15.7 seconds
+IN 15 FLAT,
+Clark’s margin over Parler was
+reduced when Parker flew over
+tall umber in 15 seconas flat. bu
+he regained some of 1ne ground
+when he huried the dicus 3659
+meters, 129 fect 2 53-63 1nches con
+pared with 39.11 meters 125 feed
+3 51-64 inches by Parker.
+All told. in the w0 morning
+events Morris gained 1749 point
+Clark 1511 and Parker 1614 Mor::
+weakest event is the pnle iz
+among the remaining three "o e
+contested this zfternoor. ny' e
+needed only 1940 poinis 'o prat nis
+own world record
+The withdrawal of Finarne
+Akilles Jarvinen runner-.p no 103
+and {ifth al the end of vesrerds
+five events with a to'al of 2787
+points. made the American.' o
+Jook eacier. It was reporiec a iep
+flrain forced out the la i of o
+great athlete Jarvinen tamy
+which has been bese! with Lad Lok
+in this Olympiad
+BFERLIN. Auz ne
+the werld record of 40 #oon
+the United Statec et of Jeooo
+Owernc. Ralph Metealfs Foo Drog
+and Frank Wvyloff ciniLec
+Fezt in the Olvmpie 400 ey oo
+lavy tneis trdar rele
+Itaban tezm by 15 meter
+The univers:] sturcsre PEERTPYT,
+v Uncle S2ms 1947 St crpes
+At Loc Anzoles wih o
+WEOff three-time oiir ve
+Carpenteriz Calf wion v s
+ancho Jeg 7« re e e vy
+1928 4t Amiterdaw
+The other membare et the verran.
+<etting team four i
+Popert Kiesel of Beroron 040
+Emmett, Topping of N ow Ol
+and Hector Dver o 1.0 20
+who ran in ‘hat ora tol
+Wykoft
+Returning to coms
+three days absence e b 1t
+ed his third Olviupie o O
+ens started perfects o oo
+United States a five-meie:
+which miale U
+creased
+The quarter. wi
+ecided upon this oy wtioy or
+werahle controvers Wty
+American camp. ranedice Bt
+T«rfect]ly as they ontc .o
+rivale
+The selection of ‘e ooarier ol
+rulted in the dropping of tue £or
+wan Jewish bove, Sam Steliny of
+Cincinnat! and Marty Glckman
+New York and prompted inumediate
+evebrow-lifting among American
+camp followers as WCll ay some it
+Jelsm
+Robertson defended lus choice
+Savine
+“They form the best quurtet we
+Liave and that's the ouly considera
+tion
+Showing surprising form and
+speed, the Ttallan foursome beat
+Japan and South Africa decisive-
+Iy, gaining the second ?mm\:n:
+place for tomorrow s finall
+w‘l m sprinters cap-
+Olympic Summary
+BEIN Aug (AP Tndayv s
+s track oand Neld summaries,
+Decatnien 110 merer hurdles
+Forer o neat- Won hye Riner, Belginm
+s osecemds. TTR pointe, second, Nat
+Norws 1A 1, TR2 pomts. third
+Peotikka, Poinlana 1650 10 paints,
+Seoon beat— Won by Juck Parke:,
+Vot States 15 seconds, 929 points
+second Guaenhl Swatzerland, 156, 845
+conts tores Csanyic Hungary, 170
+"o poants,
+Wi heat —Won by Bexell, Sweden
+o seconds e points: second
+Praweer k. Poland, 1640 723 ponts
+thonds leiamao Finland 16,6, oS
+pants
+t heat— Wan by Brasser. Haol
+11 v Eecondds, TEY points s second
+Werel Chide 1820 D28 paints
+Foonbente Taed foe first, Dahlgren
+Sweden o and Daellenbach, Switzerland,
+et seconds. TA8 points: third
+Bacsalmas) Hunzarv, 195 511 ponts
+St heat.Wien by Bob o Clark
+Tnoten States 10T scconds 818 paints
+second. Rennet German. 16820 749
+poants thids Boulanger, Belgram, 102,
+444 poopts
+Seventih best. Won by Dwatschefl
+Poigoma 1F L sccons. TOR peants. s
+end. Steerzel. Austria 165 TIO ponts
+thard Buehrer, Switterland, 166, RO
+painte
+Fizhth beste Wean bhye Glenn Marns
+Tnited States 140 secands, 048 pognts
+secana Huber Germany, 108 zecondz
+N4 poinis third, Kiein, Czechosievah
+1 17 61€ points
+Decathlon—discus throw—Weon hy
+Glenn Morris, United Srates, 42,03 me.
+ters 141 meet 47.64 inch. 803 points.
+second, Guehl, Switzerland, 4097 e
+ters 104 feet 2 57.64 inches, 740 points
+third, Bacsalmasi. Hungary, 3964 me.
+ters 180 feer 4364 inch. 701 peoints
+fourth, Natvig, Norwav, 3960 meters
+120 feet 11 3.32 qnches, R99 points:
+fifth. Brasser. Holland, 3945 meters
+120 feet 4 316 inches, K95 points;
+sixth, Bob Clark, United States 3900
+meters 128 feet 2 5364 jnches. 697
+points: seventh, Bonnet. Gérman, 39.16
+meters 128 feer 3 4G.84 pches, KSR
+pents: eizhth, Jack Parker, Unned
+States 2911 meters 128 feet 3 5Hi-h4
+inches. 685 paints: ninth, Bexell,
+Sweden 2882 meters 127 feer 4 4084
+inches. #77 points: tenth, Reinikha
+Finland, 5% &1 meters 126 feer 7.6%
+mmches 670 paints
+Decathlon-disaus Other perform
+ances Plaweovk Poland. 3% 20 meters
+125 fret 29.22 inches KR2 points
+Daoitscheff. Bulgaria. 55 25 meters, 105
+feet 5 15-16 inches 660 points: Dahi
+gren Sweden. 5808 meters. 124 feet
+10 20.64 inches, A55 points: Wenze!
+Chite. 5711 meters, 121 feet 9% 185
+inches 628 pointz: Bushrer, Switzer
+land. 56 meters. 119 feet 6 17.64
+inches A0% points: Csanvi. Hungary,
+35 86 meters, 117 feet T 27.32 inches
+5¢7 ponts: Huber. Germanv. 3546
+meters 116 feet 4 .32 anches, 582
+points: Sterzel. Austria, 35733 meters,
+115 feet 10 71.72 jnches, 5TR poin's:
+Telamo Finland, 3436 meters, 112
+feer 05.32 jnches 552 points: Dael
+jenbach, Switzerland 2118 meters 108
+feer 10 21-64 inches 520 points: Binet
+Belzium 26 87 meters SR feet 1 57-6%
+inches 467 pants: Boulanger Bel
+gium 2520 meters, 82 feet 9.64
+inches 524 prants
+Taotals pronie after seven events:
+Marris 3041 (lark ST05: Parker
+5502 oer 52T Rrausser 37T
+Dah'zren 3034 Plawesvi, 307970 Beon
+net. S012
+SWIMMING
+FERLIN. Aug 5 AP —Summar
+ies 'n Olympic sWIMMmMINE competition
+thdz
+Men 10fmeter frec.stvie fpials
+tfirst twe each heat qualifvinz far
+semifinzls z= well zs two fastesy
+thirde nf entre field)
+First heat— Wan o Peter Fick.
+United States 57 7: second Csik, Hun.
+wary, 58 00 third, Gahbrielaon, Grest
+Pritain &1 20 fourth Hamerton Cansne
+Ta fifth, Tatto, Braul: zixth, Kadri
+Euvpr
+Recond heat—Waon by Yass, Tapan
+5T 80 seconms At Highoand o Unired
+Crarec e b Kendull Austiei
+eyl £t Roclaid. Estaomin 801
+Coulilera, Franve sixth, Moo, 3
+luna
+Thied bear Won boe Wolliane Great
+Britwin, 607 secona. Adpladin Phal-
+Wpines 010 v schwarto Gers
+many 615 fourth Bourne, Canads
+fifrr Marass, Braszl =ixth, Zobernig
+Au-tron
+Foogrer Yoot Won b Aral lapen,
+ST inew O vinpae reccrds o second
+Fleones Gorrnanye ST O sthed Geaf
+Hunesro €17+ fogrn Spenee Ber
+mdza G Tuecnsclade France, sixth
+Breojesnli Grer e
+F o bezs Wer b Tazogobi Tanan
+KT sreanA Crvisrenon Twenmars
+€17 aher loarcen Canada 615
+Tie Alame Fleetric are anxe
+Ous o booy a Sundav o gems ant
+have tne Poio fela ciamond pe
+servea. Tewphone Fannin 9022
+The McDonzd Halters plav tre
+TaCoote pone 2 snele nall game a
+2 ocote Suncay alernoon al la-
+Cor e
+Tre Jors Calemer, of Hariarn
+dale 216G "he Sarn Arconio Rangers
+Mees o ar nportan: Metropolitar
+gt 6 s Dietenoer Sundav oat
+Birree The Calemern rn
+oo e v, oy with Sracte
+nespital o ovowinnir e one game T
+YAt oo hree ey
+the G e Orier ranor
+Takro o oo O Nepmee sre
+Marder= 2t Hejroe
+T Alzrie Tuirnt cerrpaes v
+saeitee tme Sar frtere 1
+loar 2t 2 ooy Buntav 2lter
+noon on polo Held diamontg Neo 2
+DENVER BASEBALL
+oy
+‘e e 0 e
+tr ey v Proentine: e
+mane IPrE Ry restinge 6y
+Hunezre zne Coeat Britzip for tie
+reeene guzlifuing place Py three
+ety Tre Triten were cinckee
+W4T secendo ane apd thre
+tentt ceconde ciower than tne
+Amaricans Argentinsg s ume war
+440
+Beichstuehrer Adolf Hitler ar-
+Paed Justoan time oo wateh v
+Gernans caplure the third wnd las
+rel 1w sensutional toish which
+maw Gerd Horuberger wipe oul o
+tWwo-meter defict on the home
+sbrecch wnd beal Canada's anchor
+mar. Howie McPhee, by a scant
+tWo feet Sweden was a close
+thind as the Germans were timer
+In 41] seconds with Canada one-
+Ltenth of a second slower,
+s fourth, Zak). Eavet. fifth, 8nldan, Pe
+o osixth, Ma raceorzos. Greeee,
+Sixth heat— Weon he Wilfan, Yoge
+slavin, R0AL geeond. Heibel, Germany
+14 third. OmMal, Philippines, 617
+forrth, Dave, England: fifth Marques,
+Brazil: =ixth, Young, Rermnda.
+Seventh heat Wan by Art Linde.
+Zren United States, 5850 second, Abay
+neomes Hungary, 6020 thivd, Hieta
+nen, Finland, 61.0: fourth, Stam, Hol
+lund (1fth Petersen, Denmark: sixth,
+Ziviili, Switzerland, (Hietanen, Fin
+land, and Kendall, Anustralia, were two
+(fastest third-olice men and qualified
+for semi-fingls.y
+Women's 200meter bhreast stroke
+trivi= (first three quality for =emi-
+S fmais as owell as two tastest fourthe
+place finishers)
+First hent Waon by Roerensen, Deno
+mark, 2006 T second, Tshere, Sweden
+308 T third Wanlhe v, Holland,
+P04 fourth, Hoeliner, Germany,
+11, fAifth Dorathen Scinller. Umited
+sTates anth, Kincston, GGreat Britain
+Secand heat Won by Genenger, Gere
+many. 004 seecnd Kasiein, Helland,
+0TS0 thid, Tsabal Japan, 15
+fanrth, Lappalainen. Finland, 5107
+fifth and last, Anncovednik, United
+States
+Third heat Wan by Mavehata, Jap
+an. 019 (new Olvmpic recordr s see
+and. Christensen, Denmark, 2120 third
+Gamm. Great Britain, 2 15510 foneh
+1rich Cumming, Umited Srates, 5:21°0
+fifth, Roubleova, Czechoslovakiac sixth,
+Wyss, Switzeriand
+Fourth heat—— Wen by Wallaohlzaezer
+Germany, 308 5. second. Storey, Great
+Britain. 3 10%: tnird. Lenk. Brazl
+3:17.2: feurth, Niclsen, Denmark.
+412 fifth and last, Stroomberg.
+Holland, (Hoeizner, Germany and
+Lappaleinen. Finland. fastest fourths
+qualified for semi-finals.) i
+R
+
+FRIDAY'S RESULTS
+By the Associated Press.
+Track and Field.
+Archie Williams, California negra
+captured 400.meter run in 465 sec
+onde, ziving United States i tenth
+gold medal in 17 track and field
+events: Arthur Godfrev Brown. Greast
+Britain. ran second and Jimmy Lovalle
+United States third. Other American
+entrant. Harold Smallwood, underwent
+a successful appendectomy about tha
+time the race was run
+Gunnar Hoeckert, Finland, captured
+5000.meter title in new Olvmpic record
+time of 14 minutes 222 seconds, Fins
+alsn tack zecond and sixth places as
+Louis Zamperini and Don Lash. Amer
+jean representatives. ran eighth and
+nex: ta last, respectively
+American decathlon aces zamned the
+tap three places after the tirst five
+events of the® two.day len-event test
+was completed Robert Clark led with
+4165 followed by Glenn Morriz at 4192
+and Jack Parker at 3885,
+The unofficial team standinzs (on
+10-5-4-2.2-1 bhasisy
+Men's track and fisld: United States
+167, Finland 57 's, Germanv 53%, Ja
+pan 37 13.22 Great Britain 28 1.1
+Canada 17 1-11 Ttaly 15 1522 Sweden
+15 1-11. New Zealand 10 Holland
+Switzerland Poland 5 1.11, Norwa.
+5 Philippines 4 Latvia 4. Australia 4
+Czechoslovakia 3 111 Brazil 20 Greeoa
+2 Argentina )0 Austria 200, Hungand
+2.11
+Waomen's *rack and fieid: Germans
+44 Priand_ 13 Diglv 10 Tniced Siates
+12, Japan T Canada 3, Austria o, Hels
+land 2, Sweden 1
+Polo.
+Arzentina, defeating Great Britan
+in decisive match. 11.00 wen Ojempic
+gold medal. Great Britzin took e
+@tlver with next two places awaiting
+the rezult of tadav s Hungary-Mexioo
+match.
+Field Hockey.
+T'nited Sraces last s second ma‘on
+in a rew. bowingz, T-0. ta Xindia,
+France and Belzium nied at 2.2,
+Yachts.
+United Seates continued 1o fare nhad
+Iy finishing eighth in S.meter clas
+seventn n fapeter claz: oninth on tar
+class and fifteenth in monotype di
+S0n
+Pistol Shooting
+Vllman of Sweden won the precsion
+shooting noetoh with new Olvmpre re
+ord total of 55% Kiempel of German
+Was second nnd Despoponneeres o
+Fronce *fard o with 533 aned 590 e
+el Fhlnat Joanes Greenwioh, Conn
+seoren 546 for Nth position
+Bashethall,
+Prolininary competition slared worl
+followinz re t F-toma U3 Franee
+200 Switzetiand 20 German. 5 Chile
+0 Tirhe TR Jralv 43, Polandg 2
+Pera 05 Eovpt 22 Mexgpeo L2 Beloine
+A Canada 24 Frug 1T Japan 2%
+China 1% Latoia 20 Ueizuas 07 i
+zary won from Crechoszlovakia e de
+faylr
+Fencing
+Teved Jezves defezrcd Twnnmark
+foite fiezr cene resr
+CULVER [né 4. 7+ The
+finals of the national duor ten-
+Callornia alfair as Joweph Hunt of
+Los Angeles end Jul Heldman o
+Hoilvwood saept hrougn the,
+eng-final mat e
+Trev meet toget for v
+‘he b o or Wl
+Urnetaedier of Milnurn, 200 ane
+y Kramor af Monoeln Cal’
+be rame
+Hurs *he ten-ceded tar
+mater i Lt et e Merr
+T Kerven raliege plater (ram
+Tevarpanes Ave 6.0 Fl4 Heirl
+nan uncer Deon MeNed onf Opla.
+herna Gt serded second 1o paiy
+r spnt 1 'he {inal The -core
+cdivicion Umetandte;
+0! N Tore. 6-2 64wl
+o 1t o H wr o dne ol
+s sdaeps Cuanl -4 600
+U. S. Fencers Lose
+to Italian Team
+kgl IN by The
+Poired Eiaog Frre (oveine vear
+Pesten one Is LA teran oy
+Ve O mpie et Vo
+Aetezied Cirrmzy 12-4 Rrloygm
+cop frere Prized (4.2 aped Gweden
+fefeztee Fertyez 0.7
+
+FVANGELING LEAGLY
+Alesareds s 4 L e
+Cyrie g 77 4 42
+My e i 74 45 o
+Jeinier et te 1 17
+Sew T n 04
+Lishe Charls wro 2.
+Friday's Kesults
+Lafavette 6 Opelousa.
+Abbeville )0 Fuvone %4
+Alexandria 215 New lhetin 59
+Jennerctte 54 Lake Clgles 4
+4
+INTERNATIONAL LEAGU
+Fridas's Results,
+Rochester 2, Alban
+Buffalo 4. Baltimore 0,
+Tarontn 2, Newark 0 i
+Byracuse 6, Montreal 8. 1
+THE SAN ANTONIO LIGHT.
+SWIM RECORDS
+TAKE EARLY
+
+BERLIN, Aug. 9—47—The Olym-
+pic 100-meter free style swimming’
+record took a bad beating today
+as Peter Fick, of the New York/
+Athletic club, and three Japanese
+all were clocked under 58 seconds
+in the preliminary trials, The
+Olvmpic standard of 58 seconds flat
+was set by Yasujr Civazaka of Ja
+pan at lLos Angeles in 1932
+After Fick and Shigeo Arai had
+been clocked in 577 seconds and
+Mzasanori Ynsa in 578 in winniny
+three of the firs; four heats, Sho
+1i Taguchi. Japanese ace. rushed
+through the water in 37.5 to clip
+five-tenths of a second off the old
+record,
+All three American entraniz
+qualified for the semi-finais.
+slong with Fick into the next round
+went Art, Highland of Chicago and
+Art Lindgren of Los Angeles. High-
+wend was second to Yusa in the
+second heat and Lindgren won the
+seventh heat in 58 seconds.
+All toid. 51 competitors start
+ed the competition. Rain, which
+ceased only a few minutes before
+the start of the first heat. hela
+the opening day crowd to not more
+than 3000.
+WON WITH EASE
+Fick had no ircuble in the open
+ing heat. swimming easily to beat
+Csik of Hungary bv more than a
+meter and setting up what proved
+to be a short lived Olvmpic mark
+highland. in the second heat. was
+o maten for the Japenese. Yusa.
+who beat the Chicagoan by 2.1
+ceconds In winning the heat in
+57.8.
+After Araj had duplicated Fick's
+time of 377 in keating Fischer of
+Germany by a narrow margin in
+the fourth heat. Taguchi furnished
+a temporary climex to the record
+breaking orgy with his great 575
+performance.
+Dorothea Schiller of Chicagoe
+first American girl off in the pre
+liminary heats of the 200-meter
+breast stroke competition. was bad
+ly beaten, finishing a poor f[ifth a=x
+Scerenzen of Denmark. the winnet.
+was clocked in 3 minutes, 6.7 sec
+onds. four-tenth of a second baci
+cf the Olympic sitandard of 3.062
+et bv Clare Dennis of Australia
+at Los Angeles [our vears ago.
+GIRLS FARE BADLY
+It began to look like a rout for 2
+America's women as Ann Govednik
+of Chisholm, Minn., also trailed in
+fifth place in the second heat. Ge
+nenger of Germanv won the heat
+iz 3:03 flat for a new Olympic rec-
+crd g
+Neither American girls threatened
+Lo stay wilh the leaders. They were
+ouiclassed. especially «n the turn
+The third and last American P
+staiter, Iris Cumming of Rodento
+Beach, Colif. likewise eliminated,
+nnishing a slow fourth in the heat k
+wou by the Japaiese, H Mavehata,
+inothe sensation time of 3 mindtes S
+1 9-10 ceconds. This bettered the
+new record set in the earlier heat
+by Genenger of Germany and ap-
+proached Miss Havehata's listeqg
+world's record of 3:00.4 i
+e
+Haas Reaches Colf
+Final at Winnipeg
+WINNIPEG *Man.. Aug. 88— 7
+Fred Haas. voung New Orleans link
+star. conquered the veteran C. Rose
+Somerville of London. Ont.. defend
+ing champion 3 and 2. to reach the
+fnzl of the Canadian amateur golf
+champlonship Friday. His opponent
+i Bobby Reith of Winnipeg, who
+trounced Stan Leonard of Van
+couver. 6 and 5 in the other 36-
+hole enicounter,
+e
+MISS PEDERSON
+NET SENSATION
+FAST HAMPTON N Y. Aug 2
+M- Hrlen Pederson, whose re
+markahle strinz af tennmiz upseis
+hz= ncen the senzation of the Maid
+flore cinh's invitation tournamen'.
+doesn’t <eem o realize how good
+che really 1= at the net game,
+The ~giant-killing” tennis young
+ster from Stamford, Conn., whe
+meelts Gracvn Wheeler of Santa
+Monica. Calif in the singles final
+teday believes she has been play
+iy vay over’ her heasd oelin
+eting two ol the naton's thst 1y
+wOInen aces in oas mahy days
+But the tennis experts have seen
+Her progress g the Jast few yveurs
+through girls’ ranks, where she bhe
+came nationas) rhnmpmn and since
+and know that her splendid conrt
+coverace and nnlhant assortment of
+stroves are rapidly making of her
+4 threal 10 anv o of the coyntre
+ranking legder=
+A=z result. they weren't parties;.
+larly surprised when Mis: Pererson
+followed up her victory over Mr:
+Mary Greef Harris of Kansas G117y
+Thursday with a 6-3, 6-4 triumph
+yesterday over the country's fifth-
+‘ranked racquet-wielder, Mrs., John
+Van Ryn
+Miss Wheeler reached the finals
+yesterday by elininating another
+ol the tournament's upset ~.pm:lul—‘
+ists, Theodosia Smith, of Pasadena,
+Calif., who tell, 6-1, 10-8,
+The doubles swrvivors, Dorothy
+Workman and Dorothy Bundy 0!|
+Californya, and Mme. Sylvia Hen-
+rotin of France and Mrs, Dorothy
+Andrus of New York, also meet, for
+lthe title today.
+B e
+CAVALCADE PREPS FOR COMEBACK
+Mrs. Isabel Dodge Sloan's great
+1934 Kentucky Dearby winner, Caval
+cade, preps at Saratoga for a “come
+back™ after being out a long time with a
+HIGH ELEVENS
+IN BIG GAME
+FORT WORTH. Aug. 8.—
+Two =alwart bands of Texas high
+school fontball stars, drilled by var
+ity eoaches, will perform tonight
+in a prologue tn the approaching
+grid season
+The all-<tar game here will climax
+the fourth annual school of the
+Texas High School Coaches' asso
+ciation, which has been meeting at
+Texas Christian university this
+week.
+Ohio State’s Francis Schmidt will
+put on the ficid a team composed
+of outstanding gridsters from every
+cection of the upper half of Texas
+His aggregation will oppose a team
+coached by Bernie Moore, Loulsiana
+State's coach, representing the
+southern end of the state.
+Final rehearsals for the 48 plav
+ers were held vesterdayv., The weight
+advantage, particularly in the hne,
+ic With the southerners.
+L
+Low Score;s Galore
+in Portland Golf
+PORTLAND. Ore, Auz. 8
+The thorough drubbing handed par
+72 in the opening 18 holes of the
+$5000 Orezon open golf tournament
+brough: new names to ihe linie
+light today.
+Leading the procession with 681
+were Horton Smith, Chicago; Neil
+Christian. Yakima., Wash.; Mark
+Frv. Oskland, Calif; and Willie
+Goggan, San Fraucisco.
+Dutch Harrison, Little Rock. Ark
+and Stan Kertes, Santa Monica.
+Calif whipped around the 6381-
+vard Waverlev course in 69 and Ray
+Mazngrum, Davton, Ohio, turned in
+a 70
+MeDonald Smith, Glendale, Calif
+and Ralph Guldahl, St. Louis, Jead
+ere .n the recent $5000 Seatile open
+which Smith won in a play-off, and
+Tony Manern, 17 8. open champion
+from Secdoefield. S, tied with 10
+others at 71 Only one amateur, Don
+Mor of Portland, was in the phr
+breaking clasc. He shot. 71. Four en
+trants toured the course in an even
+2.
+Lawson Little, Chicago, British
+and American open champ in 1934-
+35, carded 76 alter a bad first
+nine which took 41 strokes
+The 1195 players about a third of
+whom are wnateurs uare playing
+another 1% holes today and the low
+GU Wil compete b the finad 36-hole
+round Sunday
+
+ROUND ROBIN
+POLO SUNDAY
+The Fizhth Corp, Area Head
+quarters team. the San Antonio
+Freechooters and the S8an Antonio
+Yellowjackets will play a polo
+cound robin Sunday afternoon at
+Bruckenridge Park. The game s
+3:30, with the Corps area team
+to pluy the San Antonio Yellow
+.‘Juv}f.ul,:, tour chukkers and llr-!
+Freeboolers two perfods. The Free
+bouters ung the Yellowjackets then
+will meet tor two periods ot play,
+o
+A University of Kentucky profes-
+sor says the average person loses
+j one or more pounds a day uurmzl
+R R
+bad leg. Buddy Raineg is shown exercis
+ing the big galloper, which may show
+up in some rich stakes before the meet
+ing ends. —International News photo.
+Texas League Boxes
+SHIPPERS, BUCS SPLIT,
+First zame
+Beaumont. Galveston.
+AB H OA AR HOA
+Archie b 3 111 0/ Hostetl If 4 20 0
+Chriz.%h 4 01 5 MclLecd.ss 3.0 21
+MeCoy rf 01 3 0 Binder,2b 5 25 2
+Cronech..Zh 4 0 4 3 8uskao.lh 2150,
+Jones |f 3000 Moorerf 4110
+L Cullen cf 30 2 0 Gover.ef 4 03 0
+Brown.ss 20 0 1 Mackie e 4291,
+Lorbeere 20 3 0 MeGeelh 11 2 4
+Conk.p N 003 Richmo.,p 3000
+Tehbwtrs 1100
+Ross 1000
+Totals 28 32410 Toralg 30 927
+By Innings.
+Beaumont .......000 000 0022
+Galveston 000 003 20x—5
+Nummary.
+Error. Cook. runs batted in. Suske.
+Binder 2 Moore, Tebbetts 20 two-base
+P hite, Susko, Binder, Hostetler: stolen
+bases McCoy, Hostetler: sacrifices,
+Hostetler, Mclieod: double plays, Me-
+Leod to Binder to Susko, Croucher to
+Archie: lelt on basze. Beaumont
+Galveston 5. buse on balls, off Cook
+5, Richmond 7- strikeouts, by Cook 2,
+I Richmond hit by pitcher by Rich-
+mond CArchie, Joness wild piteh,
+Cook: vmpires, Fowler and Colter
+tite 199
+Second game:
+Beaun.ont Galveston
+ABHL.OA ABHOA
+Archielb 5 2 9 1 Hatetler If 2 01 0
+Ch'man“bh 4 1 0 2 MclLeodss 3 0 2 0
+MeCovorf .4 2 0 1 Binder2h 3 1 1 3
+Cricher 2h 4 2 2 2 Suskodlh 0 6A 2
+Jones It 4220 Moorerf 2110
+I C'nhineef 4 210 0 Govnoref 31 30
+Tebhettze 1.0 %5 1 Jonnarde 21 360
+Rrown.ss 2 1 44 Fagan2h .1 11 2|
+Gillp .2 004 MeGendh 11 00
+Gibhep .21 11
+Bennettp 0 000!
+Davisp ..1 0 2 0!
+Teotals 372122105 Totals 247 218
+i By Innings.
+Beaumont Lo 002 0100 012
+Galveston L0102 00 0— 3|
+Summars
+Frrors Cullenbine, McLeod, Susko:
+(runs batted im. Governor, MeCoy 2
+Archie 5 Christman, Croucher, Cullen
+I"W 2. Gil, Gibbs 2. two-base hits,
+Croncher, Brown, MeCoy, Cullenbine
+home rung. Governor, Archie; sucrifice,
+MceCaoy o double plays, Gill to Brown
+to Archie. Brown to Croucher to Arche
+i left on base, Beaumont 6. Gulvis
+ton 40 base on balls, off Gill 2 off
+Gibbe 1 off Bennett 2. off Davis 1
+lstrikeonuts. by Gabibs 20 hite, off ‘:I.n'l'i
+Goan 4 15 dnnnks, off Bennett 2 in nao
+innng it by opitelier, by Gl 0y
+#an by Gibbe (Brown) losing pitely
+er. Gibhs ampires, Colfer and Fowley
+tine, 105,
+e
+BRITTAIN'S HOMER WINS 7T
+Fart Warth Dallas
+AR TOA AR IO A
+Sheflevef 4 1 100 Tyuhvof 4 4% 0
+Sthhin=1h 2 1101 Masolfrf 21 2 0
+Friceenef 30 2 0 Mallon2h 4 1 1 2|
+Fnglich.2h 4 00 3 Straper 3h 1 0 0 3
+Grimes7h 4 0.0 2 Hapvellf 3020
+Meserdf 4220 Levayar 3127
+Brittaine 4 1 4 1 Contgrr,th 3 1150
+Fngless 4 0 7 3| Renfa.r 4011
+Greer p 2.0 0 1 Mrherrv.p 20 0 1|
+Monre.p n o000 zMntague 1000
+'x!‘rv&l 1000
+1 Totals 32 52711 Totals 30 72715
+xPatted far Greer in eighth,
+zBatted tor Murberev in ninth,
+By tunings
+Faort Waorth Lo 000 000 002 2
+Dalla~ GOU 010 non 1
+Sutnmary
+Forvorz Fosle Rtensa, stolen buse,
+Shelley o sacrifices, Mosolt, Jlarvel,
+Cannant ey runs batted an Brittain
+2 Muiton twobnse hits, Tanby, Con-
+nit ey three bhu<e hit, Moser home
+Pruns Brittan buse on balls, off Greer
+2o off Marherry 4 struck ont. by
+Corecr 2 b Murherey 20 hit hatuman,
+b Greer (hesesy s piteher' s datiaties
+AOf Greer 6 it and 1 oun Ginearned
+in 7 mnmings alf Manre 1 hit oand ne
+minoom 2 annipy winning mnhn._*
+Merve deft an hases Fart Werth
+Nallaz carned ryns Fart Warth 2|
+fime 1:45: umpires, Falmear and FPate
+e
+Todd Beats Smith
+in Dallas Finals
+DALLAS, Aug. 8—@—Lanky Har
+(ry Todd was still the all-South
+western Golf association champion
+I today.
+He kept his crown in a thrilling
+“‘-xhilulmn which saw him cut down
+lu tive-hole lead held by Reynolds
+;Smnh_ Walker cup star, and emerge
+fwinner, 2 and 1. The deciding match
+was played yesterday on the Lake
+twn:;d“(_;nuntgf club course,
+Both are Dallas players,
+OILERS TAKE LONG ONFE,
+Okla. City. Tulsa,
+AB H.OA ABH.OA
+Brower.gs 5 2 1 6 z2Craw.2h 30 2 2
+Young,2b 7 3 3 3 szJun. 2b-ss4 1 2 2
+Hall,If 720 0! Allaireth 6 2 4 3
+Kott,'b 2160 MeMan.lb 3 1100
+(Keesey, 1h 2 1311 Howell If 713 20
+Easterl,cf 51 4 0. Schin.,cfrf 5190
+Flood, rf 4 261 Cobbrf-lh 71 4 0
+Rilgere.2h 6 0 0 4 York.ss 521 4
+Fitzpatr.c 3 0 0 Jacksone 6 2 5 2
+Buxton.p 1.0 0 2 Milsteadp 1 000
+xMyers 000 0! Sslwav.p 2002
+Klaerne.p 2 0 0 0 Patchett,ef 2 0 3 0
+xxWarre ,c 2 01 "‘mrkrnl.n 1000
+lK»mbml,p 0000
+Totals 49134217] Torals 52134216
+xBatted for Fiizpatrick in tenth.
+xxRan for Keesey in cighth
+zBatted for Jansco in cightn,
+zzReturned as courtesy.
+By Innings.
+Tulsa 000 030 001 000 02
+{Okla. City 230 000 010 000 017
+Sumimary
+I Errors. Erower, Buxton. McManus
+Jackson: runs batted in, Hall 2. Keesev,
+Young 2. >McMunus Schino 20 Cobb.
+Jackson. Howell, Junsco 20 two-buse
+hits, Allaire 2, Brower, Brillheart,
+Young, three-base hit«, Jaclson
+Sehinag, Cobh acrifices, Selwiy,
+Keesey, MeManus, Brower, Easterline
+stolen base, Jansco: bases on balls, off
+LBrillheart 5 oft Klaerner 11 off Pick
+rel 1, off Selway 5, off Milstead 2,
+struck out, hy Brillheart 3 by Buxton
+2, by Klaerner 11, by Selway 1 by
+Pickrel 2 by Kimball 11, wild pitch,
+Selwayv: runs and hite off Brillheart 5/
+and 7 in 4 1.3 off Pickrel 5 and 4 off
+Milstead 5 and 5 in 2 off Selwav 1
+rand 3 in 7 1.2 winning pitcher, Piek
+rel; lozing pitcher, Klaerner: double
+plave, Flood to Keesev, Crawford to
+York 1o Cobh: triple play Allaire ta
+'Jackson ta McManns: left on bases,
+Tulsa 1. Oklahoma City 11 Time,
+3.35 Umpires, Welsh and Naylor.
+e
+CARS TO RACE
+HERE SEPT. 6
+Promoter Hoyt Jopling todav an
+nounced a modified stock car au
+tomobile racing program on Sunday,
+Sept. 6, at the San Antonic speed
+way on the new Seguin highwa}
+e
+Naismith Honored
+~at Olympic Games
+BERLIN. Aug. (@)—Before the
+start of the Olympic baszketha'l
+‘jmurnnmrm today, players from the
+eompeting nations honored Dy
+l.)nmcs A. Naismith of the Univer
+ity of Kansas, inventor of the
+game,
+All competitors marched past the
+‘vctrmn coach after which speakers
+‘p:ml him tribute. Naismith thanked
+them and said “it doesn't seem long
+j"'l“("' I walked onto a playground
+[in Springtield, Mass., with a ball in
+my hand and the game inomy head.
+I never expected to live Lo see the
+game played in the Olympics
+Ball, in Temperamental
+Fit, Gives Away Maich
+8T PAUL. Aug. —#®--Don
+Leavens, defending champion from
+Milwaukee, gained the gemi-finals
+of the Minnesota state open tennis
+championships at the St. Paul Ten
+nis club Friday as his opponent,
+Russell Ball of E] Puso, Texas, made
+no altempt to win the final and
+deciding set of a bitler mateh, The
+scores were 6-1, 6-8, 3-6, 9-17, 6-0.
+The struggle way abandoned by
+the Texan after an unfavorable de
+cision In the fifteenth game of the
+fourth set. A return by Ball flicked
+the sideline, according to observers,
+and Leavens was unable to get his'
+AUGUST 8, 1936.
+MRS. JARRETT
+FINISHED AS
+AMATEUR
+BERLIN, Aug. 8—(#)—Robert
+Donat, secretary of the interna=
+tional Swimming federation, today
+told Eleanor Holm Jarrett that she
+was to swim in np more amateur
+meets upon the instructions of
+Avery Brundage, president of the
+American Olympic committee.
+Brundage told Donat that, as
+president of the American Amateur
+Athletic union. he already had dis
+qualified Mrs. Jarrett.
+On what grounds the backstroke
+ace was being disqualified, Brun
+dage did not sav.
+Mrs. Jarrett, disbarred from the
+American Olvmpic team for viela
+tion of ‘the training rules forbid
+ding drinking and late hours, snb
+sequently agreed to report the
+Olmpic games for a newspaper
+syndicate.
+lBUSY DAY FOR
+PARK NETTERS
+Doubles and singles in all divi
+sions were on Saturday in the city
+municipal tennis tournament.
+Men’s and women's plav was billed
+for the Lions' field courts, with
+others at Highland Park and
+Brackenridge Park.
+Competition in the girls' and
+|women‘s division featured plas
+Friday, with the finals being
+reached in each division. Ann Ev
+ans and Willie Myrtle Young wiil
+meet Sunday in Lions' ficld for
+tne girls' title, while Miss Younz
+:also will meet Lois Campbell for
+I the women’'s crown. The second
+title match also will be plaved Sun
+day at Lions' [ield
+Players interested in mixed dou
+bles are urged to register Satur
+Gay at the city hull,
+Results:
+I Bovs singles: Robert Goldheok doa.
+feated Leo Rose. 6.0 61 Thomas
+Nixon defeated Ben Nixon, 62 6.0
+John Hickman defeated Dick O, 6.0,
+6.2,
+Bovs" doubles John Hickman and
+Jimmy Jinga defeated B Ot oan d
+S Dick Ott. 6.1, 64: Ben and Thomas
+Nixon defeated Robert Goldbeck and
+Don Galdbeck, 6.1, 6.2
+Junior bovs" zingles: David Hicke
+defeated Clarence Kinser, 4.6, 6.4, 6. 1:
+Dean Yancev defeated Robert Freeo
+man, A1 6.0 Lonis Manhoff defeated
+A. I. Melancon. 6.0, 6.0; Harry Hick
+man defeated Ben Nixon, 6.1, 7.5
+Junior bovs' doublez: Ben and Thon
+{as Nixon defeated C. Kinser and I,
+Manhoff, 4.6, 6.3 61- Dean Yanerw
+and H. Hickman defeated Emil Offar
+and David Hickey, -6, 6.2: D. Yaneso
+and H. Hickman defeated I ifickman
+and Russell Fritseh, 6:3 6.4 Hicne
+man and Fritsch were awarded a fore
+feit from F. Hickman and partner
+Girls" singles: Ann Evans defeated
+Rubyv Suenz, 6.0 6.1
+Women's sinzles Willie Myrtle
+Younys defested Bess Fichnrds, 6e2
+Lois Campbell defeated Mury O Erien,
+60 105
+Woren's doubles W M. Youny sni
+Mre P Vo Hickman defeated Mina
+Burnett and Aon kvane, 60 61
+Men's singles: Justin Hickey defent.
+ed Hernard Rapoport, 6.4, 6.4, Frost
+Carvel defeated T, G Fowler by des
+faults Allen Folks defeated Lieat f1.
+Thatcher by detault: Jimmy Challiss
+defeated ngo Cordre 6.3, 600 AL Of
+fer defeated Arien Aufderharr. 4 6 6 1,
+64 0 A Rotchehild won by defanlt
+from 1. T Rjckner: Seott Schakle
+ford defeated for Steadham, 6.1 &1;
+Louis Manhoff defeated Gayle Nel:on,
+AR B2
+2
+Parker and Mangin
+in Meadow Final
+SOUTHAMPTON, N. Y, Aug. 8
+(®)—Frankie Parker, Davis cup
+hopeful from Spring Lake, N J.,
+and Milwaukee, faced the final hur
+‘dles today in his campaign for an
+other “grand slam~ in the Meadow
+‘club’s invitation tennis tournament,
+Seeking his fourth straight sin
+gles title, he opposed Gregory Man
+gin of Newark, N J. in the finals
+of the individual play
+Then he and Mangin were to
+team 1ip to engage the national
+clay court champions, Bobby Riggs
+and Wavne Sabin of los Angeles,
+in an effort to retain their doubles
+Crown,
+e
+Fight Results
+HOLLYWOOD, (ahf Ang E
+lt/\l‘lr. Carmen Barth. Cleveland 1932
+Olympic champion, became a ranking
+contender today for Freddie Steele's
+middleweight crown. The Ohin bex
+ing master wrapped up oa knockout
+wallop ineach fist last night and
+blasted out Osear ("Swede”) Berge
+lund, durable Culifornia campaiiner,
+in three vounds at Lexion stadium,
+Tampi I 1ed uarman 180,
+szaitiore, uocked ot feing Ko,
+200 Germany
+BErdeeport, Conne Loul Kid Coron,
+PGS New Haven, outpoiited Jack
+Portuey cvn s Baltimore o1,
+racquet on gt The umpire fAlled to
+see the hall and hoth players agreed
+to play it as a net ball. In the play=~
+over Leavens won the point and
+ran out the game, He broke Ball's
+service In another hard-played
+game and won the set, 9-7, Lo square
+the match at two sels each,
+The lust sel was a furce, Ball
+slamndng returns into hils fores
+court, the net or the fences ine
+closing the courts
+Scott Rexinger and Stuart Coge
+nell of Minneapolis scored w miid
+'upnm. In the doubles by whipping
+Leavens and Car) Smalley, of Yorke
+"town, Texas, 4-6, 6-2, 7-5,

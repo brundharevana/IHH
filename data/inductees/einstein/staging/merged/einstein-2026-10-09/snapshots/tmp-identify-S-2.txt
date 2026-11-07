@@ -1,0 +1,87 @@
+role.reference: true
+role.creator: false
+role.contributor: true
+role.donor: false
+sourceNotes[0]: Lorentz, H. A. Das Relativitätsprinzip ... 1913.
+sourceNotes[1]: LCCN 73-973624: Ðuric-Trbuhovic, D. U senci Alberta Ajnstajna, 1969.
+sourceNotes[2]: Yardeni-Katz, R. Albert Ainshtain, c1986: t.p. verso (Albert Einstein [in rom.])
+sourceNotes[3]: Li, T.C. Ai-yin-ssu-tan che hsüeh ssu hsiang yen chiu, 1988: colophon (Aiyinsitan [in rom.])
+sourceNotes[4]: Ainstaina, 1996: p. 9 (Albarta Ainstaina)
+sourceNotes[5]: Senso hihan, 1934: t.p. (A Ainshutain [in katakana])
+heading: Einstein, Albert, 1879-1955
+recordType: authority
+organizationalReferences[0].heading: Emergency Committee of Atomic Scientists (1946 - 1950)
+organizationalReferences[0].naId: 10548671
+importRecordControlNumber: n 79022889
+authorityType: person
+birthDate.year: 1879
+birthDate.logicalDate: 1879-01-01
+linkCounts.totalDescriptions: 21
+linkCounts.contributor: 16
+linkCounts.subject: 6
+linkCounts.organization: 1
+deathDate.year: 1955
+deathDate.logicalDate: 1955-12-31
+name: Einstein, Albert,
+variantPersonNames[0].heading: Einshtein, Al'bert, 1879-1955
+variantPersonNames[0].deathDate.year: 1955
+variantPersonNames[0].deathDate.logicalDate: 1955-12-31
+variantPersonNames[0].name: Einshtein, Al'bert,
+variantPersonNames[0].birthDate.year: 1879
+variantPersonNames[0].birthDate.logicalDate: 1879-01-01
+variantPersonNames[1].heading: Ainshtain, Albert, 1879-1955
+variantPersonNames[1].deathDate.year: 1955
+variantPersonNames[1].deathDate.logicalDate: 1955-12-31
+variantPersonNames[1].name: Ainshtain, Albert,
+variantPersonNames[1].birthDate.year: 1879
+variantPersonNames[1].birthDate.logicalDate: 1879-01-01
+variantPersonNames[2].heading: Inshtin, 1879-1955
+variantPersonNames[2].deathDate.year: 1955
+variantPersonNames[2].deathDate.logicalDate: 1955-12-31
+variantPersonNames[2].name: Inshtin,
+variantPersonNames[2].birthDate.year: 1879
+variantPersonNames[2].birthDate.logicalDate: 1879-01-01
+variantPersonNames[3].heading: Ajnstajn, Albert, 1879-1955
+variantPersonNames[3].deathDate.year: 1955
+variantPersonNames[3].deathDate.logicalDate: 1955-12-31
+variantPersonNames[3].name: Ajnstajn, Albert,
+variantPersonNames[3].birthDate.year: 1879
+variantPersonNames[3].birthDate.logicalDate: 1879-01-01
+variantPersonNames[4].heading: Ai-yin-ssu-tan, A-po-te, 1879-1955
+variantPersonNames[4].deathDate.year: 1955
+variantPersonNames[4].deathDate.logicalDate: 1955-12-31
+variantPersonNames[4].name: Ai-yin-ssu-tan, A-po-te,
+variantPersonNames[4].birthDate.year: 1879
+variantPersonNames[4].birthDate.logicalDate: 1879-01-01
+variantPersonNames[5].heading: Aynishtayn, 1879-1955
+variantPersonNames[5].deathDate.year: 1955
+variantPersonNames[5].deathDate.logicalDate: 1955-12-31
+variantPersonNames[5].name: Aynishtayn,
+variantPersonNames[5].birthDate.year: 1879
+variantPersonNames[5].birthDate.logicalDate: 1879-01-01
+variantPersonNames[6].heading: Aiyinsitan, 1879-1955
+variantPersonNames[6].deathDate.year: 1955
+variantPersonNames[6].deathDate.logicalDate: 1955-12-31
+variantPersonNames[6].name: Aiyinsitan,
+variantPersonNames[6].birthDate.year: 1879
+variantPersonNames[6].birthDate.logicalDate: 1879-01-01
+variantPersonNames[7].heading: Ai-yin-ssu-tan, 1879-1955
+variantPersonNames[7].deathDate.year: 1955
+variantPersonNames[7].deathDate.logicalDate: 1955-12-31
+variantPersonNames[7].name: Ai-yin-ssu-tan,
+variantPersonNames[7].birthDate.year: 1879
+variantPersonNames[7].birthDate.logicalDate: 1879-01-01
+variantPersonNames[8].heading: Ainshutain, A, 1879-1955
+variantPersonNames[8].deathDate.year: 1955
+variantPersonNames[8].deathDate.logicalDate: 1955-12-31
+variantPersonNames[8].name: Ainshutain, A,
+variantPersonNames[8].birthDate.year: 1879
+variantPersonNames[8].birthDate.logicalDate: 1879-01-01
+variantPersonNames[9].heading: Ainstaina, Albarta, 1879-1955
+variantPersonNames[9].deathDate.year: 1955
+variantPersonNames[9].deathDate.logicalDate: 1955-12-31
+variantPersonNames[9].name: Ainstaina, Albarta,
+variantPersonNames[9].birthDate.year: 1879
+variantPersonNames[9].birthDate.logicalDate: 1879-01-01
+naId: 10582637
+preferred: true

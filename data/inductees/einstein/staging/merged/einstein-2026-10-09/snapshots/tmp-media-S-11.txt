@@ -1,0 +1,91 @@
+title: Albert Einstein and Prime Minister Nehru
+scopeAndContentNote: Albert Einstein and Prime Minister Nehru enjoy a visit together.  From left, Albert Einstein, Prime Minister Jawaharlal Nehru.  From album "Visit of his Excellency Prime Minister Jawaharlal Nehru Prime Minister of India to the United States of America"
+Credit:
+Department of State
+levelOfDescription: item
+recordType: description
+subjects[0].heading: Einstein, Albert, 1879-1955
+subjects[0].deathDate.year: 1955
+subjects[0].deathDate.logicalDate: 1955-12-31
+subjects[0].authorityType: person
+subjects[0].birthDate.year: 1879
+subjects[0].birthDate.logicalDate: 1879-01-01
+subjects[0].naId: 10582637
+subjects[1].heading: Nehru, Jawaharlal, 1889-1964
+subjects[1].deathDate.year: 1964
+subjects[1].deathDate.logicalDate: 1964-12-31
+subjects[1].authorityType: person
+subjects[1].birthDate.year: 1889
+subjects[1].birthDate.logicalDate: 1889-01-01
+subjects[1].naId: 10582117
+subjects[2].heading: Prime ministers
+subjects[2].authorityType: topicalSubject
+subjects[2].naId: 10646144
+subjects[3].heading: Scientists
+subjects[3].authorityType: topicalSubject
+subjects[3].naId: 10642294
+subjects[4].heading: Visitors, Foreign
+subjects[4].authorityType: topicalSubject
+subjects[4].naId: 10644109
+subjects[5].heading: Visits of state
+subjects[5].authorityType: topicalSubject
+subjects[5].naId: 10644363
+useRestriction.status: Unrestricted
+audiovisual: False
+physicalOccurrences[0].referenceUnits[0].city: Independence
+physicalOccurrences[0].referenceUnits[0].phone: 816-268-8272
+physicalOccurrences[0].referenceUnits[0].address1: 500 West U.S. Highway 24
+physicalOccurrences[0].referenceUnits[0].postalCode: 64050-1798
+physicalOccurrences[0].referenceUnits[0].name: Harry S. Truman Library
+physicalOccurrences[0].referenceUnits[0].state: MO
+physicalOccurrences[0].referenceUnits[0].fax: 816-268-8295
+physicalOccurrences[0].referenceUnits[0].email: truman.reference@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Photographic Materials
+physicalOccurrences[0].mediaOccurrences[0].width: 10
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Photographic Print
+physicalOccurrences[0].mediaOccurrences[0].height: 13.5
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted
+dataControlGroup.groupId: ou=NLHST,ou=groups
+dataControlGroup.groupCd: LPHST
+generalRecordsTypes[0]: Photographs and other Graphic Materials
+localIdentifier: 72-623
+productionDates[0].month: 11
+productionDates[0].year: 1949
+productionDates[0].day: 5
+productionDates[0].logicalDate: 1949-11-05
+digitalObjects[0].objectFilename: 72-623.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/truman/photographs/72/72-623.jpg
+digitalObjects[0].objectFileSize: 237170
+digitalObjects[0].objectId: 348448946
+digitalObjects[0].objectType: Image (JPG)
+ancestors[0].collectionIdentifier: HST-PHC
+ancestors[0].inclusiveStartDate.year: 1957
+ancestors[0].inclusiveStartDate.logicalDate: 1957-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.year: 2023
+ancestors[0].inclusiveEndDate.logicalDate: 2023-12-31
+ancestors[0].title: Photograph Collection
+ancestors[0].naId: 1207
+ancestors[1].inclusiveStartDate.year: 1957
+ancestors[1].inclusiveStartDate.logicalDate: 1957-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library. (4/1/1985 - 7/31/2011)
+ancestors[1].creators[0].abolishDate.month: 7
+ancestors[1].creators[0].abolishDate.year: 2011
+ancestors[1].creators[0].abolishDate.day: 31
+ancestors[1].creators[0].abolishDate.logicalDate: 2011-07-31
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 4
+ancestors[1].creators[0].establishDate.year: 1985
+ancestors[1].creators[0].establishDate.day: 1
+ancestors[1].creators[0].establishDate.logicalDate: 1985-04-01
+ancestors[1].creators[0].naId: 10498627
+ancestors[1].inclusiveEndDate.year: 2023
+ancestors[1].inclusiveEndDate.logicalDate: 2023-12-31
+ancestors[1].title: Photographs Relating to the Administration, Family, and Personal Life of Harry S. Truman
+ancestors[1].naId: 198606
+naId: 348448945

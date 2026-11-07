@@ -1,0 +1,12 @@
+{
+  "url": "https://www.loc.gov/resource/sn82016014/1898-09-10/ed-1/?sp=7&st=text",
+  "fetch_url": "https://www.loc.gov/resource/sn82016014/1898-09-10/ed-1/?sp=7&st=text&fo=json",
+  "method": "api",
+  "fetched_at": "2026-10-15T04:02:28Z",
+  "sha256": "e499e125600b7c04261e9276b619047592aaa70379c9882dd9977fd6c9e911a8",
+  "bytes": 43607,
+  "http_status": 200,
+  "final_url": "https://www.loc.gov/resource/sn82016014/1898-09-10/ed-1/?sp=7&st=text&fo=json",
+  "full_text_url": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/khi/batch_khi_jesse_ver01/data/sn82016014/00295871404/1898091001/0508.xml&format=alto_xml&full_text=1",
+  "segment_id": "/service/ndnp/khi/batch_khi_jesse_ver01/data/sn82016014/00295871404/1898091001/0508.xml"
+}

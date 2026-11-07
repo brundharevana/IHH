@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/yose/learn/historyculture/muir.htm",
+  "fetch_url": "https://www.nps.gov/yose/learn/historyculture/muir.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:32:07Z",
+  "sha256": "5256dc5ac857d0729f2120a306e03ea10bfd38111f082b901b0a1d06279e3ed5",
+  "bytes": 9427,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/yose/learn/historyculture/muir.htm"
+}

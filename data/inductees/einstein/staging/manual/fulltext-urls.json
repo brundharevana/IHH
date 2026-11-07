@@ -1,0 +1,32 @@
+{
+ "tmp-dc1921-S-2": {
+  "page": "sn83045462/1921-04-25/ed-1/?sp=2",
+  "fulltext_service": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_babelfish_ver01/data/sn83045462/00280656926/1921042501/0622.xml&format=alto_xml&full_text=1",
+  "title": "Evening star (Washington, D.C.), April 25, 1921"
+ },
+ "tmp-dc1921-S-3": {
+  "page": "sn83045774/1921-04-26/ed-1/?sp=6",
+  "fulltext_service": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_bindweed_ver02/data/sn83045774/00271744158/1921042601/0846.xml&format=alto_xml&full_text=1",
+  "title": "The New York herald (New York, N.Y.), April 26, 1921"
+ },
+ "tmp-dc1921-S-4": {
+  "page": "sn83045462/1921-04-26/ed-1/?sp=2",
+  "fulltext_service": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_babelfish_ver01/data/sn83045462/00280656926/1921042601/0646.xml&format=alto_xml&full_text=1",
+  "title": "Evening star (Washington, D.C.), April 26, 1921"
+ },
+ "tmp-sandiego-S-2": {
+  "page": "sn92070146/1930-12-31/ed-1/?sp=1",
+  "fulltext_service": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1930123101/1203.xml&format=alto_xml&full_text=1",
+  "title": "Imperial Valley press (El Centro, Calif.), December 31, 1930"
+ },
+ "tmp-sandiego-S-6": {
+  "page": "sn92070146/1930-12-31/ed-1/?sp=6",
+  "fulltext_service": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1930123101/1208.xml&format=alto_xml&full_text=1",
+  "title": "Imperial Valley press (El Centro, Calif.), December 31, 1930"
+ },
+ "tmp-sandiego-S-8": {
+  "page": "sn92070146/1931-01-01/ed-1/?sp=1",
+  "fulltext_service": "https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/curiv/batch_curiv_paperflower_ver01/data/sn92070146/0041418859A/1931010101/1209.xml&format=alto_xml&full_text=1",
+  "title": "Imperial Valley press (El Centro, Calif.), January 1, 1931"
+ }
+}

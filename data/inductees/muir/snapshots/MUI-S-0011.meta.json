@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/jomu/learn/education/education-the-importance-of-john-muir.htm",
+  "fetch_url": "https://www.nps.gov/jomu/learn/education/education-the-importance-of-john-muir.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:43:30Z",
+  "sha256": "412a4ea51053d173251968a40c2ebff4cdbe5f589070cd036f361472e0f3e420",
+  "bytes": 6711,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/jomu/learn/education/education-the-importance-of-john-muir.htm"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1173",
+  "fetch_url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1173",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:15:05Z",
+  "sha256": "8fe717f87387ea109e67d464e728e91586d09ac40e3acadf2d45d389bf6648ac",
+  "bytes": 2436,
+  "http_status": 200,
+  "final_url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1173"
+}

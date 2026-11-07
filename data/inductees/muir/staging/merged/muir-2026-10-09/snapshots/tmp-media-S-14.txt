@@ -1,0 +1,207 @@
+_version_: 1820960146229035008
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/95514008/
+aka[1]: http://www.loc.gov/item/95514008/
+aka[2]: http://www.loc.gov/pictures/item/95514008/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/95514008/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/95514008/
+aka[5]: https://hdl.loc.gov/loc.pnp/cph.3b00011
+aka[6]: https://hdl.loc.gov/loc.pnp/cph.3b00011
+aka[7]: http://www.loc.gov/resource/cph.3b00011/
+aka[8]: http://lccn.loc.gov/95514008
+call_number: BIOG FILE - Muir, John, 1838-1914 [P&P]
+contributor_names[0]: Jones, Helen Lukens, photographer
+contributors[0].jones, helen lukens: https://www.loc.gov/search/?fa=contributor:jones,+helen+lukens&fo=json
+created: 2025-01-07T06:04:38Z
+created_published[0]: c1902.
+created_published_date: c1902.
+date: 1902
+dates[0].1902: https://www.loc.gov/search/?dates=1902/1902&fo=json
+description[0]: 1 photographic print.
+digital_id[0]: cph 3b00011 https://hdl.loc.gov/loc.pnp/cph.3b00011
+digitized: true
+display_offsite: true
+extract_timestamp: 2025-01-11T13:39:07.365Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/95514008/#cph
+extract_urls[1]: http://lccn.loc.gov/95514008#catalog-split-00
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Photographic prints--1900-1910.
+format_headings[1]: Portrait photographs--1900-1910.
+genre[0]: Portrait photographs--1900-1910
+genre[1]: Photographic prints--1900-1910
+group[0]: cph
+group[1]: catalog-split-00
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-00
+hassegments: false
+id: http://www.loc.gov/item/95514008/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011_150px.jpg#h=119&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011t.gif#h=119&w=150
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011r.jpg#h=508&w=640
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011v.jpg#h=813&w=1024
+index: 1
+item.call_number: BIOG FILE - Muir, John, 1838-1914 [P&P]
+item.contributors[0]: Jones, Helen Lukens, photographer
+item.control_number: 95514008
+item.created: 2025-01-07T06:04:38Z
+item.created_published: c1902.
+item.created_published_date: c1902.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Jones%2C%20Helen%20Lukens&co=cph
+item.creators[0].role: photographer
+item.creators[0].title: Jones, Helen Lukens
+item.date: c1902.
+item.digital_id[0]: cph 3b00011 https://hdl.loc.gov/loc.pnp/cph.3b00011
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1900-1910.&co=cph
+item.formats[0].title: Photographic prints--1900-1910.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs--1900-1910.&co=cph
+item.formats[1].title: Portrait photographs--1900-1910.
+item.genre[0]: Portrait photographs--1900-1910
+item.genre[1]: Photographic prints--1900-1910
+item.id: 95514008
+item.link: https://www.loc.gov/pictures/item/95514008/
+item.marc: https://www.loc.gov/pictures/item/95514008/marc/
+item.medium[0]: 1 photographic print.
+item.medium_brief: 1 photographic print.
+item.mediums[0]: 1 photographic print.
+item.modified: 2025-01-07T06:04:39Z
+item.notes[0]: H20557 U.S. Copyright Office.
+item.notes[1]: Copyright 1902 by Helen Lukens Jones.
+item.number_former_id[0]: https://www.loc.gov/item/95514008
+item.number_former_id[1]: https://www.loc.gov/item/11655100
+item.other_control_numbers[0]: 11655100
+item.raw_collections[0]: ammem
+item.raw_collections[1]: amrvp
+item.raw_collections[2]: cph
+item.raw_collections[3]: diof
+item.raw_collections[4]: pp
+item.reproduction_number: LC-USZ62-52000 (b&w film copy neg.)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/cph.3b00011
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011r.jpg
+item.sort_date: 1902
+item.source_created: 1995-09-20T00:00:00Z
+item.source_modified: 2024-12-10T10:10:31Z
+item.subject_headings[0]: Muir, John,--1838-1914.
+item.subject_headings[1]: Environmentalists--1900-1910.
+item.subjects[0]: Muir, John,--1838-1914
+item.subjects[1]: Environmentalists--1900-1910
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011_150px.jpg
+item.title: [John Muir, full-length portrait, facing right, seated on rock with lake and trees in background]
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 95514008
+link: https://www.loc.gov/pictures/item/95514008/
+marc: https://www.loc.gov/pictures/item/95514008/marc/
+medium[0]: 1 photographic print.
+medium_brief: 1 photographic print.
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2025-01-07T06:04:39Z
+notes[0]: H20557 U.S. Copyright Office.
+notes[1]: Copyright 1902 by Helen Lukens Jones.
+number[0]: 2024-12-10t10:10:31
+number[1]: 95514008
+number[2]: http://www.loc.gov/item/95514008
+number[3]: http://www.loc.gov/item/11655100
+number_former_id[0]: http://www.loc.gov/item/11655100
+number_former_id[1]: http://www.loc.gov/item/95514008
+number_lccn[0]: 95514008
+number_source_modified[0]: 2024-12-10t10:10:31
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 11655100
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/95514008/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/95514008/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/95514008/dc
+partof[0].count: 235
+partof[0].title: evolution of the conservation movement, 1850-1920
+partof[0].url: https://www.loc.gov/search/?fa=partof:evolution+of+the+conservation+movement,+1850-1920&fo=json
+partof[1].count: 1161984
+partof[1].title: prints and photographs division
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[2].count: 1909462
+partof[2].title: catalog
+partof[2].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+raw_collections[0]: ammem
+raw_collections[1]: amrvp
+raw_collections[2]: cph
+raw_collections[3]: diof
+raw_collections[4]: pp
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=95514008&st=gallery&sb=call_number#focus
+reproduction_number: LC-USZ62-52000 (b&w film copy neg.)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/cph.3b00011
+resources[0].caption: b&w film copy neg.
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3b00011/
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 18.879913
+shard: 00
+shelf_id: BIOG FILE - Muir, John, 1838-1914 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1902
+source_created: 1995-09-20T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: muir, john
+subject[1]: photographic prints
+subject[2]: environmentalists
+subject[3]: portrait photographs
+subject_headings[0]: Muir, John,--1838-1914
+subject_headings[1]: Environmentalists--1900-1910
+subjects[0].environmentalists: https://www.loc.gov/search/?fa=subject:environmentalists&fo=json
+subjects[1].muir, john: https://www.loc.gov/search/?fa=subject:muir,+john&fo=json
+subjects[2].photographic prints: https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json
+subjects[3].portrait photographs: https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011_150px.jpg
+timestamp: 2025-01-11T13:42:02.590Z
+title: [John Muir, full-length portrait, facing right, seated on rock with lake and trees in background]
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/95514008/
+resources[0].caption: b&w film copy neg.
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 1302290
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3b00000/3b00000/3b00000/3b00011u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 119
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 5789
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 119
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 19827
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011t.gif
+resources[0].files[0][2].width: 150
+resources[0].files[0][3].height: 508
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 96824
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011r.jpg
+resources[0].files[0][3].width: 640
+resources[0].files[0][4].height: 813
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 219088
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011v.jpg
+resources[0].files[0][4].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b00000/3b00000/3b00011_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3b00011/
+cite_this.apa: Jones, H. L., photographer. (ca. 1902) John Muir, full-length portrait, facing right, seated on rock with lake and trees in background. , ca. 1902. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/95514008/.
+cite_this.chicago: Jones, Helen Lukens, photographer. John Muir, full-length portrait, facing right, seated on rock with lake and trees in background. , ca. 1902. Photograph. https://www.loc.gov/item/95514008/.
+cite_this.mla: Jones, Helen Lukens, photographer. John Muir, full-length portrait, facing right, seated on rock with lake and trees in background. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/95514008/>.

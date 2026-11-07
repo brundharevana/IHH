@@ -1,0 +1,10 @@
+{
+  "url": "https://newscenter.lbl.gov/2021/02/03/discoveries-at-the-edge-of-the-periodic-table-first-ever-measurements-of-einsteinium/",
+  "fetch_url": "https://newscenter.lbl.gov/2021/02/03/discoveries-at-the-edge-of-the-periodic-table-first-ever-measurements-of-einsteinium/",
+  "method": "http",
+  "fetched_at": "2026-10-09T06:24:46Z",
+  "sha256": "8fdf244b5ae133760027e0ae187dfa4287ea90c3cb117df3866ca9687b492226",
+  "bytes": 8162,
+  "http_status": 200,
+  "final_url": "https://newscenter.lbl.gov/2021/02/03/discoveries-at-the-edge-of-the-periodic-table-first-ever-measurements-of-einsteinium/"
+}

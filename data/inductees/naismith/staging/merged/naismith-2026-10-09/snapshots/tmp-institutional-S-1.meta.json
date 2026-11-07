@@ -1,0 +1,10 @@
+{
+  "url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/openingstatement",
+  "fetch_url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/openingstatement",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:14:56Z",
+  "sha256": "cfb6204206d35dc56d06e90a470ecf60adf11a3d60d03882491df0a5527712d5",
+  "bytes": 4155,
+  "http_status": 200,
+  "final_url": "https://exhibits.lib.ku.edu/exhibits/show/naismith150/openingstatement"
+}

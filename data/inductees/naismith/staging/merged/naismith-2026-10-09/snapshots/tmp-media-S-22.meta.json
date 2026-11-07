@@ -1,0 +1,10 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:JNAISMITH.jpg",
+  "fetch_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:JNAISMITH.jpg&format=json",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:17:08Z",
+  "sha256": "fdc8ab601a048cad9dddc92f79a8469aaed6fca36be2311e4441b9883665fee2",
+  "bytes": 547,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&titles=File:JNAISMITH.jpg&format=json"
+}

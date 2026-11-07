@@ -1,0 +1,215 @@
+{
+  "id": "hallwyl-great-drawing-room",
+  "title": "The Great Drawing Room",
+  "place": "The Great Drawing Room, the Hallwyl Museum, Stockholm, Sweden",
+  "publisher": "The Hallwyl Museum (Hallwylska museet), Swedish National Historical Museums",
+  "sketchfab_url": "https://sketchfab.com/3d-models/the-great-drawing-room-feb9ad17e042418c8e759b81e3b2e5d7",
+  "uid": "feb9ad17e042418c8e759b81e3b2e5d7",
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "credit": "This work is based on \"The Great Drawing Room\" (https://sketchfab.com/3d-models/the-great-drawing-room-feb9ad17e042418c8e759b81e3b2e5d7) by The Hallwyl Museum (Hallwylska museet) (https://sketchfab.com/TheHallwylMuseum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/). Changes: reoriented and recentred; mesh simplified for the web and recompressed (meshopt); textures resized, colour- and exposure-corrected and recompressed (KTX2); rendered unlit.",
+  "credit_source": "Sketchfab Data API https://api.sketchfab.com/v3/models/feb9ad17e042418c8e759b81e3b2e5d7 fields name, user.displayName, user.username and license, read 2026-10-13",
+  "changes": "Changes: reoriented and recentred; mesh simplified for the web and recompressed (meshopt); textures resized, colour- and exposure-corrected and recompressed (KTX2); rendered unlit.",
+  "label": "3D scan of The Great Drawing Room, the Hallwyl Museum, Stockholm, Sweden (The Hallwyl Museum (Hallwylska museet), CC BY 4.0).",
+  "source_file": "the-great-drawing-room.zip",
+  "source_sha256": "9144aea688d9d50941e5aaedee9f66a17d0285e5dc9354dd832d20e0617886dc",
+  "source": {
+    "format": "OBJ (RealityCapture)",
+    "textures": 1,
+    "texture_px": 8192,
+    "tris": 999999,
+    "source_tris_capped": true
+  },
+  "transform": {
+    "up": "y",
+    "scale": 0.436893,
+    "scale_note": "RealityCapture units are not metres: upholstered seats (the largest up-facing area below 1 m) are 1.03 units high, taken as 0.45 m; the ceiling is then 5.1 m, close to the 4.9 m dining room on the same floor",
+    "floor_y": 0,
+    "levelled_by_deg": 0.101,
+    "ceiling_m": 5.138,
+    "extent_m": [
+      11.848,
+      7.345
+    ],
+    "yaw_deg": -41.91,
+    "walls_off_axis_deg": 0.0,
+    "root_matrix": [
+      0.32513259,
+      0.00020386,
+      0.291829147,
+      0.0,
+      0.000345995,
+      0.436892317,
+      -0.000690675,
+      0.0,
+      -0.291829013,
+      0.000745108,
+      0.32513192,
+      0.0,
+      0.044597559,
+      -0.497015685,
+      1.212451992,
+      1.0
+    ]
+  },
+  "colour": {
+    "method": "partial grey-world white balance (strength 0.2) then gamma on sRGB values toward median luminance 0.42 (gamma clamped to [0.75, 1.15])",
+    "gains_rgb": [
+      0.9693,
+      1.0081,
+      1.0227
+    ],
+    "gamma": 0.75,
+    "median_luminance_before": 0.3139,
+    "median_luminance_after": 0.4185
+  },
+  "bundles": {
+    "desktop": {
+      "file": "scans/hallwyl-great-drawing-room/desktop/room.1793995f.glb",
+      "bytes": 9221512,
+      "sha256": "1793995fb0027e1a2870ef38560333d1bd00886b176da2c9090075f27f6a3bc6",
+      "gpu_bytes": 43864729,
+      "gpu_texture_bytes": 22369621,
+      "gpu_geometry_bytes": 21495108,
+      "tris": 999999,
+      "textures": 1,
+      "texture_px": 4096,
+      "texture_format": "KTX2 ETC1S (basisu -q 192, mipmaps, sRGB)",
+      "simplify_ratio": 1.0
+    },
+    "phone": {
+      "file": "scans/hallwyl-great-drawing-room/phone/room.b325b4f9.glb",
+      "bytes": 4268516,
+      "sha256": "b325b4f9dc525a045885e7eeec597ea02c2a9b5b6a2dbb5a5b9b0226cac7d20e",
+      "gpu_bytes": 13838002,
+      "gpu_texture_bytes": 2796202,
+      "gpu_geometry_bytes": 11041800,
+      "tris": 449997,
+      "textures": 1,
+      "texture_px": 2048,
+      "texture_format": "KTX2 ETC1S (basisu -q 144, mipmaps, sRGB)",
+      "simplify_ratio": 0.45
+    }
+  },
+  "preview": {
+    "file": "scans/hallwyl-great-drawing-room/preview/room.8cc2ba1d.glb",
+    "bytes": 381876,
+    "sha256": "8cc2ba1d3633f3405ac1221ff42aec4eff283d0c92919283275a8a3dc1735465",
+    "gpu_bytes": 974046,
+    "tris": 39818,
+    "texture_px": 512,
+    "texture_format": "KTX2 ETC1S (basisu -q 255, mipmaps, sRGB), baked on a new UV atlas (xatlas)",
+    "simplify": "gltfpack -si 0.040000 -se 0.05 on welded positions (from 999999 tris), re-atlased and re-baked"
+  },
+  "occluder": {
+    "file": "scans/hallwyl-great-drawing-room/occluder.9da7e611.glb",
+    "bytes": 59224,
+    "sha256": "9da7e61156dcef25553d28983a8fe8c3537c64ea2ded6cc8e0e9a2be3b6f0730",
+    "tris": 17646
+  },
+  "budgets": {
+    "phone": 5000000,
+    "desktop": 10000000
+  },
+  "preview_max_bytes": 400000,
+  "downloads": {
+    "phone": 4709616,
+    "desktop": 9662612
+  },
+  "tooling": {
+    "gltfpack": "1.3",
+    "basisu": "2.50.0"
+  },
+  "inventory_reviewed": {
+    "source_sha256": "9144aea688d9d50941e5aaedee9f66a17d0285e5dc9354dd832d20e0617886dc",
+    "date": "2026-10-13",
+    "count": 8,
+    "artworks_sha256": "de3e31804f75655beb8d95be5aba99b7d254a7c48cda862355a1c88d995fcbc5",
+    "evidence": "docs/research/direction/B11-artwork-clearance.md"
+  },
+  "artworks": [
+    {
+      "label": "Ceiling painting, Open Air Concert (HWY XXXII:A.b.02)",
+      "location": "centre of the ceiling",
+      "artist": "Julius Kronberg",
+      "died": 1921,
+      "died_source": "https://www.wikidata.org/wiki/Q1604937",
+      "dated": 1898,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/B3B05D50-53BF-4093-A878-2B4E106B1A23"
+    },
+    {
+      "label": "Marble relief over the fireplace, Prometheus brings fire to mankind (HWY LV:II:B.a.01)",
+      "location": "over the fireplace",
+      "artist": "Gusten Lindberg",
+      "died": 1932,
+      "died_source": "https://www.wikidata.org/wiki/Q5953564",
+      "dated": 1897,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/3DE0EED7-9B39-4E5F-9A4C-20D814096470"
+    },
+    {
+      "label": "Marble door-overpiece relief, Poetry (HWY LV:II:B.a.02)",
+      "location": "over one of the three doors",
+      "artist": "Gusten Lindberg",
+      "died": 1932,
+      "died_source": "https://www.wikidata.org/wiki/Q5953564",
+      "dated": 1897,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/6CCB797C-6B01-4231-A447-B1FD42A6253C"
+    },
+    {
+      "label": "Marble door-overpiece relief, Music (HWY LV:II:B.a.03)",
+      "location": "over one of the three doors",
+      "artist": "Gusten Lindberg",
+      "died": 1932,
+      "died_source": "https://www.wikidata.org/wiki/Q5953564",
+      "dated": 1897,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/9F0D4D42-7BDF-4A51-8687-1CD00641F150"
+    },
+    {
+      "label": "Marble door-overpiece relief, The Visual Arts (HWY LV:II:B.a.04)",
+      "location": "over one of the three doors",
+      "artist": "Gusten Lindberg",
+      "died": 1932,
+      "died_source": "https://www.wikidata.org/wiki/Q5953564",
+      "dated": 1898,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/935A7E35-1F22-4D68-8E6C-A34472277F4F"
+    },
+    {
+      "label": "Two gilt-bronze putti candle-holders on the fireplace (HWY LV:I:B.a.03)",
+      "location": "either side of the fireplace frieze",
+      "artist": "Gusten Lindberg",
+      "died": 1932,
+      "died_source": "https://www.wikidata.org/wiki/Q5953564",
+      "dated": 1897,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/80BD2E97-D535-4ADF-A258-83A6D24513BB"
+    },
+    {
+      "label": "Four Brussels tapestries from the series Odysseus and Nausicaa (HWY LIX:I:A.02, tapestries 2-5)",
+      "location": "the four tapestry wall fields",
+      "artist": null,
+      "died": null,
+      "died_source": null,
+      "dated": 1600,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/5409644C-7216-40A6-AE80-BB8239B4EB9E",
+      "note": "Brussels, second half of the 16th century (catalogue: 1560-1600). Repaired in 1896 by Handarbetets vänner, which wove partly new borders; the museum's record of the trial weaving (https://samlingar.shm.se/object/412BA408-BEED-4F5E-B133-3A837FD1D392) states it repeats the material, technique, pattern and colours of the original border, so the 1896 work copies the 16th-century design."
+    },
+    {
+      "label": "Interior architecture: gilded panelling, coffered ceiling frame, fireplace, designed by Isak Gustaf Clason (drawing HWY LXIV:III:B.b.b.64)",
+      "location": "walls and ceiling",
+      "artist": "Isak Gustaf Clason",
+      "died": 1930,
+      "died_source": "https://www.wikidata.org/wiki/Q931295",
+      "dated": 1897,
+      "status": "cleared",
+      "evidence_url": "https://samlingar.shm.se/object/6E4ACE5C-59F3-406D-9667-5EA79CABBE46"
+    }
+  ],
+  "stations": [],
+  "crops": []
+}

@@ -1,0 +1,88 @@
+{
+  "$comment": "Walkable bounds for free roam in muir-hutchings-house.glb. Units metres, glTF axes (y up). The camera may move inside 'walkable' and must stay out of every 'obstacles' rectangle (footprints padded 0.15 m). Eye height 1.6 m.",
+  "floor_y": 0.0,
+  "eye_height": 1.6,
+  "ceiling_y": 2.2,
+  "walkable": {
+    "x_min": -3.05,
+    "x_max": 2.85,
+    "z_min": -5.25,
+    "z_max": 0.85
+  },
+  "obstacles": [
+    {
+      "name": "artifact_rocking_chair",
+      "x_min": -2.47,
+      "x_max": -1.23,
+      "z_min": -3.366,
+      "z_max": -2.334
+    },
+    {
+      "name": "side_chair",
+      "x_min": 1.145,
+      "x_max": 1.945,
+      "z_min": -3.353,
+      "z_max": -2.545
+    },
+    {
+      "name": "artifact_table",
+      "x_min": 0.59,
+      "x_max": 1.61,
+      "z_min": -4.5,
+      "z_max": -3.6
+    },
+    {
+      "name": "artifact_cedar_trunk",
+      "x_min": -2.17,
+      "x_max": 1.87,
+      "z_min": -6.02,
+      "z_max": -1.98
+    }
+  ],
+  "hotspots": [
+    {
+      "name": "hotspot_1",
+      "x": 0.0,
+      "z": -0.0,
+      "look_at": {
+        "x": -0.15,
+        "y": 1.5,
+        "z": -4.0
+      },
+      "note": "Viewpoint of the 1902 stereograph: the cedar trunk rising through the papered ceiling"
+    },
+    {
+      "name": "hotspot_2",
+      "x": 1.9,
+      "z": -1.6,
+      "look_at": {
+        "x": 1.1,
+        "y": 1.5,
+        "z": -4.6
+      },
+      "note": "By the window bay: the table with its white cloth and the lace curtains"
+    },
+    {
+      "name": "hotspot_3",
+      "x": -2.4,
+      "z": -1.4,
+      "look_at": {
+        "x": -1.0,
+        "y": 1.5,
+        "z": -4.4
+      },
+      "note": "Beside the rocking chair, looking up the trunk's lit flank"
+    },
+    {
+      "name": "hotspot_4",
+      "x": -1.9,
+      "z": -0.2,
+      "look_at": {
+        "x": -2.5,
+        "y": 1.5,
+        "z": -5.6
+      },
+      "note": "Facing the door with its transom in the back wall"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+_version_: 1840707021861552128
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn92051392/1921-04-01/ed-1/
+aka[1]: http://www.loc.gov/resource/sn92051392/1921-04-01/ed-1/
+batch[0]: ct_hashbrown_ver01
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/connecticut/
+composite_location[2]: 2/united states/connecticut/hartford/
+composite_location[3]: 3/united states/connecticut/hartford/hartford/
+contributor_names[0]: Connecticut State Library, Hartford, CT
+contributors[0].connecticut state library, hartford, ct: https://www.loc.gov/search/?fa=contributor:connecticut+state+library,+hartford,+ct&fo=json
+created_published[0]: Hartford, Conn., April 1, 1921
+date: 1921-04-01
+date_issued: 1921-04-01
+dates[0].1921-04-01: https://www.loc.gov/search/?dates=1921-04-01/1921-04-01&fo=json
+dates_of_publication: 1920-1923
+description[0]: Hartford, Conn.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2025-08-17T12:31:32.715Z
+extract_urls[0]: file:/service/ndnp//ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996390/1921040101/1921040101_1.xml#ndnp/ct
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/ct
+group[1]: connecticut-state-library-hartford-ct-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn92051392/1921-04-01/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051392:00516996390:1921040101:0279/full/pct:6.25/0/default.jpg#h=300&w=225
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051392:00516996390:1921040101:0279/full/pct:12.5/0/default.jpg#h=601&w=451
+index: 19
+item.batch[0]: ct_hashbrown_ver01
+item.contributor_names[0]: Connecticut State Library, Hartford, CT
+item.created_published[0]: Hartford, Conn., April 1, 1921
+item.date: 1920
+item.date_issued: 1921-04-01
+item.dates[0]: 1921-04-01
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn92051392
+item.location[0]: Connecticut
+item.location[1]: Hartford (Conn.)
+item.location[2]: Hartford County (Conn.)
+item.location[3]: Connecticut--Hartford
+item.location[4]: Connecticut--Hartford County
+item.medium: 28 pages
+item.newspaper_title[0]: Connecticut Hebrew record
+item.notes[0]: Weekly
+item.notes[1]: Vol. 1, no. 1 (Feb. 6, 1920)-v. 8, no. 2 (Aug. 10, 1923).
+item.notes[2]: Also issued on microfilm from Connecticut State Library, Hartford, CT.
+item.notes[3]: Jewish advocate (Boston, Mass.) 1077-2995 (DLC)sn 89070090 (OCoLC)16645134
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996390/1921040101/1921040101_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn92051392/marcxml
+item.other_title[0]: Hebrew Record
+item.place_of_publication: Hartford, Conn.
+item.raw_lccn: sn 92051392
+item.reel_numbers[0]: 00516996390
+item.source_group: ndnp/ct
+item.subjects[0]: Jewish newspapers--Connecticut
+item.subjects[1]: Hartford (Conn.)--Newspapers
+item.subjects[2]: Hartford County (Conn.)--Newspapers
+item.subjects[3]: Jewish newspapers
+item.subjects[4]: Connecticut
+item.subjects[5]: Connecticut--Hartford
+item.subjects[6]: Connecticut--Hartford County
+item.subjects[7]: United States--Connecticut--Hartford--Hartford
+item.title: Connecticut Hebrew record (Hartford, Conn.), April 1, 1921
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn92051392
+location[0]: connecticut
+location[1]: hartford
+location[2]: united states
+location[3]: hartford county
+location_city[0]: hartford
+location_country[0]: united states
+location_county[0]: hartford
+location_state[0]: connecticut
+locations[0].connecticut: https://www.loc.gov/search/?fa=location:connecticut&fo=json
+locations[1].hartford: https://www.loc.gov/search/?fa=location:hartford&fo=json
+locations[2].hartford county: https://www.loc.gov/search/?fa=location:hartford+county&fo=json
+locations[3].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations_city[0].hartford: https://www.loc.gov/search/?fa=location_city:hartford&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_county[0].hartford: https://www.loc.gov/search/?fa=location_county:hartford&fo=json
+locations_state[0].connecticut: https://www.loc.gov/search/?fa=location_state:connecticut&fo=json
+medium: 28 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Connecticut Hebrew record
+notes[0]: Weekly
+notes[1]: Vol. 1, no. 1 (Feb. 6, 1920)-v. 8, no. 2 (Aug. 10, 1923).
+notes[2]: Also issued on microfilm from Connecticut State Library, Hartford, CT.
+notes[3]: Jewish advocate (Boston, Mass.) 1077-2995 (DLC)sn 89070090 (OCoLC)16645134
+number[0]: 1
+number[1]: sn92051392
+number[2]: 00516996390
+number_edition[0]: 1
+number_lccn[0]: sn92051392
+number_reel[0]: 00516996390
+numeric_shelf_id: 192104011
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996390/1921040101/1921040101_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn92051392/marcxml
+other_title[0]: Hebrew Record
+partof[0].count: 185
+partof[0].title: connecticut hebrew record (hartford, conn.) 1920-1923
+partof[0].url: https://www.loc.gov/search/?fa=partof:connecticut+hebrew+record+%28hartford,+conn.%29+1920-1923&fo=json
+partof[1].count: 3210897
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232409
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: connecticut hebrew record (hartford, conn.) 1920-1923
+place_of_publication: Hartford, Conn.
+publication_frequency[0]: weekly
+raw_lccn: sn 92051392
+reel_numbers[0]: 00516996390
+resources[0].files: 28
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051392:00516996390:1921040101:0279/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn92051392/1921-04-01/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.366679
+shard: 07
+shelf_id: sn92051392, 1921-04-01, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/ct
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: connecticut
+subject[1]: hartford county (conn.)
+subject[2]: hartford
+subject[3]: newspapers
+subject[4]: united states
+subject[5]: hartford county
+subject[6]: jewish newspapers
+subject[7]: jewish
+subject[8]: hartford (conn.)
+subject_ethnicity[0]: jewish
+subject_headings[0]: Jewish newspapers--Connecticut
+subject_headings[1]: Hartford (Conn.)--Newspapers
+subject_headings[2]: Hartford County (Conn.)--Newspapers
+subject_headings[3]: Jewish newspapers
+subject_headings[4]: Connecticut
+subject_headings[5]: Connecticut--Hartford
+subject_headings[6]: Connecticut--Hartford County
+subject_headings[7]: United States--Connecticut--Hartford--Hartford
+subjects[0].connecticut: https://www.loc.gov/search/?fa=subject:connecticut&fo=json
+subjects[1].hartford: https://www.loc.gov/search/?fa=subject:hartford&fo=json
+subjects[2].hartford (conn.): https://www.loc.gov/search/?fa=subject:hartford+%28conn.%29&fo=json
+subjects[3].hartford county: https://www.loc.gov/search/?fa=subject:hartford+county&fo=json
+subjects[4].hartford county (conn.): https://www.loc.gov/search/?fa=subject:hartford+county+%28conn.%29&fo=json
+subjects[5].jewish: https://www.loc.gov/search/?fa=subject:jewish&fo=json
+subjects[6].jewish newspapers: https://www.loc.gov/search/?fa=subject:jewish+newspapers&fo=json
+subjects[7].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[8].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects_ethnicity[0].jewish: https://www.loc.gov/search/?fa=subject_ethnicity:jewish&fo=json
+timestamp: 2025-08-17T12:50:09.188Z
+title: Connecticut Hebrew record (Hartford, Conn.), April 1, 1921
+type[0]: issue
+url: https://www.loc.gov/item/sn92051392/1921-04-01/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996390/1921040101/0297.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn92051392/1921-04-01/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hashbrown_ver01:data:sn92051392:00516996390:1921040101:0279/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996390/1921040101/0297.pdf
+resources[0].segment_count: 28
+resources[0].url: https://www.loc.gov/resource/sn92051392/1921-04-01/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1921, April 1) Connecticut Hebrew record. Retrieved from the Library of Congress, https://www.loc.gov/item/sn92051392/1921-04-01/ed-1/.
+cite_this.chicago: Connecticut Hebrew record. (Hartford, CT), Apr. 1 1921. https://www.loc.gov/item/sn92051392/1921-04-01/ed-1/.
+cite_this.mla: Connecticut Hebrew record. (Hartford, CT) 1 Apr. 1921, p. 19. Retrieved from the Library of Congress, www.loc.gov/item/sn92051392/1921-04-01/ed-1/.
+
+segment_id: /service/ndnp/ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996390/1921040101/0297.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/ct/batch_ct_hashbrown_ver01/data/sn92051392/00516996390/1921040101/0297.xml&format=alto_xml&full_text=1
+full_text:
+the night. Well, come in, and bolt the
+door. I will go and tell the men to go
+back to their own places.”
+When Vigodski had locked the door
+and was standing in the middle of the
+room, he heard his wife say to the men:
+“Well, get out of my bed and go back
+to your own places. It is only my hus
+band that has come.”—(The Hebrew
+Standard).
+Michelson and Einstein
+(Continued from page 13)
+their ill-famed manifesto endorsing Ger
+many’s stand in the war, Einstein pro
+tested vigorously and had to flee his
+country.
+But gradually and patiently Einstein
+has overcome all obstacles and now, as
+Professor Marcel Grossman states, in
+an article in the Neue Schweizer Zei
+tung, he stands completely vindicated in
+the eyes of the world.
+Albert Einstein was born at Ulm in
+March, 1879, of Jewish parents. His
+father was a business man whose affairs
+compelled h’m to visit foreign countries
+very frequently. The young Einstein
+received his elementary education in
+Munich. He displayed no special ability
+in any of the subjects studied.
+When sixteen he went to Zurich to
+take his entrance examination at the
+polytechnic school, but failed to pass.
+Two years later he was again refused
+admission to the Polytechnicum. But
+in spite of his obvious “thickheadedness”
+Einstein was in reality a precocious
+mathematical genius. Unknown to his
+teachers, on his own account and by his
+own methods, he was making profound
+researches into the science of numbers.
+His School Troubles
+After a great deal of trouble, Einstein
+was permitted to go to Aarau, where he
+was given an opportunity to enter a lo
+cal cantonal school without the ordeal
+of a new entrance examination. There
+he obtained his first certificate and with
+it he was finally admitted to the Zurich
+Polytechnicum.
+CAMP LENOX IN THE BERKSHIRES
+ON SHAW LAKE EAST LEE, BERKSHIRE COUNTY, MASSACHUSETTS
+accommodate for the summer a limited number of refined boys who desire a profitable and enjoyable
+vacation in the invigorating climate of the Berkshires. Individual attention, abundant, wholesome food,
+healthful outdoor life and recreation, family-like environment and expert supervision make this an ideal boys’
+camp. A booklet setting forth our many features will be sent upon application. Owner and director, Harry
+Sperling, B. S., 391 Marlborough Road, Brooklyn, N. Y. Telephone Flatbush 1619
+A SUPERIOR SUMMER CAMP FOR REFINED BOYS
+Connecticut Hebrew Record
+He studied for four years in the lat
+ter, having taken special courses in
+mathematics and physics. Here again
+he showed no sign of promise in his
+studies. His marks were low, his labor
+atory work was decidedly deficient and
+inferior in quality.
+Professor Grossman explains this fact
+by saying that Einstein was impressed
+by the evidence of error in the very na
+ture of the experiments that were made
+around him. He felt that the whole of
+physics was in a blind alley, and he
+thought that it was useless to continue
+on a path of knowledge which led no
+where.
+He therefore occupied himself with
+subjects and aspects of physics not pur
+sued in the classroom. This of course
+aroused prejudice against him, for he
+appeared to be not only slow, but also
+conceited. He was even advised by one
+of his instructors to enter commerce.
+Einstein had a hard time in getting his
+diploma, hut he got it.
+After his graduation in 1900 Einstein
+came face to face with the difficulty of
+earning a livelihood. He eked out a
+precarious living by tutoring. Finally
+he secured employment as a clerk in one
+of the Swiss patent offices at Berne.
+Here for seven years he devoted all
+his leisure to the study of theoretical
+mathematics. These studies gained for
+him a reputation of a man devoid of
+common sense, inclined to phantastic
+speculation and a dreamer.
+But presently he sent in a paper to a
+mathematical society at Zurich on “A
+New Direction of Molecular Dimen
+sions.” Only a few mathematicians were
+able to follow the calculations submitted.
+But he surely raised himself in the es
+teem of these few scientists. For in the
+intricate formulae worked out by Ein
+stein there was the germ of his first
+prognostication, which an expedition of
+astronomers recently verified by a study
+of a sun eclipse.
+Among the few who took Einstein
+seriously was the great French mathe
+matician, Henri Poincare. Reluctantly
+the University of Zurich conferred upon
+him the degree of Doctor.
+Einstein continued his studies and
+finally won the acclaim of scientists like
+Bacquerel, Madame Curie and others.
+A Scientist’s Prophecy
+During the period of comparative ob
+scurity, when Einstein was not as yet
+the world figure which he is today, the
+renowned Poincare passed the following
+judgment on Einstein:
+“Einstein is one of the most original
+minds with which I have been brought
+in contact.
+“Despite his youth and the misunder
+standing of him that prevails, he has
+already won a place of honor among the
+few who are doing great work for
+science. What we must all especially
+admire in Einstein is the facility with
+which he adapts himself to conceptions
+wholly new and draws from them infer
+ences at once startling and sound.
+“He does not remain attached to the
+classical and accepted principles. Con
+fronted by any problem in physics he is
+swift in catching every conceivable con
+sequence or conclusion to which it may
+lead.
+“The result, if worked out at once in
+his fruitful mind by a prophetic view
+of novel phenomena, is capable of verifi
+cation by experiment.
+“1 would not be understood to mean
+that all his prophetic conceptions will
+sustain the test of experiment or be ver
+ified in experience whenever such re
+searches are made possible. As Einstein
+seeks new paths in all directions it will
+doubtless be found that some of his de
+partures lead into blind alleys, but it
+may be anticipated that one of the new
+lanes he is opening up will turn out to
+be the right one, and that is sufficient
+for every practical purpose.
+“This is precisely the way one must
+go to work. The function of physical
+mathematics is to state the problems.
+Experiment will afford solution.”
+Life has fully borne out the import of
+this evaluation of Einstein’s genius.—
+(Union Bulletin).
+17

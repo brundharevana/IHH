@@ -1,0 +1,10 @@
+{
+  "url": "https://portal.historicenvironment.scot/apex/f?p=1505:300:::::VIEWTYPE,VIEWREF:designation,LB24825",
+  "fetch_url": "https://portal.historicenvironment.scot/apex/f?p=1505:300:::::VIEWTYPE,VIEWREF:designation,LB24825",
+  "method": "http",
+  "fetched_at": "2026-10-24T06:17:25Z",
+  "sha256": "8eba07306870412bc99353eb0882c895b597c2f9c42381a4c108043b0ff937b7",
+  "bytes": 6198,
+  "http_status": 200,
+  "final_url": "https://portal.historicenvironment.scot/apex/f?p=1505:300:::::VIEWTYPE,VIEWREF:designation,LB24825"
+}

@@ -1,0 +1,7 @@
+{
+  "slug": "einstein",
+  "name": "Albert Einstein",
+  "name_fact_ids": ["EIN-F-0005"],
+  "chapters": [1, 2],
+  "portrait": { "media_id": "EIN-M-0006" }
+}

@@ -1,0 +1,188 @@
+_version_: 1731681694403002368
+access_restricted: true
+aka[0]: https://www.loc.gov/pictures/item/2006677622/
+aka[1]: http://www.loc.gov/item/2006677622/
+aka[2]: http://www.loc.gov/pictures/item/2006677622/
+aka[3]: https://www.loc.gov/pictures/collection/cph/item/2006677622/
+aka[4]: http://www.loc.gov/pictures/collection/cph/item/2006677622/
+aka[5]: http://www.loc.gov/resource/cph.3g13192/
+aka[6]: http://lccn.loc.gov/2006677622
+aka[7]: https://hdl.loc.gov/loc.pnp/cph.3g13192
+call_number: Unprocessed in PR 13 CN 2002:148 [item] [P&P]
+created: 2016-04-21T00:16:11Z
+created_published[0]: Københaven : Dyva & Jeppesens Bogtrykkeri, 1946.
+created_published_date: 1946.
+date: 1946-01-01
+dates[0].1946: https://www.loc.gov/search/?dates=1946/1946&fo=json
+description[0]: 1 print (poster) : color ; 85 x 62 cm. | Motion picture poster for "Hvor Olien sprang" shows head-shots of Spencer Tracy, Hedy Lamarr, Claudette Colbert and Clark Gable above an image of burning oil fields.
+digital_id[0]: cph 3g13192 //hdl.loc.gov/loc.pnp/cph.3g13192
+digitized: true
+display_offsite: false
+extract_timestamp: 2021-08-25T10:05:49.940Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/cph/item/2006677622/#cph
+extract_urls[1]: http://lccn.loc.gov/2006677622#catalog-split-06
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Motion picture posters--Danish--1940-1950.
+format_headings[1]: Prints--Color--1940-1950.
+genre[0]: Motion picture posters--Danish--1940-1950
+genre[1]: Prints--Color--1940-1950
+group[0]: cph
+group[1]: catalog-split-06
+group[2]: catalog
+group[3]: miscellaneous-items-high-demand
+group[4]: main-catalog-split-06
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2006677622/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13100/3g13192_150px.jpg#h=150&w=120
+index: 1
+item.call_number: Unprocessed in PR 13 CN 2002:148 [item] [P&P]
+item.control_number: 2006677622
+item.created: 2016-04-21T00:16:11Z
+item.created_published: Københaven : Dyva & Jeppesens Bogtrykkeri, 1946.
+item.created_published_date: 1946.
+item.date: 1946.
+item.digital_id[0]: cph 3g13192 //hdl.loc.gov/loc.pnp/cph.3g13192
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Motion%20picture%20posters--Danish--1940-1950.&co=cph
+item.formats[0].title: Motion picture posters--Danish--1940-1950.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Prints--Color--1940-1950.&co=cph
+item.formats[1].title: Prints--Color--1940-1950.
+item.genre[0]: Motion picture posters--Danish--1940-1950
+item.genre[1]: Prints--Color--1940-1950
+item.id: 2006677622
+item.language[0]: dan
+item.link: https://www.loc.gov/pictures/item/2006677622/
+item.marc: https://www.loc.gov/pictures/item/2006677622/marc/
+item.medium[0]: 1 print (poster) : color ; 85 x 62 cm.
+item.medium_brief: 1 print (poster) :
+item.mediums[0]: 1 print (poster) : color ; 85 x 62 cm.
+item.modified: 2016-04-21T00:16:11Z
+item.notes[0]: Caption: Her er Handling, Romantik-Underholdning.
+item.notes[1]: Stamped on front: Statens Filmcensur 1946-47.
+item.notes[2]: Title from item.
+item.notes[3]: A Metro-Goldwyn-Mayer film.
+item.notes[4]: Forms part of: Lester Glassner Collection of Movie Posters.
+item.notes[5]: Purchase; (DLC/PP-2002:148).
+item.other_control_numbers[0]: 14281781
+item.other_title[0]: Boom Town
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+item.reproduction_number: LC-USZC4-13192 (color film copy transparency)
+item.resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3g13192
+item.rights_advisory: Rights status not evaluated. For general information see "Copyright and Other Restrictions ...," https://www.loc.gov/rr/print/195_copr.html
+item.rights_information: Rights status not evaluated. For general information see "Copyright and Other Restrictions ...," https://www.loc.gov/rr/print/195_copr.html
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13100/3g13192_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13100/3g13192r.jpg
+item.sort_date: 1946
+item.source_created: 2006-03-01T00:00:00Z
+item.source_modified: 2006-05-31T15:01:22Z
+item.subject_headings[0]: Colbert, Claudette--Performances.
+item.subject_headings[1]: Gable, Clark,--1901-1960--Performances.
+item.subject_headings[2]: Lamarr, Hedy,--1913-2000--Performances.
+item.subject_headings[3]: Tracy, Spencer,--1900-1967--Performances.
+item.subjects[0]: Colbert, Claudette--Performances
+item.subjects[1]: Gable, Clark,--1901-1960--Performances
+item.subjects[2]: Lamarr, Hedy,--1913-2000--Performances
+item.subjects[3]: Tracy, Spencer,--1900-1967--Performances
+item.summary: Motion picture poster for "Hvor Olien sprang" shows head-shots of Spencer Tracy, Hedy Lamarr, Claudette Colbert and Clark Gable above an image of burning oil fields.
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13100/3g13192_150px.jpg
+item.title: Hvor Olien sprang
+language[0]: english
+language[1]: danish
+languages[0].danish: https://www.loc.gov/search/?fa=language:danish&fo=json
+languages[1].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2006677622
+link: https://www.loc.gov/pictures/item/2006677622/
+marc: https://www.loc.gov/pictures/item/2006677622/marc/
+medium[0]: 1 print (poster) : color ; 85 x 62 cm.
+medium_brief: 1 print (poster) :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2016-04-21T00:16:11Z
+notes[0]: Caption: Her er Handling, Romantik-Underholdning.
+notes[1]: Stamped on front: Statens Filmcensur 1946-47.
+notes[2]: Title from item.
+notes[3]: A Metro-Goldwyn-Mayer film.
+notes[4]: Forms part of: Lester Glassner Collection of Movie Posters.
+notes[5]: Purchase; (DLC/PP-2002:148).
+number[0]: http://www.loc.gov/item/14281781
+number[1]: 2006-05-31t15:01:22
+number[2]: 2006677622
+number_former_id[0]: http://www.loc.gov/item/14281781
+number_lccn[0]: 2006677622
+number_source_modified[0]: 2006-05-31t15:01:22
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 14281781
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2006677622/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2006677622/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2006677622/dc
+other_title[0]: Boom Town
+partof[0].count: 110701
+partof[0].title: miscellaneous items in high demand
+partof[0].url: https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json
+partof[1].count: 911026
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1161984
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1909462
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+related.neighbors: https://www.loc.gov/pictures/related/?&co=cph&pk=2006677622&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA
+reproduction_number: LC-USZC4-13192 (color film copy transparency)
+resource_links[0]: //hdl.loc.gov/loc.pnp/cph.3g13192
+resources[0].caption: digital file from color film copy transparency
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13100/3g13192_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3g13192/
+rights_advisory: Rights status not evaluated. For general information see "Copyright and Other Restrictions ...," https://www.loc.gov/rr/print/195_copr.html
+rights_information: Rights status not evaluated. For general information see "Copyright and Other Restrictions ...," https://www.loc.gov/rr/print/195_copr.html
+score: 19.46323
+shard: 00
+shelf_id: Unprocessed in PR 13 CN 2002:148 [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1946
+source_created: 2006-03-01T00:00:00Z
+source_modified: 2006-05-31T15:01:22Z
+subject[0]: prints
+subject[1]: colbert, claudette
+subject[2]: tracy, spencer
+subject[3]: color
+subject[4]: performances
+subject[5]: gable, clark
+subject[6]: danish
+subject[7]: motion picture posters
+subject[8]: lamarr, hedy
+subject_headings[0]: Colbert, Claudette--Performances
+subject_headings[1]: Gable, Clark,--1901-1960--Performances
+subject_headings[2]: Lamarr, Hedy,--1913-2000--Performances
+subject_headings[3]: Tracy, Spencer,--1900-1967--Performances
+subjects[0].colbert, claudette: https://www.loc.gov/search/?fa=subject:colbert,+claudette&fo=json
+subjects[1].color: https://www.loc.gov/search/?fa=subject:color&fo=json
+subjects[2].danish: https://www.loc.gov/search/?fa=subject:danish&fo=json
+subjects[3].gable, clark: https://www.loc.gov/search/?fa=subject:gable,+clark&fo=json
+subjects[4].lamarr, hedy: https://www.loc.gov/search/?fa=subject:lamarr,+hedy&fo=json
+subjects[5].motion picture posters: https://www.loc.gov/search/?fa=subject:motion+picture+posters&fo=json
+subjects[6].performances: https://www.loc.gov/search/?fa=subject:performances&fo=json
+subjects[7].prints: https://www.loc.gov/search/?fa=subject:prints&fo=json
+subjects[8].tracy, spencer: https://www.loc.gov/search/?fa=subject:tracy,+spencer&fo=json
+summary: Motion picture poster for "Hvor Olien sprang" shows head-shots of Spencer Tracy, Hedy Lamarr, Claudette Colbert and Clark Gable above an image of burning oil fields.
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13100/3g13192_150px.jpg
+timestamp: 2022-05-02T02:59:16.096Z
+title: Hvor Olien sprang
+unrestricted: true
+url: https://www.loc.gov/item/2006677622/
+resources[0].caption: digital file from color film copy transparency
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13100/3g13192_150px.jpg
+resources[0].url: https://www.loc.gov/resource/cph.3g13192/
+cite_this.apa: (1946) Hvor Olien sprang. , 1946. Københaven: Dyva & Jeppesens Bogtrykkeri. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2006677622/.
+cite_this.chicago: Hvor Olien sprang. , 1946. Københaven: Dyva & Jeppesens Bogtrykkeri. Photograph. https://www.loc.gov/item/2006677622/.
+cite_this.mla: Hvor Olien sprang. Københaven: Dyva & Jeppesens Bogtrykkeri. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2006677622/>.

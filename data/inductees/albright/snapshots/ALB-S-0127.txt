@@ -1,0 +1,65 @@
+title: Letter from Madeline Albright to President William Jefferson Clinton
+dataControlGroup.groupId: ou=NLWJC,ou=groups
+dataControlGroup.groupCd: LPWJC
+generalRecordsTypes[0]: Textual Records
+levelOfDescription: item
+recordType: description
+useRestriction.status: Unrestricted
+audiovisual: False
+digitalObjects[0].objectFilename: 5-AlbrightFarewellletter_Page_1.jpg
+digitalObjects[0].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-oss/7422172/5-AlbrightFarewellletter_Page_1.jpg
+digitalObjects[0].objectFileSize: 1234
+digitalObjects[0].objectId: 163545402
+digitalObjects[0].objectType: Image (JPG)
+digitalObjects[1].objectFilename: 5-AlbrightFarewellletter_Page_2.jpg
+digitalObjects[1].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-oss/7422172/5-AlbrightFarewellletter_Page_2.jpg
+digitalObjects[1].objectFileSize: 1234
+digitalObjects[1].objectId: 163545403
+digitalObjects[1].objectType: Image (JPG)
+digitalObjects[2].objectFilename: 5-AlbrightFarewellletter.pdf
+digitalObjects[2].objectUrl: https://catalog.archives.gov/medialz/presidential-libraries/clinton/wjc-oss/7422172/5-AlbrightFarewellletter.pdf
+digitalObjects[2].objectFileSize: 1234
+digitalObjects[2].objectId: 163545401
+digitalObjects[2].objectType: Portable Document File (PDF)
+ancestors[0].collectionIdentifier: WJC-OSS
+ancestors[0].inclusiveStartDate.year: 1993
+ancestors[0].inclusiveStartDate.logicalDate: 1993-01-01
+ancestors[0].distance: 2
+ancestors[0].levelOfDescription: collection
+ancestors[0].inclusiveEndDate.year: 2001
+ancestors[0].inclusiveEndDate.logicalDate: 2001-12-31
+ancestors[0].title: Records of the Office of Staff Secretary (Clinton Administration)
+ancestors[0].naId: 2534572
+ancestors[1].inclusiveStartDate.year: 1993
+ancestors[1].inclusiveStartDate.logicalDate: 1993-01-01
+ancestors[1].distance: 1
+ancestors[1].levelOfDescription: series
+ancestors[1].creators[0].creatorType: Most Recent
+ancestors[1].creators[0].heading: President (1993-2001 : Clinton). Office of the Staff Secretary. 1/20/1993-1/20/2001
+ancestors[1].creators[0].abolishDate.month: 1
+ancestors[1].creators[0].abolishDate.year: 2001
+ancestors[1].creators[0].abolishDate.day: 20
+ancestors[1].creators[0].abolishDate.logicalDate: 2001-01-20
+ancestors[1].creators[0].authorityType: organization
+ancestors[1].creators[0].establishDate.month: 1
+ancestors[1].creators[0].establishDate.year: 1993
+ancestors[1].creators[0].establishDate.day: 20
+ancestors[1].creators[0].establishDate.logicalDate: 1993-01-20
+ancestors[1].creators[0].naId: 10528863
+ancestors[1].inclusiveEndDate.year: 2001
+ancestors[1].inclusiveEndDate.logicalDate: 2001-12-31
+ancestors[1].title: President Has Seen Files
+ancestors[1].naId: 7422172
+naId: 163545400
+physicalOccurrences[0].referenceUnits[0].city: Little Rock
+physicalOccurrences[0].referenceUnits[0].phone: 501-244-2877
+physicalOccurrences[0].referenceUnits[0].address1: 1200 President Clinton Avenue
+physicalOccurrences[0].referenceUnits[0].postalCode: 72201
+physicalOccurrences[0].referenceUnits[0].name: William J. Clinton Library
+physicalOccurrences[0].referenceUnits[0].state: AR
+physicalOccurrences[0].referenceUnits[0].fax: 501-244-2881
+physicalOccurrences[0].referenceUnits[0].email: clinton.library@nara.gov
+physicalOccurrences[0].mediaOccurrences[0].generalMediaTypes[0]: Loose Sheets
+physicalOccurrences[0].mediaOccurrences[0].specificMediaType: Paper
+physicalOccurrences[0].copyStatus: Preservation-Reproduction-Reference
+accessRestriction.status: Unrestricted

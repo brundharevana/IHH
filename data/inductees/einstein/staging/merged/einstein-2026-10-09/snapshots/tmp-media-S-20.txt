@@ -1,0 +1,17 @@
+title: File:Einstein patentoffice.jpg
+DateTime: 2023-01-18 17:40:03
+ObjectName: Einstein patentoffice
+CommonsMetadataExtension: 1.2
+Categories: Astronomy Picture of the Day|PD-old-80-expired|CC-PD-Mark|Portrait photographs of Albert Einstein|Albert Einstein in 1904|Albert Einstein in 1905|Swiss Federal Institute of Intellectual Property
+ImageDescription: German-born theoretical physicist Albert Einstein.
+DateTimeOriginal: 1904[1] or 1905[2]
+Credit: Cropped from original at the The Albert Einstein Archives, The Hebrew University of Jerusalem.
+Artist: Lucien Chavan [1] (1868 - 1942), a friend of Einstein's when he was living in Berne.
+Permission: An uncropped version available at NASA's "Astronomy Picture of the Day". According to the NASA site:
+Since no copyright statement is attached to this photograph, it is presumed to be public domain in the U.S.
+The Swiss copyright on this image expired at the end of 1992.
+LicenseShortName: Public domain
+UsageTerms: Public domain
+AttributionRequired: false
+Copyrighted: False
+License: pd

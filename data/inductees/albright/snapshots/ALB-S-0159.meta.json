@@ -1,0 +1,10 @@
+{
+  "url": "https://www.govinfo.gov/content/pkg/FR-2022-03-28/html/2022-06614.htm",
+  "fetch_url": "https://www.govinfo.gov/content/pkg/FR-2022-03-28/html/2022-06614.htm",
+  "method": "http",
+  "fetched_at": "2026-10-30T19:00:43Z",
+  "sha256": "59755e61bf985ee9564ebaae56b9e15aeff1a8b904ff9a45031be07c0f34a9c6",
+  "bytes": 2899,
+  "http_status": 200,
+  "final_url": "https://www.govinfo.gov/content/pkg/FR-2022-03-28/html/2022-06614.htm"
+}

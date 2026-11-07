@@ -1,0 +1,257 @@
+_version_: 1763879111214759936
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/2017878878/
+aka[1]: http://www.loc.gov/item/2017878878/
+aka[2]: http://www.loc.gov/pictures/item/2017878878/
+aka[3]: https://www.loc.gov/pictures/collection/fsac/item/2017878878/
+aka[4]: http://www.loc.gov/pictures/collection/fsac/item/2017878878/
+aka[5]: https://hdl.loc.gov/loc.pnp/fsac.1a35461
+aka[6]: https://hdl.loc.gov/loc.pnp/fsac.1a35461
+aka[7]: http://www.loc.gov/resource/fsac.1a35461/
+aka[8]: http://lccn.loc.gov/2017878878
+call_number: LC-USW36-750 [P&P]
+created: 2023-04-18T06:18:28Z
+created_published[0]: [ca. 1943]
+created_published_date: [ca. 1943]
+date: 1939
+dates[0].1939: https://www.loc.gov/search/?dates=1939/1939&fo=json
+description[0]: 1 transparency : color.
+digital_id[0]: fsac 1a35461 https://hdl.loc.gov/loc.pnp/fsac.1a35461
+digitized: true
+display_offsite: true
+extract_timestamp: 2023-04-22T12:21:38.621Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/fsac/item/2017878878/#fsac
+extract_urls[1]: http://lccn.loc.gov/2017878878#catalog-split-08
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Transparencies--Color.
+genre[0]: Transparencies--Color
+group[0]: fsac
+group[1]: catalog-split-08
+group[2]: catalog
+group[3]: fsa-owi-color-photographs
+group[4]: main-catalog-split-08
+group[5]: main-catalog
+hassegments: false
+id: http://www.loc.gov/item/2017878878/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461_150px.jpg#h=121&w=150
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461t.gif#h=121&w=150
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461r.jpg#h=516&w=640
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461v.jpg#h=825&w=1024
+index: 1
+item.call_number: LC-USW36-750 [P&P]
+item.control_number: 2017878878
+item.created: 2023-04-18T06:18:28Z
+item.created_published: [ca. 1943]
+item.created_published_date: [ca. 1943]
+item.date: [ca. 1943]
+item.digital_id[0]: fsac 1a35461 https://hdl.loc.gov/loc.pnp/fsac.1a35461
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Transparencies--Color.&co=fsac
+item.formats[0].title: Transparencies--Color.
+item.genre[0]: Transparencies--Color
+item.id: 2017878878
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/2017878878/
+item.marc: https://www.loc.gov/pictures/item/2017878878/marc/
+item.medium[0]: 1 transparency : color.
+item.medium_brief: 1 transparency :
+item.mediums[0]: 1 transparency : color.
+item.modified: 2023-04-18T06:18:29Z
+item.notes[0]: 12002-68.
+item.notes[1]: Transfer from U.S. Office of War Information, 1944.
+item.notes[2]: General information about the FSA/OWI Color Photographs is available at http://hdl.loc.gov/loc.pnp/pp.fsac
+item.notes[3]: Title from FSA or OWI agency caption.
+item.notes[4]: Additional information about this photograph might be available through the Flickr Commons project at http://www.flickr.com/photos/library_of_congress/2179129665
+item.number_former_id[0]: https://www.loc.gov/item/2017878878
+item.number_former_id[1]: https://www.loc.gov/item/fsa1992001552/PP
+item.other_control_numbers[0]: 19980896
+item.other_control_numbers[1]: fsa1992001552/PP
+item.part_of: Farm Security Administration - Office of War Information color slides and transparencies collection (Library of Congress)
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=fsac
+item.place[0].title: District of Columbia--Washington (D.C.)
+item.raw_collections[0]: ammem
+item.raw_collections[1]: diof
+item.raw_collections[2]: flickrppoc
+item.raw_collections[3]: fsac
+item.raw_collections[4]: pp
+item.raw_collections[5]: srtg
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-fsac-1a35461 (digital file from original transparency)
+LC-USW361-750 (color film copy slide)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/fsac.1a35461
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461r.jpg
+item.sort_date: 1939
+item.source_collection[0]: Farm Security Administration - Office of War Information color slides and transparencies collection (Library of Congress)
+item.source_created: 1985-01-01T00:00:00Z
+item.source_modified: 2023-04-13T11:02:58Z
+item.subject_headings[0]: World War, 1939-1945
+item.subject_headings[1]: government facilities
+item.subject_headings[2]: United States--District of Columbia--Washington (D.C.)
+item.subject_headings[3]: District Of Columbia--Washington (D.C.)
+item.subjects[0]: World War, 1939-1945
+item.subjects[1]: Government facilities
+item.subjects[2]: United States--District of Columbia--Washington (D.C.)
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461_150px.jpg
+item.title: War Department Building at 21st and Virginia Avenue, N.W., Washington, D.C.
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 2017878878
+link: https://www.loc.gov/pictures/item/2017878878/
+location[0]: district of columbia
+location[1]: united states
+location[2]: washington d.c.
+location[3]: washington (d.c.)
+location_city[0]: washington (d.c.)
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington (d.c.): https://www.loc.gov/search/?fa=location:washington+%28d.c.%29&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington (d.c.): https://www.loc.gov/search/?fa=location_city:washington+%28d.c.%29&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+marc: https://www.loc.gov/pictures/item/2017878878/marc/
+medium[0]: 1 transparency : color.
+medium_brief: 1 transparency :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2023-04-18T06:18:29Z
+notes[0]: 12002-68.
+notes[1]: Transfer from U.S. Office of War Information, 1944.
+notes[2]: General information about the FSA/OWI Color Photographs is available at http://hdl.loc.gov/loc.pnp/pp.fsac
+notes[3]: Title from FSA or OWI agency caption.
+notes[4]: Additional information about this photograph might be available through the Flickr Commons project at http://www.flickr.com/photos/library_of_congress/2179129665
+number[0]: http://www.loc.gov/item/2017878878
+number[1]: http://www.loc.gov/item/fsa1992001552/pp
+number[2]: http://www.loc.gov/item/19980896
+number[3]: 2023-04-13t11:02:58
+number[4]: 2017878878
+number_former_id[0]: http://www.loc.gov/item/19980896
+number_former_id[1]: http://www.loc.gov/item/fsa1992001552/pp
+number_former_id[2]: http://www.loc.gov/item/2017878878
+number_lccn[0]: 2017878878
+number_source_modified[0]: 2023-04-13t11:02:58
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 19980896
+other_control_numbers[1]: fsa1992001552/PP
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/2017878878/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/2017878878/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/2017878878/dc
+partof[0].count: 1623
+partof[0].title: farm security administration/office of war information color photographs
+partof[0].url: https://www.loc.gov/collections/fsa-owi-color-photographs/?fo=json
+partof[1].count: 911014
+partof[1].title: prints & photographs online catalog (library of congress)
+partof[1].url: https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json
+partof[2].count: 1162295
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1910029
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=fsac
+place[0].title: District of Columbia--Washington (D.C.)
+raw_collections[0]: ammem
+raw_collections[1]: diof
+raw_collections[2]: flickrppoc
+raw_collections[3]: fsac
+raw_collections[4]: pp
+raw_collections[5]: srtg
+related.neighbors: https://www.loc.gov/pictures/related/?&co=fsac&pk=2017878878&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-fsac-1a35461 (digital file from original transparency)
+LC-USW361-750 (color film copy slide)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/fsac.1a35461
+resources[0].caption: digital file from original transparency
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461_150px.jpg
+resources[0].url: https://www.loc.gov/resource/fsac.1a35461/
+rights[0]: The contents of the Library of Congress Farm Security Administration/Office of War Information Color Photographs are in the public domain and are free to use and reuse.
+
+Credit Line: Library of Congress, Prints & Photographs Division, Farm Security Administration/Office of War Information Color Photographs.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: U.S. Farm Security Administration/Office of War Information Color Transparencies - Rights and Restrictions Information
+
+More about Copyright and other Restrictions
+
+For guidance about compiling full citations consult Citing Primary Sources.
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 19.464314
+shard: 00
+shelf_id: LC-USW36-750 [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1939
+source_collection: Farm Security Administration - Office of War Information color slides and transparencies collection (Library of Congress)
+source_created: 1985-01-01T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: district of columbia
+subject[1]: government facilities
+subject[2]: world war
+subject[3]: washington (d.c.)
+subject[4]: transparencies
+subject[5]: color
+subject[6]: united states
+subject_headings[0]: World War, 1939-1945
+subject_headings[1]: Government facilities
+subject_headings[2]: United States--District of Columbia--Washington (D.C.)
+subjects[0].color: https://www.loc.gov/search/?fa=subject:color&fo=json
+subjects[1].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[2].government facilities: https://www.loc.gov/search/?fa=subject:government+facilities&fo=json
+subjects[3].transparencies: https://www.loc.gov/search/?fa=subject:transparencies&fo=json
+subjects[4].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[5].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+subjects[6].world war: https://www.loc.gov/search/?fa=subject:world+war&fo=json
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461_150px.jpg
+timestamp: 2023-04-22T12:23:25.506Z
+title: War Department Building at 21st and Virginia Avenue, N.W., Washington, D.C.
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/2017878878/
+resources[0].caption: digital file from original transparency
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 203083706
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/fsac/1a35000/1a35400/1a35461u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 121
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 5310
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461_150px.jpg
+resources[0].files[0][1].width: 150
+resources[0].files[0][2].height: 121
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 15676
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461t.gif
+resources[0].files[0][2].width: 150
+resources[0].files[0][3].height: 516
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 47955
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461r.jpg
+resources[0].files[0][3].width: 640
+resources[0].files[0][4].height: 825
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 256177
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461v.jpg
+resources[0].files[0][4].width: 1024
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35400/1a35461_150px.jpg
+resources[0].url: https://www.loc.gov/resource/fsac.1a35461/
+cite_this.apa: (ca. 1943) War Department Building at 21st and Virginia Avenue, N.W., Washington, D.C. District of Columbia United States Washington D.C. Washington D.C, ca. 1943. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017878878/.
+cite_this.chicago: War Department Building at 21st and Virginia Avenue, N.W., Washington, D.C. District of Columbia United States Washington D.C. Washington D.C, ca. 1943. Photograph. https://www.loc.gov/item/2017878878/.
+cite_this.mla: War Department Building at 21st and Virginia Avenue, N.W., Washington, D.C. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/2017878878/>.

@@ -1,0 +1,333 @@
+_version_: 1828566289864458240
+access_restricted: false
+aka[0]: https://www.loc.gov/pictures/item/89711581/
+aka[1]: http://www.loc.gov/item/89711581/
+aka[2]: http://www.loc.gov/pictures/item/89711581/
+aka[3]: https://www.loc.gov/pictures/collection/stereo/item/89711581/
+aka[4]: http://www.loc.gov/pictures/collection/stereo/item/89711581/
+aka[5]: https://hdl.loc.gov/loc.pnp/ppmsca.18928
+aka[6]: https://hdl.loc.gov/loc.pnp/ppmsca.18928
+aka[7]: https://hdl.loc.gov/loc.pnp/cph.3b05285
+aka[8]: https://hdl.loc.gov/loc.pnp/cph.3b05285
+aka[9]: https://hdl.loc.gov/loc.pnp/cph.3b43404
+aka[10]: https://hdl.loc.gov/loc.pnp/cph.3b43404
+aka[11]: http://www.loc.gov/resource/ppmsca.18928/
+aka[12]: http://www.loc.gov/resource/cph.3b05285/
+aka[13]: http://www.loc.gov/resource/cph.3b43404/
+aka[14]: http://lccn.loc.gov/89711581
+call_number: LOT 11958-20 [item] [P&P]
+contributor_names[0]: Griffith & Griffith, publisher
+contributors[0].griffith & griffith: https://www.loc.gov/search/?fa=contributor:griffith+%26+griffith&fo=json
+created: 2025-04-01T05:58:58Z
+created_published[0]: Philadelphia, Pa. : Geo. W. Griffith, c1902.
+created_published_date: c1902.
+date: 1902
+dates[0].1902: https://www.loc.gov/search/?dates=1902/1902&fo=json
+description[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format) | Man and woman standing on rock extending from top of cliff; woman is raising her right leg as though to step off; Yosemite National Park, California.
+digital_id[0]: ppmsca 18928 https://hdl.loc.gov/loc.pnp/ppmsca.18928
+digital_id[1]: cph 3b05285 https://hdl.loc.gov/loc.pnp/cph.3b05285
+digital_id[2]: cph 3b43404 https://hdl.loc.gov/loc.pnp/cph.3b43404
+digitized: true
+display_offsite: true
+extract_timestamp: 2025-04-05T12:37:20.595Z
+extract_urls[0]: http://www.loc.gov/pictures/collection/stereo/item/89711581/#stereo
+extract_urls[1]: http://lccn.loc.gov/89711581#catalog-split-08
+format[0].photo, print, drawing: https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json
+format_headings[0]: Photographic prints--1900-1910.
+format_headings[1]: Stereographs--1900-1910.
+genre[0]: Stereographs--1900-1910
+genre[1]: Photographic prints--1900-1910
+group[0]: stereo
+group[1]: catalog-split-08
+group[2]: catalog
+group[3]: stereograph-cards
+group[4]: main-catalog-split-08
+hassegments: false
+id: http://www.loc.gov/item/89711581/
+image_url[0]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928_150px.jpg#h=150&w=149
+image_url[1]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928t.gif#h=150&w=149
+image_url[2]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928r.jpg#h=640&w=637
+image_url[3]: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928v.jpg#h=1024&w=1019
+index: 1
+item.call_number: LOT 11958-20 [item] [P&P]
+item.contributors[0]: Griffith & Griffith, publisher
+item.control_number: 89711581
+item.created: 2025-04-01T05:58:58Z
+item.created_published: Philadelphia, Pa. : Geo. W. Griffith, c1902.
+item.created_published_date: c1902.
+item.creators[0].link: https://www.loc.gov/pictures/related/?fi=name&q=Griffith%20%26%20Griffith&co=stereo
+item.creators[0].role: publisher
+item.creators[0].title: Griffith & Griffith
+item.date: c1902.
+item.digital_id[0]: ppmsca 18928 https://hdl.loc.gov/loc.pnp/ppmsca.18928
+item.digital_id[1]: cph 3b05285 https://hdl.loc.gov/loc.pnp/cph.3b05285
+item.digital_id[2]: cph 3b43404 https://hdl.loc.gov/loc.pnp/cph.3b43404
+item.display_offsite: true
+item.format[0]: still image
+item.formats[0].link: https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1900-1910.&co=stereo
+item.formats[0].title: Photographic prints--1900-1910.
+item.formats[1].link: https://www.loc.gov/pictures/related/?fi=format&q=Stereographs--1900-1910.&co=stereo
+item.formats[1].title: Stereographs--1900-1910.
+item.genre[0]: Stereographs--1900-1910
+item.genre[1]: Photographic prints--1900-1910
+item.id: 89711581
+item.language[0]: eng
+item.link: https://www.loc.gov/pictures/item/89711581/
+item.location[0]: California--Yosemite Valley
+item.location[1]: Yosemite Valley (Calif.)
+item.location[2]: Glacier Point (Calif.)
+item.marc: https://www.loc.gov/pictures/item/89711581/marc/
+item.medium[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+item.medium_brief: 1 photograph :
+item.mediums[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+item.modified: 2025-04-01T05:59:44Z
+item.notes[0]: H23105 U.S. Copyright Office.
+item.notes[1]: Title transcribed from item.
+item.notes[2]: No. 4706.
+item.number_former_id[0]: https://www.loc.gov/item/89711581
+item.number_former_id[1]: https://www.loc.gov/item/11527137
+item.other_control_numbers[0]: 11527137
+item.place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+item.place[0].title: California--Yosemite Valley
+item.place[1].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+item.place[1].title: California--Yosemite Valley
+item.place[2].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Glacier%20Point%20&co=stereo
+item.place[2].title: California--Glacier Point
+item.raw_collections[0]: diof
+item.raw_collections[1]: pp
+item.raw_collections[2]: stereo
+item.repository: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA https://hdl.loc.gov/loc.pnp/pp.print
+item.reproduction_number: LC-DIG-ppmsca-18928 (digital file from original photo, half stereo)
+LC-USZ62-57465 (b&w film copy neg.)
+LC-USZ62-97303 (b&w film copy neg. of half stereo)
+item.resource_links[0]: https://hdl.loc.gov/loc.pnp/ppmsca.18928
+item.resource_links[1]: https://hdl.loc.gov/loc.pnp/cph.3b05285
+item.resource_links[2]: https://hdl.loc.gov/loc.pnp/cph.3b43404
+item.rights_advisory: No known restrictions on publication.
+item.rights_information: No known restrictions on publication.
+item.service_low: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928_150px.jpg
+item.service_medium: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928r.jpg
+item.sort_date: 1902
+item.source_created: 1989-07-11T00:00:00Z
+item.source_modified: 2025-03-26T18:42:58Z
+item.subject_headings[0]: Cliffs--California--Yosemite Valley--1900-1910.
+item.subject_headings[1]: Yosemite Valley (Calif.)--1900-1910.
+item.subject_headings[2]: Glacier Point (Calif.)--1900-1910.
+item.subject_headings[3]: California--Yosemite Valley
+item.subject_headings[4]: California--Glacier Point
+item.subjects[0]: Cliffs--California--Yosemite Valley--1900-1910
+item.subjects[1]: Yosemite Valley (Calif.)--1900-1910
+item.subjects[2]: Glacier Point (Calif.)--1900-1910
+item.summary: Man and woman standing on rock extending from top of cliff; woman is raising her right leg as though to step off; Yosemite National Park, California.
+item.thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928_150px.jpg
+item.title: Glacier Point, Yosemite Valley, Cal.
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: 89711581
+link: https://www.loc.gov/pictures/item/89711581/
+location[0]: california
+location[1]: yosemite valley
+location[2]: glacier point
+locations[0].california: https://www.loc.gov/search/?fa=location:california&fo=json
+locations[1].glacier point: https://www.loc.gov/search/?fa=location:glacier+point&fo=json
+locations[2].yosemite valley: https://www.loc.gov/search/?fa=location:yosemite+valley&fo=json
+marc: https://www.loc.gov/pictures/item/89711581/marc/
+medium[0]: 1 photograph : print on card mount ; mount 9 x 18 cm (stereograph format)
+medium_brief: 1 photograph :
+mime_type[0]: image/gif
+mime_type[1]: image/jpg
+mime_type[2]: image/tif
+modified: 2025-04-01T05:59:44Z
+notes[0]: H23105 U.S. Copyright Office.
+notes[1]: Title transcribed from item.
+notes[2]: No. 4706.
+number[0]: 2025-03-26t18:42:58
+number[1]: sheet
+number[2]: http://www.loc.gov/item/89711581
+number[3]: http://www.loc.gov/item/11527137
+number[4]: 89711581
+number_carrier_type[0]: sheet
+number_former_id[0]: http://www.loc.gov/item/11527137
+number_former_id[1]: http://www.loc.gov/item/89711581
+number_lccn[0]: 89711581
+number_source_modified[0]: 2025-03-26t18:42:58
+online_format[0]: image
+original_format[0]: photo, print, drawing
+other_control_numbers[0]: 11527137
+other_formats[0].label: MARCXML Record
+other_formats[0].link: https://lccn.loc.gov/89711581/marcxml
+other_formats[1].label: MODS Record
+other_formats[1].link: https://lccn.loc.gov/89711581/mods
+other_formats[2].label: Dublin Core Record
+other_formats[2].link: https://lccn.loc.gov/89711581/dc
+partof[0].count: 225
+partof[0].title: lot 11958
+partof[0].url: https://www.loc.gov/search/?fa=partof:lot+11958&fo=json
+partof[1].count: 55799
+partof[1].title: stereograph cards
+partof[1].url: https://www.loc.gov/collections/stereograph-cards/?fo=json
+partof[2].count: 1162609
+partof[2].title: prints and photographs division
+partof[2].url: https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json
+partof[3].count: 1911021
+partof[3].title: catalog
+partof[3].url: https://www.loc.gov/search/?fa=partof:catalog&fo=json
+place[0].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+place[0].title: California--Yosemite Valley
+place[1].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Yosemite%20Valley&co=stereo
+place[1].title: California--Yosemite Valley
+place[2].link: https://www.loc.gov/pictures/related/?fi=place&q=California--Glacier%20Point%20&co=stereo
+place[2].title: California--Glacier Point
+raw_collections[0]: diof
+raw_collections[1]: pp
+raw_collections[2]: stereo
+related.group_record: https://www.loc.gov/pictures/search/?q=LOT 11958&fi=number&op=PHRASE&va=exact&co=coll&sg=true
+related.neighbors: https://www.loc.gov/pictures/related/?&co=stereo&pk=89711581&st=gallery&sb=call_number#focus
+repository[0]: Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA https://hdl.loc.gov/loc.pnp/pp.print
+reproduction_number: LC-DIG-ppmsca-18928 (digital file from original photo, half stereo)
+LC-USZ62-57465 (b&w film copy neg.)
+LC-USZ62-97303 (b&w film copy neg. of half stereo)
+resource_links[0]: https://hdl.loc.gov/loc.pnp/ppmsca.18928
+resource_links[1]: https://hdl.loc.gov/loc.pnp/cph.3b05285
+resource_links[2]: https://hdl.loc.gov/loc.pnp/cph.3b43404
+resources[0].caption: digital file from original photo, half stereo
+resources[0].files: 1
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.18928/
+resources[1].caption: digital file from b&w film copy neg.
+resources[1].files: 1
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b05000/3b05200/3b05285_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3b05285/
+resources[2].caption: digital file from b&w film copy neg. of half stereo
+resources[2].files: 1
+resources[2].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43400/3b43404_150px.jpg
+resources[2].url: https://www.loc.gov/resource/cph.3b43404/
+rights[0]: The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material.
+
+Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and obtain permission from third parties when necessary before publishing or otherwise distributing materials found in the Library's collections.
+
+For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: Stereographs - Rights and Restrictions Information
+rights_advisory: No known restrictions on publication.
+rights_information: No known restrictions on publication.
+score: 18.87836
+shard: 00
+shelf_id: LOT 11958-20 [item] [P&P]
+site[0]: pictures
+site[1]: catalog
+sort_date: 1902
+source_created: 1989-07-11T00:00:00Z
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: yosemite valley
+subject[1]: photographic prints
+subject[2]: yosemite valley (calif.)
+subject[3]: cliffs
+subject[4]: glacier point (calif.)
+subject[5]: california
+subject[6]: stereographs
+subject_headings[0]: Cliffs--California--Yosemite Valley--1900-1910
+subject_headings[1]: Yosemite Valley (Calif.)--1900-1910
+subject_headings[2]: Glacier Point (Calif.)--1900-1910
+subjects[0].california: https://www.loc.gov/search/?fa=subject:california&fo=json
+subjects[1].cliffs: https://www.loc.gov/search/?fa=subject:cliffs&fo=json
+subjects[2].glacier point (calif.): https://www.loc.gov/search/?fa=subject:glacier+point+%28calif.%29&fo=json
+subjects[3].photographic prints: https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json
+subjects[4].stereographs: https://www.loc.gov/search/?fa=subject:stereographs&fo=json
+subjects[5].yosemite valley: https://www.loc.gov/search/?fa=subject:yosemite+valley&fo=json
+subjects[6].yosemite valley (calif.): https://www.loc.gov/search/?fa=subject:yosemite+valley+%28calif.%29&fo=json
+summary: Man and woman standing on rock extending from top of cliff; woman is raising her right leg as though to step off; Yosemite National Park, California.
+thumb_gallery: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928_150px.jpg
+timestamp: 2025-04-05T12:38:25.937Z
+title: Glacier Point, Yosemite Valley, Cal.
+type[0]: still image
+unrestricted: true
+url: https://www.loc.gov/item/89711581/
+resources[0].caption: digital file from original photo, half stereo
+resources[0].files[0][0].height: 0
+resources[0].files[0][0].levels: 1
+resources[0].files[0][0].mimetype: image/tiff
+resources[0].files[0][0].size: 125114792
+resources[0].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/ppmsca/18900/18928u.tif
+resources[0].files[0][0].width: 0
+resources[0].files[0][1].height: 150
+resources[0].files[0][1].levels: 1
+resources[0].files[0][1].mimetype: image/jpeg
+resources[0].files[0][1].size: 4675
+resources[0].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928_150px.jpg
+resources[0].files[0][1].width: 149
+resources[0].files[0][2].height: 150
+resources[0].files[0][2].levels: 1
+resources[0].files[0][2].mimetype: image/gif
+resources[0].files[0][2].size: 17311
+resources[0].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928t.gif
+resources[0].files[0][2].width: 149
+resources[0].files[0][3].height: 640
+resources[0].files[0][3].levels: 1
+resources[0].files[0][3].mimetype: image/jpeg
+resources[0].files[0][3].size: 52624
+resources[0].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928r.jpg
+resources[0].files[0][3].width: 637
+resources[0].files[0][4].height: 1024
+resources[0].files[0][4].levels: 1
+resources[0].files[0][4].mimetype: image/jpeg
+resources[0].files[0][4].size: 151203
+resources[0].files[0][4].url: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928v.jpg
+resources[0].files[0][4].width: 1019
+resources[0].image: https://tile.loc.gov/storage-services/service/pnp/ppmsca/18900/18928_150px.jpg
+resources[0].url: https://www.loc.gov/resource/ppmsca.18928/
+resources[1].caption: digital file from b&w film copy neg.
+resources[1].files[0][0].height: 0
+resources[1].files[0][0].levels: 1
+resources[1].files[0][0].mimetype: image/tiff
+resources[1].files[0][0].size: 1258210
+resources[1].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3b00000/3b05000/3b05200/3b05285u.tif
+resources[1].files[0][0].width: 0
+resources[1].files[0][1].height: 80
+resources[1].files[0][1].levels: 1
+resources[1].files[0][1].mimetype: image/jpeg
+resources[1].files[0][1].size: 2725
+resources[1].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b05000/3b05200/3b05285_150px.jpg
+resources[1].files[0][1].width: 150
+resources[1].files[0][2].height: 80
+resources[1].files[0][2].levels: 1
+resources[1].files[0][2].mimetype: image/gif
+resources[1].files[0][2].size: 12293
+resources[1].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b05000/3b05200/3b05285t.gif
+resources[1].files[0][2].width: 150
+resources[1].files[0][3].height: 341
+resources[1].files[0][3].levels: 1
+resources[1].files[0][3].mimetype: image/jpeg
+resources[1].files[0][3].size: 30717
+resources[1].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b05000/3b05200/3b05285r.jpg
+resources[1].files[0][3].width: 640
+resources[1].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b05000/3b05200/3b05285_150px.jpg
+resources[1].url: https://www.loc.gov/resource/cph.3b05285/
+resources[2].caption: digital file from b&w film copy neg. of half stereo
+resources[2].files[0][0].height: 0
+resources[2].files[0][0].levels: 1
+resources[2].files[0][0].mimetype: image/tiff
+resources[2].files[0][0].size: 1922498
+resources[2].files[0][0].url: https://tile.loc.gov/storage-services/master/pnp/cph/3b40000/3b43000/3b43400/3b43404u.tif
+resources[2].files[0][0].width: 0
+resources[2].files[0][1].height: 150
+resources[2].files[0][1].levels: 1
+resources[2].files[0][1].mimetype: image/jpeg
+resources[2].files[0][1].size: 3758
+resources[2].files[0][1].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43400/3b43404_150px.jpg
+resources[2].files[0][1].width: 122
+resources[2].files[0][2].height: 150
+resources[2].files[0][2].levels: 1
+resources[2].files[0][2].mimetype: image/gif
+resources[2].files[0][2].size: 18309
+resources[2].files[0][2].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43400/3b43404t.gif
+resources[2].files[0][2].width: 122
+resources[2].files[0][3].height: 640
+resources[2].files[0][3].levels: 1
+resources[2].files[0][3].mimetype: image/jpeg
+resources[2].files[0][3].size: 42817
+resources[2].files[0][3].url: https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43400/3b43404r.jpg
+resources[2].files[0][3].width: 521
+resources[2].image: https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43400/3b43404_150px.jpg
+resources[2].url: https://www.loc.gov/resource/cph.3b43404/
+cite_this.apa: Griffith & Griffith, P. (ca. 1902) Glacier Point, Yosemite Valley, Cal. California Yosemite Valley Glacier Point, ca. 1902. Philadelphia, Pa.: Geo. W. Griffith. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/89711581/.
+cite_this.chicago: Griffith & Griffith, Publisher. Glacier Point, Yosemite Valley, Cal. California Yosemite Valley Glacier Point, ca. 1902. Philadelphia, Pa.: Geo. W. Griffith. Photograph. https://www.loc.gov/item/89711581/.
+cite_this.mla: Griffith & Griffith, Publisher. Glacier Point, Yosemite Valley, Cal. Philadelphia, Pa.: Geo. W. Griffith. Photograph. Retrieved from the Library of Congress, <www.loc.gov/item/89711581/>.

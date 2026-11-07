@@ -1,0 +1,10 @@
+{
+  "url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-timeline.htm",
+  "fetch_url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-timeline.htm",
+  "method": "http",
+  "fetched_at": "2026-10-09T17:32:06Z",
+  "sha256": "c78d102d6e6db442e79f5a292e6958bac44021753184328fa0768b4cd03ca41c",
+  "bytes": 4892,
+  "http_status": 200,
+  "final_url": "https://www.nps.gov/jomu/learn/historyculture/john-muir-timeline.htm"
+}

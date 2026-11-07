@@ -1,0 +1,10 @@
+{
+  "url": "https://readmypins.state.gov/see-the-pins/milestone-moments/deadly-pins",
+  "fetch_url": "https://readmypins.state.gov/see-the-pins/milestone-moments/deadly-pins",
+  "method": "http",
+  "fetched_at": "2026-10-09T19:31:46Z",
+  "sha256": "c84462aa527c429a3af92ba5d1810e3ee805749fb680987c1318e76b66484426",
+  "bytes": 1625,
+  "http_status": 200,
+  "final_url": "https://readmypins.state.gov/see-the-pins/milestone-moments/deadly-pins"
+}

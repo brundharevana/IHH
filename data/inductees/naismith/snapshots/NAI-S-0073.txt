@@ -1,0 +1,1518 @@
+_version_: 1746916758909878272
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn86063615/1898-12-18/ed-1/
+aka[1]: http://www.loc.gov/resource/sn86063615/1898-12-18/ed-1/
+batch[0]: mohi_dred_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/missouri/
+composite_location[2]: 2/united states/missouri/jackson/
+composite_location[3]: 3/united states/missouri/jackson/kansas city/
+contributor_names[0]: State Historical Society of Missouri; Columbia, MO
+contributors[0].state historical society of missouri; columbia, mo: https://www.loc.gov/search/?fa=contributor:state+historical+society+of+missouri%3B+columbia,+mo&fo=json&st=text
+created_published[0]: Kansas City, Mo., December 18, 1898
+date: 1898-12-18
+date_issued: 1898-12-18
+dates[0].1898-12-18: https://www.loc.gov/search/?dates=1898-12-18/1898-12-18&fo=json&st=text
+dates_of_publication: 1897-1928
+description[0]: Kansas City, Mo.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2020-09-15T11:53:55.349Z
+extract_urls[0]: file:/service/ndnp//mohi/batch_mohi_dred_ver01/data/sn86063615/0021110918A/1898121801/1898121801_1.xml#ndnp/mohi
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json&st=text
+genre[0]: Newspapers
+group[0]: ndnp/mohi
+group[1]: state-historical-society-of-missouri-columbia-mo-awardee
+hassegments: true
+id: http://www.loc.gov/item/sn86063615/1898-12-18/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:0021110918A:1898121801:0506/full/pct:6.25/0/default.jpg#h=451&w=331
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:0021110918A:1898121801:0506/full/pct:12.5/0/default.jpg#h=902&w=663
+index: 18
+item.batch[0]: mohi_dred_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: State Historical Society of Missouri; Columbia, MO
+item.created_published[0]: Kansas City, Mo., December 18, 1898
+item.date: 1897
+item.date_issued: 1898-12-18
+item.dates[0]: 1898-12-18
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn86063615
+item.location[0]: Kansas City (Mo.)
+item.location[1]: Jackson (Mo.)
+item.location[2]: Missouri--Jackson
+item.location[3]: Missouri--Kansas City
+item.medium: 24 pages
+item.newspaper_title[0]: Kansas City journal.
+item.notes[0]: Daily
+item.notes[1]: Vol. 39, no. 244 (Feb. 9, 1897)-71st year, no. 118 (Oct. 3, 1928).
+item.notes[2]: On Sundays published as: Kansas City Sunday journal, Feb. 14, 1897-June 5, 1904; also published as Kansas City journal-post, June 11, 1922-Sept. 30, 1928.
+item.notes[3]: Numbering changed from vols. to years with issue for Oct. 13, 1921.
+item.notes[4]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[5]: Weekly eds.: Kansas City weekly journal, Feb. 9, 1897-May 27, 1920; Kansas City weekly journal and Missouri and Kansas farmer, June 3, 1920-Nov. 22, 1923; Kansas City weekly journal (Kansas City, Mo. : 1923), Nov. 29, 1923-Sept. 8, 1927.
+item.notes[6]: Kansas City post (DLC)sn 86063603 (OCoLC)13685669
+item.notes[7]: Kansas City journal-post (DLC)sn 86063347 (OCoLC)13484230
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//mohi/batch_mohi_dred_ver01/data/sn86063615/0021110918A/1898121801/1898121801_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn86063615/marcxml
+item.other_title[0]: Kansas City Sunday journal
+item.other_title[1]: Kansas City journal-post
+item.place_of_publication: Kansas City, Mo.
+item.raw_lccn: sn 86063615
+item.reel_numbers[0]: 0021110918a
+item.source_group: ndnp/mohi
+item.subjects[0]: Kansas City (Mo.)--Newspapers
+item.subjects[1]: Jackson (Mo.)--Newspapers
+item.subjects[2]: Missouri--Jackson
+item.subjects[3]: Missouri--Kansas City
+item.subjects[4]: United States--Missouri--Jackson--Kansas City
+item.title: Kansas City journal (Kansas City, Mo.), December 18, 1898
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json&st=text
+library_of_congress_control_number: sn86063615
+location[0]: jackson
+location[1]: kansas city
+location[2]: missouri
+location[3]: united states
+location_city[0]: kansas city
+location_country[0]: united states
+location_county[0]: jackson
+location_state[0]: missouri
+locations[0].jackson: https://www.loc.gov/search/?fa=location:jackson&fo=json&st=text
+locations[1].kansas city: https://www.loc.gov/search/?fa=location:kansas+city&fo=json&st=text
+locations[2].missouri: https://www.loc.gov/search/?fa=location:missouri&fo=json&st=text
+locations[3].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json&st=text
+locations_city[0].kansas city: https://www.loc.gov/search/?fa=location_city:kansas+city&fo=json&st=text
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json&st=text
+locations_county[0].jackson: https://www.loc.gov/search/?fa=location_county:jackson&fo=json&st=text
+locations_state[0].missouri: https://www.loc.gov/search/?fa=location_state:missouri&fo=json&st=text
+medium: 24 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Kansas City journal.
+notes[0]: Daily
+notes[1]: Vol. 39, no. 244 (Feb. 9, 1897)-71st year, no. 118 (Oct. 3, 1928).
+notes[2]: On Sundays published as: Kansas City Sunday journal, Feb. 14, 1897-June 5, 1904; also published as Kansas City journal-post, June 11, 1922-Sept. 30, 1928.
+notes[3]: Numbering changed from vols. to years with issue for Oct. 13, 1921.
+notes[4]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[5]: Weekly eds.: Kansas City weekly journal, Feb. 9, 1897-May 27, 1920; Kansas City weekly journal and Missouri and Kansas farmer, June 3, 1920-Nov. 22, 1923; Kansas City weekly journal (Kansas City, Mo. : 1923), Nov. 29, 1923-Sept. 8, 1927.
+notes[6]: Kansas City post (DLC)sn 86063603 (OCoLC)13685669
+notes[7]: Kansas City journal-post (DLC)sn 86063347 (OCoLC)13484230
+number[0]: sn86063615
+number[1]: 1
+number[2]: 0021110918a
+number_edition[0]: 1
+number_lccn[0]: sn86063615
+number_reel[0]: 0021110918a
+numeric_shelf_id: 189812181
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//mohi/batch_mohi_dred_ver01/data/sn86063615/0021110918A/1898121801/1898121801_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn86063615/marcxml
+other_title[0]: Kansas City Sunday journal
+other_title[1]: Kansas City journal-post
+partof[0].count: 1009
+partof[0].title: kansas city journal (kansas city, mo.) 1897-1928
+partof[0].url: https://www.loc.gov/search/?fa=partof:kansas+city+journal+%28kansas+city,+mo.%29+1897-1928&fo=json&st=text
+partof[1].count: 3210388
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json&st=text
+partof[2].count: 3231893
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json&st=text
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: kansas city journal (kansas city, mo.) 1897-1928
+place_of_publication: Kansas City, Mo.
+publication_frequency[0]: daily
+raw_lccn: sn 86063615
+reel_numbers[0]: 0021110918a
+resources[0].files: 24
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:0021110918A:1898121801:0506/full/pct:6.25/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn86063615/1898-12-18/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 14.141635
+shard: 05
+shelf_id: sn86063615, 1898-12-18, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/mohi
+subject[0]: kansas city
+subject[1]: jackson (mo.)
+subject[2]: jackson
+subject[3]: missouri
+subject[4]: kansas city (mo.)
+subject[5]: united states
+subject[6]: newspapers
+subject_headings[0]: Kansas City (Mo.)--Newspapers
+subject_headings[1]: Jackson (Mo.)--Newspapers
+subject_headings[2]: Missouri--Jackson
+subject_headings[3]: Missouri--Kansas City
+subject_headings[4]: United States--Missouri--Jackson--Kansas City
+subjects[0].jackson: https://www.loc.gov/search/?fa=subject:jackson&fo=json&st=text
+subjects[1].jackson (mo.): https://www.loc.gov/search/?fa=subject:jackson+%28mo.%29&fo=json&st=text
+subjects[2].kansas city: https://www.loc.gov/search/?fa=subject:kansas+city&fo=json&st=text
+subjects[3].kansas city (mo.): https://www.loc.gov/search/?fa=subject:kansas+city+%28mo.%29&fo=json&st=text
+subjects[4].missouri: https://www.loc.gov/search/?fa=subject:missouri&fo=json&st=text
+subjects[5].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json&st=text
+subjects[6].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json&st=text
+timestamp: 2022-10-17T06:53:18.580Z
+title: Kansas City journal (Kansas City, Mo.), December 18, 1898
+type[0]: issue
+url: https://www.loc.gov/item/sn86063615/1898-12-18/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_dred_ver01/data/sn86063615/0021110918A/1898121801/0524.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn86063615/1898-12-18/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:0021110918A:1898121801:0506/full/pct:6.25/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/mohi/batch_mohi_dred_ver01/data/sn86063615/0021110918A/1898121801/0524.pdf
+resources[0].segment_count: 24
+resources[0].url: https://www.loc.gov/resource/sn86063615/1898-12-18/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1898, December 18) Kansas City journal. Retrieved from the Library of Congress, https://www.loc.gov/item/sn86063615/1898-12-18/ed-1/.
+cite_this.chicago: Kansas City journal. (Kansas City, MO), Dec. 18 1898. https://www.loc.gov/item/sn86063615/1898-12-18/ed-1/.
+cite_this.mla: Kansas City journal. (Kansas City, MO) 18 Dec. 1898, p. 18. Retrieved from the Library of Congress, www.loc.gov/item/sn86063615/1898-12-18/ed-1/.
+
+segment_id: /service/ndnp/mohi/batch_mohi_dred_ver01/data/sn86063615/0021110918A/1898121801/0524.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/mohi/batch_mohi_dred_ver01/data/sn86063615/0021110918A/1898121801/0524.xml&format=alto_xml&full_text=1
+full_text:
+18
+THE KANSAS CITY JOURNAL, SUNDAY, DECEMBER 18, 1898.
+i
+fGENE FIELDVS"PRIMER"
+THTUE IIlSTOltV OF A IIO OK. THAT IS
+now vi:iiy ttAiti:.
+Tlir SUIt Were FIrf I'riiileil in Hie
+Denver Tribune Wtc Afterwards
+C'ollcctcil :inil Published in n
+Honk Never Copyrighted.
+The following story or "Gene Field's
+"Primer." as toM by Luther S. Livingston
+In the Christmas r.umlKr of the Bookman,
+and which is published by permission of
+the editor, Mr. Hairy Thurston P-.k,
+will prove of special interest to readers of
+Tho Journal:
+Eugene Field, duiing the autumn of 1"1.
+while managing editor of the Denver Tri
+bune, wrote and had printed in that paper
+a series of little -kits of a." few lines e.ieh.
+with short sentences, and with capital let
+ters liberally used, !il:e the first lessons in
+Whit Is Thla we fee? It la a Kazor, ami rapa. ui
+tt Hiery morning to make bis Neck sore. It loot.
+Fletty Sharp. Draw It across your Finger and Make
+it Dull. You could Cut your Name on the Mamel-pie--
+with the Razor If you Were to Try. A Ilazor Is
+k Handy Thine to have In a llou? vhere there are
+Corns and Piano Lec-s to Carre, it is also Just the
+Thine to Cut off the Kitten's Tail Kith.
+reading, printed in children's primers. But,
+unlike the little stories in the school books,
+which teach a moral lesson, these do ex
+actly the opposite, and describe comical
+situations brought about by the naughly
+boy doing what he would like to do. and
+not what he ought to do. The specimens
+presented below will show the character of
+these little sketches.
+In IKE! a collectlor of ninety-four of
+these sketches was feinted, forming a
+small pamphlet of forty-eight pages, ex
+clusive of the cover. It was an elghteen
+mo.. live and seven-eighths inches by four
+inches In size, and was issued in pink paper
+covers. Its title was the Tribune Primer.
+and it was the second in a short-lived ser
+lcs. only two numbers were issued) called
+the Tribune Series; the first being an es
+say on Robert G. Ingersoll. by O. If. Ilotli
+aeker. the editor-in-chief of the paper.
+This Tribune Primer was Kugcne Field's
+lirst book. It is one of the rarest of Amer
+ican books of this century, and is, un
+doubtedly, more valuable than any other
+bonk of its size published In America dur
+ing the last twenty years. It was miser
+ably printed in pale ink bv the Denver Pub
+lishing Company, whose imprint is on the
+verso of the title page, and it was dedl-
+Here e Hue a Bahy It Ii compwd of a Bald
+Head and a Pair ot LunB One ot the Lunrs takes
+ft Rest while the Other runs the Shop. One ol Then
+is always On Deck all of the Time The Baby is- a
+Blrger man than bis Mother. He lILts to Walk
+around with his Father at Night. The Father does
+Mort of the Walking and all ot the Sweatlnc. Little
+Girls you will Neier Know what It Is to be a Father.
+rather.
+catcd to Itobert J. Burdette. The running
+headline is "Denver Primer." The little
+sketches are not numbered, but eacli has
+a short title above it. On the third page of
+the cover Is un advortisment of the Den
+ver Tribune, ending with the injunction,
+"send for sample copy." The second and
+fourth pages of the cover are blank. As
+the separate Issues of the newspapers were
+not copyrighted, of course, the primer
+could not be.
+We saj that it was issued in IS". That,
+at least, is the date on the title page, but
+it is probable that it really appeared during
+the last day of ISM. During November
+the paper tarried an advertismeni that
+the Primer would le ready for the trade
+on Decerrlxr 1. In the fhst number 1 r
+December, i: is stated that the publieation
+bad been delayed, and that it would be is
+sued December W, whieh is. perhaps, the
+approximate dale of publication. Sev.ral
+of the little stories appeared in the numb- r
+fur December It. bin none of them is in
+cluded In the Primer.
+The following is Mr. Francis 'Wilson's ai
+oount of the difficulties he mi i with in
+trying to obtain a copy of the Tribune
+Primer. The reproductions used here aie.
+through hie- curtesy, made fiom his pv.
+"Confident of the ascendance of Fields
+star, and believing that sooner or later his
+publications, especiallv those privately
+printed and those of which only a ft iv cop'
+ies had been or might be Issued, would
+yen scarce and difficult to obtain. I set
+Here we hare a Game of Croqeet Henry has Jurt
+lilt Nellie with a JIallit. jnl Nellie is calling
+Henry naughty Names Their llo'her is net Mnrh
+cf a Croquet player but in a minute ehe will cme
+out and Beat them Beth.
+off on a long and what proved to be a
+fruitless, search for a copy of the Denver
+Tribune Primer. I was hampered by no less
+a person than Field himself. who. for love
+of mischief, threw every pos-'ble obstacle
+In the war. This state of affairs contin
+ued for ten years. Field would send seduc
+tive advertiiments of dealers from whom
+the book might be produced, having care
+fully scissored away the name ot the city
+find street. He ostentatiously, provoking
+ly. and continuously Haunted his own copv.
+und otherwise behaved so easporatin--'iy
+that at length it became m-cs.-ary to
+threaten him with condign punishment tin
+less he surrendered the partii '.'iar infor
+mation which he was at the moment witn
+Jioldlng. Field leplied a follows:
+'Vour note of warning came too late.
+Miller is already on the trail of the pos-F-ir
+of tin" Prlni'-r Wnv didn't lcnow I
+Kcutnt to Keep the UiiUf teuret ia oilier, lo
+have fun with you, and lie bla-a-ted the
+whole business to Miller, who intends to
+hunt up 'he Primer owner the next time
+he U .st. E. F.. Jiimarv 11. 1W
+"The jov of receiving fiorii a verv dear
+This a C.H-k Roach. He is I)iC. in.uk and rely,
+lb i- crawllns nier ihe Pillow. Do net say a Wuitl.
+Lot lit. -till and Keep Your Mouth open. He u.ll
+Crawl into Your Mouth and You i-an Bite him In Two.
+This Mill Teach him to be more Discreet In Future.
+fiiend at Christmas, ISM, a copy of this
+rare little book, was tempered by the
+thought that Field could not know of its
+aripiisition. He had been dead hut a few
+weeks.'
+The same year, 1552. Frederic Tredwell of
+Brooklyn, son of Mr. Daniel Tredwell.
+author of "A Monograph on Privately Il
+lustrated Books." and several other works,
+brought out twenty of Field's little
+sketches eighteen of those in-hided in the
+Tribune I'rimer and two additional ones
+under the title "The Model Primer." In
+this book tho sketches are printed in large
+type, each sketch having a page to Itself,
+and with a comical picture on the page
+facing. These pictures, signed "L. Hop."
+were by L. Hopkins, a friend ot Tred well's,
+now. we are informed, living in Sydney,
+X. S. W.. and quite an important person
+age in that community. He and Tredwell
+brought out the book together, more as a
+joke than anything else.
+The "Model I'rimer" has a page measur
+ing six and one-half Inches by live and
+three-sixteenths inches, a little larger than
+that of the Colorado book. It consists of
+twenty-two leaves, exclusive of cover, and
+of a blank leaf at front and back, or
+twenty-six altogether. It was issued in
+light, salmon-colored paper covers, the
+lirst page being printed from the time
+Behold the Printer. He is Hunting for a Pickup
+of half a Line He has Been hunting for Two Hours.
+He could hae Set the half-line in twenty Seconds,
+but It is a matter of Principle -uuli Him ueier to
+Set w-hat he Cau pick up. The Printer has a Hard
+time. He has to :Vt tvpe all nlcht and Play pedro
+for the Beer all Day. We would like to Be a Printer
+were it not for the Night Work.
+block as the title page. The sketches have
+no title, but are numbered in large Bom.
+an numerals, from I. to XX. Of course,
+no copyright wv-s possible on the text, but
+the cuts could be copyrighted, and on verso
+of title page we tead: Copyright. 1SS2,
+Frederic Tredwell."
+This lirst edition, the title page of which
+is herewith reproduced, was printed in
+Brooklyn, probably in the early days of
+1SS2. Tredwell at that time was keeping
+a little second-hand book ;ihop in the base
+ment at S Boerum place. In 3SIT. he
+moved to New York and opened a book
+store at 7S Nassau stitet. While here,
+probably in the spring of I1!, he had an
+other edition of the "Model Primer" printed
+by the Trow Printing Company. The plate
+from which the cover and title were printed
+was corrected, and in place of "a Bo-rum
+place. Brooklyn," it was made to read "7S
+Nassau street. New York." and on the
+fan i iu Set i1- Ini. B. le m the Tabl--" It is J
+Till! r.t Ni.e BI k Ink I vou IWU t.. v.,u 1". ur
+lllf I'lk nut on the jrp." tt make 111"" Cat I '.k
+Ulmk t do. it Nu s t Ui.wn oi t I.- l -.pit mid
+Put 1m 111 nf sur Little p.nl'lie- ,ii th- Ir.k See. .ur
+IVigtr are i'i,ere,l u.th ltt.' Whl. .i n I'i turt
+ou can Make on ,h- Wal' Pap1 Il'J Make a Pic
+ture of a Big Man and a Liltle Olrl. This will be a
+Surprise to Mamma
+verso ot the title page, below the copy
+right notice, is printed "Trows Printing
+and Bookbinding Company. New York."
+Otherwise the two edition" seem to be let
+ter for letter, and were, apparently. l nh
+printed from the same types, wlucii m.iy
+have been kept standing, if. as the frlfnds
+of Tredwell insist, no plates were v r
+made. The first Is-suc Is more crutb !y
+p,:nted. and on poorer paper, and this
+alone would distinguish it. if there were
+no other iioints of difference.
+The statements of authors regarding
+their own lmoks are notoriously Inaccurate
+and unreliable. Noti. with the facts of
+the two primers before u-. let lift see what
+Kugcne Field himself said nltout them.
+In his "Auto-Analysis." which is said to
+be a reprint of the circular letter whleu
+be had pr!nt-d to send out to those numer
+ous applicant1? who plagued him contin
+u.illv for information about hi past life,
+his likes and dislikes, and sw forth, he says:
+"Mr publications have been chronoiog
+icallv as follows: 1. 'The Tribune Prim-r;
+Denver. li (out of print, very pcnrcvi.
+(The Model I'rimer." illustrati d by I Ion
+pin: Treadwav. Brooklvn, l-i. A pirate
+edition.)"
+Ir. a copy of the "Model Primrr" owned
+by a friend of Ills, he wrote, under date of
+August 7. IStl. we leprint it from Mr.
+Francis Wilson's charming sketch, "The
+Eugene Field I Knew"):
+"The -Model Primer' is composed of about
+hall the little paragraphs to be found in
+the "Tribune Primer.' Tredicell. the prb
+lifher, plratfd the matter and produced it
+Without consulting me. though subsequent
+ly he wrote me sa;. Intr that he meant to
+shar-: the profits with me. I suppose there
+wre no prolits. for I have not iieard from
+Tredwell again. A copy of this edition of
+the "Primer' sold at the l.ibbie sale -u
+Boston, in liW. for ST. The bidrtfrs mil t
+have been under lip- trroneons impression
+tb.it i! ra one of the original "Trlber.
+Primers.' The little sketches appealed ..v
+iginally in the Denver Tribune in the fall of
+1-M and u inter of isv;. The whole numlx i
+print"'! did not exceed fifty. I uit wrn
+ing them becai!e all the other newsp.Tpcs
+In the country began Imitating the project
+Here he says that the whole number ot
+paragraphs printed In the newspapers did
+not exceed fifty, but actual cocnt shows
+that ninety-four were printed in the Den
+ver "I'rimer." end there are many mo-.
+some of a local nature and iierson.il ti
+taOr application, which were not collected.
+v IFR
+n Un i lit
+w''Ia 43- M
+Again he says that the "Model Primer" is
+composed ot about half the little para
+graphs to be found in the "Tribune Primer.
+whereas. In fact, it includes only eighteen
+out of ninety-four. Giving the nam- "f
+the artist. Hopkin Irste.id of Hopkins,
+that of the publisher as Treadivav instead
+ot Tredwell. and saving "in the l.ibbie
+salt instead of "at Kibble's auction
+rooms" are other slips of the pen.
+But the "Model Primer" is not a reprint
+of the "Denver Primer." and we do not
+know that Tredwell, the so-called pi
+rate." ever saw a copy of the Colorado
+book. On the other hand we are reasona
+bly certain that he did not see a copv, at
+least not until arter he had planned his
+own edition.
+His "Primer" was evidently compiled
+from the original numbers of tho Denver
+Tribune. As originallv published in the
+newspaper the sketches themselves were
+without titles, hut were numbered in liom
+an, the series in each issue numbered by
+ItHelf, and with the general heading "The
+iribune Primer." When collected and
+brought out in book form the author sup
+plied titles to the sketches separately: In
+1 red well's collection they are numbered
+cnly. But more conclusive proof is that
+the "Model I'rimer" includes two sketches
+which did appear in the newspaper, and
+which are not in the 'Tribune Primer."
+These two are No. I.. "The Policeman."
+and No. VII.. "The Fish." The titles, ot
+course, are oura.
+The ninety-four sketches in the Denver
+book appeared in nine issues of the Tri
+bune, while those in the Brooklyn edition
+were elected irom live numbers onlv. A
+tabulation of the date ot issue of the paper
+ar.d the number of sketches appearing in
+tne two issues of the "I'rimer" mav be of
+interest:
+No. Sketi lies No. sketihes
+in "Tribune in "Modern
+I'rimer." Trimer."
+October 10 7 1
+October 17 7 0
+(Vtober -i V) 7
+October 21 10
+Notember 21 1$
+November 24 ll
+November CS 9 0
+December 5. 9 5
+December 6 12 0
+"The Policeman" appeared on December
+3 and "The Fish" on November 21. We
+hazard an opinion that Tredwell did not
+n reive his Tribune reguJarly. and that h
+missed seeing one or more of the Issues
+from which he made no selections or pei
+haps his artist friend did not ilnd them
+amenable to illustration.
+There lias been a reprint of the "Tribune
+Primer" made this vear in Sidalla. Mo.,
+which is to be sold "for the benefit of the
+Kugcne Field monument, which it in oro
+posed to raise at Columbia, Mo." The pub
+lisher of this edition 1 as. as Mr. 'Wilson
+said of Tredwell and his "Model Primer."
+"audaciously copyiighted the whole thing."
+though all his copyright protects is his
+"lie-dedication" and his advertisement on
+the back cover.
+TH0RNT0N'SENTERPRISE.
+He Asked the Pope to Appoint Him
+TruHtec of Church Property fit
+the Philippine.
+From the Chicago Record.
+The most audacious enterprise for many
+years is that of Amasa Thornton, who wont
+to Borne a few weeks ago and asked the
+pope to appoint him trustee of all the
+church property in the Philippine islands,
+which amounts to more than WUnAuViO. He
+has been exposed as an impostor, but not
+until he gave the church authorities in lliis
+country a. severe nervous shock and hur
+ried Archbishop Keane back to Borne from
+a. much-needed and much-relished vacation.
+Thornton is not even a Catholic. He is a
+ward politician of New York, with a repu
+tation for originality and a thirst for
+fame. He has made politics his business
+for several years, and until recently was
+an active member of Mr. Piatt's machine,
+but he had a. falling out with the "easy
+boss" and is no longer admitted to his con
+fidence. Mr. Thornton advertises himself
+as a lawyer, but no one has seen him In
+court for many years. He has had con
+siderable experience as a lobbyist around
+the New York city hall and capilol at
+Albany, and has occasionally appealed In
+Washington in the interest of legislation
+betore congress or contracts in the depart
+ments. One of the New York congressmen
+remarked this afternoon that Thotnton was
+"a man of mysterious habits and no visi
+ble means of support." and suggested 1 is
+mission to Borne as a speculative enter
+prise. If he failed to be apjmintcd trustee
+he would at least have the satisfaction of
+getting his name in the newspapers.
+A few weeks ago Mr. Thornton called at
+the White House and was giien an audience
+on the supposition that he was a. genuine
+agent ot the Catholic church. He went lo
+the state department, where, at the reo.ue.st
+of Senator Murphy, he was given the ordi
+nary letter of introduction to ministers and
+consuls abroad which is furnished to Amer
+ican travelers upon application from sena
+tors and representatives. He appears to
+have used this lotter to secure an inter
+view witli Archbishop Corngan, who gave
+him credentials to Cardinal Kampolla upon
+the supposition that lie was an agent of
+the government. Thus he shrewdly played
+"both ends against the middle." as sport
+ing men say. He also called at the aios
+tolic legation in this city, but did not ob
+tain any encouragement. On the contraiy
+he excited suspicion, but was not considered
+a, person of sufficient consequence to be
+mentioned in communications to the author
+ities at Borne. He appears, however,
+through the aid of his letters from Arcn
+biahop Corrigan and the secretary of state,
+to have convinced the Vatican that he was
+an authorized representative of our govern
+ment and in that character obtained a pri
+vate audlence with the holy father, to
+whom he disclosed his plans. He was also
+In conference with several of the cardinals
+and was getting on swimmingly when Arch
+bishop Keane arrived in Borne and exposed
+him as an Impostor. He has not yet re
+turned to New York, but he has h'ad tho
+benetit of a most interesting experience
+even if he was unable to accomplish his
+purpose.
+Archbishop Ireland called upon the presi
+dent to make an explanation, and found
+that while he recollected that some one
+had been thero representing himself as a
+semi-official agent of the church, with a
+scheme to place its property in the Philip-plr-s
+in the hands of a trustee, very littlo
+attention was paid to him, and the matter
+passed out of the president's mind. lie
+w.i;. naturally annoyed at Mr. Thornton's
+misrepresentations, anil promptly disavow
+ed any interest or sympathy for his ms-
+siOil.
+He (inir Willi I'leiiMiirc.
+From the Cleveland Plain Dealer.
+On? of the prominent Kastern delegate
+in attendance on the recent convention ot
+the Non-IV.rti.-an W. C. T. l". told a goon
+siory in illustration of the difficulties and
+disappointments so often encountered in
+temperance work.
+She was out collecting for the cause and
+had counted on a generous subscription
+from a well known banker. She went to
+his hanking establishment and met him
+going into his inner office with both hands
+full of money.
+"I thought this was a rematkablv fa
+vorable time to engage ills .attention." she
+said: "all that money, thousands upon
+thousands it seemed to mc. made the giv
+ing of the amount I hoped tor siem so
+easy. 'Come in." he said, and I followed
+him into the office. He carefullv laid up
+his stacks of bills in a criss-cross fashion,
+anil then turned to me with an encourag
+ing smile. It was just the sort of self
+phased smile that might lie expected from
+a man who had been handling so much
+stacked up wealth.
+"Then 1 began my story. -I made it
+strong. I painted with the mo.-t vivid eol
+ois I possessed the needs of our organiza
+tion. I threw in pathos. T grew eloquent.
+Then I stopped for breath.
+"He was lovingly lingering his pile or
+wealth while 1 talked, and the encouraging
+smile was still on his fail
+"Then 1 asked him for iinanelal aid. Ills
+smile grew still more encouraging.
+I think a lot of sooil comes lrom the
+work your society is doing." he said. 'And
+you all deserve great credit for it. I am
+glad of the chance to help you along. It Is
+always a pleasure lo extend financial aid
+to worthy objects."
+'Thank you so much." 1 said.
+"Not at all.' hi- smilingly answered.
+"Then he handed me a quarter:"
+Correct.
+From Judy.
+He "Was the seance good last night."
+She "O. medium."
+SLAVES IN THE JACKPOT
+MiMioitAiu.i: ro.viKvr hktwki:. a
+;aiiiii,i:r and a i'i.a.ti:u.
+The Southern Mini Hail .Verve, but It
+I'nileil 1 1 i in When the Caslern
+Plunder l'nt Him -to the Tcxl
+T ritty-four XcRrocs AVmi.
+From the Ne York Sun.
+"I was drifting through the South in the
+"s." said Ihe lormer gambler, "and one
+winter I was living at a town in South
+Carolina where a lot of card players used
+to gather for mutual pleasure and protlt.
+There was a club in the town where the
+gamblers used to meet, but the fact was
+kept from the female part of the popula
+tion that It was a gambling house. All
+kind ot games went on there, but the pros
+perity of the place was short-lived. The
+house, however, was not closed the winter
+I was in the town. At the club one night
+somebody said that Colonel Wallace. lh
+clack poker player of the state, had been
+fixed to play Pete Welch, one of the big
+gest plungers from the East. Pete was
+coming down the next week, and the sports
+were all anxious to see what he could do
+with the colonel, who was a stiff player.
+The colonel was universally lucky. The
+cards rolled to him without the asking,
+and every year his cash accounts showed
+good profits from the game. He owned a
+valuable plantation not far from the town,
+and he was noted for having one of the
+finest bodies of slaves in the South. They
+made the plantation yield rich returns,
+and there was no need for the colonel to
+depend on his playing for money, tor lie
+was better off than many of the planters
+who risked their fortunes at the club.
+"When the colonel heard that Pete was
+coming to rake him. he turned his Up anil
+said be was not afraid to play Pete on
+the biggest kind of stakes. 'If Welch can
+do me, then all well and good." was the
+way he put It, 'but I want you fellows
+to know that 1 can play him to a stand
+still. I have heard much about your swell
+Eastern gambler, who prides himself on
+never having been caught on a bluff. Well,
+we all don't know about that. When he
+comes I will play him a single-handed
+game, and you chaps can watch it. I'll
+say, though, that I'm not extra wealthy
+this winter and can't lose much stuff. I've
+got a limit fixed in my head and when
+he passes that I'll simply quit, and Welch
+can take my money and talk all he
+pleases."
+"Welch got in town one Sunday morn
+ing. His s,tage drove to the only hotel in
+the place, and the news of his arrival soon
+spread through the sporting part of the
+town. A messenger who came in for Col
+onel Wallace's mall carried a note back
+telling of the safe arrival of Welch. Pete
+sent word to the colonel that he had heard
+or him. and was anxious for a light. He
+asked the colonel when could he play. Not
+more than an hour after the messenger
+startetl with the nbte he returned to tin
+hotel with a paper for Welch. The col
+onel wrote that he would lie in town at
+o'clock that afternoon and would bring
+his money with him.
+'Now. we want lo keep this game quiet
+for once." said Squire Boggs. the president
+of the club, 'for no good can come from so
+much talk. Besides, this club is getting
+too much notoriety of late."
+The (Iniue Openx.
+"A dozen salty gamblers were at the
+club at o'clock. Pete got there ahead of
+the colonel and the local element kept its
+breath while Pele told wonderful stories
+of great games in the East. He rattled olt
+the stones faster than the tin horns
+could listen, and they all thought him
+something to be feared by the colonel.
+At o'clock the colonel drove to the club
+and sent his man to the hotel. 'I'll come
+there when I need you." he said.
+"In fifteen minutes everybody had taken
+a drink or two and become sociable with
+Pete. T don't know what you want to
+plav.' said the colonel, 'but fix your price
+and" I'm probable your man. Some of these
+gentlemen think I'm too nervy for my
+good, but let that go. How will JlvO jack
+pots suit you?"
+'Good enough," answered Pete. but
+that's what I call a dinky game. If it suits
+vou. though, it's good enough; its good
+enough for me. dear colonel."
+'All right, let her go at that."
+"The cards were dealt, but they shuf
+fled badlv and passed around five times
+before the pot could be opened. The col
+onel held the openers and bettered his han't
+in the draw, and finally won. but not until
+Pete had done some heavy betting. After
+that the colonel played ahead and the
+local sports thought Pete easy. Pete
+couldn't draw. When lie opened a pot the
+colonel would win it. and the game was too
+much one way to be interesting. Pete
+crossed his bridge at last, however, and
+the cards went to rolling his way. He got
+finer hands than did the colonel during the
+first part of the playing, and the sportf
+who looked on saw the colonel"s pile of
+gold gradually grow less. One package
+wa.- emptied and another was brought from
+the old-fashioned locker in the club. After
+that the betting got fierce. The game ap
+peared perfectly square for Welch could
+not have turned a bad trick had he wanted,
+for too many eyes were watching the deck.
+Colonel Wallace took all kinds of wild
+chances. "Another drink will help me." he
+would say as he lost, though he did not
+allow his" head to get clogged. When his
+last stack of chips crossed the tabic he
+shoved back his chair and said his pile
+was gone. It was getting late on at night
+then, but the gamblers didn't notice that.
+Welch, you've got even thirty thou
+sand thr if you will count it. I brought
+that much with me and I may have b-eii
+foolish. I believe if I had more I could
+get it all from you in half a dozen hands
+"I'll gladly give you that chanre. col
+onel. Perhaps some of your friends here
+can accommodate you?"
+"Nobody spoke. The colonel rattled on
+the table.
+Welch. he said, when the silence got
+oppressive. 'I hae no more ready cash,
+but I have property that is as good as gold
+anv day right here In this town. 1 never
+did it before, but I will play you twenty
+four of my best slaves against JM.Wfl. The
+negroes are worth fully that amount. au
+these gentlemen will testify. The slavs
+are tin- best in the state, but if you think
+the value too high we can arrange It other
+wise. Will you finish the game?'
+The "sialic Put I"p.
+"If these gentlemen say the slaves are
+worth that much, then fix your papers
+while I count this money. I never like to
+turn my back to a good thing.'
+"Everybody got up and took a drink on
+the strength of the new game. When the
+papers were arranged the players got a
+new deck ot cards and there was not a
+word passed while the cards were being
+shu tiled. The sky was to be the limit
+until the SjO.CjO was readied. I saw at the
+start that the game would not last long.
+Wallace's sporting blood was up and he
+seemed determined to lo.-e all quickly or
+get it back in the same swift gait." He
+took desperate chances in drawing and ac
+cepted foolish I ets. The end was draw
+ing near. Weleh was dealing, and bad
+shuffling on the previous hands had left
+considerable money in the pot. Welch was
+ahead on the winnings. The colonel looked
+at his cards and opened the pot for 1.000.
+Welch stretched his ejes and then looked
+at his hard. He raised It St.Csio. Without
+raising Ids head the colonel raised back
+?:'."l and Welch saw it. He went Jl.i)
+belter and the colonel stopped raising.
+"He saw the finish coming. The plavcrs
+were less excited than anv of the other
+men in the room. Pete took the card--anil
+asked the colonel:
+'How many?'
+'Two cards. he said.
+'None here." put in the dealer.
+"The colonel look his two cards and
+looked at them quickly. Then he stuck
+them behind the others. 'I'll start this on
+he said. Welch looked at his hand
+again, and took the bet. He went J-ViiO
+more. The colonel raised another $.7.10.
+Welch saw It. and raised another, and the
+colonel raised still another io.OuO.
+'Well. Pre just got StO.WO here you can
+have If yon can get It." said Welch, and
+he tossed In the chips. The colonel studied
+his hand. 'I've got only KJ.O").' he said,
+'and I think you've got me. even If It is
+a bad thing to say.'
+"With that Wallace tossed the cards on
+the table and AVelch took the pot. It was
+a clean ease of bluff on Pete's part, as the
+cards subsequently showed. The colonel
+had held up a pair of jacks, ills opener.",
+and u i ace. On the draw he caught an
+ace and a seven of diamonds. Welch had
+only a pair of- fives to start with, and h"
+kept them with the nest of the hand.
+Wallace thought lie was bluffing but lost
+Ms nerve at the wrong moment. When
+the game ended the colonel had barely
+It.Mfl. He bought back two of his slaves
+that were lost, and the twenty-two went
+to Welch. They were sold in the town ,i
+month later."
+A StiiHtus- Policy.
+From the Cleveland Plain Dealer.
+"I say. Schneider, what do you think of
+the open door pollcv?"
+"It's gnot enough for me."
+"What's good enough for you?"
+"Keeping der side door open on Sundays."
+ESCAPED THE FLAMES.
+St. Ag;iie Clltircll, New York, llliruetl,
+lint the SnlntN Statue AViih
+"L'ulinrnieil.
+From the Chicago Chronicle
+The interior of St. Agnes" Roman Cath
+olic church in East Forty-third street, ne
+tween Third and Lexington avenues. New
+York, was burned out and the building al
+most entirely consumed by fire Sunday
+morning.
+Yet all the statues and paintings of the
+saint for whom the church was named, as
+well as the relics of the saint enshrined
+there, escaped the disastrous effects of the
+llames. smoke and waier.
+Wlule the fire was iaging the janitor sud
+denly rcmemberid the relics of St. Agues,
+kepi in a little shrine above the statue of
+the saint on tho left
+side of the main al
+tar, lie made two
+desperate efforts to
+obtain them, hit; was
+beaten back by the
+snioko and lire. At
+the third attempt ho
+succeeded m reaching
+them, with tint aid
+ol a fireman, slightly
+burning his itft hand
+m the effort.
+The st.im-d glass
+windows wtru de
+stroyed, cither by
+nro or mo tieavy
+streams of water di
+rected from the out
+side. The larce win
+dow at tho front was
+annihilated and its
+companion over the
+altar was broken in
+10") pieces, the latter
+window, which was a
+fine specimen o f
+stained glass work,
+representing the mar
+tyidom bv lire of St.
+Agne. St. Janunrius
+and St. Iiwretiee.
+The picture, of the
+two latter saints suc
+cumbed to their trial
+by lire, and onlv a
+few remnants of them remained. But in the
+center still stands the white-robed figure
+of St. Agnes, untouched by tire, smoke or
+water. As in the ancient time, the (lames
+lit about her. swerved aside, and would not
+touch her. so now she escapes unscathed.
+Not only were the relics of the saint saved
+and the window whlih pictured her mar
+tyrdom uninjured hut the white ma"-i)l"d
+statuette of St. Agnes, which stood beside
+the shrine, also came through the fire
+without damage.
+The greatest anxiety in the minds of Dr.
+Brann. the pastor, and his three assistant.-
+was as to the fate of the three inirhle
+altars, the two smaller one, on each side
+of the main aitar of St. Aunes. havlmr been
+erected by James F. Boyle, the sexton of
+tne clitirch. mat dedicated to the Blessed
+Virgin Mary, on the western side, escaped
+serious injury, but the altar of St. Jo.-eph.
+on the east, and directly in the path of ihe
+lire as it swept up from the basement, was
+damaged. The statue of the saint was de
+stroyed, the head being broken off bv fall
+ing timbers. A painting and an altar to the
+sacred heart of Jesus on the eastern side
+of the church were ruined.
+The main altar of St. Agnes, which was
+blackened and scorched about the base, is
+of Carrara marble and Pc-drara onyx. It
+was carved in Italy, and was set up in the
+church by Dr. Brann In October.lS;'. Above
+this altar is a painting. 10x20 feet In size,
+representing "Our Lord in the Temple."
+painted to order in Borne in lTH bv Arthur
+Beckwith. This picture, although "damaged
+by smoke, escaped with little material in
+jury, due to a large canopy of iron and
+glass which hung above both the painting
+and the altar and which, although wiecked
+itself, preserved all beneath it.
+Mcdnl for Hear Admiral Schley.
+The committee apixiintcd by Governor
+Lowndes to select a medal to be presented
+by the state of Maryland to Bear Admiral
+Wintield Scott Schley lias selected a de
+sign which is shown in the accompanying
+cut. Early in February a dinner will be
+given to the admiral by the citizens of
+Maryland and the medal will be presented.
+Governor Lowndes niikine; the presenta-
+t'on speech. The cost of the medal will be
+rbout Sl.ono.
+The medal will be aiti.-ii iu design, and
+will be beautitul In appearance. It will be
+embellished with about :?H diamonds am!
+will be mi'de of line nolel. The mo-t nm
+spicuous feature will be the slate i-oat-of-arms.
+surroumhd by a ciicle of diamonds,
+around whieh will be entwined a wreath of
+cak Ieave-s. On the other sine will lie an
+outline in has telief ol tne miser Brook
+lyn. Admiral Schley's flagship. The mcdni
+will be held by a ribbon of blue enamel,
+.-el with diamonds, on whit h will lie the
+words. "Maryland Honors Her Son. Win
+field Scott Schley." With this ribbon is
+entwined an anchor of diamonds and two
+swords, also ornamented with diamonds.
+Tho whole will be suspended from the
+I'nlted States coat-of-arms. through which
+a ribbon of orange and black will be pass
+ed and placed around the neck when the
+decoration is worn.
+A Cle-vcr Fellow.
+From the Cleveland riala Dealer.
+The other day a very bu.-iness.jke voting
+man strode through the Christmas crowds
+that already thronged a certain store, and
+m..de straight lor the glove counter.
+"Two dozen pairs, please." he demanded.
+"What size," que-tioned the girl; "all the
+sami
+"Yes any size. Give me good ones, too.
+You know same old thing."
+The girl noildnl. and set to work getting
+out the gloves.
+"Shall I send them?" she asked.
+"Yes. and the bill. Good-by for another
+year. Thank goodness, it's over with
+again." and he strode out with a happv
+face.
+"What is it?" questioned a woman
+standing near. "What under the sun does
+he get so many for, and all the same size?
+You seem to know him."
+The girl laughed.
+"Only in this way," she answered. "He
+comes in here every jcar like that, and
+buys just so many gloves. The first time,
+four years ago, he explained it all to me.
+He has four women to whom he gives pres
+entsold or young, relations or not. I have
+never known and somebody one, told him
+that there w!ts no gift a woman appreci
+ated ?o throughly as a pair cf l-Ioiv. So
+every year h comes here and" buys halt
+a dozen pairs tor every one of tho.-e wom
+en. He gets them all the same size and
+color to save trouble, anil relics on each
+woman to come here and get hers ehang3d
+to suit ner. t iion t know but it s a good
+plan, take It all .-trouml. but it does sound
+funny, doesn't it?" and she smiled as she
+turned to the next customer.
+But the one other man who hennl the
+revelation ga-ped with wonder at the im
+mensity of that young man's brain.
+The tramp has been ve-ry impertinent and
+dictatorial until the hired man unexpected
+ly made his appearance and Inquired, "Are
+you lnokin' for a scrap?" His manner
+changed entirely and at once he answered.
+"Yes. sir; lhat s what I'm lookin' fur a
+scran o cold turkey er cold ham. cr any
+thing that happens to be handy." Wash
+ington Star.
+ye-W5P
+filtvV
+I M'
+ft i I i
+I. 1 j
+HI
+mCS- 'jS?'
+OLDEST MANINTHE WORLD.
+Tr&iiH tin 1ms It i in Ills Xnme In Iinnc
+Ilroek; HIi Age. Ill)
+Years.
+In the valley of the Bosque, river, eight
+miles from the town of Valley Mills, In
+Bosque county. Tex., and twenty-live miles
+northwest from AVaco, lives the oldest man.
+perhaps. In the world. His name Is Isaac
+Brock, and he is IW years old.
+Of his history. Mr. Brock says: "I was
+lorn in Buncombe county. N. C. March 1.
+17-. I grew to manhood there ami learned
+the blacksmith trade. I moved from
+North Carolina to Georgia and worked at
+ISAAC BBOCK. 110 YEABS OLD.
+my trade In the Hambersham county gold
+mines four years. I then moved to De
+Kalb county. Ala., where I remained until
+I came to Texas. I do not remember the
+date of my arrival in Texas, but it was
+when the eastern part was still a wilder-lies-.
+I was accompanied by twelve fami
+lies, and we settled In Necogdoches county.
+I had not a dollar in money, and made ,i
+bargain with my comi-anlons to furnish
+meat for all of us. they to give me an equal
+share of their earnings, of the land cleared
+and the products thereof. This arrange
+ment lasted five years, and none of us was
+ever a day without meat. We founded the
+village of Mount Enterprise. Busk county,
+and I lived there until after the civil war.
+"When the rnir broke out I was opposed
+to .-e-cession. Ail of mv neighbors and
+friends were for the South, but I talked for
+the L nion. I nave often thought that I
+might have been roughly dealt with, but
+my neighbors seemed to regard me as a
+necessity anil a privileged character.
+"I afterward ioined the Confederate armv
+to avoid being conscripted, notwithstanding
+teat t was over age. I served with captain
+Beedy under General Magruder. but I did
+nut change my sentiments, and I have al
+ways been a Union man. I served until the
+war ended. 1 would have been In this last
+war if my eyesight had been good.
+Mr. Brock Is fully six feet tall when
+standing erect. While he was telling his
+experiences he seemed to gather inspira
+tion from tho recollection, and his once
+powerful body shook with emotion.
+Mr. Brock anil his aged wife.twenty years
+bis junior, live with their youngest daugh
+ter, .iirs. i-;i urann.
+ANOTHER SHERLOCK HOLMES.
+Hnw He Knew It AVun n SuiiiII Man
+Tluit Ilnd .lust l.sed the
+Telephone.
+From the New Orleans Times-Democrat.
+"The last man who used this "phone,"
+said a New Orleans. Sherlock Holmes, pre
+paring to wrestle with the instrument in
+an uptown public' station, "was a short,
+little fellow- in a eleuce of a hurry, smoking
+a cigarette. He asked for the Illinois Cen
+tral freight olucc. was told that they
+were busy and repeated his request five
+times, getting madder at each call. Mean
+while his cigarette went out and after vain
+Iv searching for a match
+"Hold on there!" exclaimed a frientl who
+had accompanied him to the booth. "Wh.ita
+Kind of a lairy story are you giving me,
+anyhow?"
+"No fairy story at all." replied the ama
+teur sleuth blandly. "I was merely stating
+a few facts.
+"But how the dickens did you ascertain
+them?"
+"Plain as A. 15. C. my loy. To be.;in
+with, the adju-table mouthpiece of the In
+strument is pulled down, as you see. to its
+fullest extent, indicating clearly that the
+last user was very much undersized. Isn't
+that evident?"
+"Ye-e-e-cs. I guess so; but how about the
+rest?"
+"Well, look at that ledge and you will
+observe live charred spots anil an equal
+number of small piles of tobacco ash. What
+do vou infer? Why. obviously, that the
+gentleman was smoking and laid down his
+cigarette each time he called. The piles of
+asn are sun unuisturDeu. snowing tney
+were recently deposited, and they are small,
+proving plainly that the Intervals of call
+ing were brief. My logical conclusion was
+that the 'phone he wanted happened to be
+busy, and 1 looked Instinctively for a
+memorandum of Its number, which most
+men make under such circumstances. I
+found it. as I anticipated, on top of the box,
+scrawled in pencil, and recognized the num
+ber of the freight office. Such memoranda
+are almost always rublied out by the sleeve
+of the next customers, anil as this one Is
+still fresh and bright it is fair to presume
+it was made by the last man in the booth
+otherwise the rhort chap with the cigar
+ette. Moreover, a freight office 'phone is
+usually busy at this hour, so the clews
+Interlock and sustain one another. Not
+so. my dear boy?"
+"But the matches?"
+"Oh! I deduce the match incident from
+those fresh toothpicks on the floor. Where
+a man in a hurry searches for a match
+he invariably finds quantities of tooth
+picks. I would-
+Are you through with that 'phone?"
+asked a short, stout stranger, appearing
+suddenly at the door and vigorously puf
+fing a cigarette, "because if you are I
+"Certainly. s:r." said the analyst, smil
+ing, i think you will find the freight of
+fice disengaged at present."
+"Well, I'll be hanged!" said the friend.
+A Strimue .MKHitf.
+Frrn ti. Clarelacl Plain Dealer.
+Here is a letter which was picked up In
+an out-of-the-way place and handed to
+the Tales of the Town man by the puzzled
+finder. It was evidently written by a for
+eigner with a limited command over the
+English vernacular, and a singular pro
+pensity for repeating. Here is the letter
+word for word:
+"Kindlv Miss. I will write to you a few-
+lines und 1 will said that to you. I come to
+eon at hristmns. so I have thaught I will
+let vou soon know of it. You can if vou
+please go your self to the West side te
+your uncle ami see tne young laity across
+from your uncle, as fane come.- at your
+house, at Christmas, the 5 December. I
+will be at our house than, or if you self
+don't get to the West side from now on
+and tell lo Christmas writ- the young lady
+at West side a few lines to her -o .-he
+shall come to your house at Chri-tmae
+You know- me well. I will make with yeu
+all right than, but if please tell nobody,
+not one. no! your Brother and wife neith
+er, jour sister-in-law. keep it all fur jour
+self. Answer so soon may possible they
+few lines when you receive It."
+Before llernlifirilt AVuh I'niniiiis.
+From the New York Ilral1.
+One of those indefa'igable collectors of
+curiosities of all sorts who abound in Paris
+Ins lately unearthed a 'lot umenr eonneeted
+with the'eareer of Sarah Bernhardt, which
+Is something like the old washing bill pre
+sented by Mnie. Sans Gene to Napoleon I.
+Iu S.-inlou's plav. The paper is a receipt
+signil bv the eel brat n actress on Feb
+ruary -.1'." I aeknoevl -ilglng that she had
+been paid the wretched sun ot l' francs
+by the cashier of the ililenn theater as
+four weeks' salary f"r histrionic service
+In the left bank plavhoi'se. The collector.
+says the London Teleg'Mph. found the re
+ceipt among a heap of .ld books and man
+uscript which In- bought trora a ragpick
+er for .i franc, lie proposes to send the
+documentary curiosity to the Comedle
+Franealse. hoping that It will be deemed
+of sutlirent importance to warrant a place
+among the archives of that historic estab
+lishment. Aliuo! Incredible.
+From the N'err Y rk Journal.
+'And to think that
+tightiopt! walker!
+Lhdtmnu'i
+P"j'J32jiji3jHJ
+l m the
+BASKET BALL AT I U.
+XKW BAJIE I.. CHKlT FA VII IX IX TUB
+CLASSIC SHADES OF LA1VIIEACU.
+How It I Plajeil The Tennis That
+Ilnie Hern Formed The Fncnlty
+Eiijoj- Ihe Game Clinncellur
+Snow a. Crack Plnjer.
+LAWRENCE. KAS.. Dec. 17.-(SpeciaU
+The basket ball "fever" has broken out
+In Its most violent form among Kansas
+university people. Dr. Naismith. the new
+physical director, brought the germs with
+him, and that they were healthy specimens
+is evidenced by their activity.
+At first only a few of the students siw
+in basket ball the diversion. But the dis
+ease spread rapidly. Not only doe- eai h
+class already possess its basket ball team,
+but the literary and the scientific men of
+the faculty are backing their "crack fives.
+Eve-ry evening the gymnasium is filled with
+a scrambling mass of humanity, and the
+spectators who can recognlz. a friend or
+acquaintance In the melee must be gifterd
+with second sight.
+Five men compose a team at basket ball.
+The floor Is divided into three parts. Tho
+center men of the plaving teams oe-upy a
+space chalked off in the middle, am, the
+other four dispose themselves In various
+graceful attitudes in the end sections. The
+referee tosses up the ball just above the
+heads of the centers, who are standing
+face to face. Each makes a jump and en
+deavors to hit the hall, knocking it over
+to his own men and toward his goal. Then,
+the scramble begins. The accomplished,
+and gentlemanly contortionist in the pat
+ent medicine show could not rival basket
+ball players In the way of tying French
+knots in their corporal systems. The ma.-s
+of writhing humanity turns over and over
+in kaleidoscopic fashion, suddenly un
+winds itself and is again resolved Into
+parts. A man goes diving after the ball
+and comos triumphantly up out of the
+fray with his arms full of another man's
+head! The aim In playing basket ball, so
+it Is claimed. Is to throw the ball Into tho
+round baskets, suspended at each end ot
+the field, a greater number of times than
+the opposing players. In reality, however,
+it would seem that the cherls-hed object of
+each plajer was to make as large and
+choice collection of hruises as possible.
+But that is basket ball from the specta
+tor's point of view. To the players It Is
+an all absorbing sport. Some of them
+even have the audacity to assert that It Isi
+a "gentle game, don't you know." Gentle,
+indeed! One might as appropriately speak
+of a bucking broncho as "well-mannered."
+When the field Is not divided into sec
+tions the game is reallr rough, but If thi
+chalk lines are drawn, and fouls are faith
+fully called whenever a man over-teps.
+his boundaries, the bruise hunter adds to
+Ills collection more slowly. It Is amusing:
+to watch the players trying to remember
+to have the proper respect for the bound
+aries. Indeed It is truly pathetic to sej
+what limitations of power a simple chalk
+line can put on thee great, strong athletes.
+In actual agony they har.g over the edge
+and reach out helpless, longing arms to
+ward the ball. Now and then an unruly
+foot goes across the line, and then the
+sharp whistle of the referee Is heard. A
+foul entitles the players ort the otht.r side
+a chance at throwing goal.
+The game consists of two halves of
+twenty minutes each. A twenty minute
+rest is given between, and a new- team
+put on to utilize the rest time. Each time
+the ball goes Into the basket two points
+are scored for the side whose goal Is
+thrown As In baseball, a small score
+Indicates a good game.
+The Inventor of Ilnsket Hnll.
+Dr. James Naismith Is the inventor of
+basket ball. Unlike most of our games It
+Is not the development of some medieval
+sport. It was worked out on scientific
+principles to meet a long felt want. Dr.
+Naismith was physical director of a Y.
+31. C. A. training school at Springfield.
+Mass.. where the problem of supplying thlsj
+need was brought to him for solution.
+Busket ball was the result. It was In the
+winter of 9I-52 that the game was intro
+duced. The rules were made out and hung
+In the "gym" fdr the inspection of playerj
+before the game was ever tried. The men
+were a little skeptical "at first about it.
+but after the; ball was once thrown up no
+coaxing was needed to Induce them to
+Play. Basket ball came Into general favor
+first through the Y. M. C. A. Having been
+Introduced through the association it was
+natural that it should spread through that
+medium. Before long, however, colleges be
+gan to investigate and adopt the game, ami
+In the short .-pace of seven yeirs It has
+gaimd a wide iopuhirlty. In the Eastern
+colleges, both for men anil for womn.
+basket ball Is the reigning favorite among
+sports. The rules are not changed for tho
+young women players, though doubtless the
+game is played with a bit more tenderness.
+Though at first sight the game appears
+to be a free for all scramble. It soon be
+comes evident that a number of sclentiilr?
+,1'laya are iossibIe. Unfailing good judg
+ment, anu goon muscular control are the
+first requisites for a good player. The treat
+ment of the ball Is the subject of several
+rules. It can be tossed, rolled on Ihe floor
+and pushed around, but must never In
+kicked. There are no signals, and a play
+lasts until the ball Is passed Into the basket.
+Tennis In the 1'iilverslt jr.
+The Kansas university men are going to
+be great basket ball enthusiasts. Each
+class has a picked team, and places on thei
+teams are as much sought as on the var
+sity eleven. Among faculty members thero
+are two teams the Snow hall and tho
+Frazer hall, representing the scientists and
+the literary men. On the former team
+Dr. WHHston. Marshall Barber. Clarenco
+McClung. A. H. Clark and Dr. Naismith
+hold positions. Their opponents are A.
+G. Cantield. AY. H. Carruth. E. M. Hop
+kins. M. W. Sterling and Archie Hogg.
+On Tuesdays and Thursdays at 3 p. m. thesj
+distinguished individuals lay aside their
+dignity and their collars, don sweaters anil
+pugilistic airs, and come forth into the
+arena to dw battle. With a grace that
+is acciuired only through long years of
+bending over desks and laboratory tables,
+they scamiier now here, now there, after
+the elusive canvas sphere.
+When the faculty teams met for their
+last practice. Chancellor Snow- appeared.
+He was Immediately besieged to play. The
+chancellor protested that he was too green,
+but such fetching invitations could never
+be turned dotvn. The head of the universi
+ty disappeared Into a dressing room, and
+In a few moments, he emerged In a cos
+tume of which the most noticeable feat
+ures were- white canvas shoes, a seraphic:
+grin, and a neutral tinted sweater. With
+characteristic vigor he attacked the game,
+and before long he was the champion play
+er. There is nothing slow about the chan
+cellor when he gets into action.
+Tournament in January.
+On January 13 an Indoor tournament will
+be given. Basket hall will be the chief
+feature of the c-xhihltlon. The old skat
+ing rink on Kentucky street will probably
+be rented for the occasion. Dr. Naismltii
+says he enjoys working with college men
+far better than with others. He believes
+there is no artificiality whatever about e-ol-Iege
+students. "If a man is a man they
+will respect him and his endeavors in their
+behalf." he says, "but they won t Stan. I
+trilling a minute. When I find it yo'ing
+fellow who kicks on the referee's decision-..
+I just ask him n call fouls for a few mo
+ments. After he has called a few and other
+men have kicked on his rulings, h,. never
+kicks again."
+Pr. Naismith has much influence t
+the young men in his charge. In Mrs. Cora
+McColli,m Smith he has an able colleague.
+The revolution In feeling which a few yearn
+have brought about among the physical
+culture students Is remarkable. When the
+training was first Introduced about four
+years ago and the girls lirst donned their
+suits, the presence of a man within a ra
+dius of three blocks wrought the most
+awful consternation. Now men pass back
+and forth throuch the r-vm to and from
+the laboratory during the girls" cla.-aes and
+ni'liing is thought ot it. Before long :hi
+g.rls will trv basket ball. too. Equal suf
+frage in ainietirs is one oi me cnarms of
+Kansas university. Visitors to Lan-rem-o
+must get a basket ball guide beforehand and
+lecrn tne nngo. it tney wis.i to dd able to
+converse intelligently with university peo
+nle. for that is the all absorbing rnnle re
+the day. It may not be a great while. Judg-
+i hi; iruiii uiijjemuiii e ueioic processors
+will be whistling students down in their
+recitations and -allInc "foul" when thir
+make mistakes in their translations, so
+jreai is cue iiiuiience oi iiaoit
+ADELIA ALICE Hl'MjPIUlEY.
+There Is a boy now In an ncniltmlc grade
+"r.l,." n'h, ..'III I... til..
+.1. i ytj i.iuuai'i) oecjome
+either a lawyer or a newspaper) man. At
+tne close ot a. ie-soii in grammar a Tew
+days since, the teacher was explaining the
+new work for tho next day. a', studv of
+word forms in gender. Turning to "this
+bov. he said: "Now. what vvoulil yon call
+the remlnine of stag?" Like- a flush came
+ihe replj, "An afternoon tea." Brooklyn
+Life.
+A
+t

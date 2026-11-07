@@ -1,0 +1,10 @@
+{
+  "url": "https://www.uspto.gov/terms-use-uspto-websites",
+  "fetch_url": "https://www.uspto.gov/terms-use-uspto-websites",
+  "method": "http",
+  "fetched_at": "2026-10-30T19:02:04Z",
+  "sha256": "008e9b05c538564c5d776cab3e161267a7a0ea5b19384cd4647c7b0ce8285a00",
+  "bytes": 25223,
+  "http_status": 200,
+  "final_url": "https://www.uspto.gov/terms-use-uspto-websites"
+}

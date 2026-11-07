@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/18471265",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=18471265",
+  "method": "api",
+  "fetched_at": "2026-10-09T19:29:59Z",
+  "sha256": "13ce0ba241db230002c511799d7d1636d2155f3d6022e41ddf42991cf4f1c79e",
+  "bytes": 3938,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=18471265"
+}

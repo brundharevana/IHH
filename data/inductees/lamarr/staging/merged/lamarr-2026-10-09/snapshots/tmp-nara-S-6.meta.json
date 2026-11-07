@@ -1,0 +1,10 @@
+{
+  "url": "https://catalog.archives.gov/id/148960657",
+  "fetch_url": "https://catalog.archives.gov/proxy/records/search?naId=148960657",
+  "method": "api",
+  "fetched_at": "2026-10-09T17:43:12Z",
+  "sha256": "bf28d0c0a76c663d73c6a8e71bc92231b8e43adc2f0afb76db4801501186a7e5",
+  "bytes": 2746,
+  "http_status": 200,
+  "final_url": "https://catalog.archives.gov/proxy/records/search?naId=148960657"
+}

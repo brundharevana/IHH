@@ -1,0 +1,1226 @@
+_version_: 1773682093873692672
+access_restricted: false
+aka[0]: http://www.loc.gov/item/sn83045462/1959-03-04/ed-1/
+aka[1]: http://www.loc.gov/resource/sn83045462/1959-03-04/ed-1/
+batch[0]: dlc_tartuffe_ver01
+call_number[0]: Newspaper
+composite_location[0]: 0/united states/
+composite_location[1]: 1/united states/district of columbia/
+composite_location[2]: 3/united states/district of columbia/washington/
+contributor_names[0]: Library of Congress, Washington, DC
+contributors[0].library of congress, washington, dc: https://www.loc.gov/search/?fa=contributor:library+of+congress,+washington,+dc&fo=json
+created_published[0]: Washington, D.C., March 4, 1959
+date: 1959-03-04
+date_issued: 1959-03-04
+dates[0].1959-03-04: https://www.loc.gov/search/?dates=1959-03-04/1959-03-04&fo=json
+dates_of_publication: 1854-1972
+description[0]: Washington, D.C.
+digitized: true
+digitized_label: Present
+display_offsite: true
+extract_timestamp: 2023-08-07T20:33:59.597Z
+extract_urls[0]: file:/service/ndnp//dlc/batch_dlc_tartuffe_ver01/data/sn83045462/00280607988/1959030401/1959030401_1.xml#ndnp/dlc-2020_now
+format[0].newspaper: https://www.loc.gov/search/?fa=original_format:newspaper&fo=json
+genre[0]: Newspapers
+group[0]: ndnp/dlc-2020_now
+group[1]: library-of-congress-washington-dc-awardee-8
+hassegments: true
+id: http://www.loc.gov/item/sn83045462/1959-03-04/ed-1/
+image_url[0]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_tartuffe_ver01:data:sn83045462:00280607988:1959030401:0323/full/pct:3.125/0/default.jpg#h=307&w=198
+image_url[1]: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_tartuffe_ver01:data:sn83045462:00280607988:1959030401:0323/full/pct:6.25/0/default.jpg#h=614&w=396
+index: 66
+item.batch[0]: dlc_tartuffe_ver01
+item.call_number[0]: Newspaper
+item.contributor_names[0]: Library of Congress, Washington, DC
+item.created_published[0]: Washington, D.C., March 4, 1959
+item.date: 1854
+item.date_issued: 1959-03-04
+item.dates[0]: 1959-03-04
+item.digitized_label: Present
+item.format[0]: newspaper
+item.genre[0]: Newspapers
+item.language[0]: eng
+item.library_of_congress_control_number: sn83045462
+item.location[0]: Washington (D.C.)
+item.medium: 80 pages
+item.newspaper_title[0]: Evening star
+item.notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+item.notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+item.notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+item.notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+item.notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+item.notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+item.notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+item.notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+item.notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+item.other_formats[0]: https://tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_tartuffe_ver01/data/sn83045462/00280607988/1959030401/1959030401_1.xml
+item.other_formats[1]: http://lccn.loc.gov/sn83045462/marcxml
+item.other_title[0]: Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star
+item.other_title[1]: Star
+item.place_of_publication: Washington, D.C.
+item.raw_lccn: sn 83045462
+item.reel_numbers[0]: 00280607988
+item.source_group: ndnp/dlc-2020_now
+item.subjects[0]: Washington (D.C.)--Newspapers
+item.subjects[1]: Washington (D.C.)
+item.subjects[2]: United States--District of Columbia--Washington
+item.title: Evening star (Washington, D.C.), March 4, 1959
+language[0]: english
+languages[0].english: https://www.loc.gov/search/?fa=language:english&fo=json
+library_of_congress_control_number: sn83045462
+location[0]: washington d.c.
+location[1]: district of columbia
+location[2]: washington
+location[3]: united states
+location_city[0]: washington
+location_country[0]: united states
+location_state[0]: district of columbia
+locations[0].district of columbia: https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json
+locations[1].united states: https://www.loc.gov/search/?fa=location:united+states&fo=json
+locations[2].washington: https://www.loc.gov/search/?fa=location:washington&fo=json
+locations[3].washington d.c.: https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json
+locations_city[0].washington: https://www.loc.gov/search/?fa=location_city:washington&fo=json
+locations_country[0].united states: https://www.loc.gov/search/?fa=location_country:united+states&fo=json
+locations_state[0].district of columbia: https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json
+medium: 80 pages
+method: mets_filesec
+mime_type[0]: image/jp2
+mime_type[1]: application/pdf
+mime_type[2]: text/xml
+mime_type[3]: image/jpeg
+newspaper_title[0]: Evening star
+notes[0]: Daily, Mar. 26, 1905-July 12, 1972
+notes[1]: Vol. 4, no. 553 (Oct. 9, 1854)-120th year, no. 194 (July 12, 1972).
+notes[2]: "From April 25 through May 24, 1861 one sheet issues were published intermittently owing to scarcity of paper." Cf. Library of Congress, Photoduplication Service.
+notes[3]: Publisher varies: Noyes, Baker & Co., <1867>; Evening Star Newspaper Co., <1868->
+notes[4]: Suspended Jan. 1-6, 1971 because of a machinists' strike.
+notes[5]: Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection.
+notes[6]: Also issued on microfilm from Microfilming Corp. of America and the Library of Congress, Photoduplication Service.
+notes[7]: Washington daily news (Washington, D.C.) (DLC)sn 82016181 (OCoLC)9186073
+notes[8]: Evening star and the Washington daily news (DLC)sn 83045463 (OCoLC)9567065
+number[0]: 00280607988
+number[1]: sn83045462
+number[2]: 1
+number_edition[0]: 1
+number_lccn[0]: sn83045462
+number_reel[0]: 00280607988
+numeric_shelf_id: 195903041
+online_format[0]: image
+online_format[1]: pdf
+online_format[2]: online text
+original_format[0]: newspaper
+other_formats[0].label: MODSXML Record
+other_formats[0].link: //tile.loc.gov/storage-services/service/ndnp//dlc/batch_dlc_tartuffe_ver01/data/sn83045462/00280607988/1959030401/1959030401_1.xml
+other_formats[1].label: MARCXML Record
+other_formats[1].link: //lccn.loc.gov/sn83045462/marcxml
+other_title[0]: Sunday issues for Mar. 26, 1905-July 9,1972 called: Sunday star
+other_title[1]: Star
+partof[0].count: 36935
+partof[0].title: evening star (washington, d.c.) 1854-1972
+partof[0].url: https://www.loc.gov/search/?fa=partof:evening+star+%28washington,+d.c.%29+1854-1972&fo=json
+partof[1].count: 3210944
+partof[1].title: chronicling america
+partof[1].url: https://www.loc.gov/collections/chronicling-america/?fo=json
+partof[2].count: 3232456
+partof[2].title: serial and government publications division
+partof[2].url: https://www.loc.gov/search/?fa=partof:serial+and+government+publications+division&fo=json
+partof_collection[0]: chronicling america
+partof_division[0]: serial and government publications division
+partof_title[0]: evening star (washington, d.c.) 1854-1972
+place_of_publication: Washington, D.C.
+publication_frequency[0]: daily
+raw_lccn: sn 83045462
+reel_numbers[0]: 00280607988
+resources[0].files: 80
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_tartuffe_ver01:data:sn83045462:00280607988:1959030401:0323/full/pct:3.125/0/default.jpg
+resources[0].url: https://www.loc.gov/resource/sn83045462/1959-03-04/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+rights[0]: The Library of Congress believes that the newspapers in Chronicling America are in the public domain or have no known copyright restrictions. Newspapers published in the United States more than 95 years ago are in the public domain in their entirety. Any newspapers in Chronicling America that were published less than 95 years ago are also believed to be in the public domain, but may contain some copyrighted third party materials. Researchers using newspapers published less than 95 years ago should be alert for modern content (for example, registered and renewed for copyright and published with notice) that may be copyrighted. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.
+
+The NEH awardee responsible for producing each digital object is presented in the Chronicling America page display, below the page image – e.g. Image produced by the Library of Congress. For more information on current NDNP awardees, see https://www.loc.gov/ndnp/listawardees.html.
+
+For more information on Library of Congress policies and disclaimers regarding rights and reproductions, see https://www.loc.gov/homepage/legal.html
+score: 13.798176
+shard: 03
+shelf_id: sn83045462, 1959-03-04, Edition 1
+site[0]: chroniclingamerica
+source_group: ndnp/dlc-2020_now
+source_modified: 2000-01-01T12:00:00Z
+subject[0]: washington
+subject[1]: district of columbia
+subject[2]: washington (d.c.)
+subject[3]: newspapers
+subject[4]: united states
+subject_headings[0]: Washington (D.C.)--Newspapers
+subject_headings[1]: Washington (D.C.)
+subject_headings[2]: United States--District of Columbia--Washington
+subjects[0].district of columbia: https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json
+subjects[1].newspapers: https://www.loc.gov/search/?fa=subject:newspapers&fo=json
+subjects[2].united states: https://www.loc.gov/search/?fa=subject:united+states&fo=json
+subjects[3].washington: https://www.loc.gov/search/?fa=subject:washington&fo=json
+subjects[4].washington (d.c.): https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json
+timestamp: 2023-08-08T17:17:15.229Z
+title: Evening star (Washington, D.C.), March 4, 1959
+type[0]: issue
+url: https://www.loc.gov/item/sn83045462/1959-03-04/ed-1/
+resources[0].fulltext_file: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_tartuffe_ver01/data/sn83045462/00280607988/1959030401/0388.xml&format=alto_xml&full_text=1
+resources[0].iiif_manifest_url: https://www.loc.gov/resource/sn83045462/1959-03-04/ed-1/manifest.json
+resources[0].image: https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_tartuffe_ver01:data:sn83045462:00280607988:1959030401:0323/full/pct:3.125/0/default.jpg
+resources[0].pdf: https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_tartuffe_ver01/data/sn83045462/00280607988/1959030401/0388.pdf
+resources[0].segment_count: 80
+resources[0].url: https://www.loc.gov/resource/sn83045462/1959-03-04/ed-1/
+resources[0].word_coordinates: https://tile.loc.gov/text-services/word-coordinates-service
+cite_this.apa: (1959, March 4) Evening Star. Retrieved from the Library of Congress, https://www.loc.gov/item/sn83045462/1959-03-04/ed-1/.
+cite_this.chicago: Evening Star. (Washington, DC), Mar. 4 1959. https://www.loc.gov/item/sn83045462/1959-03-04/ed-1/.
+cite_this.mla: Evening Star. (Washington, DC) 4 Mar. 1959, p. 66. Retrieved from the Library of Congress, www.loc.gov/item/sn83045462/1959-03-04/ed-1/.
+
+segment_id: /service/ndnp/dlc/batch_dlc_tartuffe_ver01/data/sn83045462/00280607988/1959030401/0388.xml
+full_text_url: https://tile.loc.gov/text-services/word-coordinates-service?segment=/service/ndnp/dlc/batch_dlc_tartuffe_ver01/data/sn83045462/00280607988/1959030401/0388.xml&format=alto_xml&full_text=1
+full_text:
+C-2
+THE EVENING STAR
+WwMoHm, 0. C„ WWntWty, Much 4, 19$f
+'.’V tV .X*
+PIF f Tw* i TC
+L k
+MAKING A GRAB—Tom Canada (54) of DeMatha High School grabs
+one of the 19 rebounds he made against St. John’s last night at Carroll
+High School. Other players are (left to right) Lefty Madden and John
+Stnons, St. John’s; Johnny Bielaski, DeMatha; Frank DubofSkv, St.
+John’s, and Johnny Herbert, DeMatha. St. John’s won, 52-51, oh Don
+Roth’s goal in the last second of play.—Star Staff Photo.
+Wolfpack and Tar Heels
+Grab A.P.'s All-Star Honors
+CHARLOTTE, N. C., Mar.
+(AP). —North Carolina Btab
+and North Carolina, who’vi
+been battling each other al
+season for national and Atlan
+tic Coast Conference basketball
+honors, grabbed all five firs!
+team spots on the all-ACC
+squad picked for the Associ
+ated Press by conference area
+newsmen.
+N C. State's wondrous paii
+of Philadelphia seniors, Johr
+Richter and Lou Pucillo. were
+named on each of the 36 bal
+lots to dominate the voting
+Richter was placed on everj
+first team, Pucillo drew 31 votes
+for first and S for second.
+Tar Heel Sophomores Doug
+Moe and York Larese and Ju
+nior Lee Shaffer won ihe other
+berths.
+Richter, a 6-foot-* work
+horse, has led the conference
+virtually all season in rebound
+ing and scoring. He’s averaged
+16.7 points and 14 rebounds
+Pucillo, a 5-foot-9 smoothie
+with a 14.8 scoring average, has
+been a backcourt magician and
+Ex-Forty Niner
+Hopes to Upset
+Valdes Tonight
+MIAMI BEACH, Mar. 4 (AP).
+—Nino Valdes, self-acclaimed
+professional heavyweight box
+ing champion of the world,
+meets upset-minded Charley
+Powell tonight in a 10-round
+clash of sluggers.
+Valdes is favored to beat the
+ex-San Francisco Forty-Niners’
+football player and snap his
+five-fight winning streak. (The
+fight will be shown over
+WMAL-TV, Channel 7. in
+Washington at 10 p.m.)
+But at least four boxing fig
+ures openly give Powell a good
+chance. And one. Trainer Lou
+Gross, flatly predicts Powell
+will take Valdes.
+“This guy is a busy fighter,
+the type Valdes doesn’t like,”
+Gross said. “He’s as big as
+Valdes, as mean as Valdes and
+as willing to get in there and
+slug.’’
+Siding with Gross were Char
+ley Goldman, who trained
+Rocky Marciano to the heavy
+weight championship; Joe
+Netro, co-manager of Carmen
+Basillo; and Miami Beach's
+Angelo Pastrano, corner man
+for Basilio.
+Valdes’ manager, Bobby
+Gleason, says the fight is con
+sidered a championship match.
+“If Nino loses, we're ex-cham
+pions.”
+If Valdes loses, he also will
+be an ex-top contender for
+Floyd Patterson’s heavyweight
+crown.
+Billikens Added
+To Field for NIT
+NEW YORK, Mar. 4 (AP).—
+St. Louis University, one of the
+perennial contenders, is the
+10th basketball team in the Na
+tional Invitation Tournament.
+Two spots remain to be filled.
+The tournament opens Mardh
+14 with afternoon and evening
+sessions and ends March 21.
+St. Louis won the title the
+first time it competed in the
+event in 1948. The Billikens
+also played in 1949. 1951, 1952,
+1953, 1955 and 1956.
+Teams already in the NIT
+field are Vlllanova, St. John’s,
+Oklahoma City, St. Bonaven
+ture. New York University,
+Providence, Fordham, Man
+hattan and Butler.
+4 Wolfpack spark throughout a
+te 19-4 season that has carried
+e the team to 10th place in the
+national rankings.
+11 North Carolina, No. 5 na
+i* tionally. owes much of its suc
+-11 cess to the New York sophomore
+>t pair of Moe and Larese.
+C Larese. a superb shooter, has
+1- a 15.7 average, and Moe has
+a averaged 13 points and sup
+plied defensive work and pass
+[r ing seldom seen In a sophomore,
+n Husky Shaffer, at his best
+e under the basket, has averaged
+l- 12.8 and rebounded well. He’s
+g, from Pittsburgh.
+y Although Puclllo Is three
+>s inches under six feet and
+weighs only 157, the top five
+g averages 6-foot-4 and 197.
+i- Carroll Youngkin and How
+ir «rd Hurt of Duke. Charlie Mc-
+Neil and A1 Bunge of Maryland
+and Dave Budd of Wake Forest
+3 won second team positions.
+Honorable mention went to
+d George Stepanovich and Bob
+MacGillivray, N. C. State: Paul
+e Adkins. Virginia; Ray Pericola,
+s South Carolina; Harvey Salz,
+3 North Carolina.
+Green Bay Gives
+Lombardi Free Hand
+GREEN BAY, Wis., Mar. 4
+(AP).—The stockholders of the
+Green Bay Packers Corporation
+j have approved the adminlstra- j
+tive streamlining that gives the
+head coach and general man
+j ager a free hand to run the Na
+j tlonal Football League club.
+Those were the terms under
+(Which Vince Lombardi took
+over the combined posts earlier
+1 this year.
+The corporation’s stockhold
+ers also heard that thl club
+made a net profit of 170,106
+1 during 1958—its worst season
+in history competitively, with a
+record of 10-1-I—compared
+i'with $50,130 the previous year.
+i|
+I
+j Elliott Wins Race;
+Californian 4th
+j MELBOURNE. Mar. 4 (AP).
+—Herb Elliott, making one of
+his brief appearances this sea-
+I son, won the 1.000 meters in
+-1 vitation event at Olympic Park
+last night in 2.25.3.
+California’s Don Bowden
+making his first appearance in i
+Australia, could do no better
+than fourth in a field of six.
+j Elliott won the events by 2:
+yards from Tony Blue, of!
+Queensland, with John Murray.
+i of Victoria, 2 yards away, third.
+and Bowden, 1 yard
+j back, fourth.
+r Elliott’s time was well out
+t side the Australian record of
+1 2:22.9 held by Murray. Blue's
+time was 2:25.6, Murray 2:26.9
+and the officials were generous
+in givim, Bowden the same
+time 2.26.9.
+Joe Mooney Dead,
+l Ex-Jockey Was 66
+1 NEW ORLEANS. Mar. 4
+j (AP).—Former Jockey A. J.
+Jj, (Joe i Mooney, 66, who rode in
+j the first Louisiana Derby in
+1920, is dead.
+e| Since his retirement from
+s active racing, Mooney worked
+s in the mutuel -departments at
+several tracks, Including
+Churchill Downs, Keeneland
+r and the Fair Grounds.
+Mooney’s brother Dave died
+at Hot Springs last week and
+Mooney had Just returned
+from the funeral. A. J. died
+i In New Orleans Monday night.
+13 Are Named
+To Cage Hall
+BOSTON. Mar. 4 (Special).
+—Dr. James Naismith, the in
+ventor of basketball, and his
+original squad of nine players
+plus three collegiate stars from
+the early days of the game are
+the first to be chosen for the
+Naismith Basketball Hall of
+Fame.
+The names were announced
+today by Bill Mokray of Boston,
+chairman of the Selections
+Committee. Construction of
+the Naismith Memorial will
+begin later this year at Spring
+field. Mass., on the site where
+the game first was played in
+the winter of 1891-92.
+The three old-time stars of
+the game in the Hall of Fame
+will be John Schommer of Chi
+cago, 1907; Ralph Morgan of
+Pennsylvania, 1906, and Os
+wald Tower of Williams, 1907.
+Andrews Playing
+In Early Round
+SAN ANTONIO, Tex., Mar.
+4 (AP).—Today’s early sched
+ule in the Air Force world
+championship basketball tour
+nament matches Andrews AFB
+against Johnson AFB of Japan,
+and Luke AFB of Phoenix.
+Ariz., against Steward AFB of
+New York. These are the only
+undefeated teams left in the
+tourney.
+Later In the day the two
+winners will play each other,
+while the losers play In the
+losers’ bracket. This latter sec
+tion Includes Mitchel of New
+York, the pre-tourney favorite,
+and Larsen of Washington.
+Yesterday was devoted to the
+losers' bracket and resulted in
+the ellmthation of three teams
+fro m the double-elimination
+tourney: Lockbourne of Ohio,
+Tinker of Oklahoma and
+Keesler of Mississippi.
+Rams Don't See
+Any Trade Balks
+LOS ANGELES. Mar. 4 (AP).
+—ls any of the eight players
+the Los Angeles Rams traded
+to the Chicago Cardinals for
+Ollie Matson fall to report,,
+suitable replacements will be
+sent to the Cards.
+Pete Rozelle, Ram general
+manager, today said he doesn’t
+anticipate any of the Ram play
+ers balking. Should It happen,
+It Is understood that Owner
+Walter Wolfner of the Cards
+will be given replacements
+1 when the Rams cut their squad
+to the league limit of 35 next
+fall.
+Last year they cut Jim Orr
+because they were loaded with
+ends and with Pittsburgh he
+became the rookie end of the
+year In the National Football
+League’s Eastern Division.
+Baltimore Girl
+To Defend Title
+LONDON. Mar. 4 (AP).—
+Judy Devlin of Baltimore, Md.,
+the defending champion, and
+England's Heather Ward were
+topseeded in the women’s di
+vision in the all-England bad
+minton championships.
+The Baltimore girl drew a
+first-round bye. She will play
+Eve Pattison of England in the
+second round.
+Judy’s sister, Susy, will play
+Mrs. P. E. Broad of England
+In the first round. The tourna
+ments opens March 18.
+St. John's Seen
+As Cinderella
+For Tourney
+By 808 HANSON
+flWr Stan Writer
+St. John’* High School could
+very well be the rags-to-riches
+team In the Knights of Colum
+bus basketball tournament next
+week at Georgetown.
+The Cadets, finishing regular
+season play with a not too im
+pressive 13-8 record, are only a!
+victory away from their goal of
+reaching the K. of C. tourney
+following a thrilling 52-51 vic
+tory over DeMatha in last
+night’s Catholic League playoff
+;ame at Carroll High School.
+St. John’s is doing it the hard
+way, but typical of its teams of
+the past, the Cadets don’t know
+when they are licked as they
+oroved before a packed house
+last night.
+Meet Again Friday
+The clinching game to decide
+the league runnerup will be St.
+John’s vs. DeMatha again at 8
+p m. Friday at Carroll.
+Carroll won both halves In
+the league and the champion
+ship while DeMatha won the
+runnerup spot in f.rst-half play.
+Bt. John’s. DeMatha and Gon
+zaga finished in a three-way
+tie for second place in the last
+half of the schedule.
+St. John's eliminated Gonzaga
+last Sunday, and will have to
+win its third game in six days
+when it plays the Stags Friday
+night to gain the post-season
+tournament.
+And. at the rate the Cadets
+are moving, they appear to
+have an excellent chance. They
+are riding a six-game winning
+streak, and the manner in
+which they won against the
+Stags last night was impressive,
+to say the least.
+Lead Switches
+For nearly three quarters of
+the game the lead changed
+hands repeatedly as the set
+shots of Vic Irwin of St. John’s
+and Benjie Spotts of DeMatha
+kept their teams reclaiming the
+lead.
+Then Doug Endres, Johnny
+Bielaski and Johnny Herbert
+hit on successive shots for De-
+Matha with less than a minute
+left in the third period to make
+the score 35-27. It looked as
+though the Stags were going
+to break the game open.
+However, St. John’s had
+other ideas From a 9-point
+deficit, 42-33, at the start of
+the fine! quarter, the Cadets
+started to hammer away until
+they got to within 1 point, 51-
+50. with five seconds remaining
+on two Roals by Frank Dubofsky
+and a foul shot by Jim McGuire.
+i St. John's then called time
+out. obviously for Coach Joe l
+Gallagher to set up a game
+ending shot. The Cadets
+brought the ball in. and Don
+Roth, bespectacled sophomore
+who came in as a sub in the
+final period, took a pass from
+Dubofsky and drove In for a
+twisting layup that was good 1
+as the buzzer sounded ending
+the game. The Joyous St John’s
+fans spilled out on to the court.
+But there still was a play
+left. After some semblance of
+order had been restored, the
+officials ruled Roth had fouled
+Bielaski in making the field
+coal. Bielaski went to the foul 1
+line and while the crowd,'
+watched tensely, he made his I
+throw—it bounced off the rim. j
+St. John's OFPtx OrMith>. OFPts
+Mtdd-n 2 *1 4 Spotts 5 3is I
+Dubofskv 4 2ii Bndres 4 412
+Stnons 2 0 4 Canada 1 .0 S
+MoOuire .1.1 n Herbert 5 .110;
+Irwin 8 I 13 Bielaski 4 0 8
+Roth 1 0 2
+Totals 22 X 52 Totala IFTs »7
+Haltlme: 20-10. DeMatha.
+
+Capitol Listing
+Team Matches on
+Card Tomorrow
+Two team battles will support
+the Antonino Rocca-Wild Bull
+Koury feature match tomorrow
+night at Capitol Arena.
+The Rocca-Koury affair will
+jpen the program at 8:30 o’clock t
+and will not be televised. The
+team matches pit Mark Lewin l
+and Don Curtis against Chris
+Averoff and Tom Bradley, and
+Donn Lewin and Johnny Barend
+against Alex Mulko and Crying i
+Bob Corby.
+In single matches Zebra Kid 1
+No. 1 wrestles The Sheik and i
+Zebra Kid No. 2 faces Abe 1
+Jacobs. t
+I
+Clinic Dates Set j
+For SC Officials
+RICHMOND, Va., Mar. 4
+(AP)—Two spring clinics for J
+Southern Conference football j
+officials were announced today, v
+The first will be held March
+14 at Greenville, S. C„ for
+officials in North and South
+Carolina. The second will be
+held March 21 at Williamsburg,
+Va., for officials in Virginia.
+Maryland, West Virginia and
+the District of Columbia.
+s
+Last-Second Goal 3
+Noses Out Friends
+Marcy Pierce scored a basket
+as the game-ending buzzer; 1
+sounded to give Baltimore! f
+Friends a 43-41 basketball vie- I'
+lory over Sidwell Friends yes-; J
+terday on the losers’ court. 1
+Sidwell Friends finished the i
+season with a 7-8 record.
+B. Frlrmls. O F Pts S. Friends. O F Pis i c
+Reed 11 II Adams 4 2HI
+Hubbard fl 01*! Rogers 1 l :i
+Price H .5 17 Pierce 2 1 ft c
+Spott 5 010 Mills 0 ft 0 r
+Rainaae Oil Maroshek 022
+Griffith 4 ail
+Elsbree 0 11 t
+Thompson 4 1 H j
+Totals 18 *7 43 Totals Ift Ft 41 r
+Halftime; 22-10. Sidwell mends.
+I Beman Stroke Off
+Medalist's Pace
+JUPITER, Fit., Mar. 4 (AP).
+—Deane Beman of Betheada,
+Md.. was runnerup for the
+medal in qualifying for the
+South Florida invitation ama
+teur golf tournament yesterday.
+He shot a 1-under-par 70 to
+trail Jack Penrose of Miami
+Beach by 1 stroke.
+Beman, recently named to
+5 the Walker Cup team, plays
+Bob Littler. Jr„ of Athens. Ohio,
+m the first round today. Littler
+t had a 78.
+Another qualifier was John
+Eislnger, Jr., of Bethesda. who
+r had 78. He meets Harold Ryder
+-of Coral Oables, Fla., 79.
+L
+SIO,OOO Tap
+i Opens Racing
+At Gulfsfream
+MIAMI. Mar. 4 (AP).—Oulf-;
+stream Park, expecting the!
+biggest season it ever had. takes
+I over Florida’s racing program!
+today with the 810.000 Armed
+i Handicap as its opening sea
+ture.
+Thirteen sprinters were en- 1
+tered for the 6-furlong dash
+headed by Fred W. Hooper’s
+Alhambra, under 124 pounds.
+His chief competition is ex
+pected from Ada L. Rice’s Tal
+i 2nt Show. Elkcam Stable’s Hub
+i cap. Bwamazon Farm’s Jovial
+i Jove and Wheatley Stable’s
+Gray Phantom.
+Jovial Jovel, winner of this
+feature In 1958, will carry only
+ill pounds, most of it Jocket
+i Walter Blum.
+Alhambra Entry
+Others entered are Anselmo
+A. Dorato's Ajaccio. J. C. Dop
+kin’s Encore (a recent $19,000
+claim from Brookmeadei, Vic
+i tory Stable's Sonny Dan.
+Springfield Stable’s Chit Chat,!
+Natalie Lynch’s Nan’s Mink.
+Hasty House Farm’s Alarullah, j
+Elmendorf’s Day Court and
+Hooper s Creek Game, an entry
+with Alhambra.
+Gulfstream Park will offer
+$395,000 in stakes money,
+topped by the SIOO,OOO Gulf
+stream Park Handicap on
+March 21 and the SIOO,OOO
+Florida Derby on April 4.
+The Florida Derby, last big
+race for 3-vear-olds before the
+Kentucky Derby In May, could
+be Florida’s best with such
+Ceedsters as Troilus. First
+nding. Open View. Tomy Lee,
+Old Fols and others expected
+to compete.
+Predicts Increase
+James Donn. Gulfstream
+president, predicted the track
+will show an increase over last 1
+year's figures of 15,057 average
+dally attendance, and $1,267,-
+004 through the pari-mutuel
+windows. i
+An opening day crowd of
+24,000 and a betting total of
+$2,100,000 was expected.
+Hialeah Park wound up its
+40-day meeting yesterday with
+17.446 on hand for the $40,000 i
+Black Helen Handicap, a mile
+and-an-eighth feature for fll- i
+lies and mares.
+Idun is 11th
+Calumet Farm took the lion’s
+share of the purse, with Rose
+wood winning and A Glitter
+finishing third behind Mabel
+D. Lewis’ Happy Princess. Idun,
+i the 7 to 5 favorite, finished 11th
+in the field of 12.
+j Rosewood ran the distance
+in I:SOVs and paid $10.20, $4.70
+and $5.50 in the $2 mutuels.
+The victory gave Calumet 14
+winners at Hialeah, including
+a division of the Royal Polnci-
+ana won by Kentucky Pride
+and the Wldener which went
+to Bardstown.
+Hialeah's betting was $68.-
+407.045. a drop of $328,085
+from the 1958 season. At
+tendance at Hialeah was down
+3,448. It totaled 757.089.
+j
+Atkinson Starts
+Career as Official i
+
+NEW YORK, Mar. 4 (AP).-
+Ted Atkinson, the veteran
+jockey, Is moving from the sad
+dle to the swivel chair.
+Atkinson, who rode more
+than 3,500 winners in his 22- j
+year career, announced yester
+day he plans to become a rac-
+ing official. He had to quit
+riding because of a back injury, j
+The 42-year-old rider said he c
+would enter the Jockey Club t
+school for officials to receive
+training for his new job with!
+the New York Racing Associa- i
+tlon. j s
+His first job will be in the f
+horse identification depart- t
+ment. where records are kept t
+on each of the 2.000-odd thor- i
+oughbreds who will run in New j
+York duiing the coming season, t
+“There were many offers'*
+which were more were lucra-
+tive,” Atkinson said, “but rac- s
+ing is closet to my heart and I
+would like to remain in It.” J
+Leg Injury Puts
+End to Shoerullah
+NEW ORLEANS, Mar. 4 (AP).
+—Trainer Vester (Tennessee)
+Wright said today T. A. Gris
+som’s Irish-bred Shoerullah was x
+destroyed last night because of j
+an injury received In the run
+ning of the 862.500 New Orleans
+Handicap
+The 5 year -old speedster j
+pulled up lame after running
+fourth behind Tenacious,;
+Wright said, and an examina
+tion showed he had shattered,
+bones in his left foreleg.
+Shoerullah won one race at
+the Fair Grounds this winter,
+and was runnerup in the Le-
+Comte Handicap when Tena- i
+cious set a track record for a i
+mile and one-sixteenth.
+Shoerullah’s biggest victory
+came last year in the $40,000
+Buckeye Handicap at Randall
+Park, Ohio. 1
+SECOND PLACE AT STAKE
+Spingarn, Eastern
+Tangle Tomorrow
+By ED WINSTEN
+SUr SUIT Writer
+Spingarn and Eastern, first
+and second teams respectively,
+in the final East Division bas
+ketball standings, will battle It
+out at McKinley Tech tomorrow
+for the second place slot In the
+Interhigh League.
+The Ramblers qualified for
+the final session by outlasting
+Anacostla, 36-35, in a hectic
+game at Tech, and Spingarn
+eaaed into the playoff by out
+shooting Tech, 80-76, yesterday
+at Roosevelt.
+Bobby Hart, Eastern coach,
+Is worried about his lackluster
+team that has lost its last two
+games with Spingarn and was
+Just able to beat Anacostla for
+the third successive time. The
+margin of victory in the three
+games waa six points.
+Hart. In a move to revitalize
+his crew, started Jimmy Jones
+—the only regular—Roscoe
+Brown, Oerald Anderson, Tom
+Lewis and Pete Kettner. His
+usual starters entered the
+game In the second quarter and
+ended up six points down at
+halftime "That’s a strange
+twist—the reserves get the lead
+and the regulars lose it,” Hart
+complained.
+Hart, however, was pleased
+with Kettner who scored two
+field goals to keep the Ramblers
+within calling distance, and
+two free throws that tied the
+game for the last time at 33-
+all with 5:25 remaining.
+Lewis followed with another
+free throw and Bobby Johnson
+added the clincher with 4:10
+left. It was Eastern's only
+basket In the fourth quarter.
+Groveton Seeks New Honors
+In Northern Virginia Tourney
+By CARL SELL Dick Reynaud, Dick Bramley
+sur eun writer an( j R ay Fraley have been
+Vern Canfield, who was as
+sistant varsity basketball coach
+at the University of California
+while a senior at the school,
+has coached Groveton High
+School's basketball team to a
+number of firsts this season.
+The most outstanding are a
+winning season and a spot in
+the Northern Virginia Group I
+tournament.
+Canfield, a 25-year-old Cali
+fornia native who spent most
+of his Army time at Fort Myer,
+has coached the Tigers to a
+complete turnabout this sea
+son, his first in the high school
+ranks. Groveton won only two
+of its first eight games but
+since that time has swept seven
+of eight to become a threat to
+the top-seeded teams in the
+Northern District tournament.
+Groveton meets Mount Ver
+non in the second game of a
+double-header tonight at Wash
+ington-Lee. Fairfax plays
+Wakefield in the opening con
+test at 7 o'clock. In another
+first-round double-header,
+Hammond faces Falls Church
+at 7 and George Washington
+tangles with Washington-Lee
+at Wakefield.
+Groveton knocked off George
+Washington. W-L and Mount
+Vernon for the first time this
+season. The Tigers defeated the
+Majors last Friday night at
+Mount Vernon. But Mount Ver
+non has Ken Kerkering back at
+full strength for the tourna
+ment. Kerkering, a leader in an
+early season rout of Groveton,
+has been sidelined for more
+than a month with a chipped
+ankle bone.
+Canfield feels his starting
+five can give any team trouble.
+Skip Johnson, C. M. Trinkle,
+Quantico, Hawaii
+Open Series for
+Corps Cage Title
+QUANTICO. Va.. Mar. 4
+(Special).—The Quantico Ma
+rines and the Hawaii Marines
+tonight get down to the real
+serious business of determining
+the Marine Corps basketball
+championship.
+They play each other tonight
+and again tomorrow night. If
+they split those two they'll play
+Friday night.
+The three-team tourney
+opened Monday night with Ha
+waii beating San Diego Ma
+rines, and last night Quantico
+completed the business of elimi
+nating San Diego with a 80-661
+victory.
+A jump shot by Dave Smal
+ley, former Naval Academy
+star, gave Quantico a 21-20 lead
+halfway through the first half
+and It stayed ahead the rest of
+the way. Five Quantico players,
+including Smalley, scored in
+double figures.
+Qvantlco. O F Pts San Dlrfo. O F Pts
+Sullivan 5 4 14 Allen 11 DJI
+Daniels O 2 2 Olbbs 3 17
+Brewer 5 111 Stillwell (1 214
+Miller 3 2 K Smith 1 314
+Smalley (j 1 13 Cain 3 2 8
+Hayward 8 (I ltl Lanse oil
+Carey 5 lilti Curtruht Oil
+Jones 102
+Totals 32 18 80 Totals 24 18 88
+Halltime: 47-38, Quantico.
+HOCKEY RESULTS
+NATIONAL LZAGI’E
+Boston. 2; Detroit, 2 (tie).
+EASTERN LEAGI’E
+Philadelphia. 5; Charlotte. 1.
+WESTERN LEAGUE ALL-STAR GAME
+Coast Division. 8. Prairie Division, a.
+ONE IF BT LAND
+The British are coming,
+WATCH TOB MARCH Bth AHNOURCEMENT
+The Indians, who had spurted
+for eight points in the final
+t minute of the first half, seored
+their only two points of the
+fourth quarter on Lance Klein's
+jump shot, and narrowed the
+1 gap to 36-35. Anacostla stole
+1 the ball twice In the laat minute
+t but couldn't get near the
+basket.
+r Spingarn. which beat Tech
+j I for the third time this season.
+had the game salted away In
+tithe final period with an eight
+point lead only to see Jerome
+i Carter. Vince Bonner and Eu
+gene Littles cut the score to
+78-76 with 30 seconds to go.
+ri Then Charles Mayo, a sub
+stitute, shot Spingarn into the
+i finals with two free throws
+that iced the game.
+Ernest Dunston put on a
+one-man show In the first hall.:
+scoring 17 points to put Spin
+gam in front, 44-36, at inter
+i mission. After the break, Ollle
+i Johnson picked up the slack 1
+i with a 14-polnt effort that
+i moved the Wave Into a 53-38 1
+i lead midway In the third
+1 quarter.
+O.F PU. Eastern O F.Pta.
+I Barn-S 3 y 8 Jonaa .13#
+Nolan 4 0 4 Colbert 113
+K>*ln 5 111 Johnson 4 0 8
+Not! 12 4 Lewis 11 5
+Jackson 0 0 u Oreen 0 0 0
+Brown 3 0 0 Anderson 10 2
+Oentt i 0 4 gg* j1 3
+i Brown 10 2
+I Totals 10 335 Totala 14 ~8 38
+Halftime acorc: 27-21. Anacostla.
+Tatb O F.Pta. 4»ln«arn o F.Pta
+Bonner 741 X Dunston #4 22
+Carter 3 410 Jtaton 10 2
+Fox 0 218 Prailer 4 10
+Auatln Oil .Saxo 228
+Tapscott 24 10 O Johnson B 2 20
+Littles 7 014 Wes'.er 000
+Christian 13 6 Harkins 2 15
+Levi 7 2 10
+V. Johnson O 0 0
+Totala 28 18 TO Totals 34 12 80
+I Halftime: 44-38. Sotntarn.
+playing excellent ball of late.
+Johnson and Reynaud have
+just a shade better than 12-
+point averages. Reynaud, 6-
+feet-4, is the top rebounder al
+though Trinkle slightly over 8-
+foot-1, can go just as high.
+BOWLING f9i
+WITH ROD THOMAS vS
+If Frank Micalizzi doesn’t
+strike a slump before the week
+is out. there's a first-rate
+chance that the Takoma bowl
+ing proprietor will win back
+the national match game
+championship he held five
+years ago.
+The man he would dethrone
+is Norman Titus, his Pepsi Cola
+teammate, who will defend the
+title against 47 other sharp
+shooters Friday, Saturday and
+Sunday at Colonial Village.
+They hail from New England
+to Georgia.
+A while back Micalizzi
+created a record for East Hart
+ford, Conn., with a set of 470,
+rolled in a special match that
+preceded the Nick Tronsky
+Open, an all-star affair In
+which he finished well up.
+Last Sunday he won another
+such event here, the Tony
+Santini Open. Last night he
+was still on target. He shot
+404. with a high game of 158.
+to lead his Pepsi Colas to a
+sweep over Mann’s Potato Chips
+in the All-Star Metro District
+League. At the same time Titus
+was rolling a mere 358.
+
+Brightest star of the evening
+in the league was tall Harold
+Inman, who put together games
+of 168. 153 and 117 for 438 to
+pace Chevy Chase Chevrolet to
+a shutout against Muntz TV.
+Thus the Chevvies stretched
+a winning streak to nine games
+and in doing so knocked Muntz
+from the lead, for which it
+was deadlocked with Rip
+Kay's Restaurant and Claren
+don Bowling Center in games
+won and lost but was the front
+runner on total pins.
+Rip Kay’s, with Billy Wat
+son shooting 160-394, won two
+from Suitland Bowling Center.
+Clarendon, led by Billy Moore's
+141-401. shaded Silent Sales
+Coin Machines. This left the
+Rippers and Clarendons tied at
+the top, with Muntz two games
+back.
+National Bohemian edged Be
+thesda ”40.”
+Pat Crescenzl of Suitland,
+the individual leader, checked
+a slump by rolling 386 for 127-
+49. Still he lost ground to
+Moore, the runnerup, whose
+401 lifted him to 125-49. Titus’
+358 left him at 125-23 in third
+place.
+The standings: Rip Kay's,
+46 -32: Clarendon. 46-32;
+Muntz. 44-34: Chevy Chase,
+42-36: National Bohemian,
+41-37: Silent Sales. 41-37: Suit
+land, 37-41: Pepsi. 35-43:
+Mann’s, 32-46, and Bethesda,
+26-52.
+
+While Suitland's male team
+struggles in the All Star Metro
+REINSURANCE
+ALL TYPES OF AUTO AND HOME INSURANCE
+Liabil.ty and collision insurance policits,
+including SR 22, on 6 months or one year
+basis. Up to one year to pay on all insur
+ance policies.
+Horn* of Budgot Planned Insuraneo
+dSL HERSON’S-B*o
+uEB) DE. 2-4700 raw»
+3d YtAKS
+OF SIRVICF 1
+STRIKES
+and
+SPARES
+By JOE WILMAN
+9
+HIGH BACKBWING HURTS
+TIMING AND BALL ACTION
+Many bowlers are guilty of
+too high a backs wing, especial
+ly beginners. Some try to over
+power the pins with speed in
+stead of letting the ball roll
+and develop a hooking action.
+Watch a good bowler, and
+you’ll notice his backswing is
+never higher than we show in
+the drawing—shoulder height.
+In some cases the backswing Is
+not even that high.
+Former All-Star champion
+Connie Schwoegler Is a giant—
+he could put blinding speed on
+the ball. Yet. he rolls a medium
+speed ball, one with plenty of
+hooking action. His backswing
+is lower than that shown in the
+sketch.
+Besides producing excess
+speed, too high a backswing al
+so throws off timing. It length
+ens the arc of the armswing,
+thus destroying coordination
+between armswing and foot
+work.
+There are easier ways to ac
+quire natural speed without
+hurting your game. But the im
+portant thing is form that’s
+fundamentally correct.
+(Coprrltht 1960. John PDUIt Co.)
+'t League, its women breeze in
+k the District Women's Minor,
+They hit their peak last night
+k in tallying 615, 605 and 632 for
+e 1,852, a season record for the
+e league. But all of them were
+outshone by a member of the
+a opposing team, Helen Pappas,
+e who rolled 130, 168 and 129 for
+427 and a season high In the
+s circuit. Her 168 tied for high
+game with Jane Vetter of Ar
+lington Bowline Center,
+i Contributing!# Suitland’s big
+total were? B«tty Stevens, the
+league leader in average, v’io
+i rolled 163-402; Dessie Day 11,
+y 386: Mary Reed, 372, including
+games of 141 and 140 back to
+back: Vivian Walsh. 354, and
+Kathy Marsha, 338. Mrs.
+Stevens boosted her average to
+p 113-1, with Louise Vance of Ar
+lington second at 111-45. Miss
+Pappas’ brilliant effort zoomed
+her from sixth tc third place
+1 with 109-58.
+Other high scorers were
+1 Marie Miller of B. Frank Jov,
+8 368: Barbara Dinsmore, Blad
+ensburg Bowling Center. 356;
+Janie True. Norton Trophies,
+352, and Nell Huff. Arlington,
+i 350. There were no shutouts,
+s Winners were Suitland, Joy.
+Norton, Kotzin’s, Hendrix ana
+I Bladensburg.
+The standings: Suitland, 49-
+1 23; Arlington, 43-29: Joy. 42-
+s 30; United Auto, 38-34: Kotzin’s
+Dress Shop, 37-35: Murray, 36-
+t 36: Clarendon. 36-36: Norton,
+r 35-37: Hendrix Steak House,
+35-37: Rod ’n’ Reel, 34-38:
+i Bladensburg. 25-47, and MPM
+Market, 22-50.
+sGermaiiyTj
+FAMOUS
+GOLIATH
+i x
+X Delivery now on most
+passenger models X
+X Bus and commercial X
+1 xby order. Manutac- X
+x tured and sold in Ger- X
+X many since 1917.
+SCAVE FORDS
+X BETHESDA MD. S
+X 4814 ELM ST. S
+C OL. 6-8200 X
