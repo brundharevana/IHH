@@ -126,7 +126,8 @@ async function walk(name, opts) {
 // with the credit and the holder's rights words in its title. A pending inductee shows the pending panel and no image.
 // The hall (3D) requests every portrait file. A negative control breaks one slide's image and credit in the page and
 // requires the same check to fail, so a check that passes everything cannot pass here.
-const PORTRAIT_PENDING = ['naismith'] // no verified, cleared portrait in the store yet (portraits-report.md)
+// (none since 2026-11-18: Naismith's portrait is NAI-M-0078; a new inductee without a verified, cleared portrait goes here)
+const PORTRAIT_PENDING = []
 const INDUCTEES = JSON.parse(readFileSync(new URL('../src/landing/data/inductees.json', import.meta.url), 'utf8'))
 
 async function portraitProblems(page, d) {

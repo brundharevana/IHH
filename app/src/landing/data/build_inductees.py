@@ -57,6 +57,7 @@ PORTRAITS = {
     "lamarr": {"media_id": "LAM-M-0013", "file": "landing/portraits/lamarr.jpg", "changes": CROPPED},
     "muir": {"media_id": "MUI-M-0011", "file": "landing/portraits/muir.jpg", "changes": CROPPED},
     "albright": {"media_id": "ALB-M-0014", "file": "landing/portraits/albright.jpg", "changes": CROPPED},
+    "naismith": {"media_id": "NAI-M-0078", "file": "landing/portraits/naismith.jpg", "changes": CROPPED},
 }
 
 # A Creative Commons portrait needs visible attribution: the licence's name and a link to it, shown on the credit line

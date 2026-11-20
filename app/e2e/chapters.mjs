@@ -831,6 +831,31 @@ const settled = (page) =>
       { timeout: 20000, polling: 100 },
     )
     .then(() => true, () => false)
+// Fix 2026-11-19 (the gate: Lamarr's birth room on a phone): once she has settled in a still view she never repeats a
+// search: one for the same view, HUD and focus from the spot the last one ended at (RoomGuide counts these as
+// state().repeats; a counter, so a search that starts and ends between two polls is still seen). That is the loop
+// that ran there for as long as the view stood: a spot found only in the relaxed pass, re-judged strictly, failed and
+// was found again. A search because the HUD changed under the view (a caption came in) has a new key and is allowed.
+const director = (page) => page.evaluate(() => window.__guideDirector?.state() || null)
+async function stillSearch(page, tag) {
+  const d0 = await director(page)
+  await page.waitForTimeout(2500)
+  if (!d0) return // a photo room: no director
+  // a search running now: let it end, then watch the still view past her next check (RECHECK 1.5 s)
+  const end = Date.now() + 20000
+  while ((await director(page))?.solving && Date.now() < end) await page.waitForTimeout(100)
+  if ((await director(page))?.solving) return fail(`${tag}: the guide is still searching for a spot 20 s into a still view`)
+  await page.waitForTimeout(2500)
+  // a search that ended in this wait may have sent her walking (the gate 2026-11-19: Muir's legacy room on a phone
+  // was read mid-walk, facing away): the reading after this is of her settled, turned to the visitor
+  while (!(await director(page))?.settled && Date.now() < end + 20000) await page.waitForTimeout(100)
+  if (!(await director(page))?.settled) return fail(`${tag}: the guide never settled after her search (${JSON.stringify(await director(page))})`)
+  // (after a walk, past her next check again: a repeat then counts too; Codex 2026-11-19)
+  if ((await director(page)).searches > d0.searches) await page.waitForTimeout(2500)
+  // the repeats are counted over the whole wait, read at its end
+  const d1 = await director(page)
+  if (d1.repeats > d0.repeats) fail(`${tag}: the guide repeated a search in a still view (${d1.repeats - d0.repeats} repeat(s), ${d1.searches - d0.searches} search(es): ${JSON.stringify(d1)})`)
+}
 // Round 9 fix round 1 (review of part A): she is also never under the HUD: her upper body (head to pelvis,
 // shoulder to shoulder) is clear of every panel on the page now (title, top buttons, Step back, stop dots, the
 // caption while it shows, Hear / Next, Moments, the controls hint) and of every stop badge; she is at least 15 %
@@ -843,7 +868,7 @@ const MIN_SHARE = { desktop: 0.22, phone: 0.15 }
 async function guideCheck(page, tag, focusId, { rail = false, wide = false } = {}) {
   await page.evaluate(() => (window.__guideSettle = null))
   if (!(await settled(page))) fail(`${tag}: the camera or the guide never settled (${JSON.stringify(await page.evaluate(() => window.__guideDirector?.state() || null))})`)
-  await page.waitForTimeout(2500) // her head and body finish turning (smoothly, after any walk)
+  await stillSearch(page, tag) // (2.5 s or more: her head and body finish turning, smoothly, after any walk)
   const r = await page.evaluate(
     ({ id, rail }) => {
       const g = window.__tourApi.guideBox({ full: true })

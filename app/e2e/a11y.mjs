@@ -335,7 +335,14 @@ async function keysSection() {
       await page.keyboard.press('Enter')
       console.log(`${ct} done`)
     }
-    await page.waitForURL(`${BASE}/`, { timeout: 15000 }).catch(() => fail(`${tag}: the last Next did not end the tour on the landing (${page.url()})`))
+    // the last Next opens the end-of-tour dialog; Escape closes it and ends the tour on the landing
+    const end = await page.waitForSelector('[role=dialog].end-of-tour', { timeout: 15000 }).catch(() => null)
+    if (!end) fail(`${tag}: the last Next did not open the end-of-tour dialog`)
+    else {
+      await page.waitForFunction(() => document.querySelector('.end-of-tour')?.contains(document.activeElement), null, { timeout: 5000 }).catch(() => fail(`${tag}: focus did not move into the end-of-tour dialog`))
+      await page.keyboard.press('Escape')
+    }
+    await page.waitForURL(`${BASE}/`, { timeout: 15000 }).catch(() => fail(`${tag}: Escape on the end-of-tour dialog did not end the tour on the landing (${page.url()})`))
   }, tag)
 }
 

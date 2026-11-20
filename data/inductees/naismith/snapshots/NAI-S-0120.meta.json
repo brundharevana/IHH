@@ -1,0 +1,10 @@
+{
+  "url": "https://archive.org/stream/spaldingsofficia05fish/spaldingsofficia05fish_djvu.txt",
+  "fetch_url": "https://archive.org/stream/spaldingsofficia05fish/spaldingsofficia05fish_djvu.txt",
+  "method": "http",
+  "fetched_at": "2026-11-18T23:52:16Z",
+  "sha256": "6323fb3c34c81f3f8532d7aaf865d70c01a35afb2391bfc84b7c48a108ae70ae",
+  "bytes": 363676,
+  "http_status": 200,
+  "final_url": "https://archive.org/stream/spaldingsofficia05fish/spaldingsofficia05fish_djvu.txt"
+}

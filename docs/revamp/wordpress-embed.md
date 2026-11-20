@@ -97,6 +97,10 @@ Tested in WordPress on a desktop and a phone, with the snippet above:
 - In a record, **View at the holder** opens the holder's page in a new tab.
 - No sideways scrolling on a phone, no console errors, and no accessibility (axe) violations in the frame.
 
+The end of the tour has not yet been tried in WordPress. It was tested in the museum's end-of-tour check (`node e2e/end-of-tour.mjs`: headless Chromium at a desktop size and an emulated phone, every inductee, and once inside a sandboxed iframe on a local test page):
+
+- **Finish the tour** on the last chapter opens a short optional quiz, then the visitor's ticket, then **Share your story**. **Save ticket** downloads a PNG. In a frame the ticket image is also shown on the page with "Press and hold, or right-click, to save the ticket", because a sandboxed iframe without `allow-downloads` refuses the download without telling the page.
+
 ## Troubleshooting
 
 | What you see | Cause | Fix |
@@ -108,7 +112,19 @@ Tested in WordPress on a desktop and a phone, with the snippet above:
 | No Fullscreen button; an "Open the museum" button instead | The iframe has neither `allow="fullscreen"` nor `allowfullscreen` | Paste the snippet again |
 | The frame shows only "This frame cannot run the museum's 3D tour" and a link | A plugin or the host added a `sandbox` to the iframe | Visitors can still open the museum with the link. Tell the museum's maintainers: it needs a change on the museum's side |
 | "This page cannot open a new tab from here" with an address to copy | A sandbox blocks new tabs | Visitors can copy the address. Same report as above |
+| **Save ticket** downloads nothing | The iframe has a `sandbox` without `allow-downloads` | After **Save ticket**, visitors can save the ticket image the page shows (press and hold, or right-click). To allow the download, add `allow-downloads` to the sandbox |
+| The ticket shows "QR code (placeholder)", and "Feedback link coming soon" / "Story form coming soon" | The feedback and story links are not set yet | See "End-of-tour links" below |
 | The frame stays dark or blank | The address in `src` is wrong, or the museum is down | Open `https://YOUR-MUSEUM-URL/embed.html` in a browser tab to check |
+
+## End-of-tour links
+
+The feedback link, the QR image on the ticket and the story form link live in one file, `app/src/tour/end/links.js` (`END_LINKS`). While a value is `null` the page shows a marked placeholder. To set them:
+
+1. Put IHH's feedback form address in `feedbackUrl` and its story form address in `storyUrl`.
+2. Save the QR image as `app/public/ticket/feedback-qr.png` and set `feedbackQrImage: '/ticket/feedback-qr.png'`. The image is drawn in a 240 x 240 slot on the ticket, so a square image works best.
+3. Rebuild and redeploy (owner approval, as for any deploy). `node e2e/end-of-tour.mjs` checks the placeholders today; once the links are set, update its placeholder checks to match.
+
+The museum stores nothing a visitor enters: the quiz, the ticket and the date stay in the visitor's browser, and stories go to IHH's own form.
 
 ## Full-page museum (option 1)
 

@@ -1,0 +1,61 @@
+/* The end of a tour (EndOfTour.jsx): one glass card over the last room, tokens only. */
+.end-of-tour {
+  position: fixed; inset: 0; z-index: 60; overflow: hidden auto;
+  display: grid; place-items: center; padding: 24px var(--gutter); box-sizing: border-box;
+  background: radial-gradient(120% 90% at 50% 40%, rgba(10,14,20,.55) 0%, rgba(10,14,20,.9) 100%);
+  -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+  color: var(--text); font-family: var(--font-ui);
+  animation: fade-in .5s var(--ease-out);
+}
+.end-card {
+  width: 100%; max-width: 720px; box-sizing: border-box;
+  padding: 26px 32px 24px; display: grid; gap: 12px; justify-items: start;
+  background: var(--glass-panel-bg), var(--hud-scrim);
+  animation: fade-in .4s var(--ease-out);
+}
+.end-of-tour.is-reduced, .end-of-tour.is-reduced .end-card { animation: none; }
+/* the dialog itself takes focus only as a fallback (a click on its text); its heading shows the ring */
+.end-of-tour:focus { outline: none; }
+.end-title {
+  margin: 2px 0 0; font-family: var(--font-display); font-weight: 400; font-size: 32px; line-height: 1.15;
+  color: var(--title); letter-spacing: -.01em;
+}
+.end-title:focus { outline: none; }
+.end-title:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: 4px; }
+.end-question { font-size: 24px; line-height: 1.25; }
+.end-copy { margin: 0; font-size: 14px; line-height: 1.55; color: var(--ui-text); max-width: 60ch; }
+.end-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+.end-actions > :is(button, a) { min-height: 44px; box-sizing: border-box; }
+.end-card :is(.btn-glass, .btn-cream):disabled { opacity: .55; cursor: default; transform: none; box-shadow: none; }
+.end-link { display: inline-flex; align-items: center; text-decoration: none; }
+.end-leave { padding-top: 10px; border-top: 1px solid var(--hairline); width: 100%; }
+
+.end-options { display: grid; gap: 8px; width: 100%; }
+.end-option {
+  text-align: left; min-height: 44px; padding: 10px 16px; border-radius: var(--r-card);
+  font-size: 14px; line-height: 1.4; color: var(--ui-text);
+  background: rgba(0,0,0,.3); border: 1px solid var(--hairline);
+  transition: border-color .2s ease, box-shadow .2s ease;
+}
+.end-option:hover { border-color: var(--hairline-strong); }
+.end-option[aria-disabled='true'] { cursor: default; opacity: .7; }
+.end-option.is-right { border-color: var(--accent); box-shadow: var(--accent-glow); }
+.end-option.is-wrong { border-style: dashed; border-color: var(--hairline-strong); }
+.end-feedback { width: 100%; min-height: 1px; display: grid; gap: 6px; }
+.end-verdict { margin: 0; font-size: 15px; font-weight: 600; color: var(--accent-soft); }
+.end-reveal { margin: 0; font-size: 13px; line-height: 1.55; color: var(--ui-text); }
+.end-reveal-label { color: var(--hud-muted); font-weight: 500; }
+
+.end-score { font-size: 15px; font-weight: 600; color: var(--accent-soft); }
+.end-ticket { width: 100%; }
+.end-ticket-img { display: block; width: 100%; height: auto; border-radius: var(--r-card); }
+.end-save-fallback { width: 100%; display: grid; gap: 8px; }
+.end-hint { margin: 0; font-size: 13px; color: var(--accent-soft); }
+
+@media (max-width: 720px) {
+  .end-of-tour { padding: 16px; place-items: start center; }
+  .end-card { padding: 20px 18px; }
+  .end-title { font-size: 26px; }
+  .end-question { font-size: 20px; }
+  .end-actions > :is(button, a) { flex: 1 1 100%; justify-content: center; text-align: center; }
+}

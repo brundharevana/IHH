@@ -268,7 +268,7 @@ export function makeContext({ view, focus = null, room, phone = false, keepOut =
   const right = new THREE.Vector3(-fwd.z, 0, fwd.x)
   // the ground under the visitor's eye (eye height 1.6 m): where candidate spots start before floorAt
   const floorY = view.eye[1] - 1.6
-  return { camera, fwd, right, prefs: devicePrefs(phone), phone, focus: focusRect(focus, camera), focusBox: focus, keepOut: keepOut ?? KEEP_OUT[phone ? 'phone' : 'desktop'], badges: badgeRects(badges, camera, size), room, raycast, floorAt, floorY }
+  return { view, camera, fwd, right, prefs: devicePrefs(phone), phone, focus: focusRect(focus, camera), focusBox: focus, keepOut: keepOut ?? KEEP_OUT[phone ? 'phone' : 'desktop'], badges: badgeRects(badges, camera, size), room, raycast, floorAt, floorY }
 }
 
 // Candidate spots for a view, best first (cheap checks passed): distances along the view, across both
@@ -321,6 +321,52 @@ export function* solveSpot(ctx, opts = {}) {
     }
   }
   return null
+}
+
+// The standard her spot is re-judged by (fix 2026-11-19, the gate: Lamarr's birth room on a phone never settled).
+// chosen: { at, relaxed, view } for the spot the search last returned. A spot it found only in its relaxed pass is
+// re-judged relaxed while she still stands there and the view is the one it was found for: judged strictly, it
+// failed every time, so she searched again, found the same spot, and searched again for as long as the view
+// stood. Anywhere else (a new view, another spot, a spot that passed strictly) she is judged strictly as before, so
+// a view that has a strict spot still gets one.
+export function recheckContext(ctx, chosen, at) {
+  if (!chosen?.relaxed || !chosen.view || !ctx.view) return ctx
+  const [a, b] = [chosen.view, ctx.view]
+  if (Math.hypot(at.x - chosen.at[0], at.z - chosen.at[2]) > 0.05) return ctx
+  if (!sameView(a, b)) return ctx
+  return { ...ctx, relaxed: true }
+}
+
+// the same view: the eye within 5 cm, the direction within 0.02 rad, and the same frame (field of view and aspect:
+// a phone turned on its side or a resized window frames her differently from the same eye)
+function sameView(a, b) {
+  if (Math.hypot(...a.eye.map((v, i) => v - b.eye[i])) > 0.05) return false
+  const dir = (v) => new THREE.Vector3(v.look[0] - v.eye[0], v.look[1] - v.eye[1], v.look[2] - v.eye[2]).normalize()
+  if (dir(a).angleTo(dir(b)) > 0.02) return false
+  return Math.abs((a.fov ?? 0) - (b.fov ?? 0)) < 0.01 && Math.abs((a.aspect ?? 0) - (b.aspect ?? 0)) < 0.001
+}
+
+// What a search was for: the view (eye, look, field of view, aspect), the HUD panels to keep clear of, the focus (on
+// screen and in the world), the badges, the room's walkable bounds and furniture, and `scene` (RoomGuide: the meshes
+// that can hide her, so a record or prop that comes in under a still view makes a new key), rounded. Two searches
+// with the same key from the same start spot would find the same spot: a second one is a repeat (RoomGuide counts
+// them; the chapters e2e fails on any in a still view).
+export function searchKey(ctx, scene = '') {
+  const r = (v) => (typeof v === 'number' ? Math.round(v * 1000) / 1000 : v)
+  const rect = (q) => q && [q.x0, q.x1, q.y0, q.y1].map(r)
+  const v = ctx.view || {}
+  const box = ctx.focusBox && [...(ctx.focusBox.min || []), ...(ctx.focusBox.max || []), Boolean(ctx.focusBox.wide)].map(r)
+  const room = ctx.room && [ctx.room.bounds && [...ctx.room.bounds.min, ...ctx.room.bounds.max].map(r), (ctx.room.obstacles || []).map((o) => o.map(r))]
+  return JSON.stringify([(v.eye || []).map(r), (v.look || []).map(r), r(v.fov), r(v.aspect), (ctx.keepOut || []).map(rect), rect(ctx.focus), box, (ctx.badges || []).map(rect), room, scene])
+}
+
+// A search that would repeat the last one (fix 2026-11-19, the gate: Muir's big-work room and Einstein's citizen
+// photo stop on a phone): the same key (searchKey) from the spot the last search ended at. It would find what the last
+// one found: the same spot, or no spot (then she stays where she is). RoomGuide does not run it.
+// last: { key, end } of the last search (end null while it runs); at: her spot now ({ x, z }).
+export function repeatsSearch(last, key, at) {
+  if (!last || !last.end || last.key !== key) return false
+  return Math.hypot(at.x - last.end[0], at.z - last.end[2]) <= 0.05
 }
 
 // run the generator to its end (tests, reduced motion)

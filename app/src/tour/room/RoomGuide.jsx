@@ -16,7 +16,7 @@ import { useEffect, useMemo, useRef } from 'react'
 import { useFrame, useThree } from '@react-three/fiber'
 import * as THREE from 'three'
 import { Guide } from '../../shared/guide/Guide.jsx'
-import { candidates, frameCheck, hudKeepOut, makeContext, solveNow, solveSpot, spotCheck } from './guideFrame.js'
+import { candidates, frameCheck, hudKeepOut, makeContext, recheckContext, repeatsSearch, searchKey, solveNow, solveSpot, spotCheck } from './guideFrame.js'
 
 const SETTLE = 0.35 // seconds the camera must hold still before she judges the view
 const RECHECK = 1.5 // seconds between her checks of a still view
@@ -67,7 +67,7 @@ export function RoomGuide({ room, prefer, occluder, focusBox, badges = null, att
   const yawOf = useMemo(() => () => st.current?.yaw ?? 0, [])
   const ray = useMemo(() => new THREE.Raycaster(), [])
   const st = useRef(null)
-  if (!st.current) st.current = { pos: new THREE.Vector3(...(prefer || [0, 0, 0])), target: null, solver: null, ctx: null, cam: new THREE.Matrix4(), still: 0, judged: false, placed: false, speed: 0, why: null, meshes: null, move: null, yaw: null, glideN: 0, ahead: null, solverGlide: null, spot: null }
+  if (!st.current) st.current = { pos: new THREE.Vector3(...(prefer || [0, 0, 0])), target: null, solver: null, ctx: null, cam: new THREE.Matrix4(), still: 0, judged: false, placed: false, speed: 0, why: null, meshes: null, move: null, yaw: null, glideN: 0, ahead: null, solverGlide: null, spot: null, chosen: null, solverCtx: null, lastSearch: null, searches: 0, repeats: 0, skipped: 0 }
 
   // a new room (or a new preferred spot): start again from her spot there
   useEffect(() => {
@@ -78,6 +78,9 @@ export function RoomGuide({ room, prefer, occluder, focusBox, badges = null, att
     s.judged = false
     s.placed = false
     s.home = null
+    s.chosen = null
+    s.solverCtx = null
+    s.lastSearch = null
     s.meshes = null
     s.move = null
     s.ahead = null
@@ -139,7 +142,7 @@ export function RoomGuide({ room, prefer, occluder, focusBox, badges = null, att
     window.__guideDirector = {
       state: () => {
         const s = st.current
-        return { walking: Boolean(s.target), solving: Boolean(s.solver), settled: s.judged && !s.solver && !s.target && !s.ahead, pos: s.pos.toArray(), spot: s.spot ? s.spot.toArray() : null, move: s.move?.kind || null, blocked: s.blocked || null, fade: fade.k, why: s.why }
+        return { walking: Boolean(s.target), solving: Boolean(s.solver), settled: s.judged && !s.solver && !s.target && !s.ahead, pos: s.pos.toArray(), spot: s.spot ? s.spot.toArray() : null, move: s.move?.kind || null, blocked: s.blocked || null, fade: fade.k, why: s.why, searches: s.searches, repeats: s.repeats, skipped: s.skipped }
       },
       // a spot for another view (pose tuning): { eye, look } and the focus box, with this room's rays
       trial: (eye, look, box) => {
@@ -315,6 +318,28 @@ export function RoomGuide({ room, prefer, occluder, focusBox, badges = null, att
     s.move = { kind: 'walk', from: s.pos.clone(), dist, done: 0, v, delay, turning: turn, turnT: 0, dir: new THREE.Vector3(at.x - s.pos.x, 0, at.z - s.pos.z).normalize() }
   }
 
+  // Every search for her spot starts here (fix 2026-11-19). It keeps the context it was started for, so its result
+  // is credited to that view even when a glide replaces s.ctx while it runs. A search with the same key (view, HUD,
+  // focus: searchKey) from the spot the last one ended at would find what that one found (the same spot, or none):
+  // it is not run (repeatsSearch; __guideDirector.state().skipped counts them). One run anyway would count as a
+  // repeat (state().repeats; the chapters e2e fails on any in a still view).
+  const startSearch = (ctx, glide) => {
+    const s = st.current
+    // (the meshes that can hide her now: a record or prop that came in makes a new key)
+    const key = searchKey(ctx, meshes().map((o) => o.id).join(','))
+    if (repeatsSearch(s.lastSearch, key, s.pos)) {
+      s.skipped++
+      return
+    }
+    const last = s.lastSearch
+    if (last && last.key === key && last.end && Math.hypot(s.pos.x - last.end[0], s.pos.z - last.end[2]) <= 0.05) s.repeats++
+    s.searches++
+    s.solver = solveSpot(ctx, { from: s.pos.toArray(), prefer })
+    s.solverCtx = ctx
+    s.solverGlide = glide
+    s.lastSearch = { key, end: null }
+  }
+
   fade.update = (dt) => {
     const m = st.current.move
     if (m?.kind !== 'fade') return
@@ -356,15 +381,22 @@ export function RoomGuide({ room, prefer, occluder, focusBox, badges = null, att
         s.meshes = null
         const { box, ctx } = contextFor(glide.pos, glide.look)
         s.ctx = ctx
+        // a search still running was for the view the camera is leaving: it is dropped (its spot would send her
+        // into this view's HUD or focus); this view gets its own search below if her spot does not work here
+        if (s.solver) {
+          s.solver = null
+          s.solverCtx = null
+          s.solverGlide = null
+          s.lastSearch = null
+        }
         const here = (s.target || s.pos).clone()
         const dir = (a, b) => tmp.a.set(b[0] - a[0], b[1] - a[1], b[2] - a[2]).normalize()
         const home = !box && s.home && Math.hypot(...glide.pos.map((v, i) => v - s.home.eye[i])) < 0.05 && dir(glide.pos, glide.look).angleTo(tmp.b.copy(s.home.dir)) < 0.02
         if (home && here.distanceTo(s.home.pos) > 0.05 && spotCheck(s.home.pos.clone(), { ...ctx, relaxed: true }).ok) {
           s.why = null
           goTo(s.home.pos, glide)
-        } else if (!spotCheck(here, ctx).ok) {
-          s.solver = solveSpot(ctx, { from: s.pos.toArray(), prefer })
-          s.solverGlide = glide
+        } else if (!spotCheck(here, recheckContext(ctx, s.chosen, here)).ok) {
+          startSearch(ctx, glide)
           s.homeView = home
         }
       }
@@ -386,11 +418,10 @@ export function RoomGuide({ room, prefer, occluder, focusBox, badges = null, att
         s.why = null
         goTo(s.home.pos)
       } else {
-        const now = spotCheck(here, s.ctx)
+        const now = spotCheck(here, recheckContext(s.ctx, s.chosen, here))
         s.why = now.ok ? null : now.why
         if (!now.ok || !s.placed) {
-          s.solver = solveSpot(s.ctx, { from: s.pos.toArray(), prefer })
-          s.solverGlide = null
+          startSearch(s.ctx, null)
         }
         // at the home view with nothing better, she goes back to her home spot (solver end, below)
         s.homeView = home
@@ -407,6 +438,11 @@ export function RoomGuide({ room, prefer, occluder, focusBox, badges = null, att
       while (!r.done && (!s.placed || performance.now() - t0 < budget)) r = s.solver.next()
       if (r.done) {
         s.solver = null
+        // the spot the search chose, and by which standard, for the view it was found for (recheckContext)
+        // (its own context: a glide may have replaced s.ctx while it ran)
+        s.chosen = r.value?.at ? { at: r.value.at.toArray(), relaxed: r.value.relaxed, view: s.solverCtx?.view || null } : null
+        if (s.lastSearch) s.lastSearch.end = r.value?.at ? r.value.at.toArray() : s.pos.toArray()
+        s.solverCtx = null
         // no spot works in the home view: her home spot, where she stood when the visitor arrived
         const at = r.value?.at || (s.homeView && s.home && s.pos.distanceTo(s.home.pos) > 0.05 ? s.home.pos.clone() : null)
         if (at) {

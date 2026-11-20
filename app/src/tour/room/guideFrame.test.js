@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import * as THREE from 'three'
-import { KEEP_OUT, focusRect, hudKeepOut, makeContext, solveNow, spotCheck } from './guideFrame.js'
+import { KEEP_OUT, focusRect, hudKeepOut, makeContext, recheckContext, repeatsSearch, searchKey, solveNow, spotCheck } from './guideFrame.js'
 
 const room = { bounds: { min: [-5, 0, -5], max: [5, 3, 5] }, obstacles: [[-0.4, -1.4, 0.4, -0.6]] }
 const view = { eye: [0, 1.6, 4], look: [0, 1.3, -1], fov: 58, aspect: 1440 / 900 }
@@ -193,5 +193,71 @@ describe('guideFrame: a thin post between her middle and her shoulder hides her'
     const r = spotCheck(at.clone(), makeContext({ ...base, raycast: postRay }))
     expect(r.ok).toBe(false)
     expect(r.why).toMatch(/hidden/)
+  })
+})
+
+// Fix 2026-11-19 (gate: Lamarr's birth room on a phone never settled): where a view has only a relaxed spot, the
+// search returns one, and her re-check of the still view must judge it by that same standard. Judged strictly it
+// failed every time, so she searched again, found the same spot, and searched again, for as long as the view stood.
+describe('guideFrame: re-judging the spot the search chose', () => {
+  const phoneView = { eye: [0, 1.6, 4], look: [0, 1.3, -1], fov: 58, aspect: 390 / 844 }
+  const nearRoom = { bounds: { min: [-5, 0, 0], max: [5, 3, 3] }, obstacles: [] }
+  const ctx = makeContext({ view: phoneView, room: nearRoom, phone: true, floorAt: () => 0 })
+  const r = solveNow(ctx)
+  const chosen = r && { at: r.at.toArray(), relaxed: r.relaxed, view: ctx.view }
+
+  it('a view with only a relaxed spot: the search takes it, and its re-check in the same view passes', () => {
+    expect(r.relaxed).toBe(true)
+    expect(spotCheck(r.at.clone(), ctx).ok).toBe(false) // the strict standard alone would send her searching again
+    expect(spotCheck(r.at.clone(), recheckContext(ctx, chosen, r.at)).ok).toBe(true)
+  })
+
+  it('judges strictly once the view or her spot has changed, or when the spot passed strictly', () => {
+    const moved = makeContext({ view: { ...phoneView, eye: [0.3, 1.6, 4] }, room: nearRoom, phone: true, floorAt: () => 0 })
+    expect(recheckContext(moved, chosen, r.at).relaxed).toBeFalsy()
+    expect(recheckContext(ctx, chosen, r.at.clone().add(new THREE.Vector3(0.5, 0, 0))).relaxed).toBeFalsy()
+    expect(recheckContext(ctx, { ...chosen, relaxed: false }, r.at).relaxed).toBeFalsy()
+    expect(recheckContext(ctx, null, r.at)).toBe(ctx)
+  })
+
+  it('judges strictly after the phone turns or the window resizes (same eye and direction, another frame)', () => {
+    const turned = makeContext({ view: { ...phoneView, aspect: 844 / 390 }, room: nearRoom, phone: true, floorAt: () => 0 })
+    const zoomed = makeContext({ view: { ...phoneView, fov: 50 }, room: nearRoom, phone: true, floorAt: () => 0 })
+    expect(recheckContext(turned, chosen, r.at).relaxed).toBeFalsy()
+    expect(recheckContext(zoomed, chosen, r.at).relaxed).toBeFalsy()
+  })
+
+  it('a search key is the same for the same view and HUD, and changes with the view, the HUD or the focus', () => {
+    const again = makeContext({ view: phoneView, room: nearRoom, phone: true, floorAt: () => 0 })
+    expect(searchKey(again)).toBe(searchKey(ctx))
+    const caption = { x0: -1, x1: 1, y0: -1, y1: -0.4, caption: true }
+    expect(searchKey(makeContext({ view: phoneView, room: nearRoom, phone: true, floorAt: () => 0, keepOut: [...ctx.keepOut, caption] }))).not.toBe(searchKey(ctx))
+    expect(searchKey(makeContext({ view: { ...phoneView, eye: [0.3, 1.6, 4] }, room: nearRoom, phone: true, floorAt: () => 0 }))).not.toBe(searchKey(ctx))
+    expect(searchKey(makeContext({ view: phoneView, focus, room: nearRoom, phone: true, floorAt: () => 0 }))).not.toBe(searchKey(ctx))
+  })
+
+  it('a search key changes when the room changes under a still view (furniture, the focus box, meshes that came in)', () => {
+    const boxed = { ...nearRoom, obstacles: [[-1, 1, -0.5, 1.5]] }
+    expect(searchKey(makeContext({ view: phoneView, room: boxed, phone: true, floorAt: () => 0 }))).not.toBe(searchKey(ctx))
+    expect(searchKey(ctx, 'meshes:1,2,3')).not.toBe(searchKey(ctx, 'meshes:1,2,3,4'))
+    expect(searchKey(ctx, 'meshes:1,2,3')).toBe(searchKey(ctx, 'meshes:1,2,3'))
+    const a = makeContext({ view: phoneView, focus, room: nearRoom, phone: true, floorAt: () => 0 })
+    const b = makeContext({ view: phoneView, focus: { ...focus, max: [0.35, 1.6, -0.5] }, room: nearRoom, phone: true, floorAt: () => 0 })
+    expect(searchKey(a)).not.toBe(searchKey(b))
+  })
+})
+
+describe('guideFrame: a search is not run again for what it already answered', () => {
+  const last = { key: 'k', end: [0.75, 0, -1.6] }
+  it('repeats: the same key from the spot the last search ended at (found nothing, or found this spot)', () => {
+    expect(repeatsSearch(last, 'k', { x: 0.75, z: -1.6 })).toBe(true)
+    expect(repeatsSearch(last, 'k', { x: 0.78, z: -1.58 })).toBe(true)
+  })
+  it('a new search: another key (view, HUD, focus, scene), another start spot, or no search on record', () => {
+    expect(repeatsSearch(last, 'k2', { x: 0.75, z: -1.6 })).toBe(false)
+    expect(repeatsSearch(last, 'k', { x: 1.2, z: -1.6 })).toBe(false)
+    expect(repeatsSearch(null, 'k', { x: 0.75, z: -1.6 })).toBe(false)
+    // a search still running has no end yet
+    expect(repeatsSearch({ key: 'k', end: null }, 'k', { x: 0.75, z: -1.6 })).toBe(false)
   })
 })
