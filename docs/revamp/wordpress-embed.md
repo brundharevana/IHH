@@ -28,6 +28,19 @@ Tested in a local WordPress 7.1 (WordPress Playground) with the Twenty Twenty-Fi
 </div>
 ```
 
+Example, with the version 8 preview:
+
+```html example
+<div class="ihh-museum">
+<iframe
+  src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/embed.html"
+  title="Immigrant Hall of Honor virtual museum"
+  style="display:block;border:0;width:100%;height:640px;max-height:85vh"
+  allow="fullscreen; autoplay" allowfullscreen
+  loading="lazy"></iframe>
+</div>
+```
+
 - Width: the museum fills your theme's text column. To make it wider, put the Custom HTML block inside a Group block and set the Group to "Wide width".
 - Height: 640 pixels, and never more than 85% of the screen height. You can change `640px`; keep it at 480px or more so the tour's controls fit.
 - Fullscreen: the museum has its own Fullscreen button above the tour.
@@ -49,7 +62,7 @@ Add the tour's parameters to the address in `src`:
 1. Open the page and click where the museum should go.
 2. Click the **+** (Block Inserter), search for **Custom HTML**, and add it.
 3. In the block, click **Edit HTML**. (In older WordPress versions the block is a plain box: paste straight into it, and use **Preview** in the block toolbar.)
-4. Paste the snippet into the **HTML** tab. Replace `https://YOUR-MUSEUM-URL`. Click **Update**: the museum shows in the editor.
+4. Paste the snippet into the **HTML** tab. Replace `https://YOUR-MUSEUM-URL` (example: `https://ihh-turning-points-duayridvf-ihh4.vercel.app`). Click **Update**: the museum shows in the editor.
 5. Click **Publish** (or **Update**).
 
 The small preview in the Edit HTML window says "This frame cannot run the museum's 3D tour". That is only the editor's preview; the published page runs the full tour (checked 2026-11-20 in WordPress 7.1.5 by clicking through the editor).
@@ -57,7 +70,7 @@ The small preview in the Edit HTML window says "This frame cannot run the museum
 ## Classic editor
 
 1. Open the page and click the **Code** tab (called **Text** in older WordPress versions; not Visual).
-2. Paste the snippet where the museum should go. Replace `https://YOUR-MUSEUM-URL`.
+2. Paste the snippet where the museum should go. Replace `https://YOUR-MUSEUM-URL` (example: `https://ihh-turning-points-duayridvf-ihh4.vercel.app`).
 3. Click **Update** or **Publish**.
 
 Switching to the Visual tab afterwards is safe: WordPress rewrites the iframe and drops `allow` and `loading`, but keeps `allowfullscreen`, so the museum, its sound and Fullscreen still work (tested).
@@ -68,6 +81,16 @@ Use it where an iframe is not allowed, or as a second way in below the frame. Ad
 
 ```html
 <a href="https://YOUR-MUSEUM-URL/" target="_blank" rel="noopener noreferrer"
+   style="display:block;max-width:520px;padding:20px 24px;border-radius:14px;background:#0a0e14;color:#f0e8dd;text-decoration:none">
+  <strong style="display:block;font-size:1.25em">Immigrant Hall of Honor</strong>
+  <span>Open the museum: a guided walk through five inductees' turning points.</span>
+</a>
+```
+
+Example, with the version 8 preview:
+
+```html example
+<a href="https://ihh-turning-points-duayridvf-ihh4.vercel.app/" target="_blank" rel="noopener noreferrer"
    style="display:block;max-width:520px;padding:20px 24px;border-radius:14px;background:#0a0e14;color:#f0e8dd;text-decoration:none">
   <strong style="display:block;font-size:1.25em">Immigrant Hall of Honor</strong>
   <span>Open the museum: a guided walk through five inductees' turning points.</span>
@@ -117,7 +140,7 @@ The end of the tour has not yet been tried in WordPress. It was tested in the mu
 | "This page cannot open a new tab from here" with an address to copy | A sandbox blocks new tabs | Visitors can copy the address. Same report as above |
 | **Save ticket** downloads nothing | The iframe has a `sandbox` without `allow-downloads` | After **Save ticket**, visitors can save the ticket image the page shows (press and hold, or right-click). To allow the download, add `allow-downloads` to the sandbox |
 | The ticket shows "QR code (placeholder)", and "Feedback link coming soon" / "Story form coming soon" | The feedback and story links are not set yet | See "End-of-tour links" below |
-| The frame stays dark or blank | The address in `src` is wrong, or the museum is down | Open `https://YOUR-MUSEUM-URL/embed.html` in a browser tab to check |
+| The frame stays dark or blank | The address in `src` is wrong, or the museum is down | Open `https://YOUR-MUSEUM-URL/embed.html` (example: `https://ihh-turning-points-duayridvf-ihh4.vercel.app/embed.html`) in a browser tab to check |
 
 ## End-of-tour links
 
@@ -143,8 +166,8 @@ Tested 2026-11-02 in a local WordPress 7.1.4 (WordPress Playground) with Twenty 
 
 Which address to use in `src`:
 
-- `https://YOUR-MUSEUM-URL/` (the museum's front page): the whole museum. Visitors see the entrance, **Walk their journeys**, the five inductees and the guide's offer, then the tour. Use this for the no-header layout only: the front page scrolls inside the frame, so with a site header and footer the visitor would have two scroll areas. On a phone it has a known problem (see "Test results").
-- `https://YOUR-MUSEUM-URL/tour.html`: straight into a guided tour (Einstein's, or another with `?inductee=`). The frame never scrolls, so it works in both layouts. Recommended for the layout with the site header.
+- `https://YOUR-MUSEUM-URL/` (example: `https://ihh-turning-points-duayridvf-ihh4.vercel.app/`) (the museum's front page): the whole museum. Visitors see the entrance, **Walk their journeys**, the five inductees and the guide's offer, then the tour. Use this for the no-header layout only: the front page scrolls inside the frame, so with a site header and footer the visitor would have two scroll areas. On a phone it has a known problem (see "Test results").
+- `https://YOUR-MUSEUM-URL/tour.html` (example: `https://ihh-turning-points-duayridvf-ihh4.vercel.app/tour.html`): straight into a guided tour (Einstein's, or another with `?inductee=`). The frame never scrolls, so it works in both layouts. Recommended for the layout with the site header.
 - `embed.html` is not recommended on a full page. It adds a poster with a **Start** button and a dark strip with a **Fullscreen** button above the tour. On a full page, both are an extra step and look like a frame from another site.
 
 ### No header or footer (recommended)
@@ -152,7 +175,7 @@ Which address to use in `src`:
 1. Make a blank template once. Go to **Appearance > Editor > Templates** and click **Add template**, then **Custom template**. Name it `Museum full page` and click **Create**. In **Choose a pattern**, click **Skip**.
 2. In the empty template, click **+** (Block Inserter), search for **Content**, and add the Content block. Add nothing else: no Header, no Title, no Footer. Click **Save**.
 3. Open the museum page (**Pages**, then the page, or **Add New Page**). In the **Page** sidebar, click the name next to **Template**, choose **Change template**, and pick **Museum full page**.
-4. Add a **Custom HTML** block and paste this snippet. Replace `https://YOUR-MUSEUM-URL`. Click **Save** (or **Publish**).
+4. Add a **Custom HTML** block and paste this snippet. Replace `https://YOUR-MUSEUM-URL` (example: `https://ihh-turning-points-duayridvf-ihh4.vercel.app`). Click **Save** (or **Publish**).
 
 ```html
 <iframe
@@ -162,7 +185,17 @@ Which address to use in `src`:
   allow="fullscreen; autoplay" allowfullscreen></iframe>
 ```
 
-For the whole museum (entrance, **Walk their journeys**, all five inductees), use `src="https://YOUR-MUSEUM-URL/"` instead (tested on a desktop and a phone with version 6: see "Whole site, all five inductees").
+Example, with the version 8 preview:
+
+```html example
+<iframe
+  src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/tour.html"
+  title="Immigrant Hall of Honor virtual museum"
+  style="position:fixed;top:var(--wp-admin--admin-bar--height,0px);left:0;display:block;border:0;width:100%;height:calc(100% - var(--wp-admin--admin-bar--height,0px))"
+  allow="fullscreen; autoplay" allowfullscreen></iframe>
+```
+
+For the whole museum (entrance, **Walk their journeys**, all five inductees), use `src="https://YOUR-MUSEUM-URL/"` (example: `src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/"`) instead (tested on a desktop and a phone with version 6: see "Whole site, all five inductees").
 
 The editor still shows the page title above the block; visitors do not see it. Do not add `loading="lazy"`: the museum is the whole page, so it should start loading at once.
 
@@ -172,11 +205,22 @@ The frame is fixed to the window, below WordPress's admin bar when one shows (`-
 
 1. Open the museum page. In the **Page** sidebar, set **Template** to **Page No Title** (a template that comes with Twenty Twenty-Five).
 2. Add a **Group** block. In its toolbar set **Align** to **Full width**. In the Group's settings, under **Layout**, turn off **Inner blocks use content width**.
-3. Inside the Group, add a **Custom HTML** block and paste this snippet. Replace `https://YOUR-MUSEUM-URL`. Save.
+3. Inside the Group, add a **Custom HTML** block and paste this snippet. Replace `https://YOUR-MUSEUM-URL` (example: `https://ihh-turning-points-duayridvf-ihh4.vercel.app`). Save.
 
 ```html
 <iframe
   src="https://YOUR-MUSEUM-URL/tour.html"
+  title="Immigrant Hall of Honor virtual museum"
+  style="display:block;border:0;width:100%;max-width:none;height:calc(100svh - 71px)"
+  allow="fullscreen; autoplay" allowfullscreen></iframe>
+<style>.wp-site-blocks > footer { margin-block-start: 0 }</style>
+```
+
+Example, with the version 8 preview:
+
+```html example
+<iframe
+  src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/tour.html"
   title="Immigrant Hall of Honor virtual museum"
   style="display:block;border:0;width:100%;max-width:none;height:calc(100svh - 71px)"
   allow="fullscreen; autoplay" allowfullscreen></iframe>
@@ -209,7 +253,7 @@ Screenshots: `app/mockup-shots/wordpress-fullpage/` (`B-*` no header, `A-*` site
 
 A complete WordPress site, ready for IHH's web team to import: `docs/revamp/wordpress-site/` (its `README.md` says how).
 
-- **Virtual Museum** (`/virtual-museum/`): the museum's front page as the whole page, with the full-page snippet above (`src="https://YOUR-MUSEUM-URL/"`) and the **Museum full page** template.
+- **Virtual Museum** (`/virtual-museum/`): the museum's front page as the whole page, with the full-page snippet above (`src="https://YOUR-MUSEUM-URL/"` (example: `src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/"`)) and the **Museum full page** template.
 - **Inductees** and five child pages at IHH's own addresses (`/inductees/inductee-albert-einstein/` and so on): the inductee's name, a placeholder where IHH's profile text stays, the snippet at the top of this guide opening that inductee's tour (`embed.html?inductee=<slug>`), then the link card opening the same tour.
 - A menu with the six pages, for block themes (header Navigation) and for classic themes (Appearance > Menus).
 - `ihh-virtual-museum.xml` is WordPress's own export of that site; `blueprint.json` imports it into a local WordPress Playground.
@@ -220,5 +264,5 @@ Re-tested 2026-11-19 against version 8 (`https://ihh-turning-points-duayridvf-ih
 
 ## For maintainers
 
-- `app/e2e/wordpress.mjs` runs all of the above in a local WordPress (WordPress Playground, no account). It needs network and Node 22 or later (tested with Node 24), takes about 10 minutes, and is not part of the default gate: `cd app && MUSEUM_URL=https://YOUR-MUSEUM-URL npm run e2e:wordpress` (without `MUSEUM_URL` it uses the version 8 preview; `-- block card` runs some methods only; `-- --keep` leaves WordPress running). Screenshots go to `app/mockup-shots/wordpress/`.
+- `app/e2e/wordpress.mjs` runs all of the above in a local WordPress (WordPress Playground, no account). It needs network and Node 22 or later (tested with Node 24), takes about 10 minutes, and is not part of the default gate: `cd app && MUSEUM_URL=https://YOUR-MUSEUM-URL npm run e2e:wordpress` (example: `cd app && MUSEUM_URL=https://ihh-turning-points-duayridvf-ihh4.vercel.app npm run e2e:wordpress`) (without `MUSEUM_URL` it uses the version 8 preview; `-- block card` runs some methods only; `-- --keep` leaves WordPress running). Screenshots go to `app/mockup-shots/wordpress/`.
 - `app/e2e/embed.mjs` (`npm run e2e:embed`) covers sandboxed frames against a local build. Embed option B (owner ruling 2026-10-24): `app/vercel.json` sets no CORS header, so a frame sandboxed without `allow-same-origin` shows the poster with the link card only; `embed.js` detects this. Changing that is a deploy-config change that needs the owner's approval.
