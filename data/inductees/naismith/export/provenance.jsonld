@@ -115,6 +115,20 @@
       "description": "merge_staging 2026-10-30: 1 facts, 8 sources, 9 media, 6 searches merged from round9r.jsonl, round9r.searches.jsonl; 0 duplicates refused"
     },
     {
+      "@id": "ihh:run-naismith-portraits-2026-11-03",
+      "@type": "prov:Activity",
+      "name": "Pipeline run portraits-2026-11-03",
+      "prov:startedAtTime": "2026-11-03",
+      "description": "merge_staging 2026-11-03: 0 facts, 0 sources, 0 media, 16 searches merged from portraits-2026-11-03.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "@id": "ihh:run-naismith-portraits-2026-11-04",
+      "@type": "prov:Activity",
+      "name": "Pipeline run portraits-2026-11-04",
+      "prov:startedAtTime": "2026-11-04",
+      "description": "merge_staging 2026-11-04: 0 facts, 0 sources, 0 media, 1 searches merged from portraits-2026-11-04.searches.jsonl; 0 duplicates refused"
+    },
+    {
       "@id": "ihh:NAI-S-0001",
       "@type": "CreativeWork",
       "name": "Inductee James Naismith",
@@ -21842,6 +21856,293 @@
         "@id": "ihh:run-naismith-round9-records-2026-10-30"
       },
       "description": "URL: https://www.loc.gov/collections/chronicling-america/?q=naismith+stamp&dates=1961-01-01%2F1961-12-31&fo=json&c=10"
+    },
+    {
+      "@id": "ihh:NAI-Q-0357",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "loc.gov JSON API",
+      "query": "https://www.loc.gov/photos/?q=naismith&fo=json&c=50",
+      "ihh:results": 5,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Same 5 items as NAI-Q-0058: NAI-M-0001 (96502335, no rights information), 2004672123 (NAI-M-0002, 'Rights status not evaluated': barred by 3.4.1), two Hall of Fame building views (NAI-M-0060/0061, basis photos), one unrelated. No displayable portrait."
+    },
+    {
+      "@id": "ihh:NAI-Q-0358",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "loc.gov item JSON",
+      "query": "https://www.loc.gov/item/2004672123/?fo=json",
+      "ihh:results": 1,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Re-read for the landing portrait: rights advisory 'Rights status not evaluated', so never usable (3.4.1). Not staged."
+    },
+    {
+      "@id": "ihh:NAI-Q-0359",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "Smithsonian Open Access API",
+      "query": "\"James Naismith\" (api.si.edu/openaccess search, rows=50)",
+      "ihh:results": 2,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Two Smithsonian Libraries book records (CC0 metadata), no image of Naismith."
+    },
+    {
+      "@id": "ihh:NAI-Q-0360",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "Smithsonian Open Access API",
+      "query": "naismith (api.si.edu/openaccess search, rows=100)",
+      "ihh:results": 17,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Only Naismith item is the 4c basketball stamp plate proof (NAI-M-0032, already on file; shows no portrait). No portrait."
+    },
+    {
+      "@id": "ihh:NAI-Q-0361",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "web search (discovery)",
+      "query": "James Naismith portrait photograph University of Kansas Libraries digital collections rights \"public domain\"",
+      "ihh:results": 20,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Leads: KU digital.lib.ku.edu ku-uaphotos, exhibits.lib.ku.edu, Digital Commonwealth (Springfield College). Discovery only."
+    },
+    {
+      "@id": "ihh:NAI-Q-0362",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "KU Digital Collections DC record",
+      "query": "https://digital.lib.ku.edu/islandora/object/ku-uaphotos%3A13830/datastream/DC/download",
+      "ihh:results": 1,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Naismith with James Hill and Gordon Royal, undated. dc:rights: 'The copyright and related rights status of this Item has not been evaluated.' Not displayable; not staged."
+    },
+    {
+      "@id": "ihh:NAI-Q-0363",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "KU Digital Collections DC record",
+      "query": "https://digital.lib.ku.edu/islandora/object/ku-uaphotos%3A3335/datastream/DC/download",
+      "ihh:results": 1,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Naismith and Phog Allen, 1932, photographer Duke D'Ambra. dc:rights: not evaluated. Not displayable; not staged."
+    },
+    {
+      "@id": "ihh:NAI-Q-0364",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "Wikimedia Commons API (discovery)",
+      "query": "James Naismith (file namespace, srlimit=50)",
+      "ihh:results": 192,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Discovery only. Leads checked: Dr. James Naismith.jpg (credit Getty Images, not a holder grant), James Naismith with a basketball.jpg (Colombian web copy), James Naismith 1935.jpeg (NAI-M-0021, Utah Digital Newspapers), Spalding guide 1905 book images (LoC copy, no Naismith portrait found)."
+    },
+    {
+      "@id": "ihh:NAI-Q-0365",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "Wikimedia Commons API extmetadata (discovery)",
+      "query": "6 File: pages (Spalding 1905 guide x2, James Naismith.jpg, Dr. James Naismith.jpg, James Naismith with a basketball.jpg, 00Naismith.jpg)",
+      "ihh:results": 6,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Commons licence fields are uploader claims; none leads to a holder page with a displayable Naismith portrait. James Naismith.jpg is a statue photo."
+    },
+    {
+      "@id": "ihh:NAI-Q-0366",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "Utah Digital Newspapers record",
+      "query": "https://newspapers.lib.utah.edu/details?id=3701202",
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "HTTP 418 (bot check) to a plain fetch; blocked, not bypassed. Holder of the 1935 Gunnison Valley News photo (NAI-M-0021 / NAI-M-0031)."
+    },
+    {
+      "@id": "ihh:NAI-Q-0367",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "loc.gov Chronicling America search",
+      "query": "\"Dr. James Naismith\" [1900..1930]",
+      "ihh:results": 109,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Page-level OCR hits; no page caption identifying a printed photograph of Naismith found in the result descriptions. URL: https://www.loc.gov/collections/chronicling-america/?q=%22Dr.+James+Naismith%22&dates=1900/1930&fo=json&c=100"
+    },
+    {
+      "@id": "ihh:NAI-Q-0368",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "loc.gov page JSON + IIIF",
+      "query": "sn88085445/1922-03-23 p.4 (NAI-M-0070) and sn86063615/1898-12-18 p.18 (NAI-M-0074) page images",
+      "ihh:results": 2,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "IIIF image named by the page JSON shows another page (front page); no Naismith photograph seen. Not usable as a portrait."
+    },
+    {
+      "@id": "ihh:NAI-Q-0369",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "loc.gov books JSON",
+      "query": "https://www.loc.gov/books/?q=spalding+basket+ball+guide&fo=json&c=100",
+      "ihh:results": 5184,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Spalding Athletic Library titles; How to play basket ball (1910-1921 editions) checked by full text."
+    },
+    {
+      "@id": "ihh:NAI-Q-0370",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "loc.gov books JSON",
+      "query": "https://www.loc.gov/books/?q=naismith&dates=1891/1930&fo=json&c=100",
+      "ihh:results": 145,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Pre-1931 books naming Naismith (public domain per LoC books statement)."
+    },
+    {
+      "@id": "ihh:NAI-Q-0371",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "loc.gov book full text",
+      "query": "Full text of 29022307 (Annals of American sport, 1929), 10029771 and 16016577 (How to play basket ball, 1910/1916), 14022885 (Lawrence: today and yesterday, 1913), 20006723 (Physical education in the YMCA, 1920); 23000127 (Basket ball for men, 1922) read failed (incomplete read)",
+      "ihh:results": 5,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Each mentions Naismith in text only; no caption for a portrait of Naismith. Lawrence (1913) prints his article 'The Lawrence Playgrounds' with a photo of children, not of him."
+    },
+    {
+      "@id": "ihh:NAI-Q-0372",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-03",
+      "ihh:family": "portraits",
+      "instrument": "store review",
+      "query": "NAI-M-0003 Basket ball (1894), 26 page images on file (LoC, public domain)",
+      "ihh:results": 26,
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-03"
+      },
+      "description": "Catalogue says 'illus. port.', but no portrait of Naismith is on the 26 digitized pages (play drawings and advertisements only)."
+    },
+    {
+      "@id": "ihh:NAI-Q-0373",
+      "@type": "prov:Activity",
+      "prov:startedAtTime": "2026-11-04",
+      "ihh:family": "portraits",
+      "instrument": "HTTP GET (one polite request)",
+      "query": "https://newspapers.lib.utah.edu/ark:/87278/s6p56kcp",
+      "prov:wasAssociatedWith": {
+        "@type": "prov:Agent",
+        "name": "claude:claude-opus-5-5 (landing portraits agent)"
+      },
+      "ihh:run": {
+        "@id": "ihh:run-naismith-portraits-2026-11-04"
+      },
+      "description": "Holder's ark reference URL for the Gunnison Valley News 1935-04-18 page (NAI-M-0031), to get the page image: HTTP 418 (bot check). Blocked; not retried or worked around."
     }
   ]
 }

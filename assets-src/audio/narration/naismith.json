@@ -1,0 +1,459 @@
+{
+ "$comment": "The guide's narration for James Naismith, written to sound like a museum guide (owner decision 2026-10-17), in the same way as einstein.json. A fact line's 'source' is the verified claim (data/inductees/naismith/facts.jsonl, status verified), verbatim; 'text' is the caption and what is spoken; 'speak' (optional) only spells out an abbreviation or a number for the voice. A 'room-note' line says what the room model shows, not a fact about James Naismith: its 'source' lists verbatim excerpts of 'basis' (the room's INVENTORY.md), and it may use no content word, date or number those excerpts lack. A chapter keyed by its kind (birth, education, ...) carries that chapter's opening line (spec 2.5), voiced as 'naismith:ch:<kind>:opening'. assets-src/audio/check_narration.py gates every kind. Audio: build_guide_audio.py, one clip per line per guide voice.",
+ "inductee": "naismith",
+ "chapters": {
+  "1": {
+   "title": "From Almonte to Springfield",
+   "lines": [
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "NAI-F-0129",
+      "NAI-F-0084"
+     ],
+     "source": "James Naismith attended McGill. Naismith had an appointment as instructor at McGill.",
+     "text": "James Naismith attended McGill, and at McGill, Naismith had an appointment as instructor."
+    }
+   ]
+  },
+  "2": {
+   "title": "The gymnasium, Springfield",
+   "lines": [
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "NAI-F-0090"
+     ],
+     "source": "James Naismith wrote 13 rules of the game.",
+     "text": "James Naismith wrote 13 rules of the game.",
+     "speak": "James Naismith wrote thirteen rules of the game."
+    },
+    {
+     "cue": "c4",
+     "fact_ids": [
+      "NAI-F-0085"
+     ],
+     "source": "Rules by James Naismith were published in January 1892 in the magazine The Triangle.",
+     "text": "His rules were published in January 1892, in the magazine The Triangle."
+    },
+    {
+     "cue": "c5",
+     "fact_ids": [
+      "NAI-F-0078"
+     ],
+     "source": "The first game was played in fulfillment of an assignment given to Naismith to create a game that could be played indoors between the football and baseball seasons.",
+     "text": "The first game was played in fulfillment of an assignment given to him: to create a game that could be played indoors, between the football and baseball seasons."
+    },
+    {
+     "cue": "c7",
+     "fact_ids": [
+      "NAI-F-0088"
+     ],
+     "source": "Naismith nailed two peach baskets.",
+     "text": "He nailed two peach baskets."
+    }
+   ]
+  },
+  "3": {
+   "title": "From Springfield to Lawrence",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "NAI-F-0099"
+     ],
+     "source": "In 1894 Naismith married Maude Sherman.",
+     "text": "In 1894, James Naismith married Maude Sherman."
+    },
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "NAI-F-0095"
+     ],
+     "source": "In 1895 Naismith moved to Denver.",
+     "text": "He moved to Denver in 1895."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "NAI-F-0096"
+     ],
+     "source": "In 1898 Naismith graduated from Gross Medical College.",
+     "text": "In 1898, he graduated from Gross Medical College."
+    }
+   ]
+  },
+  "11": {
+   "title": "Round 7: his life between the turning points",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "NAI-F-0114",
+      "NAI-F-0130"
+     ],
+     "source": "Naismith was raised by his uncle Peter Young. Naismith was orphaned at the age of nine.",
+     "text": "Orphaned at the age of nine, James Naismith was raised by his uncle, Peter Young."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "NAI-F-0092"
+     ],
+     "source": "At the University of Kansas, James Naismith was teaching Physical Education.",
+     "text": "At the University of Kansas, he was teaching Physical Education."
+    },
+    {
+     "cue": "c4",
+     "fact_ids": [
+      "NAI-F-0093"
+     ],
+     "source": "James Naismith was chapel director at the University of Kansas.",
+     "text": "He was chapel director at the University of Kansas."
+    },
+    {
+     "cue": "c9",
+     "fact_ids": [
+      "NAI-F-0037",
+      "NAI-F-0128",
+      "NAI-F-0082"
+     ],
+     "source": "James Naismith died November 28, 1939, in Lawrence, Kansas. Dr. James Naismith died in his home just off the University of Kansas campus. Naismith died at age 78.",
+     "text": "James Naismith died November 28, 1939, in Lawrence, Kansas, in his home just off the University of Kansas campus, at age 78."
+    },
+    {
+     "cue": "c13",
+     "fact_ids": [
+      "NAI-F-0097"
+     ],
+     "source": "Naismith retired in 1937.",
+     "text": "Naismith retired in 1937."
+    }
+   ]
+  },
+  "12": {
+   "title": "Records at the stops (what each shows, and why it matters here)",
+   "lines": [
+    {
+     "cue": "r1",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0003"
+     ],
+     "fact_ids": [
+      "NAI-F-0072"
+     ],
+     "source": [
+      "Book Basket ball.",
+      "Gulick, Luther Halsey, 1865-1918, joint author",
+      "Basket ball by James Naismith was published in New York City by American sports publishing company, c1894."
+     ],
+     "text": "Here is Basket ball, his book with Luther Halsey Gulick as joint author, published in New York City by American sports publishing company."
+    },
+    {
+     "cue": "r2",
+     "kind": "record",
+     "media_ids": [
+      "NAI-PEACH-BASKET-RECREATION"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Peach basket",
+      "Recreation; the originals were not preserved"
+     ],
+     "text": "This peach basket is a recreation; the originals were not preserved."
+    },
+    {
+     "cue": "r3",
+     "kind": "record",
+     "media_ids": [
+      "NAI-BALL-RECREATION"
+     ],
+     "fact_ids": [],
+     "source": [
+      "A 3D recreation of a leather ball sewn from panels, with a laced slit.",
+      "Recreation; the originals were not preserved"
+     ],
+     "text": "This ball is a recreation of a laced leather ball; the originals were not preserved."
+    },
+    {
+     "cue": "r4",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0050"
+     ],
+     "fact_ids": [
+      "NAI-F-0104",
+      "NAI-F-0105"
+     ],
+     "source": [
+      "The Topeka state journal (Topeka, Kansas), September 10, 1898",
+      "Naismith succeeded Rev. Hector Cowan as the new director of physical culture.",
+      "Naismith was a resident of Denver."
+     ],
+     "text": "Here is The Topeka state journal of September 10, 1898. He was a resident of Denver, and he succeeded Rev. Hector Cowan as the new director of physical culture.",
+     "speak": "Here is The Topeka state journal of September tenth, 1898. He was a resident of Denver, and he succeeded Reverend Hector Cowan as the new director of physical culture."
+    },
+    {
+     "cue": "r5",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0049"
+     ],
+     "fact_ids": [
+      "NAI-F-0083",
+      "NAI-F-0101",
+      "NAI-F-0103"
+     ],
+     "source": [
+      "In 1898, James Naismith was hired by the University of Kansas to coach basketball.",
+      "Robinson Gymnasium was dedicated in 1908.",
+      "Robinson gymnasium was formally dedicated with James Naismith delivering the principal address.",
+      "The Topeka state journal (Topeka, Kansas), June 9, 1908"
+     ],
+     "text": "Here is The Topeka state journal of June 9, 1908. That year, ten years after the University of Kansas hired him, Robinson gymnasium was formally dedicated, with him delivering the principal address.",
+     "speak": "Here is The Topeka state journal of June ninth, 1908. That year, ten years after the University of Kansas hired him, Robinson gymnasium was formally dedicated, with him delivering the principal address."
+    },
+    {
+     "cue": "r6",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0068"
+     ],
+     "fact_ids": [],
+     "source": [
+      "San Antonio light, August 8, 1936: Naismith Honored at Olympic Games."
+     ],
+     "text": "Here is the San Antonio light of August 8, 1936: Naismith Honored at Olympic Games.",
+     "speak": "Here is the San Antonio light of August eighth, 1936: Naismith Honored at Olympic Games."
+    },
+    {
+     "cue": "r7",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0067"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Front page of The daily Alaska empire, November 28, 1939",
+      "\"Father of Basketball,\" Dr. Naismith, Dies Today"
+     ],
+     "text": "The front page of The daily Alaska empire, November 28, 1939: Father of Basketball, Dr. Naismith, Dies Today.",
+     "speak": "The front page of The daily Alaska empire, November twenty-eighth, 1939: Father of Basketball, Doctor Naismith, Dies Today."
+    },
+    {
+     "cue": "r8",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0060"
+     ],
+     "fact_ids": [],
+     "source": [
+      "View of a tower hoisting a symbolic basketball outside the Naismith Memorial Basketball Hall of Fame in Springfield, Massachusetts",
+      "Carol M. Highsmith",
+      "2019"
+     ],
+     "text": "This photograph by Carol M. Highsmith, of 2019, shows the tower hoisting a symbolic basketball outside the Naismith Memorial Basketball Hall of Fame in Springfield, Massachusetts."
+    },
+    {
+     "cue": "r9",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0059"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Old Hall, McGill University, Montreal, between 1890 and 1901"
+     ],
+     "text": "Here is Old Hall, McGill University, Montreal, between 1890 and 1901."
+    }
+   ]
+  },
+  "birth": {
+   "opening": {
+    "text": "James Naismith was born in Almonte, Ontario, on November 6, 1861. Take a moment and look around.",
+    "source": [
+     "James Naismith was born in Almonte, Ontario on November 6, 1861."
+    ],
+    "fact_ids": [
+     "NAI-F-0035"
+    ]
+   }
+  },
+  "education": {
+   "opening": {
+    "text": "Naismith entered the Presbyterian College in Montreal in 1887. Take a moment and look around.",
+    "source": [
+     "In 1887 Naismith entered the Presbyterian College in Montreal."
+    ],
+    "fact_ids": [
+     "NAI-F-0094"
+    ]
+   }
+  },
+  "first-work": {
+   "opening": {
+    "text": "In December 1891, James Naismith invented basketball in Springfield. That was four years after he entered the Presbyterian College. He was a Springfield College instructor, and Gulick challenged him. Walk around, if you like.",
+    "source": [
+     "Dr. James Naismith was a Springfield College instructor.",
+     "Gulick challenged Naismith.",
+     "In 1887 Naismith entered the Presbyterian College in Montreal.",
+     "In December 1891 Naismith invented basketball in Springfield."
+    ],
+    "fact_ids": [
+     "NAI-F-0080",
+     "NAI-F-0087",
+     "NAI-F-0094",
+     "NAI-F-0100"
+    ]
+   }
+  },
+  "big-work": {
+   "opening": {
+    "text": "James Naismith coached basketball. In 1898, Kansas hired him, seven years after he invented it. Walk around, if you like.",
+    "source": [
+     "James Naismith coached basketball at the University of Kansas.",
+     "In 1898, James Naismith was hired by the University of Kansas to coach basketball.",
+     "In December 1891 Naismith invented basketball in Springfield."
+    ],
+    "fact_ids": [
+     "NAI-F-0051",
+     "NAI-F-0083",
+     "NAI-F-0100"
+    ]
+   }
+  },
+  "history": {
+   "opening": {
+    "text": "In 1936, 38 years after he was hired by the University of Kansas, James Naismith was at the Olympics in Berlin. Take your time here.",
+    "source": [
+     "In 1898, James Naismith was hired by the University of Kansas to coach basketball.",
+     "In 1936 Naismith was at the Olympics in Berlin."
+    ],
+    "fact_ids": [
+     "NAI-F-0083",
+     "NAI-F-0098"
+    ],
+    "speak": "In 1936, thirty-eight years after he was hired by the University of Kansas, James Naismith was at the Olympics in Berlin. Take your time here."
+   }
+  },
+  "honoured": {
+   "opening": {
+    "text": "In 1959, James Naismith was inducted into the Basketball Hall of Fame. That was twenty years after he died. Have a look around.",
+    "source": [
+     "James Naismith died November 28, 1939, in Lawrence, Kansas.",
+     "James Naismith was inducted into the Basketball Hall of Fame in 1959."
+    ],
+    "fact_ids": [
+     "NAI-F-0037",
+     "NAI-F-0086"
+    ]
+   }
+  },
+  "21": {
+   "title": "Round 9: more records per chapter (owner directive 2026-10-29)",
+   "lines": [
+    {
+     "cue": "r1",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0070"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The Lynden tribune (Lynden, Wash.)",
+      "March 23, 1922",
+      "So Lynden Fans May Know How Basketball Started"
+     ],
+     "text": "Here is The Lynden tribune of March 23, 1922: So Lynden Fans May Know How Basketball Started.",
+     "speak": "Here is The Lynden tribune of March twenty-third, 1922: So Lynden Fans May Know How Basketball Started."
+    },
+    {
+     "cue": "r3",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0071"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The Milwaukee leader (Milwaukee, Wis.)",
+      "March 3, 1930",
+      "Speaking of Sport"
+     ],
+     "text": "Here is The Milwaukee leader of March 3, 1930: Speaking of Sport.",
+     "speak": "Here is The Milwaukee leader of March third, 1930: Speaking of Sport."
+    },
+    {
+     "cue": "r6",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0074"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Kansas City journal (Kansas City, Mo.)",
+      "December 18, 1898",
+      "Basket ball at Kansas University",
+      "naming Dr. Naismith, the new physical director"
+     ],
+     "text": "Here is the Kansas City journal of December 18, 1898: Basket ball at Kansas University, naming Dr. Naismith, the new physical director.",
+     "speak": "Here is the Kansas City journal of December eighteenth, 1898: Basket ball at Kansas University, naming Doctor Naismith, the new physical director."
+    },
+    {
+     "cue": "r7",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0075"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Henderson daily dispatch (Henderson, N.C.)",
+      "November 28, 1939",
+      "Man Who Invented Basketball Passes Of Heart Disease"
+     ],
+     "text": "Here is the Henderson daily dispatch of November 28, 1939: Man Who Invented Basketball Passes Of Heart Disease.",
+     "speak": "Here is the Henderson daily dispatch of November twenty-eighth, 1939: Man Who Invented Basketball Passes Of Heart Disease."
+    },
+    {
+     "cue": "r8",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0076"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Evening star (Washington, D.C.)",
+      "March 4, 1959",
+      "13 Are Named To Cage Hall"
+     ],
+     "text": "Here is the Evening star of March 4, 1959: 13 Are Named To Cage Hall.",
+     "speak": "Here is the Evening star of March fourth, 1959: Thirteen Are Named To Cage Hall."
+    },
+    {
+     "cue": "r9",
+     "kind": "record",
+     "media_ids": [
+      "NAI-M-0077"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Evening star (Washington, D.C.)",
+      "November 5, 1961",
+      "Basketball First Day",
+      "first-day ceremonies for the 4-cent Basketball stamp honoring Dr. James Naismith"
+     ],
+     "text": "Here is the Evening star of November 5, 1961: Basketball First Day, first-day ceremonies for the 4-cent Basketball stamp honoring Dr. James Naismith.",
+     "speak": "Here is the Evening star of November fifth, 1961: Basketball First Day, first-day ceremonies for the four-cent Basketball stamp honoring Doctor James Naismith."
+    },
+    {
+     "cue": "m1",
+     "fact_ids": [
+      "NAI-F-0100"
+     ],
+     "source": "In December 1891 Naismith invented basketball in Springfield.",
+     "text": "In December 1891, Naismith invented basketball in Springfield."
+    }
+   ]
+  }
+ }
+}

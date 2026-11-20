@@ -4,6 +4,7 @@ A virtual museum for the Immigrant Hall of Honor (IHH). A guide walks visitors t
 
 - Live preview (version 8): https://ihh-turning-points-duayridvf-ihh4.vercel.app
 - WordPress embed for IHH's site: [docs/revamp/wordpress-embed.md](docs/revamp/wordpress-embed.md)
+- Feature docs: [docs/README.md](docs/README.md)
 
 ## What is in this repository
 
@@ -20,7 +21,8 @@ A virtual museum for the Immigrant Hall of Honor (IHH). A guide walks visitors t
 | `content/` | Room and scan manifests used by the earlier site |
 | `site/` | The earlier Astro site (version before the 3D museum) |
 | `spikes/` | Early technical experiments |
-| `.claude/` | The Claude Code skill and saved workflows that run the fact pipeline |
+| `assets-src/audio/` | Guide narration scripts and their checks (the rest of `assets-src/`, source scans, stays local for size) |
+| `.claude/` | Claude Code skills (`ihh-verified-facts`, `ihh-new-inductee`) and saved workflows that run the fact pipeline |
 
 ## How the facts are kept honest
 
@@ -60,7 +62,7 @@ Then open http://localhost:5173 (landing), `/tour.html` and `/embed.html`. Usefu
 
 Tests: `npm test` (Vitest) and `npm run lint`.
 
-`npm run build` runs content gates before building. Several of them read `assets-src/` (source scans, texture declarations and narration audio), which is kept out of this repository because of its size, so a full build needs that folder. The dev server does not. From this repository alone, `npm test` passes except the tests that read the narration scripts in `assets-src/audio/narration/` (the five tour data tests, the narration and records tests, and the content-gate test `scripts/check_content.test.js`, whose gate scans that folder at run time).
+`npm run build` runs content gates before building. Some of them read the source scans in `assets-src/`, which are kept out of this repository because of their size, so a full build needs that folder. The dev server and `npm test` work from this repository alone.
 
 ## Run the fact pipeline checks
 

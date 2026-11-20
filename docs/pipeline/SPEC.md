@@ -392,6 +392,7 @@ record is fixed, recategorized or withdrawn through `records.py`, never left fai
 | `tools/check_grounding.py <slug> [--json] [--record FILE] [--content-dir DIR]` | G6 deterministic part; report per sentence, covering drafts/profile.json and the experience content (`content:<chapter id>:...` units from `content/<slug>/chapters`, which tools/export.py publishes). `--json` prints each unit with its `unit_sha256`; `--record` stores sentence-adversary verdicts in `drafts/grounding.jsonl`, refusing any whose `unit_sha256` differs from the unit as it is now |
 | `tools/validate.py <slug|--all>` | Section 5 last paragraph |
 | `tools/export.py <slug|--all> [--preview]` | Writes section 2 `export/` files. Without `--preview`, only facts/media with status `verified` and review `approved`/`edited` backed by `review/decisions.jsonl` (G8), and draft sentences whose facts all qualify and that have a current `supported` sentence-adversary verdict (G6). The "How to cite" line is generated from inductee.json; `profile.how_to_cite` is never published. `--preview` includes unreviewed verified items and stamps every block "DRAFT — NOT REVIEWED". Refuses if validate fails. |
+| `tools/handoff_bundle.py <slug> [--out DIR] [--zip] [--date D] [--force] [--allow-email A]` | Copies the export/ files, REVIEW.md and the tour exports when present into `handoff/<slug>-<date>/` (gitignored), with README-FOR-IHH.md for the review team, CHECK-BY-HAND.md (blocked hosts and deferred sources from `staging/tour/*/run.json`, `staging/deferred-*/` and `staging/check-by-hand.jsonl`) and MANIFEST.json (sha256 per file); `--zip` writes a reproducible zip beside it. Reads the store only. Refuses a missing export, a denied personal token, or an email address not quoted from a snapshot or named with `--allow-email`. Skill `ihh-new-inductee` |
 | `tools/apply_review.py <slug> <decisions.jsonl>` | Applies reviewer decisions (approve / edit claim / reject / note) with reviewer name and date; edited claims drop to re-verification per G8. |
 
 Adversary prompt (both engines) must instruct: try to refute; default to `unclear` if the
@@ -458,7 +459,9 @@ Phases (pipeline() wherever items are independent; barriers only where noted):
    secondary), `media` (images with the holder's own rights statement: LoC, NARA, museums and
    archives; Commons and Internet Archive only to discover items and their holders),
    `domain` (patents, Nobel, NPS, halls of fame, as fits the person). Each fetches snapshots
-   with fetch_snapshot.py (browser fallback via the in-app browser tools when blocked).
+   with fetch_snapshot.py (the in-app browser only for a JavaScript-only page; a block, HTTP 403, 429 or a bot
+   challenge, is never bypassed: the source goes to `staging/check-by-hand.jsonl`, which `tools/handoff_bundle.py`
+   lists for a person).
 4. **Merge** (barrier: needs all families) — one agent dedupes semantically, splits
    compound claims, removes catalogue metadata posing as facts, then runs merge_staging.py
    (which refuses a candidate that breaks the schema; the agent fixes the staging file) and
