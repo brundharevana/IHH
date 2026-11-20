@@ -2,7 +2,7 @@
 
 A guide for the person who edits IHH's WordPress site.
 
-Every snippet below uses `https://YOUR-MUSEUM-URL`. Replace it with the museum's address, with no slash at the end. Until the museum has its own address, use the current preview (version 3): `https://ihh-turning-points-b8arwpweq-ihh4.vercel.app`.
+Every snippet below uses `https://YOUR-MUSEUM-URL`. Replace it with the museum's address, with no slash at the end. Until the museum has its own address, use the current preview (version 8): `https://ihh-turning-points-duayridvf-ihh4.vercel.app`.
 
 ## Which method to use
 
@@ -48,8 +48,11 @@ Add the tour's parameters to the address in `src`:
 
 1. Open the page and click where the museum should go.
 2. Click the **+** (Block Inserter), search for **Custom HTML**, and add it.
-3. Paste the snippet into the block. Replace `https://YOUR-MUSEUM-URL`.
-4. Click **Preview** in the block toolbar to check it, then **Save** (or **Update** / **Publish**).
+3. In the block, click **Edit HTML**. (In older WordPress versions the block is a plain box: paste straight into it, and use **Preview** in the block toolbar.)
+4. Paste the snippet into the **HTML** tab. Replace `https://YOUR-MUSEUM-URL`. Click **Update**: the museum shows in the editor.
+5. Click **Publish** (or **Update**).
+
+The small preview in the Edit HTML window says "This frame cannot run the museum's 3D tour". That is only the editor's preview; the published page runs the full tour (checked 2026-11-20 in WordPress 7.1.5 by clicking through the editor).
 
 ## Classic editor
 
@@ -212,6 +215,8 @@ A complete WordPress site, ready for IHH's web team to import: `docs/revamp/word
 - `ihh-virtual-museum.xml` is WordPress's own export of that site; `blueprint.json` imports it into a local WordPress Playground.
 
 Tested 2026-11-04 against version 6 (`https://ihh-turning-points-rmtf1m1q5-ihh4.vercel.app`) in WordPress 7.1 (Twenty Twenty-Five) at 1440 x 900 and 390 x 844 with real taps, by `app/e2e/wordpress-site.mjs` (`cd app && npm run e2e:wordpress-site`, about 25 minutes). Inside the full-page frame the scroll-driven entrance, **Walk their journeys**, each inductee's slide and portrait, and starting a tour from the guide's offer all work; each inductee page starts that inductee's tour, opens its first room and a record, and its **Fullscreen** works. The export was imported into a second, fresh WordPress and checked again. Screenshots: `app/mockup-shots/wordpress-site/`.
+
+Re-tested 2026-11-19 against version 8 (`https://ihh-turning-points-duayridvf-ihh4.vercel.app`): `e2e/wordpress.mjs` (every method) and `e2e/wordpress-site.mjs` (every page of the imported site) pass; the export in `wordpress-site/` was regenerated from that run.
 
 ## For maintainers
 

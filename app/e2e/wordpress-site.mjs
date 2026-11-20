@@ -29,7 +29,7 @@
 // Needs network (WordPress from wordpress.org, the museum is the deployed site), Node 22+ (tested with
 // Node 24), and about 25 minutes. Not part of the default gate.
 // usage: MUSEUM_URL=https://... node e2e/wordpress-site.mjs [--keep]   (npm run e2e:wordpress-site)
-//   MUSEUM_URL defaults to the version 6 preview; --keep leaves the first WordPress running at the end.
+//   MUSEUM_URL defaults to the version 8 preview; --keep leaves the first WordPress running at the end.
 import { spawn } from 'node:child_process'
 import { randomBytes } from 'node:crypto'
 import { existsSync, mkdirSync, mkdtempSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
@@ -40,7 +40,7 @@ import { fileURLToPath } from 'node:url'
 const { chromium, loadAxe } = await import('./browser.mjs')
 const AxeBuilder = await loadAxe()
 
-const MUSEUM = (process.env.MUSEUM_URL || 'https://ihh-turning-points-rmtf1m1q5-ihh4.vercel.app').replace(/\/$/, '')
+const MUSEUM = (process.env.MUSEUM_URL || 'https://ihh-turning-points-duayridvf-ihh4.vercel.app').replace(/\/$/, '')
 const PLAYGROUND = '@wp-playground/cli@3.1.61'
 const PORT = Number(process.env.WP_PORT || 9430)
 const SHOTS = fileURLToPath(new URL('../mockup-shots/wordpress-site/', import.meta.url))
