@@ -12,6 +12,7 @@
     "preview": "vite preview",
     "test": "vitest run",
     "e2e:embed": "node e2e/embed.mjs",
+    "e2e:end-of-tour": "node e2e/end-of-tour.mjs",
     "e2e:wordpress": "node e2e/wordpress.mjs",
     "e2e:wordpress-site": "node e2e/wordpress-site.mjs"
   },

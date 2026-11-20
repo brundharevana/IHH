@@ -64,6 +64,7 @@ PORTRAITS = {
     "landing/portraits/lamarr.jpg": ("LAM-M-0013", "site/public/media/LAM-M-0013.jpg"),
     "landing/portraits/muir.jpg": ("MUI-M-0011", "assets-src/landing-portraits/ref/loc-3b53078u.tif"),
     "landing/portraits/albright.jpg": ("ALB-M-0014", "site/public/media/ALB-M-0014.jpg"),
+    "landing/portraits/naismith.jpg": ("NAI-M-0078", "assets-src/landing-portraits/ref/loc-spaldingsofficia05fish_0032.jpg"),
 }
 
 

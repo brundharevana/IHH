@@ -32,6 +32,7 @@ import './tour.css'
 const TourCanvas = lazyChunk(() => import('./TourCanvas.jsx'), 'the 3D stage')
 const Moments = lazyChunk(() => import('./moments/Moments.jsx'), 'Moments')
 const ArtifactViewer = lazyChunk(() => import('./artifact/ArtifactViewer.jsx'), 'the record viewer')
+const EndOfTour = lazyChunk(() => import('./end/EndOfTour.jsx'), 'the end of the tour')
 
 const HINTS = {
   room: { desktop: 'Drag to look · W A S D or click the floor to walk · Keys 1–9 visit the objects · M mutes the guide', phone: 'Drag to look around · Tap a number to visit an object' },
@@ -113,6 +114,18 @@ export function ChapterPlayer({ tour, startChapter = 0, onEnd, autostart = false
   const roomInfo = useRef(null)
   const selRun = useRef(0)
   const [moments, setMoments] = useState(false)
+  // after the last chapter: the quiz, ticket and story panel (end/EndOfTour.jsx)
+  const [endOpen, setEndOpen] = useState(false)
+  const [endIds, setEndIds] = useState(null) // the shown chapter ids, taken when the panel opens
+  // the chapters shown in this visit (it can start mid-tour: ?chapter= or a landing story point); the
+  // end-of-tour ticket counts only these
+  const shownIds = useRef(new Set())
+  useEffect(() => {
+    shownIds.current = new Set()
+  }, [tour])
+  useEffect(() => {
+    if (started) shownIds.current.add(ch.id)
+  }, [started, ch.id])
   const [ready, setReady] = useState(null) // the chapter id whose stage reported ready
   const [open, setOpen] = useState(null) // { stop, art } in the artifact viewer
   // round 9: a place photograph picked on the map leg opens in the viewer; closing it returns to the map
@@ -430,7 +443,14 @@ export function ChapterPlayer({ tour, startChapter = 0, onEnd, autostart = false
       setHearing(false)
       setState({ phase: 'room' })
     } else if (nextChapter) goChapter(index + 1)
-    else end()
+    else {
+      // the last chapter opens the end-of-tour panel; its "Back to the museum" (or Escape) ends the tour
+      speaker.stop()
+      setHearing(false)
+      // the chapter the visitor is in was shown, so the list is never empty
+      setEndIds([...new Set([...shownIds.current, ch.id])])
+      setEndOpen(true)
+    }
   }
 
   // Once this chapter's stage is ready, the next chapter's room model is fetched at low priority so
@@ -622,6 +642,22 @@ export function ChapterPlayer({ tour, startChapter = 0, onEnd, autostart = false
       {moments && (
         <ChunkSuspense what="Moments" onClose={() => setMoments(false)}>
           <Moments reduced={reduced} onClose={() => setMoments(false)} />
+        </ChunkSuspense>
+      )}
+
+      {endOpen && (
+        <ChunkSuspense what="the end of the tour" onClose={() => setEndOpen(false)}>
+          <EndOfTour
+            tour={tour}
+            chapterIds={endIds}
+            nextSlug={nextSlug}
+            nextName={nextPerson?.name}
+            reduced={reduced}
+            onClose={() => {
+              setEndOpen(false)
+              end()
+            }}
+          />
         </ChunkSuspense>
       )}
 

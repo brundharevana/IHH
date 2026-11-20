@@ -3478,6 +3478,13 @@
    "holder": "Library of Congress, Chronicling America; Evening star (Washington, D.C.), 1961-11-05",
    "rights": "public-domain",
    "ownerRuling": "Owner ruling 2026-10-29: Library of Congress Chronicling America pages of 1940-1961 may display under LoC's rights statement. The adversary refuted the licence class on that statement's wording alone (a page under 95 years old); the ruling covers exactly that question (review/decisions.jsonl note; DECISIONS 2026-10-29)."
+  },
+  "NAI-M-0078": {
+   "embeddable": true,
+   "basisFor": [],
+   "title": "Dr. James Naismith, University of Kansas (Members Rules Committee, Spalding's official collegiate basket ball guide, 1910 - 1911)",
+   "holder": "Library of Congress. Spalding's official collegiate basket ball guide, 1910 - 1911 (American Sports Publishing Company)",
+   "rights": "public-domain"
   }
  }
 }

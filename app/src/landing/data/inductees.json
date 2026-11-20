@@ -790,7 +790,15 @@
     "slug": "naismith",
     "name": "James Naismith",
     "ihh_url": "https://immigranthallofhonor.org/inductees/inductee-james-naismith/",
-    "portrait": null,
+    "portrait": {
+      "src": "landing/portraits/naismith.jpg",
+      "media_id": "NAI-M-0078",
+      "alt": "Dr. James Naismith, University of Kansas, one of the Members Rules Committee in Spalding's official collegiate basket ball guide (Copyright, 1910, by American Sports Publishing Company, New York).",
+      "credit": "Library of Congress. Spalding's official collegiate basket ball guide, 1910 - 1911 (American Sports Publishing Company)",
+      "rights": "The books in this collection are in the public domain and are free to use and reuse.",
+      "url": "https://www.loc.gov/resource/gdcmassbookdig.spaldingsofficia05fish/?sp=32",
+      "changes": "Cropped and resized from the holder's file."
+    },
     "points": [
       {
         "id": "birth",
