@@ -57,6 +57,75 @@ Add the tour's parameters to the address in `src`:
 - One chapter: `embed.html?inductee=einstein&chapter=big-work`
 - One record: `embed.html?viewer=EIN-M-0013`
 
+### The code for each inductee's page
+
+Paste one into a Custom HTML block below the text on that inductee's page. Each opens the museum straight on that inductee's tour. Shown with the version 8 preview; when the museum has its own address, replace `https://ihh-turning-points-duayridvf-ihh4.vercel.app` with it. The same codes are files in [wordpress-code/inductee-pages/](wordpress-code/inductee-pages/README.md), with a how-to video.
+
+**Albert Einstein**
+
+```html inductee
+<div class="ihh-museum">
+<iframe
+  src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/embed.html?inductee=einstein"
+  title="Immigrant Hall of Honor virtual museum"
+  style="display:block;border:0;width:100%;height:640px;max-height:85vh"
+  allow="fullscreen; autoplay" allowfullscreen
+  loading="lazy"></iframe>
+</div>
+```
+
+**Hedy Lamarr**
+
+```html inductee
+<div class="ihh-museum">
+<iframe
+  src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/embed.html?inductee=lamarr"
+  title="Immigrant Hall of Honor virtual museum"
+  style="display:block;border:0;width:100%;height:640px;max-height:85vh"
+  allow="fullscreen; autoplay" allowfullscreen
+  loading="lazy"></iframe>
+</div>
+```
+
+**John Muir**
+
+```html inductee
+<div class="ihh-museum">
+<iframe
+  src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/embed.html?inductee=muir"
+  title="Immigrant Hall of Honor virtual museum"
+  style="display:block;border:0;width:100%;height:640px;max-height:85vh"
+  allow="fullscreen; autoplay" allowfullscreen
+  loading="lazy"></iframe>
+</div>
+```
+
+**Madeleine Albright**
+
+```html inductee
+<div class="ihh-museum">
+<iframe
+  src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/embed.html?inductee=albright"
+  title="Immigrant Hall of Honor virtual museum"
+  style="display:block;border:0;width:100%;height:640px;max-height:85vh"
+  allow="fullscreen; autoplay" allowfullscreen
+  loading="lazy"></iframe>
+</div>
+```
+
+**James Naismith**
+
+```html inductee
+<div class="ihh-museum">
+<iframe
+  src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/embed.html?inductee=naismith"
+  title="Immigrant Hall of Honor virtual museum"
+  style="display:block;border:0;width:100%;height:640px;max-height:85vh"
+  allow="fullscreen; autoplay" allowfullscreen
+  loading="lazy"></iframe>
+</div>
+```
+
 ## Block editor: Custom HTML block
 
 1. Open the page and click where the museum should go.
