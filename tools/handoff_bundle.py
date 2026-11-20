@@ -231,8 +231,9 @@ def readme_md(name, slug, date, preview, files, fact_counts, media_status, by_cl
 
 
 def holder_addresses(p):
-    """Email addresses that appear in the inductee's own source snapshots: a holder's published contact
-    address quoted verbatim in a rights statement (for example an archive's permissions address)."""
+    """Every email address that appears in the inductee's own saved source snapshots (public pages the
+    pipeline fetched). The intended case is a holder's published contact address quoted in a rights
+    statement; the code does not check that, so any address printed on a saved source page is allowed."""
     found = set()
     for snap in sorted(p.snapshots.glob("*.txt")):
         found |= {m.lower() for m in polite.EMAIL.findall(snap.read_text(encoding="utf-8", errors="replace"))}

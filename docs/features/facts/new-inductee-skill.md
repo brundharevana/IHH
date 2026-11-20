@@ -11,7 +11,7 @@ A Claude Code skill that takes a person's name and runs the whole verified-resea
 
 Run: in Claude Code, `/ihh-new-inductee <Full Name>`.
 
-Steps: identify, IHH baseline, six search families (Library of Congress, National Archives, Smithsonian, institutional, media, domain), merge, adversary, corroborate, draft, ground, critic, package, tour research.
+Steps: identify, IHH baseline, six search families (Library of Congress, National Archives, Smithsonian, institutional, media, domain), merge, adversary, corroborate, draft, ground, critic, tour research, package.
 
 Rules: at least 4 s between requests to one host; a bot block closes that host for the run (never bypassed); every search is logged.
 

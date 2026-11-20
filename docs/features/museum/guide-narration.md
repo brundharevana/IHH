@@ -11,6 +11,6 @@ A pre-recorded guide voice narrates each stop. It says only lines checked agains
 
 Sound starts only after the visitor taps **Begin the tour**; the mute button (or M) silences it.
 
-Tests: `app/src/tour/data/narration.test.js`, `assets-src/audio/test_*.py`.
+Tests: `app/src/tour/data/narration.test.js`. The narration gate's own tests and the room inventories it reads stay with the source scans, outside this repository.
 
 Related: [build gates](../quality/build-gates.md) · [fact pipeline](../facts/pipeline.md)

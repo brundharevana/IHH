@@ -141,7 +141,7 @@ python3 tools/validate.py --all && python3 -m pytest tools -q
 ```
 
 `handoff_bundle.py` copies only: README-FOR-IHH.md, REVIEW.md, the export files (tour files when
-present), CHECK-BY-HAND.md and MANIFEST.json. It refuses an email address unless a snapshot quotes it
+present), CHECK-BY-HAND.md and MANIFEST.json. It refuses an email address unless it appears in a saved source snapshot (any address printed on that public page)
 or a person names it with `--allow-email` (an institution's published address); a person's name or
 email is never allowed. Check the bundle: unzip it and compare each file's sha256 with MANIFEST.json.
 
