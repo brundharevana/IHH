@@ -29,7 +29,7 @@ The export holds nothing else: no posts, comments, media, users' details beyond 
 1. **Your inductee pages already exist.** IHH's site already has pages at `/inductees/inductee-<name>/`. Importing the five inductee pages would add a second page each, and WordPress would give the new ones addresses ending in `-2`. Choose one:
    - **Recommended:** do not import the five inductee pages. Open each existing inductee page and add the two blocks shown under "Add the museum to an existing inductee page" below, under your profile text.
    - Or import everything into a staging copy of the site first, compare, then copy the blocks across.
-2. **The museum's address.** The export uses the current preview, `https://ihh-turning-points-rmtf1m1q5-ihh4.vercel.app`. When IHH hosts the museum at its own address, replace that address everywhere (see "Replace the museum address").
+2. **The museum's address.** The export uses the current preview, `https://ihh-turning-points-duayridvf-ihh4.vercel.app`. When IHH hosts the museum at its own address, replace that address everywhere (see "Replace the museum address").
 3. **Who imports.** Import as an **Administrator** (or, on a single site, an Editor). WordPress removes `<iframe>` from pages saved by a user without the "unfiltered HTML" permission: **Authors and Contributors lose the museum frame when they save**, and on a multisite network only Super Admins keep it. The link cards still work for them. Some hosted plans (WordPress.com without plugins) remove iframes for everyone.
 
 ## Import
@@ -54,7 +54,7 @@ Open the page in the block editor, click below the profile text, add a **Custom 
 ```html
 <div class="ihh-museum">
 <iframe
-  src="https://ihh-turning-points-rmtf1m1q5-ihh4.vercel.app/embed.html?inductee=einstein"
+  src="https://ihh-turning-points-duayridvf-ihh4.vercel.app/embed.html?inductee=einstein"
   title="Immigrant Hall of Honor virtual museum"
   style="display:block;border:0;width:100%;height:640px;max-height:85vh"
   allow="fullscreen; autoplay" allowfullscreen
@@ -63,7 +63,7 @@ Open the page in the block editor, click below the profile text, add a **Custom 
 ```
 
 ```html
-<a href="https://ihh-turning-points-rmtf1m1q5-ihh4.vercel.app/tour.html?inductee=einstein" target="_blank" rel="noopener noreferrer"
+<a href="https://ihh-turning-points-duayridvf-ihh4.vercel.app/tour.html?inductee=einstein" target="_blank" rel="noopener noreferrer"
    style="display:block;max-width:520px;padding:20px 24px;border-radius:14px;background:#0a0e14;color:#f0e8dd;text-decoration:none">
   <strong style="display:block;font-size:1.25em">Immigrant Hall of Honor</strong>
   <span>Open Albert Einstein's guided tour in its own page.</span>
@@ -74,7 +74,7 @@ On a site that uses the Classic editor, paste both into the **Code** (Text) tab 
 
 ## Replace the museum address
 
-When the museum moves to IHH's own address, every page that shows it must change. Replace `https://ihh-turning-points-rmtf1m1q5-ihh4.vercel.app` with the new address (no slash at the end) in:
+When the museum moves to IHH's own address, every page that shows it must change. Replace `https://ihh-turning-points-duayridvf-ihh4.vercel.app` with the new address (no slash at the end) in:
 
 - the Virtual Museum page (one iframe, `src=".../"`);
 - each inductee page (the iframe `src=".../embed.html?inductee=..."` and the card `href=".../tour.html?inductee=..."`).

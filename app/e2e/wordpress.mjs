@@ -19,7 +19,7 @@
 // Needs network (WordPress, the theme and the Classic Editor plugin come from wordpress.org; the museum is
 // the deployed site), Node 22+ for the Playground CLI (tested with Node 24), and about 10 minutes. Not part of the default gate.
 // usage: MUSEUM_URL=https://... node e2e/wordpress.mjs [method ...] [--keep]   (npm run e2e:wordpress)
-//   MUSEUM_URL defaults to the version 3 preview; --keep leaves WordPress running at the end.
+//   MUSEUM_URL defaults to the version 8 preview; --keep leaves WordPress running at the end.
 import { spawn } from 'node:child_process'
 import { existsSync, mkdirSync, mkdtempSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { homedir, tmpdir } from 'node:os'
@@ -29,7 +29,7 @@ import { fileURLToPath } from 'node:url'
 const { chromium, loadAxe } = await import('./browser.mjs')
 const AxeBuilder = await loadAxe()
 
-const MUSEUM = (process.env.MUSEUM_URL || 'https://ihh-turning-points-b8arwpweq-ihh4.vercel.app').replace(/\/$/, '')
+const MUSEUM = (process.env.MUSEUM_URL || 'https://ihh-turning-points-duayridvf-ihh4.vercel.app').replace(/\/$/, '')
 const PLAYGROUND = '@wp-playground/cli@3.1.61'
 const PORT = Number(process.env.WP_PORT || 9420)
 const SHOTS = fileURLToPath(new URL('../mockup-shots/wordpress/', import.meta.url))
