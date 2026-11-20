@@ -96,6 +96,18 @@
       "notes": "merge_staging 2026-10-30: 1 facts, 8 sources, 9 media, 6 searches merged from round9r.jsonl, round9r.searches.jsonl; 0 duplicates refused"
     },
     {
+      "run_id": "portraits-2026-11-03",
+      "date": "2026-11-03",
+      "adversary": null,
+      "notes": "merge_staging 2026-11-03: 0 facts, 0 sources, 0 media, 16 searches merged from portraits-2026-11-03.searches.jsonl; 0 duplicates refused"
+    },
+    {
+      "run_id": "portraits-2026-11-04",
+      "date": "2026-11-04",
+      "adversary": null,
+      "notes": "merge_staging 2026-11-04: 0 facts, 0 sources, 0 media, 1 searches merged from portraits-2026-11-04.searches.jsonl; 0 duplicates refused"
+    },
+    {
       "run_id": "portrait-2026-11-18",
       "date": "2026-11-18",
       "adversary": null,

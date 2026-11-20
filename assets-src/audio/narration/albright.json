@@ -1,0 +1,566 @@
+{
+ "$comment": "The guide's narration for Madeleine Albright, written to sound like a museum guide (owner decision 2026-10-17), in the same way as einstein.json. A fact line's 'source' is the verified claim (data/inductees/albright/facts.jsonl, status verified), verbatim; 'text' is the caption and what is spoken; 'speak' (optional) only spells out an abbreviation or a number for the voice. A 'room-note' line says what the room model shows, not a fact about Madeleine Albright: its 'source' lists verbatim excerpts of 'basis' (the room's INVENTORY.md), and it may use no content word, date or number those excerpts lack. assets-src/audio/check_narration.py gates both kinds. Audio: build_guide_audio.py, one clip per line per guide voice.",
+ "inductee": "albright",
+ "chapters": {
+  "1": {
+   "title": "From Prague to New York Harbor",
+   "lines": [
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "ALB-F-0177"
+     ],
+     "source": "Albright's father was a Czechoslovak diplomat in Belgrade before the Second World War.",
+     "text": "Albright's father was a Czechoslovak diplomat in Belgrade, before the Second World War."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "ALB-F-0178"
+     ],
+     "source": "When the Nazis invaded Czechoslovakia, Albright's father escaped to Yugoslavia with his wife and baby.",
+     "text": "When the Nazis invaded Czechoslovakia, her father escaped to Yugoslavia with his wife and baby."
+    },
+    {
+     "cue": "c4",
+     "fact_ids": [
+      "ALB-F-0176"
+     ],
+     "source": "Albright remembered a little Serbian from her days in Belgrade as a child.",
+     "text": "She remembered a little Serbian from her days in Belgrade as a child."
+    }
+   ]
+  },
+  "4": {
+   "title": "Arriving",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "ALB-F-0184"
+     ],
+     "source": "Albright arrived in the United States with her mother, her sister and her brother.",
+     "text": "Madeleine Albright arrived in the United States with her mother, her sister and her brother."
+    },
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "ALB-F-0083"
+     ],
+     "source": "Because of her father's job with the United Nations, Albright had the opportunity to come to America.",
+     "text": "Because of her father's job with the United Nations, she had the opportunity to come to America."
+    }
+   ]
+  },
+  "9": {
+   "title": "Why the Hall honours her",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "ALB-F-0044"
+     ],
+     "source": "As secretary of state, Madeleine Albright advocated for democracy and human rights.",
+     "text": "As secretary of state, Madeleine Albright advocated for democracy and human rights."
+    }
+   ]
+  },
+  "10": {
+   "title": "Her legacy",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "ALB-F-0046",
+      "ALB-F-0167",
+      "ALB-F-0169"
+     ],
+     "source": "Madeleine Albright is the author of Fascism: A Warning. Albright was a seven-time New York Times bestselling author. Hell and Other Destinations: A 21st-Century Memoir is a book by Madeleine Albright.",
+     "text": "Madeleine Albright was a seven-time New York Times bestselling author: she is the author of Fascism: A Warning, and Hell and Other Destinations: A 21st-Century Memoir is a book by her.",
+     "speak": "Madeleine Albright was a seven-time New York Times bestselling author: she is the author of Fascism: A Warning, and Hell and Other Destinations: A Twenty-First-Century Memoir is a book by her."
+    }
+   ]
+  },
+  "15": {
+   "title": "Records at the stops (what each shows, and why it matters here)",
+   "lines": [
+    {
+     "cue": "r1",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0081"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Old town square and Teyn Church, Prague, Czechoslovakia"
+     ],
+     "text": "Here is the Old town square and Teyn Church, Prague, Czechoslovakia."
+    },
+    {
+     "cue": "r2",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0057"
+     ],
+     "fact_ids": [
+      "ALB-F-0196"
+     ],
+     "source": [
+      "On April 20, 1993, President Clinton, United Nations Ambassador Madeleine Albright and Secretary of State Warren Christopher looked at a book given to the President by President Vaclav Havel of Czechoslovakia."
+     ],
+     "text": "On April 20, 1993, President Clinton, United Nations Ambassador Madeleine Albright and Secretary of State Warren Christopher looked at a book given to the President by President Vaclav Havel of Czechoslovakia."
+    },
+    {
+     "cue": "r3",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0076"
+     ],
+     "fact_ids": [],
+     "source": [
+      "United States Lines. Tourist lounge, general",
+      "Gottscho-Schleisner, Inc."
+     ],
+     "text": "This photograph by Gottscho-Schleisner shows a tourist lounge of the United States Lines."
+    },
+    {
+     "cue": "r7",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0002"
+     ],
+     "fact_ids": [],
+     "source": [
+      "R. Michael Jenkins",
+      "1993",
+      "Photograph shows Madeleine Albright testifying in front of the Senate Foreign Relations Committee during her confirmation hearing to be U.S. ambassador to the United Nations; she is holding a copy of the U.N. Charter."
+     ],
+     "text": "In this photograph by R. Michael Jenkins, of 1993, she is testifying in front of the Senate Foreign Relations Committee during her confirmation hearing, holding a copy of the U.N. Charter."
+    },
+    {
+     "cue": "r8",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0058"
+     ],
+     "fact_ids": [],
+     "source": [
+      "January 27, 1993",
+      "Contact sheet with photographs of Vice President Gore swearing in Madeleine Albright as Ambassador to the United Nations."
+     ],
+     "text": "On this contact sheet of January 27, 1993: photographs of Vice President Gore swearing her in as Ambassador to the United Nations."
+    },
+    {
+     "cue": "r9",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0061"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Ambassador Albright with Ambassador Steinberg upon her arrival in Angola, January 1996."
+     ],
+     "text": "Here she is with Ambassador Steinberg upon her arrival in Angola, in January 1996."
+    },
+    {
+     "cue": "r10",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0049"
+     ],
+     "fact_ids": [
+      "ALB-F-0170"
+     ],
+     "source": [
+      "U.N. Security Council Chamber, United Nations, New York",
+      "photograph by Bernard Gotfryd",
+      "From 1993 to 1997, Albright served as the U.S. Permanent Representative to the United Nations."
+     ],
+     "text": "This photograph by Bernard Gotfryd shows the U.N. Security Council Chamber, United Nations, New York. From 1993 to 1997, Albright served as the U.S. Permanent Representative to the United Nations."
+    },
+    {
+     "cue": "r11",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0088"
+     ],
+     "fact_ids": [],
+     "source": [
+      "President Clinton speaking with Ambassador to the United Nations Madeleine Albright and others in the Oval Office"
+     ],
+     "text": "Here is the Oval Office: President Clinton speaking with Ambassador to the United Nations Madeleine Albright and others."
+    },
+    {
+     "cue": "r12",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0059"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Swearing-In Ceremony for Madeleine Albright as Secretary of State",
+      "January 23, 1997",
+      "Ralph Alswang, White House Photograph Office"
+     ],
+     "text": "Here is the Swearing-In Ceremony for Madeleine Albright as Secretary of State, January 23, 1997, photographed by Ralph Alswang."
+    },
+    {
+     "cue": "r13",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0055"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Memo from Madeleine Albright to President Clinton",
+      "William J. Clinton Library, National Archives and Records Administration"
+     ],
+     "text": "Here are the pages of a memo from Madeleine Albright to President Clinton, from the William J. Clinton Library."
+    },
+    {
+     "cue": "r14",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0015"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Camp Bonifas, Panmunjom, South Korea: Secretary of State Madeleine Albright shakes hands with American family members.",
+      "February 22, 1997"
+     ],
+     "text": "At Camp Bonifas, Panmunjom, South Korea, on February 22, 1997, she shakes hands with American family members."
+    },
+    {
+     "cue": "r15",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0016"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Sharon Farmer, White House Photograph Office",
+      "October 15, 1998",
+      "President Clinton and Secretary of State Madeleine Albright talk during the Wye River Plenary Session near Queenstown, Maryland."
+     ],
+     "text": "In this photograph by Sharon Farmer, of October 15, 1998, she and President Clinton talk during the Wye River Plenary Session, near Queenstown, Maryland."
+    },
+    {
+     "cue": "r16",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0060"
+     ],
+     "fact_ids": [
+      "ALB-F-0150"
+     ],
+     "source": [
+      "Secretary Madeleine K. Albright at the Truman Library, Independence, Missouri",
+      "March 1999",
+      "Secretary Madeleine K. Albright was at the Truman Library, Independence, Missouri, for the NATO Enlargement Ceremony in March 1999."
+     ],
+     "text": "Here she is at the Truman Library, Independence, Missouri, in March 1999, for the NATO Enlargement Ceremony."
+    },
+    {
+     "cue": "r17",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0071"
+     ],
+     "fact_ids": [],
+     "source": [
+      "R. D. Ward",
+      "Secretary of Defense William Cohen, accompanied by Secretary of State Madeleine Albright (right), speaks during a press conference, held July 8, 1997, at the Miguel Angel Hotel, Madrid, Spain."
+     ],
+     "text": "In this photograph by R. D. Ward, Secretary of Defense William Cohen, accompanied by her, speaks during the press conference at the Miguel Angel Hotel, Madrid, on July 8, 1997."
+    },
+    {
+     "cue": "r19",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0082"
+     ],
+     "fact_ids": [],
+     "source": [
+      "White House Photo Office",
+      "President Barack Obama presents the Presidential Medal of Freedom during a ceremony in the East Room of the White House, May 29, 2012."
+     ],
+     "text": "This White House photograph shows President Barack Obama presenting the Presidential Medal of Freedom during the ceremony in the East Room, May 29, 2012."
+    },
+    {
+     "cue": "r20",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0090"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Funeral Service for Former Secretary of State Albright",
+      "Freddie Everett, U.S. Department of State"
+     ],
+     "text": "Funeral Service for Former Secretary of State Albright: a photograph by Freddie Everett, U.S. Department of State."
+    },
+    {
+     "cue": "r21",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0018"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Photograph: President Barack Obama greets former Secretary of State Madeleine Albright prior to a screening of the film \"Nuclear Tipping Point\" in the Family Theater of the White House, April 6, 2010."
+     ],
+     "text": "On April 6, 2010, President Barack Obama greets her in the Family Theater of the White House."
+    },
+    {
+     "cue": "r22",
+     "kind": "record",
+     "media_ids": [
+      "ALB-SERIES-CEREMONY-2016"
+     ],
+     "fact_ids": [
+      "ALB-F-0026",
+      "ALB-F-0198"
+     ],
+     "source": [
+      "Albright became a U.S. citizen in 1957.",
+      "On September 14, 2016, Madeleine Albright was at the naturalization ceremony at the National Archives in Washington to make remarks.",
+      "Madeleine Albright make remarks during the naturalization ceremony at the National Archives in Washington, D.C., September 14, 2016.",
+      "prepare the rotunda for a naturalization ceremony"
+     ],
+     "text": "Here are photographs of the naturalization ceremony at the National Archives in Washington, D.C., on September 14, 2016, and of the rotunda, prepared for it. 59 years after she became a U.S. citizen, she was at the ceremony to make remarks.",
+     "speak": "Here are photographs of the naturalization ceremony at the National Archives in Washington, D.C., on September 14, 2016, and of the rotunda, prepared for it. Fifty-nine years after she became a U.S. citizen, she was at the ceremony to make remarks."
+    }
+   ]
+  },
+  "birth": {
+   "opening": {
+    "text": "Madeleine Albright was born in Prague, Czechoslovakia, on May 15, 1937. Take a moment and look around.",
+    "source": [
+     "Madeleine Albright was born on May 15, 1937.",
+     "Madeleine Albright was born in Prague.",
+     "Madeleine Albright was born in Czechoslovakia."
+    ],
+    "fact_ids": [
+     "ALB-F-0003",
+     "ALB-F-0041",
+     "ALB-F-0080"
+    ],
+    "speak": "Madeleine Albright was born in Prague, Czechoslovakia, on May fifteenth, 1937. Take a moment and look around."
+   }
+  },
+  "arriving": {
+   "opening": {
+    "text": "In 1948, eleven years after she was born in Prague, Madeleine Albright steamed into New York Harbor, past the Statue of Liberty: her family immigrated to the United States. Take a moment and look around.",
+    "source": [
+     "Madeleine Albright was born on May 15, 1937.",
+     "Madeleine Albright was born in Prague.",
+     "In 1948 Albright's family immigrated to the United States.",
+     "Albright steamed into New York Harbor, past the Statue of Liberty."
+    ],
+    "fact_ids": [
+     "ALB-F-0003",
+     "ALB-F-0041",
+     "ALB-F-0175",
+     "ALB-F-0183"
+    ]
+   }
+  },
+  "citizen": {
+   "opening": {
+    "text": "In 1957, nine years after her family immigrated to the United States, Madeleine Albright became a U.S. citizen. Take a moment and look around.",
+    "source": [
+     "Albright became a U.S. citizen in 1957.",
+     "Madeleine Albright was a naturalized citizen.",
+     "In 1948 Albright's family immigrated to the United States."
+    ],
+    "fact_ids": [
+     "ALB-F-0026",
+     "ALB-F-0074",
+     "ALB-F-0175"
+    ]
+   }
+  },
+  "big-work": {
+   "opening": {
+    "text": "In 1993, Madeleine Albright, who became a U.S. citizen in 1957, was appointed Ambassador to the United Nations by President Clinton. Walk around, if you like.",
+    "source": [
+     "Albright became a U.S. citizen in 1957.",
+     "In 1993 Albright was appointed Ambassador to the United Nations by President Clinton.",
+     "Madeleine Albright testified in front of the Senate Foreign Relations Committee during her confirmation hearing to be U.S. ambassador to the United Nations."
+    ],
+    "fact_ids": [
+     "ALB-F-0026",
+     "ALB-F-0029",
+     "ALB-F-0051"
+    ]
+   }
+  },
+  "secretary": {
+   "kind": "big-work",
+   "opening": {
+    "text": "On January 22, 1997, Madeleine Albright was confirmed as Secretary of State by the U.S. Senate. She was sworn in, in the Oval Office, on January 23, 1997, and Vice President Gore administered the oath of office. Take a moment and look around.",
+    "source": [
+     "Madeleine Korbel Albright was confirmed as Secretary of State by the U.S. Senate on January 22, 1997.",
+     "Vice President Gore administered the oath of office at the swearing-in ceremony of Madeleine Albright as Secretary of State.",
+     "Madeleine Albright was sworn in as Secretary of State in the Oval Office on January 23, 1997."
+    ],
+    "fact_ids": [
+     "ALB-F-0023",
+     "ALB-F-0138",
+     "ALB-F-0193"
+    ],
+    "speak": "On January twenty-second, 1997, Madeleine Albright was confirmed as Secretary of State by the U.S. Senate. She was sworn in, in the Oval Office, on January twenty-third, 1997, and Vice President Gore administered the oath of office. Take a moment and look around."
+   }
+  },
+  "history": {
+   "opening": {
+    "text": "On July 8, 1997, Madeleine Albright talked to reporters in Madrid. At the NATO summit, the decision was to invite Poland, Hungary, and the Czech Republic. On July 14, 1997, she addressed the People of Prague at Obecni Dum. She was U.S. Secretary of State from 1997 to 2001. Have a look around.",
+    "source": [
+     "On July 14, 1997, Secretary of State Madeleine K. Albright addressed the People of Prague at Obecni Dum.",
+     "Madeleine Albright was U.S. Secretary of State from 1997 to 2001.",
+     "On July 8, 1997, at the Miguel Angel Hotel, Madrid, Spain, Secretary of State Madeleine Albright and Secretary of Defense William Cohen talked to reporters about the decision, made at the NATO summit, to invite Poland, Hungary, and the Czech Republic to begin accession negotiations to join the NATO alliance."
+    ],
+    "fact_ids": [
+     "ALB-F-0095",
+     "ALB-F-0162",
+     "ALB-F-0200"
+    ]
+   }
+  },
+  "honoured": {
+   "opening": {
+    "text": "Madeleine Albright was a recipient of the Presidential Medal of Freedom. On May 29, 2012, eleven years after her farewell remarks as Secretary of State, President Barack Obama presented it during a ceremony in the East Room of the White House. Take a moment and look around.",
+    "source": [
+     "Secretary of State Madeleine K. Albright's farewell remarks at the U.S. Department of State were on January 19, 2001.",
+     "Madeleine Albright was a recipient of the Presidential Medal of Freedom that President Barack Obama presented during a ceremony in the East Room of the White House, May 29, 2012."
+    ],
+    "fact_ids": [
+     "ALB-F-0195",
+     "ALB-F-0201"
+    ]
+   }
+  },
+  "legacy": {
+   "opening": {
+    "text": "Madeleine Albright was a diplomat. Take a moment here.",
+    "source": [
+     "Madeleine Albright was a diplomat."
+    ],
+    "fact_ids": [
+     "ALB-F-0174"
+    ]
+   }
+  },
+  "14": {
+   "title": "Round 7: her last years and her funeral",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "ALB-F-0203"
+     ],
+     "source": "The funeral of Secretary of State Madeleine Albright was at the Washington National Cathedral, Washington, D.C., on April 27, 2022.",
+     "text": "The funeral of Secretary of State Madeleine Albright was at the Washington National Cathedral, Washington, D.C., on April 27, 2022."
+    },
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "ALB-F-0195"
+     ],
+     "source": "Secretary of State Madeleine K. Albright's farewell remarks at the U.S. Department of State were on January 19, 2001.",
+     "text": "Her farewell remarks as Secretary of State, at the U.S. Department of State, were on January 19, 2001."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "ALB-F-0004"
+     ],
+     "source": "Madeleine Albright died on March 23, 2022.",
+     "text": "Madeleine Albright died on March 23, 2022."
+    }
+   ]
+  },
+  "21": {
+   "title": "Round 9: more records per chapter (owner directive 2026-10-29)",
+   "lines": [
+    {
+     "cue": "r1",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0092"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Senate resolution",
+      "honoring Madeleine K. Albright"
+     ],
+     "text": "Here is a Senate resolution honoring Madeleine K. Albright."
+    },
+    {
+     "cue": "r2",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0094"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Statement of Hon. Madeleine Albright, Secretary of State, Senate Foreign Relations hearing, October 7, 1997"
+     ],
+     "text": "Here is the Statement of Madeleine Albright, Secretary of State, at the Senate Foreign Relations hearing of October 7, 1997.",
+     "speak": "Here is the Statement of Madeleine Albright, Secretary of State, at the Senate Foreign Relations hearing of October seventh, 1997."
+    },
+    {
+     "cue": "r3",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0095"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Remarks on Presenting the Presidential Medals of Freedom, May 29, 2012",
+      "President Obama"
+     ],
+     "text": "Here are President Obama's Remarks on Presenting the Presidential Medals of Freedom, May 29, 2012.",
+     "speak": "Here are President Obama's Remarks on Presenting the Presidential Medals of Freedom, May twenty-ninth, 2012."
+    },
+    {
+     "cue": "r4",
+     "kind": "record",
+     "media_ids": [
+      "ALB-M-0096"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Proclamation 10351: Death of Madeleine Korbel Albright (March 23, 2022)"
+     ],
+     "text": "Here is Proclamation 10351: Death of Madeleine Korbel Albright, March 23, 2022.",
+     "speak": "Here is Proclamation 10351: Death of Madeleine Korbel Albright, March twenty-third, 2022."
+    },
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "ALB-F-0053"
+     ],
+     "source": "Secretary of State Madeleine K. Albright testified during the Senate Foreign Relations hearing on the merits of expanding NATO.",
+     "text": "As Secretary of State, Madeleine Albright testified during the Senate Foreign Relations hearing on the merits of expanding NATO."
+    },
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "ALB-F-0123"
+     ],
+     "source": "Secretary of State Madeleine Albright testified at the Senate Appropriations Committee hearings on the proposed enlargement of the NATO alliance.",
+     "text": "As Secretary of State, she testified at the Senate Appropriations Committee hearings on the proposed enlargement of the NATO alliance."
+    },
+    {
+     "cue": "m1",
+     "fact_ids": [
+      "ALB-F-0168"
+     ],
+     "source": "Madeleine Albright's family fled Czechoslovakia.",
+     "text": "Madeleine Albright's family fled Czechoslovakia."
+    }
+   ]
+  }
+ }
+}

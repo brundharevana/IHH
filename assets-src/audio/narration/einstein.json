@@ -1,0 +1,656 @@
+{
+ "$comment": "The guide's narration for Albert Einstein, rewritten to sound like a museum guide (owner decision 2026-10-17). Each line keeps its source cue and fact ids. 'source' is the approved chapter sentence (content/einstein/chapters/<n>.json, itself checked against the verified claim); 'text' is the caption and what is spoken, 'speak' (optional) only spells out an abbreviation for the voice. Only pronouns, connectives and word order may differ from 'source': assets-src/audio/check_narration.py fails if a content word, date, place or number of the source is missing or a new one is added (names may become pronouns after the first mention; connectives are listed there). Audio: build_guide_audio.py, one clip per line per guide voice. A chapter keyed by its kind (birth, leaving, ...; app/src/tour/data/chapters.js) carries that chapter's opening line (spec 2.5, owner feedback round 8: a human sentence, not a dateline: what happened, where and when, one human detail, an invitation to look around): 'source' lists the verbatim claims of its 'fact_ids', and check_narration.py allows no date, number, place or content word they lack beyond a short invitation list. Voice key '<slug>:ch:<kind>:opening'.",
+ "inductee": "einstein",
+ "chapters": {
+  "1": {
+   "title": "American citizenship",
+   "lines": [
+    {
+     "cue": "c5",
+     "fact_ids": [
+      "EIN-F-0045"
+     ],
+     "source": "The Declaration of Intention for Albert Einstein is from 15 January 1936.",
+     "text": "Albert Einstein's Declaration of Intention is from 15 January 1936."
+    },
+    {
+     "cue": "c6",
+     "fact_ids": [
+      "EIN-F-0057"
+     ],
+     "source": "A photograph of Albert Einstein is affixed to the Declaration of Intention.",
+     "text": "Look closely: a photograph of him is affixed to the Declaration of Intention."
+    },
+    {
+     "cue": "c8",
+     "fact_ids": [
+      "EIN-F-0056"
+     ],
+     "source": "Albert Einstein's Petition for Naturalization has petition number 4009, assigned by the U.S. District Court for the District of New Jersey, Trenton.",
+     "text": "His Petition for Naturalization has petition number 4009, assigned by the U.S. District Court for the District of New Jersey, Trenton.",
+     "speak": "His Petition for Naturalization has petition number forty oh nine, assigned by the U.S. District Court for the District of New Jersey, in Trenton."
+    }
+   ]
+  },
+  "2": {
+   "title": "The study at 112 Mercer Street",
+   "lines": [
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "EIN-F-0054"
+     ],
+     "source": "Albert Einstein was working as a consultant to the United States Government during World War II.",
+     "text": "During World War II, Albert Einstein was working as a consultant to the United States Government.",
+     "speak": "During World War Two, Albert Einstein was working as a consultant to the United States Government."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "EIN-F-0055"
+     ],
+     "source": "Albert Einstein was doing research for the Bureau of Ordnance, in his study at Princeton, N.J.",
+     "text": "In his study at Princeton, N.J., he was doing research for the Bureau of Ordnance.",
+     "speak": "In his study at Princeton, New Jersey, he was doing research for the Bureau of Ordnance."
+    },
+    {
+     "cue": "c4",
+     "fact_ids": [
+      "EIN-F-0062",
+      "EIN-F-0063"
+     ],
+     "source": "Nine letters were written by Albert Einstein to Lieutenant Stephen Brunauer of the Research and Development Division. Albert Einstein's letters to Lieutenant Stephen Brunauer relate to Einstein's research with the Research and Development Division of the Navy, specifically underwater explosions and a proposed electromagnetic torpedo detonator.",
+     "text": "Nine letters were written by him to Lieutenant Stephen Brunauer, of the Research and Development Division, and the letters relate to his research with the Research and Development Division of the Navy, specifically underwater explosions and a proposed electromagnetic torpedo detonator."
+    },
+    {
+     "cue": "c6",
+     "fact_ids": [
+      "EIN-F-0065"
+     ],
+     "source": "Albert Einstein's letter of June 18, 1943 to Lieutenant Stephen Brunauer discusses Albert Einstein's idea of an electro-magnetic device that will automatically explode a torpedo as it passes underneath a ship.",
+     "text": "Take his letter of June 18, 1943, to Lieutenant Stephen Brunauer. It discusses his idea of an electro-magnetic device that will automatically explode a torpedo as it passes underneath a ship."
+    },
+    {
+     "cue": "c7",
+     "fact_ids": [
+      "EIN-F-0067"
+     ],
+     "source": "In a letter of July 30, 1943, Albert Einstein reveals that he has come up with a mathematical simplification to analyze the impact an underwater explosion would have on the hull of an armored ship.",
+     "text": "In a letter of July 30, 1943, he reveals that he has come up with a mathematical simplification, to analyze the impact an underwater explosion would have on the hull of an armored ship."
+    },
+    {
+     "cue": "c8",
+     "fact_ids": [
+      "EIN-F-0069"
+     ],
+     "source": "Signed copies of a contract and naturalization papers were enclosed with Albert Einstein's letter of August 13, 1943 to Lieutenant Stephen Brunauer.",
+     "text": "Enclosed with his letter of August 13, 1943, to Lieutenant Stephen Brunauer, were signed copies of a contract and naturalization papers."
+    },
+    {
+     "cue": "c10",
+     "kind": "museum-note",
+     "fact_ids": [
+      "EIN-F-0055"
+     ],
+     "media_ids": [
+      "EIN-M-0013",
+      "EIN-M-0014"
+     ],
+     "source": "In this room, a corner recreates Einstein's study at Princeton, N.J., as two 1943 National Archives photographs show it.",
+     "text": "In this room, a corner recreates his study at Princeton, N.J., as two 1943 National Archives photographs show it.",
+     "speak": "In this room, a corner recreates his study at Princeton, New Jersey, as two 1943 National Archives photographs show it."
+    }
+   ]
+  },
+  "5": {
+   "title": "Arriving in New York, 1933",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "EIN-F-0123"
+     ],
+     "source": "On October 17, 1933, Prof. Albert Einstein was taken off the liner Westernland at Quarantine and sped ashore by tug.",
+     "text": "On October 17, 1933, Prof. Albert Einstein was taken off the liner Westernland at Quarantine, and sped ashore by tug.",
+     "speak": "On October 17, 1933, Professor Albert Einstein was taken off the liner Westernland at Quarantine, and sped ashore by tug."
+    },
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "EIN-F-0125"
+     ],
+     "source": "Einstein arrived accompanied by Mrs. Einstein and Dr Walther Mayer, of Vienna, his assistant.",
+     "text": "He arrived accompanied by Mrs. Einstein and Dr Walther Mayer, of Vienna, his assistant.",
+     "speak": "He arrived accompanied by Missus Einstein and Doctor Walther Mayer, of Vienna, his assistant."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "EIN-F-0126"
+     ],
+     "source": "In October 1933, Prof. Einstein came to Princeton by automobile after he had debarked from the liner.",
+     "text": "In October 1933, he came to Princeton by automobile, after he had debarked from the liner."
+    },
+    {
+     "cue": "c4",
+     "fact_ids": [
+      "EIN-F-0128"
+     ],
+     "source": "When Albert Einstein first came to Princeton in 1933, he lived at 2 Library Place.",
+     "text": "When he first came to Princeton in 1933, he lived at the address 2 Library Place."
+    }
+   ]
+  },
+  "6": {
+   "title": "Part of history",
+   "lines": [
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "EIN-F-0135"
+     ],
+     "source": "Alexander Sachs delivered Einstein's letter to President Roosevelt on October 11, 1939.",
+     "text": "Alexander Sachs delivered Einstein's letter to President Roosevelt on October 11, 1939."
+    },
+    {
+     "cue": "c5",
+     "fact_ids": [
+      "EIN-F-0076"
+     ],
+     "source": "Albert Einstein's letter of November 29, 1947 includes the article \"Atomic War or Peace,\" authored by Albert Einstein.",
+     "text": "His letter of November 29, 1947 includes the article “Atomic War or Peace,” which he authored."
+    },
+    {
+     "cue": "c6",
+     "fact_ids": [
+      "EIN-F-0077"
+     ],
+     "source": "In \"Atomic War or Peace,\" Albert Einstein discusses his opinion on the need of a supranational agreement for the regulation and use of nuclear weaponry.",
+     "text": "In “Atomic War or Peace,” he discusses his opinion on the need of a supranational agreement for the regulation and use of nuclear weaponry."
+    }
+   ]
+  },
+  "7": {
+   "title": "112 Mercer Street",
+   "lines": [
+    {
+     "cue": "c8",
+     "fact_ids": [
+      "EIN-F-0087"
+     ],
+     "source": "Albert Einstein had a home study at 112 Mercer Street, Princeton, New Jersey.",
+     "text": "Albert Einstein had a home study at 112 Mercer Street, in Princeton, New Jersey.",
+     "speak": "Albert Einstein had a home study at one twelve Mercer Street, in Princeton, New Jersey."
+    },
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "EIN-F-0132"
+     ],
+     "source": "In 1976, the house at 112 Mercer Street in Princeton was designated a National Historic Landmark.",
+     "text": "In 1976, the house at 112 Mercer Street, in Princeton, was designated a National Historic Landmark.",
+     "speak": "In 1976, the house at one twelve Mercer Street, in Princeton, was designated a National Historic Landmark."
+    },
+    {
+     "cue": "c7",
+     "fact_ids": [
+      "EIN-F-0107"
+     ],
+     "source": "112 Mercer Street remained Albert Einstein's home until his death in 1955.",
+     "text": "112 Mercer Street remained his home until his death in 1955.",
+     "speak": "One twelve Mercer Street remained his home until his death in 1955."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "EIN-F-0006"
+     ],
+     "source": "Albert Einstein died on April 18, 1955 at Princeton, New Jersey.",
+     "text": "He died on April 18, 1955, at Princeton, New Jersey."
+    }
+   ]
+  },
+  "9": {
+   "title": "The Nobel Prize",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "EIN-F-0148"
+     ],
+     "source": "Albert Einstein received a Nobel Prize for Physics for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect.",
+     "text": "Albert Einstein received a Nobel Prize for Physics for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect."
+    }
+   ]
+  },
+  "12": {
+   "title": "Records at the stops (what each shows, and why it matters here)",
+   "lines": [
+    {
+     "cue": "r1",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0075"
+     ],
+     "fact_ids": [],
+     "source": [
+      "[Ulm, Wurtemburg, Germany], photochrom print, between ca. 1890 and ca. 1900."
+     ],
+     "text": "This photochrom print shows Ulm, Wurtemburg, Germany, between 1890 and 1900."
+    },
+    {
+     "cue": "r4",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0082"
+     ],
+     "fact_ids": [],
+     "source": [
+      "the first page of A. Einstein, Zur Elektrodynamik bewegter Körper, in Annalen der Physik und Chemie 1905"
+     ],
+     "text": "Here is the first page of Zur Elektrodynamik bewegter Körper, by A. Einstein, in Annalen der Physik und Chemie, 1905."
+    },
+    {
+     "cue": "r5",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0083"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The first page of A. Einstein, Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt, in Annalen der Physik und Chemie 1905, Vol 17."
+     ],
+     "text": "Here is the first page of Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt, by A. Einstein, in Annalen der Physik und Chemie, 1905."
+    },
+    {
+     "cue": "r6",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0078"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Einstein Is to Renounce Citizenship",
+      "The daily Alaska empire, March 30, 1933"
+     ],
+     "text": "Here is The daily Alaska empire of March 30, 1933: Einstein Is to Renounce Citizenship."
+    },
+    {
+     "cue": "r7",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0077"
+     ],
+     "fact_ids": [
+      "EIN-F-0153"
+     ],
+     "source": [
+      "The daily worker, March 31, 1933",
+      "Albert Einstein informed the German Consulate in Brussels"
+     ],
+     "text": "Here is The daily worker of March 31, 1933: Albert Einstein informed the German Consulate in Brussels."
+    },
+    {
+     "cue": "r8",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0074"
+     ],
+     "fact_ids": [],
+     "source": [
+      "leaving the Battery in a drizzling rain",
+      "1933"
+     ],
+     "text": "Here is the Battery in 1933, in a drizzling rain."
+    },
+    {
+     "cue": "r9",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0063"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Letter from Albert Einstein to President Franklin D. Roosevelt; 8/2/1939",
+      "Franklin D. Roosevelt Library, Hyde Park, NY"
+     ],
+     "text": "Here is his letter to President Franklin D. Roosevelt, of August 2, 1939. It is at the Franklin D. Roosevelt Library, in Hyde Park."
+    },
+    {
+     "cue": "r10",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0019"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Record of naturalization for Albert Einstein which includes a Certificate of Arrival, Declaration of Intention, Petition for Naturalization, and Oath of Allegiance.",
+      "National Archives at Philadelphia"
+     ],
+     "text": "Here is his record of naturalization, at the National Archives at Philadelphia: a Certificate of Arrival, a Declaration of Intention, a Petition for Naturalization and an Oath of Allegiance."
+    },
+    {
+     "cue": "r11",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0002"
+     ],
+     "fact_ids": [],
+     "source": [
+      "America gains a famous citizen",
+      "1940",
+      "Photo by Al. Aumuller"
+     ],
+     "text": "America gains a famous citizen: here is the photograph by Al. Aumuller, from 1940."
+    },
+    {
+     "cue": "r12",
+     "kind": "record",
+     "media_ids": [
+      "EIN-SERIES-BRUNAUER"
+     ],
+     "fact_ids": [],
+     "source": [
+      "1943-1944"
+     ],
+     "text": "Here are his letters, from 1943 to 1944."
+    },
+    {
+     "cue": "r13",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0013"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Dr. Albert Einstein With Lieutenant (jg) Clifford L. Comstock",
+      "in his study at Princeton, N.J. Lieut (jg) Clifford L. Comstock; USNR, a student officer at NTS Princeton, at left. 24 July 1943."
+     ],
+     "text": "In this photograph of 24 July 1943, he is in his study at Princeton, N.J., with Lieutenant Clifford L. Comstock, a student officer, at left.",
+     "speak": "In this photograph of 24 July 1943, he is in his study at Princeton, New Jersey, with Lieutenant Clifford L. Comstock, a student officer, at left."
+    },
+    {
+     "cue": "r14",
+     "kind": "record",
+     "media_ids": [
+      "EIN-PIPE-RECREATION"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Einstein's Brier Pipe",
+      "Recreation from reference photographs; not the original object"
+     ],
+     "text": "This brier pipe is a recreation from reference photographs, not the original object."
+    },
+    {
+     "cue": "r20",
+     "kind": "record",
+     "media_ids": [
+      "EIN-SERIES-GOTHENBURG-1923"
+     ],
+     "fact_ids": [
+      "EIN-F-0151"
+     ],
+     "source": [
+      "Anders Wilhelm Karnell",
+      "Albert Einstein lectures to the Nordic Assembly of Naturalists in the Kongresshallen, Gothenburg, July 11, 1923",
+      "King Gustaf was among those present at Einstein's address at Gottenberg, Sweden."
+     ],
+     "text": "Here are photographs by Anders Wilhelm Karnell: he lectures to the Nordic Assembly of Naturalists in Gothenburg, July 11, 1923. King Gustaf was among those present."
+    },
+    {
+     "cue": "r21",
+     "kind": "record",
+     "media_ids": [
+      "EIN-SERIES-SEATED-1954"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Alan Richards",
+      "1954",
+      "seated in his home study at 112 Mercer Street, Princeton, New Jersey"
+     ],
+     "text": "Here are photographs by Alan Richards, from 1954, of him seated in his home study at 112 Mercer Street, Princeton, New Jersey.",
+     "speak": "Here are photographs by Alan Richards, from 1954, of him seated in his home study at one twelve Mercer Street, Princeton, New Jersey."
+    },
+    {
+     "cue": "r22",
+     "kind": "record",
+     "media_ids": [
+      "EIN-SERIES-STANDING"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Alan Richards",
+      "standing in his home study at 112 Mercer Street",
+      "looking out the window"
+     ],
+     "text": "Here are photographs by Alan Richards of him standing in his home study at 112 Mercer Street, and looking out the window.",
+     "speak": "Here are photographs by Alan Richards of him standing in his home study at one twelve Mercer Street, and looking out the window."
+    }
+   ]
+  },
+  "birth": {
+   "opening": {
+    "text": "Albert Einstein was born in Ulm, Germany, on 14 March 1879. Take a moment and look around.",
+    "source": [
+     "Albert Einstein was born 14 March 1879 in Ulm, Germany."
+    ],
+    "fact_ids": [
+     "EIN-F-0005"
+    ]
+   }
+  },
+  "leaving": {
+   "opening": {
+    "text": "Albert Einstein renounced his German citizenship in 1933, eleven years after he received his Nobel Prize. Take your time here.",
+    "source": [
+     "In 1933 Albert Einstein renounced his German citizenship.",
+     "Albert Einstein received his Nobel Prize in 1922."
+    ],
+    "fact_ids": [
+     "EIN-F-0109",
+     "EIN-F-0147"
+    ]
+   }
+  },
+  "arriving": {
+   "opening": {
+    "text": "Albert Einstein immigrated to the United States. In October 1933, the same year he renounced his German citizenship, his party landed at the Battery, in New York. Have a look around.",
+    "source": [
+     "Albert Einstein immigrated to the United States.",
+     "In 1933 Albert Einstein renounced his German citizenship.",
+     "On October 17, 1933, the Einstein party landed at the Battery in New York."
+    ],
+    "fact_ids": [
+     "EIN-F-0108",
+     "EIN-F-0109",
+     "EIN-F-0124"
+    ]
+   }
+  },
+  "citizen": {
+   "opening": {
+    "text": "A year after his letter to the President, Albert Einstein received his certificate of American citizenship from Judge Phillip Forman, on October 1. Take a moment and look around.",
+    "source": [
+     "On 1940 Oct. 1, Albert Einstein was photographed receiving from Judge Phillip Forman his certificate of American citizenship.",
+     "Alexander Sachs delivered Einstein's letter to President Roosevelt on October 11, 1939."
+    ],
+    "fact_ids": [
+     "EIN-F-0051",
+     "EIN-F-0135"
+    ]
+   }
+  },
+  "big-work": {
+   "opening": {
+    "text": "In September 1943, three years after he received his certificate of American citizenship, Albert Einstein was engaged in research work for the U.S. Navy, at Princeton, N.J. Walk around, if you like.",
+    "source": [
+     "On 1940 Oct. 1, Albert Einstein was photographed receiving from Judge Phillip Forman his certificate of American citizenship.",
+     "On 1 Sept. 1943, Dr. Albert Einstein at Princeton, N.J. is engaged in research work for the U.S. Navy."
+    ],
+    "fact_ids": [
+     "EIN-F-0051",
+     "EIN-F-0138"
+    ],
+    "speak": "In September 1943, three years after he received his certificate of American citizenship, Albert Einstein was engaged in research work for the U.S. Navy, at Princeton, New Jersey. Walk around, if you like."
+   }
+  },
+  "history": {
+   "opening": {
+    "text": "In 1939, six years after he first came to Princeton, Albert Einstein signed a letter to President Roosevelt. Take your time here.",
+    "source": [
+     "Albert Einstein signed a letter to President Roosevelt.",
+     "When Albert Einstein first came to Princeton in 1933, he lived at 2 Library Place.",
+     "Alexander Sachs delivered Einstein's letter to President Roosevelt on October 11, 1939."
+    ],
+    "fact_ids": [
+     "EIN-F-0110",
+     "EIN-F-0128",
+     "EIN-F-0135"
+    ]
+   }
+  },
+  "honoured": {
+   "opening": {
+    "text": "Albert Einstein received a Nobel Prize for Physics. In Gottenberg [sic], Sweden, he delivered an address before a scientific body on his theory of relativity. Walk around, if you like.",
+    "source": [
+     "Albert Einstein received a Nobel Prize for Physics for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect.",
+     "Einstein delivered an address at Gottenberg, Sweden, before a scientific body on his theory of relativity."
+    ],
+    "fact_ids": [
+     "EIN-F-0148",
+     "EIN-F-0150"
+    ],
+    "speak": "Albert Einstein received a Nobel Prize for Physics. In Gottenberg, Sweden, he delivered an address before a scientific body on his theory of relativity. Walk around, if you like."
+   }
+  },
+  "legacy": {
+   "opening": {
+    "text": "Albert Einstein pursued a unified field theory. Take a moment and look around.",
+    "source": [
+     "Albert Einstein pursued a unified field theory."
+    ],
+    "fact_ids": [
+     "EIN-F-0111"
+    ]
+   }
+  },
+  "21": {
+   "title": "Round 9: more records per chapter (owner directive 2026-10-29)",
+   "lines": [
+    {
+     "cue": "r1",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0085"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Einstein siblings as children, 1885",
+      "Einstein, Albert (1879-1955), Winteler-Einstein, Maja (1881-1951)"
+     ],
+     "text": "Here are the Einstein siblings as children, 1885: Albert Einstein and Maja Winteler-Einstein."
+    },
+    {
+     "cue": "r2",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0086"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Connecticut Hebrew record (Hartford, Conn.)",
+      "April 1, 1921",
+      "Einstein"
+     ],
+     "text": "Here is the Connecticut Hebrew record of April 1, 1921, on Einstein.",
+     "speak": "Here is the Connecticut Hebrew record of April first, 1921, on Einstein."
+    },
+    {
+     "cue": "r3",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0087"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Evening star (Washington, D.C.)",
+      "March 30, 1933",
+      "Will Renounce Citizenship"
+     ],
+     "text": "Here is the Evening star of March 30, 1933: Will Renounce Citizenship.",
+     "speak": "Here is the Evening star of March thirtieth, 1933: Will Renounce Citizenship."
+    },
+    {
+     "cue": "r5",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0089"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Evening star (Washington, D.C.)",
+      "October 17, 1933",
+      "Einstein Is Hurried Through New York Without Reception"
+     ],
+     "text": "Here is the Evening star of October 17, 1933: Einstein Is Hurried Through New York Without Reception.",
+     "speak": "Here is the Evening star of October seventeenth, 1933: Einstein Is Hurried Through New York Without Reception."
+    },
+    {
+     "cue": "r6",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0090"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The Washington times (Washington [D.C.])",
+      "October 17, 1933",
+      "Dr. Einstein Slips Into New York"
+     ],
+     "text": "Here is The Washington times of October 17, 1933: Dr. Einstein Slips Into New York.",
+     "speak": "Here is The Washington times of October seventeenth, 1933: Doctor Einstein Slips Into New York."
+    },
+    {
+     "cue": "r7",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0091"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Imperial Valley press (El Centro, Calif.)",
+      "October 1, 1940",
+      "Einstein, Serious Of Face, Becomes American Citizen"
+     ],
+     "text": "Here is the Imperial Valley press of October 1, 1940: Einstein, Serious Of Face, Becomes American Citizen.",
+     "speak": "Here is the Imperial Valley press of October first, 1940: Einstein, Serious Of Face, Becomes American Citizen."
+    },
+    {
+     "cue": "r8",
+     "kind": "record",
+     "media_ids": [
+      "EIN-M-0092"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Evening star (Washington, D.C.)",
+      "April 18, 1955",
+      "Einstein Dies At Princeton"
+     ],
+     "text": "Here is the Evening star of April 18, 1955: Einstein Dies At Princeton.",
+     "speak": "Here is the Evening star of April eighteenth, 1955: Einstein Dies At Princeton."
+    },
+    {
+     "cue": "m1",
+     "fact_ids": [
+      "EIN-F-0157"
+     ],
+     "source": "In October 1933, Prof. Albert Einstein sailed for New York from Southampton, England.",
+     "text": "In October 1933, Albert Einstein sailed for New York from Southampton, England."
+    }
+   ]
+  }
+ }
+}

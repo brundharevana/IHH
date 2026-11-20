@@ -1,6 +1,6 @@
 # Review checklist: Hedy Lamarr (lamarr)
 
-Generated 2026-11-02 by tools/export.py (preview export).
+Generated 2026-11-04 by tools/export.py (preview export).
 
 This is a preview. Every block of wordpress.html is stamped "DRAFT — NOT REVIEWED"; do not publish it.
 

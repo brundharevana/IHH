@@ -1,0 +1,550 @@
+{
+ "$comment": "The guide's narration for John Muir, written to sound like a museum guide (owner decision 2026-10-17), in the same way as einstein.json. A fact line's 'source' is the verified claim (data/inductees/muir/facts.jsonl, status verified), verbatim; 'text' is the caption and what is spoken; 'speak' (optional) only spells out an abbreviation or a number for the voice. A 'room-note' line says what the room model shows, not a fact about John Muir: its 'source' lists verbatim excerpts of 'basis' (the room's INVENTORY.md), and it may use no content word, date or number those excerpts lack. assets-src/audio/check_narration.py gates both kinds. Audio: build_guide_audio.py, one clip per line per guide voice.",
+ "inductee": "muir",
+ "chapters": {
+  "1": {
+   "title": "From Dunbar to Fountain Lake",
+   "lines": [
+    {
+     "cue": "c4",
+     "fact_ids": [
+      "MUI-F-0099"
+     ],
+     "source": "From Buffalo, Daniel Muir and his three children traveled across the Great Lakes to Milwaukee and then overland to Kingston.",
+     "text": "From Buffalo, Daniel Muir and his three children traveled across the Great Lakes to Milwaukee, and then overland to Kingston."
+    },
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "MUI-F-0097"
+     ],
+     "source": "In 1849, in the company of his father, sister, and brother, ten-year-old John Muir left Scotland for the United States.",
+     "text": "In 1849, a ten-year-old, he left Scotland for the United States, in the company of his father, sister, and brother."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "MUI-F-0098"
+     ],
+     "source": "In 1849 the Muirs landed in New York City and went by boat to Albany and then across the Erie Canal to Buffalo.",
+     "text": "The Muirs landed in New York City in 1849, and went by boat to Albany, and then across the Erie Canal to Buffalo."
+    },
+    {
+     "cue": "c5",
+     "fact_ids": [
+      "MUI-F-0102"
+     ],
+     "source": "Daniel Muir, John Muir's father, named the farm Fountain Lake.",
+     "text": "His father, Daniel Muir, named the farm Fountain Lake."
+    }
+   ]
+  },
+  "2": {
+   "title": "From Fountain Lake to Yosemite",
+   "lines": [
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "MUI-F-0090"
+     ],
+     "source": "An accident in 1867 nearly blinded John Muir.",
+     "text": "In 1867, an accident nearly blinded John Muir."
+    }
+   ]
+  },
+  "3": {
+   "title": "The house at Martinez",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "MUI-F-0120"
+     ],
+     "source": "In 1880, on April 14, John Muir married Louie Wanda Strentzel.",
+     "text": "In 1880, on April 14, John Muir married Louie Wanda Strentzel.",
+     "speak": "In 1880, on April fourteenth, John Muir married Louie Wanda Strentzel."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "MUI-F-0006"
+     ],
+     "source": "John Muir co-founded the Sierra Club in 1892.",
+     "text": "He co-founded the Sierra Club in 1892."
+    },
+    {
+     "cue": "c5",
+     "fact_ids": [
+      "MUI-F-0043"
+     ],
+     "source": "In 1901 Muir published Our National Parks.",
+     "text": "In 1901, he published Our National Parks."
+    },
+    {
+     "cue": "c7",
+     "fact_ids": [
+      "MUI-F-0014"
+     ],
+     "source": "John Muir wrote and published 12 books.",
+     "text": "He wrote and published 12 books.",
+     "speak": "He wrote and published twelve books."
+    }
+   ]
+  },
+  "5": {
+   "title": "Hickory Hill; Yosemite Creek",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "MUI-F-0107"
+     ],
+     "source": "John Muir and his family moved to their second Wisconsin farm, Hickory Hill.",
+     "text": "John Muir and his family moved to their second Wisconsin farm, Hickory Hill."
+    },
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "MUI-F-0108"
+     ],
+     "source": "John Muir assumed more and more of the work at the new farm, Hickory Hill.",
+     "text": "He assumed more and more of the work at the new farm, Hickory Hill."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "MUI-F-0119"
+     ],
+     "source": "John Muir's cabin was by Yosemite Creek.",
+     "text": "His cabin was by Yosemite Creek."
+    },
+    {
+     "cue": "c4",
+     "fact_ids": [
+      "MUI-F-0105"
+     ],
+     "source": "At the Fountain Lake farm, Muir tried, for the first time, to preserve from human development a piece of land in its wild state.",
+     "text": "At the Fountain Lake farm, he tried, for the first time, to preserve from human development a piece of land in its wild state."
+    },
+    {
+     "cue": "c5",
+     "fact_ids": [
+      "MUI-F-0106"
+     ],
+     "source": "John Muir identified the Fountain Lake farm as the birthplace of his interest in preserving wilderness for its own sake.",
+     "text": "John Muir identified the Fountain Lake farm as the birthplace of his interest in preserving wilderness for its own sake."
+    }
+   ]
+  },
+  "7": {
+   "title": "Room notes: the Hutchings House",
+   "lines": [
+    {
+     "cue": "n1",
+     "kind": "room-note",
+     "fact_ids": [],
+     "basis": "assets-src/muir-hutchings-house/INVENTORY.md",
+     "source": [
+      "a room of the Hutchings hotel complex in Yosemite Valley as photographed about 1902",
+      "built round the trunk of an incense cedar",
+      "It is not John Muir's cabin."
+     ],
+     "text": "This is a room of the Hutchings hotel complex in Yosemite Valley, built round the trunk of an incense cedar. It is not John Muir's cabin."
+    }
+   ]
+  },
+  "9": {
+   "title": "Hetch Hetchy and the Sierra Club",
+   "lines": [
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "MUI-F-0070"
+     ],
+     "source": "John Muir and other leading preservationists signed a petition that the Society for the Preservation of National Parks submitted to Congress.",
+     "text": "John Muir and other leading preservationists signed a petition that the Society for the Preservation of National Parks submitted to Congress."
+    },
+    {
+     "cue": "c5",
+     "fact_ids": [
+      "MUI-F-0081"
+     ],
+     "source": "John Muir died in Los Angeles.",
+     "text": "He died in Los Angeles."
+    },
+    {
+     "cue": "c6",
+     "fact_ids": [
+      "MUI-F-0071"
+     ],
+     "source": "The petition signed by John Muir urged Congress to defeat the Raker Bill, which called for a dam to be built across the Hetch Hetchy Valley.",
+     "text": "The petition signed by him urged Congress to defeat the Raker Bill, which called for a dam to be built across the Hetch Hetchy Valley."
+    }
+   ]
+  },
+  "13": {
+   "title": "Records at the stops (what each shows, and why it matters here)",
+   "lines": [
+    {
+     "cue": "r1",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0062"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Images of the passport application of John Muir, Year of Birth: 1838, in Volume 995: May 1 to 6, 1903"
+     ],
+     "text": "Here is the passport application of John Muir, from 1903, with his Year of Birth: 1838."
+    },
+    {
+     "cue": "r5",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0034"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Sketch of John Muir’s clock design, 1863. The built clock was a combination of scythes, wheels and arrows."
+     ],
+     "text": "Here is his clock design of 1863, sketched by John Muir. The built clock was a combination of scythes, wheels and arrows."
+    },
+    {
+     "cue": "r6",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0035"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Muir’s illustration of a means to record time by use of a star, 1863, titled “The star hand rising and setting with the sun all the year”."
+     ],
+     "text": "This is his illustration, from 1863, of a means to record time by use of a star, titled The star hand rising and setting with the sun all the year."
+    },
+    {
+     "cue": "r8",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0063"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Muir’s signature in Grand Register",
+      "Photographer: Ralph H. Anderson"
+     ],
+     "text": "Here is Muir’s signature in the Grand Register, photographed by Ralph H. Anderson."
+    },
+    {
+     "cue": "r10",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0064"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Pellaea ornithopus (Pteridaceae), BRIT461292, John Muir, 1875, Sierra Nevada, California, United States."
+     ],
+     "text": "On this sheet is Pellaea ornithopus, from John Muir, 1875, in the Sierra Nevada, California."
+    },
+    {
+     "cue": "r11",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0020"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Self Portrait of John Muir in a letter to Miss Janet Douglass Moores"
+     ],
+     "text": "Here is the Self Portrait of John Muir, in a letter to Miss Janet Douglass Moores."
+    },
+    {
+     "cue": "r12",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0082"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Hetch - Hetchy Valley, Sierra Nevada Mts., Calif.; photographic print, c1911, copyright deposit by Matt Ashby Wolfskill (Film No. 15, 1911)."
+     ],
+     "text": "This photographic print of the Hetch Hetchy Valley, in the Sierra Nevada, is by Matt Ashby Wolfskill, 1911."
+    },
+    {
+     "cue": "r15",
+     "kind": "record",
+     "media_ids": [
+      "MUI-SERIES-FOUNTAIN-1923"
+     ],
+     "fact_ids": [
+      "MUI-F-0100"
+     ],
+     "source": [
+      "Muir’s Fountain Lake Home",
+      "1923",
+      "John Muir lived continually at the Fountain Lake farm from 1849-1856."
+     ],
+     "text": "Here are photographs of Muir’s Fountain Lake Home, from 1923. He lived continually at the Fountain Lake farm from 1849 to 1856."
+    },
+    {
+     "cue": "r16",
+     "kind": "record",
+     "media_ids": [
+      "MUI-SERIES-GLACIER-1903"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Underwood & Underwood",
+      "1903",
+      "President Roosevelt’s choicest recreation - amid nature’s rugged grandeur on Glacier Point, Yosemite",
+      "Theodore Roosevelt and John Muir on Glacier Point"
+     ],
+     "text": "Here are photographs by Underwood & Underwood, of 1903: President Roosevelt on Glacier Point, Yosemite, and Theodore Roosevelt and John Muir on Glacier Point.",
+     "speak": "Here are photographs by Underwood and Underwood, of 1903: President Roosevelt on Glacier Point, Yosemite, and Theodore Roosevelt and John Muir on Glacier Point."
+    }
+   ]
+  },
+  "birth": {
+   "opening": {
+    "text": "John Muir was born on April 21, 1838, at 126 and 128 High Street, in Dunbar, Scotland. Take a moment and look around.",
+    "source": [
+     "John Muir was born April 21, 1838.",
+     "In 1838, on April 21, John Muir was born in Dunbar, Scotland.",
+     "John Muir's birthplace is 126 and 128 High Street, Dunbar."
+    ],
+    "fact_ids": [
+     "MUI-F-0001",
+     "MUI-F-0092",
+     "MUI-F-0145"
+    ],
+    "speak": "John Muir was born on April twenty-first, 1838, at one twenty-six and one twenty-eight High Street, in Dunbar, Scotland. Take a moment and look around."
+   }
+  },
+  "arriving": {
+   "opening": {
+    "text": "John Muir immigrated from Scotland to Wisconsin, to the Fountain Lake farm. Its farmhouse, made of white pine, was completed in October 1849, and in early November 1849 the rest of his family arrived from Scotland. Take a moment here.",
+    "source": [
+     "John Muir immigrated from Scotland to Wisconsin.",
+     "John Muir lived continually at the Fountain Lake farm from 1849-1856.",
+     "The farmhouse on the Muir farm, made of white pine, was completed in October 1849.",
+     "In early November 1849 the rest of John Muir's family arrived from Scotland."
+    ],
+    "fact_ids": [
+     "MUI-F-0082",
+     "MUI-F-0100",
+     "MUI-F-0103",
+     "MUI-F-0104"
+    ]
+   }
+  },
+  "first-work": {
+   "opening": {
+    "text": "In 1860, John Muir exhibited his inventions at the State Fair in Madison. He had a dormitory room in North Hall. Walk around, if you like.",
+    "source": [
+     "John Muir was an inventor.",
+     "In 1860 Muir exhibited inventions at the State Fair in Madison.",
+     "Muir had a dormitory room in North Hall."
+    ],
+    "fact_ids": [
+     "MUI-F-0091",
+     "MUI-F-0111",
+     "MUI-F-0153"
+    ]
+   }
+  },
+  "big-work": {
+   "opening": {
+    "text": "John Muir first visited Yosemite in 1868, a year after the accident. In 1871, Emerson visited him in Yosemite. Walk around, if you like.",
+    "source": [
+     "In 1871 Emerson visited Muir in Yosemite.",
+     "An accident in 1867 nearly blinded John Muir.",
+     "Muir's first visit to Yosemite was in 1868."
+    ],
+    "fact_ids": [
+     "MUI-F-0084",
+     "MUI-F-0090",
+     "MUI-F-0141"
+    ]
+   }
+  },
+  "study": {
+   "kind": "big-work",
+   "opening": {
+    "text": "In 1890, ten years after he married Louie Wanda Strentzel, John Muir and the Muir family move into the big house in Martinez. Take a moment and look around.",
+    "source": [
+     "In 1880, on April 14, John Muir married Louie Wanda Strentzel.",
+     "In 1890 the Muir family moves into the big house.",
+     "Mr. John Muir of Martinez was President of the California Branch of the Society for the Preservation of National Parks."
+    ],
+    "fact_ids": [
+     "MUI-F-0120",
+     "MUI-F-0123",
+     "MUI-F-0142"
+    ]
+   }
+  },
+  "history": {
+   "opening": {
+    "text": "In 1903, John Muir and President Theodore Roosevelt walked over to Glacier Point. That was two years after Muir published Our National Parks. Take a moment and look around.",
+    "source": [
+     "In 1901 Muir published Our National Parks.",
+     "Theodore Roosevelt and John Muir were on Glacier Point, Yosemite Valley, California, in 1903.",
+     "The President and Muir walked over to Glacier Point."
+    ],
+    "fact_ids": [
+     "MUI-F-0043",
+     "MUI-F-0146",
+     "MUI-F-0148"
+    ]
+   }
+  },
+  "legacy": {
+   "opening": {
+    "text": "In 1911, John Muir published My First Summer in the Sierra. He was a preservationist, and President of the California Branch of the Society for the Preservation of National Parks; here is the Hetch Hetchy Valley. Have a look around.",
+    "source": [
+     "In 1911 Muir published My First Summer in the Sierra.",
+     "The petition signed by John Muir urged Congress to defeat the Raker Bill, which called for a dam to be built across the Hetch Hetchy Valley.",
+     "John Muir was a preservationist.",
+     "Mr. John Muir of Martinez was President of the California Branch of the Society for the Preservation of National Parks."
+    ],
+    "fact_ids": [
+     "MUI-F-0046",
+     "MUI-F-0071",
+     "MUI-F-0078",
+     "MUI-F-0142"
+    ]
+   }
+  },
+  "14": {
+   "title": "Glacier Point, 1903",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "MUI-F-0149"
+     ],
+     "source": "Four photographs were made of the President on the overhanging rock by his personal photographer; in two of these he is alone and in the others he is with Muir.",
+     "text": "Four photographs were made of the President on the overhanging rock by his personal photographer; in two of these he is alone and in the others he is with Muir."
+    }
+   ]
+  },
+  "21": {
+   "title": "Round 9: more records per chapter (owner directive 2026-10-29)",
+   "lines": [
+    {
+     "cue": "r1",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0094"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The story of my boyhood and youth, by John Muir",
+      "A Boyhood in Scotland",
+      "on his native town of Dunbar"
+     ],
+     "text": "Here is The story of my boyhood and youth, by John Muir: A Boyhood in Scotland, on his native town of Dunbar."
+    },
+    {
+     "cue": "r2",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0095"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Our First Wisconsin Home, from a sketch by the author"
+     ],
+     "text": "Here is Our First Wisconsin Home, from a sketch by the author."
+    },
+    {
+     "cue": "r3",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0096"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Muir's Lake (Fountain Lake) and the Garden Meadow, from a sketch by the author"
+     ],
+     "text": "Here is Muir's Lake, Fountain Lake, and the Garden Meadow, from a sketch by the author."
+    },
+    {
+     "cue": "r4",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0097"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Combined Thermometer, Hygrometer, Barometer, and Pyrometer, invented by the author in his boyhood"
+     ],
+     "text": "Here is the Combined Thermometer, Hygrometer, Barometer, and Pyrometer, invented by the author in his boyhood."
+    },
+    {
+     "cue": "r5",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0098"
+     ],
+     "fact_ids": [],
+     "source": [
+      "My first summer in the Sierra, by John Muir"
+     ],
+     "text": "Here is My first summer in the Sierra, by John Muir."
+    },
+    {
+     "cue": "r6",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0066"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Articles of association, articles of incorporation, by-laws, and list of charter members of the Sierra club"
+     ],
+     "text": "Here are the Articles of association, articles of incorporation, by-laws, and list of charter members of the Sierra club."
+    },
+    {
+     "cue": "r7",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0099"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Our national parks, by John Muir"
+     ],
+     "text": "Here is Our national parks, by John Muir."
+    },
+    {
+     "cue": "r8",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0065"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Let everyone help to save the famous Hetch-Hetchy Valley and stop the commercial destruction which threatens our national parks"
+     ],
+     "text": "Here is Let everyone help to save the famous Hetch-Hetchy Valley and stop the commercial destruction which threatens our national parks."
+    },
+    {
+     "cue": "r10",
+     "kind": "record",
+     "media_ids": [
+      "MUI-M-0100"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The San Francisco call (San Francisco [Calif.])",
+      "May 18, 1903",
+      "President Roosevelt in Yosemite"
+     ],
+     "text": "Here is The San Francisco call of May 18, 1903: President Roosevelt in Yosemite.",
+     "speak": "Here is The San Francisco call of May eighteenth, 1903: President Roosevelt in Yosemite."
+    }
+   ]
+  }
+ }
+}

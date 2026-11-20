@@ -174,7 +174,7 @@ Run from the project root.
 
 ```bash
 python3 tools/new_inductee.py <slug> --name "<Full Name>" --code <CODE> [--ihh-url <url>]
-python3 tools/fetch_snapshot.py <slug> <SRC>                  # exit 2: blocked, use the browser fallback
+python3 tools/fetch_snapshot.py <slug> <SRC>                  # exit 2: a block (403, 429, challenge) is deferred to staging/check-by-hand.jsonl; only a JavaScript-only page may be read in a browser
 python3 tools/fetch_snapshot.py <slug> <SRC> --from-file page.txt --method browser   # or --method manual
 python3 tools/merge_staging.py <slug>                          # staging/*.jsonl -> permanent ids
 python3 tools/apply_rights_rule.py <slug>|--all [--dry-run]    # approved LoC/NARA rights rule on media on file

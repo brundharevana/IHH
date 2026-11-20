@@ -1,0 +1,503 @@
+{
+ "$comment": "The guide's narration for Hedy Lamarr, written to sound like a museum guide (owner decision 2026-10-17), in the same way as einstein.json. A fact line's 'source' is the verified claim (data/inductees/lamarr/facts.jsonl, status verified), verbatim; 'text' is the caption and what is spoken; 'speak' (optional) only spells out an abbreviation or a number for the voice. A 'room-note' line says what the room model shows, not a fact about Hedy Lamarr: its 'source' lists verbatim excerpts of 'basis' (the room's INVENTORY.md), and it may use no content word, date or number those excerpts lack. A chapter keyed by its kind (birth, arriving, ...) carries that chapter's opening line (spec 2.5), voiced as 'lamarr:ch:<kind>:opening'. assets-src/audio/check_narration.py gates every kind. Audio: build_guide_audio.py, one clip per line per guide voice.",
+ "inductee": "lamarr",
+ "chapters": {
+  "1": {
+   "title": "From Vienna to Los Angeles",
+   "lines": [
+    {
+     "cue": "c6",
+     "fact_ids": [
+      "LAM-F-0089"
+     ],
+     "source": "In 1942, Lamarr's married name was Hedy Kiesler Markey.",
+     "text": "In 1942, her married name was Hedy Kiesler Markey."
+    },
+    {
+     "cue": "c5",
+     "fact_ids": [
+      "LAM-F-0084"
+     ],
+     "source": "Lamarr and Antheil were awarded U.S. Patent 2,292,387 in 1942.",
+     "text": "She and Antheil were awarded U.S. Patent 2,292,387 in 1942.",
+     "speak": "She and Antheil were awarded U.S. Patent two million, two hundred ninety-two thousand, three hundred eighty-seven, in 1942."
+    },
+    {
+     "cue": "c7",
+     "fact_ids": [
+      "LAM-F-0094"
+     ],
+     "source": "The Secret Communication System contemplates employing records of the type used for many years in player pianos, which consist of long rolls of paper having perforations.",
+     "text": "The Secret Communication System contemplates employing records of the type used for many years in player pianos, which consist of long rolls of paper having perforations."
+    },
+    {
+     "cue": "c8",
+     "fact_ids": [
+      "LAM-F-0095"
+     ],
+     "source": "In a conventional player piano record there may be 88 rows of perforations, and in the Secret Communication System such a record would permit the use of 88 different carrier frequencies.",
+     "text": "In a conventional player piano record there may be 88 rows of perforations, and in the Secret Communication System such a record would permit the use of 88 different carrier frequencies."
+    },
+    {
+     "cue": "c9",
+     "fact_ids": [
+      "LAM-F-0092"
+     ],
+     "source": "The United States Patent Office allowed the application of Hedy Kiesler Markey for a patent for the Secret Communication System with 6 claims; Notice of Allowance NOV 13 1941.",
+     "text": "The United States Patent Office allowed the application of Hedy Kiesler Markey for a patent for the Secret Communication System, with 6 claims: a Notice of Allowance, November 13, 1941.",
+     "speak": "The United States Patent Office allowed the application of Hedy Kiesler Markey for a patent for the Secret Communication System, with six claims: a Notice of Allowance, November thirteenth, 1941."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "LAM-F-0086"
+     ],
+     "source": "In 1940 Lamarr met George Antheil.",
+     "text": "In 1940, she met George Antheil."
+    }
+   ]
+  },
+  "6": {
+   "title": "Later records",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "LAM-F-0062"
+     ],
+     "source": "THE ARMY HOUR of 1954-03-05 has a COMMAND PERFORMANCE comedy sequence from Hollywood, California, with Milton Berle, Hedy LaMarr and Edward G. Robinson.",
+     "text": "On March 5, 1954, THE ARMY HOUR had a Command Performance comedy sequence from Hollywood, California, with Milton Berle, Hedy LaMarr and Edward G. Robinson.",
+     "speak": "On March fifth, 1954, The Army Hour had a Command Performance comedy sequence from Hollywood, California, with Milton Berle, Hedy LaMarr and Edward G. Robinson."
+    },
+    {
+     "cue": "c2",
+     "fact_ids": [
+      "LAM-F-0063"
+     ],
+     "source": "The Radio Scripts files for the broadcast Command Performance contain studio photographs of program participants, including Hedy Lamarr.",
+     "text": "The Radio Scripts files for the broadcast Command Performance contain studio photographs of program participants, including Hedy Lamarr."
+    },
+    {
+     "cue": "c3",
+     "fact_ids": [
+      "LAM-F-0085"
+     ],
+     "source": "The Electronic Frontier Foundation awarded Lamarr and Antheil the Pioneer Award.",
+     "text": "The Electronic Frontier Foundation awarded her and Antheil the Pioneer Award."
+    },
+    {
+     "cue": "c5",
+     "fact_ids": [
+      "LAM-F-0083"
+     ],
+     "source": "Lamarr died in 2000 at the age of 85.",
+     "text": "Lamarr died in 2000 at the age of 85."
+    },
+    {
+     "cue": "c6",
+     "fact_ids": [
+      "LAM-F-0110"
+     ],
+     "source": "Hedy Lamarr's ashes were buried at the Vienna Central Cemetery.",
+     "text": "Her ashes were buried at the Vienna Central Cemetery."
+    },
+    {
+     "cue": "c7",
+     "fact_ids": [
+      "LAM-F-0087"
+     ],
+     "source": "Hedy Lamarr starred in Samson and Delilah.",
+     "text": "She starred in Samson and Delilah."
+    }
+   ]
+  },
+  "9": {
+   "title": "Records at the stops (what each shows, and why it matters here)",
+   "lines": [
+    {
+     "cue": "r1",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0030"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The busy Graben, Vienna, Austria; stereograph"
+     ],
+     "text": "This stereograph shows the busy Graben, Vienna, Austria."
+    },
+    {
+     "cue": "r2",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0023"
+     ],
+     "fact_ids": [],
+     "source": [
+      "arriving in New York Harbor on maiden voyage",
+      "Library of Congress Prints and Photographs Division"
+     ],
+     "text": "Here is New York Harbor, with a maiden voyage arriving, in a photograph from the Library of Congress."
+    },
+    {
+     "cue": "r3",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0022"
+     ],
+     "fact_ids": [],
+     "source": [
+      "This file contains a certificate of arrival, declaration of intention, affidavits of witnesses, and petition for naturalization",
+      "National Archives at Riverside"
+     ],
+     "text": "Here is her naturalization file, at the National Archives at Riverside: a certificate of arrival, a declaration of intention, affidavits of witnesses, and a petition for naturalization."
+    },
+    {
+     "cue": "r4",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0013"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Portrait of actress Hedy Lamarr",
+      "University of California, Los Angeles"
+     ],
+     "text": "Here is a portrait of the actress Hedy Lamarr, from the University of California, Los Angeles."
+    },
+    {
+     "cue": "r6",
+     "kind": "record",
+     "media_ids": [
+      "LAM-MECHANISM-RECREATION"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Recreation from the patent drawings (U.S. Patent 2,292,387)",
+      "A 3D recreation of the record mechanism in the patent drawings: a perforated paper record running from one spool over a tracker to another"
+     ],
+     "text": "This mechanism is a recreation from the patent drawings: a perforated paper record running from one spool over a tracker to another."
+    },
+    {
+     "cue": "r7",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0001"
+     ],
+     "fact_ids": [
+      "LAM-F-0097"
+     ],
+     "source": [
+      "Patent 2,292,387, Secret Communication System, is by Hedy Kiesler Markey of Los Angeles and George Antheil of Manhattan Beach, Calif."
+     ],
+     "text": "Here is the patent, by Hedy Kiesler Markey of Los Angeles and George Antheil of Manhattan Beach, Calif.",
+     "speak": "Here is the patent, by Hedy Kiesler Markey of Los Angeles and George Antheil of Manhattan Beach, California."
+    },
+    {
+     "cue": "r8",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0014"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Actress Heddy LaMarr at the \"Tales of Manhattan\" film premiere in Los Angeles, Calif., August 5, 1942."
+     ],
+     "text": "Here she is, as Heddy LaMarr, at the Tales of Manhattan film premiere in Los Angeles, Calif., on August 5, 1942.",
+     "speak": "Here she is, as Heddy LaMarr, at the Tales of Manhattan film premiere in Los Angeles, California, on August fifth, 1942."
+    },
+    {
+     "cue": "r10",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0015"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Actress Hedy LaMarr and John Loder in courtroom",
+      "May 20, 1946"
+     ],
+     "text": "Here are actress Hedy LaMarr and John Loder in courtroom, May 20, 1946."
+    },
+    {
+     "cue": "r12",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0015"
+     ],
+     "fact_ids": [
+      "LAM-F-0102",
+      "LAM-F-0105"
+     ],
+     "source": [
+      "Mrs. Hedwig Loder's father was the late Emil Kiesler of Vienna.",
+      "Mrs. Gertrude Kiesler was the mother of Mrs. Hedwig Loder."
+     ],
+     "text": "Her father was the late Emil Kiesler of Vienna, and her mother was Mrs. Gertrude Kiesler."
+    }
+   ]
+  },
+  "birth": {
+   "opening": {
+    "text": "Hedy Lamarr was born Hedwig Eva Maria Kiesler, in Vienna, Austria, on November 9, 1914. Take a moment and look around.",
+    "source": [
+     "Hedy Lamarr was born Nov. 9, 1914.",
+     "Hedy Lamarr was born in Vienna, Austria in 1914.",
+     "Hedy Lamarr was born Hedwig Eva Maria Kiesler."
+    ],
+    "fact_ids": [
+     "LAM-F-0012",
+     "LAM-F-0064",
+     "LAM-F-0065"
+    ]
+   }
+  },
+  "arriving": {
+   "opening": {
+    "text": "In October 1937, Hedy Kiesler was here in person, as New York saw her. Have a look around.",
+    "source": [
+     "The Waterbury Democrat (Waterbury, Conn.), October 4, 1937, on Austrian Hedy Kiesler: Now Miss Kiesler is here in person (above as New York saw her)."
+    ],
+    "fact_ids": [
+     "LAM-F-0100"
+    ]
+   }
+  },
+  "first-work": {
+   "opening": {
+    "text": "In 1940, three years after New York saw her, Hedy Lamarr was in Boom Town, a Metro-Goldwyn-Mayer picture. Walk around, if you like.",
+    "source": [
+     "The 1940 motion picture poster for the Metro-Goldwyn-Mayer picture Boom Town shows Hedy Lamarr in scenes from the movie.",
+     "The Waterbury Democrat (Waterbury, Conn.), October 4, 1937, on Austrian Hedy Kiesler: Now Miss Kiesler is here in person (above as New York saw her)."
+    ],
+    "fact_ids": [
+     "LAM-F-0044",
+     "LAM-F-0100"
+    ]
+   }
+  },
+  "big-work": {
+   "opening": {
+    "text": "In 1941, a year after Hedy Lamarr met George Antheil, she and Antheil signed at Los Angeles as inventors of the Secret Communication System. The Secret Communication System was filed June 10, 1941. Take your time here.",
+    "source": [
+     "In 1940 Lamarr met George Antheil.",
+     "Secret Communication System, by Hedy Kiesler Markey and George Antheil, was filed June 10, 1941.",
+     "In 1941 Hedy Kiesler Markey and George Antheil signed at Los Angeles, Calif., as inventors of the Secret Communication System."
+    ],
+    "fact_ids": [
+     "LAM-F-0086",
+     "LAM-F-0091",
+     "LAM-F-0096"
+    ]
+   }
+  },
+  "history": {
+   "opening": {
+    "text": "In 1942, Hedy Lamarr, as Heddy Lamar [sic], was on war bond tours with the film entertainers. Take your time here.",
+    "source": [
+     "EVERYBODY JOINS U.S. WAR EFFORT [ETC.] (1942) has film entertainers on war bond tours, including Heddy Lamar.",
+     "On the September bond selling tour of the motion picture stars, Hedy Lamarr was at a rally at Military Common, Orange, N. J."
+    ],
+    "fact_ids": [
+     "LAM-F-0061",
+     "LAM-F-0109"
+    ],
+    "speak": "In 1942, Hedy Lamarr, as Heddy Lamar, was on war bond tours with the film entertainers. Take your time here."
+   }
+  },
+  "honoured": {
+   "opening": {
+    "text": "In 2014, fourteen years after she died, Hedy Lamarr, an inventor, was inducted into the National Inventors Hall of Fame. Have a look around.",
+    "source": [
+     "In 2014 Hedy Lamarr was inducted into the National Inventors Hall of Fame.",
+     "Hedy Lamarr was an inventor.",
+     "Lamarr died in 2000 at the age of 85."
+    ],
+    "fact_ids": [
+     "LAM-F-0006",
+     "LAM-F-0040",
+     "LAM-F-0083"
+    ]
+   }
+  },
+  "legacy": {
+   "opening": {
+    "text": "By marriage, Miss Hedy Lamarr became Mrs. Hedwig Loder. Take a moment and look around.",
+    "source": [
+     "Miss Hedy Lamarr by marriage became Mrs. Hedwig Loder."
+    ],
+    "fact_ids": [
+     "LAM-F-0107"
+    ]
+   }
+  },
+  "8": {
+   "title": "Round 7: the war years",
+   "lines": [
+    {
+     "cue": "c1",
+     "fact_ids": [
+      "LAM-F-0109"
+     ],
+     "source": "On the September bond selling tour of the motion picture stars, Hedy Lamarr was at a rally at Military Common, Orange, N. J.",
+     "text": "On the September bond selling tour of the motion picture stars, Hedy Lamarr was at a rally at Military Common, Orange, N. J."
+    }
+   ]
+  },
+  "21": {
+   "title": "Round 9: more records per chapter (owner directive 2026-10-29)",
+   "lines": [
+    {
+     "cue": "r1",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0031"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Hedy Lamarr a Citizen",
+      "1953",
+      "Evening star (Washington, D.C.)"
+     ],
+     "text": "Here is the Evening star of 1953: Hedy Lamarr a Citizen.",
+     "speak": "Here is the Evening star of 1953: Hedy Lamarr a Citizen."
+    },
+    {
+     "cue": "r2",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0032"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The Bismarck tribune (Bismarck, N.D.)",
+      "October 4, 1937",
+      "Austrian Hedy Kiesler is here in person, as New York saw her"
+     ],
+     "text": "Here is The Bismarck tribune of October 4, 1937: Austrian Hedy Kiesler is here in person, as New York saw her.",
+     "speak": "Here is The Bismarck tribune of October fourth, 1937: Austrian Hedy Kiesler is here in person, as New York saw her."
+    },
+    {
+     "cue": "r3",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0033"
+     ],
+     "fact_ids": [
+      "LAM-F-0020"
+     ],
+     "source": [
+      "The Washington times (Washington [D.C.])",
+      "October 6, 1937",
+      "LaMarr Now",
+      "Hedy Lamarr was born Hedwig Kiesler."
+     ],
+     "text": "Here is The Washington times of October 6, 1937: LaMarr Now. Hedy Lamarr was born Hedwig Kiesler.",
+     "speak": "Here is The Washington times of October sixth, 1937: LaMarr Now. Hedy Lamarr was born Hedwig Kiesler."
+    },
+    {
+     "cue": "r4",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0034"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Evening star (Washington, D.C.)",
+      "August 15, 1940",
+      "Enchanting Hedy Lamarr",
+      "soon to appear in M-G-M's feature Boom Town"
+     ],
+     "text": "Here is the Evening star of August 15, 1940: Enchanting Hedy Lamarr, soon to appear in M-G-M's feature Boom Town.",
+     "speak": "Here is the Evening star of August fifteenth, 1940: Enchanting Hedy Lamarr, soon to appear in M G M's feature Boom Town."
+    },
+    {
+     "cue": "r5",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0035"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The Waterbury Democrat (Waterbury, Conn.)",
+      "August 30, 1940",
+      "Boom Town"
+     ],
+     "text": "Here is The Waterbury Democrat of August 30, 1940, on Boom Town.",
+     "speak": "Here is The Waterbury Democrat of August thirtieth, 1940, on Boom Town."
+    },
+    {
+     "cue": "r6",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0037"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The East Hartford gazette (East Hartford, Conn.)",
+      "September 4, 1942",
+      "the stars' bond drive; Hedy Lamarr was in the group"
+     ],
+     "text": "Here is The East Hartford gazette of September 4, 1942, on the stars' bond drive: Hedy Lamarr was in the group.",
+     "speak": "Here is The East Hartford gazette of September fourth, 1942, on the stars' bond drive: Hedy Lamarr was in the group."
+    },
+    {
+     "cue": "r7",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0038"
+     ],
+     "fact_ids": [],
+     "source": [
+      "The Waterbury Democrat (Waterbury, Conn.)",
+      "September 16, 1942",
+      "Hedy Lamarr on the bond selling tour of the motion picture stars"
+     ],
+     "text": "Here is The Waterbury Democrat of September 16, 1942: Hedy Lamarr on the bond selling tour of the motion picture stars.",
+     "speak": "Here is The Waterbury Democrat of September sixteenth, 1942: Hedy Lamarr on the bond selling tour of the motion picture stars."
+    },
+    {
+     "cue": "r8",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0039"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Evening star (Washington, D.C.)",
+      "1953",
+      "Drama-Laden Rite Makes American Of Hedy Lamarr"
+     ],
+     "text": "Here is the Evening star of 1953: Drama-Laden Rite Makes American Of Hedy Lamarr.",
+     "speak": "Here is the Evening star of 1953: Drama-Laden Rite Makes American Of Hedy Lamarr."
+    },
+    {
+     "cue": "r9",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0036"
+     ],
+     "fact_ids": [],
+     "source": [
+      "Patent 2,292,387, Secret Communication System"
+     ],
+     "text": "Here is Patent 2,292,387, Secret Communication System."
+    },
+    {
+     "cue": "m1",
+     "kind": "record",
+     "media_ids": [
+      "LAM-M-0023"
+     ],
+     "fact_ids": [
+      "LAM-F-0100"
+     ],
+     "source": [
+      "The Waterbury Democrat (Waterbury, Conn.), October 4, 1937, on Austrian Hedy Kiesler: Now Miss Kiesler is here in person"
+     ],
+     "text": "The Waterbury Democrat, of Waterbury, Conn., on October 4, 1937, on Austrian Hedy Kiesler: Now Miss Kiesler is here in person."
+    }
+   ]
+  }
+ }
+}

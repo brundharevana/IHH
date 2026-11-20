@@ -22,7 +22,16 @@ site/dist-e2e/
 site/.dev-audio/
 
 # Owner-downloaded scan originals (large; provenance in content/scans/*.json)
-assets-src/
+assets-src/*
+# Narration scripts and their checks are small text and needed by the tests
+!assets-src/audio/
+assets-src/audio/*
+!assets-src/audio/check_narration.py
+!assets-src/audio/build_guide_audio.py
+!assets-src/audio/speech_norm.py
+!assets-src/audio/narration/
+assets-src/audio/narration/*
+!assets-src/audio/narration/*.json
 3d designs/
 
 # Basis transcoder copied from three at dev/build time (scripts/copy-basis.mjs)
@@ -30,3 +39,6 @@ site/public/basis/
 
 # Local privacy denylist for tools/tests/test_export_privacy.py (names never committed)
 .privacy-denylist
+
+# Handoff packages for IHH: build outputs of tools/handoff_bundle.py
+/handoff/
