@@ -60,7 +60,7 @@ Then open http://localhost:5173 (landing), `/tour.html` and `/embed.html`. Usefu
 
 Tests: `npm test` (Vitest) and `npm run lint`.
 
-`npm run build` runs content gates before building. Two of them read `assets-src/` (source scans and narration audio), which is kept out of this repository because of its size, so a full build needs that folder.
+`npm run build` runs content gates before building. Several of them read `assets-src/` (source scans, texture declarations and narration audio), which is kept out of this repository because of its size, so a full build needs that folder. The dev server does not. From this repository alone, `npm test` passes except the tests that read the narration scripts in `assets-src/audio/narration/` (the five tour data tests, the narration and records tests, and one content-gate test).
 
 ## Run the fact pipeline checks
 
